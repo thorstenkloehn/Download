@@ -1,0 +1,1153 @@
+<mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="de">
+  <siteinfo>
+    <sitename>ahrensburg.city</sitename>
+    <dbname>mediawiki</dbname>
+    <base>https://wiki.ahrensburg.city/Hauptseite</base>
+    <generator>MediaWiki 1.39.8</generator>
+    <case>first-letter</case>
+    <namespaces>
+      <namespace key="-2" case="first-letter">Medium</namespace>
+      <namespace key="-1" case="first-letter">Spezial</namespace>
+      <namespace key="0" case="first-letter" />
+      <namespace key="1" case="first-letter">Diskussion</namespace>
+      <namespace key="2" case="first-letter">Benutzer</namespace>
+      <namespace key="3" case="first-letter">Benutzer Diskussion</namespace>
+      <namespace key="4" case="first-letter">Ahrensburg.city</namespace>
+      <namespace key="5" case="first-letter">Ahrensburg.city Diskussion</namespace>
+      <namespace key="6" case="first-letter">Datei</namespace>
+      <namespace key="7" case="first-letter">Datei Diskussion</namespace>
+      <namespace key="8" case="first-letter">MediaWiki</namespace>
+      <namespace key="9" case="first-letter">MediaWiki Diskussion</namespace>
+      <namespace key="10" case="first-letter">Vorlage</namespace>
+      <namespace key="11" case="first-letter">Vorlage Diskussion</namespace>
+      <namespace key="12" case="first-letter">Hilfe</namespace>
+      <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
+      <namespace key="14" case="first-letter">Kategorie</namespace>
+      <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+    </namespaces>
+  </siteinfo>
+  <page>
+    <title>Hauptseite</title>
+    <ns>0</ns>
+    <id>1</id>
+    <revision>
+      <id>1</id>
+      <timestamp>2024-08-07T20:24:27Z</timestamp>
+      <contributor>
+        <username>MediaWiki default</username>
+        <id>2</id>
+      </contributor>
+      <origin>1</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="827" sha1="ijyt2ix39wzb50jz3zqzbv6c2qkshij" xml:space="preserve">&lt;strong&gt;MediaWiki wurde installiert.&lt;/strong&gt;
+
+Hilfe zur Verwendung und Konfiguration der Wiki-Software findest du im [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Benutzerhandbuch].
+
+== Starthilfen ==
+
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Liste der Konfigurationsparameter]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ Häufige Fragen zu MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Mailingliste zu neuen Versionen von MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Übersetze MediaWiki für deine Sprache]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam Erfahre, wie du Spam auf deinem Wiki bekämpfen kannst]</text>
+      <sha1>ijyt2ix39wzb50jz3zqzbv6c2qkshij</sha1>
+    </revision>
+    <revision>
+      <id>2</id>
+      <parentid>1</parentid>
+      <timestamp>2024-08-07T20:52:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>2</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="145" sha1="mtd78l0kt5b2asv5twpaqwada8fy7oh" xml:space="preserve">&lt;markdown&gt;
+## Emphasis
+
+**This is bold text**
+
+__This is bold text__
+
+*This is italic text*
+
+_This is italic text_
+
+~~Strikethrough~~
+&lt;/markdown&gt;</text>
+      <sha1>mtd78l0kt5b2asv5twpaqwada8fy7oh</sha1>
+    </revision>
+    <revision>
+      <id>3</id>
+      <parentid>2</parentid>
+      <timestamp>2024-08-07T21:36:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>3</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="7uwn16nl6yr4qe5fkylebcwnki1zq04" xml:space="preserve">## Was ist eine Wiki?
+Eine Wiki ist eine Webseite, die von den Benutzern nicht nur gelesen, sondern auch verändert werden kann. Das Wort "Wiki" kommt aus dem Hawaiianischen und bedeutet "schnell". Das bekannteste Wiki ist die Wikipedia, eine freie Enzyklopädie, die von Freiwilligen erstellt und gepflegt wird.</text>
+      <sha1>7uwn16nl6yr4qe5fkylebcwnki1zq04</sha1>
+    </revision>
+    <revision>
+      <id>4</id>
+      <parentid>3</parentid>
+      <timestamp>2024-08-07T21:37:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>4</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="315" sha1="qb5v2h0p4vqapcc7lopr0h9o0puxov0" xml:space="preserve">== Was ist eine Wiki? ==
+Eine Wiki ist eine Webseite, die von den Benutzern nicht nur gelesen, sondern auch verändert werden kann. Das Wort "Wiki" kommt aus dem Hawaiianischen und bedeutet "schnell". Das bekannteste Wiki ist die Wikipedia, eine freie Enzyklopädie, die von Freiwilligen erstellt und gepflegt wird.</text>
+      <sha1>qb5v2h0p4vqapcc7lopr0h9o0puxov0</sha1>
+    </revision>
+    <revision>
+      <id>5</id>
+      <parentid>4</parentid>
+      <timestamp>2024-08-07T21:39:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>5</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1550" sha1="q1d8o053e08fqeesr1sia8rwxqo3eav" xml:space="preserve">== Ahrensburg Wiki ==
+Was ist Ahrensburg Wiki.Aktuelles in Ahrensburg. Ahrensburgs Geschichte. Ahrensburgs Stadtteile. Ahrensburgs Vereine. Ahrensburgs Wirtschaft. Ahrensburgs Kultur. Ahrensburgs Bildung. Ahrensburgs Sport. Ahrensburgs Freizeit. Ahrensburgs Gastronomie. Ahrensburgs Politik. Ahrensburgs Verwaltung. Ahrensburgs Verkehr. Ahrensburgs Umwelt. Ahrensburgs Medien. Ahrensburgs Persönlichkeiten. Ahrensburgs Partnerstädte. Ahrensburgs Literatur. Ahrensburgs Weblinks. Ahrensburgs Einzelnachweise. Ahrensburgs Anmerkungen. Ahrensburgs Quellen. Ahrensburgs Literatur. Ahrensburgs Weblinks. Ahrensburgs Einzelnachweise. Ahrensburgs Anmerkungen. Ahrensburgs Quellen. Ahrensburgs Literatur. Ahrensburgs Weblinks. Ahrensburgs Einzelnachweise. Ahrensburgs Anmerkungen. Ahrensburgs Quellen. Ahrensburgs Literatur. Ahrensburgs Weblinks. Ahrensburgs Einzelnachweise. Ahrensburgs Anmerkungen. Ahrensburgs Quellen. Ahrensburgs Literatur. Ahrensburgs Weblinks. Ahrensburgs Einzelnachweise. Ahrensburgs Anmerkungen. Ahrensburgs Quellen. Ahrensburgs Literatur. Ahrensburgs Weblinks. Ahrensburgs Einzelnachweise. Ahrensburgs Anmerkungen. Ahrensburgs Quellen. Ahrensburgs Literatur. Ahrensburgs Weblinks. Ahrensburgs Einzelnachweise. Ahrensburgs Anmerkungen. Ahrensburgs Quellen. Ahrensburgs Literatur. Ahrensburgs Weblinks. Ahrensburgs Einzelnachweise. Ahrensburgs Anmerkungen. Ahrensburgs Quellen. Ahrensburgs Literatur. Ahrensburgs Weblinks. Ahrensburgs Einzelnachweise. Ahrensburgs Anmerkungen. Ahrensburgs Quellen. Ahrensburgs Literatur. Ahrensburgs</text>
+      <sha1>q1d8o053e08fqeesr1sia8rwxqo3eav</sha1>
+    </revision>
+    <revision>
+      <id>6</id>
+      <parentid>5</parentid>
+      <timestamp>2024-08-07T21:45:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>6</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="253" sha1="hzufp79ugw925982yv7z2qpuo6myjd1" xml:space="preserve">== Ahrensburg Wiki ==
+Informationen über Ahrensburg. Leider können Sie die Artikel nicht bearbeiten, weil sowiel Spam eingetragen wurde. Wenn Sie einen Artikel schreiben möchten, schicken Sie mir bitte eine E-Mail an [mailto:thorstenkloehn@gmail.com]</text>
+      <sha1>hzufp79ugw925982yv7z2qpuo6myjd1</sha1>
+    </revision>
+    <revision>
+      <id>7</id>
+      <parentid>6</parentid>
+      <timestamp>2024-08-07T21:47:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>7</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="255" sha1="bnkjmzr9a1vd6ootxmkhodpvxxz7aby" xml:space="preserve">== Ahrensburg Wiki ==
+Informationen über Ahrensburg. Leider können Sie die Artikel nicht bearbeiten, weil so viel Spam eingetragen wurde. Wenn Sie einen Artikel schreiben möchten, schicken Sie mir bitte eine E-Mail an [mailto:thorstenkloehn@gmail.com].</text>
+      <sha1>bnkjmzr9a1vd6ootxmkhodpvxxz7aby</sha1>
+    </revision>
+    <revision>
+      <id>14</id>
+      <parentid>7</parentid>
+      <timestamp>2024-08-08T05:26:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>14</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="406" sha1="g7v9xbud03yahdqrhj2rpso3gjdtdel" xml:space="preserve">== Ahrensburg Wiki ==
+Informationen über Ahrensburg. Leider können Sie die Artikel nicht bearbeiten, weil so viel Spam eingetragen wurde. Wenn Sie einen Artikel schreiben möchten, schicken Sie mir bitte eine E-Mail an [mailto:thorstenkloehn@gmail.com].
+
+== Ahrensburg ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner.</text>
+      <sha1>g7v9xbud03yahdqrhj2rpso3gjdtdel</sha1>
+    </revision>
+    <revision>
+      <id>15</id>
+      <parentid>14</parentid>
+      <timestamp>2024-08-08T05:30:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>15</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="653" sha1="k9vfc4ar1a3bi50rww4f08sbve1gpq2" xml:space="preserve">== Ahrensburg Wiki ==
+Informationen über Ahrensburg. Leider können Sie die Artikel nicht bearbeiten, weil so viel Spam eingetragen wurde. Wenn Sie einen Artikel schreiben möchten, schicken Sie mir bitte eine E-Mail an [mailto:thorstenkloehn@gmail.com].
+
+== Ahrensburg ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner.
+== Geographie ==
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.</text>
+      <sha1>k9vfc4ar1a3bi50rww4f08sbve1gpq2</sha1>
+    </revision>
+    <revision>
+      <id>16</id>
+      <parentid>15</parentid>
+      <timestamp>2024-08-08T05:33:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>16</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="890" sha1="0m4qrbhyz703rir9qcwf1xq1qey58mk" xml:space="preserve">== Ahrensburg Wiki ==
+Informationen über Ahrensburg. Leider können Sie die Artikel nicht bearbeiten, weil so viel Spam eingetragen wurde. Wenn Sie einen Artikel schreiben möchten, schicken Sie mir bitte eine E-Mail an [mailto:thorstenkloehn@gmail.com].
+
+== Ahrensburg ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner.
+== Geographie ==
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.</text>
+      <sha1>0m4qrbhyz703rir9qcwf1xq1qey58mk</sha1>
+    </revision>
+    <revision>
+      <id>17</id>
+      <parentid>16</parentid>
+      <timestamp>2024-08-08T05:41:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>17</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1038" sha1="kz3d3xc3sp1rncl8tto3jx90q8g7ury" xml:space="preserve">== Ahrensburg Wiki ==
+Informationen über Ahrensburg. Leider können Sie die Artikel nicht bearbeiten, weil so viel Spam eingetragen wurde. Wenn Sie einen Artikel schreiben möchten, schicken Sie mir bitte eine E-Mail an [mailto:thorstenkloehn@gmail.com].
+
+== Ahrensburg ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner.
+== Geographie ==
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.</text>
+      <sha1>kz3d3xc3sp1rncl8tto3jx90q8g7ury</sha1>
+    </revision>
+    <revision>
+      <id>27</id>
+      <parentid>17</parentid>
+      <timestamp>2024-08-08T11:28:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>27</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1068" sha1="d1pwkalfipmn34zi0y9i94pzdwtz4qt" xml:space="preserve">== Ahrensburg Wiki ==
+Informationen über Ahrensburg. Leider können Sie die Artikel nicht bearbeiten, weil so viel Spam eingetragen wurde. Wenn Sie einen Artikel schreiben möchten, schicken Sie mir bitte eine E-Mail an [mailto:thorstenkloehn@gmail.com].
+
+== Ahrensburg ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner.
+== Geographie ==
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+
+
+* [[ahrensburg.city:Tools]]</text>
+      <sha1>d1pwkalfipmn34zi0y9i94pzdwtz4qt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Thorsten</title>
+    <ns>0</ns>
+    <id>2</id>
+    <revision>
+      <id>8</id>
+      <timestamp>2024-08-07T23:42:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>8</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wiki</title>
+    <ns>0</ns>
+    <id>3</id>
+    <revision>
+      <id>9</id>
+      <timestamp>2024-08-07T23:44:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>wiki // via Wikitext Extension for VSCode</comment>
+      <origin>9</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="343" sha1="jingghzu42vmrr3973748po15870gaq" xml:space="preserve">== Ahrensburg Wiki ==
+Informationen über Ahrensburg. Leider können Sie die Artikel nicht bearbeiten, weil so viel Spam eingetragen wurde. Wenn Sie einen Artikel schreiben möchten, schicken Sie mir bitte eine E-Mail an [mailto:thorstenkloehn@gmail.com].{{cite web |url=https://wiki.ahrensburg.city |title=Hauptseite |access-date=2024-08-07}}</text>
+      <sha1>jingghzu42vmrr3973748po15870gaq</sha1>
+    </revision>
+    <revision>
+      <id>10</id>
+      <parentid>9</parentid>
+      <timestamp>2024-08-07T23:45:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>10</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="384" sha1="j95hn58mi94p0y60m7hg1anjpdqgdtx" xml:space="preserve">== Ahrensburg Wiki ==
+Informationen über Ahrensburg. Leider können Sie die Artikel nicht bearbeiten, weil so viel Spam eingetragen wurde. Wenn Sie einen Artikel schreiben möchten, schicken Sie mir bitte eine E-Mail an [mailto:thorstenkloehn@gmail.com].{{cite web |url=https://wiki.ahrensburg.city |title=Hauptseite |access-date=2024-08-07}}
+
+== Kategorien ==
+{{Special:Categories}}</text>
+      <sha1>j95hn58mi94p0y60m7hg1anjpdqgdtx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Start</title>
+    <ns>0</ns>
+    <id>4</id>
+    <revision>
+      <id>11</id>
+      <timestamp>2024-08-08T05:17:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>11</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+    <revision>
+      <id>12</id>
+      <parentid>11</parentid>
+      <timestamp>2024-08-08T05:21:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>12</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8" sha1="de1xa2732bxtq51ummdgg2vnpy0mzbh" xml:space="preserve">## Hallo</text>
+      <sha1>de1xa2732bxtq51ummdgg2vnpy0mzbh</sha1>
+    </revision>
+    <revision>
+      <id>13</id>
+      <parentid>12</parentid>
+      <timestamp>2024-08-08T05:22:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>13</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="95" sha1="nri1iq15vjcsze86oz29ojc58ch74to" xml:space="preserve">== Willkommen auf der Testseite ==
+
+Hier kannst du testen, wie du eine Seite bearbeiten kannst.</text>
+      <sha1>nri1iq15vjcsze86oz29ojc58ch74to</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ahrensburg.city:Impressum</title>
+    <ns>4</ns>
+    <id>5</id>
+    <revision>
+      <id>18</id>
+      <timestamp>2024-08-08T06:07:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Angaben gemäß § 5 TMG  * Thorsten Klöhn * Gerhardstraße 2 * 22926 Ahrensburg  &lt;span id="vertreten-durch"&gt;&lt;/span&gt; == Vertreten durch: ==  Thorsten Klöhn  &lt;span id="kontakt"&gt;&lt;/span&gt; == Kontakt: ==  * Telefon: 04102-2 17 40 07&lt;br /&gt;  * E-Mail: thorstenkloehn@gmail.com  &lt;span id="haftungsausschluss"&gt;&lt;/span&gt; == Haftungsausschluss: ==  &lt;span id="haftung-für-inhalte"&gt;&lt;/span&gt; === Haftung für Inhalte ===  Die Inhalte unserer Seiten wurden mit größter Sor…“</comment>
+      <origin>18</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3750" sha1="r3dbu8w602jjwdzd881ds0x620i8vq7" xml:space="preserve">Angaben gemäß § 5 TMG
+
+* Thorsten Klöhn
+* Gerhardstraße 2
+* 22926 Ahrensburg
+
+&lt;span id="vertreten-durch"&gt;&lt;/span&gt;
+== Vertreten durch: ==
+
+Thorsten Klöhn
+
+&lt;span id="kontakt"&gt;&lt;/span&gt;
+== Kontakt: ==
+
+* Telefon: 04102-2 17 40 07&lt;br /&gt;
+
+* E-Mail: thorstenkloehn@gmail.com
+
+&lt;span id="haftungsausschluss"&gt;&lt;/span&gt;
+== Haftungsausschluss: ==
+
+&lt;span id="haftung-für-inhalte"&gt;&lt;/span&gt;
+=== Haftung für Inhalte ===
+
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen. ### Haftung für Links Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;br /&gt;
+### Urheberrecht Dieses Werk ist lizenziert unter einer [http://creativecommons.org/licenses/by/4.0/ Creative Commons Namensnennung 4.0 International Lizenz].Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen. ### Datenschutz Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.&lt;br /&gt;
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.&lt;br /&gt;
+
+
+Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanzlei Hasselbach, Rechtsanwälte für Arbeitsrecht und Familienrecht](https://www.kanzlei-hasselbach</text>
+      <sha1>r3dbu8w602jjwdzd881ds0x620i8vq7</sha1>
+    </revision>
+    <revision>
+      <id>19</id>
+      <parentid>18</parentid>
+      <timestamp>2024-08-08T06:08:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>19</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3752" sha1="81st2ww77li5qahwd7ky24uaqebvkik" xml:space="preserve">Angaben gemäß § 5 TMG
+
+* Thorsten Klöhn
+* Gerhardstraße 2
+* 22926 Ahrensburg
+
+&lt;span id="vertreten-durch"&gt;&lt;/span&gt;
+== Vertreten durch: ==
+
+Thorsten Klöhn
+
+&lt;span id="kontakt"&gt;&lt;/span&gt;
+== Kontakt: ==
+
+* Telefon: 04102-2 17 40 07&lt;br /&gt;
+
+* E-Mail: thorstenkloehn@gmail.com
+
+&lt;span id="haftungsausschluss"&gt;&lt;/span&gt;
+== Haftungsausschluss: ==
+
+&lt;span id="haftung-für-inhalte"&gt;&lt;/span&gt;
+=== Haftung für Inhalte ===
+
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen. ### Haftung für Links Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;br /&gt;
+===Urheberrecht==
+ Dieses Werk ist lizenziert unter einer [http://creativecommons.org/licenses/by/4.0/ Creative Commons Namensnennung 4.0 International Lizenz].Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen. ### Datenschutz Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.&lt;br /&gt;
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.&lt;br /&gt;
+
+
+Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanzlei Hasselbach, Rechtsanwälte für Arbeitsrecht und Familienrecht](https://www.kanzlei-hasselbach</text>
+      <sha1>81st2ww77li5qahwd7ky24uaqebvkik</sha1>
+    </revision>
+    <revision>
+      <id>20</id>
+      <parentid>19</parentid>
+      <timestamp>2024-08-08T06:08:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* =Urheberrecht */</comment>
+      <origin>20</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3753" sha1="j1mzqhsi91ypp27mhwx4vkjqyo3ilrz" xml:space="preserve">Angaben gemäß § 5 TMG
+
+* Thorsten Klöhn
+* Gerhardstraße 2
+* 22926 Ahrensburg
+
+&lt;span id="vertreten-durch"&gt;&lt;/span&gt;
+== Vertreten durch: ==
+
+Thorsten Klöhn
+
+&lt;span id="kontakt"&gt;&lt;/span&gt;
+== Kontakt: ==
+
+* Telefon: 04102-2 17 40 07&lt;br /&gt;
+
+* E-Mail: thorstenkloehn@gmail.com
+
+&lt;span id="haftungsausschluss"&gt;&lt;/span&gt;
+== Haftungsausschluss: ==
+
+&lt;span id="haftung-für-inhalte"&gt;&lt;/span&gt;
+=== Haftung für Inhalte ===
+
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen. ### Haftung für Links Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;br /&gt;
+===Urheberrecht===
+ Dieses Werk ist lizenziert unter einer [http://creativecommons.org/licenses/by/4.0/ Creative Commons Namensnennung 4.0 International Lizenz].Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen. ### Datenschutz Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.&lt;br /&gt;
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.&lt;br /&gt;
+
+
+Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanzlei Hasselbach, Rechtsanwälte für Arbeitsrecht und Familienrecht](https://www.kanzlei-hasselbach</text>
+      <sha1>j1mzqhsi91ypp27mhwx4vkjqyo3ilrz</sha1>
+    </revision>
+    <revision>
+      <id>21</id>
+      <parentid>20</parentid>
+      <timestamp>2024-08-08T06:09:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Urheberrecht */</comment>
+      <origin>21</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3753" sha1="muxgm29ggt1mzgno2bgqce91fxvig2b" xml:space="preserve">Angaben gemäß § 5 TMG
+
+* Thorsten Klöhn
+* Gerhardstraße 2
+* 22926 Ahrensburg
+
+&lt;span id="vertreten-durch"&gt;&lt;/span&gt;
+== Vertreten durch: ==
+
+Thorsten Klöhn
+
+&lt;span id="kontakt"&gt;&lt;/span&gt;
+== Kontakt: ==
+
+* Telefon: 04102-2 17 40 07&lt;br /&gt;
+
+* E-Mail: thorstenkloehn@gmail.com
+
+&lt;span id="haftungsausschluss"&gt;&lt;/span&gt;
+== Haftungsausschluss: ==
+
+&lt;span id="haftung-für-inhalte"&gt;&lt;/span&gt;
+=== Haftung für Inhalte ===
+
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen. ### Haftung für Links Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;br /&gt;
+===Urheberrecht===
+
+Dieses Werk ist lizenziert unter einer [http://creativecommons.org/licenses/by/4.0/ Creative Commons Namensnennung 4.0 International Lizenz].Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen. ### Datenschutz Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.&lt;br /&gt;
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.&lt;br /&gt;
+
+
+Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanzlei Hasselbach, Rechtsanwälte für Arbeitsrecht und Familienrecht](https://www.kanzlei-hasselbach</text>
+      <sha1>muxgm29ggt1mzgno2bgqce91fxvig2b</sha1>
+    </revision>
+    <revision>
+      <id>22</id>
+      <parentid>21</parentid>
+      <timestamp>2024-08-08T06:12:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>22</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3754" sha1="6g9al3tdwz51ypqt47z6m58tpt77col" xml:space="preserve">Angaben gemäß § 5 TMG
+
+* Thorsten Klöhn
+* Gerhardstraße 2
+* 22926 Ahrensburg
+
+&lt;span id="vertreten-durch"&gt;&lt;/span&gt;
+== Vertreten durch: ==
+
+Thorsten Klöhn
+
+&lt;span id="kontakt"&gt;&lt;/span&gt;
+== Kontakt: ==
+
+* Telefon: 04102-2 17 40 07&lt;br /&gt;
+
+* E-Mail: thorstenkloehn@gmail.com
+
+&lt;span id="haftungsausschluss"&gt;&lt;/span&gt;
+== Haftungsausschluss: ==
+
+&lt;span id="haftung-für-inhalte"&gt;&lt;/span&gt;
+=== Haftung für Inhalte ===
+
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen. ### Haftung für Links Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;br /&gt;
+===Urheberrecht===
+
+Dieses Werk ist lizenziert unter einer [http://creativecommons.org/licenses/by/4.0/ Creative Commons Namensnennung 4.0 International Lizenz].Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+==Datenschutz==  Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.&lt;br /&gt;
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.&lt;br /&gt;
+
+
+Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanzlei Hasselbach, Rechtsanwälte für Arbeitsrecht und Familienrecht](https://www.kanzlei-hasselbach</text>
+      <sha1>6g9al3tdwz51ypqt47z6m58tpt77col</sha1>
+    </revision>
+    <revision>
+      <id>23</id>
+      <parentid>22</parentid>
+      <timestamp>2024-08-08T06:12:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Urheberrecht */</comment>
+      <origin>23</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3752" sha1="5228e5fhgkebiquwb0a4b8e0dtnzb10" xml:space="preserve">Angaben gemäß § 5 TMG
+
+* Thorsten Klöhn
+* Gerhardstraße 2
+* 22926 Ahrensburg
+
+&lt;span id="vertreten-durch"&gt;&lt;/span&gt;
+== Vertreten durch: ==
+
+Thorsten Klöhn
+
+&lt;span id="kontakt"&gt;&lt;/span&gt;
+== Kontakt: ==
+
+* Telefon: 04102-2 17 40 07&lt;br /&gt;
+
+* E-Mail: thorstenkloehn@gmail.com
+
+&lt;span id="haftungsausschluss"&gt;&lt;/span&gt;
+== Haftungsausschluss: ==
+
+&lt;span id="haftung-für-inhalte"&gt;&lt;/span&gt;
+=== Haftung für Inhalte ===
+
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen. ### Haftung für Links Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;br /&gt;
+==Urheberrecht==
+
+Dieses Werk ist lizenziert unter einer [http://creativecommons.org/licenses/by/4.0/ Creative Commons Namensnennung 4.0 International Lizenz].Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+==Datenschutz== 
+Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.&lt;br /&gt;
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.&lt;br /&gt;
+
+
+Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanzlei Hasselbach, Rechtsanwälte für Arbeitsrecht und Familienrecht](https://www.kanzlei-hasselbach</text>
+      <sha1>5228e5fhgkebiquwb0a4b8e0dtnzb10</sha1>
+    </revision>
+    <revision>
+      <id>24</id>
+      <parentid>23</parentid>
+      <timestamp>2024-08-08T06:13:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Urheberrecht */</comment>
+      <origin>24</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3755" sha1="9c3qtt55sqnyjqz3oisyi2nltn73pz0" xml:space="preserve">Angaben gemäß § 5 TMG
+
+* Thorsten Klöhn
+* Gerhardstraße 2
+* 22926 Ahrensburg
+
+&lt;span id="vertreten-durch"&gt;&lt;/span&gt;
+== Vertreten durch: ==
+
+Thorsten Klöhn
+
+&lt;span id="kontakt"&gt;&lt;/span&gt;
+== Kontakt: ==
+
+* Telefon: 04102-2 17 40 07&lt;br /&gt;
+
+* E-Mail: thorstenkloehn@gmail.com
+
+&lt;span id="haftungsausschluss"&gt;&lt;/span&gt;
+== Haftungsausschluss: ==
+
+&lt;span id="haftung-für-inhalte"&gt;&lt;/span&gt;
+=== Haftung für Inhalte ===
+
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen. ### Haftung für Links Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;br /&gt;
+===Urheberrecht===
+
+Dieses Werk ist lizenziert unter einer [http://creativecommons.org/licenses/by/4.0/ Creative Commons Namensnennung 4.0 International Lizenz].Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+
+==Datenschutz== 
+Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.&lt;br /&gt;
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.&lt;br /&gt;
+
+
+Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanzlei Hasselbach, Rechtsanwälte für Arbeitsrecht und Familienrecht](https://www.kanzlei-hasselbach</text>
+      <sha1>9c3qtt55sqnyjqz3oisyi2nltn73pz0</sha1>
+    </revision>
+    <revision>
+      <id>25</id>
+      <parentid>24</parentid>
+      <timestamp>2024-08-08T06:14:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Datenschutz */</comment>
+      <origin>25</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3757" sha1="6znqq26rxwf6p9wwazjb3vkwila13wf" xml:space="preserve">Angaben gemäß § 5 TMG
+
+* Thorsten Klöhn
+* Gerhardstraße 2
+* 22926 Ahrensburg
+
+&lt;span id="vertreten-durch"&gt;&lt;/span&gt;
+== Vertreten durch: ==
+
+Thorsten Klöhn
+
+&lt;span id="kontakt"&gt;&lt;/span&gt;
+== Kontakt: ==
+
+* Telefon: 04102-2 17 40 07&lt;br /&gt;
+
+* E-Mail: thorstenkloehn@gmail.com
+
+&lt;span id="haftungsausschluss"&gt;&lt;/span&gt;
+== Haftungsausschluss: ==
+
+&lt;span id="haftung-für-inhalte"&gt;&lt;/span&gt;
+=== Haftung für Inhalte ===
+
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen. ### Haftung für Links Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;br /&gt;
+===Urheberrecht===
+
+Dieses Werk ist lizenziert unter einer [http://creativecommons.org/licenses/by/4.0/ Creative Commons Namensnennung 4.0 International Lizenz].Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+
+===Datenschutz=== 
+Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.&lt;br /&gt;
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.&lt;br /&gt;
+
+
+Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanzlei Hasselbach, Rechtsanwälte für Arbeitsrecht und Familienrecht](https://www.kanzlei-hasselbach</text>
+      <sha1>6znqq26rxwf6p9wwazjb3vkwila13wf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ahrensburg.city:Datenschutz</title>
+    <ns>4</ns>
+    <id>6</id>
+    <revision>
+      <id>26</id>
+      <timestamp>2024-08-08T06:20:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:  * Thorsten Klöhn * Gerhardstraße 2 * 22926 Ahrensburg * Telefon: 04102-2 17 40 07 * e-Mail: thorstenkloehn@gmail.com  &lt;span id="ihre-betroffenenrechte"&gt;&lt;/span&gt; == Ihre Betroffenenrechte ==  Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können Sie jederzeit folgende Rechte ausüben:  * Auskunft über Ihre bei uns ges…“</comment>
+      <origin>26</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5074" sha1="9bzk3a7y9uynfn6xooeid5ogsi436pp" xml:space="preserve">Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:
+
+* Thorsten Klöhn
+* Gerhardstraße 2
+* 22926 Ahrensburg
+* Telefon: 04102-2 17 40 07
+* e-Mail: thorstenkloehn@gmail.com
+
+&lt;span id="ihre-betroffenenrechte"&gt;&lt;/span&gt;
+== Ihre Betroffenenrechte ==
+
+Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können Sie jederzeit folgende Rechte ausüben:
+
+* Auskunft über Ihre bei uns gespeicherten Daten und deren Verarbeitung (Art. 15 DSGVO),
+* Berichtigung unrichtiger personenbezogener Daten (Art. 16 DSGVO),
+* Löschung Ihrer bei uns gespeicherten Daten (Art. 17 DSGVO),
+* Einschränkung der Datenverarbeitung, sofern wir Ihre Daten aufgrund gesetzlicher Pflichten noch nicht löschen dürfen (Art. 18 DSGVO),
+* Widerspruch gegen die Verarbeitung Ihrer Daten bei uns (Art. 21 DSGVO) und
+* Datenübertragbarkeit, sofern Sie in die Datenverarbeitung eingewilligt haben oder einen Vertrag mit uns abgeschlossen haben (Art. 20 DSGVO).
+
+Sofern Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen.
+
+Sie können sich jederzeit mit einer Beschwerde an eine Aufsichtsbehörde wenden, z. B. an die zuständige Aufsichtsbehörde des Bundeslands Ihres Wohnsitzes oder an die für uns als verantwortliche Stelle zuständige Behörde.
+
+Eine Liste der Aufsichtsbehörden (für den nichtöffentlichen Bereich) mit Anschrift finden Sie unter: .
+
+&lt;span id="eingebettete-youtube-videos"&gt;&lt;/span&gt;
+== Eingebettete YouTube-Videos ==
+
+&lt;span id="art-und-zweck-der-verarbeitung"&gt;&lt;/span&gt;
+=== Art und Zweck der Verarbeitung: ===
+
+Auf einigen unserer Webseiten betten wir YouTube-Videos ein. Betreiber der entsprechenden Plugins ist die YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA (nachfolgend „YouTube“). Wenn Sie eine Seite mit dem YouTube-Plugin besuchen, wird eine Verbindung zu Servern von YouTube hergestellt. Dabei wird YouTube mitgeteilt, welche Seiten Sie besuchen. Wenn Sie in Ihrem YouTube-Account eingeloggt sind, kann YouTube Ihr Surfverhalten Ihnen persönlich zuzuordnen. Dies verhindern Sie, indem Sie sich vorher aus Ihrem YouTube-Account ausloggen.
+
+Wird ein YouTube-Video gestartet, setzt der Anbieter Cookies ein, die Hinweise über das Nutzerverhalten sammeln.
+
+Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch YouTube erhalten Sie in den Datenschutzerklärungen des Anbieters, Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre (). Google verarbeitet Ihre Daten in den USA und hat sich dem EU-US Privacy Shield unterworfen https://www.privacyshield.gov/EU-US-Framework
+
+&lt;span id="rechtsgrundlage"&gt;&lt;/span&gt;
+=== Rechtsgrundlage: ===
+
+Rechtsgrundlage für die Einbindung von YouTube und dem damit verbundenen Datentransfer zu Google ist Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO).
+
+&lt;span id="empfänger"&gt;&lt;/span&gt;
+=== Empfänger: ===
+
+Der Aufruf von YouTube löst automatisch eine Verbindung zu Google aus.
+
+&lt;span id="speicherdauer-und-widerruf-der-einwilligung"&gt;&lt;/span&gt;
+=== Speicherdauer und Widerruf der Einwilligung: ===
+
+Wer das Speichern von Cookies für das Google-Ad-Programm deaktiviert hat, wird auch beim Anschauen von YouTube-Videos mit keinen solchen Cookies rechnen müssen. YouTube legt aber auch in anderen Cookies nicht-personenbezogene Nutzungsinformationen ab. Möchten Sie dies verhindern, so müssen Sie das Speichern von Cookies im Browser blockieren.
+
+Weitere Informationen zum Datenschutz bei „YouTube“ finden Sie in der Datenschutzerklärung des Anbieters unter:
+
+&lt;span id="drittlandtransfer"&gt;&lt;/span&gt;
+=== Drittlandtransfer: ===
+
+Google verarbeitet Ihre Daten in den USA und hat sich dem EU_US Privacy Shield unterworfen .
+
+&lt;span id="bereitstellung-vorgeschrieben-oder-erforderlich"&gt;&lt;/span&gt;
+=== Bereitstellung vorgeschrieben oder erforderlich: ===
+
+Die Bereitstellung Ihrer personenbezogenen Daten erfolgt freiwillig, allein auf Basis Ihrer Einwilligung. Sofern Sie den Zugriff unterbinden, kann es hierdurch zu Funktionseinschränkungen auf der Website kommen.
+
+&lt;span id="änderung-unserer-datenschutzbestimmungen"&gt;&lt;/span&gt;
+== Änderung unserer Datenschutzbestimmungen ==
+
+Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung umzusetzen, z.B. bei der Einführung neuer Services. Für Ihren erneuten Besuch gilt dann die neue Datenschutzerklärung.
+
+&lt;span id="fragen-an-den-datenschutzbeauftragten"&gt;&lt;/span&gt;
+== Fragen an den Datenschutzbeauftragten ==
+
+Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder wenden Sie sich direkt an die für den Datenschutz verantwortliche Person in unserer Organisation:
+
+''Die Datenschutzerklärung wurde mit dem'' [https://www.activemind.de/datenschutz/datenschutzhinweis-generator/ ''Datenschutzerklärungs-Generator der activeMind AG erstellt''] *(Version 2018-09-24).c</text>
+      <sha1>9bzk3a7y9uynfn6xooeid5ogsi436pp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ahrensburg.city:Tools</title>
+    <ns>4</ns>
+    <id>7</id>
+    <revision>
+      <id>28</id>
+      <timestamp>2024-08-08T11:50:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>28</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="301" sha1="r69724uyeasydth278cgg5y37kr4y2f" xml:space="preserve">== Tools ==
+
+=== Backup für MediaWiki erstellen ===
+
+&lt;pre&gt;
+php dumpBackup.php --full &gt; pagedump.xml
+
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+
+&lt;pre&gt;
+php importDump.php &lt; pagedump.xml
+&lt;/pre&gt;
+==== Weblink ====
+* [https://www.mediawiki.org/wiki/Manual:DumpBackup.php Manual:DumpBackup.php]</text>
+      <sha1>r69724uyeasydth278cgg5y37kr4y2f</sha1>
+    </revision>
+    <revision>
+      <id>29</id>
+      <parentid>28</parentid>
+      <timestamp>2024-08-08T12:10:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Backup für MediaWiki erstellen */</comment>
+      <origin>29</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="400" sha1="mz9l34e9e3oahuxe83d28v0h664y4xi" xml:space="preserve">== Tools ==
+
+=== Backup für MediaWiki erstellen ===
+
+&lt;pre&gt;
+sudo mkdir /var/www/Download
+cd /var/www/Download
+php /var/www/mediawiki/maintenance/dumpBackup.php --full &gt; /var/www/Download/pagedump.xml
+
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+
+&lt;pre&gt;
+php importDump.php &lt; pagedump.xml
+&lt;/pre&gt;
+==== Weblink ====
+* [https://www.mediawiki.org/wiki/Manual:DumpBackup.php Manual:DumpBackup.php]</text>
+      <sha1>mz9l34e9e3oahuxe83d28v0h664y4xi</sha1>
+    </revision>
+    <revision>
+      <id>30</id>
+      <parentid>29</parentid>
+      <timestamp>2024-08-08T12:31:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Tools */</comment>
+      <origin>30</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1045" sha1="2asa5p740ermyn1jg6ua90i3irzxu34" xml:space="preserve">== Tools ==
+===GH Installieren===
+&lt;pre&gt;
+(type -p wget &gt;/dev/null || (sudo apt update &amp;&amp; sudo apt-get install wget -y)) \
+&amp;&amp; sudo mkdir -p -m 755 /etc/apt/keyrings \
+&amp;&amp; wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg &gt; /dev/null \
+&amp;&amp; sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+&amp;&amp; echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list &gt; /dev/null \
+&amp;&amp; sudo apt update \
+&amp;&amp; sudo apt install gh -y
+&lt;/pew&gt;
+=== Backup für MediaWiki erstellen ===
+
+&lt;pre&gt;
+sudo gh repo clone thorstenkloehn/Download
+cd /var/www
+php /var/www/mediawiki/maintenance/dumpBackup.php --full &gt; /var/www/Download/pagedump.xml
+
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+
+&lt;pre&gt;
+php importDump.php &lt; pagedump.xml
+&lt;/pre&gt;
+==== Weblink ====
+* [https://www.mediawiki.org/wiki/Manual:DumpBackup.php Manual:DumpBackup.php]</text>
+      <sha1>2asa5p740ermyn1jg6ua90i3irzxu34</sha1>
+    </revision>
+    <revision>
+      <id>31</id>
+      <parentid>30</parentid>
+      <timestamp>2024-08-08T12:32:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* GH Installieren */</comment>
+      <origin>31</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1046" sha1="nrj1py8gjtbprk2hlynbpz3elatrez1" xml:space="preserve">== Tools ==
+===GH Installieren===
+&lt;pre&gt;
+(type -p wget &gt;/dev/null || (sudo apt update &amp;&amp; sudo apt-get install wget -y)) \
+&amp;&amp; sudo mkdir -p -m 755 /etc/apt/keyrings \
+&amp;&amp; wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg &gt; /dev/null \
+&amp;&amp; sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+&amp;&amp; echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list &gt; /dev/null \
+&amp;&amp; sudo apt update \
+&amp;&amp; sudo apt install gh -y
+&lt;/pew&gt;
+
+=== Backup für MediaWiki erstellen ===
+
+&lt;pre&gt;
+sudo gh repo clone thorstenkloehn/Download
+cd /var/www
+php /var/www/mediawiki/maintenance/dumpBackup.php --full &gt; /var/www/Download/pagedump.xml
+
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+
+&lt;pre&gt;
+php importDump.php &lt; pagedump.xml
+&lt;/pre&gt;
+==== Weblink ====
+* [https://www.mediawiki.org/wiki/Manual:DumpBackup.php Manual:DumpBackup.php]</text>
+      <sha1>nrj1py8gjtbprk2hlynbpz3elatrez1</sha1>
+    </revision>
+    <revision>
+      <id>32</id>
+      <parentid>31</parentid>
+      <timestamp>2024-08-08T12:32:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>32</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1046" sha1="n3rw9qbucubqfo8n8zjq0s38xpnvcqj" xml:space="preserve">== Tools ==
+===GH Installieren===
+&lt;pre&gt;
+(type -p wget &gt;/dev/null || (sudo apt update &amp;&amp; sudo apt-get install wget -y)) \
+&amp;&amp; sudo mkdir -p -m 755 /etc/apt/keyrings \
+&amp;&amp; wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg &gt; /dev/null \
+&amp;&amp; sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+&amp;&amp; echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list &gt; /dev/null \
+&amp;&amp; sudo apt update \
+&amp;&amp; sudo apt install gh -y
+&lt;/pre&gt;
+
+=== Backup für MediaWiki erstellen ===
+
+&lt;pre&gt;
+sudo gh repo clone thorstenkloehn/Download
+cd /var/www
+php /var/www/mediawiki/maintenance/dumpBackup.php --full &gt; /var/www/Download/pagedump.xml
+
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+
+&lt;pre&gt;
+php importDump.php &lt; pagedump.xml
+&lt;/pre&gt;
+==== Weblink ====
+* [https://www.mediawiki.org/wiki/Manual:DumpBackup.php Manual:DumpBackup.php]</text>
+      <sha1>n3rw9qbucubqfo8n8zjq0s38xpnvcqj</sha1>
+    </revision>
+    <revision>
+      <id>33</id>
+      <parentid>32</parentid>
+      <timestamp>2024-08-08T12:47:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Tools */</comment>
+      <origin>33</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1243" sha1="a5jfemex661rvjmty3aa56zekzrblet" xml:space="preserve">== Tools ==
+===Git Installieren===
+&lt;pre&gt;
+sudo apt-get update 
+sudo apt-get upgrade
+
+sudo apt-get install git
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+&lt;/pre&gt;
+===GH Installieren===
+&lt;pre&gt;
+(type -p wget &gt;/dev/null || (sudo apt update &amp;&amp; sudo apt-get install wget -y)) \
+&amp;&amp; sudo mkdir -p -m 755 /etc/apt/keyrings \
+&amp;&amp; wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg &gt; /dev/null \
+&amp;&amp; sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+&amp;&amp; echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list &gt; /dev/null \
+&amp;&amp; sudo apt update \
+&amp;&amp; sudo apt install gh -y
+&lt;/pre&gt;
+
+=== Backup für MediaWiki erstellen ===
+
+&lt;pre&gt;
+sudo gh repo clone thorstenkloehn/Download
+cd /var/www
+php /var/www/mediawiki/maintenance/dumpBackup.php --full &gt; /var/www/Download/pagedump.xml
+
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+
+&lt;pre&gt;
+php importDump.php &lt; pagedump.xml
+&lt;/pre&gt;
+==== Weblink ====
+* [https://www.mediawiki.org/wiki/Manual:DumpBackup.php Manual:DumpBackup.php]</text>
+      <sha1>a5jfemex661rvjmty3aa56zekzrblet</sha1>
+    </revision>
+    <revision>
+      <id>34</id>
+      <parentid>33</parentid>
+      <timestamp>2024-08-08T12:51:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* GH Installieren */</comment>
+      <origin>34</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1293" sha1="p8n4ue8uv1iy4e3q4jwta3pgyirh3fy" xml:space="preserve">== Tools ==
+===Git Installieren===
+&lt;pre&gt;
+sudo apt-get update 
+sudo apt-get upgrade
+
+sudo apt-get install git
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+&lt;/pre&gt;
+===GH Installieren===
+&lt;pre&gt;
+(type -p wget &gt;/dev/null || (sudo apt update &amp;&amp; sudo apt-get install wget -y)) \
+&amp;&amp; sudo mkdir -p -m 755 /etc/apt/keyrings \
+&amp;&amp; wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg &gt; /dev/null \
+&amp;&amp; sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+&amp;&amp; echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list &gt; /dev/null \
+&amp;&amp; sudo apt update \
+&amp;&amp; sudo apt install gh -y
+&lt;/pre&gt;
+
+====GH Anmelden=====
+
+&lt;pre&gt;
+gh auth login
+&lt;/pre&gt;
+
+=== Backup für MediaWiki erstellen ===
+
+&lt;pre&gt;
+sudo gh repo clone thorstenkloehn/Download
+cd /var/www
+php /var/www/mediawiki/maintenance/dumpBackup.php --full &gt; /var/www/Download/pagedump.xml
+
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+
+&lt;pre&gt;
+php importDump.php &lt; pagedump.xml
+&lt;/pre&gt;
+==== Weblink ====
+* [https://www.mediawiki.org/wiki/Manual:DumpBackup.php Manual:DumpBackup.php]</text>
+      <sha1>p8n4ue8uv1iy4e3q4jwta3pgyirh3fy</sha1>
+    </revision>
+  </page>
+</mediawiki>
