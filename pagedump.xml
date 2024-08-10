@@ -269,6 +269,632 @@ Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbege
 * [[ahrensburg.city:Tools]]</text>
       <sha1>d1pwkalfipmn34zi0y9i94pzdwtz4qt</sha1>
     </revision>
+    <revision>
+      <id>54</id>
+      <parentid>27</parentid>
+      <timestamp>2024-08-09T05:51:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>54</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="70" sha1="99acsx9ys1dsvlbveck3ux70fudlhfp" xml:space="preserve">==Kategorie:Software==
+Hier sind alle Artikel zu Software aufgelistet.</text>
+      <sha1>99acsx9ys1dsvlbveck3ux70fudlhfp</sha1>
+    </revision>
+    <revision>
+      <id>55</id>
+      <parentid>54</parentid>
+      <timestamp>2024-08-09T06:01:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>55</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="285" sha1="dhi8jnuhi7fun6wn5v1h3n7s9isv2mn" xml:space="preserve">==Allgemeines==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite kann von Administratoren und Benutzern mit entsprechenden Rechten bearbeitet werden.
+
+==Inhalt==
+*</text>
+      <sha1>dhi8jnuhi7fun6wn5v1h3n7s9isv2mn</sha1>
+    </revision>
+    <revision>
+      <id>56</id>
+      <parentid>55</parentid>
+      <timestamp>2024-08-09T06:03:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>56</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="356" sha1="ebuzrxzml5vblgh2rci6oavyk6sms2y" xml:space="preserve">==Allgemeines==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite kann von Administratoren und Benutzern mit entsprechenden Rechten bearbeitet werden.
+
+==Inhalt==
+Die Hauptseite enthält in der Regel folgende Elemente:
+* [[Ahrensburg]]</text>
+      <sha1>ebuzrxzml5vblgh2rci6oavyk6sms2y</sha1>
+    </revision>
+    <revision>
+      <id>57</id>
+      <parentid>56</parentid>
+      <timestamp>2024-08-09T06:10:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>57</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1151" sha1="rf3su2d8tgeoo9fvwolhlyraiirdsp7" xml:space="preserve">== Willkommen auf der Hauptseite ==
+Willkommen auf unserer Wiki-Website! Diese Seite dient als Ausgangspunkt für alle Besucher. Hier finden Sie Links zu den wichtigsten Artikeln und Kategorien unserer Website.
+
+== Allgemeines ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite kann von Administratoren und Benutzern mit entsprechenden Rechten bearbeitet werden.
+
+== Inhalt ==
+Die Hauptseite enthält in der Regel folgende Elemente:
+* [[Ahrensburg]] - Informationen über die Stadt Ahrensburg
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Region
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen und Einrichtungen
+* [[Bildung]] - Informationen über Schulen und Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft und Unternehmen
+
+== Navigation ==
+Verwenden Sie die Navigationsleiste auf der linken Seite, um schnell zu den verschiedenen Kategorien und Artikeln zu gelangen. Sie können auch die Suchfunktion oben rechts verwenden, um spezifische Informationen zu finden.</text>
+      <sha1>rf3su2d8tgeoo9fvwolhlyraiirdsp7</sha1>
+    </revision>
+    <revision>
+      <id>58</id>
+      <parentid>57</parentid>
+      <timestamp>2024-08-09T06:23:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>58</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1229" sha1="pqntqo7tfteaq4onp35zsiu6g4vo86a" xml:space="preserve">== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern. Wenn Sie einen Artikel hinzufügen oder bearbeiten möchten, wenden Sie sich bitte per E-Mail an einen Administrator über [[Special:Contact|Kontakt]].
+
+== Allgemeines ==
+Die Hauptseite enthält in der Regel folgende Elemente:
+* [[Ahrensburg]] - Informationen über die Stadt Ahrensburg
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Region
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen und Einrichtungen
+* [[Bildung]] - Informationen über Schulen und Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft und Unternehmen
+
+== Navigation ==
+Verwenden Sie die Navigationsleiste auf der linken Seite, um schnell zu den verschiedenen Kategorien und Artikeln zu gelangen. Sie können auch die Suchfunktion oben rechts verwenden, um spezifische Informationen zu finden.</text>
+      <sha1>pqntqo7tfteaq4onp35zsiu6g4vo86a</sha1>
+    </revision>
+    <revision>
+      <id>59</id>
+      <parentid>58</parentid>
+      <timestamp>2024-08-09T06:25:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>59</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1076" sha1="57j1ko9tfb51dcvak3yq8q6l8m1lq7u" xml:space="preserve">== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+== Allgemeines ==
+Die Hauptseite enthält in der Regel folgende Elemente:
+* [[Ahrensburg]] - Informationen über die Stadt Ahrensburg
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Region
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen und Einrichtungen
+* [[Bildung]] - Informationen über Schulen und Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft und Unternehmen
+
+== Navigation ==
+Verwenden Sie die Navigationsleiste auf der linken Seite, um schnell zu den verschiedenen Kategorien und Artikeln zu gelangen. Sie können auch die Suchfunktion oben rechts verwenden, um spezifische Informationen zu finden.</text>
+      <sha1>57j1ko9tfb51dcvak3yq8q6l8m1lq7u</sha1>
+    </revision>
+    <revision>
+      <id>60</id>
+      <parentid>59</parentid>
+      <timestamp>2024-08-09T06:31:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>60</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1888" sha1="ctjgska80qc0smfcdj6rqisygc5lzf5" xml:space="preserve">== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+== Allgemeines ==
+* [[Ahrensburg]] - Informationen über die Stadt Ahrensburg
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+
+== Navigation ==
+Verwenden Sie die Navigationsleiste auf der linken Seite, um schnell zu den verschiedenen Kategorien und Artikeln zu gelangen. Sie können auch die Suchfunktion oben rechts verwenden, um spezifische Informationen zu finden.</text>
+      <sha1>ctjgska80qc0smfcdj6rqisygc5lzf5</sha1>
+    </revision>
+    <revision>
+      <id>61</id>
+      <parentid>60</parentid>
+      <timestamp>2024-08-09T06:35:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>61</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1930" sha1="i0gp72ib1nvjg7dkvqnur5pg4sdb4za" xml:space="preserve">== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+== Allgemeines ==
+* [[Geographie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+
+== Navigation ==
+Verwenden Sie die Navigationsleiste auf der linken Seite, um schnell zu den verschiedenen Kategorien und Artikeln zu gelangen. Sie können auch die Suchfunktion oben rechts verwenden, um spezifische Informationen zu finden.</text>
+      <sha1>i0gp72ib1nvjg7dkvqnur5pg4sdb4za</sha1>
+    </revision>
+    <revision>
+      <id>69</id>
+      <parentid>61</parentid>
+      <timestamp>2024-08-09T11:03:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>69</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1688" sha1="8g4d56g7550axlqi1qwyig5tqoqvyuf" xml:space="preserve">== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+== Allgemeines ==
+* [[Geographie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen</text>
+      <sha1>8g4d56g7550axlqi1qwyig5tqoqvyuf</sha1>
+    </revision>
+    <revision>
+      <id>75</id>
+      <parentid>69</parentid>
+      <timestamp>2024-08-09T17:59:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>75</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2905" sha1="43t8q0ea7s04q0cw7pqkodvcfekb294" xml:space="preserve">== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+== Allgemeines ==
+* [[Geographie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+
+== Nützliche Links ==
+* [Offizielle Website der Stadt Ahrensburg](https://www.ahrensburg.de) - Offizielle Informationen und Dienstleistungen der Stadtverwaltung
+* [Tourismus Ahrensburg](https://www.ahrensburg.de/tourismus) - Informationen für Touristen, Sehenswürdigkeiten und Veranstaltungen
+* [Ahrensburger Schloss](https://www.schloss-ahrensburg.de) - Informationen über das Ahrensburger Schloss und seine Geschichte
+* [Verkehrsverbund Hamburg (HVV)](https://www.hvv.de) - Informationen zu öffentlichen Verkehrsmitteln und Fahrplänen
+* [Kulturzentrum Marstall](https://www.marstall-ahrensburg.de) - Informationen über kulturelle Veranstaltungen und Angebote
+* [Stadtbibliothek Ahrensburg](https://www.stadtbibliothek-ahrensburg.de) - Informationen über die Stadtbibliothek und ihre Angebote
+* [Klinikum Ahrensburg](https://www.klinikum-ahrensburg.de) - Informationen über das örtliche Krankenhaus und medizinische Dienstleistungen
+* [Naturschutzbund Deutschland (NABU) - Ahrensburg](https://www.nabu-ahrensburg.de) - Informationen über Naturschutzprojekte und Initiativen in der Region
+* [Lokale Nachrichten Ahrensburg](https://www.ahrensburg24.de) - Aktuelle Nachrichten und Ereignisse aus Ahrensburg</text>
+      <sha1>43t8q0ea7s04q0cw7pqkodvcfekb294</sha1>
+    </revision>
+    <revision>
+      <id>76</id>
+      <parentid>75</parentid>
+      <timestamp>2024-08-09T18:01:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>76</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1983" sha1="r2lx6wmqvh06xlww0516uqsj9byga82" xml:space="preserve">== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+== Allgemeines ==
+* [[Geographie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+
+== Nützliche Links ==
+* [Offizielle Website der Stadt Ahrensburg https://www.ahrensburg.de) - Offizielle Informationen und Dienstleistungen der Stadtverwaltung
+* [Tourismus Ahrensburg https://www.ahrensburg.de/tourismus) - Informationen für Touristen, Sehenswürdigkeiten und Veranstaltungen</text>
+      <sha1>r2lx6wmqvh06xlww0516uqsj9byga82</sha1>
+    </revision>
+    <revision>
+      <id>77</id>
+      <parentid>76</parentid>
+      <timestamp>2024-08-09T18:06:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>77</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2131" sha1="dqv3rqz31wtbzpjzioahbhttgq9zql3" xml:space="preserve">== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+== Allgemeines ==
+* [[Geographie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen</text>
+      <sha1>dqv3rqz31wtbzpjzioahbhttgq9zql3</sha1>
+    </revision>
+    <revision>
+      <id>78</id>
+      <parentid>77</parentid>
+      <timestamp>2024-08-09T18:16:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>78</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2219" sha1="h3j1cqnmxsxqo4kplozqpj7jerfjhhy" xml:space="preserve">== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+== Allgemeines ==
+* [[Geographie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung</text>
+      <sha1>h3j1cqnmxsxqo4kplozqpj7jerfjhhy</sha1>
+    </revision>
+    <revision>
+      <id>79</id>
+      <parentid>78</parentid>
+      <timestamp>2024-08-09T18:27:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>79</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2276" sha1="f6jxvoi0rkxbqxv4ukry26lxngxfiqb" xml:space="preserve">== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+== Allgemeines ==
+* [[Geographie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]</text>
+      <sha1>f6jxvoi0rkxbqxv4ukry26lxngxfiqb</sha1>
+    </revision>
+    <revision>
+      <id>80</id>
+      <parentid>79</parentid>
+      <timestamp>2024-08-09T18:34:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Allgemeines */</comment>
+      <origin>80</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2376" sha1="dcldmtmwgcx4h7l32z2z8ouu2r6fu4v" xml:space="preserve">== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+== Allgemeines ==
+* [[Geographie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]</text>
+      <sha1>dcldmtmwgcx4h7l32z2z8ouu2r6fu4v</sha1>
+    </revision>
+    <revision>
+      <id>81</id>
+      <parentid>80</parentid>
+      <timestamp>2024-08-09T18:35:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Allgemeines */</comment>
+      <origin>81</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2377" sha1="em9e7541pj46vtxkg54xh2kpxoqryeu" xml:space="preserve">== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+== Allgemeines ==
+* [[Geographie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]</text>
+      <sha1>em9e7541pj46vtxkg54xh2kpxoqryeu</sha1>
+    </revision>
+    <revision>
+      <id>86</id>
+      <parentid>81</parentid>
+      <timestamp>2024-08-09T18:42:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Allgemeines */</comment>
+      <origin>86</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2275" sha1="ce81qu29bdf49vrgqkbhv1janqkzjc8" xml:space="preserve">== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+== Allgemeines ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]</text>
+      <sha1>ce81qu29bdf49vrgqkbhv1janqkzjc8</sha1>
+    </revision>
+    <revision>
+      <id>94</id>
+      <parentid>86</parentid>
+      <timestamp>2024-08-09T20:24:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>94</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2313" sha1="ql4lleb21rfnrxk45w78rmzrdnnu2b3" xml:space="preserve">== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+== Allgemeines ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Wiki]]
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]</text>
+      <sha1>ql4lleb21rfnrxk45w78rmzrdnnu2b3</sha1>
+    </revision>
+    <revision>
+      <id>97</id>
+      <parentid>94</parentid>
+      <timestamp>2024-08-09T20:56:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>97</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2339" sha1="kx1buwwx735a1rxrxaemzo9p17ttcw3" xml:space="preserve">== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+== Allgemeines ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Wiki]]
+* [[OpenStreetMap Tools]]
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]</text>
+      <sha1>kx1buwwx735a1rxrxaemzo9p17ttcw3</sha1>
+    </revision>
   </page>
   <page>
     <title>Thorsten</title>
@@ -326,6 +952,176 @@ Informationen über Ahrensburg. Leider können Sie die Artikel nicht bearbeiten,
 == Kategorien ==
 {{Special:Categories}}</text>
       <sha1>j95hn58mi94p0y60m7hg1anjpdqgdtx</sha1>
+    </revision>
+    <revision>
+      <id>71</id>
+      <parentid>10</parentid>
+      <timestamp>2024-08-09T16:36:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>71</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1451" sha1="9cs1mor9kfvunbjzkrb3w89mhbi7l3b" xml:space="preserve">== Wiki Software ==
+Wiki ist eine Software, die es ermöglicht, Webseiten zu erstellen und zu bearbeiten. Sie wird oft für die Erstellung von Online-Dokumentationen und Wissensdatenbanken verwendet.
+
+* Mediawiki ist eine der bekanntesten Wiki-Software. Es wird von Wikipedia verwendet.
+* DokuWiki ist eine weitere beliebte Wiki-Software. Es ist einfach zu bedienen und hat viele Funktionen.
+* Xwiki ist eine erweiterbare Wiki-Software. Es ist für Unternehmen und Organisationen geeignet.
+
+== Alternativen ==
+Es gibt viele Alternativen zu Wiki-Software. Einige davon sind:
+
+* WordPress: Ein beliebtes Content-Management-System, das auch als Wiki verwendet werden kann.
+
+== statischer Dokumentationsgenerator ==
+
+* antora: Ein statischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.
+* mkdocs: Ein weiterer statischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.
+* sphinx: Ein weiterer statischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.
+
+== dynamischer Dokumentationsgenerator ==
+
+* Hugo: Ein weiterer dynamischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.
+* Next.js: Ein weiterer dynamischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.
+* astro : Ein weiterer dynamischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.</text>
+      <sha1>9cs1mor9kfvunbjzkrb3w89mhbi7l3b</sha1>
+    </revision>
+    <revision>
+      <id>95</id>
+      <parentid>71</parentid>
+      <timestamp>2024-08-09T20:25:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* dynamischer Dokumentationsgenerator */</comment>
+      <origin>95</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1054" sha1="sbbe84arq9vu4hupv2ek8u7o52qlagt" xml:space="preserve">== Wiki Software ==
+Wiki ist eine Software, die es ermöglicht, Webseiten zu erstellen und zu bearbeiten. Sie wird oft für die Erstellung von Online-Dokumentationen und Wissensdatenbanken verwendet.
+
+* Mediawiki ist eine der bekanntesten Wiki-Software. Es wird von Wikipedia verwendet.
+* DokuWiki ist eine weitere beliebte Wiki-Software. Es ist einfach zu bedienen und hat viele Funktionen.
+* Xwiki ist eine erweiterbare Wiki-Software. Es ist für Unternehmen und Organisationen geeignet.
+
+== Alternativen ==
+Es gibt viele Alternativen zu Wiki-Software. Einige davon sind:
+
+* WordPress: Ein beliebtes Content-Management-System, das auch als Wiki verwendet werden kann.
+
+== statischer Dokumentationsgenerator ==
+
+* antora: Ein statischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.
+* mkdocs: Ein weiterer statischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.
+* sphinx: Ein weiterer statischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.</text>
+      <sha1>sbbe84arq9vu4hupv2ek8u7o52qlagt</sha1>
+    </revision>
+    <revision>
+      <id>96</id>
+      <parentid>95</parentid>
+      <timestamp>2024-08-09T20:45:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* statischer Dokumentationsgenerator */</comment>
+      <origin>96</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="946" sha1="calyiyk7epc11o7n8yn4fibnuhf22k7" xml:space="preserve">== Wiki Software ==
+Wiki ist eine Software, die es ermöglicht, Webseiten zu erstellen und zu bearbeiten. Sie wird oft für die Erstellung von Online-Dokumentationen und Wissensdatenbanken verwendet.
+
+* Mediawiki ist eine der bekanntesten Wiki-Software. Es wird von Wikipedia verwendet.
+* DokuWiki ist eine weitere beliebte Wiki-Software. Es ist einfach zu bedienen und hat viele Funktionen.
+* Xwiki ist eine erweiterbare Wiki-Software. Es ist für Unternehmen und Organisationen geeignet.
+
+== Alternativen ==
+Es gibt viele Alternativen zu Wiki-Software. Einige davon sind:
+
+* WordPress: Ein beliebtes Content-Management-System, das auch als Wiki verwendet werden kann.
+
+== statischer Dokumentationsgenerator ==
+
+* mkdocs: Ein weiterer statischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.
+* sphinx: Ein weiterer statischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.</text>
+      <sha1>calyiyk7epc11o7n8yn4fibnuhf22k7</sha1>
+    </revision>
+    <revision>
+      <id>101</id>
+      <parentid>96</parentid>
+      <timestamp>2024-08-10T09:12:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>101</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="923" sha1="12y91vodc1kkuoikhvwwqp6x8uib7va" xml:space="preserve">== Wiki Software ==
+Wiki ist eine Software, die es ermöglicht, Webseiten zu erstellen und zu bearbeiten. Sie wird oft für die Erstellung von Online-Dokumentationen und Wissensdatenbanken verwendet.
+
+* Mediawiki ist eine der bekanntesten Wiki-Software. Es wird von Wikipedia verwendet.
+* DokuWiki ist eine weitere beliebte Wiki-Software. Es ist einfach zu bedienen und hat viele Funktionen.
+* Xwiki ist eine erweiterbare Wiki-Software. Es ist für Unternehmen und Organisationen geeignet.
+
+== Alternativen ==
+Es gibt viele Alternativen zu Wiki-Software. Einige davon sind:
+
+* WordPress: Ein beliebtes Content-Management-System, das auch als Wiki verwendet werden kann.
+
+==StadtWiki Erweitung==
+* Semantic MediaWiki ist eine Erweiterung für Mediawiki, die es ermöglicht, strukturierte Daten in Wikiseiten zu verwenden.
+* Kategorie  
+* Interwiki 
+* Timeline 
+* Kartographie
+* Kalender
+* Galerie
+* Formulare 
+* Social Media</text>
+      <sha1>12y91vodc1kkuoikhvwwqp6x8uib7va</sha1>
+    </revision>
+    <revision>
+      <id>102</id>
+      <parentid>101</parentid>
+      <timestamp>2024-08-10T09:21:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>102</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="927" sha1="hv9u0k9oob5decc1rl82ohilz1ad0ol" xml:space="preserve">== Wiki Software ==
+Wiki ist eine Software, die es ermöglicht, Webseiten zu erstellen und zu bearbeiten. Sie wird oft für die Erstellung von Online-Dokumentationen und Wissensdatenbanken verwendet.
+
+* Mediawiki ist eine der bekanntesten Wiki-Software. Es wird von Wikipedia verwendet.
+* DokuWiki ist eine weitere beliebte Wiki-Software. Es ist einfach zu bedienen und hat viele Funktionen.
+* Xwiki ist eine erweiterbare Wiki-Software. Es ist für Unternehmen und Organisationen geeignet.
+
+== Alternativen ==
+Es gibt viele Alternativen zu Wiki-Software. Einige davon sind:
+
+* [[WordPress]]: Ein beliebtes Content-Management-System, das auch als Wiki verwendet werden kann.
+
+==StadtWiki Erweitung==
+* Semantic MediaWiki ist eine Erweiterung für Mediawiki, die es ermöglicht, strukturierte Daten in Wikiseiten zu verwenden.
+* Kategorie  
+* Interwiki 
+* Timeline 
+* Kartographie
+* Kalender
+* Galerie
+* Formulare 
+* Social Media</text>
+      <sha1>hv9u0k9oob5decc1rl82ohilz1ad0ol</sha1>
     </revision>
   </page>
   <page>
@@ -1148,6 +1944,1765 @@ php importDump.php &lt; pagedump.xml
 ==== Weblink ====
 * [https://www.mediawiki.org/wiki/Manual:DumpBackup.php Manual:DumpBackup.php]</text>
       <sha1>p8n4ue8uv1iy4e3q4jwta3pgyirh3fy</sha1>
+    </revision>
+    <revision>
+      <id>35</id>
+      <parentid>34</parentid>
+      <timestamp>2024-08-08T13:02:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Backup für MediaWiki erstellen */</comment>
+      <origin>35</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1336" sha1="oliwgkn2yb4cm2cgnsz3zccz2gas7z3" xml:space="preserve">== Tools ==
+===Git Installieren===
+&lt;pre&gt;
+sudo apt-get update 
+sudo apt-get upgrade
+
+sudo apt-get install git
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+&lt;/pre&gt;
+===GH Installieren===
+&lt;pre&gt;
+(type -p wget &gt;/dev/null || (sudo apt update &amp;&amp; sudo apt-get install wget -y)) \
+&amp;&amp; sudo mkdir -p -m 755 /etc/apt/keyrings \
+&amp;&amp; wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg &gt; /dev/null \
+&amp;&amp; sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+&amp;&amp; echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list &gt; /dev/null \
+&amp;&amp; sudo apt update \
+&amp;&amp; sudo apt install gh -y
+&lt;/pre&gt;
+
+====GH Anmelden=====
+
+&lt;pre&gt;
+gh auth login
+&lt;/pre&gt;
+
+=== Backup für MediaWiki erstellen ===
+
+&lt;pre&gt;
+cd /var/www
+gh repo clone thorstenkloehn/Download
+sudo chmod 777 -R Download
+cd /var/www/Download
+php /var/www/mediawiki/maintenance/dumpBackup.php --full &gt; /var/www/Download/pagedump.xml
+
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+
+&lt;pre&gt;
+php importDump.php &lt; pagedump.xml
+&lt;/pre&gt;
+==== Weblink ====
+* [https://www.mediawiki.org/wiki/Manual:DumpBackup.php Manual:DumpBackup.php]</text>
+      <sha1>oliwgkn2yb4cm2cgnsz3zccz2gas7z3</sha1>
+    </revision>
+    <revision>
+      <id>37</id>
+      <parentid>35</parentid>
+      <timestamp>2024-08-08T13:06:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>37</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+    <revision>
+      <id>38</id>
+      <parentid>37</parentid>
+      <timestamp>2024-08-08T13:08:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>38</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1336" sha1="oliwgkn2yb4cm2cgnsz3zccz2gas7z3" xml:space="preserve">== Tools ==
+===Git Installieren===
+&lt;pre&gt;
+sudo apt-get update 
+sudo apt-get upgrade
+
+sudo apt-get install git
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+&lt;/pre&gt;
+===GH Installieren===
+&lt;pre&gt;
+(type -p wget &gt;/dev/null || (sudo apt update &amp;&amp; sudo apt-get install wget -y)) \
+&amp;&amp; sudo mkdir -p -m 755 /etc/apt/keyrings \
+&amp;&amp; wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg &gt; /dev/null \
+&amp;&amp; sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+&amp;&amp; echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list &gt; /dev/null \
+&amp;&amp; sudo apt update \
+&amp;&amp; sudo apt install gh -y
+&lt;/pre&gt;
+
+====GH Anmelden=====
+
+&lt;pre&gt;
+gh auth login
+&lt;/pre&gt;
+
+=== Backup für MediaWiki erstellen ===
+
+&lt;pre&gt;
+cd /var/www
+gh repo clone thorstenkloehn/Download
+sudo chmod 777 -R Download
+cd /var/www/Download
+php /var/www/mediawiki/maintenance/dumpBackup.php --full &gt; /var/www/Download/pagedump.xml
+
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+
+&lt;pre&gt;
+php importDump.php &lt; pagedump.xml
+&lt;/pre&gt;
+==== Weblink ====
+* [https://www.mediawiki.org/wiki/Manual:DumpBackup.php Manual:DumpBackup.php]</text>
+      <sha1>oliwgkn2yb4cm2cgnsz3zccz2gas7z3</sha1>
+    </revision>
+    <revision>
+      <id>39</id>
+      <parentid>38</parentid>
+      <timestamp>2024-08-08T13:15:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>39</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1377" sha1="8whqc33tc5fgbzwzqaufnn6x50bulab" xml:space="preserve">== Tools ==
+===Git Installieren===
+&lt;pre&gt;
+sudo apt-get update 
+sudo apt-get upgrade
+
+sudo apt-get install git
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+&lt;/pre&gt;
+===GH Installieren===
+&lt;pre&gt;
+(type -p wget &gt;/dev/null || (sudo apt update &amp;&amp; sudo apt-get install wget -y)) \
+&amp;&amp; sudo mkdir -p -m 755 /etc/apt/keyrings \
+&amp;&amp; wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg &gt; /dev/null \
+&amp;&amp; sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+&amp;&amp; echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list &gt; /dev/null \
+&amp;&amp; sudo apt update \
+&amp;&amp; sudo apt install gh -y
+&lt;/pre&gt;
+
+====GH Anmelden=====
+
+&lt;pre&gt;
+gh auth login
+&lt;/pre&gt;
+
+=== Backup für MediaWiki erstellen ===
+
+&lt;pre&gt;
+cd /var/www
+gh repo clone thorstenkloehn/Download
+sudo chmod 777 -R Download
+cd /var/www/Download
+php /var/www/mediawiki/maintenance/dumpBackup.php --full &gt; /var/www/Download/pagedump.xml
+git add .
+git commit -m "Backup"
+git push
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+
+&lt;pre&gt;
+php importDump.php &lt; pagedump.xml
+&lt;/pre&gt;
+==== Weblink ====
+* [https://www.mediawiki.org/wiki/Manual:DumpBackup.php Manual:DumpBackup.php]</text>
+      <sha1>8whqc33tc5fgbzwzqaufnn6x50bulab</sha1>
+    </revision>
+    <revision>
+      <id>40</id>
+      <parentid>39</parentid>
+      <timestamp>2024-08-08T13:18:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>40</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1502" sha1="i8yt0r3zji2xd0nikz5kzy7m6vvqc62" xml:space="preserve">== Tools ==
+===Git Installieren===
+&lt;pre&gt;
+sudo apt-get update 
+sudo apt-get upgrade
+
+sudo apt-get install git
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+&lt;/pre&gt;
+===GH Installieren===
+&lt;pre&gt;
+(type -p wget &gt;/dev/null || (sudo apt update &amp;&amp; sudo apt-get install wget -y)) \
+&amp;&amp; sudo mkdir -p -m 755 /etc/apt/keyrings \
+&amp;&amp; wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg &gt; /dev/null \
+&amp;&amp; sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+&amp;&amp; echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list &gt; /dev/null \
+&amp;&amp; sudo apt update \
+&amp;&amp; sudo apt install gh -y
+&lt;/pre&gt;
+
+====GH Anmelden=====
+
+&lt;pre&gt;
+gh auth login
+&lt;/pre&gt;
+
+=== Backup für MediaWiki erstellen ===
+
+&lt;pre&gt;
+cd /var/www
+gh repo clone thorstenkloehn/Download
+sudo chmod 777 -R Download
+cd /var/www/Download
+php /var/www/mediawiki/maintenance/dumpBackup.php --full &gt; /var/www/Download/pagedump.xml
+git add .
+git commit -m "Backup"
+git push
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+
+&lt;pre&gt;
+php importDump.php &lt; pagedump.xml
+&lt;/pre&gt;
+==== Weblink ====
+* [https://www.mediawiki.org/wiki/Manual:DumpBackup.php Manual:DumpBackup.php]
+
+[[Category:Ahrensburg.city]]
+[[Category:Tools]]
+[[Category:Git]]
+[[Category:GH]]
+[[Category:Backup]]
+[[Category:MediaWiki]]</text>
+      <sha1>i8yt0r3zji2xd0nikz5kzy7m6vvqc62</sha1>
+    </revision>
+    <revision>
+      <id>41</id>
+      <parentid>40</parentid>
+      <timestamp>2024-08-08T13:20:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>41</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1375" sha1="9paiena5zdnuew07ftucrc43eamwk7m" xml:space="preserve">== Tools ==
+===Git Installieren===
+&lt;pre&gt;
+sudo apt-get update 
+sudo apt-get upgrade
+
+sudo apt-get install git
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+&lt;/pre&gt;
+===GH Installieren===
+&lt;pre&gt;
+(type -p wget &gt;/dev/null || (sudo apt update &amp;&amp; sudo apt-get install wget -y)) \
+&amp;&amp; sudo mkdir -p -m 755 /etc/apt/keyrings \
+&amp;&amp; wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg &gt; /dev/null \
+&amp;&amp; sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+&amp;&amp; echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list &gt; /dev/null \
+&amp;&amp; sudo apt update \
+&amp;&amp; sudo apt install gh -y
+&lt;/pre&gt;
+
+====GH Anmelden=====
+
+&lt;pre&gt;
+gh auth login
+&lt;/pre&gt;
+
+=== Backup für MediaWiki erstellen ===
+
+&lt;pre&gt;
+cd /var/www
+gh repo clone thorstenkloehn/Download
+sudo chmod 777 -R Download
+cd /var/www/Download
+php /var/www/mediawiki/maintenance/dumpBackup.php --full &gt; /var/www/Download/pagedump.xml
+git add .
+git commit -m "Backup"
+git push
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+
+&lt;pre&gt;
+php importDump.php &lt; pagedump.xml
+&lt;/pre&gt;
+[[Category:Tools]]
+[[Category:Git]]
+[[Category:GH]]
+[[Category:Backup]]
+[[Category:MediaWiki]]</text>
+      <sha1>9paiena5zdnuew07ftucrc43eamwk7m</sha1>
+    </revision>
+    <revision>
+      <id>44</id>
+      <parentid>41</parentid>
+      <timestamp>2024-08-09T04:50:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>44</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1101" sha1="fuv6qlyvze3ir947ivpx7ewhvlhhd6p" xml:space="preserve">site_name: Dokument 
+nav:
+  - Starseite: index.md
+  - Server:
+    - Server20.04: Server/index.md
+    - Server22.04: Server/Server224.md
+    - Server24.04: Server/Server244.md
+    - Server Mieten: Server/Server_Mieten.md
+  - IDE: IDE/index.md  
+  - Wordpress:
+    - Installieren: CMS/Wordpress/index.md
+    - klassik Themen: CMS/Wordpress/classe:Themen.md
+  - Mediawiki:
+    - Installieren: CMS/Mediawiki/index.md
+  - Static Site Generator:
+    - Code-Dokumentationen:
+      - mkdocs: SSG/mkdocs.md
+      - sphinx: SSG/sphinx.md
+    - Frameworks:
+      - next.js: SSG/next.js.md
+      - astro.build: SSG/astro.build.md
+    - Github-pages: SSG/github_page.md
+  
+  - Tools:
+    - Pandoc: Tools/Pandoc.md
+    - Analysetool: Tools/Analysetool.md
+    - Benchmark: Tools/Benchmark.md
+  - Impressum: Impressum.md
+  - Datenschutz: Datenschutz.md
+theme:
+  name: 'material'
+  language: de
+plugins:
+    - search
+extra:
+  consent:
+    title: Cookie-Zustimmung
+    description: &gt;-
+      Wir verwenden Cookies, um Ihre Besuche und Präferenzen zu erkennen und die
+      Effektivität unserer Dokumentation zu messen.</text>
+      <sha1>fuv6qlyvze3ir947ivpx7ewhvlhhd6p</sha1>
+    </revision>
+    <revision>
+      <id>45</id>
+      <parentid>44</parentid>
+      <timestamp>2024-08-09T04:53:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>45</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1375" sha1="9paiena5zdnuew07ftucrc43eamwk7m" xml:space="preserve">== Tools ==
+===Git Installieren===
+&lt;pre&gt;
+sudo apt-get update 
+sudo apt-get upgrade
+
+sudo apt-get install git
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+
+&lt;/pre&gt;
+===GH Installieren===
+&lt;pre&gt;
+(type -p wget &gt;/dev/null || (sudo apt update &amp;&amp; sudo apt-get install wget -y)) \
+&amp;&amp; sudo mkdir -p -m 755 /etc/apt/keyrings \
+&amp;&amp; wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg &gt; /dev/null \
+&amp;&amp; sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+&amp;&amp; echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list &gt; /dev/null \
+&amp;&amp; sudo apt update \
+&amp;&amp; sudo apt install gh -y
+&lt;/pre&gt;
+
+====GH Anmelden=====
+
+&lt;pre&gt;
+gh auth login
+&lt;/pre&gt;
+
+=== Backup für MediaWiki erstellen ===
+
+&lt;pre&gt;
+cd /var/www
+gh repo clone thorstenkloehn/Download
+sudo chmod 777 -R Download
+cd /var/www/Download
+php /var/www/mediawiki/maintenance/dumpBackup.php --full &gt; /var/www/Download/pagedump.xml
+git add .
+git commit -m "Backup"
+git push
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+
+&lt;pre&gt;
+php importDump.php &lt; pagedump.xml
+&lt;/pre&gt;
+[[Category:Tools]]
+[[Category:Git]]
+[[Category:GH]]
+[[Category:Backup]]
+[[Category:MediaWiki]]</text>
+      <sha1>9paiena5zdnuew07ftucrc43eamwk7m</sha1>
+    </revision>
+    <revision>
+      <id>46</id>
+      <parentid>45</parentid>
+      <timestamp>2024-08-09T04:56:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>46</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1394" sha1="johdmhz70qpdt9rfrg46wc9bfopbjxd" xml:space="preserve">== Tools ==
+=== Git installieren ===
+&lt;pre&gt;
+sudo apt-get update 
+sudo apt-get upgrade
+
+sudo apt-get install git
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+&lt;/pre&gt;
+
+=== GitHub CLI installieren ===
+&lt;pre&gt;
+(type -p wget &gt;/dev/null || (sudo apt update &amp;&amp; sudo apt-get install wget -y)) \
+&amp;&amp; sudo mkdir -p -m 755 /etc/apt/keyrings \
+&amp;&amp; wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg &gt; /dev/null \
+&amp;&amp; sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+&amp;&amp; echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list &gt; /dev/null \
+&amp;&amp; sudo apt update \
+&amp;&amp; sudo apt install gh -y
+&lt;/pre&gt;
+
+==== GitHub CLI anmelden ====
+&lt;pre&gt;
+gh auth login
+&lt;/pre&gt;
+
+=== Backup für MediaWiki erstellen ===
+&lt;pre&gt;
+cd /var/www
+gh repo clone thorstenkloehn/Download
+sudo chmod 777 -R Download
+cd /var/www/Download
+php /var/www/mediawiki/maintenance/dumpBackup.php --full &gt; /var/www/Download/pagedump.xml
+git add .
+git commit -m "Backup"
+git push
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+&lt;pre&gt;
+php importDump.php &lt; pagedump.xml
+&lt;/pre&gt;
+
+[[Category:Tools]]
+[[Category:Git]]
+[[Category:GH]]
+[[Category:Backup]]
+[[Category:MediaWiki]]</text>
+      <sha1>johdmhz70qpdt9rfrg46wc9bfopbjxd</sha1>
+    </revision>
+    <revision>
+      <id>106</id>
+      <parentid>46</parentid>
+      <timestamp>2024-08-10T10:09:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Backup für MediaWiki erstellen */</comment>
+      <origin>106</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1403" sha1="2pm0owyete3661aa348q7aduq70ziiy" xml:space="preserve">== Tools ==
+=== Git installieren ===
+&lt;pre&gt;
+sudo apt-get update 
+sudo apt-get upgrade
+
+sudo apt-get install git
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+&lt;/pre&gt;
+
+=== GitHub CLI installieren ===
+&lt;pre&gt;
+(type -p wget &gt;/dev/null || (sudo apt update &amp;&amp; sudo apt-get install wget -y)) \
+&amp;&amp; sudo mkdir -p -m 755 /etc/apt/keyrings \
+&amp;&amp; wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg &gt; /dev/null \
+&amp;&amp; sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+&amp;&amp; echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list &gt; /dev/null \
+&amp;&amp; sudo apt update \
+&amp;&amp; sudo apt install gh -y
+&lt;/pre&gt;
+
+==== GitHub CLI anmelden ====
+&lt;pre&gt;
+gh auth login
+&lt;/pre&gt;
+
+=== Backup für MediaWiki erstellen ===
+&lt;pre&gt;
+cd /var/www
+gh repo clone thorstenkloehn/Download
+sudo chmod 777 -R Download
+cd /var/www/Download
+sudo rm 
+php /var/www/mediawiki/maintenance/dumpBackup.php --full &gt; /var/www/Download/pagedump.xml
+git add .
+git commit -m "Backup"
+git push
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+&lt;pre&gt;
+php importDump.php &lt; pagedump.xml
+&lt;/pre&gt;
+
+[[Category:Tools]]
+[[Category:Git]]
+[[Category:GH]]
+[[Category:Backup]]
+[[Category:MediaWiki]]</text>
+      <sha1>2pm0owyete3661aa348q7aduq70ziiy</sha1>
+    </revision>
+    <revision>
+      <id>107</id>
+      <parentid>106</parentid>
+      <timestamp>2024-08-10T10:10:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Backup für MediaWiki erstellen */</comment>
+      <origin>107</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1433" sha1="jrmv7f7iz8upwbhq4trgmclbvptz3xt" xml:space="preserve">== Tools ==
+=== Git installieren ===
+&lt;pre&gt;
+sudo apt-get update 
+sudo apt-get upgrade
+
+sudo apt-get install git
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+&lt;/pre&gt;
+
+=== GitHub CLI installieren ===
+&lt;pre&gt;
+(type -p wget &gt;/dev/null || (sudo apt update &amp;&amp; sudo apt-get install wget -y)) \
+&amp;&amp; sudo mkdir -p -m 755 /etc/apt/keyrings \
+&amp;&amp; wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg &gt; /dev/null \
+&amp;&amp; sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+&amp;&amp; echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list &gt; /dev/null \
+&amp;&amp; sudo apt update \
+&amp;&amp; sudo apt install gh -y
+&lt;/pre&gt;
+
+==== GitHub CLI anmelden ====
+&lt;pre&gt;
+gh auth login
+&lt;/pre&gt;
+
+=== Backup für MediaWiki erstellen ===
+&lt;pre&gt;
+cd /var/www
+gh repo clone thorstenkloehn/Download
+sudo chmod 777 -R Download
+cd /var/www/Download
+sudo rm /var/www/Download/pagedump.xml
+php /var/www/mediawiki/maintenance/dumpBackup.php --full &gt; /var/www/Download/pagedump.xml
+git add .
+git commit -m "Backup"
+git push
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+&lt;pre&gt;
+php importDump.php &lt; pagedump.xml
+&lt;/pre&gt;
+
+[[Category:Tools]]
+[[Category:Git]]
+[[Category:GH]]
+[[Category:Backup]]
+[[Category:MediaWiki]]</text>
+      <sha1>jrmv7f7iz8upwbhq4trgmclbvptz3xt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Test</title>
+    <ns>0</ns>
+    <id>8</id>
+    <revision>
+      <id>36</id>
+      <timestamp>2024-08-08T13:05:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>36</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="216" sha1="3mglsueo58eaj6uvwar49k90q643mtw" xml:space="preserve">== Tools ==
+
+gh installieren in ubuntu 20.04
+
+=== Installation ===
+
+```bash
+sudo apt-get install git
+```
+
+=== Konfiguration ===
+
+```bash
+git config --global user.name "John Doe"
+git config --global user.email
+
+```
+==</text>
+      <sha1>3mglsueo58eaj6uvwar49k90q643mtw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Tools</title>
+    <ns>14</ns>
+    <id>9</id>
+    <revision>
+      <id>42</id>
+      <timestamp>2024-08-08T19:14:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>42</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="112" sha1="6lm3o0mou814r1eoouzmqkgq1bfuaok" xml:space="preserve">== Tools ==
+
+Hier findest du eine Übersicht über die Tools, die dir bei der Arbeit an Wikidata helfen können.</text>
+      <sha1>6lm3o0mou814r1eoouzmqkgq1bfuaok</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Git</title>
+    <ns>14</ns>
+    <id>10</id>
+    <revision>
+      <id>43</id>
+      <timestamp>2024-08-08T19:18:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>43</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="70" sha1="qpbhkn74lb2f4ff0nfkjbol1bqpkdx8" xml:space="preserve">== Git Kategorie ==
+
+Hier sind alle Artikel zum Thema Git aufgelistet.</text>
+      <sha1>qpbhkn74lb2f4ff0nfkjbol1bqpkdx8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:GH</title>
+    <ns>14</ns>
+    <id>11</id>
+    <revision>
+      <id>47</id>
+      <timestamp>2024-08-09T04:58:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>47</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1394" sha1="johdmhz70qpdt9rfrg46wc9bfopbjxd" xml:space="preserve">== Tools ==
+=== Git installieren ===
+&lt;pre&gt;
+sudo apt-get update 
+sudo apt-get upgrade
+
+sudo apt-get install git
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+&lt;/pre&gt;
+
+=== GitHub CLI installieren ===
+&lt;pre&gt;
+(type -p wget &gt;/dev/null || (sudo apt update &amp;&amp; sudo apt-get install wget -y)) \
+&amp;&amp; sudo mkdir -p -m 755 /etc/apt/keyrings \
+&amp;&amp; wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg &gt; /dev/null \
+&amp;&amp; sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+&amp;&amp; echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list &gt; /dev/null \
+&amp;&amp; sudo apt update \
+&amp;&amp; sudo apt install gh -y
+&lt;/pre&gt;
+
+==== GitHub CLI anmelden ====
+&lt;pre&gt;
+gh auth login
+&lt;/pre&gt;
+
+=== Backup für MediaWiki erstellen ===
+&lt;pre&gt;
+cd /var/www
+gh repo clone thorstenkloehn/Download
+sudo chmod 777 -R Download
+cd /var/www/Download
+php /var/www/mediawiki/maintenance/dumpBackup.php --full &gt; /var/www/Download/pagedump.xml
+git add .
+git commit -m "Backup"
+git push
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+&lt;pre&gt;
+php importDump.php &lt; pagedump.xml
+&lt;/pre&gt;
+
+[[Category:Tools]]
+[[Category:Git]]
+[[Category:GH]]
+[[Category:Backup]]
+[[Category:MediaWiki]]</text>
+      <sha1>johdmhz70qpdt9rfrg46wc9bfopbjxd</sha1>
+    </revision>
+    <revision>
+      <id>48</id>
+      <parentid>47</parentid>
+      <timestamp>2024-08-09T05:02:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>48</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="82" sha1="0uw2ngd9s5989e9nxy10g1epi9t116g" xml:space="preserve">== GH GitHub==
+Hier finden Sie alle Artikel, die sich mit GH GitHub beschäftigen.</text>
+      <sha1>0uw2ngd9s5989e9nxy10g1epi9t116g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Backup</title>
+    <ns>14</ns>
+    <id>12</id>
+    <revision>
+      <id>49</id>
+      <timestamp>2024-08-09T05:20:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>49</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="82" sha1="0uw2ngd9s5989e9nxy10g1epi9t116g" xml:space="preserve">== GH GitHub==
+Hier finden Sie alle Artikel, die sich mit GH GitHub beschäftigen.</text>
+      <sha1>0uw2ngd9s5989e9nxy10g1epi9t116g</sha1>
+    </revision>
+    <revision>
+      <id>50</id>
+      <parentid>49</parentid>
+      <timestamp>2024-08-09T05:22:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>50</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="107" sha1="igvo8l021t5v5u58wltwtdznde018h7" xml:space="preserve">== Backup==
+
+Hier finden Sie eine Übersicht über die verschiedenen Backup-Möglichkeiten für Ihre Daten.</text>
+      <sha1>igvo8l021t5v5u58wltwtdznde018h7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:MediaWiki</title>
+    <ns>14</ns>
+    <id>13</id>
+    <revision>
+      <id>51</id>
+      <timestamp>2024-08-09T05:43:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>51</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="126" sha1="2peins06s3vixvlgpluwkidqp5mzb9x" xml:space="preserve">== Kategorie MediaWiki==
+
+Hier finden sich Artikel, die sich mit der Software MediaWiki beschäftigen.
+
+[[Kategorie:Software]]</text>
+      <sha1>2peins06s3vixvlgpluwkidqp5mzb9x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Software</title>
+    <ns>14</ns>
+    <id>14</id>
+    <revision>
+      <id>52</id>
+      <timestamp>2024-08-09T05:46:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>52</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="70" sha1="99acsx9ys1dsvlbveck3ux70fudlhfp" xml:space="preserve">==Kategorie:Software==
+Hier sind alle Artikel zu Software aufgelistet.</text>
+      <sha1>99acsx9ys1dsvlbveck3ux70fudlhfp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ahrensburg</title>
+    <ns>0</ns>
+    <id>15</id>
+    <revision>
+      <id>53</id>
+      <timestamp>2024-08-09T05:48:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „== Ahrensburg == Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. == Geographie == Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf. ===Klima=== Das Klima in Ahrensburg ist gemäßigt. Die durchs…“</comment>
+      <origin>53</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="781" sha1="0sx9qudajktg4up9vy4q8d6mg24oofs" xml:space="preserve">== Ahrensburg ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner.
+== Geographie ==
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.</text>
+      <sha1>0sx9qudajktg4up9vy4q8d6mg24oofs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Geographie</title>
+    <ns>0</ns>
+    <id>16</id>
+    <revision>
+      <id>62</id>
+      <timestamp>2024-08-09T06:37:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „== Ahrensburg == Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. == Geographie == Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf. ===Klima=== Das Klima in Ahrensburg ist gemäßigt. Die durchs…“</comment>
+      <origin>62</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="781" sha1="0sx9qudajktg4up9vy4q8d6mg24oofs" xml:space="preserve">== Ahrensburg ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner.
+== Geographie ==
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.</text>
+      <sha1>0sx9qudajktg4up9vy4q8d6mg24oofs</sha1>
+    </revision>
+    <revision>
+      <id>63</id>
+      <parentid>62</parentid>
+      <timestamp>2024-08-09T09:58:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>63</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="905" sha1="ayxxcqriabt56sx09p8x0cnmveki45c" xml:space="preserve">Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner.
+== Geographie ==
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+==== Stadtgebiet ====
+==== Waldgebiete ====
+==== Gewässer ====
+=== Naturschutzgebiete ===
+=== Parks und Grünanlagen ===</text>
+      <sha1>ayxxcqriabt56sx09p8x0cnmveki45c</sha1>
+    </revision>
+    <revision>
+      <id>64</id>
+      <parentid>63</parentid>
+      <timestamp>2024-08-09T10:37:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>64</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="965" sha1="suh4qs6ijczxggee8ctxytbd334eyxb" xml:space="preserve">Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner.
+== Geographie ==
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+* [[Hamburger Ring Nr. 695]] - [[Südholsteinischen Geest]]
+==== Stadtgebiet ====
+==== Waldgebiete ====
+==== Gewässer ====
+=== Naturschutzgebiete ===
+=== Parks und Grünanlagen ===</text>
+      <sha1>suh4qs6ijczxggee8ctxytbd334eyxb</sha1>
+    </revision>
+    <revision>
+      <id>65</id>
+      <parentid>64</parentid>
+      <timestamp>2024-08-09T10:40:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>65</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1213" sha1="t57hjo17khkvz5q9uxo8a0ermf7x806" xml:space="preserve">Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner.
+== Geographie ==
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der [[Südholsteinischen Geest]] - [[[[Hamburger Ring Nr. 695]]. Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Stadtgebiet ====
+==== Waldgebiete ====
+==== Gewässer ====
+=== Naturschutzgebiete ===
+=== Parks und Grünanlagen ===</text>
+      <sha1>t57hjo17khkvz5q9uxo8a0ermf7x806</sha1>
+    </revision>
+    <revision>
+      <id>68</id>
+      <parentid>65</parentid>
+      <timestamp>2024-08-09T10:59:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>68</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1183" sha1="4vyfjp04q3gcw9o4f5otg0v2jy4wsbz" xml:space="preserve">Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner.
+== Geographie ==
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der [[Südholsteinischen Geest]] . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Stadtgebiet ====
+==== Waldgebiete ====
+==== Gewässer ====
+=== Naturschutzgebiete ===
+=== Parks und Grünanlagen ===</text>
+      <sha1>4vyfjp04q3gcw9o4f5otg0v2jy4wsbz</sha1>
+    </revision>
+    <revision>
+      <id>70</id>
+      <parentid>68</parentid>
+      <timestamp>2024-08-09T11:17:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>70</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1430" sha1="71fy9uj7o18x7h3cg5jwo7aphg4jea3" xml:space="preserve">Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+== Geographie ==
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der [[Südholsteinischen Geest]] . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+==== Gewässer ====
+=== Naturschutzgebiete ===
+=== Parks und Grünanlagen ===</text>
+      <sha1>71fy9uj7o18x7h3cg5jwo7aphg4jea3</sha1>
+    </revision>
+    <revision>
+      <id>72</id>
+      <parentid>70</parentid>
+      <timestamp>2024-08-09T17:27:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>72</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1833" sha1="owr254gj5jx81ue2q5por0kw3j6d5sy" xml:space="preserve">Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+== Geographie ==
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der [[Südholsteinischen Geest]] . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+=== Naturschutzgebiete ===
+* NSG Stellmoorer Tunneltal - NSG Heidkoppelmoor - NSG Ammersbek-Niederung - Höltigbaum
+=== Parks und Grünanlagen ===</text>
+      <sha1>owr254gj5jx81ue2q5por0kw3j6d5sy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Südholsteinischen Geest</title>
+    <ns>0</ns>
+    <id>17</id>
+    <revision>
+      <id>66</id>
+      <timestamp>2024-08-09T10:53:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>66</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="456" sha1="95920ghn3s25guctutaz36nga7z9fe7" xml:space="preserve">Die '''Südholsteinische Geest''' ist eine Landschaft in Schleswig-Holstein. Sie liegt im Süden des Bundeslandes und erstreckt sich von der Elbe im Westen bis zur Ostsee im Osten. Die Geest ist geprägt von sanften Hügeln, weiten Feldern und Wäldern.
+== Geschichte ==
+Die Südholsteinische Geest entstand während der letzten Eiszeit. Vor etwa 10.000 Jahren zogen sich die Gletscher zurück und hinterließen eine Landschaft aus Moränen, Sand und Kies.</text>
+      <sha1>95920ghn3s25guctutaz36nga7z9fe7</sha1>
+    </revision>
+    <revision>
+      <id>67</id>
+      <parentid>66</parentid>
+      <timestamp>2024-08-09T10:55:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>67</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="353" sha1="ludnw6vmrrelhclxh2q1ky0d5npwfnl" xml:space="preserve">Die '''Südholsteinische Geest''' ist eine Landschaft in Schleswig-Holstein.  Die Geest ist geprägt von sanften Hügeln, weiten Feldern und Wäldern.
+== Geschichte ==
+Die Südholsteinische Geest entstand während der letzten Eiszeit. Vor etwa 10.000 Jahren zogen sich die Gletscher zurück und hinterließen eine Landschaft aus Moränen, Sand und Kies.</text>
+      <sha1>ludnw6vmrrelhclxh2q1ky0d5npwfnl</sha1>
+    </revision>
+    <revision>
+      <id>84</id>
+      <parentid>67</parentid>
+      <timestamp>2024-08-09T18:41:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>84</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="493" sha1="ns5mvlniu9u2v7e76wgyhuwmi8r82y9" xml:space="preserve">Die '''Südholsteinische Geest''' ist eine Landschaft in Schleswig-Holstein.  Die Geest ist geprägt von sanften Hügeln, weiten Feldern und Wäldern.
+== Geschichte ==
+Die Südholsteinische Geest entstand während der letzten Eiszeit. Vor etwa 10.000 Jahren zogen sich die Gletscher zurück und hinterließen eine Landschaft aus Moränen, Sand und Kies.
+==Wenlinks==
+*[https://de.wikipedia.org/wiki/Ahrensburg Wikipedia]
+*[https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Wikpedia Kategorie]</text>
+      <sha1>ns5mvlniu9u2v7e76wgyhuwmi8r82y9</sha1>
+    </revision>
+    <revision>
+      <id>85</id>
+      <parentid>84</parentid>
+      <timestamp>2024-08-09T18:41:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>85</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="366" sha1="161ps25fjftkxu9uunc8kuglhsi5fk0" xml:space="preserve">Die '''Südholsteinische Geest''' ist eine Landschaft in Schleswig-Holstein.  Die Geest ist geprägt von sanften Hügeln, weiten Feldern und Wäldern.
+== Geschichte ==
+Die Südholsteinische Geest entstand während der letzten Eiszeit. Vor etwa 10.000 Jahren zogen sich die Gletscher zurück und hinterließen eine Landschaft aus Moränen, Sand und Kies.
+==Wenlinks==</text>
+      <sha1>161ps25fjftkxu9uunc8kuglhsi5fk0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Forst Hagen</title>
+    <ns>0</ns>
+    <id>18</id>
+    <revision>
+      <id>73</id>
+      <timestamp>2024-08-09T17:54:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>73</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="843" sha1="anndj824vr8icad5a6e3g5sarqxzj8j" xml:space="preserve">== Forst Hagen==
+Die Waldfläche beträgt ca. 140 ha.
+Der Forst Hagen ist ein Waldgebiet in Ahrensburg und ein beliebtes Naherholungsgebiet. Es wird von vielen Menschen zum Spazierengehen und Joggen genutzt und ist ein wichtiger Lebensraum für zahlreiche Tiere und Pflanzen.
+Er ist ein geschätzter Bestandteil der Stadt und bietet eine willkommene Abwechslung zum hektischen Alltag. Er lädt zum Entspannen und Erholen ein und ist ein beliebtes Ausflugsziel für Jung und Alt.
+== Weblinks ==
+
+* [https://www.kreis-stormarn.de/freizeit-und-tourismus/waelder-und-moore/index.html#:~:text=Ein%20Teil%20des%20Naturschutzgebietes%20Stellmoor,des%20Waldes%20ungest%C3%B6rt%20entwickeln%20kann Stormarner Wälder]
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Forst-Hagen/ Forst Hagen auf der Website der Stadt Ahrensburg]</text>
+      <sha1>anndj824vr8icad5a6e3g5sarqxzj8j</sha1>
+    </revision>
+    <revision>
+      <id>74</id>
+      <parentid>73</parentid>
+      <timestamp>2024-08-09T17:55:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>74</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="750" sha1="qnfxq844d6qbc2qin5cojzff2xif5d8" xml:space="preserve">== Forst Hagen==
+Die Waldfläche beträgt ca. 140 ha.
+Der Forst Hagen ist ein Waldgebiet in Ahrensburg und ein beliebtes Naherholungsgebiet. Es wird von vielen Menschen zum Spazierengehen und Joggen genutzt und ist ein wichtiger Lebensraum für zahlreiche Tiere und Pflanzen.
+Er ist ein geschätzter Bestandteil der Stadt und bietet eine willkommene Abwechslung zum hektischen Alltag.
+
+== Weblinks ==
+
+* [https://www.kreis-stormarn.de/freizeit-und-tourismus/waelder-und-moore/index.html#:~:text=Ein%20Teil%20des%20Naturschutzgebietes%20Stellmoor,des%20Waldes%20ungest%C3%B6rt%20entwickeln%20kann Stormarner Wälder]
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Forst-Hagen/ Forst Hagen auf der Website der Stadt Ahrensburg]</text>
+      <sha1>qnfxq844d6qbc2qin5cojzff2xif5d8</sha1>
+    </revision>
+    <revision>
+      <id>91</id>
+      <parentid>74</parentid>
+      <timestamp>2024-08-09T19:16:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Forst Hagen */</comment>
+      <origin>91</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="734" sha1="tly90ls1hzqsldphvri2u03syxajnmw" xml:space="preserve">
+Die Waldfläche beträgt ca. 140 ha.
+Der Forst Hagen ist ein Waldgebiet in Ahrensburg und ein beliebtes Naherholungsgebiet. Es wird von vielen Menschen zum Spazierengehen und Joggen genutzt und ist ein wichtiger Lebensraum für zahlreiche Tiere und Pflanzen.
+Er ist ein geschätzter Bestandteil der Stadt und bietet eine willkommene Abwechslung zum hektischen Alltag.
+
+== Weblinks ==
+
+* [https://www.kreis-stormarn.de/freizeit-und-tourismus/waelder-und-moore/index.html#:~:text=Ein%20Teil%20des%20Naturschutzgebietes%20Stellmoor,des%20Waldes%20ungest%C3%B6rt%20entwickeln%20kann Stormarner Wälder]
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Forst-Hagen/ Forst Hagen auf der Website der Stadt Ahrensburg]</text>
+      <sha1>tly90ls1hzqsldphvri2u03syxajnmw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Geografie</title>
+    <ns>0</ns>
+    <id>19</id>
+    <revision>
+      <id>82</id>
+      <timestamp>2024-08-09T18:36:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.  Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind: * ca. 963 ha Wohnbaufläche, * ca. 253 ha Gewerbefläche, * ca. 635 ha Waldfläche und * ca. 80 ha Wasserfläche. == Geografie == Ahrensburg liegt etwa 20 km nordöstlich…“</comment>
+      <origin>82</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1832" sha1="7dc136w335ppeydssy0rvz7ocd934mf" xml:space="preserve">Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+== Geografie ==
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der [[Südholsteinischen Geest]] . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+=== Naturschutzgebiete ===
+* NSG Stellmoorer Tunneltal - NSG Heidkoppelmoor - NSG Ammersbek-Niederung - Höltigbaum
+=== Parks und Grünanlagen ===</text>
+      <sha1>7dc136w335ppeydssy0rvz7ocd934mf</sha1>
+    </revision>
+    <revision>
+      <id>83</id>
+      <parentid>82</parentid>
+      <timestamp>2024-08-09T18:36:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>83</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1833" sha1="poivlr4mcip4nttilpt3o0x5s1l9zy9" xml:space="preserve">== Geografie ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der [[Südholsteinischen Geest]] . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+=== Naturschutzgebiete ===
+* NSG Stellmoorer Tunneltal - NSG Heidkoppelmoor - NSG Ammersbek-Niederung - Höltigbaum
+=== Parks und Grünanlagen ===</text>
+      <sha1>poivlr4mcip4nttilpt3o0x5s1l9zy9</sha1>
+    </revision>
+    <revision>
+      <id>87</id>
+      <parentid>83</parentid>
+      <timestamp>2024-08-09T18:50:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>87</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1979" sha1="74bb5idf2ssvxyr595rphkhqgf32rnt" xml:space="preserve">== Geografie ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der [[Südholsteinischen Geest]] . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+=== Naturschutzgebiete ===
+* NSG Stellmoorer Tunneltal - NSG Heidkoppelmoor - NSG Ammersbek-Niederung - Höltigbaum
+=== Parks und Grünanlagen ===
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Ahrensburg Ahrensburg]
+* [https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Kategorie:Ahrensburg</text>
+      <sha1>74bb5idf2ssvxyr595rphkhqgf32rnt</sha1>
+    </revision>
+    <revision>
+      <id>88</id>
+      <parentid>87</parentid>
+      <timestamp>2024-08-09T18:51:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Weblinks */</comment>
+      <origin>88</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1980" sha1="o9tgcoqvfxe9nh05nyr1xbn07k871ft" xml:space="preserve">== Geografie ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der [[Südholsteinischen Geest]] . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+=== Naturschutzgebiete ===
+* NSG Stellmoorer Tunneltal - NSG Heidkoppelmoor - NSG Ammersbek-Niederung - Höltigbaum
+=== Parks und Grünanlagen ===
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Ahrensburg Ahrensburg]
+* [https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Kategorie:Ahrensburg]</text>
+      <sha1>o9tgcoqvfxe9nh05nyr1xbn07k871ft</sha1>
+    </revision>
+    <revision>
+      <id>99</id>
+      <parentid>88</parentid>
+      <timestamp>2024-08-10T00:11:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Parks und Grünanlagen */</comment>
+      <origin>99</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2038" sha1="5g2bgo8xyirjsrxcuh5kwhd0nhfg0to" xml:space="preserve">== Geografie ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der [[Südholsteinischen Geest]] . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+=== Naturschutzgebiete ===
+* NSG Stellmoorer Tunneltal - NSG Heidkoppelmoor - NSG Ammersbek-Niederung - Höltigbaum
+=== Parks und Grünanlagen ===
+* Schloßpark Ahrensburg - Park Manhagen in Schmalenbek -
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Ahrensburg Ahrensburg]
+* [https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Kategorie:Ahrensburg]</text>
+      <sha1>5g2bgo8xyirjsrxcuh5kwhd0nhfg0to</sha1>
+    </revision>
+    <revision>
+      <id>100</id>
+      <parentid>99</parentid>
+      <timestamp>2024-08-10T00:17:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Parks und Grünanlagen */</comment>
+      <origin>100</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2075" sha1="ri8718z29hdepjrxiygz7xx58q8kvax" xml:space="preserve">== Geografie ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der [[Südholsteinischen Geest]] . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+=== Naturschutzgebiete ===
+* NSG Stellmoorer Tunneltal - NSG Heidkoppelmoor - NSG Ammersbek-Niederung - Höltigbaum
+=== Parks und Grünanlagen ===
+* Schloßpark Ahrensburg - Park Manhagen in Schmalenbek - Park am Haus der Natur - Aalfangpark
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Ahrensburg Ahrensburg]
+* [https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Kategorie:Ahrensburg]</text>
+      <sha1>ri8718z29hdepjrxiygz7xx58q8kvax</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Forst Beimoor</title>
+    <ns>0</ns>
+    <id>20</id>
+    <revision>
+      <id>89</id>
+      <timestamp>2024-08-09T19:15:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>89</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="652" sha1="q68nccq7hx6v7fz3mmp1kcdh9o32ija" xml:space="preserve">== Forst Beimoor in Ahrensburg ==
+Forst Beimoor hat eine Fläche von 300 Hektar und liegt im Nordosten von Ahrensburg, zwischen Ahrensburg und Hammoor. Es gibt ein 51 Hektar großes FFH-Schutzgebiet.
+Es ist ein Waldgebiet in Ahrensburg. Es ist ein beliebtes Ausflugsziel für Spaziergänger und Radfahrer. Der Wald ist ein Mischwald, in dem viele verschiedene Baumarten wachsen. 
+Es ist ein Naturschutzgebiet, in dem viele seltene Pflanzen und Tiere leben. Es gibt auch einige Wanderwege durch den Wald, die zu verschiedenen Aussichtspunkten führen. Der Forst Beimoor ist ein beliebtes Naherholungsgebiet für die Bewohner von Ahrensburg und Umgebung.</text>
+      <sha1>q68nccq7hx6v7fz3mmp1kcdh9o32ija</sha1>
+    </revision>
+    <revision>
+      <id>90</id>
+      <parentid>89</parentid>
+      <timestamp>2024-08-09T19:16:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Forst Beimoor in Ahrensburg */</comment>
+      <origin>90</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="619" sha1="rm8033xqayipzw03b7t2rmngz9jjsak" xml:space="preserve">
+Forst Beimoor hat eine Fläche von 300 Hektar und liegt im Nordosten von Ahrensburg, zwischen Ahrensburg und Hammoor. Es gibt ein 51 Hektar großes FFH-Schutzgebiet.
+Es ist ein Waldgebiet in Ahrensburg. Es ist ein beliebtes Ausflugsziel für Spaziergänger und Radfahrer. Der Wald ist ein Mischwald, in dem viele verschiedene Baumarten wachsen. 
+Es ist ein Naturschutzgebiet, in dem viele seltene Pflanzen und Tiere leben. Es gibt auch einige Wanderwege durch den Wald, die zu verschiedenen Aussichtspunkten führen. Der Forst Beimoor ist ein beliebtes Naherholungsgebiet für die Bewohner von Ahrensburg und Umgebung.</text>
+      <sha1>rm8033xqayipzw03b7t2rmngz9jjsak</sha1>
+    </revision>
+    <revision>
+      <id>92</id>
+      <parentid>90</parentid>
+      <timestamp>2024-08-09T19:28:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>92</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="378" sha1="qhct380tluf2ygfnbi40wajorbfe5gy" xml:space="preserve">== Forst Beimoor in Ahrensburg ==
+Forst Beimoor hat eine Fläche von 300 Hektar und liegt im Nordosten von Ahrensburg, zwischen Ahrensburg und Hammoor. Es gibt ein 51 Hektar großes FFH-Schutzgebiet.
+Es ist ein Waldgebiet in Ahrensburg. Es ist ein beliebtes Ausflugsziel für Spaziergänger und Radfahrer. Der Wald ist ein Mischwald, in dem viele verschiedene Baumarten wachsen.</text>
+      <sha1>qhct380tluf2ygfnbi40wajorbfe5gy</sha1>
+    </revision>
+    <revision>
+      <id>93</id>
+      <parentid>92</parentid>
+      <timestamp>2024-08-09T19:35:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>93</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="654" sha1="bpwsxqj9uqcr8vn4gswb55zqygzkcb6" xml:space="preserve">Forst Beimoor hat eine Fläche von 300 Hektar und liegt im Nordosten von Ahrensburg, zwischen Ahrensburg und Hammoor. Es gibt ein 51 Hektar großes FFH-Schutzgebiet.
+Es ist ein Waldgebiet in Ahrensburg. Es ist ein beliebtes Ausflugsziel für Spaziergänger und Radfahrer. Der Wald ist ein Mischwald, in dem viele verschiedene Baumarten wachsen. 
+
+== Weblinks ==
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Forst-Beimoor/ Forst Beimoor auf der Website der Stadt Ahrensburg]
+* [https://www.kreis-stormarn.de/freizeit-und-tourismus/waelder-und-moore/index.html Informationen zu Forst Beimoor auf der Website des Kreises Stormarn]</text>
+      <sha1>bpwsxqj9uqcr8vn4gswb55zqygzkcb6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>OpenStreetMap Tools</title>
+    <ns>0</ns>
+    <id>21</id>
+    <revision>
+      <id>98</id>
+      <timestamp>2024-08-09T22:59:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>98</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="337" sha1="20j7vwvzxipialgd8irpa7q7d1k9u62" xml:space="preserve">* switch2osm ist ein Dienst, der es ermöglicht, Karten von OpenStreetMap in Webseiten einzubinden. [https://switch2osm.org/]
+* nominatim ist ein Suchdienst für OpenStreetMap-Daten. [https://nominatim.org/]
+* Photon Geocoder ist ein Dienst, der es ermöglicht, Geodaten in Adressen umzuwandeln und umgekehrt. [https://photon.komoot.io/]</text>
+      <sha1>20j7vwvzxipialgd8irpa7q7d1k9u62</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>WordPress</title>
+    <ns>0</ns>
+    <id>22</id>
+    <revision>
+      <id>103</id>
+      <timestamp>2024-08-10T09:46:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>103</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="397" sha1="9gg73d2879ym6zizy68z872jyojlkp3" xml:space="preserve">== Wordpress als Stadtportal ==
+===Erweiterungen===
+====Kernfunktionen====
+=====Seitenbauer=====
+* Elementor
+* Gutenberg
+* Brizy
+=====Theme=====
+* Stadtportal Theme 
+* Cronics
+* Maryville
+* Dream City
+====Veranstaltungskalender====
+* The Events Calendar:
+* All in One Events Calendar
+====Ortsverzeichnis====
+* Local Listings
+* Community Directory
+====Formulare====
+* Contact Form 7
+* Gravity Forms</text>
+      <sha1>9gg73d2879ym6zizy68z872jyojlkp3</sha1>
+    </revision>
+    <revision>
+      <id>104</id>
+      <parentid>103</parentid>
+      <timestamp>2024-08-10T09:59:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>104</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="539" sha1="e8gxhptgzu1yv76o79dtw6kf89s97o4" xml:space="preserve">== Wordpress als Stadtportal ==
+===Erweiterungen===
+====Kernfunktionen====
+=====Seitenbauer=====
+* Elementor
+* Gutenberg
+* Brizy
+=====Theme=====
+* Stadtportal Theme 
+* Cronics
+* Maryville
+* Dream City
+====Veranstaltungskalender====
+* The Events Calendar:
+* All in One Events Calendar
+====Ortsverzeichnis====
+* Local Listings
+* Community Directory
+====Formulare====
+* Contact Form 7
+* Gravity Forms
+
+==Welche Themen für ein Stadtportal?==
+* Lokale Nachrichten
+* Stadtführer
+* Veranstaltungskalender
+* Ortsverzeichnis
+* Kultur und Freizeit</text>
+      <sha1>e8gxhptgzu1yv76o79dtw6kf89s97o4</sha1>
+    </revision>
+    <revision>
+      <id>105</id>
+      <parentid>104</parentid>
+      <timestamp>2024-08-10T10:01:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>105</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="584" sha1="6r7h2sq78psj2kuzywfet3fq1ak0a7b" xml:space="preserve">== Wordpress als Stadtportal ==
+===Erweiterungen===
+====Kernfunktionen====
+=====Seitenbauer=====
+* Elementor
+* Gutenberg
+* Brizy
+=====Theme=====
+* Stadtportal Theme 
+* Cronics
+* Maryville
+* Dream City
+====Veranstaltungskalender====
+* The Events Calendar:
+* All in One Events Calendar
+====Ortsverzeichnis====
+* Local Listings
+* Community Directory
+====Formulare====
+* Contact Form 7
+* Gravity Forms
+====Kartographie====
+* Google Maps
+* MapPress
+==Welche Themen für ein Stadtportal?==
+* Lokale Nachrichten
+* Stadtführer
+* Veranstaltungskalender
+* Ortsverzeichnis
+* Kultur und Freizeit</text>
+      <sha1>6r7h2sq78psj2kuzywfet3fq1ak0a7b</sha1>
     </revision>
   </page>
 </mediawiki>
