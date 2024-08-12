@@ -32,6 +32,10 @@
       <namespace key="113" case="first-letter">SMW/Schema Diskussion</namespace>
       <namespace key="114" case="first-letter">Rule</namespace>
       <namespace key="115" case="first-letter">Rule talk</namespace>
+      <namespace key="420" case="first-letter">GeoJson</namespace>
+      <namespace key="421" case="first-letter">GeoJson talk</namespace>
+      <namespace key="502" case="first-letter">User blog</namespace>
+      <namespace key="503" case="first-letter">User blog talk</namespace>
     </namespaces>
   </siteinfo>
   <page>
@@ -902,6 +906,132 @@ Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhi
 * [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
 * [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]</text>
       <sha1>kx1buwwx735a1rxrxaemzo9p17ttcw3</sha1>
+    </revision>
+    <revision>
+      <id>150</id>
+      <parentid>97</parentid>
+      <timestamp>2024-08-12T11:28:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>150</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2383" sha1="6sf2878257qewtnmvaddn67x9d6ka7n" xml:space="preserve">{{#display_map:center=Ahrensburg, Germany}}
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+== Allgemeines ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Wiki]]
+* [[OpenStreetMap Tools]]
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]</text>
+      <sha1>6sf2878257qewtnmvaddn67x9d6ka7n</sha1>
+    </revision>
+    <revision>
+      <id>171</id>
+      <parentid>150</parentid>
+      <timestamp>2024-08-12T12:00:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>171</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2340" sha1="htfg71a50vf5e7rwwdvpxkjzt1cb13l" xml:space="preserve">
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+== Allgemeines ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Wiki]]
+* [[OpenStreetMap Tools]]
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]</text>
+      <sha1>htfg71a50vf5e7rwwdvpxkjzt1cb13l</sha1>
+    </revision>
+    <revision>
+      <id>172</id>
+      <parentid>171</parentid>
+      <timestamp>2024-08-12T12:25:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Willkommen auf der Hauptseite */</comment>
+      <origin>172</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2378" sha1="jyeo75qp66cwztw32ajjjfxirav7o6j" xml:space="preserve">
+{{#display_map:Ahrensburg, Germany}}
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+
+== Allgemeines ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Wiki]]
+* [[OpenStreetMap Tools]]
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]</text>
+      <sha1>jyeo75qp66cwztw32ajjjfxirav7o6j</sha1>
     </revision>
   </page>
   <page>
@@ -2674,6 +2804,238 @@ git config --global user.email
 ==</text>
       <sha1>3mglsueo58eaj6uvwar49k90q643mtw</sha1>
     </revision>
+    <revision>
+      <id>126</id>
+      <parentid>36</parentid>
+      <timestamp>2024-08-10T14:34:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>126</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="145" sha1="mtd78l0kt5b2asv5twpaqwada8fy7oh" xml:space="preserve">&lt;markdown&gt;
+## Emphasis
+
+**This is bold text**
+
+__This is bold text__
+
+*This is italic text*
+
+_This is italic text_
+
+~~Strikethrough~~
+&lt;/markdown&gt;</text>
+      <sha1>mtd78l0kt5b2asv5twpaqwada8fy7oh</sha1>
+    </revision>
+    <revision>
+      <id>127</id>
+      <parentid>126</parentid>
+      <timestamp>2024-08-10T14:43:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>127</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5883" sha1="om9c59brhxc12cg9wbi5f601ytv1bm9" xml:space="preserve">&lt;markdown&gt;
+## Wordpress Installieren
+
+Wordpress ist ein Content Management System (CMS) und Blogging-Tool, das auf PHP und MySQL basiert. Es ist kostenlos und Open Source und bietet eine Vielzahl von Funktionen, einschließlich eines Plug-in-Architektur und eines Themas, die es den Benutzern ermöglichen, Websites zu erstellen und zu verwalten.
+
+### Installieren von Wordpress auf einem Ubuntu 20.04-Server
+
+#### System aktualisieren
+
+Bevor Sie beginnen, müssen Sie sicherstellen, dass Ihr System auf dem neuesten Stand ist. Sie können dies tun, indem Sie das folgende Kommando ausführen:
+
+```bash
+sudo apt update -y
+sudo apt upgrade -y
+```
+#### nginx installieren
+
+Als nächstes müssen Sie Nginx installieren, um Ihre Wordpress-Website zu hosten. Sie können Nginx installieren, indem Sie das folgende Kommando ausführen:
+
+```bash 
+sudo apt install nginx -y
+``` 
+### Mysql installieren
+```
+sudo apt install mysql-server -y
+sudo mysql_secure_installation
+```
+#### Datenbank und Benutzer erstellen
+
+Nach der Installation von MySQL müssen Sie eine Datenbank und einen Benutzer für Wordpress erstellen. Sie können dies tun, indem Sie das folgende Kommando ausführen:
+
+```bash
+sudo mysql -u root -p
+CREATE DATABASE wordpress;
+CREATE USER 'wpuser'@'localhost' IDENTIFIED BY 'secure_password';
+GRANT ALL PRIVILEGES ON wordpress.* TO 'wpuser'@'localhost';
+FLUSH PRIVILEGES;
+EXIT;
+```
+### PHP installieren
+
+Als nächstes müssen Sie PHP und einige PHP-Erweiterungen installieren, die von Wordpress benötigt werden. Sie können dies tun, indem Sie das folgende Kommando ausführen:
+
+```bash
+sudo apt install php-fpm php-mysql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip -y
+```
+### Wordpress herunterladen
+
+Als nächstes müssen Sie Wordpress herunterladen und in Ihrem Webroot-Verzeichnis extrahieren. Sie können dies tun, indem Sie das folgende Kommando ausführen:
+
+```bash
+cd /var/www/html
+sudo wget https://de.wordpress.org/latest-de_DE.tar.gz
+sudo tar -xvzf latest-de_DE.tar.gz
+sudo mv wordpress/* .
+sudo rm -rf wordpress latest-de_DE.tar.gz
+sudo chown -R www-data:www-data /var/www/html
+sudo chmod -R 755 /var/www/html
+```
+### Nginx-Konfiguration
+
+Als nächstes müssen Sie eine Nginx-Konfigurationsdatei für Ihre Wordpress-Website erstellen. Sie können dies tun, indem Sie das folgende Kommando ausführen:
+sudo nano /etc/nginx/conf.d/blog.conf
+```bash
+
+
+```
+Fügen Sie den folgenden Inhalt hinzu:
+
+```nginx
+
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name blog.ahrensburg.city;
+    ssl_certificate /etc/letsencrypt/live/blog.ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/blog.ahrensburg.city/privkey.pem;
+    root /var/www/html;
+
+    index index.php index.html index.htm;
+
+    location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php7.4-fpm.sock;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        include fastcgi_params;
+    }
+
+    location ~ /\.ht {
+        deny all;
+    }
+}
+
+server {
+    listen 80;
+    listen [::]:80;
+    server_name blog.ahrensburg.city;
+    return 301 https://$host$request_uri;
+}
+```
+## Local Wordpress Installieren
+
+Wordpress ist ein Content Management System (CMS) und Blogging-Tool, das auf PHP und MySQL basiert. Es ist kostenlos und Open Source und bietet eine Vielzahl von Funktionen, einschließlich eines Plug-in-Architektur und eines Themas, die es den Benutzern ermöglichen, Websites zu erstellen und zu verwalten.
+
+
+### System aktualisieren
+
+Bevor Sie beginnen, müssen Sie sicherstellen, dass Ihr System auf dem neuesten Stand ist. Sie können dies tun, indem Sie das folgende Kommando ausführen:
+
+```bash
+sudo apt update -y
+sudo apt upgrade -y
+```
+
+### Mysql installieren
+```
+sudo apt install mysql-server -y
+sudo mysql_secure_installation
+```
+#### Datenbank und Benutzer erstellen
+
+Nach der Installation von MySQL müssen Sie eine Datenbank und einen Benutzer für Wordpress erstellen. Sie können dies tun, indem Sie das folgende Kommando ausführen:
+
+```bash
+sudo mysql -u root -p
+CREATE DATABASE wordpress;
+CREATE USER 'wpuser'@'localhost' IDENTIFIED BY 'secure_password';
+GRANT ALL PRIVILEGES ON wordpress.* TO 'wpuser'@'localhost';
+FLUSH PRIVILEGES;
+EXIT;
+```
+### PHP installieren
+
+Als nächstes müssen Sie PHP und einige PHP-Erweiterungen installieren, die von Wordpress benötigt werden. Sie können dies tun, indem Sie das folgende Kommando ausführen:
+
+```bash
+sudo apt install php-fpm php-mysql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip -y
+```
+### Wordpress herunterladen
+```
+cd /var/www/html
+sudo wget https://de.wordpress.org/latest-de_DE.tar.gz
+sudo tar -xvzf latest-de_DE.tar.gz
+sudo mv wordpress/* .
+sudo rm -rf wordpress latest-de_DE.tar.gz
+sudo chown -R www-data:www-data /var/www/html
+sudo chmod -R 755 /var/www/html
+sudo rm /etc/nginx/sites-enabled/default
+```
+## Wordpress Nginx Lokale Rechner
+sudo nano /etc/nginx/conf.d/blog.conf
+```
+server {
+    listen 80;
+    server_name example.com;  # Ersetzen Sie 'example.com' durch Ihre Domain
+    root /var/www/html;       # Pfad zu Ihrer WordPress-Installation
+
+    index index.php index.html index.htm;
+
+    location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\.ht {
+        deny all;
+    }
+
+    # Zusätzliche Konfiguration für Multisite
+    location /files/ {
+        access_log off;
+        log_not_found off;
+        expires max;
+    }
+
+    location ^~ /blogs.dir/ {
+        internal;
+        alias /var/www/html/wp-content/blogs.dir/;
+        access_log off;
+        log_not_found off;
+        expires max;
+    }
+}
+```
+&lt;/markdown&gt;</text>
+      <sha1>om9c59brhxc12cg9wbi5f601ytv1bm9</sha1>
+    </revision>
   </page>
   <page>
     <title>Kategorie:Tools</title>
@@ -3191,6 +3553,78 @@ Die Südholsteinische Geest entstand während der letzten Eiszeit. Vor etwa 10.0
 ==Wenlinks==</text>
       <sha1>161ps25fjftkxu9uunc8kuglhsi5fk0</sha1>
     </revision>
+    <revision>
+      <id>165</id>
+      <parentid>85</parentid>
+      <timestamp>2024-08-12T11:51:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>165</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="418" sha1="d1dkz3goliw0cehubk9ir5t6uijhjaa" xml:space="preserve">{{#display_map: Südholsteinischen Geest, Germany}}
+Die '''Südholsteinische Geest''' ist eine Landschaft in Schleswig-Holstein.  Die Geest ist geprägt von sanften Hügeln, weiten Feldern und Wäldern.
+== Geschichte ==
+Die Südholsteinische Geest entstand während der letzten Eiszeit. Vor etwa 10.000 Jahren zogen sich die Gletscher zurück und hinterließen eine Landschaft aus Moränen, Sand und Kies.
+==Wenlinks==</text>
+      <sha1>d1dkz3goliw0cehubk9ir5t6uijhjaa</sha1>
+    </revision>
+    <revision>
+      <id>166</id>
+      <parentid>165</parentid>
+      <timestamp>2024-08-12T11:52:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>166</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="428" sha1="6b4xyivh49eo2o7pu5je4dnmvauz8zd" xml:space="preserve">{{#display_map: Südholsteinischen Geest,ahrensburg Germany}}
+Die '''Südholsteinische Geest''' ist eine Landschaft in Schleswig-Holstein.  Die Geest ist geprägt von sanften Hügeln, weiten Feldern und Wäldern.
+== Geschichte ==
+Die Südholsteinische Geest entstand während der letzten Eiszeit. Vor etwa 10.000 Jahren zogen sich die Gletscher zurück und hinterließen eine Landschaft aus Moränen, Sand und Kies.
+==Wenlinks==</text>
+      <sha1>6b4xyivh49eo2o7pu5je4dnmvauz8zd</sha1>
+    </revision>
+    <revision>
+      <id>167</id>
+      <parentid>166</parentid>
+      <timestamp>2024-08-12T11:52:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>167</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="428" sha1="l6l8d2xlt41bljd5bmgfcwexfb176m6" xml:space="preserve">{{#display_map: Südholsteinischen Geest,ahrensburg,Germany}}
+Die '''Südholsteinische Geest''' ist eine Landschaft in Schleswig-Holstein.  Die Geest ist geprägt von sanften Hügeln, weiten Feldern und Wäldern.
+== Geschichte ==
+Die Südholsteinische Geest entstand während der letzten Eiszeit. Vor etwa 10.000 Jahren zogen sich die Gletscher zurück und hinterließen eine Landschaft aus Moränen, Sand und Kies.
+==Wenlinks==</text>
+      <sha1>l6l8d2xlt41bljd5bmgfcwexfb176m6</sha1>
+    </revision>
+    <revision>
+      <id>168</id>
+      <parentid>167</parentid>
+      <timestamp>2024-08-12T11:52:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>168</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="367" sha1="ij3j96d5umi73ki0l92o085polh9o5t" xml:space="preserve">
+Die '''Südholsteinische Geest''' ist eine Landschaft in Schleswig-Holstein.  Die Geest ist geprägt von sanften Hügeln, weiten Feldern und Wäldern.
+== Geschichte ==
+Die Südholsteinische Geest entstand während der letzten Eiszeit. Vor etwa 10.000 Jahren zogen sich die Gletscher zurück und hinterließen eine Landschaft aus Moränen, Sand und Kies.
+==Wenlinks==</text>
+      <sha1>ij3j96d5umi73ki0l92o085polh9o5t</sha1>
+    </revision>
   </page>
   <page>
     <title>Forst Hagen</title>
@@ -3262,6 +3696,52 @@ Er ist ein geschätzter Bestandteil der Stadt und bietet eine willkommene Abwech
 * [https://www.kreis-stormarn.de/freizeit-und-tourismus/waelder-und-moore/index.html#:~:text=Ein%20Teil%20des%20Naturschutzgebietes%20Stellmoor,des%20Waldes%20ungest%C3%B6rt%20entwickeln%20kann Stormarner Wälder]
 * [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Forst-Hagen/ Forst Hagen auf der Website der Stadt Ahrensburg]</text>
       <sha1>tly90ls1hzqsldphvri2u03syxajnmw</sha1>
+    </revision>
+    <revision>
+      <id>151</id>
+      <parentid>91</parentid>
+      <timestamp>2024-08-12T11:30:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>151</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="791" sha1="pocrad8tg3kitegrazjmz2qedc546z7" xml:space="preserve">{{#display_map:center=Forst Hagen, Ahrensburg, Germany}}
+
+Die Waldfläche beträgt ca. 140 ha.
+Der Forst Hagen ist ein Waldgebiet in Ahrensburg und ein beliebtes Naherholungsgebiet. Es wird von vielen Menschen zum Spazierengehen und Joggen genutzt und ist ein wichtiger Lebensraum für zahlreiche Tiere und Pflanzen.
+Er ist ein geschätzter Bestandteil der Stadt und bietet eine willkommene Abwechslung zum hektischen Alltag.
+
+== Weblinks ==
+
+* [https://www.kreis-stormarn.de/freizeit-und-tourismus/waelder-und-moore/index.html#:~:text=Ein%20Teil%20des%20Naturschutzgebietes%20Stellmoor,des%20Waldes%20ungest%C3%B6rt%20entwickeln%20kann Stormarner Wälder]
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Forst-Hagen/ Forst Hagen auf der Website der Stadt Ahrensburg]</text>
+      <sha1>pocrad8tg3kitegrazjmz2qedc546z7</sha1>
+    </revision>
+    <revision>
+      <id>160</id>
+      <parentid>151</parentid>
+      <timestamp>2024-08-12T11:41:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>160</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="784" sha1="i3u80vo8y9a7pvq2mv0b788koy57hq3" xml:space="preserve">{{#display_map:Forst Hagen, Ahrensburg, Germany}}
+
+Die Waldfläche beträgt ca. 140 ha.
+Der Forst Hagen ist ein Waldgebiet in Ahrensburg und ein beliebtes Naherholungsgebiet. Es wird von vielen Menschen zum Spazierengehen und Joggen genutzt und ist ein wichtiger Lebensraum für zahlreiche Tiere und Pflanzen.
+Er ist ein geschätzter Bestandteil der Stadt und bietet eine willkommene Abwechslung zum hektischen Alltag.
+
+== Weblinks ==
+
+* [https://www.kreis-stormarn.de/freizeit-und-tourismus/waelder-und-moore/index.html#:~:text=Ein%20Teil%20des%20Naturschutzgebietes%20Stellmoor,des%20Waldes%20ungest%C3%B6rt%20entwickeln%20kann Stormarner Wälder]
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Forst-Hagen/ Forst Hagen auf der Website der Stadt Ahrensburg]</text>
+      <sha1>i3u80vo8y9a7pvq2mv0b788koy57hq3</sha1>
     </revision>
   </page>
   <page>
@@ -3526,6 +4006,535 @@ Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
 * [https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Kategorie:Ahrensburg]</text>
       <sha1>ri8718z29hdepjrxiygz7xx58q8kvax</sha1>
     </revision>
+    <revision>
+      <id>128</id>
+      <parentid>100</parentid>
+      <timestamp>2024-08-11T19:41:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Naturschutzgebiete */</comment>
+      <origin>128</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2092" sha1="gqwr3e9szbakse9wg4q9uz78o3v9auq" xml:space="preserve">== Geografie ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der [[Südholsteinischen Geest]] . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+=== Naturschutzgebiete ===
+* [[NSG Stellmoorer Tunneltal]] - [[NSG Heidkoppelmoor]] - [[NSG Ammersbek-Niederung]] - [[Höltigbaum}}
+
+=== Parks und Grünanlagen ===
+* Schloßpark Ahrensburg - Park Manhagen in Schmalenbek - Park am Haus der Natur - Aalfangpark
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Ahrensburg Ahrensburg]
+* [https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Kategorie:Ahrensburg]</text>
+      <sha1>gqwr3e9szbakse9wg4q9uz78o3v9auq</sha1>
+    </revision>
+    <revision>
+      <id>138</id>
+      <parentid>128</parentid>
+      <timestamp>2024-08-11T20:37:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Naturschutzgebiete */</comment>
+      <origin>138</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2092" sha1="m34linbw7by9v1sjtybs52t4523rkak" xml:space="preserve">== Geografie ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der [[Südholsteinischen Geest]] . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+=== Naturschutzgebiete ===
+* [[NSG Stellmoorer Tunneltal]] - [[NSG Heidkoppelmoor]] - [[NSG Ammersbek-Niederung]] - [[Höltigbaum]]
+
+=== Parks und Grünanlagen ===
+* Schloßpark Ahrensburg - Park Manhagen in Schmalenbek - Park am Haus der Natur - Aalfangpark
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Ahrensburg Ahrensburg]
+* [https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Kategorie:Ahrensburg]</text>
+      <sha1>m34linbw7by9v1sjtybs52t4523rkak</sha1>
+    </revision>
+    <revision>
+      <id>143</id>
+      <parentid>138</parentid>
+      <timestamp>2024-08-11T21:30:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Parks und Grünanlagen */</comment>
+      <origin>143</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2108" sha1="oqut7mv47ht3jhill8j5aurubapms4t" xml:space="preserve">== Geografie ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der [[Südholsteinischen Geest]] . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+=== Naturschutzgebiete ===
+* [[NSG Stellmoorer Tunneltal]] - [[NSG Heidkoppelmoor]] - [[NSG Ammersbek-Niederung]] - [[Höltigbaum]]
+
+=== Parks und Grünanlagen ===
+* [[Schloßpark Ahrensburg]] - [[Park Manhagen in Schmalenbek]] - [[Park am Haus der Natur]] - [[Aalfangpark]]
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Ahrensburg Ahrensburg]
+* [https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Kategorie:Ahrensburg]</text>
+      <sha1>oqut7mv47ht3jhill8j5aurubapms4t</sha1>
+    </revision>
+    <revision>
+      <id>169</id>
+      <parentid>143</parentid>
+      <timestamp>2024-08-12T11:54:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Stadteile */</comment>
+      <origin>169</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2112" sha1="kj48lu2vpfjmqp7mi1hqnry8t4xk2kx" xml:space="preserve">== Geografie ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, [[Ahrensfelde]],Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der [[Südholsteinischen Geest]] . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+=== Naturschutzgebiete ===
+* [[NSG Stellmoorer Tunneltal]] - [[NSG Heidkoppelmoor]] - [[NSG Ammersbek-Niederung]] - [[Höltigbaum]]
+
+=== Parks und Grünanlagen ===
+* [[Schloßpark Ahrensburg]] - [[Park Manhagen in Schmalenbek]] - [[Park am Haus der Natur]] - [[Aalfangpark]]
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Ahrensburg Ahrensburg]
+* [https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Kategorie:Ahrensburg]</text>
+      <sha1>kj48lu2vpfjmqp7mi1hqnry8t4xk2kx</sha1>
+    </revision>
+    <revision>
+      <id>174</id>
+      <parentid>169</parentid>
+      <timestamp>2024-08-12T12:48:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Geografie */</comment>
+      <origin>174</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2113" sha1="exmhk8o49ts00f783ozdclw3dq1jdia" xml:space="preserve">== Geografie ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, [[Ahrensfelde]],Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der [[Südholsteinischen Geest]] . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+=== Naturschutzgebiete ===
+* [[NSG Stellmoorer Tunneltal]] - [[NSG Heidkoppelmoor]] - [[NSG Ammersbek-Niederung]] - [[Höltigbaum]]
+
+=== Parks und Grünanlagen ===
+* [[Schloßpark Ahrensburg]] - [[Park Manhagen in Schmalenbek]] - [[Park am Haus der Natur]] - [[Aalfangpark]]
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Ahrensburg Ahrensburg]
+* [https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Kategorie:Ahrensburg]</text>
+      <sha1>exmhk8o49ts00f783ozdclw3dq1jdia</sha1>
+    </revision>
+    <revision>
+      <id>175</id>
+      <parentid>174</parentid>
+      <timestamp>2024-08-12T12:49:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Landschaft */</comment>
+      <origin>175</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2110" sha1="d1tr3qpdowklybw8ad730p16ccjqu6k" xml:space="preserve">== Geografie ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, [[Ahrensfelde]],Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der Südholsteinischen Geest . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+
+=== Naturschutzgebiete ===
+* [[NSG Stellmoorer Tunneltal]] - [[NSG Heidkoppelmoor]] - [[NSG Ammersbek-Niederung]] - [[Höltigbaum]]
+
+=== Parks und Grünanlagen ===
+* [[Schloßpark Ahrensburg]] - [[Park Manhagen in Schmalenbek]] - [[Park am Haus der Natur]] - [[Aalfangpark]]
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Ahrensburg Ahrensburg]
+* [https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Kategorie:Ahrensburg]</text>
+      <sha1>d1tr3qpdowklybw8ad730p16ccjqu6k</sha1>
+    </revision>
+    <revision>
+      <id>177</id>
+      <parentid>175</parentid>
+      <timestamp>2024-08-12T13:02:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>177</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2141" sha1="85c5hetkkxrm8pjtgclt8q8x9e34kx7" xml:space="preserve">== Geografie ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, [[Ahrensfelde]],[[Gewerbegebiet Nord]],[[Gewerbegebiet West]],Ahrensburg West]] Gartenholz,Erlenhof-Süd und Hagen.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der Südholsteinischen Geest . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+
+=== Naturschutzgebiete ===
+* [[NSG Stellmoorer Tunneltal]] - [[NSG Heidkoppelmoor]] - [[NSG Ammersbek-Niederung]] - [[Höltigbaum]]
+
+=== Parks und Grünanlagen ===
+* [[Schloßpark Ahrensburg]] - [[Park Manhagen in Schmalenbek]] - [[Park am Haus der Natur]] - [[Aalfangpark]]
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Ahrensburg Ahrensburg]
+* [https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Kategorie:Ahrensburg]</text>
+      <sha1>85c5hetkkxrm8pjtgclt8q8x9e34kx7</sha1>
+    </revision>
+    <revision>
+      <id>182</id>
+      <parentid>177</parentid>
+      <timestamp>2024-08-12T13:11:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Stadteile */</comment>
+      <origin>182</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2183" sha1="ijipp4r64cgemxcmywubcjt14f635zz" xml:space="preserve">== Geografie ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, [[Ahrensfelde]],[[Gewerbegebiet Nord]],[[Gewerbegebiet West]],Ahrensburg West]] Gartenholz,Ahrensburger Redder,Waldgut Hagen,Siedlung Am Hagen und Wulfsdorf.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der Südholsteinischen Geest . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+
+=== Naturschutzgebiete ===
+* [[NSG Stellmoorer Tunneltal]] - [[NSG Heidkoppelmoor]] - [[NSG Ammersbek-Niederung]] - [[Höltigbaum]]
+
+=== Parks und Grünanlagen ===
+* [[Schloßpark Ahrensburg]] - [[Park Manhagen in Schmalenbek]] - [[Park am Haus der Natur]] - [[Aalfangpark]]
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Ahrensburg Ahrensburg]
+* [https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Kategorie:Ahrensburg]</text>
+      <sha1>ijipp4r64cgemxcmywubcjt14f635zz</sha1>
+    </revision>
+    <revision>
+      <id>184</id>
+      <parentid>182</parentid>
+      <timestamp>2024-08-12T13:18:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Stadteile */</comment>
+      <origin>184</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2164" sha1="dt7xf7ddyphik2cpz4neytj47cm0f90" xml:space="preserve">== Geografie ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, [[Ahrensfelde]],[[Gewerbegebiet Nord]],Ahrensburg West]] [[Gartenholz]],Ahrensburger Redder,Waldgut Hagen,Siedlung Am Hagen und Wulfsdorf.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der Südholsteinischen Geest . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+
+=== Naturschutzgebiete ===
+* [[NSG Stellmoorer Tunneltal]] - [[NSG Heidkoppelmoor]] - [[NSG Ammersbek-Niederung]] - [[Höltigbaum]]
+
+=== Parks und Grünanlagen ===
+* [[Schloßpark Ahrensburg]] - [[Park Manhagen in Schmalenbek]] - [[Park am Haus der Natur]] - [[Aalfangpark]]
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Ahrensburg Ahrensburg]
+* [https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Kategorie:Ahrensburg]</text>
+      <sha1>dt7xf7ddyphik2cpz4neytj47cm0f90</sha1>
+    </revision>
+    <revision>
+      <id>185</id>
+      <parentid>184</parentid>
+      <timestamp>2024-08-12T13:19:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Stadteile */</comment>
+      <origin>185</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2146" sha1="f5kd1k9uiduhmlfjxu9ckxnvb559dq3" xml:space="preserve">== Geografie ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, [[Ahrensfelde]],[[Gewerbegebiet Nord]],[[Gartenholz]],Ahrensburger Redder,Waldgut Hagen,Siedlung Am Hagen und Wulfsdorf.
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der Südholsteinischen Geest . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+
+=== Naturschutzgebiete ===
+* [[NSG Stellmoorer Tunneltal]] - [[NSG Heidkoppelmoor]] - [[NSG Ammersbek-Niederung]] - [[Höltigbaum]]
+
+=== Parks und Grünanlagen ===
+* [[Schloßpark Ahrensburg]] - [[Park Manhagen in Schmalenbek]] - [[Park am Haus der Natur]] - [[Aalfangpark]]
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Ahrensburg Ahrensburg]
+* [https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Kategorie:Ahrensburg]</text>
+      <sha1>f5kd1k9uiduhmlfjxu9ckxnvb559dq3</sha1>
+    </revision>
+    <revision>
+      <id>186</id>
+      <parentid>185</parentid>
+      <timestamp>2024-08-12T13:20:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Stadteile */</comment>
+      <origin>186</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2162" sha1="4a3bawk6j3idk7kt1pb1m60qtonkixv" xml:space="preserve">== Geografie ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, [[Ahrensfelde]],[[Gewerbegebiet Nord]],[[Gartenholz]],[[Ahrensburger Redder]],[[Waldgut Hagen]],[[Siedlung Am Hagen]] und [[Wulfsdorf]].
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der Südholsteinischen Geest . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+
+=== Naturschutzgebiete ===
+* [[NSG Stellmoorer Tunneltal]] - [[NSG Heidkoppelmoor]] - [[NSG Ammersbek-Niederung]] - [[Höltigbaum]]
+
+=== Parks und Grünanlagen ===
+* [[Schloßpark Ahrensburg]] - [[Park Manhagen in Schmalenbek]] - [[Park am Haus der Natur]] - [[Aalfangpark]]
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Ahrensburg Ahrensburg]
+* [https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Kategorie:Ahrensburg]</text>
+      <sha1>4a3bawk6j3idk7kt1pb1m60qtonkixv</sha1>
+    </revision>
   </page>
   <page>
     <title>Forst Beimoor</title>
@@ -3602,6 +4611,46 @@ Es ist ein Waldgebiet in Ahrensburg. Es ist ein beliebtes Ausflugsziel für Spaz
 * [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Forst-Beimoor/ Forst Beimoor auf der Website der Stadt Ahrensburg]
 * [https://www.kreis-stormarn.de/freizeit-und-tourismus/waelder-und-moore/index.html Informationen zu Forst Beimoor auf der Website des Kreises Stormarn]</text>
       <sha1>bpwsxqj9uqcr8vn4gswb55zqygzkcb6</sha1>
+    </revision>
+    <revision>
+      <id>161</id>
+      <parentid>93</parentid>
+      <timestamp>2024-08-12T11:44:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>161</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="706" sha1="050lhidmqdyfsb71qez1hu2ce8porr3" xml:space="preserve">{{#display_map:Forst Beimoor, Ahrensburg, Germany}}
+Forst Beimoor hat eine Fläche von 300 Hektar und liegt im Nordosten von Ahrensburg, zwischen Ahrensburg und Hammoor. Es gibt ein 51 Hektar großes FFH-Schutzgebiet.
+Es ist ein Waldgebiet in Ahrensburg. Es ist ein beliebtes Ausflugsziel für Spaziergänger und Radfahrer. Der Wald ist ein Mischwald, in dem viele verschiedene Baumarten wachsen. 
+
+== Weblinks ==
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Forst-Beimoor/ Forst Beimoor auf der Website der Stadt Ahrensburg]
+* [https://www.kreis-stormarn.de/freizeit-und-tourismus/waelder-und-moore/index.html Informationen zu Forst Beimoor auf der Website des Kreises Stormarn]</text>
+      <sha1>050lhidmqdyfsb71qez1hu2ce8porr3</sha1>
+    </revision>
+    <revision>
+      <id>162</id>
+      <parentid>161</parentid>
+      <timestamp>2024-08-12T11:45:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>162</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="700" sha1="76hhwztndm341bzoyzt9glrxfsexijo" xml:space="preserve">{{#display_map:Beimoor, Ahrensburg, Germany}}
+Forst Beimoor hat eine Fläche von 300 Hektar und liegt im Nordosten von Ahrensburg, zwischen Ahrensburg und Hammoor. Es gibt ein 51 Hektar großes FFH-Schutzgebiet.
+Es ist ein Waldgebiet in Ahrensburg. Es ist ein beliebtes Ausflugsziel für Spaziergänger und Radfahrer. Der Wald ist ein Mischwald, in dem viele verschiedene Baumarten wachsen. 
+
+== Weblinks ==
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Forst-Beimoor/ Forst Beimoor auf der Website der Stadt Ahrensburg]
+* [https://www.kreis-stormarn.de/freizeit-und-tourismus/waelder-und-moore/index.html Informationen zu Forst Beimoor auf der Website des Kreises Stormarn]</text>
+      <sha1>76hhwztndm341bzoyzt9glrxfsexijo</sha1>
     </revision>
   </page>
   <page>
@@ -7257,6 +8306,959 @@ Es ist ein Waldgebiet in Ahrensburg. Es ist ein beliebtes Ausflugsziel für Spaz
 
 [[Category:Imported vocabulary]] {{DISPLAYTITLE:owl:differentFrom}}</text>
       <sha1>p482vcrjzqtstzps5n3lp9i5hzy2scs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>NSG Stellmoorer Tunneltal</title>
+    <ns>0</ns>
+    <id>35</id>
+    <revision>
+      <id>129</id>
+      <timestamp>2024-08-11T19:53:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>129</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="622" sha1="4et93t2qhef5ccuk4h4q0sz27c8q5jv" xml:space="preserve">== NSG Stellmoorer Tunneltal Ahrensburg ==
+Das '''NSG Stellmoorer Tunneltal''' ist ein Naturschutzgebiet in der schleswig-holsteinischen Stadt Ahrensburg im Kreis Stormarn und in Hamburg. Es wurde 1990 ausgewiesen und umfasst eine Fläche von 217 ha. Das Naturschutzgebiet liegt in der Nähe von Rahlstedt und den Naturschutzgebieten Höltigbaum und Ahrensburger Tunneltal an der Grenze zu Schleswig-Holstein und Hamburg. Es wird im Westen von der Bahnstrecke Hamburg-Lübeck begrenzt. Das Gebiet steht seit dem 28. März 1978 unter Naturschutz. Zuständige untere Naturschutzbehörden sind Hamburg und der Kreis Stormarn.</text>
+      <sha1>4et93t2qhef5ccuk4h4q0sz27c8q5jv</sha1>
+    </revision>
+    <revision>
+      <id>130</id>
+      <parentid>129</parentid>
+      <timestamp>2024-08-11T19:55:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>130</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="606" sha1="5wswisun6svq4lakswbueqopssb1lbj" xml:space="preserve">== NSG Stellmoorer Tunneltal Ahrensburg ==
+Das '''NSG Stellmoorer Tunneltal''' ist ein Naturschutzgebiet in der schleswig-holsteinischen Stadt Ahrensburg im Kreis Stormarn. Es wurde 1990 ausgewiesen und umfasst eine Fläche von 217 ha. Das Naturschutzgebiet liegt in der Nähe von Rahlstedt und den Naturschutzgebieten Höltigbaum und Ahrensburger Tunneltal an der Grenze zu Schleswig-Holstein und Hamburg. Es wird im Westen von der Bahnstrecke Hamburg-Lübeck begrenzt. Das Gebiet steht seit dem 28. März 1978 unter Naturschutz. Zuständige untere Naturschutzbehörde sind Hamburg und der Kreis Stormarn.</text>
+      <sha1>5wswisun6svq4lakswbueqopssb1lbj</sha1>
+    </revision>
+    <revision>
+      <id>131</id>
+      <parentid>130</parentid>
+      <timestamp>2024-08-11T19:59:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>131</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="624" sha1="tje8zrz6p32u5392xyd91aha59xjiqa" xml:space="preserve">== NSG Stellmoorer Tunneltal Ahrensburg ==
+Das '''NSG Stellmoorer Tunneltal''' ist ein Naturschutzgebiet in der schleswig-holsteinischen Stadt Ahrensburg im Kreis Stormarn. Es wurde 1978 ausgewiesen und umfasst eine Fläche von 217 ha. Das Naturschutzgebiet liegt in der Nähe von Rahlstedt und Ahrensburg sowie den Naturschutzgebieten Höltigbaum und Ahrensburger Tunneltal an der Grenze zu Schleswig-Holstein und Hamburg. Es wird im Westen von der Bahnstrecke Hamburg-Lübeck begrenzt. Das Gebiet steht seit dem 28. März 1978 unter Naturschutz. Zuständige untere Naturschutzbehörden sind Hamburg und der Kreis Stormarn.</text>
+      <sha1>tje8zrz6p32u5392xyd91aha59xjiqa</sha1>
+    </revision>
+    <revision>
+      <id>132</id>
+      <parentid>131</parentid>
+      <timestamp>2024-08-11T20:02:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>132</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="652" sha1="pqtbqyowpvcbko1fv54lt49jd3vxss1" xml:space="preserve">== NSG Stellmoorer Tunneltal Ahrensburg ==
+Das '''NSG Stellmoorer Tunneltal''' ist ein Naturschutzgebiet in der schleswig-holsteinischen Stadt Ahrensburg im Kreis Stormarn und in Rahlstedt in Hamburg. Es wurde 1978 ausgewiesen und umfasst eine Fläche von 217 ha. Das Naturschutzgebiet liegt in der Nähe von Rahlstedt und Ahrensburg sowie den Naturschutzgebieten Höltigbaum und Ahrensburger Tunneltal an der Grenze zu Schleswig-Holstein und Hamburg. Es wird im Westen von der Bahnstrecke Hamburg-Lübeck begrenzt. Das Gebiet steht seit dem 28. März 1978 unter Naturschutz. Zuständige untere Naturschutzbehörden sind Hamburg und der Kreis Stormarn.</text>
+      <sha1>pqtbqyowpvcbko1fv54lt49jd3vxss1</sha1>
+    </revision>
+    <revision>
+      <id>133</id>
+      <parentid>132</parentid>
+      <timestamp>2024-08-11T20:03:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>133</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="610" sha1="lux0d1gf8bbad36ets6atkitozio5um" xml:space="preserve">
+Das '''NSG Stellmoorer Tunneltal''' ist ein Naturschutzgebiet in der schleswig-holsteinischen Stadt Ahrensburg im Kreis Stormarn und in Rahlstedt in Hamburg. Es wurde 1978 ausgewiesen und umfasst eine Fläche von 217 ha. Das Naturschutzgebiet liegt in der Nähe von Rahlstedt und Ahrensburg sowie den Naturschutzgebieten Höltigbaum und Ahrensburger Tunneltal an der Grenze zu Schleswig-Holstein und Hamburg. Es wird im Westen von der Bahnstrecke Hamburg-Lübeck begrenzt. Das Gebiet steht seit dem 28. März 1978 unter Naturschutz. Zuständige untere Naturschutzbehörden sind Hamburg und der Kreis Stormarn.</text>
+      <sha1>lux0d1gf8bbad36ets6atkitozio5um</sha1>
+    </revision>
+    <revision>
+      <id>134</id>
+      <parentid>133</parentid>
+      <timestamp>2024-08-11T20:11:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>134</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1233" sha1="3yr4ipfm7xjzgdz56qha8swrh20r9pd" xml:space="preserve">== NSG Stellmoorer Tunneltal Ahrensburg ==
+Das '''NSG Stellmoorer Tunneltal''' ist ein Naturschutzgebiet in der schleswig-holsteinischen Stadt Ahrensburg im Kreis Stormarn und in Rahlstedt in Hamburg. Es wurde 1978 ausgewiesen und umfasst eine Fläche von 217 ha. Das Naturschutzgebiet liegt in der Nähe von Rahlstedt und Ahrensburg sowie den Naturschutzgebieten Höltigbaum und Ahrensburger Tunneltal an der Grenze zu Schleswig-Holstein und Hamburg. Es wird im Westen von der Bahnstrecke Hamburg-Lübeck begrenzt. Das Gebiet steht seit dem 28. März 1978 unter Naturschutz. Zuständige untere Naturschutzbehörden sind Hamburg und der Kreis Stormarn.
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Naturschutzgebiet_Stellmoorer_Tunneltal Wikipedia] 
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Tunneltal/ Ahrensburg.de]
+* [https://www.stormarnlexikon.de/stellmoor_ahrensburgertunneltal_naturschutzgebiet/ Stormarnlexikon]
+* [https://www.jordsand.de/schutzgebiete/ahrensburger-tunneltal/ Jordsand]
+* [https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/themen/boden-und-geologie/geologie-in-hamburg/geotourismus/geotope-im-hamburger-raum/stellmoorer-tunneltal-168726 Geotope im Hamburger Raum]</text>
+      <sha1>3yr4ipfm7xjzgdz56qha8swrh20r9pd</sha1>
+    </revision>
+    <revision>
+      <id>152</id>
+      <parentid>134</parentid>
+      <timestamp>2024-08-12T11:31:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>152</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1304" sha1="mgnhntftuw69xuvu1kij61df2th03rl" xml:space="preserve">{{#display_map:center=NSG Stellmoorer Tunneltal, Ahrensburg, Germany}}
+== NSG Stellmoorer Tunneltal Ahrensburg ==
+Das '''NSG Stellmoorer Tunneltal''' ist ein Naturschutzgebiet in der schleswig-holsteinischen Stadt Ahrensburg im Kreis Stormarn und in Rahlstedt in Hamburg. Es wurde 1978 ausgewiesen und umfasst eine Fläche von 217 ha. Das Naturschutzgebiet liegt in der Nähe von Rahlstedt und Ahrensburg sowie den Naturschutzgebieten Höltigbaum und Ahrensburger Tunneltal an der Grenze zu Schleswig-Holstein und Hamburg. Es wird im Westen von der Bahnstrecke Hamburg-Lübeck begrenzt. Das Gebiet steht seit dem 28. März 1978 unter Naturschutz. Zuständige untere Naturschutzbehörden sind Hamburg und der Kreis Stormarn.
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Naturschutzgebiet_Stellmoorer_Tunneltal Wikipedia] 
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Tunneltal/ Ahrensburg.de]
+* [https://www.stormarnlexikon.de/stellmoor_ahrensburgertunneltal_naturschutzgebiet/ Stormarnlexikon]
+* [https://www.jordsand.de/schutzgebiete/ahrensburger-tunneltal/ Jordsand]
+* [https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/themen/boden-und-geologie/geologie-in-hamburg/geotourismus/geotope-im-hamburger-raum/stellmoorer-tunneltal-168726 Geotope im Hamburger Raum]</text>
+      <sha1>mgnhntftuw69xuvu1kij61df2th03rl</sha1>
+    </revision>
+    <revision>
+      <id>153</id>
+      <parentid>152</parentid>
+      <timestamp>2024-08-12T11:31:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>153</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1300" sha1="od6id52hzuibs8bcrs8emr7fgdewtca" xml:space="preserve">{{#display_map:center=Stellmoorer Tunneltal, Ahrensburg, Germany}}
+== NSG Stellmoorer Tunneltal Ahrensburg ==
+Das '''NSG Stellmoorer Tunneltal''' ist ein Naturschutzgebiet in der schleswig-holsteinischen Stadt Ahrensburg im Kreis Stormarn und in Rahlstedt in Hamburg. Es wurde 1978 ausgewiesen und umfasst eine Fläche von 217 ha. Das Naturschutzgebiet liegt in der Nähe von Rahlstedt und Ahrensburg sowie den Naturschutzgebieten Höltigbaum und Ahrensburger Tunneltal an der Grenze zu Schleswig-Holstein und Hamburg. Es wird im Westen von der Bahnstrecke Hamburg-Lübeck begrenzt. Das Gebiet steht seit dem 28. März 1978 unter Naturschutz. Zuständige untere Naturschutzbehörden sind Hamburg und der Kreis Stormarn.
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Naturschutzgebiet_Stellmoorer_Tunneltal Wikipedia] 
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Tunneltal/ Ahrensburg.de]
+* [https://www.stormarnlexikon.de/stellmoor_ahrensburgertunneltal_naturschutzgebiet/ Stormarnlexikon]
+* [https://www.jordsand.de/schutzgebiete/ahrensburger-tunneltal/ Jordsand]
+* [https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/themen/boden-und-geologie/geologie-in-hamburg/geotourismus/geotope-im-hamburger-raum/stellmoorer-tunneltal-168726 Geotope im Hamburger Raum]</text>
+      <sha1>od6id52hzuibs8bcrs8emr7fgdewtca</sha1>
+    </revision>
+    <revision>
+      <id>154</id>
+      <parentid>153</parentid>
+      <timestamp>2024-08-12T11:32:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>154</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1304" sha1="nzgyioepkj5pclue5orhmmsbd8nkjk5" xml:space="preserve">{{#display_map:center=Stellmoorer und Tunneltal, Ahrensburg, Germany}}
+== NSG Stellmoorer Tunneltal Ahrensburg ==
+Das '''NSG Stellmoorer Tunneltal''' ist ein Naturschutzgebiet in der schleswig-holsteinischen Stadt Ahrensburg im Kreis Stormarn und in Rahlstedt in Hamburg. Es wurde 1978 ausgewiesen und umfasst eine Fläche von 217 ha. Das Naturschutzgebiet liegt in der Nähe von Rahlstedt und Ahrensburg sowie den Naturschutzgebieten Höltigbaum und Ahrensburger Tunneltal an der Grenze zu Schleswig-Holstein und Hamburg. Es wird im Westen von der Bahnstrecke Hamburg-Lübeck begrenzt. Das Gebiet steht seit dem 28. März 1978 unter Naturschutz. Zuständige untere Naturschutzbehörden sind Hamburg und der Kreis Stormarn.
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Naturschutzgebiet_Stellmoorer_Tunneltal Wikipedia] 
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Tunneltal/ Ahrensburg.de]
+* [https://www.stormarnlexikon.de/stellmoor_ahrensburgertunneltal_naturschutzgebiet/ Stormarnlexikon]
+* [https://www.jordsand.de/schutzgebiete/ahrensburger-tunneltal/ Jordsand]
+* [https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/themen/boden-und-geologie/geologie-in-hamburg/geotourismus/geotope-im-hamburger-raum/stellmoorer-tunneltal-168726 Geotope im Hamburger Raum]</text>
+      <sha1>nzgyioepkj5pclue5orhmmsbd8nkjk5</sha1>
+    </revision>
+    <revision>
+      <id>155</id>
+      <parentid>154</parentid>
+      <timestamp>2024-08-12T11:32:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>155</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1290" sha1="tjjtap3hgt41s4j96mwee6cw3mgd2p4" xml:space="preserve">{{#display_map:center=Stellmoorer, Ahrensburg, Germany}}
+== NSG Stellmoorer Tunneltal Ahrensburg ==
+Das '''NSG Stellmoorer Tunneltal''' ist ein Naturschutzgebiet in der schleswig-holsteinischen Stadt Ahrensburg im Kreis Stormarn und in Rahlstedt in Hamburg. Es wurde 1978 ausgewiesen und umfasst eine Fläche von 217 ha. Das Naturschutzgebiet liegt in der Nähe von Rahlstedt und Ahrensburg sowie den Naturschutzgebieten Höltigbaum und Ahrensburger Tunneltal an der Grenze zu Schleswig-Holstein und Hamburg. Es wird im Westen von der Bahnstrecke Hamburg-Lübeck begrenzt. Das Gebiet steht seit dem 28. März 1978 unter Naturschutz. Zuständige untere Naturschutzbehörden sind Hamburg und der Kreis Stormarn.
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Naturschutzgebiet_Stellmoorer_Tunneltal Wikipedia] 
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Tunneltal/ Ahrensburg.de]
+* [https://www.stormarnlexikon.de/stellmoor_ahrensburgertunneltal_naturschutzgebiet/ Stormarnlexikon]
+* [https://www.jordsand.de/schutzgebiete/ahrensburger-tunneltal/ Jordsand]
+* [https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/themen/boden-und-geologie/geologie-in-hamburg/geotourismus/geotope-im-hamburger-raum/stellmoorer-tunneltal-168726 Geotope im Hamburger Raum]</text>
+      <sha1>tjjtap3hgt41s4j96mwee6cw3mgd2p4</sha1>
+    </revision>
+    <revision>
+      <id>156</id>
+      <parentid>155</parentid>
+      <timestamp>2024-08-12T11:34:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>156</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1282" sha1="5c79d9ews4t3fgkucnwi1ltj73g1fqa" xml:space="preserve">
+{{#display_map:Stellmoor, Ahrensburg, Germany}}
+== NSG Stellmoorer Tunneltal Ahrensburg ==
+Das '''NSG Stellmoorer Tunneltal''' ist ein Naturschutzgebiet in der schleswig-holsteinischen Stadt Ahrensburg im Kreis Stormarn und in Rahlstedt in Hamburg. Es wurde 1978 ausgewiesen und umfasst eine Fläche von 217 ha. Das Naturschutzgebiet liegt in der Nähe von Rahlstedt und Ahrensburg sowie den Naturschutzgebieten Höltigbaum und Ahrensburger Tunneltal an der Grenze zu Schleswig-Holstein und Hamburg. Es wird im Westen von der Bahnstrecke Hamburg-Lübeck begrenzt. Das Gebiet steht seit dem 28. März 1978 unter Naturschutz. Zuständige untere Naturschutzbehörden sind Hamburg und der Kreis Stormarn.
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Naturschutzgebiet_Stellmoorer_Tunneltal Wikipedia] 
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Tunneltal/ Ahrensburg.de]
+* [https://www.stormarnlexikon.de/stellmoor_ahrensburgertunneltal_naturschutzgebiet/ Stormarnlexikon]
+* [https://www.jordsand.de/schutzgebiete/ahrensburger-tunneltal/ Jordsand]
+* [https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/themen/boden-und-geologie/geologie-in-hamburg/geotourismus/geotope-im-hamburger-raum/stellmoorer-tunneltal-168726 Geotope im Hamburger Raum]</text>
+      <sha1>5c79d9ews4t3fgkucnwi1ltj73g1fqa</sha1>
+    </revision>
+    <revision>
+      <id>157</id>
+      <parentid>156</parentid>
+      <timestamp>2024-08-12T11:37:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>157</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1291" sha1="28cx4scaw66d074slpbg35kovr6asnz" xml:space="preserve">
+{{#display_map:polygons=Stellmoor, Ahrensburg, Germany}}
+== NSG Stellmoorer Tunneltal Ahrensburg ==
+Das '''NSG Stellmoorer Tunneltal''' ist ein Naturschutzgebiet in der schleswig-holsteinischen Stadt Ahrensburg im Kreis Stormarn und in Rahlstedt in Hamburg. Es wurde 1978 ausgewiesen und umfasst eine Fläche von 217 ha. Das Naturschutzgebiet liegt in der Nähe von Rahlstedt und Ahrensburg sowie den Naturschutzgebieten Höltigbaum und Ahrensburger Tunneltal an der Grenze zu Schleswig-Holstein und Hamburg. Es wird im Westen von der Bahnstrecke Hamburg-Lübeck begrenzt. Das Gebiet steht seit dem 28. März 1978 unter Naturschutz. Zuständige untere Naturschutzbehörden sind Hamburg und der Kreis Stormarn.
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Naturschutzgebiet_Stellmoorer_Tunneltal Wikipedia] 
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Tunneltal/ Ahrensburg.de]
+* [https://www.stormarnlexikon.de/stellmoor_ahrensburgertunneltal_naturschutzgebiet/ Stormarnlexikon]
+* [https://www.jordsand.de/schutzgebiete/ahrensburger-tunneltal/ Jordsand]
+* [https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/themen/boden-und-geologie/geologie-in-hamburg/geotourismus/geotope-im-hamburger-raum/stellmoorer-tunneltal-168726 Geotope im Hamburger Raum]</text>
+      <sha1>28cx4scaw66d074slpbg35kovr6asnz</sha1>
+    </revision>
+    <revision>
+      <id>158</id>
+      <parentid>157</parentid>
+      <timestamp>2024-08-12T11:39:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>158</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1287" sha1="5ia1yi5dgymwcu5p05z0v1mqrrcrt8l" xml:space="preserve">
+{{#display_map:line Stellmoor, Ahrensburg, Germany}}
+== NSG Stellmoorer Tunneltal Ahrensburg ==
+Das '''NSG Stellmoorer Tunneltal''' ist ein Naturschutzgebiet in der schleswig-holsteinischen Stadt Ahrensburg im Kreis Stormarn und in Rahlstedt in Hamburg. Es wurde 1978 ausgewiesen und umfasst eine Fläche von 217 ha. Das Naturschutzgebiet liegt in der Nähe von Rahlstedt und Ahrensburg sowie den Naturschutzgebieten Höltigbaum und Ahrensburger Tunneltal an der Grenze zu Schleswig-Holstein und Hamburg. Es wird im Westen von der Bahnstrecke Hamburg-Lübeck begrenzt. Das Gebiet steht seit dem 28. März 1978 unter Naturschutz. Zuständige untere Naturschutzbehörden sind Hamburg und der Kreis Stormarn.
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Naturschutzgebiet_Stellmoorer_Tunneltal Wikipedia] 
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Tunneltal/ Ahrensburg.de]
+* [https://www.stormarnlexikon.de/stellmoor_ahrensburgertunneltal_naturschutzgebiet/ Stormarnlexikon]
+* [https://www.jordsand.de/schutzgebiete/ahrensburger-tunneltal/ Jordsand]
+* [https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/themen/boden-und-geologie/geologie-in-hamburg/geotourismus/geotope-im-hamburger-raum/stellmoorer-tunneltal-168726 Geotope im Hamburger Raum]</text>
+      <sha1>5ia1yi5dgymwcu5p05z0v1mqrrcrt8l</sha1>
+    </revision>
+    <revision>
+      <id>159</id>
+      <parentid>158</parentid>
+      <timestamp>2024-08-12T11:39:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>159</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1282" sha1="5c79d9ews4t3fgkucnwi1ltj73g1fqa" xml:space="preserve">
+{{#display_map:Stellmoor, Ahrensburg, Germany}}
+== NSG Stellmoorer Tunneltal Ahrensburg ==
+Das '''NSG Stellmoorer Tunneltal''' ist ein Naturschutzgebiet in der schleswig-holsteinischen Stadt Ahrensburg im Kreis Stormarn und in Rahlstedt in Hamburg. Es wurde 1978 ausgewiesen und umfasst eine Fläche von 217 ha. Das Naturschutzgebiet liegt in der Nähe von Rahlstedt und Ahrensburg sowie den Naturschutzgebieten Höltigbaum und Ahrensburger Tunneltal an der Grenze zu Schleswig-Holstein und Hamburg. Es wird im Westen von der Bahnstrecke Hamburg-Lübeck begrenzt. Das Gebiet steht seit dem 28. März 1978 unter Naturschutz. Zuständige untere Naturschutzbehörden sind Hamburg und der Kreis Stormarn.
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Naturschutzgebiet_Stellmoorer_Tunneltal Wikipedia] 
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Tourismus/Naherholung/Tunneltal/ Ahrensburg.de]
+* [https://www.stormarnlexikon.de/stellmoor_ahrensburgertunneltal_naturschutzgebiet/ Stormarnlexikon]
+* [https://www.jordsand.de/schutzgebiete/ahrensburger-tunneltal/ Jordsand]
+* [https://www.hamburg.de/politik-und-verwaltung/behoerden/bukea/themen/boden-und-geologie/geologie-in-hamburg/geotourismus/geotope-im-hamburger-raum/stellmoorer-tunneltal-168726 Geotope im Hamburger Raum]</text>
+      <sha1>5c79d9ews4t3fgkucnwi1ltj73g1fqa</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>NSG Heidkoppelmoor</title>
+    <ns>0</ns>
+    <id>36</id>
+    <revision>
+      <id>135</id>
+      <timestamp>2024-08-11T20:26:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>135</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="282" sha1="izyv0waq2aozwofgz1saoi342v7c03f" xml:space="preserve">==NSG Heidkoppelmoor Ahrensburg==
+Es liegt im westlichen Teil der Stadt Ahrensburg und im südwestlichen Teil der Gemeinde Ammersbek, bei den Koordinaten 53.671282° N, 10.172308° E..
+Das '''NSG Heidkoppelmoor''' ist ein nordöstlich vom Lottbeker Stauteich wurde 1995 ausgewiesen.</text>
+      <sha1>izyv0waq2aozwofgz1saoi342v7c03f</sha1>
+    </revision>
+    <revision>
+      <id>136</id>
+      <parentid>135</parentid>
+      <timestamp>2024-08-11T20:30:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>136</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="221" sha1="jpbbs3w0yxtczmsyy7p69uhe41l3nlk" xml:space="preserve">Es liegt im westlichen Teil der Stadt Ahrensburg und im südwestlichen Teil der Gemeinde Ammersbek, bei den Koordinaten 53.671282° N, 10.172308° E. Es ist nordöstlich vom Lottbeker Stauteich und wurde 1995 ausgewiesen.</text>
+      <sha1>jpbbs3w0yxtczmsyy7p69uhe41l3nlk</sha1>
+    </revision>
+    <revision>
+      <id>137</id>
+      <parentid>136</parentid>
+      <timestamp>2024-08-11T20:36:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>137</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="700" sha1="k1b1ssexttik3fh5ynjgbsxwi9u0e4a" xml:space="preserve">Es liegt im westlichen Teil der Stadt Ahrensburg und im südwestlichen Teil der Gemeinde Ammersbek, bei den Koordinaten 53.671282° N, 10.172308° E. Es ist nordöstlich vom Lottbeker Stauteich und wurde 1995 ausgewiesen.
+==Weblinks==
+* [https://de.wikipedia.org/wiki/Heidkoppelmoor_und_Umgebung Heidkoppelmoor und Umgebung] in der deutschsprachigen Wikipedia
+* [https://umweltanwendungen.schleswig-holstein.de/Naturschutzgebiete/167-heidkoppelmoor/167_gebiet.php Heidkoppelmoor] auf der Website des Landesamtes für Landwirtschaft, Umwelt und ländliche Räume des Landes Schleswig-Holstein
+* [https://www.stormarnlexikon.de/heidkoppelmoorundUmgebung/ Heidkoppelmoor und Umgebung] im Stormarnlexikon</text>
+      <sha1>k1b1ssexttik3fh5ynjgbsxwi9u0e4a</sha1>
+    </revision>
+    <revision>
+      <id>163</id>
+      <parentid>137</parentid>
+      <timestamp>2024-08-12T11:46:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>163</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="754" sha1="g1fo943rpx18alcxiaqvncoyogs2ljb" xml:space="preserve">
+{{#display_map:Heidkoppelmoor, Ahrensburg, Germany}}
+Es liegt im westlichen Teil der Stadt Ahrensburg und im südwestlichen Teil der Gemeinde Ammersbek, bei den Koordinaten 53.671282° N, 10.172308° E. Es ist nordöstlich vom Lottbeker Stauteich und wurde 1995 ausgewiesen.
+==Weblinks==
+* [https://de.wikipedia.org/wiki/Heidkoppelmoor_und_Umgebung Heidkoppelmoor und Umgebung] in der deutschsprachigen Wikipedia
+* [https://umweltanwendungen.schleswig-holstein.de/Naturschutzgebiete/167-heidkoppelmoor/167_gebiet.php Heidkoppelmoor] auf der Website des Landesamtes für Landwirtschaft, Umwelt und ländliche Räume des Landes Schleswig-Holstein
+* [https://www.stormarnlexikon.de/heidkoppelmoorundUmgebung/ Heidkoppelmoor und Umgebung] im Stormarnlexikon</text>
+      <sha1>g1fo943rpx18alcxiaqvncoyogs2ljb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>NSG Ammersbek-Niederung</title>
+    <ns>0</ns>
+    <id>37</id>
+    <revision>
+      <id>139</id>
+      <timestamp>2024-08-11T20:52:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>139</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="414" sha1="o26gbp4k9hh41kwerscv3dspehurswi" xml:space="preserve">Das '''NSG Ammersbek-Niederung''' ist ein Naturschutzgebiet in Ahrensburg und Ammersbek.
+
+== Weblinks ==
+* [https://hamburg.nabu.de/wir-ueber-uns/stadtteilgruppen/walddoerfer/18060.html NABU Hamburg]
+* [https://de.wikipedia.org/wiki/Ammersbek-Niederung Wikipedia]
+* [https://www.botanischerverein.de/aktionen-und-projekte/gebietsbetreuung-durch-den-botanischen-verein/nsg-ammersbek-niederung/ Botanischer Verein]
+*</text>
+      <sha1>o26gbp4k9hh41kwerscv3dspehurswi</sha1>
+    </revision>
+    <revision>
+      <id>164</id>
+      <parentid>139</parentid>
+      <timestamp>2024-08-12T11:49:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>164</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="473" sha1="903zu3zqc9rtc3brb3sdb42qpnjbsjm" xml:space="preserve">{{#display_map: Ammersbek-Niederung, Ahrensburg, Germany}}
+Das '''NSG Ammersbek-Niederung''' ist ein Naturschutzgebiet in Ahrensburg und Ammersbek.
+
+== Weblinks ==
+* [https://hamburg.nabu.de/wir-ueber-uns/stadtteilgruppen/walddoerfer/18060.html NABU Hamburg]
+* [https://de.wikipedia.org/wiki/Ammersbek-Niederung Wikipedia]
+* [https://www.botanischerverein.de/aktionen-und-projekte/gebietsbetreuung-durch-den-botanischen-verein/nsg-ammersbek-niederung/ Botanischer Verein]
+*</text>
+      <sha1>903zu3zqc9rtc3brb3sdb42qpnjbsjm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Höltigbaum</title>
+    <ns>0</ns>
+    <id>38</id>
+    <revision>
+      <id>140</id>
+      <timestamp>2024-08-11T21:10:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>140</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="550" sha1="6kvslt242auk1jdyargjbkodlhhwc0q" xml:space="preserve">Höltigbaum ist eine Wiesenlandschaft in Hamburg, Stapelfeld und Rahlstedt. Es ist ein 270 Hektar großes Naturschutzgebiet, das 1997 eingerichtet wurde. Es ist ein beliebtes Ausflugsziel für Familien und Naturliebhaber.
+==Weblinks==
+* [https://www.hoeltigbaum.de/ Offizielle Website]
+* [https://de.wikipedia.org/wiki/H%C3%B6ltigbaum Wikipedia]
+* [https://www.hamburg.de/freizeit/ausfluege/wandern/wandern-hoeltigbaum-306636 ](Hamburg.de)
+* [https://www.ndr.de/ratgeber/reise/hamburg/Naturschutzgebiet-Hoeltigbaum-in-Hamburg,hoeltigbaum132.html NDR]</text>
+      <sha1>6kvslt242auk1jdyargjbkodlhhwc0q</sha1>
+    </revision>
+    <revision>
+      <id>141</id>
+      <parentid>140</parentid>
+      <timestamp>2024-08-11T21:11:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>141</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="549" sha1="2132n3gg867ir6jdycy1joe8evry808" xml:space="preserve">Höltigbaum ist eine Wiesenlandschaft in Hamburg, Stapelfeld und Rahlstedt. Es ist ein 270 Hektar großes Naturschutzgebiet, das 1997 eingerichtet wurde. Es ist ein beliebtes Ausflugsziel für Familien und Naturliebhaber.
+==Weblinks==
+* [https://www.hoeltigbaum.de/ Offizielle Website]
+* [https://de.wikipedia.org/wiki/H%C3%B6ltigbaum Wikipedia]
+* [https://www.hamburg.de/freizeit/ausfluege/wandern/wandern-hoeltigbaum-306636 ] Hamburg.de
+* [https://www.ndr.de/ratgeber/reise/hamburg/Naturschutzgebiet-Hoeltigbaum-in-Hamburg,hoeltigbaum132.html NDR]</text>
+      <sha1>2132n3gg867ir6jdycy1joe8evry808</sha1>
+    </revision>
+    <revision>
+      <id>142</id>
+      <parentid>141</parentid>
+      <timestamp>2024-08-11T21:11:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>142</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="549" sha1="e0qym9sfnr0s04sfl9o5uxqh6tya5zj" xml:space="preserve">Höltigbaum ist eine Wiesenlandschaft in Hamburg, Stapelfeld und Rahlstedt. Es ist ein 270 Hektar großes Naturschutzgebiet, das 1997 eingerichtet wurde. Es ist ein beliebtes Ausflugsziel für Familien und Naturliebhaber.
+==Weblinks==
+* [https://www.hoeltigbaum.de/ Offizielle Website]
+* [https://de.wikipedia.org/wiki/H%C3%B6ltigbaum Wikipedia]
+* [https://www.hamburg.de/freizeit/ausfluege/wandern/wandern-hoeltigbaum-306636 Hamburg.de] 
+* [https://www.ndr.de/ratgeber/reise/hamburg/Naturschutzgebiet-Hoeltigbaum-in-Hamburg,hoeltigbaum132.html NDR]</text>
+      <sha1>e0qym9sfnr0s04sfl9o5uxqh6tya5zj</sha1>
+    </revision>
+    <revision>
+      <id>173</id>
+      <parentid>142</parentid>
+      <timestamp>2024-08-12T12:46:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>173</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="600" sha1="mb77xxtvzt03wuilowvft2qjhwqv4js" xml:space="preserve">{{#display_map: Höltigbaum, Ahrensburg, Germany}}
+Höltigbaum ist eine Wiesenlandschaft in Hamburg, Stapelfeld und Rahlstedt. Es ist ein 270 Hektar großes Naturschutzgebiet, das 1997 eingerichtet wurde. Es ist ein beliebtes Ausflugsziel für Familien und Naturliebhaber.
+==Weblinks==
+* [https://www.hoeltigbaum.de/ Offizielle Website]
+* [https://de.wikipedia.org/wiki/H%C3%B6ltigbaum Wikipedia]
+* [https://www.hamburg.de/freizeit/ausfluege/wandern/wandern-hoeltigbaum-306636 Hamburg.de] 
+* [https://www.ndr.de/ratgeber/reise/hamburg/Naturschutzgebiet-Hoeltigbaum-in-Hamburg,hoeltigbaum132.html NDR]</text>
+      <sha1>mb77xxtvzt03wuilowvft2qjhwqv4js</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>RestApi</title>
+    <ns>0</ns>
+    <id>39</id>
+    <revision>
+      <id>144</id>
+      <timestamp>2024-08-12T00:09:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>144</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="654" sha1="22zpucv4xga0zc6dj74jm5slyl5i5be" xml:space="preserve">&lt;?php
+// URL der API-Abfrage
+$url = "https://wiki.ahrensburg.city/api.php?action=parse&amp;format=json&amp;page=Geografie&amp;disableeditsection=1&amp;disabletoc=1";
+
+// API-Abfrage durchführen
+$response = file_get_contents($url);
+$data = json_decode($response, true);
+
+// HTML-Inhalt erstellen
+$html_content = "&lt;html&gt;&lt;head&gt;&lt;title&gt;Geografie&lt;/title&gt;&lt;/head&gt;&lt;body&gt;";
+
+if (isset($data['parse'])) {
+    $title = $data['parse']['title'];
+    $text = $data['parse']['text']['*'];
+    $html_content .= "&lt;h1&gt;{$title}&lt;/h1&gt;{$text}";
+} else {
+    $html_content .= "&lt;p&gt;Kein Inhalt gefunden.&lt;/p&gt;";
+}
+
+$html_content .= "&lt;/body&gt;&lt;/html&gt;";
+
+// HTML-Inhalt ausgeben
+echo $html_content;
+?&gt;</text>
+      <sha1>22zpucv4xga0zc6dj74jm5slyl5i5be</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Rest</title>
+    <ns>0</ns>
+    <id>40</id>
+    <revision>
+      <id>145</id>
+      <timestamp>2024-08-12T00:10:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>145</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="452" sha1="so3qemvaa8u0whi76vstp3o818eu95w" xml:space="preserve">== Wiki Artikeln in Rest Api ausgeben ==
+=== Einleitung ===
+In diesem Artikel wird beschrieben, wie
+
+* https://wiki.ahrensburg.city/api.php?action=query&amp;format=json&amp;prop=info&amp;titles=Geografie
+
+
+== Wiki Inhalte in Rest Api ausgeben ==
+=== Einleitung ===
+In diesem Artikel wird beschrieben, wie
+
+== html ausgabe ohne Bearbeitung Funktionen==
+* https://wiki.ahrensburg.city/api.php?action=parse&amp;format=json&amp;page=Geografie&amp;disableeditsection=1&amp;disabletoc=1</text>
+      <sha1>so3qemvaa8u0whi76vstp3o818eu95w</sha1>
+    </revision>
+    <revision>
+      <id>146</id>
+      <parentid>145</parentid>
+      <timestamp>2024-08-12T09:02:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>146</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2342" sha1="giejxv6sct2e2rfe16s9s70w6jwjnqa" xml:space="preserve">== Wiki Artikeln in Rest Api ausgeben ==
+=== Einleitung ===
+In diesem Artikel wird beschrieben, wie
+
+* https://wiki.ahrensburg.city/api.php?action=query&amp;format=json&amp;prop=info&amp;titles=Geografie
+
+
+== Wiki Inhalte in Rest Api ausgeben ==
+=== Einleitung ===
+In diesem Artikel wird beschrieben, wie
+
+== html ausgabe ohne Bearbeitung Funktionen==
+* https://wiki.ahrensburg.city/api.php?action=parse&amp;format=json&amp;page=Geografie&amp;disableeditsection=1&amp;disabletoc=1
+
+== Beispiel mit Golang ==
+```go
+package main
+
+import (
+    "encoding/json"
+    "fmt"
+    "io/ioutil"
+    "net/http"
+)
+
+func main() {
+    http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+        // URL der API-Abfrage
+        url := "https://wiki.ahrensburg.city/api.php?action=parse&amp;format=json&amp;page=Geografie&amp;disableeditsection=1&amp;disabletoc=1"
+
+        // API-Abfrage durchführen
+        resp, err := http.Get(url)
+        if err != nil {
+            http.Error(w, "Fehler bei der API-Abfrage: "+err.Error(), http.StatusInternalServerError)
+            return
+        }
+        defer resp.Body.Close()
+
+        body, err := ioutil.ReadAll(resp.Body)
+        if err != nil {
+            http.Error(w, "Fehler beim Lesen der Antwort: "+err.Error(), http.StatusInternalServerError)
+            return
+        }
+
+        // JSON-Antwort parsen
+        var data map[string]interface{}
+        err = json.Unmarshal(body, &amp;data)
+        if err != nil {
+            http.Error(w, "Fehler beim Parsen der JSON-Antwort: "+err.Error(), http.StatusInternalServerError)
+            return
+        }
+
+        // HTML-Inhalt erstellen
+        htmlContent := "&lt;html&gt;&lt;head&gt;&lt;title&gt;Geografie&lt;/title&gt;&lt;/head&gt;&lt;body&gt;"
+
+        if parse, ok := data["parse"].(map[string]interface{}); ok {
+            title := parse["title"].(string)
+            text := parse["text"].(map[string]interface{})["*"].(string)
+            htmlContent += fmt.Sprintf("&lt;h1&gt;%s&lt;/h1&gt;%s", title, text)
+        } else {
+            htmlContent += "&lt;p&gt;Kein Inhalt gefunden.&lt;/p&gt;"
+        }
+
+        htmlContent += "&lt;/body&gt;&lt;/html&gt;"
+
+        // HTML-Inhalt ausgeben
+        w.Header().Set("Content-Type", "text/html; charset=utf-8")
+        w.Write([]byte(htmlContent))
+    })
+
+    // HTTP-Server auf Port 8080 starten
+    fmt.Println("Server läuft auf http://localhost:8080")
+    http.ListenAndServe(":8080", nil)
+}
+
+```</text>
+      <sha1>giejxv6sct2e2rfe16s9s70w6jwjnqa</sha1>
+    </revision>
+    <revision>
+      <id>147</id>
+      <parentid>146</parentid>
+      <timestamp>2024-08-12T09:06:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>147</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2358" sha1="1ke7e68tvqvgkcpusmwqb7u26xuo7nu" xml:space="preserve">== Wiki Artikeln in Rest Api ausgeben ==
+=== Einleitung ===
+In diesem Artikel wird beschrieben, wie
+
+* https://wiki.ahrensburg.city/api.php?action=query&amp;format=json&amp;prop=info&amp;titles=Geografie
+
+
+== Wiki Inhalte in Rest Api ausgeben ==
+=== Einleitung ===
+In diesem Artikel wird beschrieben, wie
+
+== html ausgabe ohne Bearbeitung Funktionen==
+* https://wiki.ahrensburg.city/api.php?action=parse&amp;format=json&amp;page=Geografie&amp;disableeditsection=1&amp;disabletoc=1
+
+== Beispiel mit Golang ==
+&lt;pre&gt;&lt;code&gt;
+package main
+
+import (
+    "encoding/json"
+    "fmt"
+    "io/ioutil"
+    "net/http"
+)
+
+func main() {
+    http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+        // URL der API-Abfrage
+        url := "https://wiki.ahrensburg.city/api.php?action=parse&amp;format=json&amp;page=Geografie&amp;disableeditsection=1&amp;disabletoc=1"
+
+        // API-Abfrage durchführen
+        resp, err := http.Get(url)
+        if err != nil {
+            http.Error(w, "Fehler bei der API-Abfrage: "+err.Error(), http.StatusInternalServerError)
+            return
+        }
+        defer resp.Body.Close()
+
+        body, err := ioutil.ReadAll(resp.Body)
+        if err != nil {
+            http.Error(w, "Fehler beim Lesen der Antwort: "+err.Error(), http.StatusInternalServerError)
+            return
+        }
+
+        // JSON-Antwort parsen
+        var data map[string]interface{}
+        err = json.Unmarshal(body, &amp;data)
+        if err != nil {
+            http.Error(w, "Fehler beim Parsen der JSON-Antwort: "+err.Error(), http.StatusInternalServerError)
+            return
+        }
+
+        // HTML-Inhalt erstellen
+        htmlContent := "&lt;html&gt;&lt;head&gt;&lt;title&gt;Geografie&lt;/title&gt;&lt;/head&gt;&lt;body&gt;"
+
+        if parse, ok := data["parse"].(map[string]interface{}); ok {
+            title := parse["title"].(string)
+            text := parse["text"].(map[string]interface{})["*"].(string)
+            htmlContent += fmt.Sprintf("&lt;h1&gt;%s&lt;/h1&gt;%s", title, text)
+        } else {
+            htmlContent += "&lt;p&gt;Kein Inhalt gefunden.&lt;/p&gt;"
+        }
+
+        htmlContent += "&lt;/body&gt;&lt;/html&gt;"
+
+        // HTML-Inhalt ausgeben
+        w.Header().Set("Content-Type", "text/html; charset=utf-8")
+        w.Write([]byte(htmlContent))
+    })
+
+    // HTTP-Server auf Port 8080 starten
+    fmt.Println("Server läuft auf http://localhost:8080")
+    http.ListenAndServe(":8080", nil)
+}
+
+&lt;/code&gt;&lt;/pre&gt;</text>
+      <sha1>1ke7e68tvqvgkcpusmwqb7u26xuo7nu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User blog:Thorsten/Hallo</title>
+    <ns>502</ns>
+    <id>41</id>
+    <revision>
+      <id>148</id>
+      <timestamp>2024-08-12T10:19:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>New blog post created.</comment>
+      <origin>148</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="116" sha1="0xwrlxfyfp4q8tr1hgjgmubc69etg8o" xml:space="preserve">&lt;!--start text--&gt;
+==Hallo==
+
+[[Kategorie:Articles by user Thorsten]]
+[[Kategorie:12. August 2024]]
+__NOEDITSECTION__</text>
+      <sha1>0xwrlxfyfp4q8tr1hgjgmubc69etg8o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User blog:Thorsten/Guten Tag</title>
+    <ns>502</ns>
+    <id>42</id>
+    <revision>
+      <id>149</id>
+      <timestamp>2024-08-12T10:20:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>New blog post created.</comment>
+      <origin>149</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="154" sha1="9yerq6y5rpfxe4eadqb0g4p0hmbrbus" xml:space="preserve">&lt;!--start text--&gt;
+==Willkommen Ahrensburg Portal==
+
+
+
+kllklölök
+
+[[Kategorie:Articles by user Thorsten]]
+[[Kategorie:12. August 2024]]
+__NOEDITSECTION__</text>
+      <sha1>9yerq6y5rpfxe4eadqb0g4p0hmbrbus</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ahrensfelde</title>
+    <ns>0</ns>
+    <id>43</id>
+    <revision>
+      <id>170</id>
+      <timestamp>2024-08-12T11:55:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{#display_map:Ahrensfelde, Ahrensburg, Germany}}“</comment>
+      <origin>170</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="49" sha1="3d20fvi9y6nnmxz0wrqyrqw8zqv89so" xml:space="preserve">{{#display_map:Ahrensfelde, Ahrensburg, Germany}}</text>
+      <sha1>3d20fvi9y6nnmxz0wrqyrqw8zqv89so</sha1>
+    </revision>
+    <revision>
+      <id>176</id>
+      <parentid>170</parentid>
+      <timestamp>2024-08-12T12:58:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>176</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="279" sha1="3oxctx0bnbyfxds0zj761vyj71y1bg5" xml:space="preserve">{{#display_map:Ahrensfelde, Ahrensburg, Germany}}
+
+Ahrensfelde ist ein Stadtteil von Ahrensburg.
+==Weblinks==
+* [https://ahrensburg-blog.de/ahrensfelde/ Ahrensfelde auf ahrensburg-blog.de]
+* [https://www.stormarnlexikon.de/gemeindeahrensfelde/ Ahrensfelde auf stormarnlexikon.de]</text>
+      <sha1>3oxctx0bnbyfxds0zj761vyj71y1bg5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gewerbegebiet Nord</title>
+    <ns>0</ns>
+    <id>44</id>
+    <revision>
+      <id>178</id>
+      <timestamp>2024-08-12T13:03:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{#display_map:Gewerbegebiet Nord, Ahrensburg, Germany}}  Ahrensfelde ist ein Stadtteil von Ahrensburg.“</comment>
+      <origin>178</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="103" sha1="21ly41pd08b1jr14iqqxcnsfsh7k66j" xml:space="preserve">{{#display_map:Gewerbegebiet Nord, Ahrensburg, Germany}}
+
+Ahrensfelde ist ein Stadtteil von Ahrensburg.</text>
+      <sha1>21ly41pd08b1jr14iqqxcnsfsh7k66j</sha1>
+    </revision>
+    <revision>
+      <id>183</id>
+      <parentid>178</parentid>
+      <timestamp>2024-08-12T13:13:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>183</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="110" sha1="rmhtkuwpkvyvsg790cyhugqid6dnxl8" xml:space="preserve">{{#display_map:Gewerbegebiet Nord, Ahrensburg, Germany}}
+
+Gewerbegebiet Nord ist ein Stadtteil von Ahrensburg.</text>
+      <sha1>rmhtkuwpkvyvsg790cyhugqid6dnxl8</sha1>
+    </revision>
+    <revision>
+      <id>187</id>
+      <parentid>183</parentid>
+      <timestamp>2024-08-12T13:21:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>187</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="125" sha1="mmf93ohfjfbzwq13ghabosbwxht7sho" xml:space="preserve">{{#display_map:Gewerbegebiet Nord, Ahrensburg, Germany}}
+
+Gewerbegebiet Nord ist ein Stadtteil von Ahrensburg.
+== Weblinks ==</text>
+      <sha1>mmf93ohfjfbzwq13ghabosbwxht7sho</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gewerbegebiet West</title>
+    <ns>0</ns>
+    <id>45</id>
+    <revision>
+      <id>179</id>
+      <timestamp>2024-08-12T13:04:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{#display_map:Gewerbegebiet West, Ahrensburg, Germany}}“</comment>
+      <origin>179</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="56" sha1="abv4hivxocubjodrpxv05qvrlfsq0it" xml:space="preserve">{{#display_map:Gewerbegebiet West, Ahrensburg, Germany}}</text>
+      <sha1>abv4hivxocubjodrpxv05qvrlfsq0it</sha1>
+    </revision>
+    <revision>
+      <id>180</id>
+      <parentid>179</parentid>
+      <timestamp>2024-08-12T13:05:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>180</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="42" sha1="dv80ye20bocw2h5hsda1lvue7eh8qvn" xml:space="preserve">{{#display_map:West, Ahrensburg, Germany}}</text>
+      <sha1>dv80ye20bocw2h5hsda1lvue7eh8qvn</sha1>
+    </revision>
+    <revision>
+      <id>181</id>
+      <parentid>180</parentid>
+      <timestamp>2024-08-12T13:05:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>181</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="53" sha1="pk78jpqoecpvx133qhburpt7ma1zs7f" xml:space="preserve">{{#display_map:Ahrensburg West, Ahrensburg, Germany}}</text>
+      <sha1>pk78jpqoecpvx133qhburpt7ma1zs7f</sha1>
     </revision>
   </page>
 </mediawiki>
