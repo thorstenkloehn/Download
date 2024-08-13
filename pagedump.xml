@@ -1054,252 +1054,6 @@ Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhi
     </revision>
   </page>
   <page>
-    <title>Wiki</title>
-    <ns>0</ns>
-    <id>3</id>
-    <revision>
-      <id>9</id>
-      <timestamp>2024-08-07T23:44:41Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <comment>wiki // via Wikitext Extension for VSCode</comment>
-      <origin>9</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="343" sha1="jingghzu42vmrr3973748po15870gaq" xml:space="preserve">== Ahrensburg Wiki ==
-Informationen über Ahrensburg. Leider können Sie die Artikel nicht bearbeiten, weil so viel Spam eingetragen wurde. Wenn Sie einen Artikel schreiben möchten, schicken Sie mir bitte eine E-Mail an [mailto:thorstenkloehn@gmail.com].{{cite web |url=https://wiki.ahrensburg.city |title=Hauptseite |access-date=2024-08-07}}</text>
-      <sha1>jingghzu42vmrr3973748po15870gaq</sha1>
-    </revision>
-    <revision>
-      <id>10</id>
-      <parentid>9</parentid>
-      <timestamp>2024-08-07T23:45:43Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>10</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="384" sha1="j95hn58mi94p0y60m7hg1anjpdqgdtx" xml:space="preserve">== Ahrensburg Wiki ==
-Informationen über Ahrensburg. Leider können Sie die Artikel nicht bearbeiten, weil so viel Spam eingetragen wurde. Wenn Sie einen Artikel schreiben möchten, schicken Sie mir bitte eine E-Mail an [mailto:thorstenkloehn@gmail.com].{{cite web |url=https://wiki.ahrensburg.city |title=Hauptseite |access-date=2024-08-07}}
-
-== Kategorien ==
-{{Special:Categories}}</text>
-      <sha1>j95hn58mi94p0y60m7hg1anjpdqgdtx</sha1>
-    </revision>
-    <revision>
-      <id>71</id>
-      <parentid>10</parentid>
-      <timestamp>2024-08-09T16:36:23Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>71</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1451" sha1="9cs1mor9kfvunbjzkrb3w89mhbi7l3b" xml:space="preserve">== Wiki Software ==
-Wiki ist eine Software, die es ermöglicht, Webseiten zu erstellen und zu bearbeiten. Sie wird oft für die Erstellung von Online-Dokumentationen und Wissensdatenbanken verwendet.
-
-* Mediawiki ist eine der bekanntesten Wiki-Software. Es wird von Wikipedia verwendet.
-* DokuWiki ist eine weitere beliebte Wiki-Software. Es ist einfach zu bedienen und hat viele Funktionen.
-* Xwiki ist eine erweiterbare Wiki-Software. Es ist für Unternehmen und Organisationen geeignet.
-
-== Alternativen ==
-Es gibt viele Alternativen zu Wiki-Software. Einige davon sind:
-
-* WordPress: Ein beliebtes Content-Management-System, das auch als Wiki verwendet werden kann.
-
-== statischer Dokumentationsgenerator ==
-
-* antora: Ein statischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.
-* mkdocs: Ein weiterer statischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.
-* sphinx: Ein weiterer statischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.
-
-== dynamischer Dokumentationsgenerator ==
-
-* Hugo: Ein weiterer dynamischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.
-* Next.js: Ein weiterer dynamischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.
-* astro : Ein weiterer dynamischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.</text>
-      <sha1>9cs1mor9kfvunbjzkrb3w89mhbi7l3b</sha1>
-    </revision>
-    <revision>
-      <id>95</id>
-      <parentid>71</parentid>
-      <timestamp>2024-08-09T20:25:08Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <comment>/* dynamischer Dokumentationsgenerator */</comment>
-      <origin>95</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="1054" sha1="sbbe84arq9vu4hupv2ek8u7o52qlagt" xml:space="preserve">== Wiki Software ==
-Wiki ist eine Software, die es ermöglicht, Webseiten zu erstellen und zu bearbeiten. Sie wird oft für die Erstellung von Online-Dokumentationen und Wissensdatenbanken verwendet.
-
-* Mediawiki ist eine der bekanntesten Wiki-Software. Es wird von Wikipedia verwendet.
-* DokuWiki ist eine weitere beliebte Wiki-Software. Es ist einfach zu bedienen und hat viele Funktionen.
-* Xwiki ist eine erweiterbare Wiki-Software. Es ist für Unternehmen und Organisationen geeignet.
-
-== Alternativen ==
-Es gibt viele Alternativen zu Wiki-Software. Einige davon sind:
-
-* WordPress: Ein beliebtes Content-Management-System, das auch als Wiki verwendet werden kann.
-
-== statischer Dokumentationsgenerator ==
-
-* antora: Ein statischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.
-* mkdocs: Ein weiterer statischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.
-* sphinx: Ein weiterer statischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.</text>
-      <sha1>sbbe84arq9vu4hupv2ek8u7o52qlagt</sha1>
-    </revision>
-    <revision>
-      <id>96</id>
-      <parentid>95</parentid>
-      <timestamp>2024-08-09T20:45:31Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <comment>/* statischer Dokumentationsgenerator */</comment>
-      <origin>96</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="946" sha1="calyiyk7epc11o7n8yn4fibnuhf22k7" xml:space="preserve">== Wiki Software ==
-Wiki ist eine Software, die es ermöglicht, Webseiten zu erstellen und zu bearbeiten. Sie wird oft für die Erstellung von Online-Dokumentationen und Wissensdatenbanken verwendet.
-
-* Mediawiki ist eine der bekanntesten Wiki-Software. Es wird von Wikipedia verwendet.
-* DokuWiki ist eine weitere beliebte Wiki-Software. Es ist einfach zu bedienen und hat viele Funktionen.
-* Xwiki ist eine erweiterbare Wiki-Software. Es ist für Unternehmen und Organisationen geeignet.
-
-== Alternativen ==
-Es gibt viele Alternativen zu Wiki-Software. Einige davon sind:
-
-* WordPress: Ein beliebtes Content-Management-System, das auch als Wiki verwendet werden kann.
-
-== statischer Dokumentationsgenerator ==
-
-* mkdocs: Ein weiterer statischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.
-* sphinx: Ein weiterer statischer Site-Generator, der für die Erstellung von Dokumentationen verwendet werden kann.</text>
-      <sha1>calyiyk7epc11o7n8yn4fibnuhf22k7</sha1>
-    </revision>
-    <revision>
-      <id>101</id>
-      <parentid>96</parentid>
-      <timestamp>2024-08-10T09:12:26Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>101</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="923" sha1="12y91vodc1kkuoikhvwwqp6x8uib7va" xml:space="preserve">== Wiki Software ==
-Wiki ist eine Software, die es ermöglicht, Webseiten zu erstellen und zu bearbeiten. Sie wird oft für die Erstellung von Online-Dokumentationen und Wissensdatenbanken verwendet.
-
-* Mediawiki ist eine der bekanntesten Wiki-Software. Es wird von Wikipedia verwendet.
-* DokuWiki ist eine weitere beliebte Wiki-Software. Es ist einfach zu bedienen und hat viele Funktionen.
-* Xwiki ist eine erweiterbare Wiki-Software. Es ist für Unternehmen und Organisationen geeignet.
-
-== Alternativen ==
-Es gibt viele Alternativen zu Wiki-Software. Einige davon sind:
-
-* WordPress: Ein beliebtes Content-Management-System, das auch als Wiki verwendet werden kann.
-
-==StadtWiki Erweitung==
-* Semantic MediaWiki ist eine Erweiterung für Mediawiki, die es ermöglicht, strukturierte Daten in Wikiseiten zu verwenden.
-* Kategorie  
-* Interwiki 
-* Timeline 
-* Kartographie
-* Kalender
-* Galerie
-* Formulare 
-* Social Media</text>
-      <sha1>12y91vodc1kkuoikhvwwqp6x8uib7va</sha1>
-    </revision>
-    <revision>
-      <id>102</id>
-      <parentid>101</parentid>
-      <timestamp>2024-08-10T09:21:58Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>102</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="927" sha1="hv9u0k9oob5decc1rl82ohilz1ad0ol" xml:space="preserve">== Wiki Software ==
-Wiki ist eine Software, die es ermöglicht, Webseiten zu erstellen und zu bearbeiten. Sie wird oft für die Erstellung von Online-Dokumentationen und Wissensdatenbanken verwendet.
-
-* Mediawiki ist eine der bekanntesten Wiki-Software. Es wird von Wikipedia verwendet.
-* DokuWiki ist eine weitere beliebte Wiki-Software. Es ist einfach zu bedienen und hat viele Funktionen.
-* Xwiki ist eine erweiterbare Wiki-Software. Es ist für Unternehmen und Organisationen geeignet.
-
-== Alternativen ==
-Es gibt viele Alternativen zu Wiki-Software. Einige davon sind:
-
-* [[WordPress]]: Ein beliebtes Content-Management-System, das auch als Wiki verwendet werden kann.
-
-==StadtWiki Erweitung==
-* Semantic MediaWiki ist eine Erweiterung für Mediawiki, die es ermöglicht, strukturierte Daten in Wikiseiten zu verwenden.
-* Kategorie  
-* Interwiki 
-* Timeline 
-* Kartographie
-* Kalender
-* Galerie
-* Formulare 
-* Social Media</text>
-      <sha1>hv9u0k9oob5decc1rl82ohilz1ad0ol</sha1>
-    </revision>
-    <revision>
-      <id>108</id>
-      <parentid>102</parentid>
-      <timestamp>2024-08-10T11:10:11Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <comment>/* StadtWiki Erweitung */</comment>
-      <origin>108</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="939" sha1="aukfwzlth1hn8vqn89ptk17mics2syk" xml:space="preserve">== Wiki Software ==
-Wiki ist eine Software, die es ermöglicht, Webseiten zu erstellen und zu bearbeiten. Sie wird oft für die Erstellung von Online-Dokumentationen und Wissensdatenbanken verwendet.
-
-* Mediawiki ist eine der bekanntesten Wiki-Software. Es wird von Wikipedia verwendet.
-* DokuWiki ist eine weitere beliebte Wiki-Software. Es ist einfach zu bedienen und hat viele Funktionen.
-* Xwiki ist eine erweiterbare Wiki-Software. Es ist für Unternehmen und Organisationen geeignet.
-
-== Alternativen ==
-Es gibt viele Alternativen zu Wiki-Software. Einige davon sind:
-
-* [[WordPress]]: Ein beliebtes Content-Management-System, das auch als Wiki verwendet werden kann.
-
-==StadtWiki Erweitung==
-* Semantic MediaWiki ist eine Erweiterung für Mediawiki, die es ermöglicht, strukturierte Daten in Wikiseiten zu verwenden.
-* Kategorie  
-* Interwiki 
-* Timeline 
-* Kartographie
-* Kalender
-* Galerie
-* Formulare 
-* Social Media
-* Scribunto</text>
-      <sha1>aukfwzlth1hn8vqn89ptk17mics2syk</sha1>
-    </revision>
-  </page>
-  <page>
     <title>Start</title>
     <ns>0</ns>
     <id>4</id>
@@ -2767,274 +2521,6 @@ php importDump.php &lt; pagedump.xml
 [[Category:Backup]]
 [[Category:MediaWiki]]</text>
       <sha1>jrmv7f7iz8upwbhq4trgmclbvptz3xt</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>Test</title>
-    <ns>0</ns>
-    <id>8</id>
-    <revision>
-      <id>36</id>
-      <timestamp>2024-08-08T13:05:15Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>36</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="216" sha1="3mglsueo58eaj6uvwar49k90q643mtw" xml:space="preserve">== Tools ==
-
-gh installieren in ubuntu 20.04
-
-=== Installation ===
-
-```bash
-sudo apt-get install git
-```
-
-=== Konfiguration ===
-
-```bash
-git config --global user.name "John Doe"
-git config --global user.email
-
-```
-==</text>
-      <sha1>3mglsueo58eaj6uvwar49k90q643mtw</sha1>
-    </revision>
-    <revision>
-      <id>126</id>
-      <parentid>36</parentid>
-      <timestamp>2024-08-10T14:34:21Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <origin>126</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="145" sha1="mtd78l0kt5b2asv5twpaqwada8fy7oh" xml:space="preserve">&lt;markdown&gt;
-## Emphasis
-
-**This is bold text**
-
-__This is bold text__
-
-*This is italic text*
-
-_This is italic text_
-
-~~Strikethrough~~
-&lt;/markdown&gt;</text>
-      <sha1>mtd78l0kt5b2asv5twpaqwada8fy7oh</sha1>
-    </revision>
-    <revision>
-      <id>127</id>
-      <parentid>126</parentid>
-      <timestamp>2024-08-10T14:43:09Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <origin>127</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="5883" sha1="om9c59brhxc12cg9wbi5f601ytv1bm9" xml:space="preserve">&lt;markdown&gt;
-## Wordpress Installieren
-
-Wordpress ist ein Content Management System (CMS) und Blogging-Tool, das auf PHP und MySQL basiert. Es ist kostenlos und Open Source und bietet eine Vielzahl von Funktionen, einschließlich eines Plug-in-Architektur und eines Themas, die es den Benutzern ermöglichen, Websites zu erstellen und zu verwalten.
-
-### Installieren von Wordpress auf einem Ubuntu 20.04-Server
-
-#### System aktualisieren
-
-Bevor Sie beginnen, müssen Sie sicherstellen, dass Ihr System auf dem neuesten Stand ist. Sie können dies tun, indem Sie das folgende Kommando ausführen:
-
-```bash
-sudo apt update -y
-sudo apt upgrade -y
-```
-#### nginx installieren
-
-Als nächstes müssen Sie Nginx installieren, um Ihre Wordpress-Website zu hosten. Sie können Nginx installieren, indem Sie das folgende Kommando ausführen:
-
-```bash 
-sudo apt install nginx -y
-``` 
-### Mysql installieren
-```
-sudo apt install mysql-server -y
-sudo mysql_secure_installation
-```
-#### Datenbank und Benutzer erstellen
-
-Nach der Installation von MySQL müssen Sie eine Datenbank und einen Benutzer für Wordpress erstellen. Sie können dies tun, indem Sie das folgende Kommando ausführen:
-
-```bash
-sudo mysql -u root -p
-CREATE DATABASE wordpress;
-CREATE USER 'wpuser'@'localhost' IDENTIFIED BY 'secure_password';
-GRANT ALL PRIVILEGES ON wordpress.* TO 'wpuser'@'localhost';
-FLUSH PRIVILEGES;
-EXIT;
-```
-### PHP installieren
-
-Als nächstes müssen Sie PHP und einige PHP-Erweiterungen installieren, die von Wordpress benötigt werden. Sie können dies tun, indem Sie das folgende Kommando ausführen:
-
-```bash
-sudo apt install php-fpm php-mysql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip -y
-```
-### Wordpress herunterladen
-
-Als nächstes müssen Sie Wordpress herunterladen und in Ihrem Webroot-Verzeichnis extrahieren. Sie können dies tun, indem Sie das folgende Kommando ausführen:
-
-```bash
-cd /var/www/html
-sudo wget https://de.wordpress.org/latest-de_DE.tar.gz
-sudo tar -xvzf latest-de_DE.tar.gz
-sudo mv wordpress/* .
-sudo rm -rf wordpress latest-de_DE.tar.gz
-sudo chown -R www-data:www-data /var/www/html
-sudo chmod -R 755 /var/www/html
-```
-### Nginx-Konfiguration
-
-Als nächstes müssen Sie eine Nginx-Konfigurationsdatei für Ihre Wordpress-Website erstellen. Sie können dies tun, indem Sie das folgende Kommando ausführen:
-sudo nano /etc/nginx/conf.d/blog.conf
-```bash
-
-
-```
-Fügen Sie den folgenden Inhalt hinzu:
-
-```nginx
-
-server {
-    listen 443 ssl http2;
-    listen [::]:443 ssl http2;
-    server_name blog.ahrensburg.city;
-    ssl_certificate /etc/letsencrypt/live/blog.ahrensburg.city/fullchain.pem;
-    ssl_certificate_key /etc/letsencrypt/live/blog.ahrensburg.city/privkey.pem;
-    root /var/www/html;
-
-    index index.php index.html index.htm;
-
-    location / {
-        try_files $uri $uri/ /index.php?$args;
-    }
-
-    location ~ \.php$ {
-        include snippets/fastcgi-php.conf;
-        fastcgi_pass unix:/var/run/php/php7.4-fpm.sock;
-        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
-        include fastcgi_params;
-    }
-
-    location ~ /\.ht {
-        deny all;
-    }
-}
-
-server {
-    listen 80;
-    listen [::]:80;
-    server_name blog.ahrensburg.city;
-    return 301 https://$host$request_uri;
-}
-```
-## Local Wordpress Installieren
-
-Wordpress ist ein Content Management System (CMS) und Blogging-Tool, das auf PHP und MySQL basiert. Es ist kostenlos und Open Source und bietet eine Vielzahl von Funktionen, einschließlich eines Plug-in-Architektur und eines Themas, die es den Benutzern ermöglichen, Websites zu erstellen und zu verwalten.
-
-
-### System aktualisieren
-
-Bevor Sie beginnen, müssen Sie sicherstellen, dass Ihr System auf dem neuesten Stand ist. Sie können dies tun, indem Sie das folgende Kommando ausführen:
-
-```bash
-sudo apt update -y
-sudo apt upgrade -y
-```
-
-### Mysql installieren
-```
-sudo apt install mysql-server -y
-sudo mysql_secure_installation
-```
-#### Datenbank und Benutzer erstellen
-
-Nach der Installation von MySQL müssen Sie eine Datenbank und einen Benutzer für Wordpress erstellen. Sie können dies tun, indem Sie das folgende Kommando ausführen:
-
-```bash
-sudo mysql -u root -p
-CREATE DATABASE wordpress;
-CREATE USER 'wpuser'@'localhost' IDENTIFIED BY 'secure_password';
-GRANT ALL PRIVILEGES ON wordpress.* TO 'wpuser'@'localhost';
-FLUSH PRIVILEGES;
-EXIT;
-```
-### PHP installieren
-
-Als nächstes müssen Sie PHP und einige PHP-Erweiterungen installieren, die von Wordpress benötigt werden. Sie können dies tun, indem Sie das folgende Kommando ausführen:
-
-```bash
-sudo apt install php-fpm php-mysql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip -y
-```
-### Wordpress herunterladen
-```
-cd /var/www/html
-sudo wget https://de.wordpress.org/latest-de_DE.tar.gz
-sudo tar -xvzf latest-de_DE.tar.gz
-sudo mv wordpress/* .
-sudo rm -rf wordpress latest-de_DE.tar.gz
-sudo chown -R www-data:www-data /var/www/html
-sudo chmod -R 755 /var/www/html
-sudo rm /etc/nginx/sites-enabled/default
-```
-## Wordpress Nginx Lokale Rechner
-sudo nano /etc/nginx/conf.d/blog.conf
-```
-server {
-    listen 80;
-    server_name example.com;  # Ersetzen Sie 'example.com' durch Ihre Domain
-    root /var/www/html;       # Pfad zu Ihrer WordPress-Installation
-
-    index index.php index.html index.htm;
-
-    location / {
-        try_files $uri $uri/ /index.php?$args;
-    }
-
-    location ~ \.php$ {
-        include snippets/fastcgi-php.conf;
-        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
-    }
-
-    location ~ /\.ht {
-        deny all;
-    }
-
-    # Zusätzliche Konfiguration für Multisite
-    location /files/ {
-        access_log off;
-        log_not_found off;
-        expires max;
-    }
-
-    location ^~ /blogs.dir/ {
-        internal;
-        alias /var/www/html/wp-content/blogs.dir/;
-        access_log off;
-        log_not_found off;
-        expires max;
-    }
-}
-```
-&lt;/markdown&gt;</text>
-      <sha1>om9c59brhxc12cg9wbi5f601ytv1bm9</sha1>
     </revision>
   </page>
   <page>
@@ -4672,325 +4158,6 @@ Es ist ein Waldgebiet in Ahrensburg. Es ist ein beliebtes Ausflugsziel für Spaz
 * nominatim ist ein Suchdienst für OpenStreetMap-Daten. [https://nominatim.org/]
 * Photon Geocoder ist ein Dienst, der es ermöglicht, Geodaten in Adressen umzuwandeln und umgekehrt. [https://photon.komoot.io/]</text>
       <sha1>20j7vwvzxipialgd8irpa7q7d1k9u62</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>WordPress</title>
-    <ns>0</ns>
-    <id>22</id>
-    <revision>
-      <id>103</id>
-      <timestamp>2024-08-10T09:46:37Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>103</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="397" sha1="9gg73d2879ym6zizy68z872jyojlkp3" xml:space="preserve">== Wordpress als Stadtportal ==
-===Erweiterungen===
-====Kernfunktionen====
-=====Seitenbauer=====
-* Elementor
-* Gutenberg
-* Brizy
-=====Theme=====
-* Stadtportal Theme 
-* Cronics
-* Maryville
-* Dream City
-====Veranstaltungskalender====
-* The Events Calendar:
-* All in One Events Calendar
-====Ortsverzeichnis====
-* Local Listings
-* Community Directory
-====Formulare====
-* Contact Form 7
-* Gravity Forms</text>
-      <sha1>9gg73d2879ym6zizy68z872jyojlkp3</sha1>
-    </revision>
-    <revision>
-      <id>104</id>
-      <parentid>103</parentid>
-      <timestamp>2024-08-10T09:59:53Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>104</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="539" sha1="e8gxhptgzu1yv76o79dtw6kf89s97o4" xml:space="preserve">== Wordpress als Stadtportal ==
-===Erweiterungen===
-====Kernfunktionen====
-=====Seitenbauer=====
-* Elementor
-* Gutenberg
-* Brizy
-=====Theme=====
-* Stadtportal Theme 
-* Cronics
-* Maryville
-* Dream City
-====Veranstaltungskalender====
-* The Events Calendar:
-* All in One Events Calendar
-====Ortsverzeichnis====
-* Local Listings
-* Community Directory
-====Formulare====
-* Contact Form 7
-* Gravity Forms
-
-==Welche Themen für ein Stadtportal?==
-* Lokale Nachrichten
-* Stadtführer
-* Veranstaltungskalender
-* Ortsverzeichnis
-* Kultur und Freizeit</text>
-      <sha1>e8gxhptgzu1yv76o79dtw6kf89s97o4</sha1>
-    </revision>
-    <revision>
-      <id>105</id>
-      <parentid>104</parentid>
-      <timestamp>2024-08-10T10:01:56Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>105</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="584" sha1="6r7h2sq78psj2kuzywfet3fq1ak0a7b" xml:space="preserve">== Wordpress als Stadtportal ==
-===Erweiterungen===
-====Kernfunktionen====
-=====Seitenbauer=====
-* Elementor
-* Gutenberg
-* Brizy
-=====Theme=====
-* Stadtportal Theme 
-* Cronics
-* Maryville
-* Dream City
-====Veranstaltungskalender====
-* The Events Calendar:
-* All in One Events Calendar
-====Ortsverzeichnis====
-* Local Listings
-* Community Directory
-====Formulare====
-* Contact Form 7
-* Gravity Forms
-====Kartographie====
-* Google Maps
-* MapPress
-==Welche Themen für ein Stadtportal?==
-* Lokale Nachrichten
-* Stadtführer
-* Veranstaltungskalender
-* Ortsverzeichnis
-* Kultur und Freizeit</text>
-      <sha1>6r7h2sq78psj2kuzywfet3fq1ak0a7b</sha1>
-    </revision>
-    <revision>
-      <id>109</id>
-      <parentid>105</parentid>
-      <timestamp>2024-08-10T11:10:57Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <comment>/* Wordpress als Stadtportal */</comment>
-      <origin>109</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="607" sha1="q1yiiaqz7gf602pg3rrvw3anibrfbih" xml:space="preserve">== Wordpress als Stadtportal ==
-===Erweiterungen===
-====Kernfunktionen====
-=====Seitenbauer=====
-* Elementor
-* Gutenberg
-* Brizy
-=====Theme=====
-* Stadtportal Theme 
-* Cronics
-* Maryville
-* Dream City
-====Veranstaltungskalender====
-* The Events Calendar:
-* All in One Events Calendar
-====Ortsverzeichnis====
-* Local Listings
-* Community Directory
-====Formulare====
-* Contact Form 7
-* Gravity Forms
-====Kartographie====
-* Google Maps
-* MapPress
-
-==Wordpress als Wiki
-
-==Welche Themen für ein Stadtportal?==
-* Lokale Nachrichten
-* Stadtführer
-* Veranstaltungskalender
-* Ortsverzeichnis
-* Kultur und Freizeit</text>
-      <sha1>q1yiiaqz7gf602pg3rrvw3anibrfbih</sha1>
-    </revision>
-    <revision>
-      <id>110</id>
-      <parentid>109</parentid>
-      <timestamp>2024-08-10T11:12:11Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <comment>/* Wordpress als Stadtportal */</comment>
-      <origin>110</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="630" sha1="tkrfnb5amh0hczxjrfp0yhqjn01f4ex" xml:space="preserve">== Wordpress als Stadtportal ==
-===Erweiterungen===
-====Kernfunktionen====
-=====Seitenbauer=====
-* Elementor
-* Gutenberg
-* Brizy
-=====Theme=====
-* Stadtportal Theme 
-* Cronics
-* Maryville
-* Dream City
-====Veranstaltungskalender====
-* The Events Calendar:
-* All in One Events Calendar
-====Ortsverzeichnis====
-* Local Listings
-* Community Directory
-====Formulare====
-* Contact Form 7
-* Gravity Forms
-====Kartographie====
-* Google Maps
-* MapPress
-
-==Wordpress al Wiki==
-
-==Wordpress als Wiki
-
-==Welche Themen für ein Stadtportal?==
-* Lokale Nachrichten
-* Stadtführer
-* Veranstaltungskalender
-* Ortsverzeichnis
-* Kultur und Freizeit</text>
-      <sha1>tkrfnb5amh0hczxjrfp0yhqjn01f4ex</sha1>
-    </revision>
-    <revision>
-      <id>111</id>
-      <parentid>110</parentid>
-      <timestamp>2024-08-10T11:12:35Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <comment>/* Wordpress al Wiki */</comment>
-      <origin>111</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="608" sha1="lxh33pw66l4u8la4wm9lt60d2ovxnrr" xml:space="preserve">== Wordpress als Stadtportal ==
-===Erweiterungen===
-====Kernfunktionen====
-=====Seitenbauer=====
-* Elementor
-* Gutenberg
-* Brizy
-=====Theme=====
-* Stadtportal Theme 
-* Cronics
-* Maryville
-* Dream City
-====Veranstaltungskalender====
-* The Events Calendar:
-* All in One Events Calendar
-====Ortsverzeichnis====
-* Local Listings
-* Community Directory
-====Formulare====
-* Contact Form 7
-* Gravity Forms
-====Kartographie====
-* Google Maps
-* MapPress
-
-==Wordpress al Wiki==
-
-==Welche Themen für ein Stadtportal?==
-* Lokale Nachrichten
-* Stadtführer
-* Veranstaltungskalender
-* Ortsverzeichnis
-* Kultur und Freizeit</text>
-      <sha1>lxh33pw66l4u8la4wm9lt60d2ovxnrr</sha1>
-    </revision>
-    <revision>
-      <id>112</id>
-      <parentid>111</parentid>
-      <timestamp>2024-08-10T11:17:35Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <origin>112</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="660" sha1="q49sof7v87gkjrmfk1ob18dfwdnj3kv" xml:space="preserve">== Wordpress als Stadtportal ==
-===Erweiterungen===
-====Kernfunktionen====
-=====Seitenbauer=====
-* Elementor
-* Gutenberg
-* Brizy
-=====Theme=====
-* Stadtportal Theme 
-* Cronics
-* Maryville
-* Dream City
-====Veranstaltungskalender====
-* The Events Calendar:
-* All in One Events Calendar
-====Ortsverzeichnis====
-* Local Listings
-* Community Directory
-====Formulare====
-* Contact Form 7
-* Gravity Forms
-====Kartographie====
-* Google Maps
-* MapPress
-
-
-==Welche Themen für ein Stadtportal?==
-* Lokale Nachrichten
-* Stadtführer
-* Veranstaltungskalender
-* Ortsverzeichnis
-* Kultur und Freizeit
-
-==Wordpress al Wiki==
-
-* Heroic Knowledge Base
-* weDocs
-* BasePress Docs</text>
-      <sha1>q49sof7v87gkjrmfk1ob18dfwdnj3kv</sha1>
     </revision>
   </page>
   <page>
@@ -9068,6 +8235,228 @@ func main() {
 &lt;/code&gt;&lt;/pre&gt;</text>
       <sha1>1ke7e68tvqvgkcpusmwqb7u26xuo7nu</sha1>
     </revision>
+    <revision>
+      <id>188</id>
+      <parentid>147</parentid>
+      <timestamp>2024-08-12T20:56:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Beispiel mit Golang */</comment>
+      <origin>188</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3141" sha1="g7orryk8k8l5sgg0f57vt914a5borsn" xml:space="preserve">== Wiki Artikeln in Rest Api ausgeben ==
+=== Einleitung ===
+In diesem Artikel wird beschrieben, wie
+
+* https://wiki.ahrensburg.city/api.php?action=query&amp;format=json&amp;prop=info&amp;titles=Geografie
+
+
+== Wiki Inhalte in Rest Api ausgeben ==
+=== Einleitung ===
+In diesem Artikel wird beschrieben, wie
+
+== html ausgabe ohne Bearbeitung Funktionen==
+* https://wiki.ahrensburg.city/api.php?action=parse&amp;format=json&amp;page=Geografie&amp;disableeditsection=1&amp;disabletoc=1
+
+== Beispiel mit Golang ==
+&lt;pre&gt;&lt;code&gt;
+package main
+
+import (
+    "encoding/json"
+    "fmt"
+    "io/ioutil"
+    "net/http"
+    "strings"
+
+    "github.com/PuerkitoBio/goquery"
+)
+
+func main() {
+    http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+        // URL der API-Abfrage
+        url := "https://wiki.ahrensburg.city/api.php?action=parse&amp;format=json&amp;page=Forst_Hagen&amp;disableeditsection=1&amp;disabletoc=1"
+
+        // API-Abfrage durchführen
+        resp, err := http.Get(url)
+        if err != nil {
+            http.Error(w, "Fehler bei der API-Abfrage: "+err.Error(), http.StatusInternalServerError)
+            return
+        }
+        defer resp.Body.Close()
+
+        body, err := ioutil.ReadAll(resp.Body)
+        if err != nil {
+            http.Error(w, "Fehler beim Lesen der Antwort: "+err.Error(), http.StatusInternalServerError)
+            return
+        }
+
+        // JSON-Antwort parsen
+        var data map[string]interface{}
+        err = json.Unmarshal(body, &amp;data)
+        if err != nil {
+            http.Error(w, "Fehler beim Parsen der JSON-Antwort: "+err.Error(), http.StatusInternalServerError)
+            return
+        }
+
+        // HTML-Inhalt erstellen
+        htmlContent := "&lt;html&gt;&lt;head&gt;&lt;title&gt;Geografie&lt;/title&gt;&lt;/head&gt;&lt;body&gt;"
+
+        if parse, ok := data["parse"].(map[string]interface{}); ok {
+            title := parse["title"].(string)
+            text := parse["text"].(map[string]interface{})["*"].(string)
+
+            // HTML-Inhalt mit goquery parsen
+            doc, err := goquery.NewDocumentFromReader(strings.NewReader(text))
+            if err != nil {
+                http.Error(w, "Fehler beim Parsen des HTML-Inhalts: "+err.Error(), http.StatusInternalServerError)
+                return
+            }
+
+            // Entfernen des gesamten &lt;div id="map_leaflet_1"&gt;-Inhalts
+            doc.Find("div#map_leaflet_1").Remove()
+
+            // Bereinigten HTML-Inhalt extrahieren
+            cleanedHTML, err := doc.Html()
+            if err != nil {
+                http.Error(w, "Fehler beim Extrahieren des bereinigten HTML-Inhalts: "+err.Error(), http.StatusInternalServerError)
+                return
+            }
+
+            htmlContent += fmt.Sprintf("&lt;h1&gt;%s&lt;/h1&gt;%s", title, cleanedHTML)
+        } else {
+            htmlContent += "&lt;p&gt;Kein Inhalt gefunden.&lt;/p&gt;"
+        }
+
+        htmlContent += "&lt;/body&gt;&lt;/html&gt;"
+
+        // HTML-Inhalt ausgeben
+        w.Header().Set("Content-Type", "text/html; charset=utf-8")
+        w.Write([]byte(htmlContent))
+    })
+
+    // HTTP-Server auf Port 8080 starten
+    fmt.Println("Server läuft auf http://localhost:8080")
+    http.ListenAndServe(":8080", nil)
+}
+
+&lt;/code&gt;&lt;/pre&gt;</text>
+      <sha1>g7orryk8k8l5sgg0f57vt914a5borsn</sha1>
+    </revision>
+    <revision>
+      <id>189</id>
+      <parentid>188</parentid>
+      <timestamp>2024-08-12T20:57:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Beispiel mit Golang */</comment>
+      <origin>189</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3128" sha1="319pk4htvp2vj370iyly6f0htb52hjf" xml:space="preserve">== Wiki Artikeln in Rest Api ausgeben ==
+=== Einleitung ===
+In diesem Artikel wird beschrieben, wie
+
+* https://wiki.ahrensburg.city/api.php?action=query&amp;format=json&amp;prop=info&amp;titles=Geografie
+
+
+== Wiki Inhalte in Rest Api ausgeben ==
+=== Einleitung ===
+In diesem Artikel wird beschrieben, wie
+
+== html ausgabe ohne Bearbeitung Funktionen==
+* https://wiki.ahrensburg.city/api.php?action=parse&amp;format=json&amp;page=Geografie&amp;disableeditsection=1&amp;disabletoc=1
+
+== Beispiel mit Golang ==
+&lt;pre&gt;
+package main
+
+import (
+    "encoding/json"
+    "fmt"
+    "io/ioutil"
+    "net/http"
+    "strings"
+
+    "github.com/PuerkitoBio/goquery"
+)
+
+func main() {
+    http.HandleFunc("/", func(w http.ResponseWriter, r *http.Request) {
+        // URL der API-Abfrage
+        url := "https://wiki.ahrensburg.city/api.php?action=parse&amp;format=json&amp;page=Forst_Hagen&amp;disableeditsection=1&amp;disabletoc=1"
+
+        // API-Abfrage durchführen
+        resp, err := http.Get(url)
+        if err != nil {
+            http.Error(w, "Fehler bei der API-Abfrage: "+err.Error(), http.StatusInternalServerError)
+            return
+        }
+        defer resp.Body.Close()
+
+        body, err := ioutil.ReadAll(resp.Body)
+        if err != nil {
+            http.Error(w, "Fehler beim Lesen der Antwort: "+err.Error(), http.StatusInternalServerError)
+            return
+        }
+
+        // JSON-Antwort parsen
+        var data map[string]interface{}
+        err = json.Unmarshal(body, &amp;data)
+        if err != nil {
+            http.Error(w, "Fehler beim Parsen der JSON-Antwort: "+err.Error(), http.StatusInternalServerError)
+            return
+        }
+
+        // HTML-Inhalt erstellen
+        htmlContent := "&lt;html&gt;&lt;head&gt;&lt;title&gt;Geografie&lt;/title&gt;&lt;/head&gt;&lt;body&gt;"
+
+        if parse, ok := data["parse"].(map[string]interface{}); ok {
+            title := parse["title"].(string)
+            text := parse["text"].(map[string]interface{})["*"].(string)
+
+            // HTML-Inhalt mit goquery parsen
+            doc, err := goquery.NewDocumentFromReader(strings.NewReader(text))
+            if err != nil {
+                http.Error(w, "Fehler beim Parsen des HTML-Inhalts: "+err.Error(), http.StatusInternalServerError)
+                return
+            }
+
+            // Entfernen des gesamten &lt;div id="map_leaflet_1"&gt;-Inhalts
+            doc.Find("div#map_leaflet_1").Remove()
+
+            // Bereinigten HTML-Inhalt extrahieren
+            cleanedHTML, err := doc.Html()
+            if err != nil {
+                http.Error(w, "Fehler beim Extrahieren des bereinigten HTML-Inhalts: "+err.Error(), http.StatusInternalServerError)
+                return
+            }
+
+            htmlContent += fmt.Sprintf("&lt;h1&gt;%s&lt;/h1&gt;%s", title, cleanedHTML)
+        } else {
+            htmlContent += "&lt;p&gt;Kein Inhalt gefunden.&lt;/p&gt;"
+        }
+
+        htmlContent += "&lt;/body&gt;&lt;/html&gt;"
+
+        // HTML-Inhalt ausgeben
+        w.Header().Set("Content-Type", "text/html; charset=utf-8")
+        w.Write([]byte(htmlContent))
+    })
+
+    // HTTP-Server auf Port 8080 starten
+    fmt.Println("Server läuft auf http://localhost:8080")
+    http.ListenAndServe(":8080", nil)
+}
+
+&lt;/pre&gt;</text>
+      <sha1>319pk4htvp2vj370iyly6f0htb52hjf</sha1>
+    </revision>
   </page>
   <page>
     <title>User blog:Thorsten/Hallo</title>
@@ -9213,6 +8602,25 @@ Gewerbegebiet Nord ist ein Stadtteil von Ahrensburg.
 == Weblinks ==</text>
       <sha1>mmf93ohfjfbzwq13ghabosbwxht7sho</sha1>
     </revision>
+    <revision>
+      <id>190</id>
+      <parentid>187</parentid>
+      <timestamp>2024-08-12T21:03:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Weblinks */</comment>
+      <origin>190</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="240" sha1="rplnazgmk4rfuecf57enjut6e296pje" xml:space="preserve">{{#display_map:Gewerbegebiet Nord, Ahrensburg, Germany}}
+
+Gewerbegebiet Nord ist ein Stadtteil von Ahrensburg.
+== Weblinks ==
+* [https://ahrensburg-blog.de/gewerbegebiet-ahrensburg/ Das Gewerbegebiet Ahrensburg von seiner idyllischen Seite]</text>
+      <sha1>rplnazgmk4rfuecf57enjut6e296pje</sha1>
+    </revision>
   </page>
   <page>
     <title>Gewerbegebiet West</title>
@@ -9259,6 +8667,939 @@ Gewerbegebiet Nord ist ein Stadtteil von Ahrensburg.
       <format>text/x-wiki</format>
       <text bytes="53" sha1="pk78jpqoecpvx133qhburpt7ma1zs7f" xml:space="preserve">{{#display_map:Ahrensburg West, Ahrensburg, Germany}}</text>
       <sha1>pk78jpqoecpvx133qhburpt7ma1zs7f</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gartenholz</title>
+    <ns>0</ns>
+    <id>46</id>
+    <revision>
+      <id>191</id>
+      <timestamp>2024-08-12T21:04:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{#display_map:Gartenholz, Ahrensburg, Germany}}  Gewerbegebiet Nord ist ein Stadtteil von Ahrensburg. == Weblinks ==“</comment>
+      <origin>191</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="117" sha1="b6sshmzc5wuvv6qi9n3lsnptmqo8h6a" xml:space="preserve">{{#display_map:Gartenholz, Ahrensburg, Germany}}
+
+Gewerbegebiet Nord ist ein Stadtteil von Ahrensburg.
+== Weblinks ==</text>
+      <sha1>b6sshmzc5wuvv6qi9n3lsnptmqo8h6a</sha1>
+    </revision>
+    <revision>
+      <id>192</id>
+      <parentid>191</parentid>
+      <timestamp>2024-08-12T21:06:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Weblinks */</comment>
+      <origin>192</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="205" sha1="4srqxt6ruk4cjuo9bg6pvtrq8pgq5uw" xml:space="preserve">{{#display_map:Gartenholz, Ahrensburg, Germany}}
+
+Gewerbegebiet Nord ist ein Stadtteil von Ahrensburg.
+== Weblinks ==
+
+* [https://ahrensburg-blog.de/gartenholz/ Spaziergang durch das Wohngebiet Gartenholz]</text>
+      <sha1>4srqxt6ruk4cjuo9bg6pvtrq8pgq5uw</sha1>
+    </revision>
+    <revision>
+      <id>193</id>
+      <parentid>192</parentid>
+      <timestamp>2024-08-12T21:08:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>193</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="197" sha1="ctum1s17setqlp8xk1vu2yi4gbhzr22" xml:space="preserve">{{#display_map:Gartenholz, Ahrensburg, Germany}}
+
+Gartenholz ist ein Stadtteil von Ahrensburg.
+== Weblinks ==
+
+* [https://ahrensburg-blog.de/gartenholz/ Spaziergang durch das Wohngebiet Gartenholz]</text>
+      <sha1>ctum1s17setqlp8xk1vu2yi4gbhzr22</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ahrensburger Redder</title>
+    <ns>0</ns>
+    <id>47</id>
+    <revision>
+      <id>194</id>
+      <timestamp>2024-08-12T21:11:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{#display_map:Ahrensburger Redder, Ahrensburg, Germany}}  Ahrensburger Redder ist ein Stadtteil von Ahrensburg. == Weblinks ==“</comment>
+      <origin>194</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="127" sha1="e621tce1debdwjkclelaqkg7e6vv0ot" xml:space="preserve">{{#display_map:Ahrensburger Redder, Ahrensburg, Germany}}
+
+Ahrensburger Redder ist ein Stadtteil von Ahrensburg.
+== Weblinks ==</text>
+      <sha1>e621tce1debdwjkclelaqkg7e6vv0ot</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Waldgut Hagen</title>
+    <ns>0</ns>
+    <id>48</id>
+    <revision>
+      <id>195</id>
+      <timestamp>2024-08-12T21:15:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{#display_map:Waldgut Hagen, Ahrensburg, Germany}}  Ahrensburger Redder ist ein Stadtteil von Ahrensburg. == Weblinks ==“</comment>
+      <origin>195</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="121" sha1="2hbd99pjsaoplal9kxxi12ad6ble000" xml:space="preserve">{{#display_map:Waldgut Hagen, Ahrensburg, Germany}}
+
+Ahrensburger Redder ist ein Stadtteil von Ahrensburg.
+== Weblinks ==</text>
+      <sha1>2hbd99pjsaoplal9kxxi12ad6ble000</sha1>
+    </revision>
+    <revision>
+      <id>196</id>
+      <parentid>195</parentid>
+      <timestamp>2024-08-12T21:16:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>196</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="115" sha1="13ev8jamfal95ged5jejlej4fada132" xml:space="preserve">{{#display_map:Waldgut Hagen, Ahrensburg, Germany}}
+
+Waldgut Hagen ist ein Stadtteil von Ahrensburg.
+== Weblinks ==</text>
+      <sha1>13ev8jamfal95ged5jejlej4fada132</sha1>
+    </revision>
+    <revision>
+      <id>197</id>
+      <parentid>196</parentid>
+      <timestamp>2024-08-13T00:04:13Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Weblinks */</comment>
+      <origin>197</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="271" sha1="oajulv9lb0bldgi0xvmcu6pk8pxtiju" xml:space="preserve">{{#display_map:Waldgut Hagen, Ahrensburg, Germany}}
+
+Waldgut Hagen ist ein Stadtteil von Ahrensburg.
+== Weblinks ==
+* [http://www.waldgut.bfs-ahrensburg.de/ waldgut.bfs-ahrensburg.de]
+* [https://nebenan.de/hood/siedlung-waldgut-hagen Ahrensburg Siedlung- / Waldgut Hagen]</text>
+      <sha1>oajulv9lb0bldgi0xvmcu6pk8pxtiju</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Siedlung Am Hagen</title>
+    <ns>0</ns>
+    <id>49</id>
+    <revision>
+      <id>198</id>
+      <timestamp>2024-08-13T00:06:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{#display_map:Siedlung Am Hagen, Ahrensburg, Germany}}  Siedlung Am Hagen ist ein Stadtteil von Ahrensburg. == Weblinks ==“</comment>
+      <origin>198</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="123" sha1="lg3t6qwltl4ukbga4grau1zzb0uz4aw" xml:space="preserve">{{#display_map:Siedlung Am Hagen, Ahrensburg, Germany}}
+
+Siedlung Am Hagen ist ein Stadtteil von Ahrensburg.
+== Weblinks ==</text>
+      <sha1>lg3t6qwltl4ukbga4grau1zzb0uz4aw</sha1>
+    </revision>
+    <revision>
+      <id>199</id>
+      <parentid>198</parentid>
+      <timestamp>2024-08-13T00:09:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>199</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="279" sha1="4fnnr9l2lyqdhsoh6uniepzxk4rv7jc" xml:space="preserve">{{#display_map:Siedlung Am Hagen, Ahrensburg, Germany}}
+
+Siedlung Am Hagen ist ein Stadtteil von Ahrensburg.
+== Weblinks ==
+* [https://ahrensburg-blog.de/siedlung-am-hagen/ Spaziergang durch die Siedlung am Hagen]
+* [https://bg-am-hagen.de/ Die Bürgergemeinschaft am Hagen e.V.]</text>
+      <sha1>4fnnr9l2lyqdhsoh6uniepzxk4rv7jc</sha1>
+    </revision>
+    <revision>
+      <id>200</id>
+      <parentid>199</parentid>
+      <timestamp>2024-08-13T00:12:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>200</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="458" sha1="q4bu9w2z6oimyjv178t3v693enmq1l4" xml:space="preserve">{{#display_map:Siedlung Am Hagen, Ahrensburg, Germany}}
+
+Siedlung Am Hagen ist ein Stadtteil von Ahrensburg.
+== Weblinks ==
+* [https://ahrensburg-blog.de/siedlung-am-hagen/ Spaziergang durch die Siedlung am Hagen]
+* [https://bg-am-hagen.de/ Die Bürgergemeinschaft am Hagen e.V.]
+* [https://bg-am-hagen.de/zeitzeugen-gesucht-die-geschichte-der-siedlung-am-hagen-wie-alles-begann/ Zeitzeugen gesucht: Die Geschichte der Siedlung Am Hagen … wie alles begann]</text>
+      <sha1>q4bu9w2z6oimyjv178t3v693enmq1l4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wulfsdorf</title>
+    <ns>0</ns>
+    <id>50</id>
+    <revision>
+      <id>201</id>
+      <timestamp>2024-08-13T00:14:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{#display_map:Wulfsdorf, Ahrensburg, Germany}}  Wulfsdorf ist ein Stadtteil von Ahrensburg. == Weblinks ==“</comment>
+      <origin>201</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="107" sha1="8z8dmkut9tnvtvs7vxjqqlnlbqx4hj2" xml:space="preserve">{{#display_map:Wulfsdorf, Ahrensburg, Germany}}
+
+Wulfsdorf ist ein Stadtteil von Ahrensburg.
+== Weblinks ==</text>
+      <sha1>8z8dmkut9tnvtvs7vxjqqlnlbqx4hj2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Schloßpark Ahrensburg</title>
+    <ns>0</ns>
+    <id>51</id>
+    <revision>
+      <id>202</id>
+      <timestamp>2024-08-13T00:25:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ {{#display_map:Schloßpark,Ahrensburg, Germany}}“</comment>
+      <origin>202</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="49" sha1="19c0o1u7kf0ui6dv8ars80jjlgwfg4c" xml:space="preserve">
+{{#display_map:Schloßpark,Ahrensburg, Germany}}</text>
+      <sha1>19c0o1u7kf0ui6dv8ars80jjlgwfg4c</sha1>
+    </revision>
+    <revision>
+      <id>203</id>
+      <parentid>202</parentid>
+      <timestamp>2024-08-13T00:41:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>203</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="652" sha1="ju43haejm8ba2qrwotg41rwc6iza1mq" xml:space="preserve">{{#display_map:Schloßpark,Ahrensburg, Germany}}
+
+== Schloßpark Ahrensburg ==
+
+Der '''Schloßpark Ahrensburg''' ist ein Park in Ahrensburg. Er liegt im Norden des Stadtzentrums und ist Teil des Schlosses Ahrensburg. Der Park ist 72000 m2 groß und wurde 1585;von Peter Rantzau.Der Park ist ein beliebtes Ausflugsziel und wird von vielen Ahrensburgern und Touristen besucht.
+
+== Geschichte ==
+Der Schlosspark Ahrensburg wurde 1585 von Peter Rantzau angelegt. Der Park wurde im 18. Jahrhundert im Stil eines Barockgartens umgestaltet. Im 19. Jahrhundert wurde der Park im Stil eines englischen Landschaftsgartens umgestaltet, der bis heute erhalten ist.</text>
+      <sha1>ju43haejm8ba2qrwotg41rwc6iza1mq</sha1>
+    </revision>
+    <revision>
+      <id>204</id>
+      <parentid>203</parentid>
+      <timestamp>2024-08-13T00:43:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>204</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="663" sha1="c17d6gperz9mb2d3re1hupumzp3igk6" xml:space="preserve">{{#display_map:Schloßpark,Ahrensburg, Germany}}
+
+== Schloßpark Ahrensburg ==
+
+Der '''Schlosspark Ahrensburg''' ist ein Park in Ahrensburg. Er liegt im Norden des Stadtzentrums und ist Teil des Schlosses Ahrensburg. Der Park ist 72.000 m² groß und wurde 1585 von Peter Rantzau angelegt. Der Park ist ein beliebtes Ausflugsziel und wird von vielen Ahrensburgern und Touristen besucht.
+== Geschichte ==
+Der Schlosspark Ahrensburg wurde 1585 von Peter Rantzau angelegt. Der Park wurde im 18. Jahrhundert im Stil eines Barockgartens umgestaltet. Im 19. Jahrhundert wurde der Park im Stil eines englischen Landschaftsgartens umgestaltet, der bis heute erhalten ist.</text>
+      <sha1>c17d6gperz9mb2d3re1hupumzp3igk6</sha1>
+    </revision>
+    <revision>
+      <id>205</id>
+      <parentid>204</parentid>
+      <timestamp>2024-08-13T00:51:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>205</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="838" sha1="2ttitncaaauens4ffz0io7m2ozs0ohw" xml:space="preserve">{{#display_map:Schloßpark,Ahrensburg, Germany}}
+
+== Schloßpark Ahrensburg ==
+
+Der '''Schlosspark Ahrensburg''' ist ein Park in Ahrensburg. Er liegt im Norden des Stadtzentrums und ist Teil des Schlosses Ahrensburg. Der Park ist 72.000 m² groß und wurde 1585 von Peter Rantzau angelegt. Der Park ist ein beliebtes Ausflugsziel und wird von vielen Ahrensburgern und Touristen besucht.
+== Geschichte ==
+Der Schlosspark Ahrensburg wurde 1585 von Peter Rantzau angelegt. Der Park wurde im 18. Jahrhundert im Stil eines Barockgartens umgestaltet. Im 19. Jahrhundert wurde der Park im Stil eines englischen Landschaftsgartens umgestaltet, der bis heute erhalten ist.
+
+== Weblinks ==
+* [https://tourismus-stormarn.de/de/naturerlebnis/ahrensburg-schlosspark-259 Schlosspark Ahrensburg]
+* [https://www.schloss-ahrensburg.de/ Schloss Ahrensburg]</text>
+      <sha1>2ttitncaaauens4ffz0io7m2ozs0ohw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Park Manhagen in Schmalenbek</title>
+    <ns>0</ns>
+    <id>52</id>
+    <revision>
+      <id>206</id>
+      <timestamp>2024-08-13T00:53:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{#display_map:Park Manhagen in Schmalenbek,Ahrensburg, Germany}}“</comment>
+      <origin>206</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="65" sha1="kmbru1k20ogo8955a3e1n3kaqunjh13" xml:space="preserve">{{#display_map:Park Manhagen in Schmalenbek,Ahrensburg, Germany}}</text>
+      <sha1>kmbru1k20ogo8955a3e1n3kaqunjh13</sha1>
+    </revision>
+    <revision>
+      <id>207</id>
+      <parentid>206</parentid>
+      <timestamp>2024-08-13T00:54:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>207</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="50" sha1="jjn00fzinyrpbtawqw2fthn6oqndedy" xml:space="preserve">{{#display_map:Park Manhagen,Ahrensburg, Germany}}</text>
+      <sha1>jjn00fzinyrpbtawqw2fthn6oqndedy</sha1>
+    </revision>
+    <revision>
+      <id>208</id>
+      <parentid>207</parentid>
+      <timestamp>2024-08-13T00:54:27Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>208</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="51" sha1="8v6d5ypo9w8e7kqak3bra1bvfz1md87" xml:space="preserve">{{#display_map:Park Manhagen, Ahrensburg, Germany}}</text>
+      <sha1>8v6d5ypo9w8e7kqak3bra1bvfz1md87</sha1>
+    </revision>
+    <revision>
+      <id>209</id>
+      <parentid>208</parentid>
+      <timestamp>2024-08-13T00:54:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>209</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="46" sha1="f60oxv0axjrlc3n2iekw4plwofs0evi" xml:space="preserve">{{#display_map:Manhagen, Ahrensburg, Germany}}</text>
+      <sha1>f60oxv0axjrlc3n2iekw4plwofs0evi</sha1>
+    </revision>
+    <revision>
+      <id>210</id>
+      <parentid>209</parentid>
+      <timestamp>2024-08-13T00:59:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>210</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="184" sha1="afmo5lv6v0id1zz5hp8fg5mha9aymuf" xml:space="preserve">{{#display_map:Manhagen, Großhansdorf, Germany}}
+
+== Park Manhagen in Schmalenbek ==
+Park Manhagen ist ein Park in Schmalenbek, einem Ortsteil von Großhansdorf in Schleswig-Holstein.</text>
+      <sha1>afmo5lv6v0id1zz5hp8fg5mha9aymuf</sha1>
+    </revision>
+    <revision>
+      <id>211</id>
+      <parentid>210</parentid>
+      <timestamp>2024-08-13T01:00:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>211</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="189" sha1="ew1gv411qcs4acnugij668arwfbvotm" xml:space="preserve">{{#display_map:Park Manhagen, Großhansdorf, Germany}}
+
+== Park Manhagen in Schmalenbek ==
+Park Manhagen ist ein Park in Schmalenbek, einem Ortsteil von Großhansdorf in Schleswig-Holstein.</text>
+      <sha1>ew1gv411qcs4acnugij668arwfbvotm</sha1>
+    </revision>
+    <revision>
+      <id>212</id>
+      <parentid>211</parentid>
+      <timestamp>2024-08-13T01:07:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>212</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="331" sha1="18ed9xpdh38tvdpp80568aie77sldn2" xml:space="preserve">{{#display_map:Park Manhagen, Großhansdorf, Germany}}
+
+== Park Manhagen in Schmalenbek ==
+Park Manhagen ist ein Park in Schmalenbek, einem Ortsteil von Großhansdorf in Schleswig-Holstein. 
+
+==Weblinks==
+* [https://www.stormarnlexikon.de/parkmanhagen/ Park Manhagen im Stormarnlexikon]
+* [https://www.manhagen.de/ Klinik Manhagen]</text>
+      <sha1>18ed9xpdh38tvdpp80568aie77sldn2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Park am Haus der Natur</title>
+    <ns>0</ns>
+    <id>53</id>
+    <revision>
+      <id>213</id>
+      <timestamp>2024-08-13T01:12:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>213</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="60" sha1="cx5072rouzqqh6upy75bl5cp6y6ycsj" xml:space="preserve">{{#display_map:Park am Haus der Natur, Ahrensburg, Germany}}</text>
+      <sha1>cx5072rouzqqh6upy75bl5cp6y6ycsj</sha1>
+    </revision>
+    <revision>
+      <id>214</id>
+      <parentid>213</parentid>
+      <timestamp>2024-08-13T01:13:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>214</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="55" sha1="r6g42dhj2a7qkdzc2c8p7pvokpinlcj" xml:space="preserve">{{#display_map:Am Haus der Natur, Ahrensburg, Germany}}</text>
+      <sha1>r6g42dhj2a7qkdzc2c8p7pvokpinlcj</sha1>
+    </revision>
+    <revision>
+      <id>215</id>
+      <parentid>214</parentid>
+      <timestamp>2024-08-13T01:14:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>215</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="52" sha1="mejrfdml3ern4mivadcuzxtrm00vyiy" xml:space="preserve">{{#display_map:Haus der Natur, Ahrensburg, Germany}}</text>
+      <sha1>mejrfdml3ern4mivadcuzxtrm00vyiy</sha1>
+    </revision>
+    <revision>
+      <id>216</id>
+      <parentid>215</parentid>
+      <timestamp>2024-08-13T01:20:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>216</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="583" sha1="i3gv4bgftskl8r4o1zwk041x7c3xmvr" xml:space="preserve">{{#display_map:Haus der Natur, Ahrensburg, Germany}}
+
+== Park am Haus der Natur ==
+Der Park am Haus der Natur ist ein Park in Ahrensburg. Er liegt direkt am Haus der Natur und ist ein beliebtes Ausflugsziel für Familien und Naturfreunde. Der Park ist sehr gepflegt und bietet viele Sitzmöglichkeiten.
+
+==Weblinks==
+* [https://www.jordsand.de/hausdernatur/ Website des Hauses der Natur]
+* [https://ahrensburg-blog.de/spaziergang-am-haus-der-natur/ Spaziergang am Haus der Natur]
+* [https://www.kultur-stormarn.de/stormunity/alle-beitraege/view/59 Haus der Natur auf Kultur Stormarn]</text>
+      <sha1>i3gv4bgftskl8r4o1zwk041x7c3xmvr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Aalfangpark</title>
+    <ns>0</ns>
+    <id>54</id>
+    <revision>
+      <id>217</id>
+      <timestamp>2024-08-13T01:25:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>217</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="49" sha1="3xkhwfezv6ndvcli7rwxkr0t2ht0byp" xml:space="preserve">{{#display_map:Aalfangpark, Ahrensburg, Germany}}</text>
+      <sha1>3xkhwfezv6ndvcli7rwxkr0t2ht0byp</sha1>
+    </revision>
+    <revision>
+      <id>218</id>
+      <parentid>217</parentid>
+      <timestamp>2024-08-13T01:29:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>218</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="214" sha1="3m2psqgoqvm6q63vh37hnhd6shdt8o8" xml:space="preserve">{{#display_map:Aalfangpark, Ahrensburg, Germany}}
+
+== Aalfangpark ==
+Der '''Aalfangpark''' ist ein Park in Ahrensburg. 
+
+== Weblinks ==
+* [https://ahrensburg-blog.de/aalfangpark/ Aalfangpark auf ahrensburg-blog.de]</text>
+      <sha1>3m2psqgoqvm6q63vh37hnhd6shdt8o8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Geschichte</title>
+    <ns>0</ns>
+    <id>55</id>
+    <revision>
+      <id>219</id>
+      <timestamp>2024-08-13T01:42:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>219</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="773" sha1="7891py1glcs7grsam2utrf7mxfrrtas" xml:space="preserve">== Geschichte ==
+
+=== Vorgeschichte ===
+Das Ahrensburger Tunneltal ist ein eiszeitliches Trockental, das sich von Ahrensburg bis nach Großhansdorf erstreckt. Es entstand während der letzten Eiszeit, der Weichsel-Eiszeit, vor etwa 20.000 Jahren. Das Trockental ist etwa 10 Kilometer lang und bis zu 500 Meter breit. Es ist ein Zeugnis der letzten Eiszeit und ein wichtiges Naturdenkmal.
+Die Rentierjäger waren Menschen, die in der letzten Eiszeit in Europa lebten. Sie zogen in kleinen Gruppen durch die Landschaft und lebten von der Jagd auf Rentiere und andere Tiere. Die Rentierjäger waren die ersten Menschen, die in das Ahrensburger Tunneltal kamen. Sie lebten vor etwa 12.000 Jahren in der Region und hinterließen zahlreiche Funde von Steinwerkzeugen und Knochen.</text>
+      <sha1>7891py1glcs7grsam2utrf7mxfrrtas</sha1>
+    </revision>
+    <revision>
+      <id>220</id>
+      <parentid>219</parentid>
+      <timestamp>2024-08-13T01:57:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>220</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1055" sha1="b0mv34zsaak096geflcn0836jy4on94" xml:space="preserve">== Geschichte ==
+
+=== Vorgeschichte ===
+Das Ahrensburger Tunneltal ist ein eiszeitliches Trockental, das sich von Ahrensburg bis nach Großhansdorf erstreckt. Es entstand während der letzten Eiszeit, der Weichsel-Eiszeit, vor etwa 20.000 Jahren. Das Trockental ist etwa 10 Kilometer lang und bis zu 500 Meter breit. Es ist ein Zeugnis der letzten Eiszeit und ein wichtiges Naturdenkmal.
+Die Rentierjäger waren Menschen, die in der letzten Eiszeit in Europa lebten. Sie zogen in kleinen Gruppen durch die Landschaft und lebten von der Jagd auf Rentiere und andere Tiere. Die Rentierjäger waren die ersten Menschen, die in das Ahrensburger Tunneltal kamen. Sie lebten vor etwa 12.000 Jahren in der Region und hinterließen zahlreiche Funde von Steinwerkzeugen und Knochen.
+=== Mittelalter ===
+Früher hieß Ahrensburg Gutsdorf Woldenhorn. Die Geschichte der Stadt Ahrensburg beginnt im Mittelalter. Die Stadt wurde im Jahr 1314 erstmals urkundlich erwähnt. Der Eigentümer war das Zisterzienserkloster Reinfeld, und Woldenhorn war Sitz des Klostervogts.</text>
+      <sha1>b0mv34zsaak096geflcn0836jy4on94</sha1>
+    </revision>
+    <revision>
+      <id>221</id>
+      <parentid>220</parentid>
+      <timestamp>2024-08-13T10:28:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>221</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2046" sha1="q8jvh93yaga2yo1n1yfbupevwsp5vjv" xml:space="preserve">== Geschichte ==
+
+=== Vorgeschichte ===
+Das Ahrensburger Tunneltal ist ein eiszeitliches Trockental, das sich von Ahrensburg bis nach Großhansdorf erstreckt. Es entstand während der letzten Eiszeit, der Weichsel-Eiszeit, vor etwa 20.000 Jahren. Das Trockental ist etwa 10 Kilometer lang und bis zu 500 Meter breit. Es ist ein Zeugnis der letzten Eiszeit und ein wichtiges Naturdenkmal.
+Die Rentierjäger waren Menschen, die in der letzten Eiszeit in Europa lebten. Sie zogen in kleinen Gruppen durch die Landschaft und lebten von der Jagd auf Rentiere und andere Tiere. Die Rentierjäger waren die ersten Menschen, die in das Ahrensburger Tunneltal kamen. Sie lebten vor etwa 12.000 Jahren in der Region und hinterließen zahlreiche Funde von Steinwerkzeugen und Knochen.
+=== Mittelalter ===
+Mit der Säkularisation des Klosters Reinfeld im Jahr 1560 kam Woldenhorn in den Besitz des dänischen Königs. Der König belohnte den Feldherrn Daniel Rantzau. Dieser erhielt das Gut Woldenhorn und baute es zu einem Herrensitz aus. Er nannte das Gut Woldenhorn.
+=== Neuzeit ===
+
+Mit der Säkularisation des Klosters Reinfeld im Jahr 1560 kam Woldenhorn in den Besitz des dänischen Königs. Der König belohnte den Feldherrn Daniel Rantzau. Dieser erhielt das Gut Woldenhorn und baute es zu einem Herrensitz aus. Er nannte das Gut Woldenhorn.
+Rantzau verarmte später. Das Gut wurde vom dänischen Kaufmann Heinrich Carl von Schimmelmann erworben.
+Und Später wurde nach Dänische Krieg zu Preußen übergeben.Selbständige Landgemeinden entstanden im 19. Jahrhundert. Die Landgemeinden Ahrensburg, Woldenhorn und Hagen wurden 1872 zur Gemeinde Ahrensburg zusammengelegt.
+Im 19. Jahrhundert wurde Eisenbahnlinie von Hamburg nach Lübeck gebaut. Die Bahnstrecke verläuft durch das Ahrensburger. Die Eisenbahnlinie wurde 1851 eröffnet und war die erste Eisenbahnlinie in Schleswig-Holstein. Die Bahnstrecke war ein wichtiger Verkehrsweg und trug zur wirtschaftlichen Entwicklung der Region bei.
+
+ Die Gemeinde Ahrensburg wurde 1948 zur Stadt erhoben.</text>
+      <sha1>q8jvh93yaga2yo1n1yfbupevwsp5vjv</sha1>
+    </revision>
+    <revision>
+      <id>222</id>
+      <parentid>221</parentid>
+      <timestamp>2024-08-13T10:36:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>222</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2369" sha1="9mxpioeg3q3j9f08i5io1qymfoiyt68" xml:space="preserve">== Geschichte ==
+
+=== Vorgeschichte ===
+Das Ahrensburger Tunneltal ist ein eiszeitliches Trockental, das sich von Ahrensburg bis nach Großhansdorf erstreckt. Es entstand während der letzten Eiszeit, der Weichsel-Eiszeit, vor etwa 20.000 Jahren. Das Trockental ist etwa 10 Kilometer lang und bis zu 500 Meter breit. Es ist ein Zeugnis der letzten Eiszeit und ein wichtiges Naturdenkmal.
+Die Rentierjäger waren Menschen, die in der letzten Eiszeit in Europa lebten. Sie zogen in kleinen Gruppen durch die Landschaft und lebten von der Jagd auf Rentiere und andere Tiere. Die Rentierjäger waren die ersten Menschen, die in das Ahrensburger Tunneltal kamen. Sie lebten vor etwa 12.000 Jahren in der Region und hinterließen zahlreiche Funde von Steinwerkzeugen und Knochen.
+=== Mittelalter ===
+Mit der Säkularisation des Klosters Reinfeld im Jahr 1560 kam Woldenhorn in den Besitz des dänischen Königs. Der König belohnte den Feldherrn Daniel Rantzau. Dieser erhielt das Gut Woldenhorn und baute es zu einem Herrensitz aus. Er nannte das Gut Woldenhorn.
+=== Neuzeit ===
+
+Mit der Säkularisation des Klosters Reinfeld im Jahr 1560 kam Woldenhorn in den Besitz des dänischen Königs. Der König belohnte den Feldherrn Daniel Rantzau. Dieser erhielt das Gut Woldenhorn und baute es zu einem Herrensitz aus. Er nannte das Gut Ahrensburg.
+Rantzau verarmte später. Das Gut wurde vom dänischen Kaufmann Heinrich Carl von Schimmelmann erworben.
+Später wurde es nach dem Dänischen Krieg an Preußen übergeben. Selbständige Landgemeinden entstanden im 19. Jahrhundert. Die Landgemeinden Ahrensburg, Woldenhorn und Hagen wurden 1872 zur Gemeinde Ahrensburg zusammengelegt.
+Im 19. Jahrhundert wurde die Eisenbahnlinie von Hamburg nach Lübeck gebaut. Die Bahnstrecke verläuft durch Ahrensburg. Die Eisenbahnlinie wurde 1851 eröffnet und war die erste Eisenbahnlinie in Schleswig-Holstein. Die Bahnstrecke war ein wichtiger Verkehrsweg und trug zur wirtschaftlichen Entwicklung der Region bei.
+Die Bevölkerungszahl der Gemeinde Ahrensburg stieg an. Viele Hamburger zogen nach Ahrensburg, um in der grünen Umgebung zu leben. Die Stadt wuchs und es entstanden neue Wohngebiete. Nach Kriegsende 1945 kamen viele Flüchtlinge und Vertriebene nach Ahrensburg. Die Stadt wuchs weiter und es entstanden neue Wohngebiete.
+Die Gemeinde Ahrensburg wurde 1948 zur Stadt erhoben.</text>
+      <sha1>9mxpioeg3q3j9f08i5io1qymfoiyt68</sha1>
+    </revision>
+    <revision>
+      <id>223</id>
+      <parentid>222</parentid>
+      <timestamp>2024-08-13T10:44:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>223</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2632" sha1="13xcnq620peqt4ef5khdn34cij6jmec" xml:space="preserve">== Geschichte ==
+
+=== Vorgeschichte ===
+Das Ahrensburger Tunneltal ist ein eiszeitliches Trockental, das sich von Ahrensburg bis nach Großhansdorf erstreckt. Es entstand während der letzten Eiszeit, der Weichsel-Eiszeit, vor etwa 20.000 Jahren. Das Trockental ist etwa 10 Kilometer lang und bis zu 500 Meter breit. Es ist ein Zeugnis der letzten Eiszeit und ein wichtiges Naturdenkmal.
+Die Rentierjäger waren Menschen, die in der letzten Eiszeit in Europa lebten. Sie zogen in kleinen Gruppen durch die Landschaft und lebten von der Jagd auf Rentiere und andere Tiere. Die Rentierjäger waren die ersten Menschen, die in das Ahrensburger Tunneltal kamen. Sie lebten vor etwa 12.000 Jahren in der Region und hinterließen zahlreiche Funde von Steinwerkzeugen und Knochen.
+=== Mittelalter ===
+Mit der Säkularisation des Klosters Reinfeld im Jahr 1560 kam Woldenhorn in den Besitz des dänischen Königs. Der König belohnte den Feldherrn Daniel Rantzau. Dieser erhielt das Gut Woldenhorn und baute es zu einem Herrensitz aus. Er nannte das Gut Woldenhorn.
+=== Neuzeit ===
+
+Mit der Säkularisation des Klosters Reinfeld im Jahr 1560 kam Woldenhorn in den Besitz des dänischen Königs. Der König belohnte den Feldherrn Daniel Rantzau. Dieser erhielt das Gut Woldenhorn und baute es zu einem Herrensitz aus. Er nannte das Gut Ahrensburg.
+Rantzau verarmte später. Das Gut wurde vom dänischen Kaufmann Heinrich Carl von Schimmelmann erworben.
+Später wurde es nach dem Dänischen Krieg an Preußen übergeben. Selbständige Landgemeinden entstanden im 19. Jahrhundert. Die Landgemeinden Ahrensburg, Woldenhorn und Hagen wurden 1872 zur Gemeinde Ahrensburg zusammengelegt.
+Im 19. Jahrhundert wurde die Eisenbahnlinie von Hamburg nach Lübeck gebaut. Die Bahnstrecke verläuft durch Ahrensburg. Die Eisenbahnlinie wurde 1851 eröffnet und war die erste Eisenbahnlinie in Schleswig-Holstein. Die Bahnstrecke war ein wichtiger Verkehrsweg und trug zur wirtschaftlichen Entwicklung der Region bei.
+Die Bevölkerungszahl der Gemeinde Ahrensburg stieg an. Viele Hamburger zogen nach Ahrensburg, um in der grünen Umgebung zu leben. Die Stadt wuchs und es entstanden neue Wohngebiete. Nach Kriegsende 1945 kamen viele Flüchtlinge und Vertriebene nach Ahrensburg. Die Stadt wuchs weiter und es entstanden neue Wohngebiete.
+Die Gemeinde Ahrensburg wurde 1948 zur Stadt erhoben.
+
+==Weblinks==
+* [https://www.ahrensburg.de/ Website der Stadt Ahrensburg]
+* [https://www.ahrensburg.de/Bildung-Kultur/Stadtarchiv/Stadtportrait/Geschichte/ Geschichte von Ahrensburg]
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg]</text>
+      <sha1>13xcnq620peqt4ef5khdn34cij6jmec</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Sidebar</title>
+    <ns>8</ns>
+    <id>56</id>
+    <revision>
+      <id>224</id>
+      <timestamp>2024-08-13T11:00:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ * navigation ** mainpage|mainpage-description ** recentchanges-url|recentchanges ** randompage-url|randompage ** helppage|help-mediawiki“</comment>
+      <origin>224</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="137" sha1="3jt0d9k004zlwkww3fvmxdfwuix4xpk" xml:space="preserve">
+* navigation
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki</text>
+      <sha1>3jt0d9k004zlwkww3fvmxdfwuix4xpk</sha1>
+    </revision>
+    <revision>
+      <id>225</id>
+      <parentid>224</parentid>
+      <timestamp>2024-08-13T11:00:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Der Seiteninhalt wurde durch einen anderen Text ersetzt: „ * navigation“</comment>
+      <origin>225</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="13" sha1="g2h92ttf9je3o1jcjwq7ey81i8buj2k" xml:space="preserve">
+* navigation</text>
+      <sha1>g2h92ttf9je3o1jcjwq7ey81i8buj2k</sha1>
+    </revision>
+    <revision>
+      <id>226</id>
+      <parentid>225</parentid>
+      <timestamp>2024-08-13T11:00:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>226</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="137" sha1="3jt0d9k004zlwkww3fvmxdfwuix4xpk" xml:space="preserve">
+* navigation
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki</text>
+      <sha1>3jt0d9k004zlwkww3fvmxdfwuix4xpk</sha1>
+    </revision>
+    <revision>
+      <id>227</id>
+      <parentid>226</parentid>
+      <timestamp>2024-08-13T11:01:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde geleert.</comment>
+      <origin>227</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+    <revision>
+      <id>228</id>
+      <parentid>227</parentid>
+      <timestamp>2024-08-13T11:01:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>228</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="136" sha1="1xlyrp00nqa6xbl940s63exc7cifov1" xml:space="preserve">* navigation
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki</text>
+      <sha1>1xlyrp00nqa6xbl940s63exc7cifov1</sha1>
+    </revision>
+    <revision>
+      <id>229</id>
+      <parentid>228</parentid>
+      <timestamp>2024-08-13T11:05:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>229</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="175" sha1="i5yim48eamfjcnczs7uqpgt110gp7bm" xml:space="preserve">* navigation
+** Autorenportal|Autoren:Autorenportal
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki</text>
+      <sha1>i5yim48eamfjcnczs7uqpgt110gp7bm</sha1>
+    </revision>
+    <revision>
+      <id>230</id>
+      <parentid>229</parentid>
+      <timestamp>2024-08-13T11:11:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>230</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="175" sha1="g57hvxcsj2mjto38rxobfh9xuwg6ieo" xml:space="preserve">* navigation
+** Autoren:Autorenportal|Autorenportal
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki</text>
+      <sha1>g57hvxcsj2mjto38rxobfh9xuwg6ieo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Autoren:Autorenportal</title>
+    <ns>0</ns>
+    <id>57</id>
+    <revision>
+      <id>231</id>
+      <timestamp>2024-08-13T12:02:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>231</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="146" sha1="fgfmk6q5lqnboqddprlyutx1ffpl9wn" xml:space="preserve">== Autorenportal ==
+Leider wurde die Schreibfunktion deaktiviert. Bitte wende dich an den Administrator.
+* [[Autoren:Administrator|Administrator]]</text>
+      <sha1>fgfmk6q5lqnboqddprlyutx1ffpl9wn</sha1>
+    </revision>
+    <revision>
+      <id>233</id>
+      <parentid>231</parentid>
+      <timestamp>2024-08-13T13:42:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>233</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="149" sha1="9y9xvozczzve4x8bklokv5gs7j6m2fs" xml:space="preserve">== Autorenportal ==
+Leider wurde die Schreibfunktion deaktiviert. Bitte wende dich an den Administrator.
+* [[Benutzer:Thorsten Klöhn|Administrator]]</text>
+      <sha1>9y9xvozczzve4x8bklokv5gs7j6m2fs</sha1>
+    </revision>
+    <revision>
+      <id>234</id>
+      <parentid>233</parentid>
+      <timestamp>2024-08-13T13:43:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>234</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="142" sha1="cjrv3pitcruvdjrykvsqbylwaa2hn38" xml:space="preserve">== Autorenportal ==
+Leider wurde die Schreibfunktion deaktiviert. Bitte wende dich an den Administrator.
+* [[Benutzer:Thorsten|Administrator]]</text>
+      <sha1>cjrv3pitcruvdjrykvsqbylwaa2hn38</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Benutzer:Thorsten</title>
+    <ns>2</ns>
+    <id>58</id>
+    <revision>
+      <id>232</id>
+      <timestamp>2024-08-13T13:40:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>232</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="746" sha1="99pm4ze0zyc4mxpp9sprf83v6ypq79u" xml:space="preserve">Mein Name ist Thorsten Klöhn. Ich bin Administrator dieser Wiki. Wenn Sie Fragen haben, können Sie mich gerne kontaktieren. Ich helfe Ihnen gerne weiter. Viel Spaß beim Lesen!
+Ich bin sprachbehindert. Ich kann Grammatik nicht korrekt umsetzen. Lesen kann ich gut. Schreiben ist schwer für mich.
+Aus diesem Grund benutze ich GitHub Copilot, OpenAI, Microsoft Copilot, Google Gemini, DeepL Write und andere KI-Tools.
+
+== Web Scraping ==
+Web Scraping ist eine Methode, um Daten von Websites zu extrahieren. Es gibt viele Tools und Bibliotheken, die Web Scraping erleichtern. 
+* [[Python|Web Scraping:Python]]
+* [[Go|Web Scraping:Go]]
+* [[Node.js|Web Scraping:Node.js]]
+* [[Rust|Web Scraping:Rust]]
+
+== Mediawiki Tools ==
+* Pywikibot
+* MWoffliner</text>
+      <sha1>99pm4ze0zyc4mxpp9sprf83v6ypq79u</sha1>
+    </revision>
+    <revision>
+      <id>235</id>
+      <parentid>232</parentid>
+      <timestamp>2024-08-13T15:18:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>235</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="987" sha1="pdi7hplst079uekxgnisuqr3w1ukrn0" xml:space="preserve">Mein Name ist Thorsten Klöhn. Ich bin Administrator dieser Wiki. Wenn Sie Fragen haben, können Sie mich gerne kontaktieren. Ich helfe Ihnen gerne weiter. Viel Spaß beim Lesen!
+Ich bin sprachbehindert. Ich kann Grammatik nicht korrekt umsetzen. Lesen kann ich gut. Schreiben ist schwer für mich.
+Aus diesem Grund benutze ich GitHub Copilot, OpenAI, Microsoft Copilot, Google Gemini, DeepL Write und andere KI-Tools.
+
+== Eigene KI-Tools schreiben mit eigenem Datensatz und veröffentlichen ==
+
+== Eigene Suchmaschine schreiben ==
+* [[Elasticsearch|Elasticsearch]]
+* [[Solr|Solr]]
+* [[Meilisearch|Meilisearch]]
+* [[Sphinx|Sphinx]]
+
+== Web Scraping ==
+Web Scraping ist eine Methode, um Daten von Websites zu extrahieren. Es gibt viele Tools und Bibliotheken, die Web Scraping erleichtern. 
+* [[Python|Web Scraping:Python]]
+* [[Go|Web Scraping:Go]]
+* [[Node.js|Web Scraping:Node.js]]
+* [[Rust|Web Scraping:Rust]]
+* [[PHP|Web Scraping:PHP]]
+
+== Mediawiki-Tools ==
+* Pywikibot 
+* MWoffliner</text>
+      <sha1>pdi7hplst079uekxgnisuqr3w1ukrn0</sha1>
     </revision>
   </page>
 </mediawiki>
