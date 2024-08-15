@@ -36,6 +36,10 @@
       <namespace key="421" case="first-letter">GeoJson talk</namespace>
       <namespace key="502" case="first-letter">User blog</namespace>
       <namespace key="503" case="first-letter">User blog talk</namespace>
+      <namespace key="2300" case="case-sensitive">Gadget</namespace>
+      <namespace key="2301" case="case-sensitive">Gadget Diskussion</namespace>
+      <namespace key="2302" case="case-sensitive">Gadget-Definition</namespace>
+      <namespace key="2303" case="case-sensitive">Gadget-Definition Diskussion</namespace>
     </namespaces>
   </siteinfo>
   <page>
@@ -1337,6 +1341,221 @@ Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhi
 * [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
 * [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]</text>
       <sha1>jyeo75qp66cwztw32ajjjfxirav7o6j</sha1>
+    </revision>
+    <revision>
+      <id>280</id>
+      <parentid>244</parentid>
+      <timestamp>2024-08-14T03:35:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>280</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2408" sha1="8bc6df3q6jl18rdfjft14lka0oytuy2" xml:space="preserve">
+{{#display_map:Ahrensburg, Germany}}
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+[[{{#geocode:New York City}}]]
+== Allgemeines ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Wiki]]
+* [[OpenStreetMap Tools]]
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]</text>
+      <sha1>8bc6df3q6jl18rdfjft14lka0oytuy2</sha1>
+    </revision>
+    <revision>
+      <id>281</id>
+      <parentid>280</parentid>
+      <timestamp>2024-08-14T03:37:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>281</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2405" sha1="4gxfcf0jipz66feixq6vd19umfebxdb" xml:space="preserve">
+{{#display_map:Ahrensburg, Germany}}
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+[[{{#geocode:Ahrensburg}}]]
+== Allgemeines ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Wiki]]
+* [[OpenStreetMap Tools]]
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]</text>
+      <sha1>4gxfcf0jipz66feixq6vd19umfebxdb</sha1>
+    </revision>
+    <revision>
+      <id>282</id>
+      <parentid>281</parentid>
+      <timestamp>2024-08-14T03:37:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>282</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2401" sha1="8z4m0hjjnum4kmc0qvlcbg0rx05acfl" xml:space="preserve">
+{{#display_map:Ahrensburg, Germany}}
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+{{#geocode:Ahrensburg}}
+== Allgemeines ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Wiki]]
+* [[OpenStreetMap Tools]]
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]</text>
+      <sha1>8z4m0hjjnum4kmc0qvlcbg0rx05acfl</sha1>
+    </revision>
+    <revision>
+      <id>305</id>
+      <parentid>282</parentid>
+      <timestamp>2024-08-15T14:30:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>305</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2463" sha1="qlhzzn5dxgmiaz6ejy568w7jaeslttr" xml:space="preserve">#p-logo, .generated-sidebar, #p-lang, #p-tb  { display:none; }
+{{#display_map:Ahrensburg, Germany}}
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+{{#geocode:Ahrensburg}}
+== Allgemeines ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Wiki]]
+* [[OpenStreetMap Tools]]
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]</text>
+      <sha1>qlhzzn5dxgmiaz6ejy568w7jaeslttr</sha1>
+    </revision>
+    <revision>
+      <id>306</id>
+      <parentid>305</parentid>
+      <timestamp>2024-08-15T15:45:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>306</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2401" sha1="8z4m0hjjnum4kmc0qvlcbg0rx05acfl" xml:space="preserve">
+{{#display_map:Ahrensburg, Germany}}
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+{{#geocode:Ahrensburg}}
+== Allgemeines ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Wiki]]
+* [[OpenStreetMap Tools]]
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]</text>
+      <sha1>8z4m0hjjnum4kmc0qvlcbg0rx05acfl</sha1>
     </revision>
   </page>
   <page>
@@ -9784,6 +10003,26 @@ Die Gemeinde Ahrensburg wurde 1948 zur Stadt erhoben.
 ** helppage|help-mediawiki</text>
       <sha1>g57hvxcsj2mjto38rxobfh9xuwg6ieo</sha1>
     </revision>
+    <revision>
+      <id>304</id>
+      <parentid>230</parentid>
+      <timestamp>2024-08-15T14:29:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>304</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="238" sha1="a35rujk0ck1gghpl60wybj6yv4xnwfo" xml:space="preserve">#p-logo, .generated-sidebar, #p-lang, #p-tb  { display:none; }
+* navigation
+** Autoren:Autorenportal|Autorenportal
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki</text>
+      <sha1>a35rujk0ck1gghpl60wybj6yv4xnwfo</sha1>
+    </revision>
   </page>
   <page>
     <title>Autoren:Autorenportal</title>
@@ -10907,6 +11146,238 @@ Die Stadt Ahrensburg bietet ein vielfältiges Kulturangebot. Hierzu zählen unte
 * [https://www.ahrensburg.de/Bildung-Kultur/Veranstaltungskalender/#/whl-kalender/?widgetToken=8kEmUa5Sdtg.&amp; Veranstaltungskalender der Stadt Ahrensburg]</text>
       <sha1>sh7pe0cb55yynntpb441hk4pdflhvgu</sha1>
     </revision>
+    <revision>
+      <id>284</id>
+      <parentid>275</parentid>
+      <timestamp>2024-08-14T03:55:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>284</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2581" sha1="5ksqni5nu35gdhj1j0u1regx1n0qjou" xml:space="preserve">{{#display_map:Schloss Ahrensburg,Ahrensburg,Germany~[[Schloss Ahrensburg]];
+Kulturzentrum Marstall~[[Kulturzentrum Marstall]];
+Ahrensburg Stadtbücherei~[[Stadtbücherei]];
+Ahrensburg Peter Rantzau Haus~[[Peter Rantzau Haus]];
+Ahrensburg Selma Lagerlöf Schule~[[Alfred-Rust-Saal]]}}
+
+Die Stadt Ahrensburg bietet ein vielfältiges Kulturangebot. Hierzu zählen unter:
+
+* [[Schloss Ahrensburg]]
+* [[Kulturzentrum Marstall]]
+* [[Stadtbücherei]]
+* [[Peter Rantzau Haus]]
+* [[Alfred-Rust-Saal]]
+{{#Kalender:
+ | Titel= Tabellenüberschrift. Statt eines fehlenden Titels werden Monat und Jahr angezeigt.
+ | prevLink= Text oder Link mit der Bedeutung "vorheriger". Der Text kann Platzhalter enthalten.
+ | nextLink= Text oder Link mit der Bedeutung "weiter". Der Text kann Platzhalter enthalten.
+ | Monat= anzuzeigender Monat. Mögliche Werte sind 1 bis 12. Ein fehlender Monat wird durch den aktuellen Monat ersetzt.
+ | year= anzuzeigendes Jahr. Ein fehlendes Jahr wird durch das aktuelle Jahr ersetzt.
+         Mögliche Werte liegen zwischen 1970 und 2038.
+ | Offset= Offset zum angegebenen Monat/Jahr in Monaten.
+ | lang= Sprache der Tages- und Monatsnamen. Unterstützte Sprachcodes sind 'user' (Benutzersprache) oder
+         „Inhalt“ (Inhaltssprache; Standard).
+ | markedDays=Markierte Tage zusätzlich zum aktuellen Tag. Werte sind durch Leerzeichen getrennt.
+ | start= erster Tag der Woche. Mögliche Werte sind 0 (Sonntag) und 1 (Montag).
+ | position= definiert zusätzliches Floating. Mögliche Werte sind (nichts), links, rechts und Mitte
+         (Groß-/Kleinschreibung wird nicht beachtet)
+ | 1= bis 31= Für jeden Tag kann ein Link angegeben werden
+ | titleLink= Link zum Titel. Der Link kann Platzhalter enthalten. Verwenden Sie keine Linkklammern.
+ | generalLinks= Identische Links zu allen Tagen. Die Links können Platzhalter enthalten. Verwenden Sie keine Linkklammern.
+         generalLinks wird durch die Optionen 1= bis 31= überschrieben
+ | dayCharsCount= maximale Zeichenanzahl für Wochentagsnamen
+ | monthCharsCount= maximale Zeichenanzahl für Monatsnamen
+ | tableWidth= Breite der Tabelle. 'none' bedeutet keine Definition, 'default' die Standardbreite von 20em
+         Sie können auch andere CSS-Werte wie 50 %, 300px oder 30em angeben.
+ | showToday= Gibt die Hervorhebung des heutigen Tages an. „true“ ist die Standardeinstellung.
+         'false' verhindert die Hervorhebung
+}}
+==Weblinks==
+* [https://www.ahrensburg.de/Bildung-Kultur/Veranstaltungskalender/#/whl-kalender/?widgetToken=8kEmUa5Sdtg.&amp; Veranstaltungskalender der Stadt Ahrensburg]</text>
+      <sha1>5ksqni5nu35gdhj1j0u1regx1n0qjou</sha1>
+    </revision>
+    <revision>
+      <id>285</id>
+      <parentid>284</parentid>
+      <timestamp>2024-08-14T03:55:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>285</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="660" sha1="sh7pe0cb55yynntpb441hk4pdflhvgu" xml:space="preserve">{{#display_map:Schloss Ahrensburg,Ahrensburg,Germany~[[Schloss Ahrensburg]];
+Kulturzentrum Marstall~[[Kulturzentrum Marstall]];
+Ahrensburg Stadtbücherei~[[Stadtbücherei]];
+Ahrensburg Peter Rantzau Haus~[[Peter Rantzau Haus]];
+Ahrensburg Selma Lagerlöf Schule~[[Alfred-Rust-Saal]]}}
+
+Die Stadt Ahrensburg bietet ein vielfältiges Kulturangebot. Hierzu zählen unter:
+
+* [[Schloss Ahrensburg]]
+* [[Kulturzentrum Marstall]]
+* [[Stadtbücherei]]
+* [[Peter Rantzau Haus]]
+* [[Alfred-Rust-Saal]]
+
+==Weblinks==
+* [https://www.ahrensburg.de/Bildung-Kultur/Veranstaltungskalender/#/whl-kalender/?widgetToken=8kEmUa5Sdtg.&amp; Veranstaltungskalender der Stadt Ahrensburg]</text>
+      <sha1>sh7pe0cb55yynntpb441hk4pdflhvgu</sha1>
+    </revision>
+    <revision>
+      <id>294</id>
+      <parentid>285</parentid>
+      <timestamp>2024-08-15T02:49:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>294</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="686" sha1="cet7cde3x5u7o7nuulslnvc396nt8rm" xml:space="preserve">{{#display_map:Schloss Ahrensburg,Ahrensburg,Germany~[[Schloss Ahrensburg]];
+Kulturzentrum Marstall~[[Kulturzentrum Marstall]];
+Ahrensburg Stadtbücherei~[[Stadtbücherei]];
+Ahrensburg Peter Rantzau Haus~[[Peter Rantzau Haus]];
+Ahrensburg Selma Lagerlöf Schule~[[Alfred-Rust-Saal]]}}
+
+Die Stadt Ahrensburg bietet ein vielfältiges Kulturangebot. Hierzu zählen unter:
+
+* [[Schloss Ahrensburg]]
+* [[Kulturzentrum Marstall]]
+* [[Stadtbücherei]]
+* [[Peter Rantzau Haus]]
+* [[Alfred-Rust-Saal]]
+* [[Eduard-Söring-Saal]]
+
+==Weblinks==
+* [https://www.ahrensburg.de/Bildung-Kultur/Veranstaltungskalender/#/whl-kalender/?widgetToken=8kEmUa5Sdtg.&amp; Veranstaltungskalender der Stadt Ahrensburg]</text>
+      <sha1>cet7cde3x5u7o7nuulslnvc396nt8rm</sha1>
+    </revision>
+    <revision>
+      <id>297</id>
+      <parentid>294</parentid>
+      <timestamp>2024-08-15T03:42:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>297</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="757" sha1="iji3ytp0e3t1ufpqrba66rhhpm7bj57" xml:space="preserve">{{#display_map:Schloss Ahrensburg,Ahrensburg,Germany~[[Schloss Ahrensburg]];
+Kulturzentrum Marstall~[[Kulturzentrum Marstall]];
+Ahrensburg Stadtbücherei~[[Stadtbücherei]];
+Ahrensburg Peter Rantzau Haus~[[Peter Rantzau Haus]];
+Ahrensburg Selma Lagerlöf Schule~[Eduard-Söring-Saa[Alfred-Rust-Saal]]}}
+Ahrensburg Eduard Söring Saal~[[Alfred-Rust-Saal]]}}
+Die Stadt Ahrensburg bietet ein vielfältiges Kulturangebot. Hierzu zählen unter:
+
+* [[Schloss Ahrensburg]]
+* [[Kulturzentrum Marstall]]
+* [[Stadtbücherei]]
+* [[Peter Rantzau Haus]]
+* [[Alfred-Rust-Saal]]
+* [[Eduard-Söring-Saal]]
+
+==Weblinks==
+* [https://www.ahrensburg.de/Bildung-Kultur/Veranstaltungskalender/#/whl-kalender/?widgetToken=8kEmUa5Sdtg.&amp; Veranstaltungskalender der Stadt Ahrensburg]</text>
+      <sha1>iji3ytp0e3t1ufpqrba66rhhpm7bj57</sha1>
+    </revision>
+    <revision>
+      <id>298</id>
+      <parentid>297</parentid>
+      <timestamp>2024-08-15T03:46:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>298</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="755" sha1="k1vt0swf1s8qwi8kiq2znu1g0pk866q" xml:space="preserve">{{#display_map:Schloss Ahrensburg,Ahrensburg,Germany~[[Schloss Ahrensburg]];
+Kulturzentrum Marstall~[[Kulturzentrum Marstall]];
+Ahrensburg Stadtbücherei~[[Stadtbücherei]];
+Ahrensburg Peter Rantzau Haus~[[Peter Rantzau Haus]];
+Ahrensburg Selma Lagerlöf Schule~[Eduard-Söring-Saa[Alfred-Rust-Saal]]}}
+Ahrensburg Stormarnschule~[[Eduard-Söring-Saal]]}}
+Die Stadt Ahrensburg bietet ein vielfältiges Kulturangebot. Hierzu zählen unter:
+
+* [[Schloss Ahrensburg]]
+* [[Kulturzentrum Marstall]]
+* [[Stadtbücherei]]
+* [[Peter Rantzau Haus]]
+* [[Alfred-Rust-Saal]]
+* [[Eduard-Söring-Saal]]
+
+==Weblinks==
+* [https://www.ahrensburg.de/Bildung-Kultur/Veranstaltungskalender/#/whl-kalender/?widgetToken=8kEmUa5Sdtg.&amp; Veranstaltungskalender der Stadt Ahrensburg]</text>
+      <sha1>k1vt0swf1s8qwi8kiq2znu1g0pk866q</sha1>
+    </revision>
+    <revision>
+      <id>299</id>
+      <parentid>298</parentid>
+      <timestamp>2024-08-15T03:47:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>299</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="754" sha1="g9u3w8756p05jbmdxltunr7m4xewgf7" xml:space="preserve">{{#display_map:Schloss Ahrensburg,Ahrensburg,Germany~[[Schloss Ahrensburg]];
+Kulturzentrum Marstall~[[Kulturzentrum Marstall]];
+Ahrensburg Stadtbücherei~[[Stadtbücherei]];
+Ahrensburg Peter Rantzau Haus~[[Peter Rantzau Haus]];
+Ahrensburg Selma Lagerlöf Schule~[Eduard-Söring-Saa[Alfred-Rust-Saal]];
+Ahrensburg Stormarnschule~[[Eduard-Söring-Saal]]}}
+Die Stadt Ahrensburg bietet ein vielfältiges Kulturangebot. Hierzu zählen unter:
+
+* [[Schloss Ahrensburg]]
+* [[Kulturzentrum Marstall]]
+* [[Stadtbücherei]]
+* [[Peter Rantzau Haus]]
+* [[Alfred-Rust-Saal]]
+* [[Eduard-Söring-Saal]]
+
+==Weblinks==
+* [https://www.ahrensburg.de/Bildung-Kultur/Veranstaltungskalender/#/whl-kalender/?widgetToken=8kEmUa5Sdtg.&amp; Veranstaltungskalender der Stadt Ahrensburg]</text>
+      <sha1>g9u3w8756p05jbmdxltunr7m4xewgf7</sha1>
+    </revision>
+    <revision>
+      <id>300</id>
+      <parentid>299</parentid>
+      <timestamp>2024-08-15T03:49:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>300</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="736" sha1="q9cv8giu9r7vhkzf7psgkbvm24e6z7p" xml:space="preserve">{{#display_map:Schloss Ahrensburg,Ahrensburg,Germany~[[Schloss Ahrensburg]];
+Kulturzentrum Marstall~[[Kulturzentrum Marstall]];
+Ahrensburg Stadtbücherei~[[Stadtbücherei]];
+Ahrensburg Peter Rantzau Haus~[[Peter Rantzau Haus]];
+Ahrensburg Selma Lagerlöf Schule~[[Alfred-Rust-Saal]];
+Ahrensburg Stormarnschule~[[Eduard-Söring-Saal]]}}
+Die Stadt Ahrensburg bietet ein vielfältiges Kulturangebot. Hierzu zählen unter:
+
+* [[Schloss Ahrensburg]]
+* [[Kulturzentrum Marstall]]
+* [[Stadtbücherei]]
+* [[Peter Rantzau Haus]]
+* [[Alfred-Rust-Saal]]
+* [[Eduard-Söring-Saal]]
+
+==Weblinks==
+* [https://www.ahrensburg.de/Bildung-Kultur/Veranstaltungskalender/#/whl-kalender/?widgetToken=8kEmUa5Sdtg.&amp; Veranstaltungskalender der Stadt Ahrensburg]</text>
+      <sha1>q9cv8giu9r7vhkzf7psgkbvm24e6z7p</sha1>
+    </revision>
   </page>
   <page>
     <title>Berlin</title>
@@ -10941,6 +11412,25 @@ Die Stadt Ahrensburg bietet ein vielfältiges Kulturangebot. Hierzu zählen unte
  | geojson = https://raw.githubusercontent.com/leakyMirror/map-of-europe/master/GeoJSON/europe.geojson
 }}</text>
       <sha1>ga7p8ux7ameat7r30294q7rz3ysgdsf</sha1>
+    </revision>
+    <revision>
+      <id>283</id>
+      <parentid>277</parentid>
+      <timestamp>2024-08-14T03:39:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>283</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="317" sha1="5bppwz31mnkfwl3pfvesnnbqhd93mk0" xml:space="preserve">{{#zusammengesetzte_Abfrage:
+   [[Kategorie:Städte]] [[Standort::Deutschland]] ; ?Koordinaten ; icon=Green-marker.png
+ | [[Kategorie:Städte]] [[Befindet sich in::Belgien]] ; ?Koordinaten ; icon=Red-marker.png
+ | [[Kategorie:Städte]] [[Standort::!Deutschland]] [[Standort::!Belgien]] ; ?Koordinaten
+ | format=map
+}}</text>
+      <sha1>5bppwz31mnkfwl3pfvesnnbqhd93mk0</sha1>
     </revision>
   </page>
   <page>
@@ -11015,6 +11505,343 @@ Die Stadt Ahrensburg bietet ein vielfältiges Kulturangebot. Hierzu zählen unte
 	]
 }</text>
       <sha1>qu75bfq4ut8ank315tec20jqckoxr65</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Schloss Ahrensburg</title>
+    <ns>0</ns>
+    <id>62</id>
+    <revision>
+      <id>286</id>
+      <timestamp>2024-08-14T17:06:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>286</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1142" sha1="jmdc6zwk7y3tqtuxzt6sz4wuk43jlfr" xml:space="preserve">{{#display_map:Schloss Ahrensburg, Ahrensburg, Germany}}
+== Schloss Ahrensburg ==
+Das '''Schloss Ahrensburg''' ist ein Wasserschloss in Ahrensburg im Kreis Stormarn in Schleswig-Holstein. Es wurde im 16. Jahrhundert im Stil der Renaissance erbaut und ist seit 1955 Sitz des Ahrensburger Schlossmuseums.
+
+== Geschichte ==
+Das Schloss Ahrensburg wurde 1595 von Peter Rantzau erbaut. Es war bis 1759 im Besitz der Familie Rantzau, die es dann an die Familie Schimmelmann verkaufte. 1932 wurde das Schloss von der Stadt Ahrensburg erworben und 1955 als Schlossmuseum eröffnet.
+
+== Schlossmuseum ==
+Das Schlossmuseum zeigt eine Sammlung von Möbeln, Gemälden und Kunsthandwerk aus dem 17. bis 19. Jahrhundert. Es gibt außerdem eine Dauerausstellung zur Geschichte des Schlosses und seiner Bewohner.
+
+== Website ==
+* [https://www.schloss-ahrensburg.de/ Offizielle Website des Schlosses Ahrensburg]
+* [https://de.wikipedia.org/wiki/Schloss_Ahrensburg Wikipedia-Artikel über das Schloss Ahrensburg]
+* [https://www.ahrensburg.de/Bildung-Kultur/Kulturelle-Einrichtungen/Schloss-Ahrensburg/ Website der Stadt Ahrensburg über das Schloss Ahrensburg]</text>
+      <sha1>jmdc6zwk7y3tqtuxzt6sz4wuk43jlfr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kulturzentrum Marstall</title>
+    <ns>0</ns>
+    <id>63</id>
+    <revision>
+      <id>287</id>
+      <timestamp>2024-08-14T17:25:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>287</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="376" sha1="5ll8tzvpcrio4jmfwm598n1gm7mku1o" xml:space="preserve">{{#display_map:Kulturzentrum Marstall, Ahrensburg, Germany}}
+=== Kulturzentrum Marstall in Ahrensburg===
+Das '''Kulturzentrum Marstall''' in Ahrensburg ist ein Veranstaltungsort für Konzerte, Theateraufführungen, Lesungen und Ausstellungen. Es befindet sich im Marstall, einem Gebäude aus dem 17. Jahrhundert, das früher als Pferdestall für das Schloss Ahrensburg diente.</text>
+      <sha1>5ll8tzvpcrio4jmfwm598n1gm7mku1o</sha1>
+    </revision>
+    <revision>
+      <id>288</id>
+      <parentid>287</parentid>
+      <timestamp>2024-08-14T18:10:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>288</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="749" sha1="fl2tuph3leddn7ruqi9mpv2ihaqhthe" xml:space="preserve">{{#display_map:Kulturzentrum Marstall, Ahrensburg, Germany}}
+=== Kulturzentrum Marstall in Ahrensburg===
+Das '''Kulturzentrum Marstall''' in Ahrensburg ist ein Veranstaltungsort für Konzerte, Theateraufführungen, Lesungen und Ausstellungen. Es befindet sich im Marstall, einem Gebäude aus dem 17. Jahrhundert, das früher als Pferdestall für das Schloss Ahrensburg diente.
+
+==Weblinks==
+* [https://www.marstall-ahrensburg.de/ Offizielle Website]
+* [https://ahrensburg.de/Bildung-Kultur/Kulturelle-Einrichtungen/Kulturzentrum-Marstall/ Informationen auf der Website der Stadt Ahrensburg]
+* [https://www.veranstaltungen.hamburg/whl-kalender/el-kulturzentrum-marstall-ahrensburg-2?widgetToken=J2c3z9UfufA. Veranstaltungen im Kulturzentrum Marstall]</text>
+      <sha1>fl2tuph3leddn7ruqi9mpv2ihaqhthe</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Stadtbücherei</title>
+    <ns>0</ns>
+    <id>64</id>
+    <revision>
+      <id>289</id>
+      <timestamp>2024-08-15T01:54:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>289</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="306" sha1="sjr4lh4iyvb3lm8p9blmve6ut019pd8" xml:space="preserve">{{#display_map:Ahrensburg Stadtbücherei, Ahrensburg, Germany}}
+== Stadtbücherei Ahrensburg==
+Die '''Stadtbücherei Ahrensburg''' ist eine öffentliche Bibliothek in Ahrensburg. Sie befindet sich neben dem Rathaus in der Manfred-Samusch-Straße 3. Die Bibliothek ist eine Einrichtung der Stadt Ahrensburg.</text>
+      <sha1>sjr4lh4iyvb3lm8p9blmve6ut019pd8</sha1>
+    </revision>
+    <revision>
+      <id>290</id>
+      <parentid>289</parentid>
+      <timestamp>2024-08-15T02:05:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>290</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="734" sha1="gpvm2fgbk7w5x0d7zh3k437p6wnm07k" xml:space="preserve">{{#display_map:Ahrensburg Stadtbücherei, Ahrensburg, Germany}}
+== Stadtbücherei Ahrensburg==
+Die '''Stadtbücherei Ahrensburg''' ist eine öffentliche Bibliothek in Ahrensburg. Sie befindet sich neben dem Rathaus in der Manfred-Samusch-Straße 3. Die Bibliothek ist eine Einrichtung der Stadt Ahrensburg.
+
+== Weblinks==
+* [https://www.ahrensburg.de/Bildung-Kultur/Stadtb%C3%BCcherei/ Offizielle Website der Stadtbücherei Ahrensburg]
+* [https://buecherei.ahrensburg.de/open OPAC der Stadtbücherei Ahrensburg]
+* [https://www.stormarnlexikon.de/stadtbuechereiahrensburg/ Stadtbücherei Ahrensburg im Stormarnlexikon]
+* [https://www.onleihe.de/schleswig_holstein/frontend/myBib,0-0-0-100-0-0-0-0-0-0-0.html Onleihe Schleswig-Holstein]</text>
+      <sha1>gpvm2fgbk7w5x0d7zh3k437p6wnm07k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Peter Rantzau Haus</title>
+    <ns>0</ns>
+    <id>65</id>
+    <revision>
+      <id>291</id>
+      <timestamp>2024-08-15T02:32:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>291</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="281" sha1="73mkvn146kliyi1f1qjkz5wi5seaqhg" xml:space="preserve">{{#display_map:Ahrensburg Peter Rantzau Haus, Ahrensburg, Germany}}
+== Peter Rantzau Haus in Ahrensburg==
+
+Das '''Peter Ranzzau Haus''' ist ein Sozialeinrichtung in Ahrensburg. Hier treffen ältere Menschen über 55 Jahre alt. Es gibt viele Aktivitäten, Sport, Kultur und Bildung.</text>
+      <sha1>73mkvn146kliyi1f1qjkz5wi5seaqhg</sha1>
+    </revision>
+    <revision>
+      <id>292</id>
+      <parentid>291</parentid>
+      <timestamp>2024-08-15T02:33:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>292</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="270" sha1="8nq46nhm39bhlbr1i5fi8taujslw2vl" xml:space="preserve">{{#display_map:Peter Rantzau Haus, Ahrensburg, Germany}}
+== Peter Rantzau Haus in Ahrensburg==
+
+Das '''Peter Ranzzau Haus''' ist ein Sozialeinrichtung in Ahrensburg. Hier treffen ältere Menschen über 55 Jahre alt. Es gibt viele Aktivitäten, Sport, Kultur und Bildung.</text>
+      <sha1>8nq46nhm39bhlbr1i5fi8taujslw2vl</sha1>
+    </revision>
+    <revision>
+      <id>293</id>
+      <parentid>292</parentid>
+      <timestamp>2024-08-15T02:38:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>293</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="632" sha1="5m4i1m751r2yitbqluuqspnsdqc04xx" xml:space="preserve">{{#display_map:Peter Rantzau Haus, Ahrensburg, Germany}}
+== Peter Rantzau Haus in Ahrensburg==
+
+Das '''Peter Ranzzau Haus''' ist ein Sozialeinrichtung in Ahrensburg. Hier treffen ältere Menschen über 55 Jahre alt. Es gibt viele Aktivitäten, Sport, Kultur und Bildung.
+==Weblinks==
+* [https://www.peter-rantzau-haus.de/ Offizielle Webseite]
+* [https://www.ahrensburg.de/B%C3%BCrger-Stadt/Senioren/Peter-Rantzau-Haus/ Stadt Ahrensburg]
+* [https://awo-ahrensburg.de/peter-rantzau-haus AWO Ahrensburg]
+* [https://www.veranstaltungen.hamburg/whl-kalender/el-peter-rantzau-haus-4212?widgetToken=J2c3z9UfufA. Veranstaltungen in Hamburg]</text>
+      <sha1>5m4i1m751r2yitbqluuqspnsdqc04xx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Alfred-Rust-Saal</title>
+    <ns>0</ns>
+    <id>66</id>
+    <revision>
+      <id>295</id>
+      <timestamp>2024-08-15T02:58:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>295</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="522" sha1="q7zc5gkkphv9nu09expwv6t1qvle5wz" xml:space="preserve">== Alfred Rust Saal in Ahrensburg==
+Der Alfred-Rust-Saal ist ein Veranstaltungssaal für Konzerte und Theater in Ahrensburg.
+
+==Weblinks==
+
+* [https://www.ahrensburg.de/Bildung-Kultur/Kulturelle-Einrichtungen/Alfred-Rust-Saal/ Alfred Rust Saal auf der Website der Stadt Ahrensburg]
+* [https://www.adticket.de/Alfred-Rust-Festsaal-Ahrensburg.html Alfred Rust Saal auf Adticket.de]
+* [https://www.theater-und-musik-in-ahrensburg.de/spielstaetten  Alfred Rust Saal auf der Website des Vereins Theater und Musik in Ahrensburg]</text>
+      <sha1>q7zc5gkkphv9nu09expwv6t1qvle5wz</sha1>
+    </revision>
+    <revision>
+      <id>296</id>
+      <parentid>295</parentid>
+      <timestamp>2024-08-15T03:03:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>296</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="583" sha1="twi33v3xhk2a8rfh4fa675obmkjmqnn" xml:space="preserve">{{#display_map:Selma Lagerlöf Schule, Ahrensburg, Germany}}
+== Alfred Rust Saal in Ahrensburg==
+Der Alfred-Rust-Saal ist ein Veranstaltungssaal für Konzerte und Theater in Ahrensburg.
+
+==Weblinks==
+
+* [https://www.ahrensburg.de/Bildung-Kultur/Kulturelle-Einrichtungen/Alfred-Rust-Saal/ Alfred Rust Saal auf der Website der Stadt Ahrensburg]
+* [https://www.adticket.de/Alfred-Rust-Festsaal-Ahrensburg.html Alfred Rust Saal auf Adticket.de]
+* [https://www.theater-und-musik-in-ahrensburg.de/spielstaetten  Alfred Rust Saal auf der Website des Vereins Theater und Musik in Ahrensburg]</text>
+      <sha1>twi33v3xhk2a8rfh4fa675obmkjmqnn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Eduard-Söring-Saal</title>
+    <ns>0</ns>
+    <id>67</id>
+    <revision>
+      <id>301</id>
+      <timestamp>2024-08-15T05:15:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{#display_map:Selma Lagerlöf Schule, Ahrensburg, Germany}} == Eduard-Söring-Saal in Ahrensburg== Der  Eduard-Söring-Saal ist ein Veranstaltungssaal für Konzerte und Theater in Ahrensburg.  ==Weblinks==  * [https://www.ahrensburg.de/Bildung-Kultur/Kulturelle-Einrichtungen/Alfred-Rust-Saal/ Alfred Rust Saal auf der Website der Stadt Ahrensburg] * [https://www.adticket.de/Alfred-Rust-Festsaal-Ahrensburg.html Alfred Rust Saal auf Adticket.de] * [https://…“</comment>
+      <origin>301</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="590" sha1="929uduvbyupln6415pedwmeqqkajf7s" xml:space="preserve">{{#display_map:Selma Lagerlöf Schule, Ahrensburg, Germany}}
+== Eduard-Söring-Saal in Ahrensburg==
+Der  Eduard-Söring-Saal ist ein Veranstaltungssaal für Konzerte und Theater in Ahrensburg.
+
+==Weblinks==
+
+* [https://www.ahrensburg.de/Bildung-Kultur/Kulturelle-Einrichtungen/Alfred-Rust-Saal/ Alfred Rust Saal auf der Website der Stadt Ahrensburg]
+* [https://www.adticket.de/Alfred-Rust-Festsaal-Ahrensburg.html Alfred Rust Saal auf Adticket.de]
+* [https://www.theater-und-musik-in-ahrensburg.de/spielstaetten  Alfred Rust Saal auf der Website des Vereins Theater und Musik in Ahrensburg]</text>
+      <sha1>929uduvbyupln6415pedwmeqqkajf7s</sha1>
+    </revision>
+    <revision>
+      <id>302</id>
+      <parentid>301</parentid>
+      <timestamp>2024-08-15T05:16:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>302</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="582" sha1="bhchy7025urvlo6hiieapn5oyojsozf" xml:space="preserve">{{#display_map:Stormarnschule, Ahrensburg, Germany}}
+== Eduard-Söring-Saal in Ahrensburg==
+Der  Eduard-Söring-Saal ist ein Veranstaltungssaal für Konzerte und Theater in Ahrensburg.
+
+==Weblinks==
+
+* [https://www.ahrensburg.de/Bildung-Kultur/Kulturelle-Einrichtungen/Alfred-Rust-Saal/ Alfred Rust Saal auf der Website der Stadt Ahrensburg]
+* [https://www.adticket.de/Alfred-Rust-Festsaal-Ahrensburg.html Alfred Rust Saal auf Adticket.de]
+* [https://www.theater-und-musik-in-ahrensburg.de/spielstaetten  Alfred Rust Saal auf der Website des Vereins Theater und Musik in Ahrensburg]</text>
+      <sha1>bhchy7025urvlo6hiieapn5oyojsozf</sha1>
+    </revision>
+    <revision>
+      <id>303</id>
+      <parentid>302</parentid>
+      <timestamp>2024-08-15T05:51:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>303</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="638" sha1="sb9iyviuvce6n8pqaqdzgq4p5kvbixu" xml:space="preserve">{{#display_map:Stormarnschule, Ahrensburg, Germany}}
+== Eduard-Söring-Saal in Ahrensburg==
+Der  Eduard-Söring-Saal ist ein Veranstaltungssaal für Konzerte und Theater in Ahrensburg.
+
+==Weblinks==
+* [https://www.ahrensburg.de/Bildung-Kultur/Kulturelle-Einrichtungen/Eduard-S%C3%B6ring-Saal/ Eduard-Söring-Saal auf der Website der Stadt Ahrensburg]
+* [https://www.hamburg-tourism.de/sehen-erleben/veranstaltungen/veranstaltungsorte/stormarnschule-eduard-soering-saal/ Eduard-Söring-Saal auf hamburg-tourism.de]
+* [https://www.theater-und-musik-in-ahrensburg.de/spielstaetten/ Eduard-Söring-Saal auf theater-und-musik-in-ahrensburg.de]</text>
+      <sha1>sb9iyviuvce6n8pqaqdzgq4p5kvbixu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Bildung</title>
+    <ns>0</ns>
+    <id>68</id>
+    <revision>
+      <id>307</id>
+      <timestamp>2024-08-15T18:17:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>307</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="454" sha1="3naw1rure5fop6jdsjb09t7eflznv2i" xml:space="preserve">==Ahrensburg Bildung==
+Ahrensburg hat ein vielfältiges Bildungsangebot..
+
+==Grundschulen==
+* Grundschule Am Aalfang
+* Grundschule Am Schloss
+* Grundschule Reesenbüttel
+==Gemeinschaftsschulen==
+* Gemeinschaftsschule Am Heimgarten
+* Selma-Lagerlöf-Gemeinschaftsschul
+==Gymnasium==
+* Eric-Kandel-Gymnasium
+* Stormarnschule Ahrensburg
+==Berufsschule==
+* Berufliche Schule des Kreises Stormarn in Ahrensburg
+==Volkshochschule==
+* Volkshochschule Ahrensburg</text>
+      <sha1>3naw1rure5fop6jdsjb09t7eflznv2i</sha1>
     </revision>
   </page>
 </mediawiki>
