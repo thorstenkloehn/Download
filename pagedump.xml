@@ -34,12 +34,6 @@
       <namespace key="115" case="first-letter">Rule talk</namespace>
       <namespace key="420" case="first-letter">GeoJson</namespace>
       <namespace key="421" case="first-letter">GeoJson talk</namespace>
-      <namespace key="502" case="first-letter">User blog</namespace>
-      <namespace key="503" case="first-letter">User blog talk</namespace>
-      <namespace key="2300" case="case-sensitive">Gadget</namespace>
-      <namespace key="2301" case="case-sensitive">Gadget Diskussion</namespace>
-      <namespace key="2302" case="case-sensitive">Gadget-Definition</namespace>
-      <namespace key="2303" case="case-sensitive">Gadget-Definition Diskussion</namespace>
     </namespaces>
   </siteinfo>
   <page>
@@ -3210,6 +3204,135 @@ php php /var/www/mediawiki/maintenance/importDump.php &lt; /var/www/Download/pag
       </contributor>
       <comment>/* Backup für MediaWiki wiederherstellen */</comment>
       <origin>375</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1482" sha1="kz613e3vxsikfw6hfpwhglq20vhppa5" xml:space="preserve">== Tools ==
+=== Git installieren ===
+&lt;pre&gt;
+sudo apt-get update 
+sudo apt-get upgrade
+
+sudo apt-get install git
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+&lt;/pre&gt;
+
+=== GitHub CLI installieren ===
+&lt;pre&gt;
+(type -p wget &gt;/dev/null || (sudo apt update &amp;&amp; sudo apt-get install wget -y)) \
+&amp;&amp; sudo mkdir -p -m 755 /etc/apt/keyrings \
+&amp;&amp; wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg &gt; /dev/null \
+&amp;&amp; sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+&amp;&amp; echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list &gt; /dev/null \
+&amp;&amp; sudo apt update \
+&amp;&amp; sudo apt install gh -y
+&lt;/pre&gt;
+
+==== GitHub CLI anmelden ====
+&lt;pre&gt;
+gh auth login
+&lt;/pre&gt;
+
+=== Backup für MediaWiki erstellen ===
+&lt;pre&gt;
+cd /var/www
+gh repo clone thorstenkloehn/Download
+sudo chmod 777 -R Download
+cd /var/www/Download
+sudo rm /var/www/Download/pagedump.xml
+php /var/www/mediawiki/maintenance/dumpBackup.php --full &gt; /var/www/Download/pagedump.xml
+git add .
+git commit -m "Backup"
+git push
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+&lt;pre&gt;
+php /var/www/mediawiki/maintenance/importDump.php &lt; /var/www/Download/pagedump.xml
+&lt;/pre&gt;
+
+[[Category:Tools]]
+[[Category:Git]]
+[[Category:GH]]
+[[Category:Backup]]
+[[Category:MediaWiki]]</text>
+      <sha1>kz613e3vxsikfw6hfpwhglq20vhppa5</sha1>
+    </revision>
+    <revision>
+      <id>376</id>
+      <parentid>375</parentid>
+      <timestamp>2024-08-18T05:33:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>376</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1488" sha1="g7am7x7gd4y5bj2en1s97mpvrih30dy" xml:space="preserve">== Tools ==
+=== Git installieren ===
+&lt;pre&gt;
+sudo apt-get update 
+sudo apt-get upgrade
+
+sudo apt-get install git
+
+git config --global user.email "you@example.com"
+git config --global user.name "Your Name"
+&lt;/pre&gt;
+
+=== GitHub CLI installieren ===
+&lt;pre&gt;
+(type -p wget &gt;/dev/null || (sudo apt update &amp;&amp; sudo apt-get install wget -y)) \
+&amp;&amp; sudo mkdir -p -m 755 /etc/apt/keyrings \
+&amp;&amp; wget -qO- https://cli.github.com/packages/githubcli-archive-keyring.gpg | sudo tee /etc/apt/keyrings/githubcli-archive-keyring.gpg &gt; /dev/null \
+&amp;&amp; sudo chmod go+r /etc/apt/keyrings/githubcli-archive-keyring.gpg \
+&amp;&amp; echo "deb [arch=$(dpkg --print-architecture) signed-by=/etc/apt/keyrings/githubcli-archive-keyring.gpg] https://cli.github.com/packages stable main" | sudo tee /etc/apt/sources.list.d/github-cli.list &gt; /dev/null \
+&amp;&amp; sudo apt update \
+&amp;&amp; sudo apt install gh -y
+&lt;/pre&gt;
+
+==== GitHub CLI anmelden ====
+&lt;pre&gt;
+gh auth login
+&lt;/pre&gt;
+
+=== Backup für MediaWiki erstellen ===
+&lt;pre&gt;
+cd /var/www
+gh repo clone thorstenkloehn/Download
+sudo chmod 777 -R Download
+cd /var/www/Download
+sudo rm /var/www/Download/pagedump.xml
+php /var/www/mediawiki/maintenance/dumpBackup.php --gzip --full &gt; /var/www/Download/pagedump.gz
+git add .
+git commit -m "Backup"
+git push
+&lt;/pre&gt;
+
+=== Backup für MediaWiki wiederherstellen ===
+&lt;pre&gt;
+php /var/www/mediawiki/maintenance/importDump.php &lt; /var/www/Download/pagedump.xml
+&lt;/pre&gt;
+
+[[Category:Tools]]
+[[Category:Git]]
+[[Category:GH]]
+[[Category:Backup]]
+[[Category:MediaWiki]]</text>
+      <sha1>g7am7x7gd4y5bj2en1s97mpvrih30dy</sha1>
+    </revision>
+    <revision>
+      <id>377</id>
+      <parentid>376</parentid>
+      <timestamp>2024-08-18T05:36:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Backup für MediaWiki erstellen */</comment>
+      <origin>377</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1482" sha1="kz613e3vxsikfw6hfpwhglq20vhppa5" xml:space="preserve">== Tools ==
@@ -9202,7 +9325,7 @@ func main() {
     </revision>
   </page>
   <page>
-    <title>User blog:Thorsten/Hallo</title>
+    <title>Thorsten/Hallo</title>
     <ns>502</ns>
     <id>41</id>
     <revision>
@@ -9226,7 +9349,7 @@ __NOEDITSECTION__</text>
     </revision>
   </page>
   <page>
-    <title>User blog:Thorsten/Guten Tag</title>
+    <title>Thorsten/Guten Tag</title>
     <ns>502</ns>
     <id>42</id>
     <revision>
