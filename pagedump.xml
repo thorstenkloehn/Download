@@ -1820,6 +1820,99 @@ Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhi
 * [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]</text>
       <sha1>b09xkns2ak2bfdckuncyl4uq42id327</sha1>
     </revision>
+    <revision>
+      <id>416</id>
+      <parentid>403</parentid>
+      <timestamp>2024-08-24T08:53:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>416</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2478" sha1="34qepjl66n9daubaciae0q2vr67iqf1" xml:space="preserve">
+{{#display_map:Ahrensburg, Germany}}
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+{{#geocode:Ahrensburg}}
+== Allgemeines ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Bots]]
+* [[OpenStreetMap Tools]]
+* [[Web-Gis]]
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]
+* [https://g.co/gemini/share/468e3398ad02 Germini Ahrensburg]</text>
+      <sha1>34qepjl66n9daubaciae0q2vr67iqf1</sha1>
+    </revision>
+    <revision>
+      <id>418</id>
+      <parentid>416</parentid>
+      <timestamp>2024-08-24T09:08:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>418</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2545" sha1="nw90tsb92w5l5scn8osde2ddtehgxs2" xml:space="preserve">
+{{#display_map:Ahrensburg, Germany}}
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+{{#geocode:Ahrensburg}}
+== Allgemeines ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Bots]]
+* [[OpenStreetMap Tools]]
+* [[Web-Gis]]
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]
+* [https://g.co/gemini/share/468e3398ad02 Germini Ahrensburg]
+* [https://copilot.microsoft.com/sl/dDIV5t7LgHc copilot.microsoft]</text>
+      <sha1>nw90tsb92w5l5scn8osde2ddtehgxs2</sha1>
+    </revision>
   </page>
   <page>
     <title>SMW/Schema:Group:Schema properties</title>
@@ -14975,6 +15068,56 @@ Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
 * [https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Kategorie:Ahrensburg]</text>
       <sha1>4a3bawk6j3idk7kt1pb1m60qtonkixv</sha1>
     </revision>
+    <revision>
+      <id>417</id>
+      <parentid>166</parentid>
+      <timestamp>2024-08-24T09:00:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Weblinks */</comment>
+      <origin>417</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2212" sha1="eaap4q2j66ydbvbz97prn5ml7nup9o6" xml:space="preserve">== Geografie ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.
+
+Die Gesamtfläche der Stadt beträgt 35,29 km². Davon sind:
+* ca. 963 ha Wohnbaufläche,
+* ca. 253 ha Gewerbefläche,
+* ca. 635 ha Waldfläche und
+* ca. 80 ha Wasserfläche.
+
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+===Klima===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+
+== Stadteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, [[Ahrensfelde]],[[Gewerbegebiet Nord]],[[Gartenholz]],[[Ahrensburger Redder]],[[Waldgut Hagen]],[[Siedlung Am Hagen]] und [[Wulfsdorf]].
+=== Landschaft ===
+Ahrensburg liegt in der Landschaft der Südholsteinischen Geest . Diese Region ist geprägt von sanften Hügeln, Wäldern und landwirtschaftlich genutzten Flächen. Die Stadt befindet sich etwa 20 Kilometer nordöstlich von Hamburg und ist Teil der Metropolregion Hamburg.
+
+==== Waldgebiete ====
+Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
+* '''[[Forst Hagen]]''': Ein großes Waldgebiet im Süden der Stadt, das sich ideal für Spaziergänge und Wanderungen eignet.
+* '''[[Forst Beimoor]]''': Ein weiteres großes Waldgebiet im Norden der Stadt, das ebenfalls viele Wanderwege bietet.
+
+==== Gewässer ====
+
+=== Naturschutzgebiete ===
+* [[NSG Stellmoorer Tunneltal]] - [[NSG Heidkoppelmoor]] - [[NSG Ammersbek-Niederung]] - [[Höltigbaum]]
+
+=== Parks und Grünanlagen ===
+* [[Schloßpark Ahrensburg]] - [[Park Manhagen in Schmalenbek]] - [[Park am Haus der Natur]] - [[Aalfangpark]]
+
+==Weblinks==
+
+* [https://de.wikipedia.org/wiki/Ahrensburg Ahrensburg]
+* [https://de.wikipedia.org/wiki/Kategorie:Ahrensburg Kategorie:Ahrensburg]
+* [https://g.co/gemini/share/d3a6f44e4500 gemini]</text>
+      <sha1>eaap4q2j66ydbvbz97prn5ml7nup9o6</sha1>
+    </revision>
   </page>
   <page>
     <title>Forst Beimoor</title>
@@ -16206,6 +16349,26 @@ Ahrensfelde ist ein Stadtteil von Ahrensburg.
 * [https://www.stormarnlexikon.de/gemeindeahrensfelde/ Ahrensfelde auf stormarnlexikon.de]</text>
       <sha1>3oxctx0bnbyfxds0zj761vyj71y1bg5</sha1>
     </revision>
+    <revision>
+      <id>419</id>
+      <parentid>208</parentid>
+      <timestamp>2024-08-24T09:28:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>419</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="329" sha1="sj317s84v8xkqyc1ezb6ikoczllehq2" xml:space="preserve">{{#display_map:Ahrensfelde, Ahrensburg, Germany}}
+
+Ahrensfelde ist ein Stadtteil von Ahrensburg.
+==Weblinks==
+* [https://ahrensburg-blog.de/ahrensfelde/ Ahrensfelde auf ahrensburg-blog.de]
+* [https://www.stormarnlexikon.de/gemeindeahrensfelde/ Ahrensfelde auf stormarnlexikon.de]
+* [https://g.co/gemini/share/8315b74cb0c5 gemini]</text>
+      <sha1>sj317s84v8xkqyc1ezb6ikoczllehq2</sha1>
+    </revision>
   </page>
   <page>
     <title>Gewerbegebiet Nord</title>
@@ -17418,6 +17581,40 @@ Web Scraping ist eine Methode, um Daten von Websites zu extrahieren. Es gibt vie
 * Pywikibot 
 * MWoffliner</text>
       <sha1>pp65kso255kan1y456hldfkg46y2y3n</sha1>
+    </revision>
+    <revision>
+      <id>412</id>
+      <parentid>265</parentid>
+      <timestamp>2024-08-24T08:21:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Web Scraping */</comment>
+      <origin>412</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="905" sha1="g6fvklopx9fikhyt1h32bvec05rdx6p" xml:space="preserve">Mein Name ist Thorsten Klöhn. Ich bin Administrator dieser Wiki. Wenn Sie Fragen haben, können Sie mich gerne kontaktieren. Ich helfe Ihnen gerne weiter. Viel Spaß beim Lesen!
+Ich bin sprachbehindert. Ich kann Grammatik nicht korrekt umsetzen. Lesen kann ich gut. Schreiben ist schwer für mich.
+Aus diesem Grund benutze ich GitHub Copilot, OpenAI, Microsoft Copilot, Google Gemini, DeepL Write und andere KI-Tools.
+
+== Eigene KI-Tools schreiben mit eigenem Datensatz und veröffentlichen ==
+
+== Eigene Suchmaschine schreiben ==
+* [[Elasticsearch|Elasticsearch]]
+* [[Meilisearch|Meilisearch]]
+
+== [[Web Scraping]] ==
+Web Scraping ist eine Methode, um Daten von Websites zu extrahieren. Es gibt viele Tools und Bibliotheken, die Web Scraping erleichtern. 
+* [[Web Scraping:Python]]
+* [[Web Scraping:Go]]
+* [[Web Scraping:Node.js]]
+* [[Web Scraping:Rust]]
+
+== Mediawiki-Tools ==
+* Pywikibot 
+* MWoffliner</text>
+      <sha1>g6fvklopx9fikhyt1h32bvec05rdx6p</sha1>
     </revision>
   </page>
   <page>
@@ -22490,6 +22687,184 @@ Die '''Volkshochschule Ahrensburg''' ist eine Einrichtung der Erwachsenenbildung
 * [https://www.vhs-ahrensburg.de/ Website der Volkshochschule Ahrensburg]
 * [https://www.ahrensburg.de/Bildung-Kultur/Volkshochschule/ Website der Stadt Ahrensburg]</text>
       <sha1>d8r4npaue78kmbhy4pazktodiewtaua</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fritz-Reuter-Schule in Ahrensburg</title>
+    <ns>0</ns>
+    <id>82</id>
+    <revision>
+      <id>413</id>
+      <timestamp>2024-08-24T08:33:13Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>413</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="590" sha1="0e75vzaz2v03i8v1sqxvxqtzx0cvsxh" xml:space="preserve">== Fritz-Reuter-Schule in Ahrensburg ==
+Die Fritz-Reuter-Schule in Ahrensburg ist ein Förderzentrum für Kinder und Jugendliche mit geistiger Behinderung. Die Schule ist nach dem niederdeutschen Dichter Fritz Reuter benannt.
+
+== Weblinks==
+* [https://fritz-reuter.lernnetz.de/ Website der Fritz-Reuter-Schule in Ahrensburg]
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Wirtschaftsf%C3%B6rderung/Branchenverzeichnis/Fritz-Reuter-Schule-F%C3%B6rderzentrum-Lernen-Sprache-emotional-soziale-Entwicklung.php?ModID=9&amp;FID=2603.21.1&amp;object=tx%7C2603.10.1&amp;redir=1 Website der Stadt Ahrensburg]</text>
+      <sha1>0e75vzaz2v03i8v1sqxvxqtzx0cvsxh</sha1>
+    </revision>
+    <revision>
+      <id>414</id>
+      <parentid>413</parentid>
+      <timestamp>2024-08-24T08:34:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>414</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="648" sha1="ro43dk2ah70tgfib1zdkg9gdck7oc1y" xml:space="preserve">{{#display_map:Fritz-Reuter-Schule, Ahrensburg, Germany}}
+== Fritz-Reuter-Schule in Ahrensburg ==
+Die Fritz-Reuter-Schule in Ahrensburg ist ein Förderzentrum für Kinder und Jugendliche mit geistiger Behinderung. Die Schule ist nach dem niederdeutschen Dichter Fritz Reuter benannt.
+
+== Weblinks==
+* [https://fritz-reuter.lernnetz.de/ Website der Fritz-Reuter-Schule in Ahrensburg]
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Wirtschaftsf%C3%B6rderung/Branchenverzeichnis/Fritz-Reuter-Schule-F%C3%B6rderzentrum-Lernen-Sprache-emotional-soziale-Entwicklung.php?ModID=9&amp;FID=2603.21.1&amp;object=tx%7C2603.10.1&amp;redir=1 Website der Stadt Ahrensburg]</text>
+      <sha1>ro43dk2ah70tgfib1zdkg9gdck7oc1y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Woldenhorn Schule in Ahrensburg</title>
+    <ns>0</ns>
+    <id>83</id>
+    <revision>
+      <id>415</id>
+      <timestamp>2024-08-24T08:47:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>415</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="475" sha1="6auplm9orxamknlxnkpeuq6qxkhrgoj" xml:space="preserve">== Woldenhorn-Schule in Ahrensburg ==
+Die Woldenhorn-Schule ist ein Förderzentrum mit dem Schwerpunkt auf geistiger Entwicklung.
+==Wenlinks==
+* [http://www.woldenhorn-schule.de/ Homepage der Woldenhorn-Schule]
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Wirtschaftsf%C3%B6rderung/Branchenverzeichnis/Woldenhornschule-F%C3%B6rderzentrum-geistige-Entwicklung.php?ModID=9&amp;FID=2603.22.1&amp;object=tx%7C2603.10.1&amp;redir=1 Woldenhorn-Schule auf der Website der Stadt Ahrensburg]</text>
+      <sha1>6auplm9orxamknlxnkpeuq6qxkhrgoj</sha1>
+    </revision>
+    <revision>
+      <id>420</id>
+      <parentid>415</parentid>
+      <timestamp>2024-08-24T09:44:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>420</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="531" sha1="4nsrxemd6se8s3j9xt1j932sggvkk8r" xml:space="preserve">{{#display_map:Woldenhorn Schule, Ahrensburg, Germany}}
+== Woldenhorn-Schule in Ahrensburg ==
+Die Woldenhorn-Schule ist ein Förderzentrum mit dem Schwerpunkt auf geistiger Entwicklung.
+==Wenlinks==
+* [http://www.woldenhorn-schule.de/ Homepage der Woldenhorn-Schule]
+* [https://www.ahrensburg.de/Wirtschaft-Tourismus/Wirtschaftsf%C3%B6rderung/Branchenverzeichnis/Woldenhornschule-F%C3%B6rderzentrum-geistige-Entwicklung.php?ModID=9&amp;FID=2603.22.1&amp;object=tx%7C2603.10.1&amp;redir=1 Woldenhorn-Schule auf der Website der Stadt Ahrensburg]</text>
+      <sha1>4nsrxemd6se8s3j9xt1j932sggvkk8r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wirtschaft</title>
+    <ns>0</ns>
+    <id>84</id>
+    <revision>
+      <id>421</id>
+      <timestamp>2024-08-24T09:53:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>421</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="364" sha1="7gbbkbcdzgvnc297m5y4kubah5yj8cc" xml:space="preserve">==Ahrensburg Wirtschaft==
+Die Wirtschaft in Ahrensburg ist geprägt von kleinen und mittelständischen Unternehmen. Die Stadt hat eine gute Infrastruktur und ist verkehrstechnisch gut angebunden. Die Wirtschaft in Ahrensburg ist vielfältig und bietet viele Arbeitsplätze. Die Stadt hat eine hohe Lebensqualität und ist ein attraktiver Standort für Unternehmen.</text>
+      <sha1>7gbbkbcdzgvnc297m5y4kubah5yj8cc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Verkehr</title>
+    <ns>0</ns>
+    <id>85</id>
+    <revision>
+      <id>422</id>
+      <timestamp>2024-08-25T04:58:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>422</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="939" sha1="3z312xiqsapcbcxuka6a0gxxl9rik8d" xml:space="preserve">==Ahrensburg Verkehr==
+===Straßenverkehr===
+Ahrensburg ist über die Bundesautobahn 1 (Hamburg-Lübeck) und die Bundesstraße 75 (Hamburg-Bad Oldesloe) an das überregionale Straßennetz angeschlossen. Die Bundesstraße 434 führt von Ahrensburg nach Bargteheide und Bad Oldesloe. Die Landesstraße 92 verbindet Ahrensburg mit Großhansdorf und der Bundesstraße 404. Die Landesstraße 225 führt von Ahrensburg nach Stapelfeld und Norderstedt. Die Landesstraße 96 führt von Ahrensburg nach Trittau und Mölln.
+===Öffentlicher Personennahverkehr===
+Ahrensburg ist an das Netz des Hamburger Verkehrsverbundes (HVV) angeschlossen. Die Stadt wird von den Buslinien 169, 269, 369, 469, 569 und 474Ü bedient. Ahrensburg ist über die Linien RE 80 Hamburg-Lübeck und die Linie RB 81 Hamburg-Bad Oldesloe an das überregionale Schienennetz angeschlossen. Die Linie U1 der Hamburger U-Bahn verbindet Ahrensburg mit Hamburg und Großhansdorf.</text>
+      <sha1>3z312xiqsapcbcxuka6a0gxxl9rik8d</sha1>
+    </revision>
+    <revision>
+      <id>423</id>
+      <parentid>422</parentid>
+      <timestamp>2024-08-25T11:27:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>423</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="745" sha1="gody7y893t57nt6ot1ztim2ruo3byea" xml:space="preserve">==Ahrensburg Verkehr==
+===Straßenverkehr===
+Ahrensburg ist über die Bundesautobahn 1 und das überregionale Straßennetz angeschlossen, die von Hamburg nach Lübeck führt. Die Verkehrsverbindungen verbinden Ahrensburg mit Bad Oldesloe, Kiel, Bad Segeberg, Großhansdorf, Trittau und Mölln.
+===Öffentlicher Personennahverkehr===
+Ahrensburg ist an das Netz des Hamburger Verkehrsverbundes (HVV) angeschlossen. Die Stadt wird von den Buslinien [[169]], [[269]], [[369]], [[469]], [[569]] und [[474]] bedient. Ahrensburg ist über die Linien RE 80 Hamburg-Lübeck und die Linie RB 81 Hamburg-Bad Oldesloe an das überregionale Schienennetz angeschlossen. Die Linie [[U1]] der Hamburger U-Bahn verbindet Ahrensburg mit Hamburg und Großhansdorf.</text>
+      <sha1>gody7y893t57nt6ot1ztim2ruo3byea</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>169</title>
+    <ns>0</ns>
+    <id>86</id>
+    <revision>
+      <id>424</id>
+      <timestamp>2024-08-25T12:57:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>424</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="278" sha1="0d6xovy9eqvpq5skopqts5a8tm07g8d" xml:space="preserve">===Bus Linie 169===
+
+Der Bahnhof Gartenholz verbindet das Gewerbegebiet Nord, Beimoor Süd und den Bahnhof Ahrensburg sowie die U-Bahn-Station Ahrensburg West.
+
+
+
+==Postgis==
+===OpenStreetMap===
+
+```sql
+SELECT * FROM planet_osm_roads WHERE route='bus' and name LIKE '%169%';
+```</text>
+      <sha1>0d6xovy9eqvpq5skopqts5a8tm07g8d</sha1>
     </revision>
   </page>
 </mediawiki>
