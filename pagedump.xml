@@ -1913,6 +1913,104 @@ Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhi
 * [https://copilot.microsoft.com/sl/dDIV5t7LgHc copilot.microsoft]</text>
       <sha1>nw90tsb92w5l5scn8osde2ddtehgxs2</sha1>
     </revision>
+    <revision>
+      <id>493</id>
+      <parentid>418</parentid>
+      <timestamp>2024-08-31T12:29:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Allgemeines */</comment>
+      <origin>493</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2576" sha1="h1i73o846kh2bg1ymnnymxz9xp69j5s" xml:space="preserve">
+{{#display_map:Ahrensburg, Germany}}
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+{{#geocode:Ahrensburg}}
+== Allgemeines ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Bots]]
+* [[OpenStreetMap Tools]]
+* [[Web-Gis]]
+* [[cookie banner extensions]]
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]
+* [https://g.co/gemini/share/468e3398ad02 Germini Ahrensburg]
+* [https://copilot.microsoft.com/sl/dDIV5t7LgHc copilot.microsoft]</text>
+      <sha1>h1i73o846kh2bg1ymnnymxz9xp69j5s</sha1>
+    </revision>
+    <revision>
+      <id>503</id>
+      <parentid>493</parentid>
+      <timestamp>2024-08-31T15:54:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>503</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2617" sha1="46mi7mvl7rx6k9p3j09b63zamz5xz47" xml:space="preserve">
+{{#display_map:Ahrensburg, Germany}}
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+{{#geocode:Ahrensburg}}
+== Allgemeines ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Bots]]
+* [[OpenStreetMap Tools]]
+* [[Web-Gis]]
+* [[Cookie-Banner selbst programmieren]]
+* [[cookie banner extensions]]
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]
+* [https://g.co/gemini/share/468e3398ad02 Germini Ahrensburg]
+* [https://copilot.microsoft.com/sl/dDIV5t7LgHc copilot.microsoft]</text>
+      <sha1>46mi7mvl7rx6k9p3j09b63zamz5xz47</sha1>
+    </revision>
   </page>
   <page>
     <title>SMW/Schema:Group:Schema properties</title>
@@ -55042,6 +55140,286 @@ In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beisp
 *</text>
       <sha1>jycldvznthhgvn1efhxw6402d58ha2e</sha1>
     </revision>
+    <revision>
+      <id>504</id>
+      <parentid>492</parentid>
+      <timestamp>2024-08-31T21:27:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>504</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2650" sha1="tfy6v91qzj1mr789q30psci0qgjvomu" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Kroatien Restaurant Mediterraneo - Restaurant Strehl - Villa Romana - Restaurant Söbentein - Ristorante Pizzeria da Barone - La Villa Rossa - ZEITLOS AHRENSBURG - RamRob - Wein Ahrens - BLOCK HOUSE Ahrensburg - Rio Grande Ahrensburg - Mendoza - Berlin Milljöh - La Casetta Ristorante Ahrensburg - Restaurant Bangkok - New Mongolei - Misaki Sushi Ahrensburg
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>tfy6v91qzj1mr789q30psci0qgjvomu</sha1>
+    </revision>
+    <revision>
+      <id>505</id>
+      <parentid>504</parentid>
+      <timestamp>2024-08-31T21:38:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>505</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2980" sha1="s1kqyuh600qwo5ubfoohpzonvzqdqu7" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Kroatien Restaurant Mediterraneo - Restaurant Strehl - Villa Romana - Restaurant Söbentein - Ristorante Pizzeria da Barone - La Villa Rossa - ZEITLOS AHRENSBURG - RamRob - Wein Ahrens - BLOCK HOUSE Ahrensburg - Rio Grande Ahrensburg - Mendoza - Berlin Milljöh - La Casetta Ristorante Ahrensburg - Restaurant Bangkok - New Mongolei - Misaki Sushi Ahrensburg - SHIBUI | Asiatische Fusionsküche - 7Fuji Sushi &amp; Ramen - Taverne Rigani Ahrensburg - Schlemmerstübchen - New Long - Rockefeller Ahrensburg (Restaurant &amp; Sportsbar) - Tunici's Restaurant Ahrensburg - Restaurant Rauchhaus - Sapori d'Italia - Hotel Am Schloss Ahrensburg - Dailyfresh - Taj Mahal  Best Indian Food - Zum Griechen
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>s1kqyuh600qwo5ubfoohpzonvzqdqu7</sha1>
+    </revision>
+    <revision>
+      <id>506</id>
+      <parentid>505</parentid>
+      <timestamp>2024-08-31T21:38:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>506</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2992" sha1="2ddpa5g9qm597n7jqt6higcdmwwblua" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: Kroatien Restaurant Mediterraneo - Restaurant Strehl - Villa Romana - Restaurant Söbentein - Ristorante Pizzeria da Barone - La Villa Rossa - ZEITLOS AHRENSBURG - RamRob - Wein Ahrens - BLOCK HOUSE Ahrensburg - Rio Grande Ahrensburg - Mendoza - Berlin Milljöh - La Casetta Ristorante Ahrensburg - Restaurant Bangkok - New Mongolei - Misaki Sushi Ahrensburg - SHIBUI | Asiatische Fusionsküche - 7Fuji Sushi &amp; Ramen - Taverne Rigani Ahrensburg - Schlemmerstübchen - New Long - Rockefeller Ahrensburg (Restaurant &amp; Sportsbar) - Tunici's Restaurant Ahrensburg - Restaurant Rauchhaus - Sapori d'Italia - Hotel Am Schloss Ahrensburg - Dailyfresh - Taj Mahal  Best Indian Food - Zum Griechen
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>2ddpa5g9qm597n7jqt6higcdmwwblua</sha1>
+    </revision>
+    <revision>
+      <id>507</id>
+      <parentid>506</parentid>
+      <timestamp>2024-08-31T21:41:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>507</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2996" sha1="jb8h0x50ehpuy8pc1ed8o3qh0pb2406" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* [[Restaurant: Kroatien Restaurant Mediterraneo]] - Restaurant Strehl - Villa Romana - Restaurant Söbentein - Ristorante Pizzeria da Barone - La Villa Rossa - ZEITLOS AHRENSBURG - RamRob - Wein Ahrens - BLOCK HOUSE Ahrensburg - Rio Grande Ahrensburg - Mendoza - Berlin Milljöh - La Casetta Ristorante Ahrensburg - Restaurant Bangkok - New Mongolei - Misaki Sushi Ahrensburg - SHIBUI | Asiatische Fusionsküche - 7Fuji Sushi &amp; Ramen - Taverne Rigani Ahrensburg - Schlemmerstübchen - New Long - Rockefeller Ahrensburg (Restaurant &amp; Sportsbar) - Tunici's Restaurant Ahrensburg - Restaurant Rauchhaus - Sapori d'Italia - Hotel Am Schloss Ahrensburg - Dailyfresh - Taj Mahal  Best Indian Food - Zum Griechen
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>jb8h0x50ehpuy8pc1ed8o3qh0pb2406</sha1>
+    </revision>
+    <revision>
+      <id>508</id>
+      <parentid>507</parentid>
+      <timestamp>2024-08-31T21:43:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>508</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2996" sha1="qwzy49chj5ibqkuovb99rfbvb5gir7u" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - Restaurant Strehl - Villa Romana - Restaurant Söbentein - Ristorante Pizzeria da Barone - La Villa Rossa - ZEITLOS AHRENSBURG - RamRob - Wein Ahrens - BLOCK HOUSE Ahrensburg - Rio Grande Ahrensburg - Mendoza - Berlin Milljöh - La Casetta Ristorante Ahrensburg - Restaurant Bangkok - New Mongolei - Misaki Sushi Ahrensburg - SHIBUI | Asiatische Fusionsküche - 7Fuji Sushi &amp; Ramen - Taverne Rigani Ahrensburg - Schlemmerstübchen - New Long - Rockefeller Ahrensburg (Restaurant &amp; Sportsbar) - Tunici's Restaurant Ahrensburg - Restaurant Rauchhaus - Sapori d'Italia - Hotel Am Schloss Ahrensburg - Dailyfresh - Taj Mahal  Best Indian Food - Zum Griechen
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>qwzy49chj5ibqkuovb99rfbvb5gir7u</sha1>
+    </revision>
+    <revision>
+      <id>513</id>
+      <parentid>508</parentid>
+      <timestamp>2024-08-31T22:15:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>513</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3000" sha1="l2xqlhtbl601e4faq5zva20j03djkd9" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - Villa Romana - Restaurant Söbentein - Ristorante Pizzeria da Barone - La Villa Rossa - ZEITLOS AHRENSBURG - RamRob - Wein Ahrens - BLOCK HOUSE Ahrensburg - Rio Grande Ahrensburg - Mendoza - Berlin Milljöh - La Casetta Ristorante Ahrensburg - Restaurant Bangkok - New Mongolei - Misaki Sushi Ahrensburg - SHIBUI | Asiatische Fusionsküche - 7Fuji Sushi &amp; Ramen - Taverne Rigani Ahrensburg - Schlemmerstübchen - New Long - Rockefeller Ahrensburg (Restaurant &amp; Sportsbar) - Tunici's Restaurant Ahrensburg - Restaurant Rauchhaus - Sapori d'Italia - Hotel Am Schloss Ahrensburg - Dailyfresh - Taj Mahal  Best Indian Food - Zum Griechen
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>l2xqlhtbl601e4faq5zva20j03djkd9</sha1>
+    </revision>
+    <revision>
+      <id>515</id>
+      <parentid>513</parentid>
+      <timestamp>2024-08-31T22:33:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>515</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3004" sha1="8gdsjzsoenxb2pvw6itpa46f5z2mnb0" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - Restaurant Söbentein - Ristorante Pizzeria da Barone - La Villa Rossa - ZEITLOS AHRENSBURG - RamRob - Wein Ahrens - BLOCK HOUSE Ahrensburg - Rio Grande Ahrensburg - Mendoza - Berlin Milljöh - La Casetta Ristorante Ahrensburg - Restaurant Bangkok - New Mongolei - Misaki Sushi Ahrensburg - SHIBUI | Asiatische Fusionsküche - 7Fuji Sushi &amp; Ramen - Taverne Rigani Ahrensburg - Schlemmerstübchen - New Long - Rockefeller Ahrensburg (Restaurant &amp; Sportsbar) - Tunici's Restaurant Ahrensburg - Restaurant Rauchhaus - Sapori d'Italia - Hotel Am Schloss Ahrensburg - Dailyfresh - Taj Mahal  Best Indian Food - Zum Griechen
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>8gdsjzsoenxb2pvw6itpa46f5z2mnb0</sha1>
+    </revision>
   </page>
   <page>
     <title>Gesundheit</title>
@@ -55825,6 +56203,519 @@ Rosenhof ist eine Seniorenwohnanlage in Ahrensburg. Die Anlage bietet 60 barrier
 ==Weblinks==
 * [https://www.dahmetal.de/ Offizielle Website]</text>
       <sha1>q2nevk241dww2cahscncuutrhunxwxs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cookie banner extensions</title>
+    <ns>0</ns>
+    <id>108</id>
+    <revision>
+      <id>494</id>
+      <timestamp>2024-08-31T12:31:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Cookie banner extensions== ===Wordpress===“</comment>
+      <origin>494</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="eqvvt6b2dt55ycvpqshahmxo40yv1xv" xml:space="preserve">==Cookie banner extensions==
+===Wordpress===</text>
+      <sha1>eqvvt6b2dt55ycvpqshahmxo40yv1xv</sha1>
+    </revision>
+    <revision>
+      <id>495</id>
+      <parentid>494</parentid>
+      <timestamp>2024-08-31T12:35:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Wordpress */</comment>
+      <origin>495</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="99" sha1="jnqxh9zphmetedbq3pixf2vqtn789vm" xml:space="preserve">==Cookie banner extensions==
+===Wordpress===
+* Cookie Notice . GDPR Cookie Consent - Cookie Consent</text>
+      <sha1>jnqxh9zphmetedbq3pixf2vqtn789vm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cookie-Banner-Erweiterung</title>
+    <ns>0</ns>
+    <id>109</id>
+    <revision>
+      <id>496</id>
+      <timestamp>2024-08-31T13:10:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>496</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="614" sha1="mtqyq4hp7dhaesuf42qbbf2v1zumhcz" xml:space="preserve">Cookie-Banner-Erweiterung ist eine Erweiterung, die es ermöglicht, den Cookie-Banner auf einer Website zu konfigurieren. Die Erweiterung bietet eine einfache Möglichkeit, den Cookie-Banner zu konfigurieren und die Zustimmung der Benutzer zu verwalten.
+
+== Wordpress Plugin ==
+Cookie-Banner-Erweiterung in Wordpress gibt es nach Funktionen  [https://wordpress.org/plugins/cookie-banner-extension/ https://wordpress.org/plugins/cookie-banner-extension/]
+
+* [https://wordpress.org/plugins/gdpr-cookie-compliance/ GDPR Cookie Compliance]
+* WP DSGVO Tools
+* Real Cookie Banner
+* Complianz – GDPR/CCPA Cookie Consent</text>
+      <sha1>mtqyq4hp7dhaesuf42qbbf2v1zumhcz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cookie-Banner selbst programmieren</title>
+    <ns>0</ns>
+    <id>110</id>
+    <revision>
+      <id>497</id>
+      <timestamp>2024-08-31T14:32:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>497</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2752" sha1="p6zj405ysvkfwokhkgjm40f8nzwkcwc" xml:space="preserve">Cookie-Banner selbst programmieren ist ein Thema, das viele Webseitenbetreiber beschäftigt. Denn seit der Datenschutzgrundverordnung (DSGVO) ist es Pflicht, die Besucher einer Webseite über die Verwendung von Cookies zu informieren. In diesem Artikel erfahren Sie, wie Sie einen Cookie-Banner selbst programmieren können.
+
+== Was ist ein Cookie-Banner? ==
+Ein Cookie-Banner ist ein Hinweis, der auf einer Webseite angezeigt wird, um die Besucher über die Verwendung von Cookies zu informieren. Cookies sind kleine Textdateien, die auf dem Computer des Besuchers gespeichert werden und Informationen über das Nutzerverhalten sammeln. Mit einem Cookie-Banner können die Besucher einer Webseite entscheiden, ob sie der Verwendung von Cookies zustimmen oder nicht.
+
+== Warum ist ein Cookie-Banner wichtig? ==
+Ein Cookie-Banner ist wichtig, weil die Datenschutzgrundverordnung (DSGVO) vorschreibt, dass die Besucher einer Webseite über die Verwendung von Cookies informiert werden müssen. Ohne einen Cookie-Banner riskieren Webseitenbetreiber hohe Bußgelder. Außerdem schützt ein Cookie-Banner die Privatsphäre der Besucher, indem sie selbst entscheiden können, ob sie der Verwendung von Cookies zustimmen oder nicht.
+
+== Wie geht das? ==
+Um einen Cookie-Banner selbst zu programmieren, benötigen Sie grundlegende Kenntnisse in HTML, CSS und JavaScript. Hier sind die Schritte, die Sie befolgen müssen:
+1. Erstellen Sie ein HTML-Dokument für Ihren Cookie-Banner.
+2. Fügen Sie den Cookie-Banner-Text und die Schaltflächen für die Zustimmung und Ablehnung hinzu.
+3. Verwenden Sie JavaScript, um den Cookie-Banner anzuzeigen und die Zustimmung des Besuchers zu speichern.
+4. Speichern Sie die Zustimmung des Besuchers in einem Cookie.
+5. Überprüfen Sie bei jedem Seitenaufruf, ob der Besucher bereits zugestimmt hat, und zeigen Sie den Cookie-Banner entsprechend an.
+
+== Wie programmiert man einen Cookie-Scanner, um zu überprüfen, welche Cookies eine Webseite setzt? ==
+Um einen Cookie-Scanner zu programmieren, benötigen Sie Kenntnisse in der Webentwicklung und im Umgang mit Cookies. Hier sind die Schritte, die Sie befolgen müssen:
+1. Erstellen Sie ein Skript, das die Cookies einer Webseite ausliest.
+2. Überprüfen Sie, welche Cookies gesetzt sind und welche Informationen sie sammeln.
+3. Informieren Sie die Besucher über die gesetzten Cookies und geben Sie ihnen die Möglichkeit, der Verwendung von Cookies zuzustimmen oder sie abzulehnen.
+4. Speichern Sie die Zustimmung des Besuchers in einem Cookie.
+5. Überprüfen Sie bei jedem Seitenaufruf, ob der Besucher bereits zugestimmt hat, und zeigen Sie den Cookie-Scanner entsprechend an.
+
+== Wie geht das? ==
+Einen reinen Cookie-Scanner zu schreiben, ist wie folgt möglich:</text>
+      <sha1>p6zj405ysvkfwokhkgjm40f8nzwkcwc</sha1>
+    </revision>
+    <revision>
+      <id>498</id>
+      <parentid>497</parentid>
+      <timestamp>2024-08-31T14:38:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>498</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2777" sha1="oqfau45qwbc19n3a9wn9glgrg8blor3" xml:space="preserve">Cookie-Banner selbst programmieren ist ein Thema, das viele Webseitenbetreiber beschäftigt. Denn seit der Datenschutzgrundverordnung (DSGVO) ist es Pflicht, die Besucher einer Webseite über die Verwendung von Cookies zu informieren. In diesem Artikel erfahren Sie, wie Sie einen Cookie-Banner selbst programmieren können.
+
+== Was ist ein Cookie-Banner? ==
+Ein Cookie-Banner ist ein Hinweis, der auf einer Webseite angezeigt wird, um die Besucher über die Verwendung von Cookies zu informieren. Cookies sind kleine Textdateien, die auf dem Computer des Besuchers gespeichert werden und Informationen über das Nutzerverhalten sammeln. Mit einem Cookie-Banner können die Besucher einer Webseite entscheiden, ob sie der Verwendung von Cookies zustimmen oder nicht.
+
+== Warum ist ein Cookie-Banner wichtig? ==
+Ein Cookie-Banner ist wichtig, weil die Datenschutzgrundverordnung (DSGVO) vorschreibt, dass die Besucher einer Webseite über die Verwendung von Cookies informiert werden müssen. Ohne einen Cookie-Banner riskieren Webseitenbetreiber hohe Bußgelder. Außerdem schützt ein Cookie-Banner die Privatsphäre der Besucher, indem sie selbst entscheiden können, ob sie der Verwendung von Cookies zustimmen oder nicht.
+
+== Wie geht das? ==
+Um einen Cookie-Banner selbst zu programmieren, benötigen Sie grundlegende Kenntnisse in HTML, CSS und JavaScript. Hier sind die Schritte, die Sie befolgen müssen:
+* Erstellen Sie ein HTML-Dokument für Ihren Cookie-Banner.
+* Fügen Sie den Cookie-Banner-Text und die Schaltflächen für die Zustimmung und Ablehnung hinzu.
+* Verwenden Sie JavaScript, um den Cookie-Banner anzuzeigen und die Zustimmung des Besuchers zu speichern.
+* Speichern Sie die Zustimmung des Besuchers in einem Cookie.
+* Überprüfen Sie bei jedem Seitenaufruf, ob der Besucher bereits zugestimmt hat, und zeigen Sie den Cookie-Banner entsprechend an.
+
+== Wie programmiert man einen Cookie-Scanner, um zu überprüfen, welche Cookies eine Webseite setzt? ==
+Um einen Cookie-Scanner zu programmieren, benötigen Sie Kenntnisse in der Webentwicklung und im Umgang mit Cookies. Hier sind die Schritte, die Sie befolgen müssen:
+* Erstellen Sie ein Skript, das die Cookies einer Webseite ausliest.
+* Überprüfen Sie, welche Cookies gesetzt sind und welche Informationen sie sammeln.
+* Informieren Sie die Besucher über die gesetzten Cookies und geben Sie ihnen die Möglichkeit, der Verwendung von Cookies zuzustimmen oder sie abzulehnen.
+# Speichern Sie die Zustimmung des Besuchers in einem Cookie.
+# Überprüfen Sie bei jedem Seitenaufruf, ob der Besucher bereits zugestimmt hat, und zeigen Sie den Cookie-Scanner entsprechend an.
+
+== Wie geht das? ==
+Einen reinen Cookie-Scanner zu schreiben, ist wie folgt möglich:
+DSGVO verwalten framework gibt das</text>
+      <sha1>oqfau45qwbc19n3a9wn9glgrg8blor3</sha1>
+    </revision>
+    <revision>
+      <id>499</id>
+      <parentid>498</parentid>
+      <timestamp>2024-08-31T14:38:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>499</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2777" sha1="c59mootkraukdk7dacq02i4m51v5hmy" xml:space="preserve">Cookie-Banner selbst programmieren ist ein Thema, das viele Webseitenbetreiber beschäftigt. Denn seit der Datenschutzgrundverordnung (DSGVO) ist es Pflicht, die Besucher einer Webseite über die Verwendung von Cookies zu informieren. In diesem Artikel erfahren Sie, wie Sie einen Cookie-Banner selbst programmieren können.
+
+== Was ist ein Cookie-Banner? ==
+Ein Cookie-Banner ist ein Hinweis, der auf einer Webseite angezeigt wird, um die Besucher über die Verwendung von Cookies zu informieren. Cookies sind kleine Textdateien, die auf dem Computer des Besuchers gespeichert werden und Informationen über das Nutzerverhalten sammeln. Mit einem Cookie-Banner können die Besucher einer Webseite entscheiden, ob sie der Verwendung von Cookies zustimmen oder nicht.
+
+== Warum ist ein Cookie-Banner wichtig? ==
+Ein Cookie-Banner ist wichtig, weil die Datenschutzgrundverordnung (DSGVO) vorschreibt, dass die Besucher einer Webseite über die Verwendung von Cookies informiert werden müssen. Ohne einen Cookie-Banner riskieren Webseitenbetreiber hohe Bußgelder. Außerdem schützt ein Cookie-Banner die Privatsphäre der Besucher, indem sie selbst entscheiden können, ob sie der Verwendung von Cookies zustimmen oder nicht.
+
+== Wie geht das? ==
+Um einen Cookie-Banner selbst zu programmieren, benötigen Sie grundlegende Kenntnisse in HTML, CSS und JavaScript. Hier sind die Schritte, die Sie befolgen müssen:
+# Erstellen Sie ein HTML-Dokument für Ihren Cookie-Banner.
+# Fügen Sie den Cookie-Banner-Text und die Schaltflächen für die Zustimmung und Ablehnung hinzu.
+# Verwenden Sie JavaScript, um den Cookie-Banner anzuzeigen und die Zustimmung des Besuchers zu speichern.
+# Speichern Sie die Zustimmung des Besuchers in einem Cookie.
+# Überprüfen Sie bei jedem Seitenaufruf, ob der Besucher bereits zugestimmt hat, und zeigen Sie den Cookie-Banner entsprechend an.
+
+== Wie programmiert man einen Cookie-Scanner, um zu überprüfen, welche Cookies eine Webseite setzt? ==
+Um einen Cookie-Scanner zu programmieren, benötigen Sie Kenntnisse in der Webentwicklung und im Umgang mit Cookies. Hier sind die Schritte, die Sie befolgen müssen:
+# Erstellen Sie ein Skript, das die Cookies einer Webseite ausliest.
+# Überprüfen Sie, welche Cookies gesetzt sind und welche Informationen sie sammeln.
+# Informieren Sie die Besucher über die gesetzten Cookies und geben Sie ihnen die Möglichkeit, der Verwendung von Cookies zuzustimmen oder sie abzulehnen.
+# Speichern Sie die Zustimmung des Besuchers in einem Cookie.
+# Überprüfen Sie bei jedem Seitenaufruf, ob der Besucher bereits zugestimmt hat, und zeigen Sie den Cookie-Scanner entsprechend an.
+
+== Wie geht das? ==
+Einen reinen Cookie-Scanner zu schreiben, ist wie folgt möglich:
+DSGVO verwalten framework gibt das</text>
+      <sha1>c59mootkraukdk7dacq02i4m51v5hmy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Badlantic Ahrensburg</title>
+    <ns>0</ns>
+    <id>111</id>
+    <revision>
+      <id>500</id>
+      <timestamp>2024-08-31T14:54:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>500</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="383" sha1="5x9031fsd8guw7n8lxjhz2iwfr9fu7g" xml:space="preserve">Badlantic in Ahrensburg ist ein Freizeitbad mit Sauna- und Wellnessbereich. Es gibt ein Schwimmbecken, ein Kinderbecken, eine Rutsche und einen Whirlpool. Der Saunabereich bietet verschiedene Saunen, ein Dampfbad und einen Ruheraum. Im Wellnessbereich können Sie sich entspannen und verschiedene Anwendungen genießen.
+
+==Weblinks==
+
+* [https://www.badlantic.de/ Offizielle Website]</text>
+      <sha1>5x9031fsd8guw7n8lxjhz2iwfr9fu7g</sha1>
+    </revision>
+    <revision>
+      <id>501</id>
+      <parentid>500</parentid>
+      <timestamp>2024-08-31T14:55:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>501</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="107" sha1="pn80w5sshbni5zwtzs2wkqm79havak9" xml:space="preserve">Badlantic in Ahrensburg ist ein Freizeitbad 
+==Weblinks==
+
+* [https://www.badlantic.de/ Offizielle Website]</text>
+      <sha1>pn80w5sshbni5zwtzs2wkqm79havak9</sha1>
+    </revision>
+    <revision>
+      <id>502</id>
+      <parentid>501</parentid>
+      <timestamp>2024-08-31T15:51:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>502</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="154" sha1="nztk1l0p4mmwzgvmgxk7amvmfsd2v5v" xml:space="preserve">{{#display_map:Badlantic Ahrensburg, Germany}}
+Badlantic in Ahrensburg ist ein Freizeitbad 
+==Weblinks==
+
+* [https://www.badlantic.de/ Offizielle Website]</text>
+      <sha1>nztk1l0p4mmwzgvmgxk7amvmfsd2v5v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kroatien Restaurant Mediterraneo</title>
+    <ns>0</ns>
+    <id>112</id>
+    <revision>
+      <id>509</id>
+      <timestamp>2024-08-31T21:56:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>509</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1035" sha1="agjfafwaezau31g395d5zzvqmlk40yf" xml:space="preserve">Das '''Kroatien Restaurant Mediterraneo''' in Ahrensburg ist ein Restaurant, das sich auf die kroatische Küche spezialisiert hat. Es befindet sich in der Reeshoop 48 und bietet seinen Gästen eine große Auswahl an kroatischen Spezialitäten. Das Restaurant ist modern eingerichtet und verfügt über eine gemütliche Atmosphäre. Die Speisekarte umfasst unter anderem Fisch- und Fleischgerichte, Pasta, Pizza und Salate. Besonders beliebt sind die gegrillten Fleischspieße und die hausgemachten Desserts. Das Kroatien Restaurant Mediterraneo ist der ideale Ort für alle, die die kroatische Küche lieben und gerne in gemütlicher Atmosphäre speisen.
+
+== Öffnungszeiten ==
+* Montag: Ruhetag
+* Warme Küche:
+  * Dienstag – Freitag: 16:30 – 22:00 Uhr
+  * Samstag: 12:00 – 22:00 Uhr
+  * Sonntag und Feiertage: 12:00 – 21:00 Uhr
+
+== Adresse ==
+Julijan Andreic  
+Restaurant Kroatien  
+Reeshoop 48  
+22926 Ahrensburg
+
+== Weblinks ==
+* [https://www.restaurantkroatien.de/ Offizielle Webseite des Kroatien Restaurant Mediterraneo]</text>
+      <sha1>agjfafwaezau31g395d5zzvqmlk40yf</sha1>
+    </revision>
+    <revision>
+      <id>510</id>
+      <parentid>509</parentid>
+      <timestamp>2024-08-31T21:58:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Adresse */</comment>
+      <origin>510</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1043" sha1="sv7nhfyl4fi7op3e0vrm42u0kfmr2xf" xml:space="preserve">Das '''Kroatien Restaurant Mediterraneo''' in Ahrensburg ist ein Restaurant, das sich auf die kroatische Küche spezialisiert hat. Es befindet sich in der Reeshoop 48 und bietet seinen Gästen eine große Auswahl an kroatischen Spezialitäten. Das Restaurant ist modern eingerichtet und verfügt über eine gemütliche Atmosphäre. Die Speisekarte umfasst unter anderem Fisch- und Fleischgerichte, Pasta, Pizza und Salate. Besonders beliebt sind die gegrillten Fleischspieße und die hausgemachten Desserts. Das Kroatien Restaurant Mediterraneo ist der ideale Ort für alle, die die kroatische Küche lieben und gerne in gemütlicher Atmosphäre speisen.
+
+== Öffnungszeiten ==
+* Montag: Ruhetag
+* Warme Küche:
+  * Dienstag – Freitag: 16:30 – 22:00 Uhr
+  * Samstag: 12:00 – 22:00 Uhr
+  * Sonntag und Feiertage: 12:00 – 21:00 Uhr
+
+== Adresse ==
+* Julijan Andreic  
+* Restaurant Kroatien  
+* Reeshoop 48  
+* 22926 Ahrensburg
+
+== Weblinks ==
+* [https://www.restaurantkroatien.de/ Offizielle Webseite des Kroatien Restaurant Mediterraneo]</text>
+      <sha1>sv7nhfyl4fi7op3e0vrm42u0kfmr2xf</sha1>
+    </revision>
+    <revision>
+      <id>511</id>
+      <parentid>510</parentid>
+      <timestamp>2024-08-31T22:00:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>511</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1113" sha1="0kfwv9e52cstqg456am2dy5jgeenxse" xml:space="preserve">{{#display_map:Kroatien Restaurant Mediterraneo Ahrensburg, Germany}}
+Das '''Kroatien Restaurant Mediterraneo''' in Ahrensburg ist ein Restaurant, das sich auf die kroatische Küche spezialisiert hat. Es befindet sich in der Reeshoop 48 und bietet seinen Gästen eine große Auswahl an kroatischen Spezialitäten. Das Restaurant ist modern eingerichtet und verfügt über eine gemütliche Atmosphäre. Die Speisekarte umfasst unter anderem Fisch- und Fleischgerichte, Pasta, Pizza und Salate. Besonders beliebt sind die gegrillten Fleischspieße und die hausgemachten Desserts. Das Kroatien Restaurant Mediterraneo ist der ideale Ort für alle, die die kroatische Küche lieben und gerne in gemütlicher Atmosphäre speisen.
+
+== Öffnungszeiten ==
+* Montag: Ruhetag
+* Warme Küche:
+  * Dienstag – Freitag: 16:30 – 22:00 Uhr
+  * Samstag: 12:00 – 22:00 Uhr
+  * Sonntag und Feiertage: 12:00 – 21:00 Uhr
+
+== Adresse ==
+* Julijan Andreic  
+* Restaurant Kroatien  
+* Reeshoop 48  
+* 22926 Ahrensburg
+
+== Weblinks ==
+* [https://www.restaurantkroatien.de/ Offizielle Webseite des Kroatien Restaurant Mediterraneo]</text>
+      <sha1>0kfwv9e52cstqg456am2dy5jgeenxse</sha1>
+    </revision>
+    <revision>
+      <id>512</id>
+      <parentid>511</parentid>
+      <timestamp>2024-08-31T22:01:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>512</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1102" sha1="mf34ce73rxxvq4p63x9xpo326ifxipg" xml:space="preserve">{{#display_map:Kroatien Restaurant , Ahrensburg, Germany}}
+Das '''Kroatien Restaurant Mediterraneo''' in Ahrensburg ist ein Restaurant, das sich auf die kroatische Küche spezialisiert hat. Es befindet sich in der Reeshoop 48 und bietet seinen Gästen eine große Auswahl an kroatischen Spezialitäten. Das Restaurant ist modern eingerichtet und verfügt über eine gemütliche Atmosphäre. Die Speisekarte umfasst unter anderem Fisch- und Fleischgerichte, Pasta, Pizza und Salate. Besonders beliebt sind die gegrillten Fleischspieße und die hausgemachten Desserts. Das Kroatien Restaurant Mediterraneo ist der ideale Ort für alle, die die kroatische Küche lieben und gerne in gemütlicher Atmosphäre speisen.
+
+== Öffnungszeiten ==
+* Montag: Ruhetag
+* Warme Küche:
+  * Dienstag – Freitag: 16:30 – 22:00 Uhr
+  * Samstag: 12:00 – 22:00 Uhr
+  * Sonntag und Feiertage: 12:00 – 21:00 Uhr
+
+== Adresse ==
+* Julijan Andreic  
+* Restaurant Kroatien  
+* Reeshoop 48  
+* 22926 Ahrensburg
+
+== Weblinks ==
+* [https://www.restaurantkroatien.de/ Offizielle Webseite des Kroatien Restaurant Mediterraneo]</text>
+      <sha1>mf34ce73rxxvq4p63x9xpo326ifxipg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Restaurant Strehl</title>
+    <ns>0</ns>
+    <id>113</id>
+    <revision>
+      <id>514</id>
+      <timestamp>2024-08-31T22:23:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>514</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="536" sha1="5i1jpf1nmgz6k49zj6bx5axlvv6c77m" xml:space="preserve">Restaurant Strehl ist ein Restaurant in der Stadt Ahrensburg. Es ist ein sehr beliebtes Restaurant, das für seine gute Küche bekannt ist. Das Restaurant bietet eine große Auswahl an Speisen und Getränken. Es ist der ideale Ort für ein romantisches Abendessen oder ein Treffen mit Freunden. Das Restaurant Strehl ist auch für seine freundlichen Mitarbeiter und das gemütliche Ambiente bekannt. Es ist
+==Adresse==
+* Restaurant Strehl
+* Reeshoop 50
+* 22926 Ahrensburg
+==Weblinks==
+* [https://restaurantstrehl.de/ Offizielle Website]</text>
+      <sha1>5i1jpf1nmgz6k49zj6bx5axlvv6c77m</sha1>
+    </revision>
+    <revision>
+      <id>519</id>
+      <parentid>514</parentid>
+      <timestamp>2024-08-31T23:04:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>519</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="593" sha1="56xgfg1nx3hl9cs2iorkc6kmlb2x1vq" xml:space="preserve">{{#display_map:Restaurant Strehl , Ahrensburg, Germany}}
+Restaurant Strehl ist ein Restaurant in der Stadt Ahrensburg. Es ist ein sehr beliebtes Restaurant, das für seine gute Küche bekannt ist. Das Restaurant bietet eine große Auswahl an Speisen und Getränken. Es ist der ideale Ort für ein romantisches Abendessen oder ein Treffen mit Freunden. Das Restaurant Strehl ist auch für seine freundlichen Mitarbeiter und das gemütliche Ambiente bekannt. Es ist
+==Adresse==
+* Restaurant Strehl
+* Reeshoop 50
+* 22926 Ahrensburg
+==Weblinks==
+* [https://restaurantstrehl.de/ Offizielle Website]</text>
+      <sha1>56xgfg1nx3hl9cs2iorkc6kmlb2x1vq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Villa Romana</title>
+    <ns>0</ns>
+    <id>114</id>
+    <revision>
+      <id>516</id>
+      <timestamp>2024-08-31T22:49:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>516</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="598" sha1="bbvjsegwl2r7usov5e7de10xnmmj2k3" xml:space="preserve">Villa Romana ist ein Restaurant, das sich auf italienische Küche spezialisiert hat. Das Restaurant bietet eine große Auswahl an italienischen Gerichten, darunter Pizza, Pasta, Antipasti und Desserts. Die Speisekarte umfasst auch eine Auswahl an Weinen und Cocktails. Das Restaurant verfügt über eine gemütliche Atmosphäre und ist der ideale Ort für ein romantisches Abendessen oder einen geselligen Abend mit Freunden. Die Villa Romana bietet auch einen Catering-Service für private Veranstaltungen und Feiern an.
+==Weblinks==
+* [[http://www.villaromana-ahrensburg.de/  Offizielle Website]]</text>
+      <sha1>bbvjsegwl2r7usov5e7de10xnmmj2k3</sha1>
+    </revision>
+    <revision>
+      <id>517</id>
+      <parentid>516</parentid>
+      <timestamp>2024-08-31T22:51:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>517</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="733" sha1="hnfya9eit1xhnc56hbsf98lu9z92zkv" xml:space="preserve">Villa Romana ist ein Restaurant, das sich auf italienische Küche spezialisiert hat. Das Restaurant bietet eine große Auswahl an italienischen Gerichten, darunter Pizza, Pasta, Antipasti und Desserts. Die Speisekarte umfasst auch eine Auswahl an Weinen und Cocktails. Das Restaurant verfügt über eine gemütliche Atmosphäre und ist der ideale Ort für ein romantisches Abendessen oder einen geselligen Abend mit Freunden. Die Villa Romana bietet auch einen Catering-Service für private Veranstaltungen und Feiern an.
+==Adresse==
+* Inh.Fam.Sumanaru
+* Bei der alten Kate 6
+* 22926 Ahrensburg
+* Tel.: 04102 – 667 25 96
+* email: villaromana2015@yahoo.de
+==Weblinks==
+* [[http://www.villaromana-ahrensburg.de/  Offizielle Website]]</text>
+      <sha1>hnfya9eit1xhnc56hbsf98lu9z92zkv</sha1>
+    </revision>
+    <revision>
+      <id>518</id>
+      <parentid>517</parentid>
+      <timestamp>2024-08-31T22:52:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Weblinks */</comment>
+      <origin>518</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="731" sha1="bo701qn6n76l7hqn8nen47zt7axxrxd" xml:space="preserve">Villa Romana ist ein Restaurant, das sich auf italienische Küche spezialisiert hat. Das Restaurant bietet eine große Auswahl an italienischen Gerichten, darunter Pizza, Pasta, Antipasti und Desserts. Die Speisekarte umfasst auch eine Auswahl an Weinen und Cocktails. Das Restaurant verfügt über eine gemütliche Atmosphäre und ist der ideale Ort für ein romantisches Abendessen oder einen geselligen Abend mit Freunden. Die Villa Romana bietet auch einen Catering-Service für private Veranstaltungen und Feiern an.
+==Adresse==
+* Inh.Fam.Sumanaru
+* Bei der alten Kate 6
+* 22926 Ahrensburg
+* Tel.: 04102 – 667 25 96
+* email: villaromana2015@yahoo.de
+==Weblinks==
+* [http://www.villaromana-ahrensburg.de/  Offizielle Website]</text>
+      <sha1>bo701qn6n76l7hqn8nen47zt7axxrxd</sha1>
+    </revision>
+    <revision>
+      <id>520</id>
+      <parentid>518</parentid>
+      <timestamp>2024-08-31T23:21:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>520</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="783" sha1="9jcuzuv87pg8dosgo7feql0fraja2d0" xml:space="preserve">{{#display_map:Villa Romana , Ahrensburg, Germany}}
+Villa Romana ist ein Restaurant, das sich auf italienische Küche spezialisiert hat. Das Restaurant bietet eine große Auswahl an italienischen Gerichten, darunter Pizza, Pasta, Antipasti und Desserts. Die Speisekarte umfasst auch eine Auswahl an Weinen und Cocktails. Das Restaurant verfügt über eine gemütliche Atmosphäre und ist der ideale Ort für ein romantisches Abendessen oder einen geselligen Abend mit Freunden. Die Villa Romana bietet auch einen Catering-Service für private Veranstaltungen und Feiern an.
+==Adresse==
+* Inh.Fam.Sumanaru
+* Bei der alten Kate 6
+* 22926 Ahrensburg
+* Tel.: 04102 – 667 25 96
+* email: villaromana2015@yahoo.de
+==Weblinks==
+* [http://www.villaromana-ahrensburg.de/  Offizielle Website]</text>
+      <sha1>9jcuzuv87pg8dosgo7feql0fraja2d0</sha1>
     </revision>
   </page>
 </mediawiki>
