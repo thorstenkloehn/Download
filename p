@@ -2550,6 +2550,156 @@ Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhi
 * [https://copilot.microsoft.com/sl/dDIV5t7LgHc copilot.microsoft]</text>
       <sha1>h5cxvamtkudlr8bpuqoc6evvrz025rf</sha1>
     </revision>
+    <revision>
+      <id>587</id>
+      <parentid>574</parentid>
+      <timestamp>2024-09-06T10:16:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Allgemein */</comment>
+      <origin>587</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2682" sha1="s9u1oflnztpnmj50gfd72ul3lr89jwr" xml:space="preserve">
+{{#display_map:Ahrensburg, Germany}}
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+{{#geocode:Ahrensburg}}
+== Allgemein ==
+* [https://ahrensburg.city/User_blog:Thorsten Blog]
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[September 2024|Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Bots]]
+* [[OpenStreetMap Tools]]
+* [[Web-Gis]]
+* [[Cookie-Banner selbst programmieren]]
+* [[cookie banner extensions]]
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]
+* [https://g.co/gemini/share/468e3398ad02 Germini Ahrensburg]
+* [https://copilot.microsoft.com/sl/dDIV5t7LgHc copilot.microsoft]</text>
+      <sha1>s9u1oflnztpnmj50gfd72ul3lr89jwr</sha1>
+    </revision>
+    <revision>
+      <id>606</id>
+      <parentid>587</parentid>
+      <timestamp>2024-09-06T11:14:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Allgemein */</comment>
+      <origin>606</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2630" sha1="6xuidcmnrfiqsvi7br8rpca52mf520x" xml:space="preserve">
+{{#display_map:Ahrensburg, Germany}}
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+{{#geocode:Ahrensburg}}
+== Allgemein ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[September 2024|Nachrichten]] - Aktuelle Nachrichten und Ereignisse aus der Stadt
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Bots]]
+* [[OpenStreetMap Tools]]
+* [[Web-Gis]]
+* [[Cookie-Banner selbst programmieren]]
+* [[cookie banner extensions]]
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]
+* [https://g.co/gemini/share/468e3398ad02 Germini Ahrensburg]
+* [https://copilot.microsoft.com/sl/dDIV5t7LgHc copilot.microsoft]</text>
+      <sha1>6xuidcmnrfiqsvi7br8rpca52mf520x</sha1>
+    </revision>
+    <revision>
+      <id>609</id>
+      <parentid>606</parentid>
+      <timestamp>2024-09-06T11:26:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Allgemein */</comment>
+      <origin>609</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2545" sha1="5s717xtjqzkjephr2v8co4eos4ix14z" xml:space="preserve">
+{{#display_map:Ahrensburg, Germany}}
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+{{#geocode:Ahrensburg}}
+== Allgemein ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Bots]]
+* [[OpenStreetMap Tools]]
+* [[Web-Gis]]
+* [[Cookie-Banner selbst programmieren]]
+* [[cookie banner extensions]]
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]
+* [https://g.co/gemini/share/468e3398ad02 Germini Ahrensburg]
+* [https://copilot.microsoft.com/sl/dDIV5t7LgHc copilot.microsoft]</text>
+      <sha1>5s717xtjqzkjephr2v8co4eos4ix14z</sha1>
+    </revision>
   </page>
   <page>
     <title>MediaWiki:Smw import schema</title>
@@ -17679,6 +17829,126 @@ Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur b
 Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde,Beimoor/Gewerbegebiet Nord,West, Gartenholz,Erlenhof-Süd und Hagen.</text>
       <sha1>0sx9qudajktg4up9vy4q8d6mg24oofs</sha1>
     </revision>
+    <revision>
+      <id>638</id>
+      <parentid>150</parentid>
+      <timestamp>2024-09-07T09:56:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>638</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3850" sha1="1opip1zrtvy5oqnfq9b4sk6ntt4tob6" xml:space="preserve">== Ahrensburg ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner.
+
+== Geographie ==
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+
+=== Klima ===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+
+== Stadtteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde, Beimoor/Gewerbegebiet Nord, West, Gartenholz, Erlenhof-Süd und Hagen.
+
+== Wissensdatensammlung aus Ahrensburg ==
+=== Datenerhebung ===
+Die Datenerhebung in Ahrensburg kann mit Handy, Tablet oder Laptop erfolgen. Die Software:
+
+==== Datenerfassung für Self-Hosting ====
+* **OpenDataKit**: OpenDataKit (ODK) ist eine Open-Source-Suite von Tools, die es ermöglicht, mobile Daten zu erfassen, zu verwalten und zu nutzen. ODK kann auf eigenen Servern gehostet werden, um die Kontrolle über die gesammelten Daten zu behalten.
+* **QField**: QField ist eine mobile GIS-Anwendung, die nahtlos mit QGIS integriert ist. Es ermöglicht die Erfassung und Bearbeitung von Geodaten im Feld und kann Daten direkt auf eigene Server übertragen.
+* **GeoODK**: GeoODK ist eine Erweiterung von OpenDataKit, die speziell für die Erfassung von Geodaten entwickelt wurde. Es bietet zusätzliche Funktionen für die Kartenerstellung und kann auf eigenen Servern gehostet werden.
+* **Geopaparazzi**: Geopaparazzi ist ein Open-Source-Tool für die schnelle Erfassung von Geodaten im Feld. Es unterstützt die Speicherung und Übertragung von Daten auf eigene Server und ist besonders nützlich für GIS-Profis und Forscher.
+
+== Daten aus anderen Quellen ==
+=== Wikidata ===
+Wikidata ist eine freie Wissensdatenbank, die von der Wikimedia Foundation betrieben wird. Sie enthält strukturierte Daten zu einer Vielzahl von Themen und kann von jedem bearbeitet und erweitert werden. Die Daten können über die Wikidata-API abgerufen und in eigenen Projekten verwendet werden.
+
+==== Wie kann ich die Daten nutzen? ====
+Die Daten von Wikidata können über die API oder durch Herunterladen der Rohdaten abgerufen werden. Sie können in eigenen Projekten verwendet werden, um Informationen zu einem bestimmten Thema abzurufen, Daten zu visualisieren oder Analysen durchzuführen.
+
+==== Wie kann ich die Daten beitragen? ====
+Jeder kann zu Wikidata beitragen, indem er neue Daten hinzufügt, bestehende Daten verbessert oder korrekt in Wikipedia-Artikeln verlinkt. Die Daten werden von einer Community von Freiwilligen überprüft und gepflegt, um sicherzustellen, dass sie korrekt und aktuell sind.
+
+=== OpenStreetMap ===
+Die Daten, die von OpenStreetMap genutzt werden, sind unter der Lizenz ODbL 1.0 verfügbar. OpenStreetMap ist ein Projekt, das Geodaten sammelt und unter einer freien Lizenz veröffentlicht. Die Daten können für beliebige Zwecke verwendet und weiterverwendet werden, solange der Urheber genannt wird und Änderungen unter derselben Lizenz veröffentlicht werden.
+
+==== Wie kann ich die Daten nutzen? ====
+Die Daten von OpenStreetMap können über die API oder durch Herunterladen der Rohdaten abgerufen werden. Sie können in eigenen Projekten verwendet werden, um Karten zu erstellen, Routen zu planen oder Geodaten zu analysieren.
+
+==== Wie kann ich die Daten beitragen? ====
+Jeder kann zu OpenStreetMap beitragen, indem er Geodaten hinzufügt, bestehende Daten verbessert oder Fehler korrigiert. Die Daten werden von einer Community von Freiwilligen überprüft und gepflegt, um sicherzustellen, dass sie korrekt und aktuell sind.</text>
+      <sha1>1opip1zrtvy5oqnfq9b4sk6ntt4tob6</sha1>
+    </revision>
+    <revision>
+      <id>639</id>
+      <parentid>638</parentid>
+      <timestamp>2024-09-07T10:28:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>639</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4808" sha1="d7t38af37co5s8l32p047qgsu1avojl" xml:space="preserve">== Ahrensburg ==
+Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner.
+
+== Geographie ==
+Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.
+
+=== Klima ===
+Das Klima in Ahrensburg ist gemäßigt. Die durchschnittliche Jahrestemperatur beträgt 8,5 °C. Der wärmste Monat ist der Juli mit durchschnittlich 17,5 °C, der kälteste Monat ist der Januar mit durchschnittlich 0,5 °C.
+
+== Stadtteile ==
+Ahrensburg besteht aus den Stadtteilen Ahrensburg, Ahrensfelde, Beimoor/Gewerbegebiet Nord, West, Gartenholz, Erlenhof-Süd und Hagen.
+
+== Wissensdatensammlung aus Ahrensburg ==
+=== Datenerhebung ===
+Die Datenerhebung in Ahrensburg kann mit Handy, Tablet oder Laptop erfolgen. Die Software:
+
+==== Datenerfassung für Self-Hosting ====
+* **OpenDataKit**: OpenDataKit (ODK) ist eine Open-Source-Suite von Tools, die es ermöglicht, mobile Daten zu erfassen, zu verwalten und zu nutzen. ODK kann auf eigenen Servern gehostet werden, um die Kontrolle über die gesammelten Daten zu behalten.
+* **QField**: QField ist eine mobile GIS-Anwendung, die nahtlos mit QGIS integriert ist. Es ermöglicht die Erfassung und Bearbeitung von Geodaten im Feld und kann Daten direkt auf eigene Server übertragen.
+* **GeoODK**: GeoODK ist eine Erweiterung von OpenDataKit, die speziell für die Erfassung von Geodaten entwickelt wurde. Es bietet zusätzliche Funktionen für die Kartenerstellung und kann auf eigenen Servern gehostet werden.
+* **Geopaparazzi**: Geopaparazzi ist ein Open-Source-Tool für die schnelle Erfassung von Geodaten im Feld. Es unterstützt die Speicherung und Übertragung von Daten auf eigene Server und ist besonders nützlich für GIS-Profis und Forscher.
+
+== Daten aus anderen Quellen ==
+=== Wikidata ===
+Wikidata ist eine freie Wissensdatenbank, die von der Wikimedia Foundation betrieben wird. Sie enthält strukturierte Daten zu einer Vielzahl von Themen und kann von jedem bearbeitet und erweitert werden. Die Daten können über die Wikidata-API abgerufen und in eigenen Projekten verwendet werden.
+
+==== Wie kann ich die Daten nutzen? ====
+Die Daten von Wikidata können über die API oder durch Herunterladen der Rohdaten abgerufen werden. Sie können in eigenen Projekten verwendet werden, um Informationen zu einem bestimmten Thema abzurufen, Daten zu visualisieren oder Analysen durchzuführen.
+
+==== Wie kann ich die Daten beitragen? ====
+Jeder kann zu Wikidata beitragen, indem er neue Daten hinzufügt, bestehende Daten verbessert oder korrekt in Wikipedia-Artikeln verlinkt. Die Daten werden von einer Community von Freiwilligen überprüft und gepflegt, um sicherzustellen, dass sie korrekt und aktuell sind.
+
+=== OpenStreetMap ===
+Die Daten, die von OpenStreetMap genutzt werden, sind unter der Lizenz ODbL 1.0 verfügbar. OpenStreetMap ist ein Projekt, das Geodaten sammelt und unter einer freien Lizenz veröffentlicht. Die Daten können für beliebige Zwecke verwendet und weiterverwendet werden, solange der Urheber genannt wird und Änderungen unter derselben Lizenz veröffentlicht werden.
+
+==== Wie kann ich die Daten nutzen? ====
+Die Daten von OpenStreetMap können über die API oder durch Herunterladen der Rohdaten abgerufen werden. Sie können in eigenen Projekten verwendet werden, um Karten zu erstellen, Routen zu planen oder Geodaten zu analysieren.
+
+==== Wie kann ich die Daten beitragen? ====
+Jeder kann zu OpenStreetMap beitragen, indem er Geodaten hinzufügt, bestehende Daten verbessert oder Fehler korrigiert. Die Daten werden von einer Community von Freiwilligen überprüft und gepflegt, um sicherzustellen, dass sie korrekt und aktuell sind.
+
+== Es gibt auch Apps ==
+* Google Maps
+* Komoot
+
+=== OpenStreetMap-Apps ===
+* **OsmAnd**: OsmAnd ist eine Open-Source-Karten- und Navigationsanwendung für Android und iOS. Sie bietet detaillierte Karten von OpenStreetMap und kann offline verwendet werden. OsmAnd enthält Funktionen wie Sprachnavigation, Routenplanung und Points of Interest.
+* **Maps.me**: Maps.me ist eine kostenlose Karten- und Navigationsanwendung für Android und iOS. Sie basiert auf OpenStreetMap-Daten und kann offline verwendet werden. Maps.me bietet Funktionen wie Sprachnavigation, Routenplanung und Points of Interest.
+* **Locus Map**: Locus Map ist eine Karten- und Navigationsanwendung für Android. Sie bietet detaillierte Karten von OpenStreetMap und kann offline verwendet werden. Locus Map enthält Funktionen wie Sprachnavigation, Routenplanung und Points of Interest.
+
+== Es gibt auch interessant Blog über Ahrensburg ==
+* [https://ahrensburg-blog.de/ Ahrensburg Blog]</text>
+      <sha1>d7t38af37co5s8l32p047qgsu1avojl</sha1>
+    </revision>
   </page>
   <page>
     <title>Geographie</title>
@@ -20138,58 +20408,6 @@ func main() {
     </revision>
   </page>
   <page>
-    <title>Ns502:Thorsten/Hallo</title>
-    <ns>0</ns>
-    <id>38</id>
-    <revision>
-      <id>227</id>
-      <timestamp>2024-08-12T10:19:21Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <comment>New blog post created.</comment>
-      <origin>227</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="116" sha1="0xwrlxfyfp4q8tr1hgjgmubc69etg8o" xml:space="preserve">&lt;!--start text--&gt;
-==Hallo==
-
-[[Kategorie:Articles by user Thorsten]]
-[[Kategorie:12. August 2024]]
-__NOEDITSECTION__</text>
-      <sha1>0xwrlxfyfp4q8tr1hgjgmubc69etg8o</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>Ns502:Thorsten/Guten Tag</title>
-    <ns>0</ns>
-    <id>39</id>
-    <revision>
-      <id>228</id>
-      <timestamp>2024-08-12T10:20:57Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>1</id>
-      </contributor>
-      <comment>New blog post created.</comment>
-      <origin>228</origin>
-      <model>wikitext</model>
-      <format>text/x-wiki</format>
-      <text bytes="154" sha1="9yerq6y5rpfxe4eadqb0g4p0hmbrbus" xml:space="preserve">&lt;!--start text--&gt;
-==Willkommen Ahrensburg Portal==
-
-
-
-kllklölök
-
-[[Kategorie:Articles by user Thorsten]]
-[[Kategorie:12. August 2024]]
-__NOEDITSECTION__</text>
-      <sha1>9yerq6y5rpfxe4eadqb0g4p0hmbrbus</sha1>
-    </revision>
-  </page>
-  <page>
     <title>Ahrensfelde</title>
     <ns>0</ns>
     <id>40</id>
@@ -21197,6 +21415,167 @@ Die Gemeinde Ahrensburg wurde 1948 zur Stadt erhoben.
 ** randompage-url|randompage
 ** helppage|help-mediawiki</text>
       <sha1>a35rujk0ck1gghpl60wybj6yv4xnwfo</sha1>
+    </revision>
+    <revision>
+      <id>600</id>
+      <parentid>279</parentid>
+      <timestamp>2024-09-06T11:09:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>600</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="252" sha1="k0vae1lokvze93tr13ol2topesy0hm1" xml:space="preserve">#p-logo, .generated-sidebar, #p-lang, #p-tb  { display:none; }
+* navigation
+** [https://ahrensburg.city/User_blog:Thorsten Blog]
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki</text>
+      <sha1>k0vae1lokvze93tr13ol2topesy0hm1</sha1>
+    </revision>
+    <revision>
+      <id>601</id>
+      <parentid>600</parentid>
+      <timestamp>2024-09-06T11:10:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>601</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="227" sha1="exckzjqymgwwdkze5fianwmh7kh4edy" xml:space="preserve">#p-logo, .generated-sidebar, #p-lang, #p-tb  { display:none; }
+* navigation
+** User_blog:Thorsten Blog]
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki</text>
+      <sha1>exckzjqymgwwdkze5fianwmh7kh4edy</sha1>
+    </revision>
+    <revision>
+      <id>602</id>
+      <parentid>601</parentid>
+      <timestamp>2024-09-06T11:11:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>602</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="226" sha1="c6qwh47g2avk0o77uckkf93b5r9rh6w" xml:space="preserve">#p-logo, .generated-sidebar, #p-lang, #p-tb  { display:none; }
+* navigation
+** User_blog:Thorsten Blog
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki</text>
+      <sha1>c6qwh47g2avk0o77uckkf93b5r9rh6w</sha1>
+    </revision>
+    <revision>
+      <id>603</id>
+      <parentid>602</parentid>
+      <timestamp>2024-09-06T11:11:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>603</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="231" sha1="2r9zewf3ikdyzfeqs2b1my4vh7n3h7v" xml:space="preserve">#p-logo, .generated-sidebar, #p-lang, #p-tb  { display:none; }
+* navigation
+** All blog posts|Thorsten Blog
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki</text>
+      <sha1>2r9zewf3ikdyzfeqs2b1my4vh7n3h7v</sha1>
+    </revision>
+    <revision>
+      <id>604</id>
+      <parentid>603</parentid>
+      <timestamp>2024-09-06T11:12:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>604</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="231" sha1="clg956xqlyvfbdhxrb0sw7ke4c0cri5" xml:space="preserve">#p-logo, .generated-sidebar, #p-lang, #p-tb  { display:none; }
+* navigation
+** September 2024|Thorsten Blog
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki</text>
+      <sha1>clg956xqlyvfbdhxrb0sw7ke4c0cri5</sha1>
+    </revision>
+    <revision>
+      <id>605</id>
+      <parentid>604</parentid>
+      <timestamp>2024-09-06T11:13:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>605</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="235" sha1="2n24tokn0r27ao6xsubfe2e2tzu9kon" xml:space="preserve">#p-logo, .generated-sidebar, #p-lang, #p-tb  { display:none; }
+* navigation
+** User_blog:Thorsten|Thorsten Blog
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki</text>
+      <sha1>2n24tokn0r27ao6xsubfe2e2tzu9kon</sha1>
+    </revision>
+    <revision>
+      <id>607</id>
+      <parentid>605</parentid>
+      <timestamp>2024-09-06T11:16:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>607</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="235" sha1="4fucuboyh7mn33js80b815cigdiyvj6" xml:space="preserve">#p-logo, .generated-sidebar, #p-lang, #p-tb  { display:none; }
+* navigation
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki
+** User_blog:Thorsten|Thorsten Blog</text>
+      <sha1>4fucuboyh7mn33js80b815cigdiyvj6</sha1>
+    </revision>
+    <revision>
+      <id>608</id>
+      <parentid>607</parentid>
+      <timestamp>2024-09-06T11:20:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>608</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="265" sha1="8kx0wz01ahp2jzc4lohbqv0av1b9faa" xml:space="preserve">#p-logo, .generated-sidebar, #p-lang, #p-tb  { display:none; }
+* navigation
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki
+** User_blog:Thorsten|Thorsten Blog
+** September 2024|Nachrichten</text>
+      <sha1>8kx0wz01ahp2jzc4lohbqv0av1b9faa</sha1>
     </revision>
   </page>
   <page>
@@ -59360,6 +59739,244 @@ In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beisp
 *</text>
       <sha1>omo6or5t4xfrvz6kc2971me9sabrnie</sha1>
     </revision>
+    <revision>
+      <id>613</id>
+      <parentid>577</parentid>
+      <timestamp>2024-09-06T19:07:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>613</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3024" sha1="o108700hy2hey1na4ljijumzx25a5lk" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - Wein Ahrens - BLOCK HOUSE Ahrensburg - Rio Grande Ahrensburg - Mendoza - Berlin Milljöh - La Casetta Ristorante Ahrensburg - Restaurant Bangkok - New Mongolei - Misaki Sushi Ahrensburg - SHIBUI | Asiatische Fusionsküche - 7Fuji Sushi &amp; Ramen - Taverne Rigani Ahrensburg - Schlemmerstübchen - New Long - Rockefeller Ahrensburg (Restaurant &amp; Sportsbar) - Tunici's Restaurant Ahrensburg - Restaurant Rauchhaus - Sapori d'Italia - Hotel Am Schloss Ahrensburg - Dailyfresh - Taj Mahal  Best Indian Food - Zum Griechen
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>o108700hy2hey1na4ljijumzx25a5lk</sha1>
+    </revision>
+    <revision>
+      <id>616</id>
+      <parentid>613</parentid>
+      <timestamp>2024-09-06T19:33:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>616</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3028" sha1="81b2v5nxtlo2ydavkl45hbeesxsfh9s" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - BLOCK HOUSE Ahrensburg - Rio Grande Ahrensburg - Mendoza - Berlin Milljöh - La Casetta Ristorante Ahrensburg - Restaurant Bangkok - New Mongolei - Misaki Sushi Ahrensburg - SHIBUI | Asiatische Fusionsküche - 7Fuji Sushi &amp; Ramen - Taverne Rigani Ahrensburg - Schlemmerstübchen - New Long - Rockefeller Ahrensburg (Restaurant &amp; Sportsbar) - Tunici's Restaurant Ahrensburg - Restaurant Rauchhaus - Sapori d'Italia - Hotel Am Schloss Ahrensburg - Dailyfresh - Taj Mahal  Best Indian Food - Zum Griechen
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>81b2v5nxtlo2ydavkl45hbeesxsfh9s</sha1>
+    </revision>
+    <revision>
+      <id>621</id>
+      <parentid>616</parentid>
+      <timestamp>2024-09-06T19:55:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>621</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3032" sha1="2sp3skoz14ud9748ssrqx4xcshr5i5g" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - Rio Grande Ahrensburg - Mendoza - Berlin Milljöh - La Casetta Ristorante Ahrensburg - Restaurant Bangkok - New Mongolei - Misaki Sushi Ahrensburg - SHIBUI | Asiatische Fusionsküche - 7Fuji Sushi &amp; Ramen - Taverne Rigani Ahrensburg - Schlemmerstübchen - New Long - Rockefeller Ahrensburg (Restaurant &amp; Sportsbar) - Tunici's Restaurant Ahrensburg - Restaurant Rauchhaus - Sapori d'Italia - Hotel Am Schloss Ahrensburg - Dailyfresh - Taj Mahal  Best Indian Food - Zum Griechen
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>2sp3skoz14ud9748ssrqx4xcshr5i5g</sha1>
+    </revision>
+    <revision>
+      <id>624</id>
+      <parentid>621</parentid>
+      <timestamp>2024-09-06T20:06:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>624</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3036" sha1="77vwz5bcdr6wr58mol4rtrns6h3y0ub" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Rio Grande Ahrensburg]] - Mendoza - Berlin Milljöh - La Casetta Ristorante Ahrensburg - Restaurant Bangkok - New Mongolei - Misaki Sushi Ahrensburg - SHIBUI | Asiatische Fusionsküche - 7Fuji Sushi &amp; Ramen - Taverne Rigani Ahrensburg - Schlemmerstübchen - New Long - Rockefeller Ahrensburg (Restaurant &amp; Sportsbar) - Tunici's Restaurant Ahrensburg - Restaurant Rauchhaus - Sapori d'Italia - Hotel Am Schloss Ahrensburg - Dailyfresh - Taj Mahal  Best Indian Food - Zum Griechen
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>77vwz5bcdr6wr58mol4rtrns6h3y0ub</sha1>
+    </revision>
+    <revision>
+      <id>625</id>
+      <parentid>624</parentid>
+      <timestamp>2024-09-06T20:10:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>625</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3012" sha1="l18uf5h49i1cpi7ywai8lu5dphbke3l" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - Berlin Milljöh - La Casetta Ristorante Ahrensburg - Restaurant Bangkok - New Mongolei - Misaki Sushi Ahrensburg - SHIBUI | Asiatische Fusionsküche - 7Fuji Sushi &amp; Ramen - Taverne Rigani Ahrensburg - Schlemmerstübchen - New Long - Rockefeller Ahrensburg (Restaurant &amp; Sportsbar) - Tunici's Restaurant Ahrensburg - Restaurant Rauchhaus - Sapori d'Italia - Hotel Am Schloss Ahrensburg - Dailyfresh - Taj Mahal  Best Indian Food - Zum Griechen
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>l18uf5h49i1cpi7ywai8lu5dphbke3l</sha1>
+    </revision>
+    <revision>
+      <id>635</id>
+      <parentid>625</parentid>
+      <timestamp>2024-09-06T23:23:13Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>635</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3016" sha1="ko489nm01yz8t025phsdeu9aa3irdva" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - La Casetta Ristorante Ahrensburg - Restaurant Bangkok - New Mongolei - Misaki Sushi Ahrensburg - SHIBUI | Asiatische Fusionsküche - 7Fuji Sushi &amp; Ramen - Taverne Rigani Ahrensburg - Schlemmerstübchen - New Long - Rockefeller Ahrensburg (Restaurant &amp; Sportsbar) - Tunici's Restaurant Ahrensburg - Restaurant Rauchhaus - Sapori d'Italia - Hotel Am Schloss Ahrensburg - Dailyfresh - Taj Mahal  Best Indian Food - Zum Griechen
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>ko489nm01yz8t025phsdeu9aa3irdva</sha1>
+    </revision>
   </page>
   <page>
     <title>Gesundheit</title>
@@ -61440,6 +62057,32 @@ Ihr Thorsten Klöhn
 __NOEDITSECTION__</text>
       <sha1>6hjw7wy0fh42df1gon43cgqr341szyz</sha1>
     </revision>
+    <revision>
+      <id>585</id>
+      <parentid>566</parentid>
+      <timestamp>2024-09-06T07:27:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>585</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1043" sha1="lnwdwbrcsv2wlx6aovyeotw1nlivlpw" xml:space="preserve">&lt;!--start text--&gt;
+Mein Serverumzug ist abgeschlossen.
+Leider hat es länger gedauert als geplant, da ich einige Probleme mit der Internetverbindung hatte. Der Vodafone-Anbieter hatte Probleme mit der Leitung. Aus diesem Grund hatte ich stundenweise keine Internet- und Telefonverbindung.
+Ich bin immer noch nicht ganz fertig.
+Ich bin umgezogen, weil der andere Server ein zu altes Ubuntu-System hatte. Der Anbieter war [https://oneprovider.com/ OneProvider]. Ich habe jetzt einen neuen Server bei [https://bero-host.de/ bero-host.de] gemietet. Der Server hat ein neues Ubuntu 24.04 LTS System. Ich habe alle Daten auf den neuen Server kopiert und die Domains bleiben gleich.
+Ich habe auch die [https://www.mediawiki.org/ MediaWiki] Software auf die neueste Version 1.42.1 aktualisiert.
+Ich musste WordPress nicht mit umziehen, da ich es nicht mehr nutze. Ich habe es auf dem alten Server gelöscht.
+
+Vielen Dank für Ihr Verständnis.
+Ihr Thorsten Klöhn
+[[Kategorie:Articles by user Thorsten]]
+[[Kategorie:5.September 2024]]
+__NOEDITSECTION__</text>
+      <sha1>lnwdwbrcsv2wlx6aovyeotw1nlivlpw</sha1>
+    </revision>
   </page>
   <page>
     <title>La Villa Rossa</title>
@@ -61531,6 +62174,881 @@ Große Straße 40
 == Weblinks==
 * [https://zeitlos-ahrensburg.de/ Offizielle Website]</text>
       <sha1>4blwf8qxk73pm3m2los5dob3tn4fmlo</sha1>
+    </revision>
+    <revision>
+      <id>580</id>
+      <parentid>579</parentid>
+      <timestamp>2024-09-06T06:53:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>580</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="385" sha1="q9042e36z0vdb9jpa0xrudjkw9rt9zn" xml:space="preserve">{{#display_map:ZEITLOS, Ahrensburg, Germany}}
+ZEITLOS AHRENSBURG ist ein Szene-Bistro und eine Cocktailbar in Ahrensburg. Hier gibt es leckere Cocktails, Longdrinks und Snacks. Das ZEITLOS AHRENSBURG ist ein beliebter Treffpunkt für Jung und Alt.
+
+== Adresse ==
+ZEITLOS AHRENSBURG
+Große Straße 40
+22926 Ahrensburg
+
+== Weblinks==
+* [https://zeitlos-ahrensburg.de/ Offizielle Website]</text>
+      <sha1>q9042e36z0vdb9jpa0xrudjkw9rt9zn</sha1>
+    </revision>
+    <revision>
+      <id>581</id>
+      <parentid>580</parentid>
+      <timestamp>2024-09-06T06:54:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Adresse */</comment>
+      <origin>581</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="391" sha1="m4t8qd99lp1zi2ovifvcadpf176szbk" xml:space="preserve">{{#display_map:ZEITLOS, Ahrensburg, Germany}}
+ZEITLOS AHRENSBURG ist ein Szene-Bistro und eine Cocktailbar in Ahrensburg. Hier gibt es leckere Cocktails, Longdrinks und Snacks. Das ZEITLOS AHRENSBURG ist ein beliebter Treffpunkt für Jung und Alt.
+
+== Adresse ==
+* ZEITLOS AHRENSBURG
+* Große Straße 40
+* 22926 Ahrensburg
+
+== Weblinks==
+* [https://zeitlos-ahrensburg.de/ Offizielle Website]</text>
+      <sha1>m4t8qd99lp1zi2ovifvcadpf176szbk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User blog:Thorsten</title>
+    <ns>502</ns>
+    <id>127</id>
+    <revision>
+      <id>582</id>
+      <timestamp>2024-09-06T07:07:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „jjj“</comment>
+      <origin>582</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3" sha1="neao1rvc861ogrnpd9d43j68mfzmdfn" xml:space="preserve">jjj</text>
+      <sha1>neao1rvc861ogrnpd9d43j68mfzmdfn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User blog:Thorsten/Mobil Ansicht</title>
+    <ns>502</ns>
+    <id>128</id>
+    <revision>
+      <id>583</id>
+      <timestamp>2024-09-06T07:18:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>New blog post created.</comment>
+      <origin>583</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="112" sha1="c6zp3oev1hvjctkvkspcq9a110o1e21" xml:space="preserve">&lt;!--start text--&gt;
+hhh
+
+[[Kategorie:Articles by user Thorsten]]
+[[Kategorie:6. September 2024]]
+__NOEDITSECTION__</text>
+      <sha1>c6zp3oev1hvjctkvkspcq9a110o1e21</sha1>
+    </revision>
+    <revision>
+      <id>584</id>
+      <parentid>583</parentid>
+      <timestamp>2024-09-06T07:25:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>584</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="483" sha1="llnbkpexizp7mnner29gfoyfdxnfpk8" xml:space="preserve">&lt;!--start text--&gt;
+== Mobil Ansicht ==
+== Mobile Ansicht ==
+Ich habe auf MediaWiki eine Extension installiert, die es ermöglicht, die Ansicht der Seite auf Mobilgeräten zu optimieren. Die Extension heißt "MobileFrontend". Jetzt können die Benutzer die Seite auf ihrem Smartphone oder Tablet besser lesen.
+Der Blog ist heute sehr kurz, und ich hoffe, dass ich in Zukunft mehr schreiben kann.
+[[Kategorie:Articles by user Thorsten]]
+[[Kategorie:6. September 2024]]
+__NOEDITSECTION__</text>
+      <sha1>llnbkpexizp7mnner29gfoyfdxnfpk8</sha1>
+    </revision>
+    <revision>
+      <id>586</id>
+      <parentid>584</parentid>
+      <timestamp>2024-09-06T07:47:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>586</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="463" sha1="r31czwuit99s07sxfjtplp92drkw36i" xml:space="preserve">&lt;!--start text--&gt;
+== Mobile Ansicht ==
+Ich habe auf MediaWiki eine Extension installiert, die es ermöglicht, die Ansicht der Seite auf Mobilgeräten zu optimieren. Die Extension heißt "MobileFrontend". Jetzt können die Benutzer die Seite auf ihrem Smartphone oder Tablet besser lesen.
+Der Blog ist heute sehr kurz, und ich hoffe, dass ich in Zukunft mehr schreiben kann.
+[[Kategorie:Articles by user Thorsten]]
+[[Kategorie:6. September 2024]]
+__NOEDITSECTION__</text>
+      <sha1>r31czwuit99s07sxfjtplp92drkw36i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>September 2024</title>
+    <ns>0</ns>
+    <id>129</id>
+    <revision>
+      <id>588</id>
+      <timestamp>2024-09-06T10:28:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>588</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="127" sha1="4v2e5tdykdxvapjagvpgyi8yg501jih" xml:space="preserve">== September 2024 ==
+===6 September===
+* [[6 September 2024 xSuite und Flexso werden Partner|xSuite und Flexso werden Partner]]</text>
+      <sha1>4v2e5tdykdxvapjagvpgyi8yg501jih</sha1>
+    </revision>
+    <revision>
+      <id>610</id>
+      <parentid>588</parentid>
+      <timestamp>2024-09-06T17:22:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>610</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="214" sha1="pq7igw2xdtqdvpw3dkv464b6nr96nex" xml:space="preserve">== September 2024 ==
+===6 September===
+* [[6 September 2024 xSuite und Flexso werden Partner|xSuite und Flexso werden Partner]]
+* [[6 September 2024 Theater und Musik in Ahrensburg|Theater und Musik in Ahrensburg]]</text>
+      <sha1>pq7igw2xdtqdvpw3dkv464b6nr96nex</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>6 September 2024 xSuite und Flexso werden Partner</title>
+    <ns>0</ns>
+    <id>130</id>
+    <revision>
+      <id>589</id>
+      <timestamp>2024-09-06T10:31:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>589</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="578" sha1="7z936rc7yiwrmpz1wffyt6i7368xlda" xml:space="preserve">==xSuite und Flexso werden Partner==
+Die [[xSuite Group]] und [[Flexso]], ein SAP-Beratungsunternehmen, haben eine Partnerschaft geschlossen. Gemeinsam wollen sie Unternehmen bei der Digitalisierung ihrer Prozesse unterstützen. Die xSuite Group bietet Lösungen für den digitalen Rechnungseingang und -ausgang sowie für das Vertragsmanagement. Flexso ist auf SAP-Lösungen spezialisiert und bietet Beratungsdienstleistungen für Unternehmen an. Durch die Partnerschaft wollen die beiden Unternehmen ihre Kompetenzen bündeln und ihren Kunden ganzheitliche Lösungen anbieten.</text>
+      <sha1>7z936rc7yiwrmpz1wffyt6i7368xlda</sha1>
+    </revision>
+    <revision>
+      <id>590</id>
+      <parentid>589</parentid>
+      <timestamp>2024-09-06T10:34:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>590</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="610" sha1="qjvz8qkq5z646x22opz8b1ngz83vyuo" xml:space="preserve">==xSuite und Flexso werden Partner==
+Die [[xSuite Group]] und [[Flexso]], ein SAP-Beratungsunternehmen, haben eine Partnerschaft geschlossen. Gemeinsam wollen sie Unternehmen bei der Digitalisierung ihrer Prozesse unterstützen. Die xSuite Group bietet Lösungen für den digitalen Rechnungseingang und -ausgang sowie für das Vertragsmanagement. Flexso ist auf SAP-Lösungen spezialisiert und bietet Beratungsdienstleistungen für Unternehmen an. Durch die Partnerschaft wollen die beiden Unternehmen ihre Kompetenzen bündeln und ihren Kunden ganzheitliche Lösungen anbieten.
+[[Kategorie:6. September 2024]]</text>
+      <sha1>qjvz8qkq5z646x22opz8b1ngz83vyuo</sha1>
+    </revision>
+    <revision>
+      <id>598</id>
+      <parentid>590</parentid>
+      <timestamp>2024-09-06T10:47:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* xSuite und Flexso werden Partner */</comment>
+      <origin>598</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="606" sha1="ovf3zvpni63eqp9il0axz5436fki9rk" xml:space="preserve">==xSuite und Flexso werden Partner==
+Die [[xSuite Group]] und Flexso, ein SAP-Beratungsunternehmen, haben eine Partnerschaft geschlossen. Gemeinsam wollen sie Unternehmen bei der Digitalisierung ihrer Prozesse unterstützen. Die xSuite Group bietet Lösungen für den digitalen Rechnungseingang und -ausgang sowie für das Vertragsmanagement. Flexso ist auf SAP-Lösungen spezialisiert und bietet Beratungsdienstleistungen für Unternehmen an. Durch die Partnerschaft wollen die beiden Unternehmen ihre Kompetenzen bündeln und ihren Kunden ganzheitliche Lösungen anbieten.
+[[Kategorie:6. September 2024]]</text>
+      <sha1>ovf3zvpni63eqp9il0axz5436fki9rk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>XSuite Group</title>
+    <ns>0</ns>
+    <id>131</id>
+    <revision>
+      <id>591</id>
+      <timestamp>2024-09-06T10:38:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>591</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="599" sha1="t5dwufuqumewmnta9tw1vq07fpq0bio" xml:space="preserve">XSuite Group in Ahrensburg ist ein Softwareunternehmen, das sich auf die Entwicklung von Software für die Automatisierung von Geschäftsprozessen spezialisiert hat. Das Unternehmen wurde 1994 gegründet und hat sich seitdem zu einem der führenden Anbieter von Software für die Automatisierung von Geschäftsprozessen entwickelt. XSuite Group bietet Softwarelösungen für die Bereiche E-Invoicing, Procurement und Order Management an und unterstützt Unternehmen dabei, ihre Geschäftsprozesse zu optimieren und effizienter zu gestalten.
+==Weblinks==
+*[https://www.xsuite.com/ Offizielle Website]</text>
+      <sha1>t5dwufuqumewmnta9tw1vq07fpq0bio</sha1>
+    </revision>
+    <revision>
+      <id>592</id>
+      <parentid>591</parentid>
+      <timestamp>2024-09-06T10:39:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>592</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="593" sha1="kdim0fbknsb9tuaab8sybe1mqhdwqah" xml:space="preserve">XSuite Group in  ist ein Softwareunternehmen, das sich auf die Entwicklung von Software für die Automatisierung von Geschäftsprozessen spezialisiert hat. Das Unternehmen wurde 1994 gegründet und hat sich seitdem zu einem der führenden Anbieter von Software für die Automatisierung von Geschäftsprozessen entwickelt. XSuite Group bietet Softwarelösungen für die Bereiche E-Invoicing, Procurement und Order Management an und unterstützt Unternehmen dabei, ihre Geschäftsprozesse zu optimieren und effizienter zu gestalten.
+
+== Weblinks ==
+* [https://www.xsuite.com/ Offizielle Website]</text>
+      <sha1>kdim0fbknsb9tuaab8sybe1mqhdwqah</sha1>
+    </revision>
+    <revision>
+      <id>593</id>
+      <parentid>592</parentid>
+      <timestamp>2024-09-06T10:43:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>593</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="640" sha1="mohz2tcd7s555wzwi9f4kc5o9asabui" xml:space="preserve">{{#display_map:XSuite Group, Ahrensburg, Germany}}
+XSuite Group ist ein Softwareunternehmen, das sich auf die Entwicklung von Software für die Automatisierung von Geschäftsprozessen spezialisiert hat. Das Unternehmen wurde 1994 gegründet und hat sich seitdem zu einem der führenden Anbieter von Software für die Automatisierung von Geschäftsprozessen entwickelt. XSuite Group bietet Softwarelösungen für die Bereiche E-Invoicing, Procurement und Order Management an und unterstützt Unternehmen dabei, ihre Geschäftsprozesse zu optimieren und effizienter zu gestalten.
+
+== Weblinks ==
+* [https://www.xsuite.com/ Offizielle Website]</text>
+      <sha1>mohz2tcd7s555wzwi9f4kc5o9asabui</sha1>
+    </revision>
+    <revision>
+      <id>594</id>
+      <parentid>593</parentid>
+      <timestamp>2024-09-06T10:43:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>594</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="634" sha1="p8pppxe9lshtqhuel0xq8yfqte36ytk" xml:space="preserve">{{#display_map:XSuite, Ahrensburg, Germany}}
+XSuite Group ist ein Softwareunternehmen, das sich auf die Entwicklung von Software für die Automatisierung von Geschäftsprozessen spezialisiert hat. Das Unternehmen wurde 1994 gegründet und hat sich seitdem zu einem der führenden Anbieter von Software für die Automatisierung von Geschäftsprozessen entwickelt. XSuite Group bietet Softwarelösungen für die Bereiche E-Invoicing, Procurement und Order Management an und unterstützt Unternehmen dabei, ihre Geschäftsprozesse zu optimieren und effizienter zu gestalten.
+
+== Weblinks ==
+* [https://www.xsuite.com/ Offizielle Website]</text>
+      <sha1>p8pppxe9lshtqhuel0xq8yfqte36ytk</sha1>
+    </revision>
+    <revision>
+      <id>595</id>
+      <parentid>594</parentid>
+      <timestamp>2024-09-06T10:43:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>595</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="634" sha1="l6jwwi26z3keum51q5209say5v2ahvt" xml:space="preserve">{{#display_map:Xsuite, Ahrensburg, Germany}}
+XSuite Group ist ein Softwareunternehmen, das sich auf die Entwicklung von Software für die Automatisierung von Geschäftsprozessen spezialisiert hat. Das Unternehmen wurde 1994 gegründet und hat sich seitdem zu einem der führenden Anbieter von Software für die Automatisierung von Geschäftsprozessen entwickelt. XSuite Group bietet Softwarelösungen für die Bereiche E-Invoicing, Procurement und Order Management an und unterstützt Unternehmen dabei, ihre Geschäftsprozesse zu optimieren und effizienter zu gestalten.
+
+== Weblinks ==
+* [https://www.xsuite.com/ Offizielle Website]</text>
+      <sha1>l6jwwi26z3keum51q5209say5v2ahvt</sha1>
+    </revision>
+    <revision>
+      <id>596</id>
+      <parentid>595</parentid>
+      <timestamp>2024-09-06T10:44:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>596</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="634" sha1="j46bbwu4thjq4t9hk0zg3kwuhh0100f" xml:space="preserve">{{#display_map:xSuite, Ahrensburg, Germany}}
+XSuite Group ist ein Softwareunternehmen, das sich auf die Entwicklung von Software für die Automatisierung von Geschäftsprozessen spezialisiert hat. Das Unternehmen wurde 1994 gegründet und hat sich seitdem zu einem der führenden Anbieter von Software für die Automatisierung von Geschäftsprozessen entwickelt. XSuite Group bietet Softwarelösungen für die Bereiche E-Invoicing, Procurement und Order Management an und unterstützt Unternehmen dabei, ihre Geschäftsprozesse zu optimieren und effizienter zu gestalten.
+
+== Weblinks ==
+* [https://www.xsuite.com/ Offizielle Website]</text>
+      <sha1>j46bbwu4thjq4t9hk0zg3kwuhh0100f</sha1>
+    </revision>
+    <revision>
+      <id>597</id>
+      <parentid>596</parentid>
+      <timestamp>2024-09-06T10:45:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>597</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="646" sha1="5mq46ohmj0imzcs3mbuy15k2pt41vrb" xml:space="preserve">{{#display_map: Hamburger Str. 12, Ahrensburg, Germany}}
+XSuite Group ist ein Softwareunternehmen, das sich auf die Entwicklung von Software für die Automatisierung von Geschäftsprozessen spezialisiert hat. Das Unternehmen wurde 1994 gegründet und hat sich seitdem zu einem der führenden Anbieter von Software für die Automatisierung von Geschäftsprozessen entwickelt. XSuite Group bietet Softwarelösungen für die Bereiche E-Invoicing, Procurement und Order Management an und unterstützt Unternehmen dabei, ihre Geschäftsprozesse zu optimieren und effizienter zu gestalten.
+
+== Weblinks ==
+* [https://www.xsuite.com/ Offizielle Website]</text>
+      <sha1>5mq46ohmj0imzcs3mbuy15k2pt41vrb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:6. September 2024</title>
+    <ns>14</ns>
+    <id>132</id>
+    <revision>
+      <id>599</id>
+      <timestamp>2024-09-06T10:49:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>599</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="h2814sa7u6gq7h2qqtscpbcxfh4c3gt" xml:space="preserve">6 September 2024 Aktuelle Ereignisse</text>
+      <sha1>h2814sa7u6gq7h2qqtscpbcxfh4c3gt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>6 September 2024 Theater und Musik in Ahrensburg</title>
+    <ns>0</ns>
+    <id>133</id>
+    <revision>
+      <id>611</id>
+      <timestamp>2024-09-06T17:33:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>611</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="696" sha1="1ulvs0drz7ygkjeghu0vw8yg7ubaudc" xml:space="preserve">Bargteheideaktuell.de hat wunderbare Artikel über das Theater und die Musik in Ahrensburg veröffentlicht. Ich finde es großartig, dass es in Ahrensburg so viele Möglichkeiten gibt, sich kulturell zu betätigen. Das Theater in Ahrensburg ist ein schöner Ort, um sich mit Freunden zu treffen und gemeinsam einen angenehmen Abend zu verbringen. Der Artikel auf Bargteheideaktuell.de hat mich dazu inspiriert, auch mal wieder ins Theater zu gehen. Der Verein Theater und Musik in Ahrensburg e.V. ist eine großartige Einrichtung, die ich gerne unterstützen möchte.
+==Weblinks==
+* [https://www.bargteheideaktuell.de/2024/09/06/theater-und-musik-in-ahrensburg/ Artikel auf Bargteheideaktuell.de]</text>
+      <sha1>1ulvs0drz7ygkjeghu0vw8yg7ubaudc</sha1>
+    </revision>
+    <revision>
+      <id>612</id>
+      <parentid>611</parentid>
+      <timestamp>2024-09-06T17:35:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>612</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="728" sha1="qszjdf45zvemwls0623myjjhkbdgxz2" xml:space="preserve">Bargteheideaktuell.de hat wunderbare Artikel über das Theater und die Musik in Ahrensburg veröffentlicht. Ich finde es großartig, dass es in Ahrensburg so viele Möglichkeiten gibt, sich kulturell zu betätigen. Das Theater in Ahrensburg ist ein schöner Ort, um sich mit Freunden zu treffen und gemeinsam einen angenehmen Abend zu verbringen. Der Artikel auf Bargteheideaktuell.de hat mich dazu inspiriert, auch mal wieder ins Theater zu gehen. Der Verein Theater und Musik in Ahrensburg e.V. ist eine großartige Einrichtung, die ich gerne unterstützen möchte.
+==Weblinks==
+* [https://www.bargteheideaktuell.de/2024/09/06/theater-und-musik-in-ahrensburg/ Artikel auf Bargteheideaktuell.de]
+[[Kategorie:6. September 2024]]</text>
+      <sha1>qszjdf45zvemwls0623myjjhkbdgxz2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>RamRob</title>
+    <ns>0</ns>
+    <id>134</id>
+    <revision>
+      <id>614</id>
+      <timestamp>2024-09-06T19:28:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>614</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="408" sha1="tq3owkr8ulgl4ifwwdnpujwaimq12i6" xml:space="preserve">RamRob ist eine Szenekneipe in Ahrensburg. Die Bar ist bekannt für ihre gute Musik und die entspannte Atmosphäre. Sie ist ein beliebter Treffpunkt für junge Leute. Die Bar bietet eine große Auswahl an Getränken und Snacks und ist auch für ihre leckeren Cocktails bekannt.
+==Adresse==
+* RamRob
+* Hagener Allee 23 
+* 22926 Ahrensburg
+
+==Weblinks==
+* [https://www.ramrob-ahrensburg.de/ Offizielle Website]</text>
+      <sha1>tq3owkr8ulgl4ifwwdnpujwaimq12i6</sha1>
+    </revision>
+    <revision>
+      <id>615</id>
+      <parentid>614</parentid>
+      <timestamp>2024-09-06T19:29:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>615</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="454" sha1="s13qvn6vwebuhxj3aqe7rfzkk4h3b50" xml:space="preserve">{{#display_map:RamRob, Ahrensburg, Germany}}
+
+RamRob ist eine Szenekneipe in Ahrensburg. Die Bar ist bekannt für ihre gute Musik und die entspannte Atmosphäre. Sie ist ein beliebter Treffpunkt für junge Leute. Die Bar bietet eine große Auswahl an Getränken und Snacks und ist auch für ihre leckeren Cocktails bekannt.
+==Adresse==
+* RamRob
+* Hagener Allee 23 
+* 22926 Ahrensburg
+
+==Weblinks==
+* [https://www.ramrob-ahrensburg.de/ Offizielle Website]</text>
+      <sha1>s13qvn6vwebuhxj3aqe7rfzkk4h3b50</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wein Ahrens</title>
+    <ns>0</ns>
+    <id>135</id>
+    <revision>
+      <id>617</id>
+      <timestamp>2024-09-06T19:44:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>617</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="331" sha1="pm6i2ig0brs9o61djr3ozp8bxjyapt6" xml:space="preserve">Wein Ahrens in Ahrensburg ist ein Restaurant, das eine vielfältige Auswahl an Speisen und Weinen aus aller Welt anbietet. Genießen Sie köstliche Pasta oder herzhafte Käseplatten in einer gemütlichen Atmosphäre, die zum Verweilen einlädt.
+
+== Lieferservice ==
+Ihr Lieblingswein wird auch bequem zu Ihnen nach Hause geliefert.</text>
+      <sha1>pm6i2ig0brs9o61djr3ozp8bxjyapt6</sha1>
+    </revision>
+    <revision>
+      <id>618</id>
+      <parentid>617</parentid>
+      <timestamp>2024-09-06T19:47:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>618</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="400" sha1="nogtkwbhttbi8eu2kzzs9mwkt8cgtpv" xml:space="preserve">Wein Ahrens in Ahrensburg ist ein Restaurant, das eine vielfältige Auswahl an Speisen und Weinen aus aller Welt anbietet. Genießen Sie köstliche Pasta oder herzhafte Käseplatten in einer gemütlichen Atmosphäre, die zum Verweilen einlädt.
+
+== Lieferservice ==
+Ihr Lieblingswein wird auch bequem zu Ihnen nach Hause geliefert.
+
+== Adresse ==
+* Wein Ahrens
+* Manhagener Allee 8
+* 22926 Ahrensburg</text>
+      <sha1>nogtkwbhttbi8eu2kzzs9mwkt8cgtpv</sha1>
+    </revision>
+    <revision>
+      <id>619</id>
+      <parentid>618</parentid>
+      <timestamp>2024-09-06T19:48:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>619</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="461" sha1="r9gmftpjgxlthvon992fqtu3yygoqvn" xml:space="preserve">Wein Ahrens in Ahrensburg ist ein Restaurant, das eine vielfältige Auswahl an Speisen und Weinen aus aller Welt anbietet. Genießen Sie köstliche Pasta oder herzhafte Käseplatten in einer gemütlichen Atmosphäre, die zum Verweilen einlädt.
+
+== Lieferservice ==
+Ihr Lieblingswein wird auch bequem zu Ihnen nach Hause geliefert.
+
+== Adresse ==
+* Wein Ahrens
+* Manhagener Allee 8
+* 22926 Ahrensburg
+
+==Weblinks==
+* [https://wein-ahrens.de/ Offizielle Website]</text>
+      <sha1>r9gmftpjgxlthvon992fqtu3yygoqvn</sha1>
+    </revision>
+    <revision>
+      <id>620</id>
+      <parentid>619</parentid>
+      <timestamp>2024-09-06T19:53:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>620</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="511" sha1="jzecu80t7jeb3wjqkqbww81t7iee44z" xml:space="preserve">{{#display_map:Wein Ahrens, Ahrensburg, Germany}}
+Wein Ahrens in Ahrensburg ist ein Restaurant, das eine vielfältige Auswahl an Speisen und Weinen aus aller Welt anbietet. Genießen Sie köstliche Pasta oder herzhafte Käseplatten in einer gemütlichen Atmosphäre, die zum Verweilen einlädt.
+
+== Lieferservice ==
+Ihr Lieblingswein wird auch bequem zu Ihnen nach Hause geliefert.
+
+== Adresse ==
+* Wein Ahrens
+* Manhagener Allee 8
+* 22926 Ahrensburg
+
+==Weblinks==
+* [https://wein-ahrens.de/ Offizielle Website]</text>
+      <sha1>jzecu80t7jeb3wjqkqbww81t7iee44z</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>BLOCK HOUSE Ahrensburg</title>
+    <ns>0</ns>
+    <id>136</id>
+    <revision>
+      <id>622</id>
+      <timestamp>2024-09-06T20:03:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>622</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="504" sha1="tmcrdj0qlp6vnglm1tmsvmmtej0hdst" xml:space="preserve">BLOCK HOUSE Ahrensburg ist ein Restaurant. Es ist Teil der Block House Restaurantbetriebe AG. Das Restaurant bietet Steaks und Burger an. Es gibt auch eine Terrasse, auf der die Gäste im Sommer sitzen können. Das Restaurant befindet sich in der Großen Straße 13 in Ahrensburg. Es ist von Montag bis Sonntag geöffnet.
+
+==Adresse==
+* BLOCK HOUSE Ahrensburg
+* Große Straße 13
+* 22926 Ahrensburg
+==Weblinks==
+* [https://www.block-house.de/restaurants/ahrensburg/grosse-strasse/ BLOCK HOUSE Ahrensburg]</text>
+      <sha1>tmcrdj0qlp6vnglm1tmsvmmtej0hdst</sha1>
+    </revision>
+    <revision>
+      <id>623</id>
+      <parentid>622</parentid>
+      <timestamp>2024-09-06T20:04:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>623</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="555" sha1="mm3sd2ptoaxulopp2ie2rvwjsei8hxc" xml:space="preserve">{{#display_map:BLOCK HOUSE, Ahrensburg, Germany}}
+
+BLOCK HOUSE Ahrensburg ist ein Restaurant. Es ist Teil der Block House Restaurantbetriebe AG. Das Restaurant bietet Steaks und Burger an. Es gibt auch eine Terrasse, auf der die Gäste im Sommer sitzen können. Das Restaurant befindet sich in der Großen Straße 13 in Ahrensburg. Es ist von Montag bis Sonntag geöffnet.
+
+==Adresse==
+* BLOCK HOUSE Ahrensburg
+* Große Straße 13
+* 22926 Ahrensburg
+==Weblinks==
+* [https://www.block-house.de/restaurants/ahrensburg/grosse-strasse/ BLOCK HOUSE Ahrensburg]</text>
+      <sha1>mm3sd2ptoaxulopp2ie2rvwjsei8hxc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Mendoza</title>
+    <ns>0</ns>
+    <id>137</id>
+    <revision>
+      <id>626</id>
+      <timestamp>2024-09-06T20:19:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>626</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="551" sha1="5440c6peusrfj8wx9xgqvt727psnj4g" xml:space="preserve">Mendoza ist ein Steak-Restaurant. Es ist ein sehr beliebtes Restaurant in der Stadt, bekannt für seine Steaks und seine gute Atmosphäre. Es ist ein großartiger Ort, um mit Freunden und Familie zu essen.
+
+Sie bekommen eine große Auswahl an Steaks. Es gibt viele verschiedene Arten von Steaks, die Sie wählen können. Sie haben auch eine große Auswahl an Beilagen und Getränken. Es gibt für jeden etwas im Mendoza.
+
+== Adresse ==
+* Mendoza
+* Neue Straße 9
+* 22926 Ahrensburg
+
+== Weblinks ==
+* [https://mendoza-ahrensburg.de/ Offizielle Website]</text>
+      <sha1>5440c6peusrfj8wx9xgqvt727psnj4g</sha1>
+    </revision>
+    <revision>
+      <id>627</id>
+      <parentid>626</parentid>
+      <timestamp>2024-09-06T20:20:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>627</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="598" sha1="8z008oxhngscj2dqb0swch4pjf5eeoq" xml:space="preserve">{{#display_map:Mendoza , Ahrensburg, Germany}}
+Mendoza ist ein Steak-Restaurant. Es ist ein sehr beliebtes Restaurant in der Stadt, bekannt für seine Steaks und seine gute Atmosphäre. Es ist ein großartiger Ort, um mit Freunden und Familie zu essen.
+
+Sie bekommen eine große Auswahl an Steaks. Es gibt viele verschiedene Arten von Steaks, die Sie wählen können. Sie haben auch eine große Auswahl an Beilagen und Getränken. Es gibt für jeden etwas im Mendoza.
+
+== Adresse ==
+* Mendoza
+* Neue Straße 9
+* 22926 Ahrensburg
+
+== Weblinks ==
+* [https://mendoza-ahrensburg.de/ Offizielle Website]</text>
+      <sha1>8z008oxhngscj2dqb0swch4pjf5eeoq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User blog:Thorsten/WordPress nicht mehr nutzen</title>
+    <ns>502</ns>
+    <id>139</id>
+    <revision>
+      <id>629</id>
+      <timestamp>2024-09-06T22:04:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>629</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4392" sha1="e6sf06q2cnz3bdol2k630ehibdmeuuq" xml:space="preserve">Ich habe mich entschieden, WordPress nicht mehr zu nutzen, weil ich nicht zwei Datenbanksysteme, Postgres und MySQL, betreiben möchte. Ich werde in Zukunft nur noch mit Postgres arbeiten. Leider gibt es keine Möglichkeit, WordPress mit Postgres zu betreiben. Die MediaWiki-Software ist eine gute Alternative zu WordPress und kann mit Postgres betrieben werden.
+
+Mit MediaWiki kann ich auch auf Umwegen ein Blog betreiben. Ich möchte keine Subdomain für das Blog einrichten. Meine Website soll nur eine Domain haben, keine Subdomain. So können Suchmaschinen die Seite besser finden.
+
+Ich habe mich für MediaWiki entschieden, weil ich die Software bereits kenne und sie mit Postgres betrieben werden kann. Für Nutzer von MediaWiki ist es auch einfacher zu lesen. Leider können Nutzer keine Artikel schreiben, weil ich keine Benutzerregistrierung anbiete. Ich möchte nicht, dass sich Benutzer registrieren, um Artikel zu schreiben. Ich möchte nur meine Artikel veröffentlichen. Ich kann Nutzerartikel nicht kontrollieren und keine Kopien von anderen Seiten verhindern. Außerdem speichert MediaWiki keine Nutzerdaten.
+
+Ich versuche später, mit Django als Formularsystem die Möglichkeit zu schaffen, dass Nutzer Vorschläge für Artikel machen können. Ich werde die Vorschläge prüfen und dann entscheiden, ob ich sie veröffentliche. Ich möchte nicht, dass Nutzer direkt Artikel schreiben können. Ich möchte die Qualität der Artikel sicherstellen.
+
+== Warum ich Drupal, Joomla und Typo3 nicht nutze ==
+Ich habe mich gegen Drupal, Joomla und Typo3 entschieden, weil ich diese Software nicht kenne. Ich habe keine Erfahrung mit diesen Systemen und möchte mich nicht in neue Software einarbeiten. Ich möchte nur mit Software arbeiten, die ich bereits kenne. Ich habe mich für MediaWiki entschieden, weil ich die Software bereits kenne und sie mit Postgres betrieben werden kann.
+
+== MediaWiki kann besser strukturiert werden ==
+Mit MediaWiki kann ich meine Artikel besser strukturieren. Ich kann Kategorien und Unterkategorien anlegen und so meine Artikel besser ordnen. Ich kann auch Vorlagen verwenden, um Artikel zu erstellen. Mit Vorlagen kann ich Artikel schneller erstellen und sie besser strukturieren. Ich kann auch Bilder und Videos in meine Artikel einbinden. So kann ich meine Artikel besser illustrieren und den Lesern mehr Informationen bieten.
+
+== Wenn die Seite kompliziert wird ==
+Mit Django kann ich komplizierte Seiten erstellen. Django ist ein Webframework, mit dem ich dynamische Webseiten erstellen kann. Ich kann mit Django Formulare erstellen und so die Interaktion mit den Nutzern verbessern. Ich kann auch Datenbanken anbinden und so komplexe Anwendungen erstellen. Mit Django kann ich auch Benutzerregistrierung und Login-Funktionen implementieren. So kann ich Nutzern erlauben, Artikel zu schreiben und zu bearbeiten. Ich kann auch Kommentarfunktionen implementieren und so die Interaktion mit den Nutzern verbessern.
+
+== Fazit ==
+Ich habe viel Arbeit vor mir. Ich möchte keine normale Website haben. Ich möchte eine Website haben, die ich selbst gestalten kann. Ich möchte meine Artikel strukturieren und so meinen Lesern mehr Informationen bieten. Ich möchte auch die Interaktion mit meinen Lesern verbessern und ihnen die Möglichkeit geben, Vorschläge für Artikel zu machen. Ich möchte auch die Qualität meiner Artikel sicherstellen und verhindern, dass sie kopiert werden. Ich möchte auch die Möglichkeit haben, Kommentare zu meinen Artikeln zu erhalten und so die Interaktion mit meinen Lesern zu verbessern. Ich möchte auch die Möglichkeit haben, Nutzerregistrierung und Login-Funktionen zu implementieren und so die Interaktion mit meinen Lesern zu verbessern. Ich möchte auch die Möglichkeit haben, Formulare zu erstellen und so die Interaktion mit meinen Lesern zu verbessern. Ich möchte auch die Möglichkeit haben, Datenbanken anzubinden und so komplexe Anwendungen zu erstellen. Ich möchte auch die Möglichkeit haben, dynamische Webseiten zu erstellen und so die Interaktion mit meinen Lesern zu verbessern. 
+
+== Alternative ==
+Eine Alternative wäre ein Headless CMS mit MediaWiki und Django als Backend und Next.js als Frontend.
+
+Oder eine reine Postgres-Wissensdatenbank zu extrahieren und jede Software als Frontend zu nutzen.
+[[Kategorie:Articles by user Thorsten]][[Kategorie:6. September 2024]]
+__NOEDITSECTION__</text>
+      <sha1>e6sf06q2cnz3bdol2k630ehibdmeuuq</sha1>
+    </revision>
+    <revision>
+      <id>630</id>
+      <parentid>629</parentid>
+      <timestamp>2024-09-06T22:07:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>630</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4446" sha1="aix0ocvs9omzudwrslwjfjh9idjzxa1" xml:space="preserve">==Warum ich Wordpress zu MediaWiki wechseln möchte==
+Ich habe mich entschieden, WordPress nicht mehr zu nutzen, weil ich nicht zwei Datenbanksysteme, Postgres und MySQL, betreiben möchte. Ich werde in Zukunft nur noch mit Postgres arbeiten. Leider gibt es keine Möglichkeit, WordPress mit Postgres zu betreiben. Die MediaWiki-Software ist eine gute Alternative zu WordPress und kann mit Postgres betrieben werden.
+
+Mit MediaWiki kann ich auch auf Umwegen ein Blog betreiben. Ich möchte keine Subdomain für das Blog einrichten. Meine Website soll nur eine Domain haben, keine Subdomain. So können Suchmaschinen die Seite besser finden.
+
+Ich habe mich für MediaWiki entschieden, weil ich die Software bereits kenne und sie mit Postgres betrieben werden kann. Für Nutzer von MediaWiki ist es auch einfacher zu lesen. Leider können Nutzer keine Artikel schreiben, weil ich keine Benutzerregistrierung anbiete. Ich möchte nicht, dass sich Benutzer registrieren, um Artikel zu schreiben. Ich möchte nur meine Artikel veröffentlichen. Ich kann Nutzerartikel nicht kontrollieren und keine Kopien von anderen Seiten verhindern. Außerdem speichert MediaWiki keine Nutzerdaten.
+
+Ich versuche später, mit Django als Formularsystem die Möglichkeit zu schaffen, dass Nutzer Vorschläge für Artikel machen können. Ich werde die Vorschläge prüfen und dann entscheiden, ob ich sie veröffentliche. Ich möchte nicht, dass Nutzer direkt Artikel schreiben können. Ich möchte die Qualität der Artikel sicherstellen.
+
+== Warum ich Drupal, Joomla und Typo3 nicht nutze ==
+Ich habe mich gegen Drupal, Joomla und Typo3 entschieden, weil ich diese Software nicht kenne. Ich habe keine Erfahrung mit diesen Systemen und möchte mich nicht in neue Software einarbeiten. Ich möchte nur mit Software arbeiten, die ich bereits kenne. Ich habe mich für MediaWiki entschieden, weil ich die Software bereits kenne und sie mit Postgres betrieben werden kann.
+
+== MediaWiki kann besser strukturiert werden ==
+Mit MediaWiki kann ich meine Artikel besser strukturieren. Ich kann Kategorien und Unterkategorien anlegen und so meine Artikel besser ordnen. Ich kann auch Vorlagen verwenden, um Artikel zu erstellen. Mit Vorlagen kann ich Artikel schneller erstellen und sie besser strukturieren. Ich kann auch Bilder und Videos in meine Artikel einbinden. So kann ich meine Artikel besser illustrieren und den Lesern mehr Informationen bieten.
+
+== Wenn die Seite kompliziert wird ==
+Mit Django kann ich komplizierte Seiten erstellen. Django ist ein Webframework, mit dem ich dynamische Webseiten erstellen kann. Ich kann mit Django Formulare erstellen und so die Interaktion mit den Nutzern verbessern. Ich kann auch Datenbanken anbinden und so komplexe Anwendungen erstellen. Mit Django kann ich auch Benutzerregistrierung und Login-Funktionen implementieren. So kann ich Nutzern erlauben, Artikel zu schreiben und zu bearbeiten. Ich kann auch Kommentarfunktionen implementieren und so die Interaktion mit den Nutzern verbessern.
+
+== Fazit ==
+Ich habe viel Arbeit vor mir. Ich möchte keine normale Website haben. Ich möchte eine Website haben, die ich selbst gestalten kann. Ich möchte meine Artikel strukturieren und so meinen Lesern mehr Informationen bieten. Ich möchte auch die Interaktion mit meinen Lesern verbessern und ihnen die Möglichkeit geben, Vorschläge für Artikel zu machen. Ich möchte auch die Qualität meiner Artikel sicherstellen und verhindern, dass sie kopiert werden. Ich möchte auch die Möglichkeit haben, Kommentare zu meinen Artikeln zu erhalten und so die Interaktion mit meinen Lesern zu verbessern. Ich möchte auch die Möglichkeit haben, Nutzerregistrierung und Login-Funktionen zu implementieren und so die Interaktion mit meinen Lesern zu verbessern. Ich möchte auch die Möglichkeit haben, Formulare zu erstellen und so die Interaktion mit meinen Lesern zu verbessern. Ich möchte auch die Möglichkeit haben, Datenbanken anzubinden und so komplexe Anwendungen zu erstellen. Ich möchte auch die Möglichkeit haben, dynamische Webseiten zu erstellen und so die Interaktion mit meinen Lesern zu verbessern. 
+
+== Alternative ==
+Eine Alternative wäre ein Headless CMS mit MediaWiki und Django als Backend und Next.js als Frontend.
+
+Oder eine reine Postgres-Wissensdatenbank zu extrahieren und jede Software als Frontend zu nutzen.
+[[Kategorie:Articles by user Thorsten]][[Kategorie:6. September 2024]]
+__NOEDITSECTION__</text>
+      <sha1>aix0ocvs9omzudwrslwjfjh9idjzxa1</sha1>
+    </revision>
+    <revision>
+      <id>632</id>
+      <parentid>630</parentid>
+      <timestamp>2024-09-06T22:10:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>632</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4464" sha1="dbze15izfk74o5ng1jt3gceyq8tipg6" xml:space="preserve">&lt;!--start text--&gt;
+==Warum ich Wordpress zu MediaWiki wechseln möchte==
+Ich habe mich entschieden, WordPress nicht mehr zu nutzen, weil ich nicht zwei Datenbanksysteme, Postgres und MySQL, betreiben möchte. Ich werde in Zukunft nur noch mit Postgres arbeiten. Leider gibt es keine Möglichkeit, WordPress mit Postgres zu betreiben. Die MediaWiki-Software ist eine gute Alternative zu WordPress und kann mit Postgres betrieben werden.
+
+Mit MediaWiki kann ich auch auf Umwegen ein Blog betreiben. Ich möchte keine Subdomain für das Blog einrichten. Meine Website soll nur eine Domain haben, keine Subdomain. So können Suchmaschinen die Seite besser finden.
+
+Ich habe mich für MediaWiki entschieden, weil ich die Software bereits kenne und sie mit Postgres betrieben werden kann. Für Nutzer von MediaWiki ist es auch einfacher zu lesen. Leider können Nutzer keine Artikel schreiben, weil ich keine Benutzerregistrierung anbiete. Ich möchte nicht, dass sich Benutzer registrieren, um Artikel zu schreiben. Ich möchte nur meine Artikel veröffentlichen. Ich kann Nutzerartikel nicht kontrollieren und keine Kopien von anderen Seiten verhindern. Außerdem speichert MediaWiki keine Nutzerdaten.
+
+Ich versuche später, mit Django als Formularsystem die Möglichkeit zu schaffen, dass Nutzer Vorschläge für Artikel machen können. Ich werde die Vorschläge prüfen und dann entscheiden, ob ich sie veröffentliche. Ich möchte nicht, dass Nutzer direkt Artikel schreiben können. Ich möchte die Qualität der Artikel sicherstellen.
+
+== Warum ich Drupal, Joomla und Typo3 nicht nutze ==
+Ich habe mich gegen Drupal, Joomla und Typo3 entschieden, weil ich diese Software nicht kenne. Ich habe keine Erfahrung mit diesen Systemen und möchte mich nicht in neue Software einarbeiten. Ich möchte nur mit Software arbeiten, die ich bereits kenne. Ich habe mich für MediaWiki entschieden, weil ich die Software bereits kenne und sie mit Postgres betrieben werden kann.
+
+== MediaWiki kann besser strukturiert werden ==
+Mit MediaWiki kann ich meine Artikel besser strukturieren. Ich kann Kategorien und Unterkategorien anlegen und so meine Artikel besser ordnen. Ich kann auch Vorlagen verwenden, um Artikel zu erstellen. Mit Vorlagen kann ich Artikel schneller erstellen und sie besser strukturieren. Ich kann auch Bilder und Videos in meine Artikel einbinden. So kann ich meine Artikel besser illustrieren und den Lesern mehr Informationen bieten.
+
+== Wenn die Seite kompliziert wird ==
+Mit Django kann ich komplizierte Seiten erstellen. Django ist ein Webframework, mit dem ich dynamische Webseiten erstellen kann. Ich kann mit Django Formulare erstellen und so die Interaktion mit den Nutzern verbessern. Ich kann auch Datenbanken anbinden und so komplexe Anwendungen erstellen. Mit Django kann ich auch Benutzerregistrierung und Login-Funktionen implementieren. So kann ich Nutzern erlauben, Artikel zu schreiben und zu bearbeiten. Ich kann auch Kommentarfunktionen implementieren und so die Interaktion mit den Nutzern verbessern.
+
+== Fazit ==
+Ich habe viel Arbeit vor mir. Ich möchte keine normale Website haben. Ich möchte eine Website haben, die ich selbst gestalten kann. Ich möchte meine Artikel strukturieren und so meinen Lesern mehr Informationen bieten. Ich möchte auch die Interaktion mit meinen Lesern verbessern und ihnen die Möglichkeit geben, Vorschläge für Artikel zu machen. Ich möchte auch die Qualität meiner Artikel sicherstellen und verhindern, dass sie kopiert werden. Ich möchte auch die Möglichkeit haben, Kommentare zu meinen Artikeln zu erhalten und so die Interaktion mit meinen Lesern zu verbessern. Ich möchte auch die Möglichkeit haben, Nutzerregistrierung und Login-Funktionen zu implementieren und so die Interaktion mit meinen Lesern zu verbessern. Ich möchte auch die Möglichkeit haben, Formulare zu erstellen und so die Interaktion mit meinen Lesern zu verbessern. Ich möchte auch die Möglichkeit haben, Datenbanken anzubinden und so komplexe Anwendungen zu erstellen. Ich möchte auch die Möglichkeit haben, dynamische Webseiten zu erstellen und so die Interaktion mit meinen Lesern zu verbessern. 
+
+== Alternative ==
+Eine Alternative wäre ein Headless CMS mit MediaWiki und Django als Backend und Next.js als Frontend.
+
+Oder eine reine Postgres-Wissensdatenbank zu extrahieren und jede Software als Frontend zu nutzen.
+[[Kategorie:Articles by user Thorsten]][[Kategorie:6. September 2024]]
+__NOEDITSECTION__</text>
+      <sha1>dbze15izfk74o5ng1jt3gceyq8tipg6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>User blog:Thorsten/MediaWiki als Restaurant-Datenbank</title>
+    <ns>502</ns>
+    <id>140</id>
+    <revision>
+      <id>633</id>
+      <timestamp>2024-09-06T22:51:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>New blog post created.</comment>
+      <origin>633</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="114" sha1="gf2qsejuqirn4qrca31r294rgzph7z8" xml:space="preserve">&lt;!--start text--&gt;
+Stark
+
+[[Kategorie:Articles by user Thorsten]]
+[[Kategorie:6. September 2024]]
+__NOEDITSECTION__</text>
+      <sha1>gf2qsejuqirn4qrca31r294rgzph7z8</sha1>
+    </revision>
+    <revision>
+      <id>634</id>
+      <parentid>633</parentid>
+      <timestamp>2024-09-06T23:04:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>634</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="606" sha1="ott5m65zhr0fjqgvu9oqurvo4hak5bi" xml:space="preserve">&lt;!--start text--&gt;
+Ich habe alle Restaurants in meiner Stadt über Google recherchiert und in MediaWiki eingetragen. Jedes Restaurant wurde als eigener Wiki-Artikel angelegt. Jeder Artikel wird einzeln durchgelesen, die Informationen von der Website überprüft und der Text mithilfe von KI-Software grammatikalisch und rechtschreibtechnisch korrigiert. Ich muss jede Karte genau überprüfen, um sicherzustellen, dass die Adresse korrekt ist und die Karte richtig angezeigt wird. Die Kategorisierung erfolgt später.
+[[Kategorie:Articles by user Thorsten]]
+[[Kategorie:6. September 2024]]
+__NOEDITSECTION__</text>
+      <sha1>ott5m65zhr0fjqgvu9oqurvo4hak5bi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Berlin Milljöh</title>
+    <ns>0</ns>
+    <id>141</id>
+    <revision>
+      <id>636</id>
+      <timestamp>2024-09-06T23:40:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>636</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="440" sha1="5uqnq511w2g6cyjcyphke28laj0eqvc" xml:space="preserve">Berlin Milljöh  ist ein Kneipenrestaurant, das an das 20. Jahrhundert in Berlin erinnert. Sie bekommen deutsche und internationale Küche und können im Innenraum oder auf der überdachten und beheizten Terrasse sitzen, essen und trinken. Das Berlin Milljöh ist ein beliebter Treffpunkt für Jung und Alt.
+==Adresse==
+* Berlin Milljöh 
+* Große Straße 15a
+* 22926 Ahrensburg
+
+==Weblinks==
+* [http://www.milljoeh.de/ Offizielle Webseite]</text>
+      <sha1>5uqnq511w2g6cyjcyphke28laj0eqvc</sha1>
+    </revision>
+    <revision>
+      <id>637</id>
+      <parentid>636</parentid>
+      <timestamp>2024-09-06T23:48:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>637</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="495" sha1="mpg097w0pd5u3r5w6rxjq01juyfderj" xml:space="preserve">{{#display_map:Berlin Milljöh , Ahrensburg, Germany}}
+Berlin Milljöh  ist ein Kneipenrestaurant, das an das 20. Jahrhundert in Berlin erinnert. Sie bekommen deutsche und internationale Küche und können im Innenraum oder auf der überdachten und beheizten Terrasse sitzen, essen und trinken. Das Berlin Milljöh ist ein beliebter Treffpunkt für Jung und Alt.
+==Adresse==
+* Berlin Milljöh 
+* Große Straße 15a
+* 22926 Ahrensburg
+
+==Weblinks==
+* [http://www.milljoeh.de/ Offizielle Webseite]</text>
+      <sha1>mpg097w0pd5u3r5w6rxjq01juyfderj</sha1>
     </revision>
   </page>
 </mediawiki>
