@@ -28605,6 +28605,77 @@ Die Gemeinde Ahrensburg wurde 1948 zur Stadt erhoben.
 ** Ahrensburg|Information</text>
       <sha1>84och5ksppn3b4fqkpo21ayvykezo0v</sha1>
     </revision>
+    <revision>
+      <id>872</id>
+      <parentid>350</parentid>
+      <timestamp>2024-09-18T16:49:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>872</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="341" sha1="43jjcsjkndpsnad5oj1z5kr9acgmd38" xml:space="preserve">#p-logo, .generated-sidebar, #p-lang, #p-tb  { display:none; }
+* navigation
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki
+** User_blog:Thorsten|Thorsten Blog
+** September 2024|Nachrichten
+** Ahrensburg|Information
+** https://karte.ahrensburg.city|Ahrensburg Karte</text>
+      <sha1>43jjcsjkndpsnad5oj1z5kr9acgmd38</sha1>
+    </revision>
+    <revision>
+      <id>912</id>
+      <parentid>872</parentid>
+      <timestamp>2024-09-20T11:19:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>912</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="362" sha1="of45ysadkpe4pvo8zi94y3le09tbt45" xml:space="preserve">#p-logo, .generated-sidebar, #p-lang, #p-tb  { display:none; }
+* navigation
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki
+** User_blog:Thorsten|Thorsten Blog
+** September 2024|Nachrichten
+** Ahrensburg|Information
+** Formular|Formular
+** https://karte.ahrensburg.city|Ahrensburg Karte</text>
+      <sha1>of45ysadkpe4pvo8zi94y3le09tbt45</sha1>
+    </revision>
+    <revision>
+      <id>913</id>
+      <parentid>912</parentid>
+      <timestamp>2024-09-20T11:37:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>913</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="364" sha1="7uxw9lxpk5lofn4x5hgitavrlplsqkd" xml:space="preserve">#p-logo, .generated-sidebar, #p-lang, #p-tb  { display:none; }
+* navigation
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki
+** User_blog:Thorsten|Thorsten Blog
+** September 2024|Nachrichten
+** Ahrensburg|Information
+** Formulare|Formulare
+** https://karte.ahrensburg.city|Ahrensburg Karte</text>
+      <sha1>7uxw9lxpk5lofn4x5hgitavrlplsqkd</sha1>
+    </revision>
   </page>
   <page>
     <title>Autoren:Autorenportal</title>
@@ -61873,6 +61944,241 @@ Die Stadt Ahrensburg bietet ein vielfältiges Kulturangebot. Hierzu zählen unte
 }</text>
       <sha1>qu75bfq4ut8ank315tec20jqckoxr65</sha1>
     </revision>
+    <revision>
+      <id>922</id>
+      <parentid>407</parentid>
+      <timestamp>2024-09-21T17:07:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>922</origin>
+      <model>GeoJSON</model>
+      <format>application/json</format>
+      <text bytes="5679" sha1="asz6tusj983z6cr38ysdad01g658h87" xml:space="preserve">{
+	"type": "FeatureCollection",
+	"name": "karte",
+	"crs": {
+		"type": "name",
+		"properties": {
+			"name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+		}
+	},
+	"features": [
+		{
+			"type": "Feature",
+			"properties": {
+				"SubmissionDate": "2024-09-21T13:23:36.690Z",
+				"form": null,
+				"bild": "1726924973991.jpg",
+				"standort-Latitude": 53.6751339,
+				"standort-Longitude": 10.2164906,
+				"standort-Altitude": 88.80000305175781,
+				"standort-Accuracy": 9.296,
+				"meta-instanceID": "uuid:a9c0a50a-4e3b-41e2-8c89-d1d09b7283b0",
+				"KEY": "uuid:a9c0a50a-4e3b-41e2-8c89-d1d09b7283b0",
+				"SubmitterID": 7,
+				"SubmitterName": "thorsten",
+				"AttachmentsPresent": true,
+				"AttachmentsExpected": true,
+				"Status": null,
+				"ReviewState": null,
+				"DeviceID": "collect:C2xKkMVbXC2yy9ml",
+				"Edits": false,
+				"FormVersion": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.2164906,
+					53.6751339
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"SubmissionDate": "2024-09-21T13:15:19.069Z",
+				"form": null,
+				"bild": "1726924492734.jpg",
+				"standort-Latitude": 53.6758593,
+				"standort-Longitude": 10.2218796,
+				"standort-Altitude": 86.5999984741211,
+				"standort-Accuracy": 6.5,
+				"meta-instanceID": "uuid:57bad9ca-0bc2-4311-8c19-611f68603d46",
+				"KEY": "uuid:57bad9ca-0bc2-4311-8c19-611f68603d46",
+				"SubmitterID": 7,
+				"SubmitterName": "thorsten",
+				"AttachmentsPresent": true,
+				"AttachmentsExpected": true,
+				"Status": null,
+				"ReviewState": null,
+				"DeviceID": "collect:C2xKkMVbXC2yy9ml",
+				"Edits": false,
+				"FormVersion": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.2218796,
+					53.6758593
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"SubmissionDate": "2024-09-21T12:56:31.596Z",
+				"form": null,
+				"bild": "1726923369912.jpg",
+				"standort-Latitude": 53.6722969,
+				"standort-Longitude": 10.2324901,
+				"standort-Altitude": 86.80000305175781,
+				"standort-Accuracy": 14.338,
+				"meta-instanceID": "uuid:e2b1a25c-6545-4da9-a277-1292550b0d01",
+				"KEY": "uuid:e2b1a25c-6545-4da9-a277-1292550b0d01",
+				"SubmitterID": 7,
+				"SubmitterName": "thorsten",
+				"AttachmentsPresent": true,
+				"AttachmentsExpected": true,
+				"Status": null,
+				"ReviewState": null,
+				"DeviceID": "collect:C2xKkMVbXC2yy9ml",
+				"Edits": false,
+				"FormVersion": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.2324901,
+					53.6722969
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"SubmissionDate": "2024-09-21T12:54:45.215Z",
+				"form": null,
+				"bild": "1726923239449.jpg",
+				"standort-Latitude": 53.6720625,
+				"standort-Longitude": 10.2328593,
+				"standort-Altitude": 86.80000305175781,
+				"standort-Accuracy": 6,
+				"meta-instanceID": "uuid:e4643391-017e-4edd-b04e-fab925c1d8d5",
+				"KEY": "uuid:e4643391-017e-4edd-b04e-fab925c1d8d5",
+				"SubmitterID": 7,
+				"SubmitterName": "thorsten",
+				"AttachmentsPresent": true,
+				"AttachmentsExpected": true,
+				"Status": null,
+				"ReviewState": null,
+				"DeviceID": "collect:C2xKkMVbXC2yy9ml",
+				"Edits": false,
+				"FormVersion": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.2328593,
+					53.6720625
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"SubmissionDate": "2024-09-20T20:24:36.381Z",
+				"form": null,
+				"bild": "1726863830209.jpg",
+				"standort-Latitude": 53.6691579,
+				"standort-Longitude": 10.2361348,
+				"standort-Altitude": 88.0999984741211,
+				"standort-Accuracy": 5.822,
+				"meta-instanceID": "uuid:8dff00fa-128a-4ca7-95a1-ea8932d458c0",
+				"KEY": "uuid:8dff00fa-128a-4ca7-95a1-ea8932d458c0",
+				"SubmitterID": 7,
+				"SubmitterName": "thorsten",
+				"AttachmentsPresent": true,
+				"AttachmentsExpected": true,
+				"Status": null,
+				"ReviewState": "approved",
+				"DeviceID": "collect:C2xKkMVbXC2yy9ml",
+				"Edits": false,
+				"FormVersion": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.2361348,
+					53.6691579
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"SubmissionDate": "2024-09-20T20:21:59.974Z",
+				"form": null,
+				"bild": "1726863672231.jpg",
+				"standort-Latitude": 53.6694663,
+				"standort-Longitude": 10.2360837,
+				"standort-Altitude": 88.19999694824219,
+				"standort-Accuracy": 11.98,
+				"meta-instanceID": "uuid:be65ab81-7a55-424d-812f-048e6020733d",
+				"KEY": "uuid:be65ab81-7a55-424d-812f-048e6020733d",
+				"SubmitterID": 7,
+				"SubmitterName": "thorsten",
+				"AttachmentsPresent": true,
+				"AttachmentsExpected": true,
+				"Status": null,
+				"ReviewState": null,
+				"DeviceID": "collect:C2xKkMVbXC2yy9ml",
+				"Edits": false,
+				"FormVersion": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.2360837,
+					53.6694663
+				]
+			}
+		},
+		{
+			"type": "Feature",
+			"properties": {
+				"SubmissionDate": "2024-09-20T20:17:03.207Z",
+				"form": null,
+				"bild": "1726863395496.jpg",
+				"standort-Latitude": 53.670985,
+				"standort-Longitude": 10.2350405,
+				"standort-Altitude": 87.30000305175781,
+				"standort-Accuracy": 15.174,
+				"meta-instanceID": "uuid:879a6f60-02d0-4456-9316-ad92c89429da",
+				"KEY": "uuid:879a6f60-02d0-4456-9316-ad92c89429da",
+				"SubmitterID": 7,
+				"SubmitterName": "thorsten",
+				"AttachmentsPresent": true,
+				"AttachmentsExpected": true,
+				"Status": null,
+				"ReviewState": null,
+				"DeviceID": "collect:C2xKkMVbXC2yy9ml",
+				"Edits": false,
+				"FormVersion": null
+			},
+			"geometry": {
+				"type": "Point",
+				"coordinates": [
+					10.2350405,
+					53.670985
+				]
+			}
+		}
+	]
+}</text>
+      <sha1>asz6tusj983z6cr38ysdad01g658h87</sha1>
+    </revision>
   </page>
   <page>
     <title>Schloss Ahrensburg</title>
@@ -67724,6 +68030,383 @@ In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beisp
 *</text>
       <sha1>3kkear5xqexlxvxzdazs8f1ae25a8j9</sha1>
     </revision>
+    <revision>
+      <id>875</id>
+      <parentid>843</parentid>
+      <timestamp>2024-09-18T23:17:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>875</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3028" sha1="69a4bn59mlsjlipvygt4txltvxnw73h" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>69a4bn59mlsjlipvygt4txltvxnw73h</sha1>
+    </revision>
+    <revision>
+      <id>878</id>
+      <parentid>875</parentid>
+      <timestamp>2024-09-18T23:25:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>878</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3038" sha1="j4m2sgdnhlkx66yjur734zgkd6qsfh4" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>j4m2sgdnhlkx66yjur734zgkd6qsfh4</sha1>
+    </revision>
+    <revision>
+      <id>879</id>
+      <parentid>878</parentid>
+      <timestamp>2024-09-18T23:38:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>879</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3423" sha1="q5mqxqg43cs1jbv0aqap4y7fsraxsc1" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:Café Goldene Biene - Café Greco - Cuccuma - Caligo Coffee - Konditorei Gerads - ZEITLOS AHRENSBURG - Robben Café - Stadtbäckerei Schacht/ Stulle&amp;Co - Noris Bar - Eiscafé La Volpe
+Junge Die Bäckerei - Restaurant Söbentein - Eiscafé Gelato - Nur Hier GmbH - Junge Die Bäckerei - glück auf - Caligo Kaffeerösterei - Rio Grande Ahrensburg - Repair Café Ahrensburg - Dat Backhus
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>q5mqxqg43cs1jbv0aqap4y7fsraxsc1</sha1>
+    </revision>
+    <revision>
+      <id>880</id>
+      <parentid>879</parentid>
+      <timestamp>2024-09-18T23:38:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>880</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3425" sha1="0cfkgdbj76r7yx0jlvf5ctd1fcbps5f" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:Café Goldene Biene - Café Greco - Cuccuma - Caligo Coffee - Konditorei Gerads - ZEITLOS AHRENSBURG - Robben Café - Stadtbäckerei Schacht/ Stulle&amp;Co - Noris Bar - Eiscafé La Volpe
+  Junge Die Bäckerei - Restaurant Söbentein - Eiscafé Gelato - Nur Hier GmbH - Junge Die Bäckerei - glück auf - Caligo Kaffeerösterei - Rio Grande Ahrensburg - Repair Café Ahrensburg - Dat Backhus
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>0cfkgdbj76r7yx0jlvf5ctd1fcbps5f</sha1>
+    </revision>
+    <revision>
+      <id>881</id>
+      <parentid>880</parentid>
+      <timestamp>2024-09-18T23:39:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>881</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3425" sha1="qtfwrcqixy7cjn6wn11ze3aw3oz9mwq" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:Café Goldene Biene - Café Greco - Cuccuma - Caligo Coffee - Konditorei Gerads - ZEITLOS AHRENSBURG - Robben Café - Stadtbäckerei Schacht/ Stulle&amp;Co - Noris Bar - Eiscafé La Volpe - Junge Die Bäckerei - Restaurant Söbentein - Eiscafé Gelato - Nur Hier GmbH - Junge Die Bäckerei - glück auf - Caligo Kaffeerösterei - Rio Grande Ahrensburg - Repair Café Ahrensburg - Dat Backhus
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>qtfwrcqixy7cjn6wn11ze3aw3oz9mwq</sha1>
+    </revision>
+    <revision>
+      <id>882</id>
+      <parentid>881</parentid>
+      <timestamp>2024-09-18T23:43:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>882</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3429" sha1="si8xyjv10mhc7czpximsts5wmqb5qfi" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - Café Greco - Cuccuma - Caligo Coffee - Konditorei Gerads - ZEITLOS AHRENSBURG - Robben Café - Stadtbäckerei Schacht/ Stulle&amp;Co - Noris Bar - Eiscafé La Volpe - Junge Die Bäckerei - Restaurant Söbentein - Eiscafé Gelato - Nur Hier GmbH - Junge Die Bäckerei - glück auf - Caligo Kaffeerösterei - Rio Grande Ahrensburg - Repair Café Ahrensburg - Dat Backhus
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>si8xyjv10mhc7czpximsts5wmqb5qfi</sha1>
+    </revision>
+    <revision>
+      <id>885</id>
+      <parentid>882</parentid>
+      <timestamp>2024-09-18T23:52:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>885</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3433" sha1="ol49u71o4di964axtphy0gjrnxhjdbp" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - Cuccuma - Caligo Coffee - Konditorei Gerads - ZEITLOS AHRENSBURG - Robben Café - Stadtbäckerei Schacht/ Stulle&amp;Co - Noris Bar - Eiscafé La Volpe - Junge Die Bäckerei - Restaurant Söbentein - Eiscafé Gelato - Nur Hier GmbH - Junge Die Bäckerei - glück auf - Caligo Kaffeerösterei - Rio Grande Ahrensburg - Repair Café Ahrensburg - Dat Backhus
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>ol49u71o4di964axtphy0gjrnxhjdbp</sha1>
+    </revision>
+    <revision>
+      <id>889</id>
+      <parentid>885</parentid>
+      <timestamp>2024-09-19T09:17:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>889</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3437" sha1="gkf08p1qesy2jvyc4amgs39zo4jnurw" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - Caligo Coffee - Konditorei Gerads - ZEITLOS AHRENSBURG - Robben Café - Stadtbäckerei Schacht/ Stulle&amp;Co - Noris Bar - Eiscafé La Volpe - Junge Die Bäckerei - Restaurant Söbentein - Eiscafé Gelato - Nur Hier GmbH - Junge Die Bäckerei - glück auf - Caligo Kaffeerösterei - Rio Grande Ahrensburg - Repair Café Ahrensburg - Dat Backhus
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>gkf08p1qesy2jvyc4amgs39zo4jnurw</sha1>
+    </revision>
+    <revision>
+      <id>894</id>
+      <parentid>889</parentid>
+      <timestamp>2024-09-19T09:29:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>894</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3441" sha1="0kxb99u240l0415gp76zp66g94n65tg" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - Konditorei Gerads - ZEITLOS AHRENSBURG - Robben Café - Stadtbäckerei Schacht/ Stulle&amp;Co - Noris Bar - Eiscafé La Volpe - Junge Die Bäckerei - Restaurant Söbentein - Eiscafé Gelato - Nur Hier GmbH - Junge Die Bäckerei - glück auf - Caligo Kaffeerösterei - Rio Grande Ahrensburg - Repair Café Ahrensburg - Dat Backhus
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>0kxb99u240l0415gp76zp66g94n65tg</sha1>
+    </revision>
   </page>
   <page>
     <title>Gesundheit</title>
@@ -70315,6 +70998,33 @@ __NOEDITSECTION__</text>
 * [[18 September 2024 Großhansdorf kauft Park Manhagen]]</text>
       <sha1>hq8dr6di6adfcgzbq3s3y540htdu5z9</sha1>
     </revision>
+    <revision>
+      <id>918</id>
+      <parentid>868</parentid>
+      <timestamp>2024-09-20T18:20:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>918</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="538" sha1="jf2nshe2wk61yk93rogjwwaxzl0f5g6" xml:space="preserve">== September 2024 ==
+===6 September===
+* [[6 September 2024 xSuite und Flexso werden Partner|xSuite und Flexso werden Partner]]
+* [[6 September 2024 Theater und Musik in Ahrensburg|Theater und Musik in Ahrensburg]]
+
+===7 September ===
+* [[7 September 2024 Kultur4Ort]]
+
+===11 September ===
+* [[11 September 2024 Ahrensburg: Gebäudedach nach Wassereinbruch eingestürz]]
+===18 September ===
+* [[18 September 2024 Großhansdorf kauft Park Manhagen]]
+===20 September===
+* [[20 September Die Mobilität von morgen|Die Mobilität von morgen]]</text>
+      <sha1>jf2nshe2wk61yk93rogjwwaxzl0f5g6</sha1>
+    </revision>
   </page>
   <page>
     <title>6 September 2024 xSuite und Flexso werden Partner</title>
@@ -71040,6 +71750,305 @@ Berlin Milljöh  ist ein Kneipenrestaurant, das an das 20. Jahrhundert in Berlin
 ==Weblinks==
 *[https://opendatakit.org/ Offizielle Website]</text>
       <sha1>9qshqyy17tuz777wvd2xk6az8delce1</sha1>
+    </revision>
+    <revision>
+      <id>895</id>
+      <parentid>707</parentid>
+      <timestamp>2024-09-19T11:22:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>895</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2098" sha1="hkpns6h7wl435m07x3w2wca1qys3381" xml:space="preserve">OpenDataKit ist eine Open-Source-Software, die es ermöglicht, Daten zu sammeln, zu verwalten und zu veröffentlichen. Es wurde entwickelt, um die Datenerfassung in Umgebungen mit begrenzter Konnektivität zu unterstützen und ist besonders nützlich für Forschungsprojekte, humanitäre Hilfe und gemeinnützige Organisationen.
+==Tools==
+===XForms===
+XForms ist ein XML-basiertes Format, das es ermöglicht, Formulare zu erstellen, die auf verschiedenen Geräten und Plattformen verwendet werden können. OpenDataKit verwendet XForms, um Formulare für die Datenerfassung zu erstellen.
+====Visuelle XForms-Editoren====
+Es gibt verschiedene visuelle XForms-Editoren, die es ermöglichen, Formulare ohne Programmierkenntnisse zu erstellen. Einige der beliebtesten Editoren sind:
+* Orbeon Forms: Ein leistungsstarker XForms-Editor, der es ermöglicht, komplexe Formulare zu erstellen und in verschiedene Webanwendungen zu integrieren.
+====Weblinks====
+* [Orbeon Forms](https://www.orbeon.com/): Ein leistungsstarker XForms-Editor, der es ermöglicht, komplexe Formulare zu erstellen und in verschiedene Webanwendungen zu integrieren.
+====Weblinks====
+* [JavaRosa](https://github.com/getodk/javarosa): Eine Open-Source-Bibliothek, die es ermöglicht, XForms-Formulare auf mobilen Geräten zu verwenden.
+* [Enketo](https://enketo.org/): Ein Framework, das es ermöglicht, XForms-Formulare in Webanwendungen zu integrieren und offline zu verwenden.
+====Einsatzgebiete von XForms====
+XForms werden in verschiedenen Bereichen eingesetzt, darunter:
+* Gesundheitswesen: Zur Erfassung und Verwaltung von Patientendaten und medizinischen Formularen.
+* Regierungsbehörden: Zur Erstellung und Verwaltung von Formularen für öffentliche Dienstleistungen und Verwaltungsprozesse.
+* Bildungswesen: Zur Erstellung von Umfragen, Prüfungen und Anmeldeformularen.
+* Unternehmen: Zur Automatisierung von Geschäftsprozessen, wie z.B. Bestell- und Feedback-Formulare.
+* Forschung: Zur Datenerfassung und -analyse in wissenschaftlichen Studien und Projekten.
+==Weblinks==
+*[https://opendatakit.org/ Offizielle Website]</text>
+      <sha1>hkpns6h7wl435m07x3w2wca1qys3381</sha1>
+    </revision>
+    <revision>
+      <id>896</id>
+      <parentid>895</parentid>
+      <timestamp>2024-09-19T11:25:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>896</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1790" sha1="grihtemqq1n3h8r7ngx50hlhmdgm1da" xml:space="preserve">OpenDataKit ist eine Open-Source-Software, die es ermöglicht, Daten zu sammeln, zu verwalten und zu veröffentlichen. Es wurde entwickelt, um die Datenerfassung in Umgebungen mit begrenzter Konnektivität zu unterstützen und ist besonders nützlich für Forschungsprojekte, humanitäre Hilfe und gemeinnützige Organisationen.
+==Tools==
+===[[XForms]]===
+XForms ist ein XML-basiertes Format, das es ermöglicht, Formulare zu erstellen, die auf verschiedenen Geräten und Plattformen verwendet werden können. OpenDataKit verwendet XForms, um Formulare für die Datenerfassung zu erstellen.
+====Visuelle XForms-Editoren====
+Es gibt verschiedene visuelle XForms-Editoren, die es ermöglichen, Formulare ohne Programmierkenntnisse zu erstellen. Einige der beliebtesten Editoren sind:
+* Orbeon Forms: Ein leistungsstarker XForms-Editor, der es ermöglicht, komplexe Formulare zu erstellen und in verschiedene Webanwendungen zu integrieren.
+====Weblinks====
+* [Orbeon Forms](https://www.orbeon.com/): Ein leistungsstarker XForms-Editor, der es ermöglicht, komplexe Formulare zu erstellen und in verschiedene Webanwendungen zu integrieren.
+====Einsatzgebiete von XForms====
+XForms werden in verschiedenen Bereichen eingesetzt, darunter:
+* Gesundheitswesen: Zur Erfassung und Verwaltung von Patientendaten und medizinischen Formularen.
+* Regierungsbehörden: Zur Erstellung und Verwaltung von Formularen für öffentliche Dienstleistungen und Verwaltungsprozesse.
+* Bildungswesen: Zur Erstellung von Umfragen, Prüfungen und Anmeldeformularen.
+* Unternehmen: Zur Automatisierung von Geschäftsprozessen, wie z.B. Bestell- und Feedback-Formulare.
+* Forschung: Zur Datenerfassung und -analyse in wissenschaftlichen Studien und Projekten.
+==Weblinks==
+*[https://opendatakit.org/ Offizielle Website]</text>
+      <sha1>grihtemqq1n3h8r7ngx50hlhmdgm1da</sha1>
+    </revision>
+    <revision>
+      <id>897</id>
+      <parentid>896</parentid>
+      <timestamp>2024-09-19T11:28:27Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Weblinks */</comment>
+      <origin>897</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1790" sha1="pxaicoax23qml5iuw56zrsntdhr1z42" xml:space="preserve">OpenDataKit ist eine Open-Source-Software, die es ermöglicht, Daten zu sammeln, zu verwalten und zu veröffentlichen. Es wurde entwickelt, um die Datenerfassung in Umgebungen mit begrenzter Konnektivität zu unterstützen und ist besonders nützlich für Forschungsprojekte, humanitäre Hilfe und gemeinnützige Organisationen.
+==Tools==
+===[[XForms]]===
+XForms ist ein XML-basiertes Format, das es ermöglicht, Formulare zu erstellen, die auf verschiedenen Geräten und Plattformen verwendet werden können. OpenDataKit verwendet XForms, um Formulare für die Datenerfassung zu erstellen.
+====Visuelle XForms-Editoren====
+Es gibt verschiedene visuelle XForms-Editoren, die es ermöglichen, Formulare ohne Programmierkenntnisse zu erstellen. Einige der beliebtesten Editoren sind:
+* Orbeon Forms: Ein leistungsstarker XForms-Editor, der es ermöglicht, komplexe Formulare zu erstellen und in verschiedene Webanwendungen zu integrieren.
+====Weblinks====
+* [https://www.orbeon.com/ Orbeon Forms]: Ein leistungsstarker XForms-Editor, der es ermöglicht, komplexe Formulare zu erstellen und in verschiedene Webanwendungen zu integrieren.
+
+====Einsatzgebiete von XForms====
+XForms werden in verschiedenen Bereichen eingesetzt, darunter:
+* Gesundheitswesen: Zur Erfassung und Verwaltung von Patientendaten und medizinischen Formularen.
+* Regierungsbehörden: Zur Erstellung und Verwaltung von Formularen für öffentliche Dienstleistungen und Verwaltungsprozesse.
+* Bildungswesen: Zur Erstellung von Umfragen, Prüfungen und Anmeldeformularen.
+* Unternehmen: Zur Automatisierung von Geschäftsprozessen, wie z.B. Bestell- und Feedback-Formulare.
+* Forschung: Zur Datenerfassung und -analyse in wissenschaftlichen Studien und Projekten.
+==Weblinks==
+*[https://opendatakit.org/ Offizielle Website]</text>
+      <sha1>pxaicoax23qml5iuw56zrsntdhr1z42</sha1>
+    </revision>
+    <revision>
+      <id>905</id>
+      <parentid>897</parentid>
+      <timestamp>2024-09-19T19:10:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Tools */</comment>
+      <origin>905</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1787" sha1="3d91luabvxr2v2qy1nis427nblu0kxp" xml:space="preserve">OpenDataKit ist eine Open-Source-Software, die es ermöglicht, Daten zu sammeln, zu verwalten und zu veröffentlichen. Es wurde entwickelt, um die Datenerfassung in Umgebungen mit begrenzter Konnektivität zu unterstützen und ist besonders nützlich für Forschungsprojekte, humanitäre Hilfe und gemeinnützige Organisationen.
+==Tools==
+===XForms===
+XForms ist ein XML-basiertes Format, das es ermöglicht, Formulare zu erstellen, die auf verschiedenen Geräten und Plattformen verwendet werden können. OpenDataKit verwendet XForms, um Formulare für die Datenerfassung zu erstellen.
+====Visuelle XForms-Editoren====
+Es gibt verschiedene visuelle XForms-Editoren, die es ermöglichen, Formulare ohne Programmierkenntnisse zu erstellen. Einige der beliebtesten Editoren sind:
+* Orbeon Forms: Ein leistungsstarker XForms-Editor, der es ermöglicht, komplexe Formulare zu erstellen und in verschiedene Webanwendungen zu integrieren.
+====Weblinks====
+* [https://www.orbeon.com/ Orbeon Forms]: Ein leistungsstarker XForms-Editor, der es ermöglicht, komplexe Formulare zu erstellen und in verschiedene Webanwendungen zu integrieren.
+
+====Einsatzgebiete von XForms====
+XForms werden in verschiedenen Bereichen eingesetzt, darunter:
+* Gesundheitswesen: Zur Erfassung und Verwaltung von Patientendaten und medizinischen Formularen.
+* Regierungsbehörden: Zur Erstellung und Verwaltung von Formularen für öffentliche Dienstleistungen und Verwaltungsprozesse.
+* Bildungswesen: Zur Erstellung von Umfragen, Prüfungen und Anmeldeformularen.
+* Unternehmen: Zur Automatisierung von Geschäftsprozessen, wie z.B. Bestell- und Feedback-Formulare.
+* Forschung: Zur Datenerfassung und -analyse in wissenschaftlichen Studien und Projekten.
+
+==Weblinks==
+*[https://opendatakit.org/ Offizielle Website]</text>
+      <sha1>3d91luabvxr2v2qy1nis427nblu0kxp</sha1>
+    </revision>
+    <revision>
+      <id>906</id>
+      <parentid>905</parentid>
+      <timestamp>2024-09-19T19:19:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>906</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2021" sha1="6pbigpnot92yt3m9vuaimb0ps6csn9a" xml:space="preserve">OpenDataKit ist eine Open-Source-Software, die es ermöglicht, Daten zu sammeln, zu verwalten und zu veröffentlichen. Es wurde entwickelt, um die Datenerfassung in Umgebungen mit begrenzter Konnektivität zu unterstützen und ist besonders nützlich für Forschungsprojekte, humanitäre Hilfe und gemeinnützige Organisationen.
+==Tools==
+===XForms===
+XForms ist ein XML-basiertes Format, das es ermöglicht, Formulare zu erstellen, die auf verschiedenen Geräten und Plattformen verwendet werden können. OpenDataKit verwendet XForms, um Formulare für die Datenerfassung zu erstellen.
+====Visuelle XForms-Editoren====
+Es gibt verschiedene visuelle XForms-Editoren, die es ermöglichen, Formulare ohne Programmierkenntnisse zu erstellen. Einige der beliebtesten Editoren sind:
+* Orbeon Forms: Ein leistungsstarker XForms-Editor, der es ermöglicht, komplexe Formulare zu erstellen und in verschiedene Webanwendungen zu integrieren.
+====Weblinks====
+* [https://www.orbeon.com/ Orbeon Forms]: Ein leistungsstarker XForms-Editor, der es ermöglicht, komplexe Formulare zu erstellen und in verschiedene Webanwendungen zu integrieren.
+
+====Einsatzgebiete von XForms====
+XForms werden in verschiedenen Bereichen eingesetzt, darunter:
+* Gesundheitswesen: Zur Erfassung und Verwaltung von Patientendaten und medizinischen Formularen.
+* Regierungsbehörden: Zur Erstellung und Verwaltung von Formularen für öffentliche Dienstleistungen und Verwaltungsprozesse.
+* Bildungswesen: Zur Erstellung von Umfragen, Prüfungen und Anmeldeformularen.
+* Unternehmen: Zur Automatisierung von Geschäftsprozessen, wie z.B. Bestell- und Feedback-Formulare.
+* Forschung: Zur Datenerfassung und -analyse in wissenschaftlichen Studien und Projekten.
+===XLSForms===
+XLSForms ist ein einfaches und effizientes Format zur Erstellung von Formularen für die Datenerfassung. Es basiert auf Microsoft Excel und ermöglicht es, Formulare mit geringem Aufwand zu erstellen und zu bearbeiten.
+
+==Weblinks==
+*[https://opendatakit.org/ Offizielle Website]</text>
+      <sha1>6pbigpnot92yt3m9vuaimb0ps6csn9a</sha1>
+    </revision>
+    <revision>
+      <id>907</id>
+      <parentid>906</parentid>
+      <timestamp>2024-09-19T22:04:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* XForms */</comment>
+      <origin>907</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="633" sha1="lmz6k6wzsd983fbubo3nf05qdb0gbls" xml:space="preserve">OpenDataKit ist eine Open-Source-Software, die es ermöglicht, Daten zu sammeln, zu verwalten und zu veröffentlichen. Es wurde entwickelt, um die Datenerfassung in Umgebungen mit begrenzter Konnektivität zu unterstützen und ist besonders nützlich für Forschungsprojekte, humanitäre Hilfe und gemeinnützige Organisationen.
+==Tools==
+===XLSForms===
+XLSForms ist ein einfaches und effizientes Format zur Erstellung von Formularen für die Datenerfassung. Es basiert auf Microsoft Excel und ermöglicht es, Formulare mit geringem Aufwand zu erstellen und zu bearbeiten.
+
+==Weblinks==
+*[https://opendatakit.org/ Offizielle Website]</text>
+      <sha1>lmz6k6wzsd983fbubo3nf05qdb0gbls</sha1>
+    </revision>
+    <revision>
+      <id>909</id>
+      <parentid>907</parentid>
+      <timestamp>2024-09-20T07:19:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>909</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2537" sha1="sbjopby2lxweepd6gr204bn927sa1x8" xml:space="preserve">OpenDataKit ist eine Open-Source-Software, die es ermöglicht, Daten zu sammeln, zu verwalten und zu veröffentlichen. Es wurde entwickelt, um die Datenerfassung in Umgebungen mit begrenzter Konnektivität zu unterstützen und ist besonders nützlich für Forschungsprojekte, humanitäre Hilfe und gemeinnützige Organisationen.
+==Tools==
+===XForms===
+XForms ist ein XML-basiertes Format, das es ermöglicht, Formulare zu erstellen, die auf verschiedenen Geräten und Plattformen verwendet werden können. OpenDataKit verwendet XForms, um Formulare für die Datenerfassung zu erstellen.
+====Visuelle XForms-Editoren====
+Es gibt verschiedene visuelle XForms-Editoren, die es ermöglichen, Formulare ohne Programmierkenntnisse zu erstellen. Einige der beliebtesten Editoren sind:
+* Orbeon Forms: Ein leistungsstarker XForms-Editor, der es ermöglicht, komplexe Formulare zu erstellen und in verschiedene Webanwendungen zu integrieren.
+====Weblinks====
+* [https://www.orbeon.com/ Orbeon Forms]: Ein leistungsstarker XForms-Editor, der es ermöglicht, komplexe Formulare zu erstellen und in verschiedene Webanwendungen zu integrieren.
+
+====Einsatzgebiete von XForms====
+XForms werden in verschiedenen Bereichen eingesetzt, darunter:
+* Gesundheitswesen: Zur Erfassung und Verwaltung von Patientendaten und medizinischen Formularen.
+* Regierungsbehörden: Zur Erstellung und Verwaltung von Formularen für öffentliche Dienstleistungen und Verwaltungsprozesse.
+* Bildungswesen: Zur Erstellung von Umfragen, Prüfungen und Anmeldeformularen.
+* Unternehmen: Zur Automatisierung von Geschäftsprozessen, wie z.B. Bestell- und Feedback-Formulare.
+* Forschung: Zur Datenerfassung und -analyse in wissenschaftlichen Studien und Projekten.
+===XLSForms===
+XLSForms ist ein einfaches und effizientes Format zur Erstellung von Formularen für die Datenerfassung. Es basiert auf Microsoft Excel und ermöglicht es, Formulare mit geringem Aufwand zu erstellen und zu bearbeiten.
+
+====Einsatzgebiete von XLSForms====
+XLSForms werden in verschiedenen Bereichen eingesetzt, darunter:
+* Humanitäre Hilfe: Zur Erfassung von Daten in Notfällen und Krisensituationen.
+* Umweltschutz: Zur Überwachung von Umweltverschmutzung und Naturschutzprojekten.
+* Landwirtschaft: Zur Datenerfassung in der Landwirtschaft und ländlichen Entwicklung.
+* Bildungswesen: Zur Erfassung von Schülerdaten und Schulstatistiken.
+* Gesundheitswesen: Zur Erfassung von Gesundheitsdaten und medizinischen Untersuchungen.
+
+
+==Weblinks==
+*[https://opendatakit.org/ Offizielle Website]</text>
+      <sha1>sbjopby2lxweepd6gr204bn927sa1x8</sha1>
+    </revision>
+    <revision>
+      <id>910</id>
+      <parentid>909</parentid>
+      <timestamp>2024-09-20T10:07:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>910</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1348" sha1="0n4agzxcwkfoi4qpi0fvjxgdfmemnpd" xml:space="preserve">OpenDataKit ist eine Open-Source-Software, die es ermöglicht, Daten zu sammeln, zu verwalten und zu veröffentlichen. Es wurde entwickelt, um die Datenerfassung in Umgebungen mit begrenzter Konnektivität zu unterstützen und ist besonders nützlich für Forschungsprojekte, humanitäre Hilfe und gemeinnützige Organisationen.
+==Tools==
+====Weblinks====
+* [https://www.orbeon.com/ Orbeon Forms]: Ein leistungsstarker XForms-Editor, der es ermöglicht, komplexe Formulare zu erstellen und in verschiedene Webanwendungen zu integrieren.
+
+===XLSForms===
+XLSForms ist ein einfaches und effizientes Format zur Erstellung von Formularen für die Datenerfassung. Es basiert auf Microsoft Excel und ermöglicht es, Formulare mit geringem Aufwand zu erstellen und zu bearbeiten.
+
+====Einsatzgebiete von XLSForms====
+XLSForms werden in verschiedenen Bereichen eingesetzt, darunter:
+* Humanitäre Hilfe: Zur Erfassung von Daten in Notfällen und Krisensituationen.
+* Umweltschutz: Zur Überwachung von Umweltverschmutzung und Naturschutzprojekten.
+* Landwirtschaft: Zur Datenerfassung in der Landwirtschaft und ländlichen Entwicklung.
+* Bildungswesen: Zur Erfassung von Schülerdaten und Schulstatistiken.
+* Gesundheitswesen: Zur Erfassung von Gesundheitsdaten und medizinischen Untersuchungen.
+
+
+==Weblinks==
+*[https://opendatakit.org/ Offizielle Website]</text>
+      <sha1>0n4agzxcwkfoi4qpi0fvjxgdfmemnpd</sha1>
+    </revision>
+    <revision>
+      <id>911</id>
+      <parentid>910</parentid>
+      <timestamp>2024-09-20T10:48:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>911</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1276" sha1="1knkvi3tc068i6b1hx49c4l875iyu4l" xml:space="preserve">OpenDataKit ist eine Open-Source-Software, die es ermöglicht, Daten zu sammeln, zu verwalten und zu veröffentlichen. Es wurde entwickelt, um die Datenerfassung in Umgebungen mit begrenzter Konnektivität zu unterstützen und ist besonders nützlich für Forschungsprojekte, humanitäre Hilfe und gemeinnützige Organisationen.
+==Tools==
+===XLSForms===
+XLSForms ist ein einfaches und effizientes Format zur Erstellung von Formularen für die Datenerfassung. Es basiert auf Microsoft Excel und ermöglicht es, Formulare mit geringem Aufwand zu erstellen und zu bearbeiten.
+* [[Formulare]]: Eine Sammlung von Formularen, die für die Datenerfassung in verschiedenen Bereichen verwendet werden können.
+====Einsatzgebiete von XLSForms====
+XLSForms werden in verschiedenen Bereichen eingesetzt, darunter:
+* Humanitäre Hilfe: Zur Erfassung von Daten in Notfällen und Krisensituationen.
+* Umweltschutz: Zur Überwachung von Umweltverschmutzung und Naturschutzprojekten.
+* Landwirtschaft: Zur Datenerfassung in der Landwirtschaft und ländlichen Entwicklung.
+* Bildungswesen: Zur Erfassung von Schülerdaten und Schulstatistiken.
+* Gesundheitswesen: Zur Erfassung von Gesundheitsdaten und medizinischen Untersuchungen.
+
+
+==Weblinks==
+*[https://opendatakit.org/ Offizielle Website]</text>
+      <sha1>1knkvi3tc068i6b1hx49c4l875iyu4l</sha1>
     </revision>
   </page>
   <page>
@@ -74563,6 +75572,103 @@ Es gibt viele verschiedene Webframeworks, die in verschiedenen Programmiersprach
 ** Actix: Ein weiteres Webframework für Rust, das auf hohe Leistung und Skalierbarkeit optimiert ist.
 *** Einsatzgebiet: Hochleistungs-APIs, Microservices, Echtzeit-Anwendungen.</text>
       <sha1>gjaqhgbn40p9zx9zh1n116819puk7bj</sha1>
+    </revision>
+    <revision>
+      <id>869</id>
+      <parentid>867</parentid>
+      <timestamp>2024-09-18T10:40:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Lernkurve */</comment>
+      <origin>869</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1151" sha1="94svx9ohbu907u09p01b93h30jwkott" xml:space="preserve">Webframeworks sind Software-Frameworks, die die Entwicklung von Webanwendungen, Webdiensten und Web-APIs erleichtern. Sie bieten eine Struktur, die die Entwicklung von Webanwendungen beschleunigt und vereinfacht. Webframeworks bieten eine Vielzahl von Funktionen, die Entwicklern helfen, Webanwendungen schneller und effizienter zu erstellen.
+
+Es gibt viele verschiedene Webframeworks, die in verschiedenen Programmiersprachen geschrieben sind. Einige der beliebtesten Webframeworks sind:
+==Lernkurve==
+* Content-Management-Systeme (CMS)
+** [[Django]]: Ein Webframework für Python, das eine schnelle und effiziente Entwicklung von Webanwendungen ermöglicht.
+*** Einsatzgebiet: Content-Management-Systeme (CMS), E-Commerce-Websites, Social Media Plattformen.
+
+* Hochleistungs-APIs 
+** [[Golang]]: Ein Webframework für Go, das auf Geschwindigkeit und minimalen Ressourcenverbrauch optimiert ist.
+*** Einsatzgebiet: Hochleistungs-APIs, Microservices, Echtzeit-Anwendungen.
+** Actix: Ein weiteres Webframework für Rust, das auf hohe Leistung und Skalierbarkeit optimiert ist.
+*** Einsatzgebiet: Hochleistungs-APIs, Microservices, Echtzeit-Anwendungen.</text>
+      <sha1>94svx9ohbu907u09p01b93h30jwkott</sha1>
+    </revision>
+    <revision>
+      <id>870</id>
+      <parentid>869</parentid>
+      <timestamp>2024-09-18T12:04:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>870</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2037" sha1="1nwv0qdjiero88qoousdlz5wmcz1my0" xml:space="preserve">Webframeworks sind Software-Frameworks, die die Entwicklung von Webanwendungen, Webdiensten und Web-APIs erleichtern. Sie bieten eine Struktur, die die Entwicklung von Webanwendungen beschleunigt und vereinfacht. Webframeworks bieten eine Vielzahl von Funktionen, die Entwicklern helfen, Webanwendungen schneller und effizienter zu erstellen.
+
+Es gibt viele verschiedene Webframeworks, die in verschiedenen Programmiersprachen geschrieben sind. Einige der beliebtesten Webframeworks sind:
+==Lernkurve==
+* Content-Management-Systeme (CMS)
+** [[Django]]: Ein Webframework für Python, das eine schnelle und effiziente Entwicklung von Webanwendungen ermöglicht.
+*** Einsatzgebiet: Content-Management-Systeme (CMS), E-Commerce-Websites, Social-Media-Plattformen.
+
+* Hochleistungs-APIs 
+** [[Golang]]: Ein Webframework für Go, das auf Geschwindigkeit und minimalen Ressourcenverbrauch optimiert ist.
+*** Einsatzgebiet: Hochleistungs-APIs, Microservices, Echtzeitanwendungen.
+** Actix: Ein weiteres Webframework für Rust, das auf hohe Leistung und Skalierbarkeit optimiert ist.
+*** Einsatzgebiet: Hochleistungs-APIs, Microservices, Echtzeitanwendungen.
+
+* Serverseitige Anwendungen
+** [[Express.js]]: Ein minimalistisches und flexibles Webframework für Node.js, das eine Vielzahl von Funktionen für die Entwicklung von serverseitigen Anwendungen bietet.
+*** Einsatzgebiet: RESTful APIs, serverseitige Anwendungen, Echtzeitanwendungen.
+
+* Hochleistungsanwendungen im Web
+** [[C]]: Eine leistungsstarke Programmiersprache, die häufig für systemnahe Programmierung benötigt wird.
+*** Wo benötigt: C wird oft in Webservern und Backend-Diensten verwendet, die eine hohe Leistung und Effizienz erfordern. Beispiele sind Nginx und einige Module von Apache HTTP Server.
+** [[C++]]: Eine Erweiterung von C, die objektorientierte Programmierung unterstützt und für eine Vielzahl von Anwendungen verwendet wird.
+*** Wo benötigt: Es wird auch in Backend-Diensten und Middleware eingesetzt, die eine hohe Leistung und Skalierbarkeit benötigen.</text>
+      <sha1>1nwv0qdjiero88qoousdlz5wmcz1my0</sha1>
+    </revision>
+    <revision>
+      <id>871</id>
+      <parentid>870</parentid>
+      <timestamp>2024-09-18T16:18:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>871</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1753" sha1="dsudoiwvilab75dhdd3yddtn7kn8sri" xml:space="preserve">Webframeworks sind Software-Frameworks, die die Entwicklung von Webanwendungen, Webdiensten und Web-APIs erleichtern. Sie bieten eine Struktur, die die Entwicklung von Webanwendungen beschleunigt und vereinfacht. Webframeworks bieten eine Vielzahl von Funktionen, die Entwicklern helfen, Webanwendungen schneller und effizienter zu erstellen.
+
+Es gibt viele verschiedene Webframeworks, die in verschiedenen Programmiersprachen geschrieben sind. Einige der beliebtesten Webframeworks sind:
+==Lernkurve==
+* Content-Management-Systeme (CMS)
+** [[Django]]: Ein Webframework für Python, das eine schnelle und effiziente Entwicklung von Webanwendungen ermöglicht.
+*** Einsatzgebiet: Content-Management-Systeme (CMS), E-Commerce-Websites, Social-Media-Plattformen.
+
+* Hochleistungs-APIs 
+** [[Golang]]: Ein Webframework für Go, das auf Geschwindigkeit und minimalen Ressourcenverbrauch optimiert ist.
+*** Einsatzgebiet: Hochleistungs-APIs, Microservices, Echtzeitanwendungen.
+** Actix: Ein weiteres Webframework für Rust, das auf hohe Leistung und Skalierbarkeit optimiert ist.
+*** Einsatzgebiet: Hochleistungs-APIs, Microservices, Echtzeitanwendungen.
+
+* Hochleistungsanwendungen im Web
+** [[C]]: Eine leistungsstarke Programmiersprache, die häufig für systemnahe Programmierung benötigt wird.
+*** Wo benötigt: C wird oft in Webservern und Backend-Diensten verwendet, die eine hohe Leistung und Effizienz erfordern. Beispiele sind Nginx und einige Module von Apache HTTP Server.
+** [[C++]]: Eine Erweiterung von C, die objektorientierte Programmierung unterstützt und für eine Vielzahl von Anwendungen verwendet wird.
+*** Wo benötigt: Es wird auch in Backend-Diensten und Middleware eingesetzt, die eine hohe Leistung und Skalierbarkeit benötigen.</text>
+      <sha1>dsudoiwvilab75dhdd3yddtn7kn8sri</sha1>
     </revision>
   </page>
   <page>
@@ -82870,6 +83976,662 @@ code --install-extension  vmware.vscode-boot-dev-pack # Installiert Spring Boot 
 code --install-extension  vscjava.vscode-spring-initializr # Installiert Spring Initializr Extension für Visual Studio Code
 &lt;/pre&gt;</text>
       <sha1>mss5pg91uu5ddrsny2w1uxey245iw1i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Taj Mahal</title>
+    <ns>0</ns>
+    <id>177</id>
+    <revision>
+      <id>873</id>
+      <timestamp>2024-09-18T23:14:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>873</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="257" sha1="myoqiflqizhtzby57q9401afg0i8vsc" xml:space="preserve">Taj Mahal ist ein Restaurand in der Stadt Ahrensburg. Es ist ein indisches Restaurant. Es ist sehr bekannt für seine indische Küche.
+==Adresse==
+* Große Str. 15
+* 22926 Ahrensburg
+
+==Weblinks==
+* [https://www.taj-mahal-ahrensburg.de/ Offizielle Webseite]</text>
+      <sha1>myoqiflqizhtzby57q9401afg0i8vsc</sha1>
+    </revision>
+    <revision>
+      <id>874</id>
+      <parentid>873</parentid>
+      <timestamp>2024-09-18T23:16:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>874</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="306" sha1="kt6a7oky5v53t9d3xpvhnhhl4cpxtd3" xml:space="preserve">{{#display_map:Taj Mahal  ,Ahrensburg, Germany}}
+Taj Mahal ist ein Restaurand in der Stadt Ahrensburg. Es ist ein indisches Restaurant. Es ist sehr bekannt für seine indische Küche.
+==Adresse==
+* Große Str. 15
+* 22926 Ahrensburg
+
+==Weblinks==
+* [https://www.taj-mahal-ahrensburg.de/ Offizielle Webseite]</text>
+      <sha1>kt6a7oky5v53t9d3xpvhnhhl4cpxtd3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Zum Griechen</title>
+    <ns>0</ns>
+    <id>178</id>
+    <revision>
+      <id>876</id>
+      <timestamp>2024-09-18T23:23:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>876</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="644" sha1="jy2jiwjd75oq3yvxsu7b2dxjuam8ziw" xml:space="preserve">Zum Griechen ist ein Restaurant in der Stadt Ahrensburg. Es ist bekannt für seine griechische Küche und seine freundliche Atmosphäre. Das Restaurant bietet eine große Auswahl an traditionellen griechischen Gerichten, darunter Gyros, Souvlaki, Moussaka und Baklava. Die Speisekarte umfasst auch eine Auswahl an vegetarischen und veganen Gerichten. Zum Griechen ist ein beliebter Treffpunkt für Einheimische und Touristen gleichermaßen. Das Restaurant bietet auch Catering für besondere Anlässe und Veranstaltungen an.
+==Adresse==
+* Ohlendamm 1
+* 22926 Ahrensburg
+==Weblinks==
+* [https://www.ahrensburgergrill.de/ Website des Restaurants]</text>
+      <sha1>jy2jiwjd75oq3yvxsu7b2dxjuam8ziw</sha1>
+    </revision>
+    <revision>
+      <id>877</id>
+      <parentid>876</parentid>
+      <timestamp>2024-09-18T23:24:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>877</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="695" sha1="plxmerm66itle01ou4sl9lfxgc39s3k" xml:space="preserve">{{#display_map:Zum Griechen ,Ahrensburg, Germany}}
+Zum Griechen ist ein Restaurant in der Stadt Ahrensburg. Es ist bekannt für seine griechische Küche und seine freundliche Atmosphäre. Das Restaurant bietet eine große Auswahl an traditionellen griechischen Gerichten, darunter Gyros, Souvlaki, Moussaka und Baklava. Die Speisekarte umfasst auch eine Auswahl an vegetarischen und veganen Gerichten. Zum Griechen ist ein beliebter Treffpunkt für Einheimische und Touristen gleichermaßen. Das Restaurant bietet auch Catering für besondere Anlässe und Veranstaltungen an.
+==Adresse==
+* Ohlendamm 1
+* 22926 Ahrensburg
+==Weblinks==
+* [https://www.ahrensburgergrill.de/ Website des Restaurants]</text>
+      <sha1>plxmerm66itle01ou4sl9lfxgc39s3k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Café Goldene Biene</title>
+    <ns>0</ns>
+    <id>179</id>
+    <revision>
+      <id>883</id>
+      <timestamp>2024-09-18T23:50:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>883</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="112" sha1="o7iyrcnohb9tfviztmfrath4cnhso2v" xml:space="preserve">Café Goldene Biene ist ein Café in der Stadt Ahrensburg.
+==Adresse==
+* Hagener Allee 22-24
+*  22926 Ahrensburg</text>
+      <sha1>o7iyrcnohb9tfviztmfrath4cnhso2v</sha1>
+    </revision>
+    <revision>
+      <id>884</id>
+      <parentid>883</parentid>
+      <timestamp>2024-09-18T23:51:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>884</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="169" sha1="k5ob2n809gf55qklmqwii0d3919vbkp" xml:space="preserve">{{#display_map:Café Goldene Biene,Ahrensburg, Germany}}
+Café Goldene Biene ist ein Café in der Stadt Ahrensburg.
+==Adresse==
+* Hagener Allee 22-24
+*  22926 Ahrensburg</text>
+      <sha1>k5ob2n809gf55qklmqwii0d3919vbkp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Café Greco</title>
+    <ns>0</ns>
+    <id>180</id>
+    <revision>
+      <id>886</id>
+      <timestamp>2024-09-19T09:13:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>886</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="88" sha1="rfykkig01xafwkc0ix3dxbbaum7gdgh" xml:space="preserve">Café Greco ist ein Café in Ahrensburg.
+==Adresse==
+* Große Str. 42
+* 22926 Ahrensburg</text>
+      <sha1>rfykkig01xafwkc0ix3dxbbaum7gdgh</sha1>
+    </revision>
+    <revision>
+      <id>887</id>
+      <parentid>886</parentid>
+      <timestamp>2024-09-19T09:15:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>887</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="137" sha1="m5z5xba5iga9tcmixjxf3z3a4gumwdw" xml:space="preserve">{{#display_map:Café Greco,Ahrensburg, Germany}}
+Café Greco ist ein Café in Ahrensburg.
+==Adresse==
+* Große Str. 42
+* 22926 Ahrensburg</text>
+      <sha1>m5z5xba5iga9tcmixjxf3z3a4gumwdw</sha1>
+    </revision>
+    <revision>
+      <id>888</id>
+      <parentid>887</parentid>
+      <timestamp>2024-09-19T09:15:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>888</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="140" sha1="50hk8psf7y8gyafzwh44spbvstg64up" xml:space="preserve">{{#display_map:Große Str. 42,Ahrensburg, Germany}}
+Café Greco ist ein Café in Ahrensburg.
+==Adresse==
+* Große Str. 42
+* 22926 Ahrensburg</text>
+      <sha1>50hk8psf7y8gyafzwh44spbvstg64up</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Cuccuma</title>
+    <ns>0</ns>
+    <id>181</id>
+    <revision>
+      <id>890</id>
+      <timestamp>2024-09-19T09:23:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>890</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="194" sha1="ijwveuhr0no4pkvb94vnr60ez2fm061" xml:space="preserve">Cuccuma ist ein Café in Ahrensburg. Es ist ein Ort, an dem man Kaffee, Kuchen sowie Frühstück und Mittagessen genießen kann. Es ist ein Ort, an dem sich Leute treffen und entspannen können.</text>
+      <sha1>ijwveuhr0no4pkvb94vnr60ez2fm061</sha1>
+    </revision>
+    <revision>
+      <id>891</id>
+      <parentid>890</parentid>
+      <timestamp>2024-09-19T09:25:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>891</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="307" sha1="o0r3uo05kkdhu9qno6ymbpd1mifwejx" xml:space="preserve">Cuccuma ist ein Café in Ahrensburg. Es ist ein Ort, an dem man Kaffee, Kuchen sowie Frühstück und Mittagessen genießen kann. Es ist ein Ort, an dem sich Leute treffen und entspannen können.
+
+==Adresse== 
+* Manhagener Allee 46
+* 22926 Ahrensburg
+
+==Weblinks==
+* [https://cuccuma.org/ Offizielle Website]</text>
+      <sha1>o0r3uo05kkdhu9qno6ymbpd1mifwejx</sha1>
+    </revision>
+    <revision>
+      <id>892</id>
+      <parentid>891</parentid>
+      <timestamp>2024-09-19T09:27:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>892</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="352" sha1="qp76nnhcwpcqx8kgzfl9433pxmjt1zr" xml:space="preserve">{{#display_map:Cuccuma,Ahrensburg, Germany}}
+Cuccuma ist ein Café in Ahrensburg. Es ist ein Ort, an dem man Kaffee, Kuchen sowie Frühstück und Mittagessen genießen kann. Es ist ein Ort, an dem sich Leute treffen und entspannen können.
+
+==Adresse== 
+* Manhagener Allee 46
+* 22926 Ahrensburg
+
+==Weblinks==
+* [https://cuccuma.org/ Offizielle Website]</text>
+      <sha1>qp76nnhcwpcqx8kgzfl9433pxmjt1zr</sha1>
+    </revision>
+    <revision>
+      <id>893</id>
+      <parentid>892</parentid>
+      <timestamp>2024-09-19T09:27:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>893</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="364" sha1="ljq8ku3rms0x8ewodais7q8w3kfh50u" xml:space="preserve">{{#display_map:Manhagener Allee 46,Ahrensburg, Germany}}
+Cuccuma ist ein Café in Ahrensburg. Es ist ein Ort, an dem man Kaffee, Kuchen sowie Frühstück und Mittagessen genießen kann. Es ist ein Ort, an dem sich Leute treffen und entspannen können.
+
+==Adresse== 
+* Manhagener Allee 46
+* 22926 Ahrensburg
+
+==Weblinks==
+* [https://cuccuma.org/ Offizielle Website]</text>
+      <sha1>ljq8ku3rms0x8ewodais7q8w3kfh50u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>XForms</title>
+    <ns>0</ns>
+    <id>182</id>
+    <revision>
+      <id>898</id>
+      <timestamp>2024-09-19T12:58:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>898</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="37" sha1="gwfnpuqi3ncm5zo62n0n0j2529s736a" xml:space="preserve">XForms mit [[LibreOffice]] erstellen.</text>
+      <sha1>gwfnpuqi3ncm5zo62n0n0j2529s736a</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>LibreOffice</title>
+    <ns>0</ns>
+    <id>183</id>
+    <revision>
+      <id>899</id>
+      <timestamp>2024-09-19T13:16:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>899</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1709" sha1="jtrp2gxsuu6fahqq1899ilobl311g42" xml:space="preserve">LibreOffice ist eine freie Software, die eine Vielzahl von Anwendungen zur Textverarbeitung, Tabellenkalkulation, Präsentationserstellung und mehr bietet. Es ist eine großartige Alternative zu proprietärer Software wie Microsoft Office und bietet viele der gleichen Funktionen.
+
+
+== LibreOffice Paket besteht aus mehreren Anwendungen, darunter:==
+
+* LibreOffice Writer: Eine Textverarbeitungsanwendung, die es Ihnen ermöglicht, Dokumente zu erstellen, zu bearbeiten und zu formatieren. Einsatzgebiete umfassen das Verfassen von Berichten, Briefen, Artikeln und anderen Textdokumenten.
+* LibreOffice Calc: Eine Tabellenkalkulationsanwendung, die es Ihnen ermöglicht, Tabellen zu erstellen, zu bearbeiten und zu analysieren. Einsatzgebiete umfassen Finanzplanung, Datenanalyse, Budgetierung und Erstellung von Diagrammen.
+* LibreOffice Impress: Eine Präsentationsanwendung, die es Ihnen ermöglicht, Präsentationen zu erstellen und zu bearbeiten. Einsatzgebiete umfassen Geschäftspräsentationen, Schulungen, Vorträge und Konferenzen.
+* LibreOffice Draw: Eine Vektorgrafikanwendung, die es Ihnen ermöglicht, Diagramme und Zeichnungen zu erstellen. Einsatzgebiete umfassen das Erstellen von Flussdiagrammen, technischen Zeichnungen, Postern und Grafiken.
+* [[LibreOffice Base]]: Eine Datenbankanwendung, die es Ihnen ermöglicht, Datenbanken zu erstellen und zu verwalten. Einsatzgebiete umfassen die Verwaltung von Kundendaten, Inventar, Projekten und anderen Datenbanken.
+* LibreOffice Math: Eine Formeleditoranwendung, die es Ihnen ermöglicht, mathematische Formeln und Gleichungen zu erstellen. Einsatzgebiete umfassen wissenschaftliche Arbeiten, technische Dokumentationen und Bildungsunterlagen.</text>
+      <sha1>jtrp2gxsuu6fahqq1899ilobl311g42</sha1>
+    </revision>
+    <revision>
+      <id>908</id>
+      <parentid>899</parentid>
+      <timestamp>2024-09-19T22:06:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>908</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1708" sha1="8dqoyvyybh81zrvbabgmxjzlt64gg70" xml:space="preserve">LibreOffice ist eine freie Software, die eine Vielzahl von Anwendungen zur Textverarbeitung, Tabellenkalkulation, Präsentationserstellung und mehr bietet. Es ist eine großartige Alternative zu proprietärer Software wie Microsoft Office und bietet viele der gleichen Funktionen.
+
+== LibreOffice Paket besteht aus mehreren Anwendungen, darunter:==
+
+* LibreOffice Writer: Eine Textverarbeitungsanwendung, die es Ihnen ermöglicht, Dokumente zu erstellen, zu bearbeiten und zu formatieren. Einsatzgebiete umfassen das Verfassen von Berichten, Briefen, Artikeln und anderen Textdokumenten.
+* LibreOffice Calc: Eine Tabellenkalkulationsanwendung, die es Ihnen ermöglicht, Tabellen zu erstellen, zu bearbeiten und zu analysieren. Einsatzgebiete umfassen Finanzplanung, Datenanalyse, Budgetierung und Erstellung von Diagrammen.
+* LibreOffice Impress: Eine Präsentationsanwendung, die es Ihnen ermöglicht, Präsentationen zu erstellen und zu bearbeiten. Einsatzgebiete umfassen Geschäftspräsentationen, Schulungen, Vorträge und Konferenzen.
+* LibreOffice Draw: Eine Vektorgrafikanwendung, die es Ihnen ermöglicht, Diagramme und Zeichnungen zu erstellen. Einsatzgebiete umfassen das Erstellen von Flussdiagrammen, technischen Zeichnungen, Postern und Grafiken.
+* [[LibreOffice Base]]: Eine Datenbankanwendung, die es Ihnen ermöglicht, Datenbanken zu erstellen und zu verwalten. Einsatzgebiete umfassen die Verwaltung von Kundendaten, Inventar, Projekten und anderen Datenbanken.
+* LibreOffice Math: Eine Formeleditoranwendung, die es Ihnen ermöglicht, mathematische Formeln und Gleichungen zu erstellen. Einsatzgebiete umfassen wissenschaftliche Arbeiten, technische Dokumentationen und Bildungsunterlagen.</text>
+      <sha1>8dqoyvyybh81zrvbabgmxjzlt64gg70</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>LibreOffice Base</title>
+    <ns>0</ns>
+    <id>184</id>
+    <revision>
+      <id>900</id>
+      <timestamp>2024-09-19T13:42:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>900</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="717" sha1="4ajquiigamo92dee79t71jnbajsfems" xml:space="preserve">LibreOffice Base ist eine Datenbankanwendung, die eine Datenbank-Engine enthält, mit der Sie Datenbanken erstellen, bearbeiten und verwalten können. Sie können Datenbanken erstellen, die in einer Vielzahl von Formaten gespeichert werden können, einschließlich der von anderen Datenbankmanagementsystemen wie Microsoft Access und MySQL verwendeten Formate. Sie können auch auf Datenbanken zugreifen, die in diesen Formaten gespeichert sind, und Datenbanken erstellen, die in diesen Formaten gespeichert sind.
+
+== Ubuntu 24.04 LTS Installieren ==
+1. Öffnen Sie ein Terminal.
+2. Führen Sie den folgenden Befehl aus, um LibreOffice Base zu installieren:
+```
+sudo snap install libreoffice
+sudo apt install libodbc2</text>
+      <sha1>4ajquiigamo92dee79t71jnbajsfems</sha1>
+    </revision>
+    <revision>
+      <id>901</id>
+      <parentid>900</parentid>
+      <timestamp>2024-09-19T13:50:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>901</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="721" sha1="j2mw5tbtw0zhqr4rh5cwpriyxn2ztiy" xml:space="preserve">LibreOffice Base ist eine Datenbankanwendung, die eine Datenbank-Engine enthält, mit der Sie Datenbanken erstellen, bearbeiten und verwalten können. Sie können Datenbanken erstellen, die in einer Vielzahl von Formaten gespeichert werden können, einschließlich der von anderen Datenbankmanagementsystemen wie Microsoft Access und MySQL verwendeten Formate. Sie können auch auf Datenbanken zugreifen, die in diesen Formaten gespeichert sind, und Datenbanken erstellen, die in diesen Formaten gespeichert sind.
+
+== Ubuntu 24.04 LTS Installieren ==
+1. Öffnen Sie ein Terminal.
+2. Führen Sie den folgenden Befehl aus, um LibreOffice Base zu installieren:
+```
+sudo snap install libreoffice
+sudo apt install libodbc2
+```</text>
+      <sha1>j2mw5tbtw0zhqr4rh5cwpriyxn2ztiy</sha1>
+    </revision>
+    <revision>
+      <id>903</id>
+      <parentid>901</parentid>
+      <timestamp>2024-09-19T15:19:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>903</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="719" sha1="1n1gebbduqho99majsfqgbdapk2yc3n" xml:space="preserve">LibreOffice Base ist eine Datenbankanwendung, die eine Datenbank-Engine enthält, mit der Sie Datenbanken erstellen, bearbeiten und verwalten können. Sie können Datenbanken erstellen, die in einer Vielzahl von Formaten gespeichert werden können, einschließlich der von anderen Datenbankmanagementsystemen wie Microsoft Access und MySQL verwendeten Formate. Sie können auch auf Datenbanken zugreifen, die in diesen Formaten gespeichert sind, und Datenbanken erstellen, die in diesen Formaten gespeichert sind.
+
+== Ubuntu 24.04 LTS Installieren ==
+# Öffnen Sie ein Terminal.
+# Führen Sie den folgenden Befehl aus, um LibreOffice Base zu installieren:
+```
+sudo snap install libreoffice
+sudo apt install libodbc2
+```</text>
+      <sha1>1n1gebbduqho99majsfqgbdapk2yc3n</sha1>
+    </revision>
+    <revision>
+      <id>904</id>
+      <parentid>903</parentid>
+      <timestamp>2024-09-19T15:21:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Ubuntu 24.04 LTS Installieren */</comment>
+      <origin>904</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="724" sha1="e6skjm68acdjr2s4w7hiwkmnwjggdpw" xml:space="preserve">LibreOffice Base ist eine Datenbankanwendung, die eine Datenbank-Engine enthält, mit der Sie Datenbanken erstellen, bearbeiten und verwalten können. Sie können Datenbanken erstellen, die in einer Vielzahl von Formaten gespeichert werden können, einschließlich der von anderen Datenbankmanagementsystemen wie Microsoft Access und MySQL verwendeten Formate. Sie können auch auf Datenbanken zugreifen, die in diesen Formaten gespeichert sind, und Datenbanken erstellen, die in diesen Formaten gespeichert sind.
+
+== Ubuntu 24.04 LTS Installieren ==
+# Öffnen Sie ein Terminal.
+# Führen Sie den folgenden Befehl aus, um LibreOffice Base zu installieren:
+&lt;pre&gt;
+sudo snap install libreoffice
+sudo apt install libodbc2
+&lt;/pre&gt;</text>
+      <sha1>e6skjm68acdjr2s4w7hiwkmnwjggdpw</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Startmedienersteller</title>
+    <ns>0</ns>
+    <id>185</id>
+    <revision>
+      <id>902</id>
+      <timestamp>2024-09-19T14:29:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Installation== &lt;pre&gt; sudo apt-get install usb-creator-gtk  &lt;/pre&gt;“</comment>
+      <origin>902</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="67" sha1="ayfo2pu14xw2ewa7vh3b0vv7381wd03" xml:space="preserve">==Installation==
+&lt;pre&gt;
+sudo apt-get install usb-creator-gtk 
+&lt;/pre&gt;</text>
+      <sha1>ayfo2pu14xw2ewa7vh3b0vv7381wd03</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Formulare</title>
+    <ns>0</ns>
+    <id>186</id>
+    <revision>
+      <id>914</id>
+      <timestamp>2024-09-20T11:39:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>914</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4056" sha1="rl7k25c04y2qluuyswf77j3evhlex2e" xml:space="preserve">Formulare ist eine Sammlung von Feldern, die es Benutzern ermöglichen, Daten in einer strukturierten Weise einzugeben. Formulare können in Wikitext-Seiten eingebettet werden, um Benutzern die Eingabe von Daten zu erleichtern. Die Formulare können dann verwendet werden, um Daten in einer Datenbank zu speichern oder um andere Aktionen auszuführen. Formulare können auch verwendet werden, um Benutzern die Eingabe von Daten in einer strukturierten Weise zu ermöglichen. Formulare können in Wikitext-Seiten eingebettet werden, um Benutzern die Eingabe von Daten zu erleichtern. Die Formulare können dann verwendet werden, um Daten in einer Datenbank zu speichern oder um andere Aktionen auszuführen. Formulare können auch verwendet werden, um Benutzern die Eingabe von Daten in einer strukturierten Weise zu ermöglichen. Formulare können in Wikitext-Seiten eingebettet werden, um Benutzern die Eingabe von Daten zu erleichtern. Die Formulare können dann verwendet werden, um Daten in einer Datenbank zu speichern oder um andere Aktionen auszuführen. Formulare können auch verwendet werden, um Benutzern die Eingabe von Daten in einer strukturierten Weise zu ermöglichen. Formulare können in Wikitext-Seiten eingebettet werden, um Benutzern die Eingabe von Daten zu erleichtern. Die Formulare können dann verwendet werden, um Daten in einer Datenbank zu speichern oder um andere Aktionen auszuführen. Formulare können auch verwendet werden, um Benutzern die Eingabe von Daten in einer strukturierten Weise zu ermöglichen. Formulare können in Wikitext-Seiten eingebettet werden, um Benutzern die Eingabe von Daten zu erleichtern. Die Formulare können dann verwendet werden, um Daten in einer Datenbank zu speichern oder um andere Aktionen auszuführen. Formulare können auch verwendet werden, um Benutzern die Eingabe von Daten in einer strukturierten Weise zu ermöglichen. Formulare können in Wikitext-Seiten eingebettet werden,    
+==OpenDataKit Formulare erstellen==
+OpenDataKit (ODK) ist eine Open-Source-Plattform, die es Benutzern ermöglicht, Formulare zu erstellen, die auf mobilen Geräten verwendet werden können. ODK bietet eine Reihe von Tools, mit denen Benutzer Formulare erstellen, verwalten und auf mobilen Geräten bereitstellen können. ODK bietet auch eine Reihe von Funktionen, mit denen Benutzer Daten sammeln, speichern und analysieren können. ODK ist eine leistungsstarke Plattform, die es Benutzern ermöglicht, Formulare zu erstellen, die auf mobilen Geräten verwendet werden können. ODK bietet eine Reihe von Tools, mit denen Benutzer Formulare erstellen, verwalten und auf mobilen Geräten bereitstellen können. ODK bietet auch eine Reihe von Funktionen, mit denen Benutzer Daten sammeln, speichern und analysieren können. ODK ist eine leistungsstarke Plattform, die es Benutzern ermöglicht, Formulare zu erstellen, die auf mobilen Geräten verwendet werden können. ODK bietet eine Reihe von Tools, mit denen Benutzer Formulare erstellen, verwalten und auf mobilen Geräten bereitstellen können. ODK bietet auch eine Reihe von Funktionen, mit denen Benutzer Daten sammeln, speichern und analysieren können. ODK ist eine leistungsstarke Plattform, die es Benutzern ermöglicht, Formulare zu erstellen, die auf mobilen Geräten verwendet werden können. ODK bietet eine Reihe von Tools, mit denen Benutzer Formulare erstellen, verwalten und auf mobilen Geräten bereitstellen können. ODK bietet auch eine Reihe von Funktionen, mit denen Benutzer Daten sammeln, speichern und analysieren können. ODK ist eine leistungsstarke Plattform, die es Benutzern ermöglicht, Formulare zu erstellen, die auf mobilen Geräten verwendet werden können. ODK bietet eine Reihe von Tools, mit denen Benutzer Formulare erstellen, verwalten und auf mobilen Geräten bereitstellen können. ODK bietet auch eine Reihe von Funktionen, mit denen Benutzer Daten sammeln, speichern und analysieren können.
+* [[OPENDATAKIT:Einfache Formulare erstellen]]
+==Formulare in Mediawiki Extension==
+==Django Formulare erstellen==</text>
+      <sha1>rl7k25c04y2qluuyswf77j3evhlex2e</sha1>
+    </revision>
+    <revision>
+      <id>915</id>
+      <parentid>914</parentid>
+      <timestamp>2024-09-20T11:42:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>915</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="259" sha1="h40r8pn55kexs82fdpxl1z82303h1p5" xml:space="preserve">Formulare ist eine Sammlung von Feldern, die es Benutzern ermöglichen, Daten in einer strukturierten Weise einzugeben. 
+===OpenDataKit (ODK)===
+* [[OPENDATAKIT:Einfache Formulare erstellen]]
+==Formulare in Mediawiki Extension==
+==Django Formulare erstellen==</text>
+      <sha1>h40r8pn55kexs82fdpxl1z82303h1p5</sha1>
+    </revision>
+    <revision>
+      <id>916</id>
+      <parentid>915</parentid>
+      <timestamp>2024-09-20T11:42:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>916</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="257" sha1="dckoga96qp7vpm7azw67qa709y8hx62" xml:space="preserve">Formulare ist eine Sammlung von Feldern, die es Benutzern ermöglichen, Daten in einer strukturierten Weise einzugeben. 
+==OpenDataKit (ODK)==
+* [[OPENDATAKIT:Einfache Formulare erstellen]]
+==Formulare in Mediawiki Extension==
+==Django Formulare erstellen==</text>
+      <sha1>dckoga96qp7vpm7azw67qa709y8hx62</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ljkljkl</title>
+    <ns>0</ns>
+    <id>187</id>
+    <revision>
+      <id>917</id>
+      <timestamp>2024-09-20T15:57:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „{{Formular}}   {{Feld|Typ=Text|Label=Titel|Name=Titel}}   {{Feld|Typ=Auswahl|Label=Kategorie|Optionen=Kategorie1,Kategorie2,Kategorie3|Name=Kategorie}} {{Ende}}“</comment>
+      <origin>917</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="160" sha1="ijqeoua7tva3r1angzmg42uqbvw16bx" xml:space="preserve">{{Formular}}
+  {{Feld|Typ=Text|Label=Titel|Name=Titel}}
+  {{Feld|Typ=Auswahl|Label=Kategorie|Optionen=Kategorie1,Kategorie2,Kategorie3|Name=Kategorie}}
+{{Ende}}</text>
+      <sha1>ijqeoua7tva3r1angzmg42uqbvw16bx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>20 September Die Mobilität von morgen</title>
+    <ns>0</ns>
+    <id>188</id>
+    <revision>
+      <id>919</id>
+      <timestamp>2024-09-20T18:26:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;&lt;youtube&gt;NFSCZd9MA6M&amp;t=68s&lt;/youtube&gt;“</comment>
+      <origin>919</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="37" sha1="dtdduopc9ru4hpqnui7jri46s06vla0" xml:space="preserve">&lt;&lt;youtube&gt;NFSCZd9MA6M&amp;t=68s&lt;/youtube&gt;</text>
+      <sha1>dtdduopc9ru4hpqnui7jri46s06vla0</sha1>
+    </revision>
+    <revision>
+      <id>920</id>
+      <parentid>919</parentid>
+      <timestamp>2024-09-20T18:54:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>920</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1100" sha1="9ipjmc3dn8ybhp2dpi42jyo9h4o7upc" xml:space="preserve">&lt;&lt;youtube&gt;NFSCZd9MA6M&amp;t=68s&lt;/youtube&gt;
+
+==Radschnellweg Ahrensburg-Hamburg==
+Die Stadt Ahrensburg und das Planungsbüro stellten die Machbarkeitsstudie bereits 2019 vor. Der Radschnellweg Ahrensburg-Hamburg soll die Stadt Ahrensburg mit Hamburg verbinden. Die Machbarkeitsstudie wurde von der Stadt Ahrensburg und dem Planungsbüro VIA im Rahmen des Projektes „Radschnellwege in Schleswig-Holstein“ erstellt. Der Radschnellweg Ahrensburg-Hamburg soll die Stadt Ahrensburg mit Hamburg verbinden.
+Nur die Politiker unternehmen nichts. Die Politiker denken nur an Autofahrer, weil diese auch KFZ-Steuer zahlen. Die Radfahrer zahlen keine Steuer.
+===Weblinks===
+* [https://g.co/gemini/share/50505c4fdaeb Artikelsammlung zum Radschnellweg Ahrensburg-Hamburg]
+* [https://metropolregion.hamburg.de/was-wir-tun/mobilitaet/radschnellwege/radschnellweg-ahrensburg-hamburg-14402 Metropolregion Hamburg]
+* [https://www.ahrensburg.de/Bauen-Umwelt-Klimaschutz/Stra%C3%9Fenwesen/Radverkehr/Radschnellwege-Metropolregion/ Metropolregion Hamburg]
+* [https://veloroute.hamburg/rsw-ahrensburg Metropolregion Hamburg]</text>
+      <sha1>9ipjmc3dn8ybhp2dpi42jyo9h4o7upc</sha1>
+    </revision>
+    <revision>
+      <id>921</id>
+      <parentid>920</parentid>
+      <timestamp>2024-09-20T18:56:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Radschnellweg Ahrensburg-Hamburg */</comment>
+      <origin>921</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1015" sha1="f6ivc9kqgtow9x99xu5vpdv2594h8sm" xml:space="preserve">&lt;&lt;youtube&gt;NFSCZd9MA6M&amp;t=68s&lt;/youtube&gt;
+
+==Radschnellweg Ahrensburg-Hamburg==
+Die Stadt Ahrensburg und das Planungsbüro stellten die Machbarkeitsstudie bereits 2019 vor. Der Radschnellweg Ahrensburg-Hamburg soll die Stadt Ahrensburg mit Hamburg verbinden. Die Machbarkeitsstudie wurde von der Stadt Ahrensburg und dem Planungsbüro VIA im Rahmen des Projektes „Radschnellwege in Schleswig-Holstein“ erstellt. 
+Nur die Politiker unternehmen nichts. Die Politiker denken nur an Autofahrer, weil diese auch KFZ-Steuer zahlen. Die Radfahrer zahlen keine Steuer.
+===Weblinks===
+* [https://g.co/gemini/share/50505c4fdaeb Artikelsammlung zum Radschnellweg Ahrensburg-Hamburg]
+* [https://metropolregion.hamburg.de/was-wir-tun/mobilitaet/radschnellwege/radschnellweg-ahrensburg-hamburg-14402 Metropolregion Hamburg]
+* [https://www.ahrensburg.de/Bauen-Umwelt-Klimaschutz/Stra%C3%9Fenwesen/Radverkehr/Radschnellwege-Metropolregion/ Metropolregion Hamburg]
+* [https://veloroute.hamburg/rsw-ahrensburg Metropolregion Hamburg]</text>
+      <sha1>f6ivc9kqgtow9x99xu5vpdv2594h8sm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Caligo Coffee</title>
+    <ns>0</ns>
+    <id>189</id>
+    <revision>
+      <id>923</id>
+      <timestamp>2024-09-21T17:33:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>923</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="201" sha1="1vdbgizijfnq8aqbrw0baqml6kna4w1" xml:space="preserve">Caligo Coffee ist ein Kaffeehaus in der Stadtmitte von Ahrenaburg. 
+==Adresse==
+* Caligo Coffee
+* Hamburger Straße 254
+* 22926 Ahrensburg
+==Weblinks==
+* [https://caligo-kaffee.com/ Offizielle Website]</text>
+      <sha1>1vdbgizijfnq8aqbrw0baqml6kna4w1</sha1>
+    </revision>
+    <revision>
+      <id>924</id>
+      <parentid>923</parentid>
+      <timestamp>2024-09-21T17:35:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>924</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="252" sha1="89zpnhcuvmqcb2wws5039hrlzg245n4" xml:space="preserve">{{#display_map:Caligo Coffee,Ahrensburg, Germany}}
+Caligo Coffee ist ein Kaffeehaus in der Stadtmitte von Ahrenaburg. 
+==Adresse==
+* Caligo Coffee
+* Hamburger Straße 254
+* 22926 Ahrensburg
+==Weblinks==
+* [https://caligo-kaffee.com/ Offizielle Website]</text>
+      <sha1>89zpnhcuvmqcb2wws5039hrlzg245n4</sha1>
     </revision>
   </page>
 </mediawiki>
