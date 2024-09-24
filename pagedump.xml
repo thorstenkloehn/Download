@@ -3229,6 +3229,348 @@ Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhi
 * [https://copilot.microsoft.com/sl/dDIV5t7LgHc copilot.microsoft]</text>
       <sha1>c0zhdc1mqxs4xihodzi8mjcuyq02t04</sha1>
     </revision>
+    <revision>
+      <id>925</id>
+      <parentid>787</parentid>
+      <timestamp>2024-09-22T12:29:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>925</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2564" sha1="0ks5c9vqdvfszsy7662uakjzb7iurba" xml:space="preserve">[[datei;bild.jpg]]
+{{#display_map:Ahrensburg, Germany}}
+
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+{{#geocode:Ahrensburg}}
+== Allgemein ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Bots]]
+* [[OpenStreetMap Tools]]
+* [[Web-Gis]]
+* [[Cookie-Banner selbst programmieren]]
+* [[cookie banner extensions]]
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]
+* [https://g.co/gemini/share/468e3398ad02 Germini Ahrensburg]
+* [https://copilot.microsoft.com/sl/dDIV5t7LgHc copilot.microsoft]</text>
+      <sha1>0ks5c9vqdvfszsy7662uakjzb7iurba</sha1>
+    </revision>
+    <revision>
+      <id>927</id>
+      <parentid>925</parentid>
+      <timestamp>2024-09-22T12:29:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>927</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2564" sha1="hmwzq30eapqivkplss7nzr1h7b7b355" xml:space="preserve">[[datei:bild.jpg]]
+{{#display_map:Ahrensburg, Germany}}
+
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+{{#geocode:Ahrensburg}}
+== Allgemein ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Bots]]
+* [[OpenStreetMap Tools]]
+* [[Web-Gis]]
+* [[Cookie-Banner selbst programmieren]]
+* [[cookie banner extensions]]
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]
+* [https://g.co/gemini/share/468e3398ad02 Germini Ahrensburg]
+* [https://copilot.microsoft.com/sl/dDIV5t7LgHc copilot.microsoft]</text>
+      <sha1>hmwzq30eapqivkplss7nzr1h7b7b355</sha1>
+    </revision>
+    <revision>
+      <id>928</id>
+      <parentid>927</parentid>
+      <timestamp>2024-09-22T12:30:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>928</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2564" sha1="tfzc3qvbqbaeffcc8tq0l1d6aprsg9k" xml:space="preserve">[[image:bild.jpg]]
+{{#display_map:Ahrensburg, Germany}}
+
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+{{#geocode:Ahrensburg}}
+== Allgemein ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Bots]]
+* [[OpenStreetMap Tools]]
+* [[Web-Gis]]
+* [[Cookie-Banner selbst programmieren]]
+* [[cookie banner extensions]]
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]
+* [https://g.co/gemini/share/468e3398ad02 Germini Ahrensburg]
+* [https://copilot.microsoft.com/sl/dDIV5t7LgHc copilot.microsoft]</text>
+      <sha1>tfzc3qvbqbaeffcc8tq0l1d6aprsg9k</sha1>
+    </revision>
+    <revision>
+      <id>929</id>
+      <parentid>928</parentid>
+      <timestamp>2024-09-22T12:33:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>929</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2615" sha1="gddooe519kqbs6zh7icrluc8zmlz6uk" xml:space="preserve">&lt;img src="https://example.com/bild.jpg" alt="Beschreibung des Bildes"
+{{#display_map:Ahrensburg, Germany}}
+
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+{{#geocode:Ahrensburg}}
+== Allgemein ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Bots]]
+* [[OpenStreetMap Tools]]
+* [[Web-Gis]]
+* [[Cookie-Banner selbst programmieren]]
+* [[cookie banner extensions]]
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]
+* [https://g.co/gemini/share/468e3398ad02 Germini Ahrensburg]
+* [https://copilot.microsoft.com/sl/dDIV5t7LgHc copilot.microsoft]</text>
+      <sha1>gddooe519kqbs6zh7icrluc8zmlz6uk</sha1>
+    </revision>
+    <revision>
+      <id>930</id>
+      <parentid>929</parentid>
+      <timestamp>2024-09-22T12:34:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>930</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2614" sha1="eslm7b9f9e2p69smaeit0ukn8slsyjh" xml:space="preserve">[[https://example.com/bild.jpg|thumb|200px|Beschreibung des Bildes]]
+{{#display_map:Ahrensburg, Germany}}
+
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+{{#geocode:Ahrensburg}}
+== Allgemein ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Bots]]
+* [[OpenStreetMap Tools]]
+* [[Web-Gis]]
+* [[Cookie-Banner selbst programmieren]]
+* [[cookie banner extensions]]
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]
+* [https://g.co/gemini/share/468e3398ad02 Germini Ahrensburg]
+* [https://copilot.microsoft.com/sl/dDIV5t7LgHc copilot.microsoft]</text>
+      <sha1>eslm7b9f9e2p69smaeit0ukn8slsyjh</sha1>
+    </revision>
+    <revision>
+      <id>931</id>
+      <parentid>930</parentid>
+      <timestamp>2024-09-22T12:35:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>931</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2564" sha1="qrzp2k7pv9xovdpr4svdiod9siwp37t" xml:space="preserve">[[Datei:bild.jpg]]
+{{#display_map:Ahrensburg, Germany}}
+
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+{{#geocode:Ahrensburg}}
+== Allgemein ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Bots]]
+* [[OpenStreetMap Tools]]
+* [[Web-Gis]]
+* [[Cookie-Banner selbst programmieren]]
+* [[cookie banner extensions]]
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]
+* [https://g.co/gemini/share/468e3398ad02 Germini Ahrensburg]
+* [https://copilot.microsoft.com/sl/dDIV5t7LgHc copilot.microsoft]</text>
+      <sha1>qrzp2k7pv9xovdpr4svdiod9siwp37t</sha1>
+    </revision>
+    <revision>
+      <id>932</id>
+      <parentid>931</parentid>
+      <timestamp>2024-09-22T12:37:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>932</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2545" sha1="lp06ftnv40su13ble2ss5kb7znhpbhb" xml:space="preserve">{{#display_map:Ahrensburg, Germany}}
+
+== Willkommen auf der Hauptseite ==
+Die '''Hauptseite''' ist die erste Seite, die Besucher einer Wiki-Website sehen. Sie enthält Links zu den wichtigsten Artikeln und Kategorien der Website. Die Hauptseite und alle Artikel können nur von Administratoren bearbeitet werden, da es in der Vergangenheit zu viel Spam gab.
+Wiki-Artikel können nur von Administratoren bearbeitet werden, um Spam zu verhindern.
+{{#geocode:Ahrensburg}}
+== Allgemein ==
+* [[Geografie]] - Informationen über die geographische Lage, das Klima und die Landschaft der Stadt
+* [[Geschichte]] - Eine Übersicht über die Geschichte der Stadt und ihrer Entwicklung
+* [[Kultur]] - Informationen über kulturelle Veranstaltungen, Museen, Theater und andere kulturelle Einrichtungen
+* [[Bildung]] - Informationen über Schulen, Universitäten und andere Bildungseinrichtungen
+* [[Wirtschaft]] - Informationen über die lokale Wirtschaft, Unternehmen und Arbeitsmöglichkeiten
+* [[Verkehr]] - Informationen über öffentliche Verkehrsmittel, Straßen und Verkehrsanbindungen
+* [[Freizeit]] - Informationen über Parks, Sportvereine, Freizeitaktivitäten und Erholungsgebiete
+* [[Gesundheit]] - Informationen über Krankenhäuser, Ärzte und andere Gesundheitseinrichtungen
+* [[Verwaltung]] - Informationen über die Stadtverwaltung, wichtige Adressen und Ansprechpartner
+* [[Tourismus]] - Informationen für Touristen, Sehenswürdigkeiten, Unterkünfte und Restaurants
+* [[Umwelt]] - Informationen über Umweltschutz, Naturschutzgebiete und nachhaltige Initiativen
+* [[Bürgerbeteiligung]] - Informationen über Möglichkeiten zur Bürgerbeteiligung und lokale Initiativen
+* [[Ahrensburg.city:Tools]]
+* [[Bots]]
+* [[OpenStreetMap Tools]]
+* [[Web-Gis]]
+* [[Cookie-Banner selbst programmieren]]
+* [[cookie banner extensions]]
+
+== Nützliche Links ==
+
+* [https://www.ahrensburg.de Offizielle Website der Stadt Ahrensburg] - Informationen über die Stadtverwaltung, Veranstaltungen und Dienstleistungen
+* [https://de.wikipedia.org/wiki/Ahrensburg Wikipedia-Artikel über Ahrensburg] - Informationen über die Geschichte, Geographie und Kultur der Stadt
+* [https://www.ahrensburg-portal.de Ahrensburg-Portal] - Lokale Nachrichten, Veranstaltungskalender und Kleinanzeigen
+* [https://ahrensburg-blog.de/ ahrensburg-blog.de] - Blog über Ahrensburg und Umgebung
+* [https://de.wikivoyage.org/wiki/Ahrensburg Wikivoyage]
+* [https://g.co/gemini/share/468e3398ad02 Germini Ahrensburg]
+* [https://copilot.microsoft.com/sl/dDIV5t7LgHc copilot.microsoft]</text>
+      <sha1>lp06ftnv40su13ble2ss5kb7znhpbhb</sha1>
+    </revision>
   </page>
   <page>
     <title>SMW/Schema:Group:Schema properties</title>
@@ -68407,6 +68749,348 @@ In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beisp
 *</text>
       <sha1>0kxb99u240l0415gp76zp66g94n65tg</sha1>
     </revision>
+    <revision>
+      <id>933</id>
+      <parentid>894</parentid>
+      <timestamp>2024-09-22T22:35:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>933</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3445" sha1="44mfw7npd8i6ry66piulmhcq3f55lxt" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - ZEITLOS AHRENSBURG - Robben Café - Stadtbäckerei Schacht/ Stulle&amp;Co - Noris Bar - Eiscafé La Volpe - Junge Die Bäckerei - Restaurant Söbentein - Eiscafé Gelato - Nur Hier GmbH - Junge Die Bäckerei - glück auf - Caligo Kaffeerösterei - Rio Grande Ahrensburg - Repair Café Ahrensburg - Dat Backhus
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>44mfw7npd8i6ry66piulmhcq3f55lxt</sha1>
+    </revision>
+    <revision>
+      <id>934</id>
+      <parentid>933</parentid>
+      <timestamp>2024-09-22T22:36:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>934</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3449" sha1="dxsb89vew7otugtskinh1bvzs4iaaa1" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - Robben Café - Stadtbäckerei Schacht/ Stulle&amp;Co - Noris Bar - Eiscafé La Volpe - Junge Die Bäckerei - Restaurant Söbentein - Eiscafé Gelato - Nur Hier GmbH - Junge Die Bäckerei - glück auf - Caligo Kaffeerösterei - Rio Grande Ahrensburg - Repair Café Ahrensburg - Dat Backhus
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>dxsb89vew7otugtskinh1bvzs4iaaa1</sha1>
+    </revision>
+    <revision>
+      <id>937</id>
+      <parentid>934</parentid>
+      <timestamp>2024-09-22T22:54:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>937</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3453" sha1="931evb96eho53zw2cg2a2h69ucdee9r" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - Stadtbäckerei Schacht/ Stulle&amp;Co - Noris Bar - Eiscafé La Volpe - Junge Die Bäckerei - Restaurant Söbentein - Eiscafé Gelato - Nur Hier GmbH - Junge Die Bäckerei - glück auf - Caligo Kaffeerösterei - Rio Grande Ahrensburg - Repair Café Ahrensburg - Dat Backhus
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>931evb96eho53zw2cg2a2h69ucdee9r</sha1>
+    </revision>
+    <revision>
+      <id>941</id>
+      <parentid>937</parentid>
+      <timestamp>2024-09-22T23:19:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>941</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3461" sha1="bghh9w3dpkrygcttedy4lwy2gikqxpn" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - [[Noris Bar]] - Eiscafé La Volpe - Junge Die Bäckerei - Restaurant Söbentein - Eiscafé Gelato - Nur Hier GmbH - Junge Die Bäckerei - glück auf - Caligo Kaffeerösterei - Rio Grande Ahrensburg - Repair Café Ahrensburg - Dat Backhus
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>bghh9w3dpkrygcttedy4lwy2gikqxpn</sha1>
+    </revision>
+    <revision>
+      <id>942</id>
+      <parentid>941</parentid>
+      <timestamp>2024-09-22T23:21:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>942</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3457" sha1="khbzor3pdji11rzlzbruj24tlfew4wu" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - Noris Bar - Eiscafé La Volpe - Junge Die Bäckerei - Restaurant Söbentein - Eiscafé Gelato - Nur Hier GmbH - Junge Die Bäckerei - glück auf - Caligo Kaffeerösterei - Rio Grande Ahrensburg - Repair Café Ahrensburg - Dat Backhus
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>khbzor3pdji11rzlzbruj24tlfew4wu</sha1>
+    </revision>
+    <revision>
+      <id>943</id>
+      <parentid>942</parentid>
+      <timestamp>2024-09-22T23:28:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>943</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3589" sha1="i6mcyzg3dk9xycb5vu63gfzi2al6zre" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - Noris Bar - Eiscafé La Volpe - Junge Die Bäckerei - Restaurant Söbentein - Eiscafé Gelato - Nur Hier GmbH - Junge Die Bäckerei - glück auf - Caligo Kaffeerösterei - Rio Grande Ahrensburg - Repair Café Ahrensburg - Dat Backhus
+
+* Imbiss :Scharfe Ecke Döner Grill Imbiss - Zum Griechen - Onkel Curry Der Premium Imbiss - Efes Grill - [[Schlemmerstübchen]] -
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>i6mcyzg3dk9xycb5vu63gfzi2al6zre</sha1>
+    </revision>
+    <revision>
+      <id>944</id>
+      <parentid>943</parentid>
+      <timestamp>2024-09-22T23:30:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>944</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3650" sha1="t9u99iy8ydldi4es9okw5ixwzjq16s1" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - Noris Bar - Eiscafé La Volpe - Junge Die Bäckerei - Restaurant Söbentein - Eiscafé Gelato - Nur Hier GmbH - Junge Die Bäckerei - glück auf - Caligo Kaffeerösterei - Rio Grande Ahrensburg - Repair Café Ahrensburg - Dat Backhus
+
+* Imbiss :Scharfe Ecke Döner Grill Imbiss - Zum Griechen - Onkel Curry Der Premium Imbiss - Efes Grill - [[Schlemmerstübchen]] - Sel-Ar Kebabhaus - Asia Haus CCA - Blondo's Pizza Ahrensburg
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>t9u99iy8ydldi4es9okw5ixwzjq16s1</sha1>
+    </revision>
+    <revision>
+      <id>945</id>
+      <parentid>944</parentid>
+      <timestamp>2024-09-22T23:51:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>945</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3667" sha1="f68cu00ewjni361vmowffll87ogwq8p" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - Noris Bar - Eiscafé La Volpe - Junge Die Bäckerei - Restaurant Söbentein - Eiscafé Gelato - Nur Hier GmbH - Junge Die Bäckerei - glück auf - Caligo Kaffeerösterei - Rio Grande Ahrensburg - Repair Café Ahrensburg - Dat Backhus
+
+* Imbiss :Scharfe Ecke Döner Grill Imbiss - [[Zum Griechen]] - Onkel Curry Der Premium Imbiss - Efes Grill - [[Schlemmerstübchen]] - Sel-Ar Kebabhaus - Asia Haus CCA - Blondo's Pizza Ahrensburg - Big Döner
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>f68cu00ewjni361vmowffll87ogwq8p</sha1>
+    </revision>
   </page>
   <page>
     <title>Gesundheit</title>
@@ -84632,6 +85316,305 @@ Caligo Coffee ist ein Kaffeehaus in der Stadtmitte von Ahrenaburg.
 ==Weblinks==
 * [https://caligo-kaffee.com/ Offizielle Website]</text>
       <sha1>89zpnhcuvmqcb2wws5039hrlzg245n4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Datei;bild.jpg</title>
+    <ns>0</ns>
+    <id>190</id>
+    <revision>
+      <id>926</id>
+      <timestamp>2024-09-22T12:29:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „jjjj“</comment>
+      <origin>926</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4" sha1="olssgqgdha8y1z4gbqvig8fc48f8rcj" xml:space="preserve">jjjj</text>
+      <sha1>olssgqgdha8y1z4gbqvig8fc48f8rcj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Konditorei Gerads</title>
+    <ns>0</ns>
+    <id>191</id>
+    <revision>
+      <id>935</id>
+      <timestamp>2024-09-22T22:51:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>935</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="383" sha1="rvi1y7ubiwo6lgv44lfj9ubv91wqelk" xml:space="preserve">Konditorei Gerads ist eine Konditorei in der Stadt Ahrensburg. Die Konditorei ist bekannt für ihre leckeren Kuchen und Torten. Sie bietet auch eine große Auswahl an Pralinen und Schokolade an. Die Konditorei hat auch ein gemütliches Café.
+==Adresse==
+* Konditorei Gerads
+* Hamburger Str. 7 
+* 22926 Ahrensburg
+==Weblinks==
+* [https://www.konditorei-gerads.de/ Offizielle Website]</text>
+      <sha1>rvi1y7ubiwo6lgv44lfj9ubv91wqelk</sha1>
+    </revision>
+    <revision>
+      <id>936</id>
+      <parentid>935</parentid>
+      <timestamp>2024-09-22T22:53:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>936</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="428" sha1="7nzvpof33doi69w7tl9v6bcgf9gzq7p" xml:space="preserve">{{#display_map:Gerads ,Ahrensburg, Germany}}
+Konditorei Gerads ist eine Konditorei in der Stadt Ahrensburg. Die Konditorei ist bekannt für ihre leckeren Kuchen und Torten. Sie bietet auch eine große Auswahl an Pralinen und Schokolade an. Die Konditorei hat auch ein gemütliches Café.
+==Adresse==
+* Konditorei Gerads
+* Hamburger Str. 7 
+* 22926 Ahrensburg
+==Weblinks==
+* [https://www.konditorei-gerads.de/ Offizielle Website]</text>
+      <sha1>7nzvpof33doi69w7tl9v6bcgf9gzq7p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Robben Café</title>
+    <ns>0</ns>
+    <id>192</id>
+    <revision>
+      <id>938</id>
+      <timestamp>2024-09-22T23:09:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>938</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="930" sha1="pazqac02eoog3x0fzwdj6kvslsupa4m" xml:space="preserve">Robben Café ist ein Café, in dem körperlich und geistig behinderte Menschen arbeiten. Es ist ein Projekt von Hermann Jülich Werkgemeinschaft e.V. Die Hermann Jülich Werkgemeinschaft e.V. ist eine gemeinnützige Organisation, die sich für Menschen mit Behinderungen einsetzt. Robben Café bietet Menschen mit Behinderungen die Möglichkeit, in einem Café zu arbeiten und ihre Fähigkeiten zu verbessern. Das Café bietet auch Schulungen und Unterstützung für Menschen mit Behinderungen an, um ihnen zu helfen, unabhängiger zu werden. Robben Café ist ein Ort, an dem Menschen mit Behinderungen arbeiten können, um ihre Fähigkeiten zu verbessern und ein Teil der Gemeinschaft zu sein. Das Café bietet auch eine Vielzahl von Speisen und Getränken an, die von Menschen mit Behinderungen zubereitet werden. Es ist ein Ort, an dem Menschen mit Behinderungen ihre Fähigkeiten zeigen und stolz auf ihre Arbeit sein können.</text>
+      <sha1>pazqac02eoog3x0fzwdj6kvslsupa4m</sha1>
+    </revision>
+    <revision>
+      <id>939</id>
+      <parentid>938</parentid>
+      <timestamp>2024-09-22T23:13:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>939</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1070" sha1="3hh3mvcgrk78b69sw59pg1e0d8ko6vs" xml:space="preserve">Robben Café ist ein Café, in dem körperlich und geistig behinderte Menschen arbeiten. Es ist ein Projekt von Hermann Jülich Werkgemeinschaft e.V. Die Hermann Jülich Werkgemeinschaft e.V. ist eine gemeinnützige Organisation, die sich für Menschen mit Behinderungen einsetzt. Robben Café bietet Menschen mit Behinderungen die Möglichkeit, in einem Café zu arbeiten und ihre Fähigkeiten zu verbessern. Das Café bietet auch Schulungen und Unterstützung für Menschen mit Behinderungen an, um ihnen zu helfen, unabhängiger zu werden. Robben Café ist ein Ort, an dem Menschen mit Behinderungen arbeiten können, um ihre Fähigkeiten zu verbessern und ein Teil der Gemeinschaft zu sein. Das Café bietet auch eine Vielzahl von Speisen und Getränken an, die von Menschen mit Behinderungen zubereitet werden. Es ist ein Ort, an dem Menschen mit Behinderungen ihre Fähigkeiten zeigen und stolz auf ihre Arbeit sein können.
+==Adresse==
+* Robben Café
+* Bornkampsweg 31 L
+* 22926 Ahrensburg/Wulfsdorf
+==Weblinks==
+* [https://www.robben-cafe.de/ Offizielle Website]</text>
+      <sha1>3hh3mvcgrk78b69sw59pg1e0d8ko6vs</sha1>
+    </revision>
+    <revision>
+      <id>940</id>
+      <parentid>939</parentid>
+      <timestamp>2024-09-22T23:15:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>940</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1120" sha1="30qblc9bc4n3e5w2lke6nmnbruiftai" xml:space="preserve">{{#display_map:Robben Café,Ahrensburg, Germany}}
+Robben Café ist ein Café, in dem körperlich und geistig behinderte Menschen arbeiten. Es ist ein Projekt von Hermann Jülich Werkgemeinschaft e.V. Die Hermann Jülich Werkgemeinschaft e.V. ist eine gemeinnützige Organisation, die sich für Menschen mit Behinderungen einsetzt. Robben Café bietet Menschen mit Behinderungen die Möglichkeit, in einem Café zu arbeiten und ihre Fähigkeiten zu verbessern. Das Café bietet auch Schulungen und Unterstützung für Menschen mit Behinderungen an, um ihnen zu helfen, unabhängiger zu werden. Robben Café ist ein Ort, an dem Menschen mit Behinderungen arbeiten können, um ihre Fähigkeiten zu verbessern und ein Teil der Gemeinschaft zu sein. Das Café bietet auch eine Vielzahl von Speisen und Getränken an, die von Menschen mit Behinderungen zubereitet werden. Es ist ein Ort, an dem Menschen mit Behinderungen ihre Fähigkeiten zeigen und stolz auf ihre Arbeit sein können.
+==Adresse==
+* Robben Café
+* Bornkampsweg 31 L
+* 22926 Ahrensburg/Wulfsdorf
+==Weblinks==
+* [https://www.robben-cafe.de/ Offizielle Website]</text>
+      <sha1>30qblc9bc4n3e5w2lke6nmnbruiftai</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Stadtbäckerei Schacht/ Stulle&amp;Co</title>
+    <ns>0</ns>
+    <id>193</id>
+    <revision>
+      <id>946</id>
+      <timestamp>2024-09-23T22:59:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>946</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="510" sha1="4zkrdz828f1eebfe7wyepe91v468si1" xml:space="preserve">Stadtbäckerei Schacht ist ein Bäckereiunternehmen in Ahrensburg. 4 Standorte in Ahrensburg und Umgebung.
+
+== Standorte ==
+===Stadtbäckerei Schacht===
+* Kurt-Fischer-Straße 10
+* 22926 Ahrensburg
+=== Café Stulle und Co===
+* Große Str. 13b
+* 22926 Ahrensburg
+===Stadtbäckerei Schacht===
+* Hamburger Str. 10
+* 22926 Ahrensburg
+===Stadtbäckerei Schacht===
+* Stadtbäckerei Schacht
+* Beimoorweg 17b (Toom Baumarkt)
+* 22926 Ahrensburg
+==Weblinks==
+* [https://www.stadtbaeckerei-schacht.de/ Offizielle Website]</text>
+      <sha1>4zkrdz828f1eebfe7wyepe91v468si1</sha1>
+    </revision>
+    <revision>
+      <id>947</id>
+      <parentid>946</parentid>
+      <timestamp>2024-09-23T23:00:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>947</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="570" sha1="8nl26ho9dcc5ql10q070bywsabxerrk" xml:space="preserve">{{#display_map:Stadtbäckerei Schacht,Ahrensburg, Germany}}
+Stadtbäckerei Schacht ist ein Bäckereiunternehmen in Ahrensburg. 4 Standorte in Ahrensburg und Umgebung.
+
+== Standorte ==
+===Stadtbäckerei Schacht===
+* Kurt-Fischer-Straße 10
+* 22926 Ahrensburg
+=== Café Stulle und Co===
+* Große Str. 13b
+* 22926 Ahrensburg
+===Stadtbäckerei Schacht===
+* Hamburger Str. 10
+* 22926 Ahrensburg
+===Stadtbäckerei Schacht===
+* Stadtbäckerei Schacht
+* Beimoorweg 17b (Toom Baumarkt)
+* 22926 Ahrensburg
+==Weblinks==
+* [https://www.stadtbaeckerei-schacht.de/ Offizielle Website]</text>
+      <sha1>8nl26ho9dcc5ql10q070bywsabxerrk</sha1>
+    </revision>
+    <revision>
+      <id>948</id>
+      <parentid>947</parentid>
+      <timestamp>2024-09-23T23:03:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>948</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="618" sha1="b1nl1115qnny3uxv0fmt1a24ypcue6u" xml:space="preserve">{{#display_map:Stadtbäckerei Schacht,Ahrensburg, Germany;
+Kurt-Fischer-Straße 10,,Ahrensburg, Germany;
+}}
+Stadtbäckerei Schacht ist ein Bäckereiunternehmen in Ahrensburg. 4 Standorte in Ahrensburg und Umgebung.
+
+== Standorte ==
+===Stadtbäckerei Schacht===
+* Kurt-Fischer-Straße 10
+* 22926 Ahrensburg
+=== Café Stulle und Co===
+* Große Str. 13b
+* 22926 Ahrensburg
+===Stadtbäckerei Schacht===
+* Hamburger Str. 10
+* 22926 Ahrensburg
+===Stadtbäckerei Schacht===
+* Stadtbäckerei Schacht
+* Beimoorweg 17b (Toom Baumarkt)
+* 22926 Ahrensburg
+==Weblinks==
+* [https://www.stadtbaeckerei-schacht.de/ Offizielle Website]</text>
+      <sha1>b1nl1115qnny3uxv0fmt1a24ypcue6u</sha1>
+    </revision>
+    <revision>
+      <id>949</id>
+      <parentid>948</parentid>
+      <timestamp>2024-09-23T23:05:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>949</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="656" sha1="qu6cwufs65v5mju3vh6uxrh26o71ye4" xml:space="preserve">{{#display_map:Stadtbäckerei Schacht,Ahrensburg, Germany;
+Kurt-Fischer-Straße 10,Ahrensburg, Germany;
+Große Str. 13 b, Ahrensburg, Germany;
+}}
+Stadtbäckerei Schacht ist ein Bäckereiunternehmen in Ahrensburg. 4 Standorte in Ahrensburg und Umgebung.
+
+== Standorte ==
+===Stadtbäckerei Schacht===
+* Kurt-Fischer-Straße 10
+* 22926 Ahrensburg
+=== Café Stulle und Co===
+* Große Str. 13b
+* 22926 Ahrensburg
+===Stadtbäckerei Schacht===
+* Hamburger Str. 10
+* 22926 Ahrensburg
+===Stadtbäckerei Schacht===
+* Stadtbäckerei Schacht
+* Beimoorweg 17b (Toom Baumarkt)
+* 22926 Ahrensburg
+==Weblinks==
+* [https://www.stadtbaeckerei-schacht.de/ Offizielle Website]</text>
+      <sha1>qu6cwufs65v5mju3vh6uxrh26o71ye4</sha1>
+    </revision>
+    <revision>
+      <id>950</id>
+      <parentid>949</parentid>
+      <timestamp>2024-09-23T23:06:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>950</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="692" sha1="085gaqo9yb8x2ledybr4u90rcpqs7h7" xml:space="preserve">{{#display_map:Stadtbäckerei Schacht,Ahrensburg, Germany;
+Kurt-Fischer-Straße 10,Ahrensburg, Germany;
+Große Str. 13 b, Ahrensburg, Germany;
+Beimoorweg 17b, Ahrensburg, Germany
+}}
+Stadtbäckerei Schacht ist ein Bäckereiunternehmen in Ahrensburg. 4 Standorte in Ahrensburg und Umgebung.
+
+== Standorte ==
+===Stadtbäckerei Schacht===
+* Kurt-Fischer-Straße 10
+* 22926 Ahrensburg
+=== Café Stulle und Co===
+* Große Str. 13b
+* 22926 Ahrensburg
+===Stadtbäckerei Schacht===
+* Hamburger Str. 10
+* 22926 Ahrensburg
+===Stadtbäckerei Schacht===
+* Stadtbäckerei Schacht
+* Beimoorweg 17b (Toom Baumarkt)
+* 22926 Ahrensburg
+==Weblinks==
+* [https://www.stadtbaeckerei-schacht.de/ Offizielle Website]</text>
+      <sha1>085gaqo9yb8x2ledybr4u90rcpqs7h7</sha1>
     </revision>
   </page>
 </mediawiki>
