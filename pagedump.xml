@@ -29115,6 +29115,56 @@ Die Gemeinde Ahrensburg wurde 1948 zur Stadt erhoben.
 ** https://ahrensburg.city/karte |Ahrensburg Karte</text>
       <sha1>92ui8q54rf0opl4aufdidd3rvm5wsgy</sha1>
     </revision>
+    <revision>
+      <id>1029</id>
+      <parentid>953</parentid>
+      <timestamp>2024-10-03T21:06:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1029</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="405" sha1="5opmue01hga6pyh2gdlsgzsyegpsq94" xml:space="preserve">#p-logo, .generated-sidebar, #p-lang, #p-tb  { display:none; }
+* navigation
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki
+** User_blog:Thorsten|Thorsten Blog
+** September 2024|Nachrichten
+** Ahrensburg|Information
+** Formulare|Formulare
+** https://ahrensburg.city/karte |Ahrensburg Karte
+** https://dokument.ahrensburg|Dokument</text>
+      <sha1>5opmue01hga6pyh2gdlsgzsyegpsq94</sha1>
+    </revision>
+    <revision>
+      <id>1030</id>
+      <parentid>1029</parentid>
+      <timestamp>2024-10-03T21:06:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1030</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="410" sha1="3ikkqstzteb3123rh3lcqnjarftx14c" xml:space="preserve">#p-logo, .generated-sidebar, #p-lang, #p-tb  { display:none; }
+* navigation
+** mainpage|mainpage-description
+** recentchanges-url|recentchanges
+** randompage-url|randompage
+** helppage|help-mediawiki
+** User_blog:Thorsten|Thorsten Blog
+** September 2024|Nachrichten
+** Ahrensburg|Information
+** Formulare|Formulare
+** https://ahrensburg.city/karte |Ahrensburg Karte
+** https://dokument.ahrensburg.city|Dokument</text>
+      <sha1>3ikkqstzteb3123rh3lcqnjarftx14c</sha1>
+    </revision>
   </page>
   <page>
     <title>Autoren:Autorenportal</title>
@@ -29410,6 +29460,39 @@ Web Scraping ist eine Methode, um Daten von Websites zu extrahieren. Es gibt vie
 * Pywikibot 
 * MWoffliner</text>
       <sha1>g6fvklopx9fikhyt1h32bvec05rdx6p</sha1>
+    </revision>
+    <revision>
+      <id>1047</id>
+      <parentid>360</parentid>
+      <timestamp>2024-10-04T20:11:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1047</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="924" sha1="ewbb3ahs9go1ll3u28v0xstkbhnh169" xml:space="preserve">Mein Name ist Thorsten Klöhn. Ich bin Administrator dieser Wiki. Wenn Sie Fragen haben, können Sie mich gerne kontaktieren. Ich helfe Ihnen gerne weiter. Viel Spaß beim Lesen!
+Ich bin sprachbehindert. Ich kann Grammatik nicht korrekt umsetzen. Lesen kann ich gut. Schreiben ist schwer für mich.
+Aus diesem Grund benutze ich GitHub Copilot, OpenAI, Microsoft Copilot, Google Gemini, DeepL Write und andere KI-Tools.
+== Eigene KI-Tools schreiben mit eigenem Datensatz und veröffentlichen ==
+
+== Eigene Suchmaschine schreiben ==
+* [[Elasticsearch|Elasticsearch]]
+* [[Meilisearch|Meilisearch]]
+
+== [[Web Scraping]] ==
+Web Scraping ist eine Methode, um Daten von Websites zu extrahieren. Es gibt viele Tools und Bibliotheken, die Web Scraping erleichtern. 
+* [[Web Scraping:Python]]
+* [[Web Scraping:Go]]
+* [[Web Scraping:Node.js]]
+* [[Web Scraping:Rust]]
+
+== Mediawiki-Tools ==
+* Pywikibot 
+* MWoffliner
+* [[Suchmaschinen]]</text>
+      <sha1>ewbb3ahs9go1ll3u28v0xstkbhnh169</sha1>
     </revision>
   </page>
   <page>
@@ -69892,6 +69975,760 @@ In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beisp
 *</text>
       <sha1>et2ckxmwc8q1wnt7p6j6l35c5gv9wri</sha1>
     </revision>
+    <revision>
+      <id>1033</id>
+      <parentid>1028</parentid>
+      <timestamp>2024-10-03T21:26:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>1033</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3656" sha1="5nd16kcnzb8uy9arhsh1zqcls5ht0d0" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - [[Noris Bar]] - [[Eiscafé La Volpe]] - [[Junge Die Bäckerei]] - [[Restaurant Söbentein]] - [[Eiscafé Gelato]] - [[Nur Hier GmbH]] - [[glück auf]] - [[Caligo Kaffeerösterei]] - [[Dat Backhus]] - [[Allwörden]]
+
+* Imbiss :[[Scharfe Ecke Döner Grill Imbiss]] - [[Zum Griechen]] - [[Onkel Curry Der Premium Imbiss]] - Efes Grill - [[Schlemmerstübchen]] - Sel-Ar Kebabhaus - Asia Haus CCA - Blondo's Pizza Ahrensburg - Big Döner
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>5nd16kcnzb8uy9arhsh1zqcls5ht0d0</sha1>
+    </revision>
+    <revision>
+      <id>1036</id>
+      <parentid>1033</parentid>
+      <timestamp>2024-10-03T21:38:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>1036</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3660" sha1="6dmaz4izkax8s8o14gtyl4kwkaehzbz" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - [[Noris Bar]] - [[Eiscafé La Volpe]] - [[Junge Die Bäckerei]] - [[Restaurant Söbentein]] - [[Eiscafé Gelato]] - [[Nur Hier GmbH]] - [[glück auf]] - [[Caligo Kaffeerösterei]] - [[Dat Backhus]] - [[Allwörden]]
+
+* Imbiss :[[Scharfe Ecke Döner Grill Imbiss]] - [[Zum Griechen]] - [[Onkel Curry Der Premium Imbiss]] - [[Efes Grill]] - [[Schlemmerstübchen]] - Sel-Ar Kebabhaus - Asia Haus CCA - Blondo's Pizza Ahrensburg - Big Döner
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>6dmaz4izkax8s8o14gtyl4kwkaehzbz</sha1>
+    </revision>
+    <revision>
+      <id>1037</id>
+      <parentid>1036</parentid>
+      <timestamp>2024-10-04T19:49:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>1037</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3664" sha1="8fgcbdqbromdy10ifsowafwnf6b3w7x" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - [[Noris Bar]] - [[Eiscafé La Volpe]] - [[Junge Die Bäckerei]] - [[Restaurant Söbentein]] - [[Eiscafé Gelato]] - [[Nur Hier GmbH]] - [[glück auf]] - [[Caligo Kaffeerösterei]] - [[Dat Backhus]] - [[Allwörden]]
+
+* Imbiss :[[Scharfe Ecke Döner Grill Imbiss]] - [[Zum Griechen]] - [[Onkel Curry Der Premium Imbiss]] - [[Efes Grill]] - [[Schlemmerstübchen]] - [[Sel-Ar Kebabhaus]] - Asia Haus CCA - Blondo's Pizza Ahrensburg - Big Döner
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>8fgcbdqbromdy10ifsowafwnf6b3w7x</sha1>
+    </revision>
+    <revision>
+      <id>1050</id>
+      <parentid>1037</parentid>
+      <timestamp>2024-10-04T21:01:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>1050</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3668" sha1="ofzrh0jmll875ujr4h5ybawtg12jh25" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - [[Noris Bar]] - [[Eiscafé La Volpe]] - [[Junge Die Bäckerei]] - [[Restaurant Söbentein]] - [[Eiscafé Gelato]] - [[Nur Hier GmbH]] - [[glück auf]] - [[Caligo Kaffeerösterei]] - [[Dat Backhus]] - [[Allwörden]]
+
+* Imbiss :[[Scharfe Ecke Döner Grill Imbiss]] - [[Zum Griechen]] - [[Onkel Curry Der Premium Imbiss]] - [[Efes Grill]] - [[Schlemmerstübchen]] - [[Sel-Ar Kebabhaus]] - [[Asia Haus CCA]] - Blondo's Pizza Ahrensburg - Big Döner
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>ofzrh0jmll875ujr4h5ybawtg12jh25</sha1>
+    </revision>
+    <revision>
+      <id>1054</id>
+      <parentid>1050</parentid>
+      <timestamp>2024-10-04T21:16:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>1054</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3672" sha1="re0g36f9rs5ey5jc5c7qeiadn4hffjs" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - [[Noris Bar]] - [[Eiscafé La Volpe]] - [[Junge Die Bäckerei]] - [[Restaurant Söbentein]] - [[Eiscafé Gelato]] - [[Nur Hier GmbH]] - [[glück auf]] - [[Caligo Kaffeerösterei]] - [[Dat Backhus]] - [[Allwörden]]
+
+* Imbiss :[[Scharfe Ecke Döner Grill Imbiss]] - [[Zum Griechen]] - [[Onkel Curry Der Premium Imbiss]] - [[Efes Grill]] - [[Schlemmerstübchen]] - [[Sel-Ar Kebabhaus]] - [[Asia Haus CCA]] - [[Blondo's Pizza Ahrensburg]] - Big Döner
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>re0g36f9rs5ey5jc5c7qeiadn4hffjs</sha1>
+    </revision>
+    <revision>
+      <id>1059</id>
+      <parentid>1054</parentid>
+      <timestamp>2024-10-04T21:28:27Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>1059</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3659" sha1="38sas2ati1sgyahtk4neigmnfqh8i7j" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - [[Noris Bar]] - [[Eiscafé La Volpe]] - [[Junge Die Bäckerei]] - [[Restaurant Söbentein]] - [[Eiscafé Gelato]] - [[Nur Hier GmbH]] - [[glück auf]] - [[Caligo Kaffeerösterei]] - [[Dat Backhus]] - [[Allwörden]]
+
+* Imbiss :[[Scharfe Ecke Döner Grill Imbiss]] - [[Zum Griechen]] - [[Onkel Curry Der Premium Imbiss]] - [[Efes Grill]] - [[Schlemmerstübchen]] - [[Sel-Ar Kebabhaus]] - [[Asia Haus CCA]] - [[Blondo's Pizza Ahrensburg]]
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>38sas2ati1sgyahtk4neigmnfqh8i7j</sha1>
+    </revision>
+    <revision>
+      <id>1060</id>
+      <parentid>1059</parentid>
+      <timestamp>2024-10-04T21:29:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Theater in Ahrensburg */</comment>
+      <origin>1060</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3669" sha1="8lxp9kt6yezqy8suqvtrc1odo8kkqaa" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - [[Noris Bar]] - [[Eiscafé La Volpe]] - [[Junge Die Bäckerei]] - [[Restaurant Söbentein]] - [[Eiscafé Gelato]] - [[Nur Hier GmbH]] - [[glück auf]] - [[Caligo Kaffeerösterei]] - [[Dat Backhus]] - [[Allwörden]]
+
+* Imbiss :[[Scharfe Ecke Döner Grill Imbiss]] - [[Zum Griechen]] - [[Onkel Curry Der Premium Imbiss]] - [[Efes Grill]] - [[Schlemmerstübchen]] - [[Sel-Ar Kebabhaus]] - [[Asia Haus CCA]] - [[Blondo's Pizza Ahrensburg]]
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+* Hotel:
+
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>8lxp9kt6yezqy8suqvtrc1odo8kkqaa</sha1>
+    </revision>
+    <revision>
+      <id>1061</id>
+      <parentid>1060</parentid>
+      <timestamp>2024-10-04T21:29:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Theater in Ahrensburg */</comment>
+      <origin>1061</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3660" sha1="tw8fmfjag0v3z6ygvcylc4ih9pi2usj" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - [[Noris Bar]] - [[Eiscafé La Volpe]] - [[Junge Die Bäckerei]] - [[Restaurant Söbentein]] - [[Eiscafé Gelato]] - [[Nur Hier GmbH]] - [[glück auf]] - [[Caligo Kaffeerösterei]] - [[Dat Backhus]] - [[Allwörden]]
+
+* Imbiss :[[Scharfe Ecke Döner Grill Imbiss]] - [[Zum Griechen]] - [[Onkel Curry Der Premium Imbiss]] - [[Efes Grill]] - [[Schlemmerstübchen]] - [[Sel-Ar Kebabhaus]] - [[Asia Haus CCA]] - [[Blondo's Pizza Ahrensburg]]
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>tw8fmfjag0v3z6ygvcylc4ih9pi2usj</sha1>
+    </revision>
+    <revision>
+      <id>1062</id>
+      <parentid>1061</parentid>
+      <timestamp>2024-10-04T21:30:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Übernachten in Ahrensburg */</comment>
+      <origin>1062</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3671" sha1="ng30617rh43762kma8x9oq65sq6hsfz" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - [[Noris Bar]] - [[Eiscafé La Volpe]] - [[Junge Die Bäckerei]] - [[Restaurant Söbentein]] - [[Eiscafé Gelato]] - [[Nur Hier GmbH]] - [[glück auf]] - [[Caligo Kaffeerösterei]] - [[Dat Backhus]] - [[Allwörden]]
+
+* Imbiss :[[Scharfe Ecke Döner Grill Imbiss]] - [[Zum Griechen]] - [[Onkel Curry Der Premium Imbiss]] - [[Efes Grill]] - [[Schlemmerstübchen]] - [[Sel-Ar Kebabhaus]] - [[Asia Haus CCA]] - [[Blondo's Pizza Ahrensburg]]
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+* Hotel :
+
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>ng30617rh43762kma8x9oq65sq6hsfz</sha1>
+    </revision>
+    <revision>
+      <id>1063</id>
+      <parentid>1062</parentid>
+      <timestamp>2024-10-04T21:36:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Übernachten in Ahrensburg */</comment>
+      <origin>1063</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3750" sha1="f29vobyee8w4es990w08ftrrdajynhj" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - [[Noris Bar]] - [[Eiscafé La Volpe]] - [[Junge Die Bäckerei]] - [[Restaurant Söbentein]] - [[Eiscafé Gelato]] - [[Nur Hier GmbH]] - [[glück auf]] - [[Caligo Kaffeerösterei]] - [[Dat Backhus]] - [[Allwörden]]
+
+* Imbiss :[[Scharfe Ecke Döner Grill Imbiss]] - [[Zum Griechen]] - [[Onkel Curry Der Premium Imbiss]] - [[Efes Grill]] - [[Schlemmerstübchen]] - [[Sel-Ar Kebabhaus]] - [[Asia Haus CCA]] - [[Blondo's Pizza Ahrensburg]]
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+* Hotel : Hotel Am Schloss Ahrensburg - Ringhotel Ahrensburg GmbH - Hotel Altes Landhaus
+
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>f29vobyee8w4es990w08ftrrdajynhj</sha1>
+    </revision>
+    <revision>
+      <id>1064</id>
+      <parentid>1063</parentid>
+      <timestamp>2024-10-04T21:51:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>1064</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3906" sha1="l2ty78q7l7uzqwt706kd061kxvpsej9" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - [[Noris Bar]] - [[Eiscafé La Volpe]] - [[Junge Die Bäckerei]] - [[Restaurant Söbentein]] - [[Eiscafé Gelato]] - [[Nur Hier GmbH]] - [[glück auf]] - [[Caligo Kaffeerösterei]] - [[Dat Backhus]] - [[Allwörden]]
+
+* Imbiss :[[Scharfe Ecke Döner Grill Imbiss]] - [[Zum Griechen]] - [[Onkel Curry Der Premium Imbiss]] - [[Efes Grill]] - [[Schlemmerstübchen]] - [[Sel-Ar Kebabhaus]] - [[Asia Haus CCA]] - [[Blondo's Pizza Ahrensburg]]
+
+* Kneipen: The Beards - Gaststätte Asche - J's Ahrensburg -  Rockefeller Ahrensburg - ZAHARA  Shisha-Bar Ahrensburg - Moin Moin
+* Tanzbar : Tanzbar Scala
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+* Hotel : Hotel Am Schloss Ahrensburg - Ringhotel Ahrensburg GmbH - Hotel Altes Landhaus
+
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>l2ty78q7l7uzqwt706kd061kxvpsej9</sha1>
+    </revision>
+    <revision>
+      <id>1065</id>
+      <parentid>1064</parentid>
+      <timestamp>2024-10-04T22:07:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>1065</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3934" sha1="7ounov0qdjwbscx5bys0vjpbak9guvd" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - [[Noris Bar]] - [[Eiscafé La Volpe]] - [[Junge Die Bäckerei]] - [[Restaurant Söbentein]] - [[Eiscafé Gelato]] - [[Nur Hier GmbH]] - [[glück auf]] - [[Caligo Kaffeerösterei]] - [[Dat Backhus]] - [[Allwörden]]
+
+* Imbiss :[[Scharfe Ecke Döner Grill Imbiss]] - [[Zum Griechen]] - [[Onkel Curry Der Premium Imbiss]] - [[Efes Grill]] - [[Schlemmerstübchen]] - [[Sel-Ar Kebabhaus]] - [[Asia Haus CCA]] - [[Blondo's Pizza Ahrensburg]]
+
+* Kneipen: The Beards - Gaststätte Asche - J's Ahrensburg -  Rockefeller Ahrensburg - ZAHARA  Shisha-Bar Ahrensburg - Moin Moin
+* Tanzbar : Tanzbar Scala
+* Disco : N1Club Ahrensburg
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+* Hotel : Hotel Am Schloss Ahrensburg - Ringhotel Ahrensburg GmbH - Hotel Altes Landhaus
+
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>7ounov0qdjwbscx5bys0vjpbak9guvd</sha1>
+    </revision>
+    <revision>
+      <id>1066</id>
+      <parentid>1065</parentid>
+      <timestamp>2024-10-05T13:23:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>1066</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3938" sha1="gxrxsakwz6e1pjvjlwt6grr93dtxmz7" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - [[Noris Bar]] - [[Eiscafé La Volpe]] - [[Junge Die Bäckerei]] - [[Restaurant Söbentein]] - [[Eiscafé Gelato]] - [[Nur Hier GmbH]] - [[glück auf]] - [[Caligo Kaffeerösterei]] - [[Dat Backhus]] - [[Allwörden]]
+
+* Imbiss :[[Scharfe Ecke Döner Grill Imbiss]] - [[Zum Griechen]] - [[Onkel Curry Der Premium Imbiss]] - [[Efes Grill]] - [[Schlemmerstübchen]] - [[Sel-Ar Kebabhaus]] - [[Asia Haus CCA]] - [[Blondo's Pizza Ahrensburg]]
+
+* Kneipen: [[The Beards]] - Gaststätte Asche - J's Ahrensburg -  Rockefeller Ahrensburg - ZAHARA  Shisha-Bar Ahrensburg - Moin Moin
+* Tanzbar : Tanzbar Scala
+* Disco : N1Club Ahrensburg
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+* Hotel : Hotel Am Schloss Ahrensburg - Ringhotel Ahrensburg GmbH - Hotel Altes Landhaus
+
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>gxrxsakwz6e1pjvjlwt6grr93dtxmz7</sha1>
+    </revision>
+    <revision>
+      <id>1072</id>
+      <parentid>1066</parentid>
+      <timestamp>2024-10-05T20:39:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>1072</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3942" sha1="7ltbnqd00rdkj6qtv9uphfr0efdbykz" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - [[Noris Bar]] - [[Eiscafé La Volpe]] - [[Junge Die Bäckerei]] - [[Restaurant Söbentein]] - [[Eiscafé Gelato]] - [[Nur Hier GmbH]] - [[glück auf]] - [[Caligo Kaffeerösterei]] - [[Dat Backhus]] - [[Allwörden]]
+
+* Imbiss :[[Scharfe Ecke Döner Grill Imbiss]] - [[Zum Griechen]] - [[Onkel Curry Der Premium Imbiss]] - [[Efes Grill]] - [[Schlemmerstübchen]] - [[Sel-Ar Kebabhaus]] - [[Asia Haus CCA]] - [[Blondo's Pizza Ahrensburg]]
+
+* Kneipen: [[The Beards]] - [[Gaststätte Asche]] - J's Ahrensburg -  Rockefeller Ahrensburg - ZAHARA  Shisha-Bar Ahrensburg - Moin Moin
+* Tanzbar : Tanzbar Scala
+* Disco : N1Club Ahrensburg
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+* Hotel : Hotel Am Schloss Ahrensburg - Ringhotel Ahrensburg GmbH - Hotel Altes Landhaus
+
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>7ltbnqd00rdkj6qtv9uphfr0efdbykz</sha1>
+    </revision>
+    <revision>
+      <id>1077</id>
+      <parentid>1072</parentid>
+      <timestamp>2024-10-05T20:48:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>1077</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3946" sha1="2qjmveucafte19du2yrtk3w8n8czin5" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - [[Noris Bar]] - [[Eiscafé La Volpe]] - [[Junge Die Bäckerei]] - [[Restaurant Söbentein]] - [[Eiscafé Gelato]] - [[Nur Hier GmbH]] - [[glück auf]] - [[Caligo Kaffeerösterei]] - [[Dat Backhus]] - [[Allwörden]]
+
+* Imbiss :[[Scharfe Ecke Döner Grill Imbiss]] - [[Zum Griechen]] - [[Onkel Curry Der Premium Imbiss]] - [[Efes Grill]] - [[Schlemmerstübchen]] - [[Sel-Ar Kebabhaus]] - [[Asia Haus CCA]] - [[Blondo's Pizza Ahrensburg]]
+
+* Kneipen: [[The Beards]] - [[Gaststätte Asche]] - [[J's Ahrensburg]] -  Rockefeller Ahrensburg - ZAHARA  Shisha-Bar Ahrensburg - Moin Moin
+* Tanzbar : Tanzbar Scala
+* Disco : N1Club Ahrensburg
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+* Hotel : Hotel Am Schloss Ahrensburg - Ringhotel Ahrensburg GmbH - Hotel Altes Landhaus
+
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>2qjmveucafte19du2yrtk3w8n8czin5</sha1>
+    </revision>
+    <revision>
+      <id>1080</id>
+      <parentid>1077</parentid>
+      <timestamp>2024-10-05T20:59:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Essen und Trinken in Ahrensburg */</comment>
+      <origin>1080</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3950" sha1="m9ihd2g49lfx9x0hqxf7pd1sa27xaqn" xml:space="preserve">==Naturerlebnisse pur in Ahrensburg==
+Ahrensburg ist eine Stadt in Schleswig-Holstein, die sich durch ihre Nähe zur Natur auszeichnet. Die Stadt liegt inmitten von Wäldern und Seen und bietet somit zahlreiche Möglichkeiten für Outdoor-Aktivitäten. Wanderwege durch die Wälder und entlang der Seen, wie zum Beispiel der Stormarnweg, Höltigbaum, Ahrensburger Tunneltalweg, durchs Wandsetal, Beimoor Wald, Erlengrund – Bredenbeker Teich und Stellmoorer Tunneltal. Radtouren durch die Umgebung, wie zum Beispiel die Fahrradtour Wandsee und Wandseepark nach Außenalster, Stenwartenwarte nach Glinde, nach Trittau und zurück und so weiter.
+
+==Sehenswürdigkeiten in Ahrensburg==
+Neben der Natur hat Ahrensburg auch kulturell einiges zu bieten. Die Stadt ist bekannt für ihr Schloss Ahrensburg, das im 16. Jahrhundert erbaut wurde und heute ein Museum beherbergt. Das Schloss liegt inmitten eines großen Parks, der zum Spazierengehen und Entspannen einlädt. Weitere Sehenswürdigkeiten in Ahrensburg sind die St. Johanneskirche, der Marstall, die Schlosskirche und das Schlossmuseum.
+==Schwimmen in Ahrensburg==
+In Ahrensburg gibt es auch zwei Möglichkeiten zum Schwimmen. Das Freibad am Hallenbad Ahrensburg bietet im Sommer eine willkommene Abkühlung.
+* [[Badlantic Ahrensburg]]
+==Essen und Trinken in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Restaurants und Cafés, die zum Verweilen einladen.
+* Restaurant: [[Kroatien Restaurant Mediterraneo]] - [[Restaurant Strehl]] - [[Villa Romana]] - [[Restaurant Söbentein]] - [[Ristorante Pizzeria da Barone]] - [[La Villa Rossa]] - [[ZEITLOS AHRENSBURG]] - [[RamRob]] - [[Wein Ahrens]] - [[BLOCK HOUSE Ahrensburg]] - [[Mendoza]] - [[Berlin Milljöh]] - [[La Casetta Ristorante Ahrensburg]] - [[Restaurant Bangkok]] - [[New Mongolei]] - [[Misaki Sushi Ahrensburg]] - [[SHIBUI]] | Asiatische Fusionsküche - [[7Fuji Sushi]] &amp; Ramen - [[Taverne Rigani]] Ahrensburg - [[Schlemmerstübchen]] - [[New Long]] - [[Rockefeller Ahrensburg]] (Restaurant &amp; Sportsbar) - [[Tunici's Restaurant Ahrensburg]] - [[Restaurant Rauchhaus]] - [[Söbentein]] - [[Taj Mahal]]  Best Indian Food - [[Zum Griechen]]
+
+* Cafes:[[Café Goldene Biene]] - [[Café Greco]] - [[Cuccuma]] - [[Caligo Coffee]] - [[Konditorei Gerads]] - [[ZEITLOS AHRENSBURG]] - [[Robben Café]] - [[Stadtbäckerei Schacht/ Stulle&amp;Co]] - [[Noris Bar]] - [[Eiscafé La Volpe]] - [[Junge Die Bäckerei]] - [[Restaurant Söbentein]] - [[Eiscafé Gelato]] - [[Nur Hier GmbH]] - [[glück auf]] - [[Caligo Kaffeerösterei]] - [[Dat Backhus]] - [[Allwörden]]
+
+* Imbiss :[[Scharfe Ecke Döner Grill Imbiss]] - [[Zum Griechen]] - [[Onkel Curry Der Premium Imbiss]] - [[Efes Grill]] - [[Schlemmerstübchen]] - [[Sel-Ar Kebabhaus]] - [[Asia Haus CCA]] - [[Blondo's Pizza Ahrensburg]]
+
+* Kneipen: [[The Beards]] - [[Gaststätte Asche]] - [[J's Ahrensburg]] -  [[Rockefeller Ahrensburg]] - ZAHARA  Shisha-Bar Ahrensburg - Moin Moin
+* Tanzbar : Tanzbar Scala
+* Disco : N1Club Ahrensburg
+
+==Übernachten in Ahrensburg==
+Für Übernachtungen stehen in Ahrensburg verschiedene Hotels und Pensionen zur Verfügung.
+* Hotel : Hotel Am Schloss Ahrensburg - Ringhotel Ahrensburg GmbH - Hotel Altes Landhaus
+
+==Theater in Ahrensburg==
+Ahrensburg bietet ein abwechslungsreiches Programm aus Theater, Konzerten und Kabarett.
+
+==Sport in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Sportvereine, die ein breites Angebot an Sportarten für Jung und Alt bereithalten.
+==Einkaufen in Ahrensburg==
+In Ahrensburg gibt es zahlreiche Geschäfte, die zum Bummeln und Shoppen einladen.
+==Veranstaltungen und Feste==
+In Ahrensburg finden regelmäßig Veranstaltungen und Feste statt, wie zum Beispiel das Stadtfest, das Weinfest und der Weihnachtsmarkt.
+==Weblinks==
+* [https://www.komoot.com/de-de/guide/277276/ausflugsziele-rund-um-ahrensburg Komoot: Ausflugsziele rund um Ahrensburg]
+* [https://tourismus-stormarn.de/de/freizeiterlebnisse Freizeiterlebnisse in Stormarn]
+*</text>
+      <sha1>m9ihd2g49lfx9x0hqxf7pd1sa27xaqn</sha1>
+    </revision>
   </page>
   <page>
     <title>Gesundheit</title>
@@ -88746,6 +89583,757 @@ sudo systemctl restart nginx # Starten Sie den Nginx-Dienst neu
 ==Zugriff auf Supabase==
 Öffnen Sie einen Webbrowser und navigieren Sie zu Ihrer Domain (z. B. https://ahrensburg.city:8001), um auf Supabase zuzugreifen. Sie können sich mit den Standardanmeldeinformationen anmelden und mit der Entwicklung Ihrer Anwendung beginnen.</text>
       <sha1>g2zwyax9wu381c07jrxs3jmj1k7lhoc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Scharfe Ecke Döner Grill Imbiss</title>
+    <ns>0</ns>
+    <id>206</id>
+    <revision>
+      <id>1031</id>
+      <timestamp>2024-10-03T21:20:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>1031</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="274" sha1="azw4cmfqam612wpwghpxskh80c7oiax" xml:space="preserve">Scharfe Ecke Döner ist ein Imbiss in der Stadt Ahrensburg. Hier gibt es Döner, Pizza, Lahmacun und viele weitere türkische Spezialitäten.
+==Adresse==
+* GROSSE STRASSE 43
+* 22926 Ahrensburg
+==Weblinks==
+* [https://scharfe-ecke-ahrensburg.eatbu.com/ Webseite des Imbisses]</text>
+      <sha1>azw4cmfqam612wpwghpxskh80c7oiax</sha1>
+    </revision>
+    <revision>
+      <id>1032</id>
+      <parentid>1031</parentid>
+      <timestamp>2024-10-03T21:23:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1032</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="325" sha1="msxvc19u7khc9kn1knlju5la9643ryi" xml:space="preserve">{{#display_map:Scharfe Ecke, Ahrensburg, Germany}}
+Scharfe Ecke Döner ist ein Imbiss in der Stadt Ahrensburg. Hier gibt es Döner, Pizza, Lahmacun und viele weitere türkische Spezialitäten.
+==Adresse==
+* GROSSE STRASSE 43
+* 22926 Ahrensburg
+==Weblinks==
+* [https://scharfe-ecke-ahrensburg.eatbu.com/ Webseite des Imbisses]</text>
+      <sha1>msxvc19u7khc9kn1knlju5la9643ryi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Onkel Curry Der Premium Imbiss</title>
+    <ns>0</ns>
+    <id>207</id>
+    <revision>
+      <id>1034</id>
+      <timestamp>2024-10-03T21:36:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>1034</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="230" sha1="p9fbaso4lhbj70dy4eckw8ebv1mi4yd" xml:space="preserve">Onkel Curry Der Premium ist ein Imbiss in der Nähe des Familia Einkaufszentrums in der Stadt Ahrensburg.
+
+== Adresse ==
+* Carl-Backhaus-Straße 46
+* 22926 Ahrensburg
+==Weblinks==
+* [https://www.onkelcurry.de/ Offizielle Webseite]</text>
+      <sha1>p9fbaso4lhbj70dy4eckw8ebv1mi4yd</sha1>
+    </revision>
+    <revision>
+      <id>1035</id>
+      <parentid>1034</parentid>
+      <timestamp>2024-10-03T21:37:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1035</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="280" sha1="j0bkmgxub3gqzz02p2w4ybjrian2sms" xml:space="preserve">{{#display_map:Onkel Curry, Ahrensburg, Germany}}
+Onkel Curry Der Premium ist ein Imbiss in der Nähe des Familia Einkaufszentrums in der Stadt Ahrensburg.
+
+== Adresse ==
+* Carl-Backhaus-Straße 46
+* 22926 Ahrensburg
+==Weblinks==
+* [https://www.onkelcurry.de/ Offizielle Webseite]</text>
+      <sha1>j0bkmgxub3gqzz02p2w4ybjrian2sms</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Efes Grill</title>
+    <ns>0</ns>
+    <id>208</id>
+    <revision>
+      <id>1038</id>
+      <timestamp>2024-10-04T19:51:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>1038</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="247" sha1="ct4s0aqjq8a9yjyksemqznwhen2bunk" xml:space="preserve">Efes Grill ist ein türkischer Imbiss in der Innenstadt von Ahrensburg. Er ist bekannt für seine Döner Kebab und Lahmacun.
+==Adresse==
+* Efes Grill
+* Große Str. 35
+* 22926 Ahrensburg
+
+==Weblinks==
+*[https://www.efesgrill.de/ Offizielle Website]</text>
+      <sha1>ct4s0aqjq8a9yjyksemqznwhen2bunk</sha1>
+    </revision>
+    <revision>
+      <id>1039</id>
+      <parentid>1038</parentid>
+      <timestamp>2024-10-04T19:52:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1039</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="296" sha1="6kf8njmnuelas7j3j460w0r2spb6seh" xml:space="preserve">{{#display_map:Efes Grill, Ahrensburg, Germany}}
+Efes Grill ist ein türkischer Imbiss in der Innenstadt von Ahrensburg. Er ist bekannt für seine Döner Kebab und Lahmacun.
+==Adresse==
+* Efes Grill
+* Große Str. 35
+* 22926 Ahrensburg
+
+==Weblinks==
+*[https://www.efesgrill.de/ Offizielle Website]</text>
+      <sha1>6kf8njmnuelas7j3j460w0r2spb6seh</sha1>
+    </revision>
+    <revision>
+      <id>1040</id>
+      <parentid>1039</parentid>
+      <timestamp>2024-10-04T19:52:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1040</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="290" sha1="op4ercyfzk720irv7c44tcsyqdxazla" xml:space="preserve">{{#display_map:Efes, Ahrensburg, Germany}}
+Efes Grill ist ein türkischer Imbiss in der Innenstadt von Ahrensburg. Er ist bekannt für seine Döner Kebab und Lahmacun.
+==Adresse==
+* Efes Grill
+* Große Str. 35
+* 22926 Ahrensburg
+
+==Weblinks==
+*[https://www.efesgrill.de/ Offizielle Website]</text>
+      <sha1>op4ercyfzk720irv7c44tcsyqdxazla</sha1>
+    </revision>
+    <revision>
+      <id>1041</id>
+      <parentid>1040</parentid>
+      <timestamp>2024-10-04T19:53:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1041</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="300" sha1="k1mt5vliixqmvtzqdis7mya0gyankb0" xml:space="preserve">{{#display_map:Große Str. 35, Ahrensburg, Germany}}
+Efes Grill ist ein türkischer Imbiss in der Innenstadt von Ahrensburg. Er ist bekannt für seine Döner Kebab und Lahmacun.
+==Adresse==
+* Efes Grill
+* Große Str. 35
+* 22926 Ahrensburg
+
+==Weblinks==
+*[https://www.efesgrill.de/ Offizielle Website]</text>
+      <sha1>k1mt5vliixqmvtzqdis7mya0gyankb0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Sel-Ar Kebabhaus</title>
+    <ns>0</ns>
+    <id>209</id>
+    <revision>
+      <id>1042</id>
+      <timestamp>2024-10-04T19:58:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>1042</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="119" sha1="hqrap3s3kmpxyjxmbm0clg45hua1kcq" xml:space="preserve">Sel-Ar Kebabhaus ist ein türkischer Imbiss in der Stadt Ahrensburg.
+==Adresse==
+* Stormarnstraße 6
+* 22926 Ahrensburg</text>
+      <sha1>hqrap3s3kmpxyjxmbm0clg45hua1kcq</sha1>
+    </revision>
+    <revision>
+      <id>1043</id>
+      <parentid>1042</parentid>
+      <timestamp>2024-10-04T20:00:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1043</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="174" sha1="2fushlt8yqvq2ur47dhba7b6q5j007x" xml:space="preserve">{{#display_map:Sel-Ar Kebabhaus, Ahrensburg, Germany}}
+Sel-Ar Kebabhaus ist ein türkischer Imbiss in der Stadt Ahrensburg.
+==Adresse==
+* Stormarnstraße 6
+* 22926 Ahrensburg</text>
+      <sha1>2fushlt8yqvq2ur47dhba7b6q5j007x</sha1>
+    </revision>
+    <revision>
+      <id>1044</id>
+      <parentid>1043</parentid>
+      <timestamp>2024-10-04T20:00:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1044</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="175" sha1="dwepegwsupwbcuupu764jivha7ajd4h" xml:space="preserve">{{#display_map:Stormarnstraße 6, Ahrensburg, Germany}}
+Sel-Ar Kebabhaus ist ein türkischer Imbiss in der Stadt Ahrensburg.
+==Adresse==
+* Stormarnstraße 6
+* 22926 Ahrensburg</text>
+      <sha1>dwepegwsupwbcuupu764jivha7ajd4h</sha1>
+    </revision>
+    <revision>
+      <id>1045</id>
+      <parentid>1044</parentid>
+      <timestamp>2024-10-04T20:01:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1045</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="163" sha1="evsrc156tzsngd74bgum6g9rn8nhw62" xml:space="preserve">{{#display_map:Sel-Ar Ahrensburg, Germany}}
+Sel-Ar Kebabhaus ist ein türkischer Imbiss in der Stadt Ahrensburg.
+==Adresse==
+* Stormarnstraße 6
+* 22926 Ahrensburg</text>
+      <sha1>evsrc156tzsngd74bgum6g9rn8nhw62</sha1>
+    </revision>
+    <revision>
+      <id>1046</id>
+      <parentid>1045</parentid>
+      <timestamp>2024-10-04T20:02:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1046</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="120" sha1="ebqc308o9i6j6i5fvd30ttk8appfbq4" xml:space="preserve">
+Sel-Ar Kebabhaus ist ein türkischer Imbiss in der Stadt Ahrensburg.
+==Adresse==
+* Stormarnstraße 6
+* 22926 Ahrensburg</text>
+      <sha1>ebqc308o9i6j6i5fvd30ttk8appfbq4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Suchmaschinen</title>
+    <ns>0</ns>
+    <id>210</id>
+    <revision>
+      <id>1048</id>
+      <timestamp>2024-10-04T20:17:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>1048</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="341" sha1="j1l1299ju2edvxads71v6ezdx4g7xiy" xml:space="preserve">==Suchmaschinen==
+* [https://www.metager.de/ MetaGer]
+* [https://duckduckgo.com/ DuckDuckGo]
+* [https://search.brave.com/ Brave]
+* [https://www.qwant.com/ Qwant]
+* [https://www.google.com/ Google]
+* [https://www.ecosia.org/ Ecosia]
+* [https://www.bing.com/ Microsoft Bing]
+* [https://www.ask.com/ Ask Search]
+* [https://www.yahoo.com/ Yahoo]</text>
+      <sha1>j1l1299ju2edvxads71v6ezdx4g7xiy</sha1>
+    </revision>
+    <revision>
+      <id>1049</id>
+      <parentid>1048</parentid>
+      <timestamp>2024-10-04T20:19:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>1049</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="305" sha1="ak0jxxfvexc7e9f7ya21k6q2oiyqmvo" xml:space="preserve">==Suchmaschinen==
+* [https://duckduckgo.com/ DuckDuckGo]
+* [https://search.brave.com/ Brave]
+* [https://www.qwant.com/ Qwant]
+* [https://www.google.com/ Google]
+* [https://www.ecosia.org/ Ecosia]
+* [https://www.bing.com/ Microsoft Bing]
+* [https://www.ask.com/ Ask Search]
+* [https://www.yahoo.com/ Yahoo]</text>
+      <sha1>ak0jxxfvexc7e9f7ya21k6q2oiyqmvo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Asia Haus CCA</title>
+    <ns>0</ns>
+    <id>211</id>
+    <revision>
+      <id>1051</id>
+      <timestamp>2024-10-04T21:09:27Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>1051</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="269" sha1="rik0h7936841j24s2giyof33mfqk7v3" xml:space="preserve">Asia Haus CCA ist ein Imbiss im CCA Einkaufszentrum in der Stadt Ahrensburg. Es bietet eine Vielzahl von asiatischen Gerichten an. 
+
+==Adresse==
+* Asia Haus CCA
+* Große Str. 24
+* 22926 Ahrensburg
+==Weblinks==
+* [https://asiahaus-cca-ahrensburg.de/ Offizielle Webseite]</text>
+      <sha1>rik0h7936841j24s2giyof33mfqk7v3</sha1>
+    </revision>
+    <revision>
+      <id>1052</id>
+      <parentid>1051</parentid>
+      <timestamp>2024-10-04T21:10:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1052</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="317" sha1="luato1qi2jq6nq6peh7siiqy4duj6o1" xml:space="preserve">{{#display_map:Asia Haus, Ahrensburg, Germany}}
+Asia Haus CCA ist ein Imbiss im CCA Einkaufszentrum in der Stadt Ahrensburg. Es bietet eine Vielzahl von asiatischen Gerichten an. 
+
+==Adresse==
+* Asia Haus CCA
+* Große Str. 24
+* 22926 Ahrensburg
+==Weblinks==
+* [https://asiahaus-cca-ahrensburg.de/ Offizielle Webseite]</text>
+      <sha1>luato1qi2jq6nq6peh7siiqy4duj6o1</sha1>
+    </revision>
+    <revision>
+      <id>1053</id>
+      <parentid>1052</parentid>
+      <timestamp>2024-10-04T21:11:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1053</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="322" sha1="oodv0sqwa5ntj387c4er3t9idjz7mnf" xml:space="preserve">{{#display_map:Große Str. 24, Ahrensburg, Germany}}
+Asia Haus CCA ist ein Imbiss im CCA Einkaufszentrum in der Stadt Ahrensburg. Es bietet eine Vielzahl von asiatischen Gerichten an. 
+
+==Adresse==
+* Asia Haus CCA
+* Große Str. 24
+* 22926 Ahrensburg
+==Weblinks==
+* [https://asiahaus-cca-ahrensburg.de/ Offizielle Webseite]</text>
+      <sha1>oodv0sqwa5ntj387c4er3t9idjz7mnf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blondo's Pizza Ahrensburg</title>
+    <ns>0</ns>
+    <id>212</id>
+    <revision>
+      <id>1055</id>
+      <timestamp>2024-10-04T21:23:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>1055</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="234" sha1="ji07uuo5jdjsxdyrapv2y5pc0z7ndzz" xml:space="preserve">Blondo's Pizza ist ein italienisches Restaurant und Imbiss in Ahrensburg. Hier können Sie leckere Pizza, Pasta, Salate, Baguettes, Fingerfood, Desserts und Getränke bequem vor Ort essen oder nach Hause oder ins Büro liefern lassen.</text>
+      <sha1>ji07uuo5jdjsxdyrapv2y5pc0z7ndzz</sha1>
+    </revision>
+    <revision>
+      <id>1056</id>
+      <parentid>1055</parentid>
+      <timestamp>2024-10-04T21:25:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>1056</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="343" sha1="s3cpy4imfyhs8exn2m9zq82xebesdl4" xml:space="preserve">Blondo's Pizza ist ein italienisches Restaurant und Imbiss in Ahrensburg. Hier können Sie leckere Pizza, Pasta, Salate, Baguettes, Fingerfood, Desserts und Getränke bequem vor Ort essen oder nach Hause oder ins Büro liefern lassen.
+==Adresse==
+*  Ewige Weide 6
+* 22926 Ahrensburg
+==Weblinks==
+* [https://www.blondos.de/ Offizielle Webseite]</text>
+      <sha1>s3cpy4imfyhs8exn2m9zq82xebesdl4</sha1>
+    </revision>
+    <revision>
+      <id>1057</id>
+      <parentid>1056</parentid>
+      <timestamp>2024-10-04T21:27:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1057</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="397" sha1="1mwjia7w7h9m07ka20f8goofvb07goi" xml:space="preserve">{{#display_map:Blondo's Pizza , Ahrensburg, Germany}}
+Blondo's Pizza ist ein italienisches Restaurant und Imbiss in Ahrensburg. Hier können Sie leckere Pizza, Pasta, Salate, Baguettes, Fingerfood, Desserts und Getränke bequem vor Ort essen oder nach Hause oder ins Büro liefern lassen.
+==Adresse==
+*  Ewige Weide 6
+* 22926 Ahrensburg
+==Weblinks==
+* [https://www.blondos.de/ Offizielle Webseite]</text>
+      <sha1>1mwjia7w7h9m07ka20f8goofvb07goi</sha1>
+    </revision>
+    <revision>
+      <id>1058</id>
+      <parentid>1057</parentid>
+      <timestamp>2024-10-04T21:27:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1058</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="389" sha1="aek5g8vdhxemivm5gq2krhqe3xo6okm" xml:space="preserve">{{#display_map:Blondo , Ahrensburg, Germany}}
+Blondo's Pizza ist ein italienisches Restaurant und Imbiss in Ahrensburg. Hier können Sie leckere Pizza, Pasta, Salate, Baguettes, Fingerfood, Desserts und Getränke bequem vor Ort essen oder nach Hause oder ins Büro liefern lassen.
+==Adresse==
+*  Ewige Weide 6
+* 22926 Ahrensburg
+==Weblinks==
+* [https://www.blondos.de/ Offizielle Webseite]</text>
+      <sha1>aek5g8vdhxemivm5gq2krhqe3xo6okm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Docker</title>
+    <ns>0</ns>
+    <id>213</id>
+    <revision>
+      <id>1067</id>
+      <timestamp>2024-10-05T17:02:27Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>1067</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4393" sha1="l8iijw7rl3qdxlrgjs09xu07sq8fc92" xml:space="preserve">Docker ist eine Open-Source-Plattform, die es ermöglicht, Anwendungen in Containern zu erstellen, zu testen und bereitzustellen. Docker-Pakete Anwendungen in Containern, die alle notwendigen Abhängigkeiten enthalten, um sicherzustellen, dass sie überall reibungslos ausgeführt werden können.
+==Welche Probleme löst Docker?==
+Docker löst viele Probleme, die bei der Bereitstellung von Anwendungen auftreten können. Einige der wichtigsten Probleme, die Docker löst, sind:
+* Portabilität: Docker-Container sind portabel und können überall ausgeführt werden, unabhängig von der Umgebung.
+* Konsistenz: Docker stellt sicher, dass Anwendungen in einer konsistenten Umgebung ausgeführt werden, unabhängig von der Umgebung, in der sie bereitgestellt werden.
+* Isolation: Docker isoliert Anwendungen voneinander, um sicherzustellen, dass sie sich nicht gegenseitig beeinflussen.
+* Skalierbarkeit: Docker ermöglicht es, Anwendungen schnell und einfach zu skalieren, um den Anforderungen des Benutzers gerecht zu werden.
+==Vorteile von Docker==
+Docker bietet viele Vorteile, darunter:
+* Effizienz: Docker-Container sind leichtgewichtig und starten schnell, was die Effizienz der Anwendungsbereitstellung verbessert.
+* Portabilität: Docker-Container sind portabel und können überall ausgeführt werden, unabhängig von der Umgebung.
+* Konsistenz: Docker stellt sicher, dass Anwendungen in einer konsistenten Umgebung ausgeführt werden, unabhängig von der Umgebung, in der sie bereitgestellt werden.
+* Sicherheit: Docker isoliert Anwendungen voneinander, um sicherzustellen, dass sie sich nicht gegenseitig beeinflussen.
+* Skalierbarkeit: Docker ermöglicht es, Anwendungen schnell und einfach zu skalieren, um den Anforderungen des Benutzers gerecht zu werden.
+==Nachteile von Docker==
+Obwohl Docker viele Vorteile bietet, hat es auch einige Nachteile, darunter:
+* Komplexität: Docker kann komplex sein und erfordert ein gewisses Maß an Fachwissen, um effektiv genutzt zu werden.
+* Sicherheit: Docker-Container können Sicherheitsrisiken darstellen, wenn sie nicht ordnungsgemäß konfiguriert sind.
+* Leistung: Docker-Container können die Leistung beeinträchtigen, insbesondere wenn sie überlastet sind.
+* Kompatibilität: Docker-Container können inkompatibel sein mit bestimmten Betriebssystemen oder Anwendungen.
+==Fazit==
+Docker ist eine leistungsstarke Plattform, die es ermöglicht, Anwendungen in Containern zu erstellen, zu testen und bereitzustellen. Es bietet viele Vorteile, darunter Effizienz, Portabilität, Konsistenz, Sicherheit und Skalierbarkeit. Obwohl Docker einige Nachteile hat, überwiegen die Vorteile in den meisten Fällen. Docker ist eine großartige Lösung für die Bereitstellung von Anwendungen und wird von vielen Entwicklern und Unternehmen auf der ganzen Welt eingesetzt.
+==Dockerfile==
+Ein Dockerfile ist eine Textdatei, die Anweisungen enthält, um ein Docker-Image zu erstellen. Ein Docker-Image ist eine ausführbare Datei, die alle notwendigen Abhängigkeiten enthält, um eine Anwendung in einem Container auszuführen. Ein Dockerfile enthält Anweisungen wie FROM, RUN, COPY, CMD und mehr, um das Docker-Image zu erstellen. Ein Dockerfile wird verwendet, um ein Docker-Image zu erstellen, das dann verwendet werden kann, um Docker-Container zu erstellen und auszuführen.
+==Docker-Compose==
+Docker-Compose ist ein Tool, das es ermöglicht, mehrere Docker-Container mit einer einzigen Konfigurationsdatei zu verwalten. Mit Docker-Compose können Sie eine YAML-Datei erstellen, die die Konfiguration Ihrer Anwendung definiert, einschließlich der Container, die ausgeführt werden sollen, der Netzwerke, die verwendet werden sollen, und der Volumes, die gemountet werden sollen. Docker-Compose ermöglicht es Ihnen, Ihre Anwendung mit einem einzigen Befehl zu starten, zu stoppen und zu verwalten, was die Verwaltung von Docker-Containern vereinfacht.
+==Docker Swarm==
+Docker Swarm ist ein Tool, das es ermöglicht, mehrere Docker-Container zu einem Cluster zu verbinden und sie als eine einzige Einheit zu verwalten. Mit Docker Swarm können Sie Container über mehrere Hosts hinweg verteilen, um die Skalierbarkeit und Verfügbarkeit Ihrer Anwendung zu verbessern. Docker Swarm ermöglicht es Ihnen, Container auf mehreren Hosts zu starten, zu stoppen und zu verwalten, um die Leistung und Zuverlässigkeit Ihrer Anwendung zu verbessern.</text>
+      <sha1>l8iijw7rl3qdxlrgjs09xu07sq8fc92</sha1>
+    </revision>
+    <revision>
+      <id>1068</id>
+      <parentid>1067</parentid>
+      <timestamp>2024-10-05T17:10:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>1068</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4921" sha1="e2q3dyg97dm3covhe4n535j0642f59h" xml:space="preserve">Docker ist eine Open-Source-Plattform, die es ermöglicht, Anwendungen in Containern zu erstellen, zu testen und bereitzustellen. Docker-Pakete Anwendungen in Containern, die alle notwendigen Abhängigkeiten enthalten, um sicherzustellen, dass sie überall reibungslos ausgeführt werden können.
+==Welche Probleme löst Docker?==
+Docker löst viele Probleme, die bei der Bereitstellung von Anwendungen auftreten können. Einige der wichtigsten Probleme, die Docker löst, sind:
+* Portabilität: Docker-Container sind portabel und können überall ausgeführt werden, unabhängig von der Umgebung.
+* Konsistenz: Docker stellt sicher, dass Anwendungen in einer konsistenten Umgebung ausgeführt werden, unabhängig von der Umgebung, in der sie bereitgestellt werden.
+* Isolation: Docker isoliert Anwendungen voneinander, um sicherzustellen, dass sie sich nicht gegenseitig beeinflussen.
+* Skalierbarkeit: Docker ermöglicht es, Anwendungen schnell und einfach zu skalieren, um den Anforderungen des Benutzers gerecht zu werden.
+==Vorteile von Docker==
+Docker bietet viele Vorteile, darunter:
+* Effizienz: Docker-Container sind leichtgewichtig und starten schnell, was die Effizienz der Anwendungsbereitstellung verbessert.
+* Portabilität: Docker-Container sind portabel und können überall ausgeführt werden, unabhängig von der Umgebung.
+* Konsistenz: Docker stellt sicher, dass Anwendungen in einer konsistenten Umgebung ausgeführt werden, unabhängig von der Umgebung, in der sie bereitgestellt werden.
+* Sicherheit: Docker isoliert Anwendungen voneinander, um sicherzustellen, dass sie sich nicht gegenseitig beeinflussen.
+* Skalierbarkeit: Docker ermöglicht es, Anwendungen schnell und einfach zu skalieren, um den Anforderungen des Benutzers gerecht zu werden.
+==Nachteile von Docker==
+Obwohl Docker viele Vorteile bietet, hat es auch einige Nachteile, darunter:
+* Komplexität: Docker kann komplex sein und erfordert ein gewisses Maß an Fachwissen, um effektiv genutzt zu werden.
+* Sicherheit: Docker-Container können Sicherheitsrisiken darstellen, wenn sie nicht ordnungsgemäß konfiguriert sind.
+* Leistung: Docker-Container können die Leistung beeinträchtigen, insbesondere wenn sie überlastet sind.
+* Kompatibilität: Docker-Container können inkompatibel sein mit bestimmten Betriebssystemen oder Anwendungen.
+==Fazit==
+Docker ist eine leistungsstarke Plattform, die es ermöglicht, Anwendungen in Containern zu erstellen, zu testen und bereitzustellen. Es bietet viele Vorteile, darunter Effizienz, Portabilität, Konsistenz, Sicherheit und Skalierbarkeit. Obwohl Docker einige Nachteile hat, überwiegen die Vorteile in den meisten Fällen. Docker ist eine großartige Lösung für die Bereitstellung von Anwendungen und wird von vielen Entwicklern und Unternehmen auf der ganzen Welt eingesetzt.
+==Dockerfile==
+Ein Dockerfile ist eine Textdatei, die Anweisungen enthält, um ein Docker-Image zu erstellen. Ein Docker-Image ist eine ausführbare Datei, die alle notwendigen Abhängigkeiten enthält, um eine Anwendung in einem Container auszuführen. Ein Dockerfile enthält Anweisungen wie FROM, RUN, COPY, CMD und mehr, um das Docker-Image zu erstellen. Ein Dockerfile wird verwendet, um ein Docker-Image zu erstellen, das dann verwendet werden kann, um Docker-Container zu erstellen und auszuführen.
+==Docker-Compose==
+Docker-Compose ist ein Tool, das es ermöglicht, mehrere Docker-Container mit einer einzigen Konfigurationsdatei zu verwalten. Mit Docker-Compose können Sie eine YAML-Datei erstellen, die die Konfiguration Ihrer Anwendung definiert, einschließlich der Container, die ausgeführt werden sollen, der Netzwerke, die verwendet werden sollen, und der Volumes, die gemountet werden sollen. Docker-Compose ermöglicht es Ihnen, Ihre Anwendung mit einem einzigen Befehl zu starten, zu stoppen und zu verwalten, was die Verwaltung von Docker-Containern vereinfacht.
+==Docker Swarm==
+Docker Swarm ist ein Tool, das es ermöglicht, mehrere Docker-Container zu einem Cluster zu verbinden und sie als eine einzige Einheit zu verwalten. Mit Docker Swarm können Sie Container über mehrere Hosts hinweg verteilen, um die Skalierbarkeit und Verfügbarkeit Ihrer Anwendung zu verbessern. Docker Swarm ermöglicht es Ihnen, Container auf mehreren Hosts zu starten, zu stoppen und zu verwalten, um die Leistung und Zuverlässigkeit Ihrer Anwendung zu verbessern.
+==Alternativen zu Docker==
+Obwohl Docker die beliebteste Container-Plattform ist, gibt es auch einige Alternativen, darunter:
+* Podman: Podman ist eine Open-Source-Alternative zu Docker, die es ermöglicht, Container ohne einen Daemon auszuführen.
+* LXC: LXC ist eine weitere Open-Source-Alternative zu Docker, die es ermöglicht, Systemcontainer zu erstellen und auszuführen.
+* rkt: rkt ist eine weitere Open-Source-Alternative zu Docker, die es ermöglicht, Container in einer sicheren und isolierten Umgebung auszuführen.</text>
+      <sha1>e2q3dyg97dm3covhe4n535j0642f59h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>The Beards</title>
+    <ns>0</ns>
+    <id>214</id>
+    <revision>
+      <id>1069</id>
+      <timestamp>2024-10-05T20:37:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>1069</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="103" sha1="gt3f6sduui62twp8d9eu53bqq35zhvg" xml:space="preserve">The Beards ist eine Kneipe in der Stadt Ahrensburg.
+==Adresse==
+* Manhagener Allee 2
+* 22926 Ahrensburg</text>
+      <sha1>gt3f6sduui62twp8d9eu53bqq35zhvg</sha1>
+    </revision>
+    <revision>
+      <id>1070</id>
+      <parentid>1069</parentid>
+      <timestamp>2024-10-05T20:38:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1070</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="153" sha1="qrhh765pigjrw58h1xkn88pn5kbu42l" xml:space="preserve">{{#display_map:The Beards , Ahrensburg, Germany}}
+The Beards ist eine Kneipe in der Stadt Ahrensburg.
+==Adresse==
+* Manhagener Allee 2
+* 22926 Ahrensburg</text>
+      <sha1>qrhh765pigjrw58h1xkn88pn5kbu42l</sha1>
+    </revision>
+    <revision>
+      <id>1071</id>
+      <parentid>1070</parentid>
+      <timestamp>2024-10-05T20:38:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1071</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="149" sha1="2r5e1qd2d06h9gs32oal6cim6848pi5" xml:space="preserve">{{#display_map:Beards , Ahrensburg, Germany}}
+The Beards ist eine Kneipe in der Stadt Ahrensburg.
+==Adresse==
+* Manhagener Allee 2
+* 22926 Ahrensburg</text>
+      <sha1>2r5e1qd2d06h9gs32oal6cim6848pi5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Gaststätte Asche</title>
+    <ns>0</ns>
+    <id>215</id>
+    <revision>
+      <id>1073</id>
+      <timestamp>2024-10-05T20:45:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>1073</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="185" sha1="pby860u2z3bs05owcrbsdlk0h845djo" xml:space="preserve">Gaststätte Asche ist eine Kneipe in der Stadt Ahrensburg. 
+==Adresse==
+* Hamburger Straße 30
+* 22926 Ahrensburg
+==Weblinks==
+* [[http://www.asche-ahrensburg.de/  Offizielle Webseite]]</text>
+      <sha1>pby860u2z3bs05owcrbsdlk0h845djo</sha1>
+    </revision>
+    <revision>
+      <id>1074</id>
+      <parentid>1073</parentid>
+      <timestamp>2024-10-05T20:45:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Weblinks */</comment>
+      <origin>1074</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="183" sha1="h4djmcgkvn8bf773qkfyb8q4hdriqw4" xml:space="preserve">Gaststätte Asche ist eine Kneipe in der Stadt Ahrensburg. 
+==Adresse==
+* Hamburger Straße 30
+* 22926 Ahrensburg
+==Weblinks==
+* [http://www.asche-ahrensburg.de/  Offizielle Webseite]</text>
+      <sha1>h4djmcgkvn8bf773qkfyb8q4hdriqw4</sha1>
+    </revision>
+    <revision>
+      <id>1075</id>
+      <parentid>1074</parentid>
+      <timestamp>2024-10-05T20:46:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1075</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="239" sha1="f0rc8wby9muiq5sf1ptfxiiuzkxgue7" xml:space="preserve">{{#display_map:Gaststätte Asche, Ahrensburg, Germany}}
+Gaststätte Asche ist eine Kneipe in der Stadt Ahrensburg. 
+==Adresse==
+* Hamburger Straße 30
+* 22926 Ahrensburg
+==Weblinks==
+* [http://www.asche-ahrensburg.de/  Offizielle Webseite]</text>
+      <sha1>f0rc8wby9muiq5sf1ptfxiiuzkxgue7</sha1>
+    </revision>
+    <revision>
+      <id>1076</id>
+      <parentid>1075</parentid>
+      <timestamp>2024-10-05T20:47:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1076</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="227" sha1="14c3ps9mf86ira6k62o55sijhbaq81x" xml:space="preserve">{{#display_map:Asche, Ahrensburg, Germany}}
+Gaststätte Asche ist eine Kneipe in der Stadt Ahrensburg. 
+==Adresse==
+* Hamburger Straße 30
+* 22926 Ahrensburg
+==Weblinks==
+* [http://www.asche-ahrensburg.de/  Offizielle Webseite]</text>
+      <sha1>14c3ps9mf86ira6k62o55sijhbaq81x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>J's Ahrensburg</title>
+    <ns>0</ns>
+    <id>216</id>
+    <revision>
+      <id>1078</id>
+      <timestamp>2024-10-05T20:56:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>1078</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="159" sha1="7m56bmpckp08umwq1al06vhia2h6y5a" xml:space="preserve">J's Ahrensburg ist eine Kneipe in Ahrensburg. Sie ist bekannt für ihre gute Stimmung und die leckeren Cocktails.
+==Adresse==
+* Dänenweg 10
+* 22926 Ahrensburg</text>
+      <sha1>7m56bmpckp08umwq1al06vhia2h6y5a</sha1>
+    </revision>
+    <revision>
+      <id>1079</id>
+      <parentid>1078</parentid>
+      <timestamp>2024-10-05T20:58:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>1079</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="210" sha1="s2z05q4jhxqwu71lhml184ksg7l841w" xml:space="preserve">{{#display_map:Dänenweg 10, Ahrensburg, Germany}}
+J's Ahrensburg ist eine Kneipe in Ahrensburg. Sie ist bekannt für ihre gute Stimmung und die leckeren Cocktails.
+==Adresse==
+* Dänenweg 10
+* 22926 Ahrensburg</text>
+      <sha1>s2z05q4jhxqwu71lhml184ksg7l841w</sha1>
     </revision>
   </page>
 </mediawiki>
