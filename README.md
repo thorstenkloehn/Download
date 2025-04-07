@@ -1,4 +1,7 @@
 # Download
+## Projektidee
+Ahrensburg.city Backup: XML-Inhalte ohne Nutzerdaten speichern, verwalten und wiederherstellen.  
+Die XML-Datei kann jeder herunterladen, bearbeiten und auf der eigenen Homepage oder anderswo verwenden.
 ## Voraussetzungen
 Damit die Datei ausgeführt werden kann, müssen folgende Komponenten installiert sein:
 * [MediaWiki 1.43](#mediawiki-143)
@@ -50,6 +53,7 @@ sudo COMPOSER=composer.local.json composer require --no-update mediawiki/semanti
 sudo composer update --no-dev
 php maintenance/update.php
 ```
+ 
 
 
 
