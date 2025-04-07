@@ -3,8 +3,9 @@
 Damit die Datei ausgeführt werden kann, müssen folgende Komponenten installiert sein:
 * [MediaWiki 1.43](#mediawiki-143)
 * [Composer](#Composer)
-* Maps
-* Semantic Web
+* [Maps](#Maps)
+* [Semantic Web]()
+
 ### MediaWiki 1.43
 * Unterstützt verschiedene Datenbanken wie MySQL, PostgreSQL, SQLite3 und andere.
 
@@ -21,10 +22,10 @@ sudo git submodule update --init --recursive
 sudo chown -R www-data:www-data /var/www/mediawiki
 sudo chmod -R 755 /var/www/mediawiki
 ```
+
 ### Composer
 Führen Sie die folgenden Befehle aus, um Composer in einer Version über 2.0 zu installieren:
 ```bash
-
 php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
 php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'; } else { echo 'Installer corrupt'; unlink('composer-setup.php'); } echo PHP_EOL;"
 php composer-setup.php
@@ -34,13 +35,21 @@ sudo mv composer.phar /usr/local/bin/composer
 ```
 
 ### Maps
-
-```
+Führen Sie die folgenden Befehle aus, um die Maps-Erweiterung zu installieren:
+```bash
 cd /var/www/mediawiki
 COMPOSER=composer.local.json composer require --no-update mediawiki/maps
 composer update mediawiki/maps --no-dev -o
 ```
 
+### Semantic Web
+Führen Sie die folgenden Befehle aus, um die Semantic Web-Erweiterung zu installieren:
+```bash
+cd /var/www/mediawiki
+sudo COMPOSER=composer.local.json composer require --no-update mediawiki/semantic-media-wiki
+sudo composer update --no-dev
+php maintenance/update.php
+```
 
 
 
