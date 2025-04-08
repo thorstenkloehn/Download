@@ -17,10 +17,10 @@ Führen Sie die folgenden Befehle aus, um MediaWiki 1.43 zu installieren:
 
 ```bash
 cd /var/www
-sudo git clone https://gerrit.wikimedia.org/r/mediawiki/core.git mediawiki
+sudo git clone https://gerrit.wikimedia.org/r/mediawiki/core.git /var/www/mediawiki
 cd mediawiki
 sudo git tag -l | sort -V
-sudo git checkout 1.43.0
+sudo git checkout 1.39.11
 sudo git submodule update --init --recursive
 sudo chown -R www-data:www-data /var/www/mediawiki
 sudo chmod -R 755 /var/www/mediawiki
@@ -53,7 +53,66 @@ sudo COMPOSER=composer.local.json composer require --no-update mediawiki/semanti
 sudo composer update --no-dev
 php maintenance/update.php
 ```
- 
+
+### Konfiguration
+Führen Sie die folgenden Befehle aus:
+```bash
+sudo nano /var/www/mediawiki/LocalSettings.php
+```
+Fügen Sie den folgenden Text hinzu:
+
+```php
+wfLoadExtension( 'SemanticResultFormats' );
+
+
+
+wfLoadExtension( 'SemanticMediaWiki' );
+enableSemantics( 'Ihre Homepage-Adresse' );
+wfLoadExtension( 'Maps' );
+semantic-result-formats
+$egMapsDefaultService = 'leaflet';
+```
+### Jetzt können Sie das Git-Projekt herunterladen
+
+Führen Sie den folgenden Befehl aus, um das Projekt von GitHub zu klonen und ausführen:
+
+```bash
+git clone https://github.com/thorstenkloehn/Download.git /Download
+php /var/www/mediawiki/maintenance/run.php importDump.php < /Download/pagedump.xml
+```
+### Bei Fehlern besuchen Sie bitte die folgenden Seiten:
+
+* [SemanticMediaWiki](https://www.semantic-mediawiki.org/)
+* [MediaWiki](https://www.mediawiki.org/)
+* [Maps](https://www.mediawiki.org/wiki/Extension:Maps)
+### Weitere Erweiterungen werden noch benötigt
+#### Composer 
+##### Semantic Result Formats
+```bash
+cd /var/www/mediawiki
+sudo COMPOSER=composer.local.json composer require --no-update mediawiki/semantic-result-formats
+sudo composer update --no-dev
+```
+```
+nano /var/www/mediawiki/LocalSettings.php
+wfLoadExtension( 'SemanticResultFormats' );
+```
+##### Mermaid
+```bash
+cd /var/www/mediawiki
+sudo COMPOSER=composer.local.json composer require --no-update mediawiki/mermaid
+sudo composer update --no-dev
+```
+```
+nano /var/www/mediawiki/LocalSettings.php
+wfLoadExtension( 'Mermaid' );  
+$mermaidgDefaultTheme = 'neutral';
+```
+
+
+
+
+
 
 
 
