@@ -108,12 +108,28 @@ nano /var/www/mediawiki/LocalSettings.php
 wfLoadExtension( 'Mermaid' );  
 $mermaidgDefaultTheme = 'neutral';
 ```
+### wget
+```
+mkdir /thorsten
+sudo chmod 777 -R thorsten
+cd /thorsten
+wget https://extdist.wmflabs.org/dist/extensions/CookieWarning-REL1_43-f697459.tar.gz
+tar -xzf CookieWarning-REL1_43-f697459.tar.gz -C /var/www/mediawiki/extensions
+wget https://extdist.wmflabs.org/dist/extensions/YouTube-REL1_43-01673ce.tar.gz
+tar -xzf YouTube-REL1_43-01673ce.tar.gz -C /var/www/mediawiki/extensions
 
+```
+nano /var/www/mediawiki/LocalSettings.php
+wfLoadExtension( 'YouTube' );
+$wgCookieWarningEnabled=true;
+$wgCookieWarningMoreUrl='';
+$wgCookieWarningGeoIPServiceURL='';
+$wgCookieWarningGeoIPLookup='none';
+$wgCookieWarningForCountryCodes="EU";
+wfLoadExtension( 'CookieWarning' );
+wfLoadExtension( 'Gadgets' );
+wfLoadExtension( 'SyntaxHighlight_GeSHi' );
 
-
-
-
-
-
+```
 
 
