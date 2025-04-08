@@ -110,6 +110,7 @@ $mermaidgDefaultTheme = 'neutral';
 ```
 ### wget
 ```
+sudo rm -R /thorsten
 mkdir /thorsten
 sudo chmod 777 -R thorsten
 cd /thorsten
@@ -117,7 +118,9 @@ wget https://extdist.wmflabs.org/dist/extensions/CookieWarning-REL1_43-f697459.t
 tar -xzf CookieWarning-REL1_43-f697459.tar.gz -C /var/www/mediawiki/extensions
 wget https://extdist.wmflabs.org/dist/extensions/YouTube-REL1_43-01673ce.tar.gz
 tar -xzf YouTube-REL1_43-01673ce.tar.gz -C /var/www/mediawiki/extensions
-
+wget https://extdist.wmflabs.org/dist/extensions/MobileFrontend-REL1_43-9de9f8b.tar.gz
+tar -xzf MobileFrontend-REL1_43-9de9f8b.tar.gz -C /var/www/mediawiki/extensions
+```
 ```
 nano /var/www/mediawiki/LocalSettings.php
 wfLoadExtension( 'YouTube' );
@@ -129,6 +132,9 @@ $wgCookieWarningForCountryCodes="EU";
 wfLoadExtension( 'CookieWarning' );
 wfLoadExtension( 'Gadgets' );
 wfLoadExtension( 'SyntaxHighlight_GeSHi' );
+$wgDefaultMobileSkin = 'minerva'; // verwende den Minerva-Skin (Du musst ihn in 1.
+$wgDefaultMobileSkin = 'vector'; // verwende den Vector-Ski
+$wgDefaultMobileSkin = 'timeless'; // verwende den Timeless-Skin
 
 ```
 
