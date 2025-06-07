@@ -18,7 +18,7 @@ cd /var/www
 sudo git clone https://gerrit.wikimedia.org/r/mediawiki/core.git /var/www/mediawiki  
 cd mediawiki  
 sudo git tag \-l | sort \-V  
-sudo git checkout 1.39.11  
+sudo git checkout 1.43.1  
 sudo git submodule update \--init \--recursive  
 sudo chown \-R www-data:www-data /var/www/mediawiki  
 sudo chmod \-R 755 /var/www/mediawiki
