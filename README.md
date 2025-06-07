@@ -1,25 +1,25 @@
-# Download
-## Projektidee
-Ahrensburg.city Backup: XML-Inhalte ohne Nutzerdaten speichern, verwalten und wiederherstellen.  
-Die XML-Datei kann jeder herunterladen, bearbeiten und auf der eigenen Homepage oder anderswo verwenden.
-## Voraussetzungen
-Damit die Datei ausgeführt werden kann, müssen folgende Komponenten installiert sein:
-* [MediaWiki 1.43](#mediawiki-143)
+Projektidee
 
+Ahrensburg.city Backup: Speichern, Verwalten und Wiederherstellen von XML-Inhalten ohne Nutzerdaten. Jeder kann die XML-Datei herunterladen, bearbeiten und auf der eigenen Homepage oder anderweitig verwenden.Voraussetzungen
 
-### MediaWiki 1.43
-* Unterstützt verschiedene Datenbanken wie MySQL, PostgreSQL, SQLite3 und andere.
+Folgende Komponenten müssen installiert sein, damit die Datei ausgeführt werden kann:
 
-#### Installationsanleitung:
-Führen Sie die folgenden Befehle aus, um MediaWiki 1.43 zu installieren:
+* [MediaWiki 1.43](https://docs.google.com/document/d/1iARXk2GluegpHuMp-NSI0g-cOucYcFi6qWb9M2GyVWg/edit)
 
-```bash
-cd /var/www
-sudo git clone https://gerrit.wikimedia.org/r/mediawiki/core.git /var/www/mediawiki
-cd mediawiki
-sudo git tag -l | sort -V
-sudo git checkout 1.39.11
-sudo git submodule update --init --recursive
-sudo chown -R www-data:www-data /var/www/mediawiki
-sudo chmod -R 755 /var/www/mediawiki
+MediaWiki 1.43
+
+* Unterstützt verschiedene Datenbanken wie MySQL, PostgreSQL, SQLite3 und weitere.
+
+Installationsanleitung
+
+Zur Installation von MediaWiki 1.43 sind die folgenden Befehle auszuführen:  
+```
+cd /var/www  
+sudo git clone https://gerrit.wikimedia.org/r/mediawiki/core.git /var/www/mediawiki  
+cd mediawiki  
+sudo git tag \-l | sort \-V  
+sudo git checkout 1.39.11  
+sudo git submodule update \--init \--recursive  
+sudo chown \-R www-data:www-data /var/www/mediawiki  
+sudo chmod \-R 755 /var/www/mediawiki
 ```
