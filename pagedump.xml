@@ -2,7 +2,7 @@
   <siteinfo>
     <sitename>ahrensburg.city</sitename>
     <dbname>mediawiki</dbname>
-    <base>http://localhost/index.php/Hauptseite</base>
+    <base>https://wiki.ahrensburg.city/Hauptseite</base>
     <generator>MediaWiki 1.43.1</generator>
     <case>first-letter</case>
     <namespaces>
@@ -32,7 +32,7 @@
     <id>1</id>
     <revision>
       <id>1</id>
-      <timestamp>2025-06-05T01:18:26Z</timestamp>
+      <timestamp>2025-06-07T03:35:06Z</timestamp>
       <contributor>
         <username>MediaWiki default</username>
         <id>2</id>
@@ -56,12 +56,327 @@ Hilfe zur Verwendung und Konfiguration der Wiki-Software findest du im [https://
     <revision>
       <id>2</id>
       <parentid>1</parentid>
-      <timestamp>2025-06-05T01:24:36Z</timestamp>
+      <timestamp>2025-06-07T03:58:41Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <origin>2</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3598" sha1="kja91rgafs5ave1yuu4uhw9rmo991p9" xml:space="preserve">
+= Impressum =
+Angaben gemäß § 5 TMG
+
+* Thorsten Klöhn
+* Gerhardstraße 2
+* 22926 Ahrensburg
+
+== Vertreten durch: ==
+Thorsten Klöhn
+
+== Kontakt: ==
+
+* Telefon: 04102-2 17 40 07\
+* E-Mail: thorstenkloehn@gmail.com
+
+== Haftungsausschluss: ==
+
+=== Haftung für Inhalte ===
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die
+
+Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir
+
+jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7
+
+Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen
+
+Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als
+
+Diensteanbieter jedoch nicht verpflichtet, übermittelte oder
+
+gespeicherte fremde Informationen zu überwachen oder nach Umständen zu
+
+forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+
+Verpflichtungen zur Entfernung oder Sperrung der Nutzung von
+
+Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt.
+
+Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der
+
+Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von
+
+entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend
+
+entfernen.
+
+=== Haftung für Links ===
+Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren
+
+Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden
+
+Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten
+
+Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten
+
+verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der
+
+Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte
+
+waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente
+
+inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete
+
+Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden
+
+von Rechtsverletzungen werden wir derartige Links umgehend entfernen.\
+
+=== Urheberrecht ===
+Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung
+
+4.0 International
+
+Lizenz.Soweit die Inhalte
+
+auf dieser Seite nicht vom Betreiber erstellt wurden, werden die
+
+Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als
+
+solche gekennzeichnet. Sollten Sie trotzdem auf eine
+
+Urheberrechtsverletzung aufmerksam werden, bitten wir um einen
+
+entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden
+
+wir derartige Inhalte umgehend entfernen.
+
+=== Datenschutz ===
+Die Nutzung unserer Webseite ist in der Regel ohne Angabe
+
+personenbezogener Daten möglich. Soweit auf unseren Seiten
+
+personenbezogene Daten (beispielsweise Name, Anschrift oder
+
+eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf
+
+freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche
+
+Zustimmung nicht an Dritte weitergegeben.
+
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei
+
+der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein
+
+lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht
+
+möglich.
+
+Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten
+
+Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich
+
+angeforderter Werbung und Informationsmaterialien wird hiermit
+
+ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich
+
+ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von
+
+Werbeinformationen, etwa durch Spam-Mails, vor.\
+
+Impressum vom Impressum Generator
+
+der [Kanzlei Hasselbach, Rechtsanwälte für Arbeitsrecht und
+
+Familienrecht](&lt;nowiki&gt;https://www.kanzlei-hasselbach&lt;/nowiki&gt;
+*</text>
+      <sha1>kja91rgafs5ave1yuu4uhw9rmo991p9</sha1>
+    </revision>
+    <revision>
+      <id>3</id>
+      <parentid>2</parentid>
+      <timestamp>2025-06-07T04:01:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>3</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3597" sha1="p7xruvkxsw2vjlb5nchkrbdggytrcbv" xml:space="preserve">= Impressum =
+Angaben gemäß § 5 TMG
+
+* Thorsten Klöhn
+* Gerhardstraße 2
+* 22926 Ahrensburg
+
+== Vertreten durch: ==
+Thorsten Klöhn
+
+== Kontakt: ==
+
+* Telefon: 04102-2 17 40 07\
+* E-Mail: thorstenkloehn@gmail.com
+
+== Haftungsausschluss: ==
+
+=== Haftung für Inhalte ===
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die
+
+Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir
+
+jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7
+
+Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen
+
+Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als
+
+Diensteanbieter jedoch nicht verpflichtet, übermittelte oder
+
+gespeicherte fremde Informationen zu überwachen oder nach Umständen zu
+
+forschen, die auf eine rechtswidrige Tätigkeit hinweisen.
+
+Verpflichtungen zur Entfernung oder Sperrung der Nutzung von
+
+Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt.
+
+Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der
+
+Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von
+
+entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend
+
+entfernen.
+
+=== Haftung für Links ===
+Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren
+
+Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden
+
+Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten
+
+Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten
+
+verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der
+
+Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte
+
+waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente
+
+inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete
+
+Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden
+
+von Rechtsverletzungen werden wir derartige Links umgehend entfernen.\
+
+=== Urheberrecht ===
+Dieses Werk ist lizenziert unter einer Creative Commons Namensnennung
+
+4.0 International
+
+Lizenz.Soweit die Inhalte
+
+auf dieser Seite nicht vom Betreiber erstellt wurden, werden die
+
+Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als
+
+solche gekennzeichnet. Sollten Sie trotzdem auf eine
+
+Urheberrechtsverletzung aufmerksam werden, bitten wir um einen
+
+entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden
+
+wir derartige Inhalte umgehend entfernen.
+
+=== Datenschutz ===
+Die Nutzung unserer Webseite ist in der Regel ohne Angabe
+
+personenbezogener Daten möglich. Soweit auf unseren Seiten
+
+personenbezogene Daten (beispielsweise Name, Anschrift oder
+
+eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf
+
+freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche
+
+Zustimmung nicht an Dritte weitergegeben.
+
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei
+
+der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein
+
+lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht
+
+möglich.
+
+Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten
+
+Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich
+
+angeforderter Werbung und Informationsmaterialien wird hiermit
+
+ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich
+
+ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von
+
+Werbeinformationen, etwa durch Spam-Mails, vor.\
+
+Impressum vom Impressum Generator
+
+der [Kanzlei Hasselbach, Rechtsanwälte für Arbeitsrecht und
+
+Familienrecht](&lt;nowiki&gt;https://www.kanzlei-hasselbach&lt;/nowiki&gt;
+*</text>
+      <sha1>p7xruvkxsw2vjlb5nchkrbdggytrcbv</sha1>
+    </revision>
+    <revision>
+      <id>6</id>
+      <parentid>3</parentid>
+      <timestamp>2025-06-07T04:07:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde geleert.</comment>
+      <origin>6</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+    <revision>
+      <id>7</id>
+      <timestamp>2025-06-05T01:18:26Z</timestamp>
+      <contributor>
+        <username>MediaWiki default</username>
+        <id>2</id>
+      </contributor>
+      <origin>7</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="827" sha1="ijyt2ix39wzb50jz3zqzbv6c2qkshij" xml:space="preserve">&lt;strong&gt;MediaWiki wurde installiert.&lt;/strong&gt;
+
+Hilfe zur Verwendung und Konfiguration der Wiki-Software findest du im [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Benutzerhandbuch].
+
+== Starthilfen ==
+
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Liste der Konfigurationsparameter]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ Häufige Fragen zu MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Mailingliste zu neuen Versionen von MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Übersetze MediaWiki für deine Sprache]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam Erfahre, wie du Spam auf deinem Wiki bekämpfen kannst]</text>
+      <sha1>ijyt2ix39wzb50jz3zqzbv6c2qkshij</sha1>
+    </revision>
+    <revision>
+      <id>8</id>
+      <parentid>7</parentid>
+      <timestamp>2025-06-05T01:24:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>8</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="236" sha1="m7zm8t8rsd0jo69surzep3xp2bua0re" xml:space="preserve">* Nahtlose Integration von KI und ML in Ihre Projekte
@@ -70,14 +385,14 @@ Hilfe zur Verwendung und Konfiguration der Wiki-Software findest du im [https://
       <sha1>m7zm8t8rsd0jo69surzep3xp2bua0re</sha1>
     </revision>
     <revision>
-      <id>3</id>
-      <parentid>2</parentid>
+      <id>9</id>
+      <parentid>8</parentid>
       <timestamp>2025-06-05T01:25:36Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>3</origin>
+      <origin>9</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="248" sha1="redhdd3vi8kyyujaiwq5l5rlpj02c6p" xml:space="preserve">* [[Nahtlose Integration von KI und ML in Ihre Projekte]]
@@ -86,14 +401,14 @@ Hilfe zur Verwendung und Konfiguration der Wiki-Software findest du im [https://
       <sha1>redhdd3vi8kyyujaiwq5l5rlpj02c6p</sha1>
     </revision>
     <revision>
-      <id>6</id>
-      <parentid>3</parentid>
+      <id>10</id>
+      <parentid>9</parentid>
       <timestamp>2025-06-05T01:34:26Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>6</origin>
+      <origin>10</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="296" sha1="3zyhpvzf43xka3on8yp4njlz1hzwg4d" xml:space="preserve">* [[Nahtlose Integration von KI und ML in Ihre Projekte]]
@@ -103,14 +418,14 @@ Hilfe zur Verwendung und Konfiguration der Wiki-Software findest du im [https://
       <sha1>3zyhpvzf43xka3on8yp4njlz1hzwg4d</sha1>
     </revision>
     <revision>
-      <id>10</id>
-      <parentid>6</parentid>
+      <id>11</id>
+      <parentid>10</parentid>
       <timestamp>2025-06-05T03:03:43Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>10</origin>
+      <origin>11</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="309" sha1="qgzbaksa9o8y56wyggt7isk9fqtqonz" xml:space="preserve">* [[Nahtlose Integration von KI und ML in Ihre Projekte]]
@@ -121,14 +436,14 @@ Hilfe zur Verwendung und Konfiguration der Wiki-Software findest du im [https://
       <sha1>qgzbaksa9o8y56wyggt7isk9fqtqonz</sha1>
     </revision>
     <revision>
-      <id>20</id>
-      <parentid>10</parentid>
+      <id>12</id>
+      <parentid>11</parentid>
       <timestamp>2025-06-05T04:02:21Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>20</origin>
+      <origin>12</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="323" sha1="9c5306k76k9q7mkryhsb2bvfqit4mfe" xml:space="preserve">* [[Nahtlose Integration von KI und ML in Ihre Projekte]]
@@ -140,14 +455,14 @@ Hilfe zur Verwendung und Konfiguration der Wiki-Software findest du im [https://
       <sha1>9c5306k76k9q7mkryhsb2bvfqit4mfe</sha1>
     </revision>
     <revision>
-      <id>22</id>
-      <parentid>20</parentid>
+      <id>13</id>
+      <parentid>12</parentid>
       <timestamp>2025-06-05T04:06:27Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>22</origin>
+      <origin>13</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="417" sha1="i9l1g1ntbtnah4q6wvmczoxrr2pcni8" xml:space="preserve">* [[Nahtlose Integration von KI und ML in Ihre Projekte]]
@@ -163,14 +478,14 @@ Hilfe zur Verwendung und Konfiguration der Wiki-Software findest du im [https://
       <sha1>i9l1g1ntbtnah4q6wvmczoxrr2pcni8</sha1>
     </revision>
     <revision>
-      <id>23</id>
-      <parentid>22</parentid>
+      <id>14</id>
+      <parentid>13</parentid>
       <timestamp>2025-06-05T04:09:08Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>23</origin>
+      <origin>14</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="426" sha1="frkbb5r1tfnykpgu1lq1d0cb2n2k7q9" xml:space="preserve">* [[Nahtlose Integration von KI und ML in Ihre Projekte]]
@@ -187,14 +502,14 @@ Hilfe zur Verwendung und Konfiguration der Wiki-Software findest du im [https://
       <sha1>frkbb5r1tfnykpgu1lq1d0cb2n2k7q9</sha1>
     </revision>
     <revision>
-      <id>24</id>
-      <parentid>23</parentid>
+      <id>15</id>
+      <parentid>14</parentid>
       <timestamp>2025-06-05T14:02:19Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>24</origin>
+      <origin>15</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="445" sha1="ca15hixmm8dc9lneleixpbzqm2zd7ri" xml:space="preserve">* [[Nahtlose Integration von KI und ML in Ihre Projekte]]
@@ -211,14 +526,14 @@ Hilfe zur Verwendung und Konfiguration der Wiki-Software findest du im [https://
       <sha1>ca15hixmm8dc9lneleixpbzqm2zd7ri</sha1>
     </revision>
     <revision>
-      <id>26</id>
-      <parentid>24</parentid>
+      <id>16</id>
+      <parentid>15</parentid>
       <timestamp>2025-06-05T22:04:28Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>26</origin>
+      <origin>16</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="510" sha1="r6grb9o6pxr2td4jnu6u9viiee4yrfb" xml:space="preserve">* [[Nahtlose Integration von KI und ML in Ihre Projekte]]
@@ -235,20 +550,298 @@ Hilfe zur Verwendung und Konfiguration der Wiki-Software findest du im [https://
 # [[Anki]]</text>
       <sha1>r6grb9o6pxr2td4jnu6u9viiee4yrfb</sha1>
     </revision>
+    <revision>
+      <id>54</id>
+      <parentid>6</parentid>
+      <timestamp>2025-06-07T04:21:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>54</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="510" sha1="r6grb9o6pxr2td4jnu6u9viiee4yrfb" xml:space="preserve">* [[Nahtlose Integration von KI und ML in Ihre Projekte]]
+* [[Schwachstellenanalyse Tools]]
+* [[Webframework integriert mit PostGIS]] - Ein Webframework, das nahtlos mit PostGIS integriert ist, um Geodaten effizient zu verarbeiten und darzustellen.
+* [[CMS integriert mit integriert mit PostGIS]]
+* [[Drupal]]
+* [[Mooodle]]
+* [[Server Mieten]]
+* [[Static Site Generators nach Typen nach Reifegrade sortiert]]
+== Datenerfassung ==
+
+# OpenDataKit (ODK): Für die mobile Datenerfassung und -verwaltung.
+# [[Anki]]</text>
+      <sha1>r6grb9o6pxr2td4jnu6u9viiee4yrfb</sha1>
+    </revision>
+    <revision>
+      <id>55</id>
+      <parentid>54</parentid>
+      <timestamp>2025-06-07T14:28:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>55</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="462" sha1="j166ifuyrv789sbldc5hx0fkx9zdyqw" xml:space="preserve">* [[Nahtlose Integration von KI und ML in Ihre Projekte]]
+* [[Schwachstellenanalyse Tools]]
+* [[Webframework integriert mit PostGIS]] - Ein Webframework, das nahtlos mit PostGIS integriert ist, um Geodaten effizient zu verarbeiten und darzustellen.
+* [[Drupal]]
+* [[Mooodle]]
+* [[Server Mieten]]
+* [[Static Site Generators nach Typen nach Reifegrade sortiert]]
+== Datenerfassung ==
+
+# OpenDataKit (ODK): Für die mobile Datenerfassung und -verwaltung.
+# [[Anki]]</text>
+      <sha1>j166ifuyrv789sbldc5hx0fkx9zdyqw</sha1>
+    </revision>
+    <revision>
+      <id>56</id>
+      <parentid>55</parentid>
+      <timestamp>2025-06-07T20:25:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>56</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="474" sha1="a57imyl69rk8vwfafnd1nhovrkxc78k" xml:space="preserve">* [[Nahtlose Integration von KI und ML in Ihre Projekte]]
+* [[Schwachstellenanalyse Tools]]
+* [[Webframework integriert mit PostGIS]] - Ein Webframework, das nahtlos mit PostGIS integriert ist, um Geodaten effizient zu verarbeiten und darzustellen.
+* [[Drupal]]
+* [[Mooodle]]
+* [[Typo3]]
+* [[Server Mieten]]
+* [[Static Site Generators nach Typen nach Reifegrade sortiert]]
+== Datenerfassung ==
+
+# OpenDataKit (ODK): Für die mobile Datenerfassung und -verwaltung.
+# [[Anki]]</text>
+      <sha1>a57imyl69rk8vwfafnd1nhovrkxc78k</sha1>
+    </revision>
+    <revision>
+      <id>60</id>
+      <parentid>56</parentid>
+      <timestamp>2025-06-07T23:55:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>60</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="462" sha1="j166ifuyrv789sbldc5hx0fkx9zdyqw" xml:space="preserve">* [[Nahtlose Integration von KI und ML in Ihre Projekte]]
+* [[Schwachstellenanalyse Tools]]
+* [[Webframework integriert mit PostGIS]] - Ein Webframework, das nahtlos mit PostGIS integriert ist, um Geodaten effizient zu verarbeiten und darzustellen.
+* [[Drupal]]
+* [[Mooodle]]
+* [[Server Mieten]]
+* [[Static Site Generators nach Typen nach Reifegrade sortiert]]
+== Datenerfassung ==
+
+# OpenDataKit (ODK): Für die mobile Datenerfassung und -verwaltung.
+# [[Anki]]</text>
+      <sha1>j166ifuyrv789sbldc5hx0fkx9zdyqw</sha1>
+    </revision>
+    <revision>
+      <id>64</id>
+      <parentid>60</parentid>
+      <timestamp>2025-06-09T15:21:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>64</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="456" sha1="4xprdnmhbkrf6zv0v2308wfqrjfuy0c" xml:space="preserve">* [[Nahtlose Integration von KI und ML in Ihre Projekte]]
+* [[Schwachstellenanalyse Tools]]
+* [[Webframework integriert mit PostGIS]] - Ein Webframework, das nahtlos mit PostGIS integriert ist, um Geodaten effizient zu verarbeiten und darzustellen.
+* [[Drupal]]
+* Typo3
+* [[Server Mieten]]
+* [[Static Site Generators nach Typen nach Reifegrade sortiert]]
+== Datenerfassung ==
+
+# OpenDataKit (ODK): Für die mobile Datenerfassung und -verwaltung.
+# [[Anki]]</text>
+      <sha1>4xprdnmhbkrf6zv0v2308wfqrjfuy0c</sha1>
+    </revision>
+    <revision>
+      <id>66</id>
+      <parentid>64</parentid>
+      <timestamp>2025-06-09T16:06:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>66</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="460" sha1="flvs6t3izhcy4g28j0r1odbe1nzp6yt" xml:space="preserve">* [[Nahtlose Integration von KI und ML in Ihre Projekte]]
+* [[Schwachstellenanalyse Tools]]
+* [[Webframework integriert mit PostGIS]] - Ein Webframework, das nahtlos mit PostGIS integriert ist, um Geodaten effizient zu verarbeiten und darzustellen.
+* [[Drupal]]
+* [[Typo3]]
+* [[Server Mieten]]
+* [[Static Site Generators nach Typen nach Reifegrade sortiert]]
+== Datenerfassung ==
+
+# OpenDataKit (ODK): Für die mobile Datenerfassung und -verwaltung.
+# [[Anki]]</text>
+      <sha1>flvs6t3izhcy4g28j0r1odbe1nzp6yt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ahrensburg.city:Impressum</title>
+    <ns>4</ns>
+    <id>2</id>
+    <revision>
+      <id>4</id>
+      <timestamp>2025-06-07T04:04:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;!-- filepath: /home/thorsten/dokument/docs/Impressum.md --&gt; == Angaben gemäß § 5 TMG ==  * '''Thorsten Klöhn''' * Gerhardstraße 2 * 22926 Ahrensburg  == Vertreten durch == Thorsten Klöhn  == Kontakt == * Telefon: 04102-2 17 40 07 * E-Mail: thorstenkloehn@gmail.com  == Haftungsausschluss ==  === Haftung für Inhalte === Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhal…“</comment>
+      <origin>4</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3674" sha1="huopoyjrukymqnsa59k872f91cqpb9l" xml:space="preserve">&lt;!-- filepath: /home/thorsten/dokument/docs/Impressum.md --&gt;
+== Angaben gemäß § 5 TMG ==
+
+* '''Thorsten Klöhn'''
+* Gerhardstraße 2
+* 22926 Ahrensburg
+
+== Vertreten durch ==
+Thorsten Klöhn
+
+== Kontakt ==
+* Telefon: 04102-2 17 40 07
+* E-Mail: thorstenkloehn@gmail.com
+
+== Haftungsausschluss ==
+
+=== Haftung für Inhalte ===
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen.
+
+=== Haftung für Links ===
+Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.
+
+=== Urheberrecht ===
+Dieses Werk ist lizenziert unter einer [http://creativecommons.org/licenses/by/4.0/ Creative Commons Namensnennung 4.0 International Lizenz]. Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+
+=== Datenschutz ===
+Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben. Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.
+
+''Impressum vom [https://www.impressum-generator.de Impressum Generator] der [https://www.kanzlei-hasselbach.de Kanzlei Hasselbach, Rechtsanwälte für Arbeitsrecht und Familienrecht]''</text>
+      <sha1>huopoyjrukymqnsa59k872f91cqpb9l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ahrensburg.city:Datenschutz</title>
+    <ns>4</ns>
+    <id>3</id>
+    <revision>
+      <id>5</id>
+      <timestamp>2025-06-07T04:06:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ '''Verantwortliche Stelle''' im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:  * Thorsten Klöhn * Gerhardstraße 2 * 22926 Ahrensburg * Telefon: 04102-2 17 40 07 * E-Mail: thorstenkloehn@gmail.com  == Ihre Betroffenenrechte ==  Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können Sie jederzeit folgende Rechte ausüben:  * Auskunft über Ihre bei uns gespeicherten Daten und deren Verarbei…“</comment>
+      <origin>5</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4575" sha1="edbp9pe8mr1yytujkgzt821hbusuuw7" xml:space="preserve">
+'''Verantwortliche Stelle''' im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:
+
+* Thorsten Klöhn
+* Gerhardstraße 2
+* 22926 Ahrensburg
+* Telefon: 04102-2 17 40 07
+* E-Mail: thorstenkloehn@gmail.com
+
+== Ihre Betroffenenrechte ==
+
+Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können Sie jederzeit folgende Rechte ausüben:
+
+* Auskunft über Ihre bei uns gespeicherten Daten und deren Verarbeitung (Art. 15 DSGVO)
+* Berichtigung unrichtiger personenbezogener Daten (Art. 16 DSGVO)
+* Löschung Ihrer bei uns gespeicherten Daten (Art. 17 DSGVO)
+* Einschränkung der Datenverarbeitung, sofern wir Ihre Daten aufgrund gesetzlicher Pflichten noch nicht löschen dürfen (Art. 18 DSGVO)
+* Widerspruch gegen die Verarbeitung Ihrer Daten bei uns (Art. 21 DSGVO) und
+* Datenübertragbarkeit, sofern Sie in die Datenverarbeitung eingewilligt haben oder einen Vertrag mit uns abgeschlossen haben (Art. 20 DSGVO)
+
+Sofern Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen.
+
+Sie können sich jederzeit mit einer Beschwerde an eine Aufsichtsbehörde wenden, z. B. an die zuständige Aufsichtsbehörde des Bundeslands Ihres Wohnsitzes oder an die für uns als verantwortliche Stelle zuständige Behörde.
+
+Eine Liste der Aufsichtsbehörden (für den nichtöffentlichen Bereich) mit Anschrift finden Sie unter: .
+
+== Eingebettete YouTube-Videos ==
+
+=== Art und Zweck der Verarbeitung ===
+
+Auf einigen unserer Webseiten betten wir YouTube-Videos ein. Betreiber der entsprechenden Plugins ist die YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA (nachfolgend „YouTube“). Wenn Sie eine Seite mit dem YouTube-Plugin besuchen, wird eine Verbindung zu Servern von YouTube hergestellt. Dabei wird YouTube mitgeteilt, welche Seiten Sie besuchen. Wenn Sie in Ihrem YouTube-Account eingeloggt sind, kann YouTube Ihr Surfverhalten Ihnen persönlich zuordnen. Dies verhindern Sie, indem Sie sich vorher aus Ihrem YouTube-Account ausloggen.
+
+Wird ein YouTube-Video gestartet, setzt der Anbieter Cookies ein, die Hinweise über das Nutzerverhalten sammeln.
+
+Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch YouTube erhalten Sie in den Datenschutzerklärungen des Anbieters. Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre (). Google verarbeitet Ihre Daten in den USA und hat sich dem EU-US Privacy Shield unterworfen: [https://www.privacyshield.gov/EU-US-Framework]
+
+=== Rechtsgrundlage ===
+
+Rechtsgrundlage für die Einbindung von YouTube und dem damit verbundenen Datentransfer zu Google ist Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO).
+
+=== Empfänger ===
+
+Der Aufruf von YouTube löst automatisch eine Verbindung zu Google aus.
+
+=== Speicherdauer und Widerruf der Einwilligung ===
+
+Wer das Speichern von Cookies für das Google-Ad-Programm deaktiviert hat, wird auch beim Anschauen von YouTube-Videos mit keinen solchen Cookies rechnen müssen. YouTube legt aber auch in anderen Cookies nicht-personenbezogene Nutzungsinformationen ab. Möchten Sie dies verhindern, so müssen Sie das Speichern von Cookies im Browser blockieren.
+
+Weitere Informationen zum Datenschutz bei „YouTube“ finden Sie in der Datenschutzerklärung des Anbieters unter:
+
+=== Drittlandtransfer ===
+
+Google verarbeitet Ihre Daten in den USA und hat sich dem EU-US Privacy Shield unterworfen.
+
+=== Bereitstellung vorgeschrieben oder erforderlich ===
+
+Die Bereitstellung Ihrer personenbezogenen Daten erfolgt freiwillig, allein auf Basis Ihrer Einwilligung. Sofern Sie den Zugriff unterbinden, kann es hierdurch zu Funktionseinschränkungen auf der Website kommen.
+
+== Änderung unserer Datenschutzbestimmungen ==
+
+Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung umzusetzen, z.B. bei der Einführung neuer Services. Für Ihren erneuten Besuch gilt dann die neue Datenschutzerklärung.
+
+== Fragen an den Datenschutzbeauftragten ==
+
+Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder wenden Sie sich direkt an die für den Datenschutz verantwortliche Person in unserer Organisation:
+
+''Die Datenschutzerklärung wurde mit dem [https://www.activemind.de/datenschutz/datenschutzhinweis-generator/ Datenschutzerklärungs-Generator der activeMind AG] erstellt (Version 2018-09-24).''</text>
+      <sha1>edbp9pe8mr1yytujkgzt821hbusuuw7</sha1>
+    </revision>
   </page>
   <page>
     <title>Nahtlose Integration von KI und ML in Ihre Projekte</title>
     <ns>0</ns>
-    <id>2</id>
+    <id>4</id>
     <revision>
-      <id>4</id>
+      <id>17</id>
       <timestamp>2025-06-05T01:27:15Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „ Sicher, hier ist eine detaillierte Beschreibung der allgemeinen Frameworks mit LLM-Inferenzfunktionen  == Anwendungsentwicklungs-Frameworks für LLMs == Diese Frameworks erleichtern die Integration und Nutzung von Large Language Models (LLMs) in verschiedene Anwendungen.  === LangChain === '''Beschreibung:''' LangChain ist ein Framework, das die Entwicklung von Anwendungen, die durch Sprachmodelle unterstützt werden, vereinfacht. Es bietet Tools für Ke…“</comment>
-      <origin>4</origin>
+      <origin>17</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="11760" sha1="4veao5wh3r5kto7x3lvcm8fi5tootwr" xml:space="preserve">
@@ -359,16 +952,16 @@ Beschreibung: GGML (auch in Verbindung mit GGUF verwendet) ist ein C-Bibliothek 
   <page>
     <title>Schwachstellenanalyse Tools</title>
     <ns>0</ns>
-    <id>3</id>
+    <id>5</id>
     <revision>
-      <id>5</id>
+      <id>18</id>
       <timestamp>2025-06-05T01:28:30Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „==Allgemein== * [https://deps.dev/ Deps.dev] ist ein Tool, das die Abhängigkeiten von Open-Source-Projekten analysiert und Schwachstellen in den Abhängigkeiten identifiziert. Es ist ein kostenloser Dienst, der von GitHub bereitgestellt wird. * [https://security.snyk.io/ Snyk] ist ein weiteres Tool, das Schwachstellen in Open-Source-Abhängigkeiten identifiziert und Entwicklern hilft, diese zu beheben. Es bietet auch Funktionen zur Überwachung von Siche…“</comment>
-      <origin>5</origin>
+      <origin>18</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2883" sha1="n9kidaubgc1k9n4ijwimu4dsb9epst5" xml:space="preserve">==Allgemein==
@@ -394,16 +987,16 @@ Beschreibung: GGML (auch in Verbindung mit GGUF verwendet) ist ein C-Bibliothek 
   <page>
     <title>CMS integriert mit integriert mit PostGIS</title>
     <ns>0</ns>
-    <id>4</id>
+    <id>6</id>
     <revision>
-      <id>7</id>
+      <id>19</id>
       <timestamp>2025-06-05T01:37:04Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „* Drupal * Django-basierte CMS (z.B. Django CMS, Wagtail, Mezzanine) mit GeoDjango:“</comment>
-      <origin>7</origin>
+      <origin>19</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="83" sha1="e235fmg3hdjzd6dbz06su3ozldolzg4" xml:space="preserve">* Drupal
@@ -411,15 +1004,15 @@ Beschreibung: GGML (auch in Verbindung mit GGUF verwendet) ist ein C-Bibliothek 
       <sha1>e235fmg3hdjzd6dbz06su3ozldolzg4</sha1>
     </revision>
     <revision>
-      <id>8</id>
-      <parentid>7</parentid>
+      <id>20</id>
+      <parentid>19</parentid>
       <timestamp>2025-06-05T01:50:09Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Der Seiteninhalt wurde durch einen anderen Text ersetzt: „* Drupal“</comment>
-      <origin>8</origin>
+      <origin>20</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="8" sha1="pp72788v8t57nhs52nhhu5r4ch6tmvx" xml:space="preserve">* Drupal</text>
@@ -429,36 +1022,235 @@ Beschreibung: GGML (auch in Verbindung mit GGUF verwendet) ist ein C-Bibliothek 
   <page>
     <title>Webframework integriert mit PostGIS</title>
     <ns>0</ns>
-    <id>5</id>
+    <id>7</id>
     <revision>
-      <id>9</id>
+      <id>21</id>
       <timestamp>2025-06-05T02:10:47Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „*  '''ASP.NET Core (C# / .NET):''' Mit Bibliotheken wie [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite) kann ASP.NET Core PostGIS unterstützen. Diese Bibliothek ermöglicht die Arbeit mit räumlichen Daten und die Integration in Entity Framework Core. *  '''Spring Boot (Java):''' Spring Boot kann PostGIS über [Hibernate Spatial](https://hibernate.org/spatial/) integrieren. Diese Erweiterung von Hibernate ORM bietet Unterstützun…“</comment>
-      <origin>9</origin>
+      <origin>21</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="516" sha1="byqd7iz7laxen3zipovr8xblu8iqaf4" xml:space="preserve">*  '''ASP.NET Core (C# / .NET):''' Mit Bibliotheken wie [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite) kann ASP.NET Core PostGIS unterstützen. Diese Bibliothek ermöglicht die Arbeit mit räumlichen Daten und die Integration in Entity Framework Core.
 *  '''Spring Boot (Java):''' Spring Boot kann PostGIS über [Hibernate Spatial](https://hibernate.org/spatial/) integrieren. Diese Erweiterung von Hibernate ORM bietet Unterstützung für räumliche Daten und Abfragen in Java-Anwendungen.</text>
       <sha1>byqd7iz7laxen3zipovr8xblu8iqaf4</sha1>
     </revision>
+    <revision>
+      <id>61</id>
+      <parentid>21</parentid>
+      <timestamp>2025-06-09T01:07:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>61</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="530" sha1="569psbii3j5c1oime6yz47jamqxblb9" xml:space="preserve">*  '''ASP.NET Core (C# / .NET):''' Mit Bibliotheken wie [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite) kann ASP.NET Core PostGIS unterstützen. Diese Bibliothek ermöglicht die Arbeit mit räumlichen Daten und die Integration in Entity Framework Core.
+*  '''Spring Boot (Java):''' Spring Boot kann PostGIS über [Hibernate Spatial](https://hibernate.org/spatial/) integrieren. Diese Erweiterung von Hibernate ORM bietet Unterstützung für räumliche Daten und Abfragen in Java-Anwendungen.
+* ``Django'''</text>
+      <sha1>569psbii3j5c1oime6yz47jamqxblb9</sha1>
+    </revision>
+    <revision>
+      <id>62</id>
+      <parentid>61</parentid>
+      <timestamp>2025-06-09T01:08:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>62</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="531" sha1="5bmqjm3y94x3pr7lvplebzt06zixzw4" xml:space="preserve">*  '''ASP.NET Core (C# / .NET):''' Mit Bibliotheken wie [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite) kann ASP.NET Core PostGIS unterstützen. Diese Bibliothek ermöglicht die Arbeit mit räumlichen Daten und die Integration in Entity Framework Core.
+*  '''Spring Boot (Java):''' Spring Boot kann PostGIS über [Hibernate Spatial](https://hibernate.org/spatial/) integrieren. Diese Erweiterung von Hibernate ORM bietet Unterstützung für räumliche Daten und Abfragen in Java-Anwendungen.
+* ```Django'''</text>
+      <sha1>5bmqjm3y94x3pr7lvplebzt06zixzw4</sha1>
+    </revision>
+    <revision>
+      <id>63</id>
+      <parentid>62</parentid>
+      <timestamp>2025-06-09T01:08:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>63</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="531" sha1="mfpxk40bnwi4norwfiwj02lv0y49fkc" xml:space="preserve">*  '''ASP.NET Core (C# / .NET):''' Mit Bibliotheken wie [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite) kann ASP.NET Core PostGIS unterstützen. Diese Bibliothek ermöglicht die Arbeit mit räumlichen Daten und die Integration in Entity Framework Core.
+*  '''Spring Boot (Java):''' Spring Boot kann PostGIS über [Hibernate Spatial](https://hibernate.org/spatial/) integrieren. Diese Erweiterung von Hibernate ORM bietet Unterstützung für räumliche Daten und Abfragen in Java-Anwendungen.
+* '''Django'''</text>
+      <sha1>mfpxk40bnwi4norwfiwj02lv0y49fkc</sha1>
+    </revision>
+    <revision>
+      <id>65</id>
+      <parentid>63</parentid>
+      <timestamp>2025-06-09T15:22:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>65</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="541" sha1="i731fomalom72s4a5iwhzpqvyl9o0db" xml:space="preserve">*  '''ASP.NET Core (C# / .NET):''' Mit Bibliotheken wie [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite) kann ASP.NET Core PostGIS unterstützen. Diese Bibliothek ermöglicht die Arbeit mit räumlichen Daten und die Integration in Entity Framework Core.
+*  '''Spring Boot (Java):''' Spring Boot kann PostGIS über [Hibernate Spatial](https://hibernate.org/spatial/) integrieren. Diese Erweiterung von Hibernate ORM bietet Unterstützung für räumliche Daten und Abfragen in Java-Anwendungen.
+* '''Django'''
+* Symfony</text>
+      <sha1>i731fomalom72s4a5iwhzpqvyl9o0db</sha1>
+    </revision>
+    <revision>
+      <id>67</id>
+      <parentid>65</parentid>
+      <timestamp>2025-06-09T16:53:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>67</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="531" sha1="mfpxk40bnwi4norwfiwj02lv0y49fkc" xml:space="preserve">*  '''ASP.NET Core (C# / .NET):''' Mit Bibliotheken wie [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite) kann ASP.NET Core PostGIS unterstützen. Diese Bibliothek ermöglicht die Arbeit mit räumlichen Daten und die Integration in Entity Framework Core.
+*  '''Spring Boot (Java):''' Spring Boot kann PostGIS über [Hibernate Spatial](https://hibernate.org/spatial/) integrieren. Diese Erweiterung von Hibernate ORM bietet Unterstützung für räumliche Daten und Abfragen in Java-Anwendungen.
+* '''Django'''</text>
+      <sha1>mfpxk40bnwi4norwfiwj02lv0y49fkc</sha1>
+    </revision>
+    <revision>
+      <id>68</id>
+      <parentid>67</parentid>
+      <timestamp>2025-06-09T16:54:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>68</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="531" sha1="qsk0k5pw2els8pms04h7imafi498u0f" xml:space="preserve">* '''Django'''
+*  '''ASP.NET Core (C# / .NET):''' Mit Bibliotheken wie [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite) kann ASP.NET Core PostGIS unterstützen. Diese Bibliothek ermöglicht die Arbeit mit räumlichen Daten und die Integration in Entity Framework Core.
+*  '''Spring Boot (Java):''' Spring Boot kann PostGIS über [Hibernate Spatial](https://hibernate.org/spatial/) integrieren. Diese Erweiterung von Hibernate ORM bietet Unterstützung für räumliche Daten und Abfragen in Java-Anwendungen.</text>
+      <sha1>qsk0k5pw2els8pms04h7imafi498u0f</sha1>
+    </revision>
+    <revision>
+      <id>69</id>
+      <parentid>68</parentid>
+      <timestamp>2025-06-09T17:04:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>69</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1653" sha1="ov3cahk9bmms707lofr6wtfj3ryen6n" xml:space="preserve">* '''Django''': Django bietet native Unterstützung für PostGIS durch sein GeoDjango-Modul. GeoDjango erweitert das Django ORM um geometrische Felder, räumliche Datenbankoperationen und Funktionen, die eine direkte Integration von PostGIS in Django-Anwendungen ermöglichen.
+*  '''ASP.NET Core (C# / .NET):''' Mit Bibliotheken wie [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite) kann ASP.NET Core PostGIS unterstützen. Diese Bibliothek ermöglicht die Arbeit mit räumlichen Daten und die Integration in Entity Framework Core.
+*  '''Spring Boot (Java):''' Spring Boot kann PostGIS über [Hibernate Spatial](https://hibernate.org/spatial/) integrieren. Diese Erweiterung von Hibernate ORM bietet Unterstützung für räumliche Daten und Abfragen in Java-Anwendungen.
+==Allgemeine Hinweise==
+* Bei der Integration von PostGIS in Webframeworks ist es wichtig, die spezifischen Bibliotheken oder Module zu verwenden, die räumliche Datenbankoperationen unterstützen.
+* Die meisten modernen Webframeworks bieten Unterstützung für PostGIS, entweder direkt oder über Drittanbieter-Bibliotheken.
+* Die Konfiguration und Nutzung von PostGIS kann je nach Framework und Programmiersprache variieren, daher ist es ratsam, die offizielle Dokumentation des jeweiligen Frameworks zu konsultieren.
+* PostGIS kann in Kombination mit verschiedenen Datenbank-ORMs (Object-Relational Mapping) verwendet werden, die in den jeweiligen Webframeworks verfügbar sind.
+* Die Verwendung von PostGIS in Webanwendungen ermöglicht die Entwicklung von Anwendungen, die geografische Informationen und räumliche Abfragen effizient verarbeiten können.</text>
+      <sha1>ov3cahk9bmms707lofr6wtfj3ryen6n</sha1>
+    </revision>
+    <revision>
+      <id>70</id>
+      <parentid>69</parentid>
+      <timestamp>2025-06-09T17:32:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>70</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1701" sha1="tbv88dep0pxb3h6c5xqmff9e92ireqc" xml:space="preserve">* '''Django''': Django bietet native Unterstützung für PostGIS durch sein GeoDjango-Modul. GeoDjango erweitert das Django ORM um geometrische Felder, räumliche Datenbankoperationen und Funktionen, die eine direkte Integration von PostGIS in Django-Anwendungen ermöglichen.
+*  '''ASP.NET Core (C# / .NET):''' Mit Bibliotheken wie [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite) kann ASP.NET Core PostGIS unterstützen. Diese Bibliothek ermöglicht die Arbeit mit räumlichen Daten und die Integration in Entity Framework Core.
+*  '''Spring Boot (Java):''' Spring Boot kann PostGIS über [Hibernate Spatial](https://hibernate.org/spatial/) integrieren. Diese Erweiterung von Hibernate ORM bietet Unterstützung für räumliche Daten und Abfragen in Java-Anwendungen.
+* Sequelize
+* TypeORM
+* Knex.js
+* node-postgres
+==Allgemeine Hinweise==
+* Bei der Integration von PostGIS in Webframeworks ist es wichtig, die spezifischen Bibliotheken oder Module zu verwenden, die räumliche Datenbankoperationen unterstützen.
+* Die meisten modernen Webframeworks bieten Unterstützung für PostGIS, entweder direkt oder über Drittanbieter-Bibliotheken.
+* Die Konfiguration und Nutzung von PostGIS kann je nach Framework und Programmiersprache variieren, daher ist es ratsam, die offizielle Dokumentation des jeweiligen Frameworks zu konsultieren.
+* PostGIS kann in Kombination mit verschiedenen Datenbank-ORMs (Object-Relational Mapping) verwendet werden, die in den jeweiligen Webframeworks verfügbar sind.
+* Die Verwendung von PostGIS in Webanwendungen ermöglicht die Entwicklung von Anwendungen, die geografische Informationen und räumliche Abfragen effizient verarbeiten können.</text>
+      <sha1>tbv88dep0pxb3h6c5xqmff9e92ireqc</sha1>
+    </revision>
+    <revision>
+      <id>71</id>
+      <parentid>70</parentid>
+      <timestamp>2025-06-09T17:53:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>71</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1653" sha1="ov3cahk9bmms707lofr6wtfj3ryen6n" xml:space="preserve">* '''Django''': Django bietet native Unterstützung für PostGIS durch sein GeoDjango-Modul. GeoDjango erweitert das Django ORM um geometrische Felder, räumliche Datenbankoperationen und Funktionen, die eine direkte Integration von PostGIS in Django-Anwendungen ermöglichen.
+*  '''ASP.NET Core (C# / .NET):''' Mit Bibliotheken wie [NetTopologySuite](https://github.com/NetTopologySuite/NetTopologySuite) kann ASP.NET Core PostGIS unterstützen. Diese Bibliothek ermöglicht die Arbeit mit räumlichen Daten und die Integration in Entity Framework Core.
+*  '''Spring Boot (Java):''' Spring Boot kann PostGIS über [Hibernate Spatial](https://hibernate.org/spatial/) integrieren. Diese Erweiterung von Hibernate ORM bietet Unterstützung für räumliche Daten und Abfragen in Java-Anwendungen.
+==Allgemeine Hinweise==
+* Bei der Integration von PostGIS in Webframeworks ist es wichtig, die spezifischen Bibliotheken oder Module zu verwenden, die räumliche Datenbankoperationen unterstützen.
+* Die meisten modernen Webframeworks bieten Unterstützung für PostGIS, entweder direkt oder über Drittanbieter-Bibliotheken.
+* Die Konfiguration und Nutzung von PostGIS kann je nach Framework und Programmiersprache variieren, daher ist es ratsam, die offizielle Dokumentation des jeweiligen Frameworks zu konsultieren.
+* PostGIS kann in Kombination mit verschiedenen Datenbank-ORMs (Object-Relational Mapping) verwendet werden, die in den jeweiligen Webframeworks verfügbar sind.
+* Die Verwendung von PostGIS in Webanwendungen ermöglicht die Entwicklung von Anwendungen, die geografische Informationen und räumliche Abfragen effizient verarbeiten können.</text>
+      <sha1>ov3cahk9bmms707lofr6wtfj3ryen6n</sha1>
+    </revision>
+    <revision>
+      <id>72</id>
+      <parentid>71</parentid>
+      <timestamp>2025-06-09T18:05:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>72</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1649" sha1="hct13p6zs2s7wyqc3v8slq4md3wy44a" xml:space="preserve">Integration von PostGIS in Webframeworks
+
+'''Unterstützte Frameworks:'''
+
+* '''Django (Python):''' Durch das GeoDjango-Modul bietet Django native Unterstützung für PostGIS. Dieses Modul erweitert das Django ORM um geometrische Felder, räumliche Datenbankoperationen und Funktionen, was eine nahtlose Integration in Django-Anwendungen ermöglicht.
+* '''ASP.NET Core (C# / .NET):''' Mit Bibliotheken wie NetTopologySuite kann ASP.NET Core PostGIS integrieren. Diese Bibliothek ermöglicht die Verarbeitung räumlicher Daten und die Integration in Entity Framework Core.
+* '''Spring Boot (Java):''' Spring Boot kann PostGIS über Hibernate Spatial einbinden. Diese Erweiterung von Hibernate ORM unterstützt räumliche Daten und Abfragen in Java-Anwendungen.
+
+'''Wichtige Hinweise zur Integration:'''
+
+* Für die Integration von PostGIS in Webframeworks ist es entscheidend, spezifische Bibliotheken oder Module zu nutzen, die räumliche Datenbankoperationen unterstützen.
+* Die meisten modernen Webframeworks bieten entweder direkte oder indirekte Unterstützung für PostGIS über Drittanbieter-Bibliotheken.
+* Die Konfiguration und Nutzung von PostGIS kann je nach Framework und Programmiersprache variieren. Es wird empfohlen, die offizielle Dokumentation des jeweiligen Frameworks zu konsultieren.
+* PostGIS kann in Kombination mit verschiedenen Datenbank-ORMs (Object-Relational Mapping) verwendet werden, die in den jeweiligen Webframeworks verfügbar sind.
+* Die Verwendung von PostGIS in Webanwendungen ermöglicht die Entwicklung von Applikationen, die geografische Informationen und räumliche Abfragen effizient verarbeiten können.
+
+*</text>
+      <sha1>hct13p6zs2s7wyqc3v8slq4md3wy44a</sha1>
+    </revision>
   </page>
   <page>
     <title>Drupal</title>
     <ns>0</ns>
-    <id>6</id>
+    <id>8</id>
     <revision>
-      <id>11</id>
+      <id>22</id>
       <timestamp>2025-06-05T03:03:57Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „* [[Drupal/Installieren]]  * [[Drupal/Nginx-Konfiguration]] * [[Drupal/Berechtigungsproblemen]] * [[Drupal/Drush]] * [[Drupal/Paket Installieren]] * [[Drupal/Cookie-Richtlinie]] * [[Drupal/Inhalt Import]] * [[Drupal/Inhalt Export]]“</comment>
-      <origin>11</origin>
+      <origin>22</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="231" sha1="9mr14td7nte1a43xnmisjyfim7o4o4s" xml:space="preserve">* [[Drupal/Installieren]] 
@@ -475,16 +1267,16 @@ Beschreibung: GGML (auch in Verbindung mit GGUF verwendet) ist ein C-Bibliothek 
   <page>
     <title>Drupal/Installieren</title>
     <ns>0</ns>
-    <id>7</id>
+    <id>9</id>
     <revision>
-      <id>12</id>
+      <id>23</id>
       <timestamp>2025-06-05T03:05:12Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „ = Anleitung: Drupal 11 Installation unter Ubuntu 24.04 =  == Vorbereitung ==  # '''Terminal öffnen:''' Starten Sie die Terminal-Anwendung. # '''Server-Anmeldung:''' #* Stellen Sie via SSH eine Verbindung zu Ihrem Server her: &lt;code&gt;ssh &lt;root@Beispiel.de&gt;&lt;/code&gt; #* Geben Sie Ihr Serverpasswort ein, wenn Sie dazu aufgefordert werden. # '''Optionale Datenbankbearbeitung:''' #* '''Vorhandene Drupal-Datenbank löschen:''' Führen Sie im Terminal folgende Befe…“</comment>
-      <origin>12</origin>
+      <origin>23</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3695" sha1="lz5mgpu1vz3fhn9o2khgkegipzydc9e" xml:space="preserve">
@@ -571,16 +1363,16 @@ composer create-project drupal/recommended-project drupal</text>
   <page>
     <title>Drupal/Nginx-Konfiguration</title>
     <ns>0</ns>
-    <id>8</id>
+    <id>10</id>
     <revision>
-      <id>13</id>
+      <id>24</id>
       <timestamp>2025-06-05T03:07:18Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „ === Schritt 3: Nginx-Konfiguration ===  sudo apt-get install nginx  sudo rm /etc/nginx/sites-enabled/default  # Erstellen Sie eine neue Konfigurationsdatei:   sudo nano /etc/nginx/conf.d/drupal.conf  # Fügen Sie den folgenden Inhalt ein:   server {      listen 443 ssl http2;      server_name drupal.ahrensburg.city;        root /var/www/drupal/web;      index index.php index.html;        ssl_certificate      /etc/letsencrypt/live/drupal.ahrensburg.city/f…“</comment>
-      <origin>13</origin>
+      <origin>24</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2304" sha1="46smdqergzzcl83i6vz3are3fw03pn4" xml:space="preserve">
@@ -666,16 +1458,16 @@ composer create-project drupal/recommended-project drupal</text>
   <page>
     <title>Drupal/Berechtigungsproblemen</title>
     <ns>0</ns>
-    <id>9</id>
+    <id>11</id>
     <revision>
-      <id>14</id>
+      <id>25</id>
       <timestamp>2025-06-05T03:09:14Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „ Installation von Drupal beim Hosting-Anbieter: Anleitung zur Behebung von Berechtigungsproblemen  Wählen Sie zunächst Ihr Land und Ihre bevorzugte Sprache für die Drupal-Installation bei Ihrem Hosting-Anbieter aus. Bitte beachten Sie, dass inkorrekte Dateiberechtigungen während des Installationsprozesses zu Problemen führen können.  '''Fehlerbehebung bei Installationsfehlern aufgrund von Berechtigungsproblemen:'''  Sollte die Installation aufgrund…“</comment>
-      <origin>14</origin>
+      <origin>25</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2221" sha1="dy1gc9nvli62ypf8tdzgx2u8dvn4nyc" xml:space="preserve">
@@ -708,16 +1500,16 @@ Website starten. Jetzt neu st</text>
   <page>
     <title>Drupal/Drush</title>
     <ns>0</ns>
-    <id>10</id>
+    <id>12</id>
     <revision>
-      <id>15</id>
+      <id>26</id>
       <timestamp>2025-06-05T03:13:22Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „ == Drush: Werkzeug für Drupal == Drush ist ein Kommandozeilenwerkzeug, das die Verwaltung und Entwicklung von Drupal-Websites erheblich erleichtert.  '''Vorteile von Drush'''  * Automatisierung wiederkehrender Aufgaben * Schnelle Installation und Aktualisierung von Modulen und Themes * Verwaltung von Konfigurationen und Datenbank-Updates * Leeren von Caches und Ausführen von Wartungsaufgaben * Integration in Skripte und CI/CD-Pipelines  '''Installation…“</comment>
-      <origin>15</origin>
+      <origin>26</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="902" sha1="lb0x56l6d7zpf5uzwb4vbouu4qon03e" xml:space="preserve">
@@ -748,16 +1540,16 @@ Drush ist ein Kommandozeilenwerkzeug, das die Verwaltung und Entwicklung von Dru
   <page>
     <title>Drupal/Paket Installieren</title>
     <ns>0</ns>
-    <id>11</id>
+    <id>13</id>
     <revision>
-      <id>16</id>
+      <id>27</id>
       <timestamp>2025-06-05T03:15:01Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „Folgende Pakete werden benötigt:  == Themen herunterladen == Für mein Projekt stellt das Bootstrap 5-Paket die optimale Lösung dar.  Um dieses zu installieren, starten wir das Terminalprogramm und führen folgenden Befehl aus:  composer require 'drupal/bootstrap:^5.0'  Dadurch wird das Theme heruntergeladen.  Module herunterladen  == Wir installieren die folgenden Module == '''EU Cookie Compliance'''  composer require 'drupal/eu\_cookie\_compliance:^1.…“</comment>
-      <origin>16</origin>
+      <origin>27</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="752" sha1="ax4j9tehuqulo4a7h4a0cx644amnyun" xml:space="preserve">Folgende Pakete werden benötigt:
@@ -795,16 +1587,16 @@ composer require 'drupal/metatag:^2.1'</text>
   <page>
     <title>Drupal/Cookie-Richtlinie</title>
     <ns>0</ns>
-    <id>12</id>
+    <id>14</id>
     <revision>
-      <id>17</id>
+      <id>28</id>
       <timestamp>2025-06-05T03:16:36Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „ '''So installieren Sie die Option "Markdown Easy" in Drupal:''' # '''Zum Drupal-Adminbereich gehen.''' # '''Im linken Menü auf "Erweitern" klicken.''' Eine neue Seite erscheint. # '''Auf der Seite nach unten scrollen.''' # '''Die Option "Markdown Easy" suchen.''' # '''"Markdown Easy" durch Klicken auf das Kästchen aktivieren (blaues Häkchen).''' # '''Zum Seitenende scrollen und auf "Installieren" klicken.'''  '''Inhalte erstellen:'''  # Im linken Men…“</comment>
-      <origin>17</origin>
+      <origin>28</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2470" sha1="mm643c5rysixp82t9qk18lwb4wt1ac1" xml:space="preserve">
@@ -864,16 +1656,16 @@ composer require 'drupal/metatag:^2.1'</text>
   <page>
     <title>Drupal/Inhalt Import</title>
     <ns>0</ns>
-    <id>13</id>
+    <id>15</id>
     <revision>
-      <id>18</id>
+      <id>29</id>
       <timestamp>2025-06-05T03:57:31Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „Die Inhaltsmigration ist ein wichtiger Bestandteil der Drupal-Websiteentwicklung und ermöglicht die Integration von Daten aus unterschiedlichen Quellen in die Drupal-Datenbank. Dies ist nützlich für die Migration von Inhalten aus anderen Systemen, die Aktualisierung bestehender Inhalte oder die Einbindung externer Datenquellen. Drupal bietet hierfür verschiedene Module und Methoden, darunter Feeds, Content Import und Migrate.  '''Feeds in Drupal'''  E…“</comment>
-      <origin>18</origin>
+      <origin>29</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2415" sha1="gq55t3m1hz8dpc0u7wpop0k6zpc9i2m" xml:space="preserve">Die Inhaltsmigration ist ein wichtiger Bestandteil der Drupal-Websiteentwicklung und ermöglicht die Integration von Daten aus unterschiedlichen Quellen in die Drupal-Datenbank. Dies ist nützlich für die Migration von Inhalten aus anderen Systemen, die Aktualisierung bestehender Inhalte oder die Einbindung externer Datenquellen. Drupal bietet hierfür verschiedene Module und Methoden, darunter Feeds, Content Import und Migrate.
@@ -897,16 +1689,16 @@ Der Inhaltsimport in Drupal ist ein grundlegender Aspekt der Website-Entwicklung
   <page>
     <title>Drupal/Inhalt Export</title>
     <ns>0</ns>
-    <id>14</id>
+    <id>16</id>
     <revision>
-      <id>19</id>
+      <id>30</id>
       <timestamp>2025-06-05T03:59:56Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „ == Für den allgemeinen Inhaltsexport (CSV, XML, JSON) ==  === Views Data Export Modul ===  == Für die Migration von Inhalten zwischen Drupal-Sites (insbesondere gleiche Drupal-Version) ==  === Single Content Sync Modul ===  === Entity Migrate Export (EME) Modul ===  === Backup and Migrate Modul ===  == Für den Konfigurationsexport (z.B. Inhaltstypen, Felder, Views) ==  === Core Configuration Management (CMI) ===  === Features Modul ===“</comment>
-      <origin>19</origin>
+      <origin>30</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="443" sha1="du69jadejm9es5jhwti1r83hq63tkks" xml:space="preserve">
@@ -933,16 +1725,16 @@ Der Inhaltsimport in Drupal ist ein grundlegender Aspekt der Website-Entwicklung
   <page>
     <title>Mooodle</title>
     <ns>0</ns>
-    <id>15</id>
+    <id>17</id>
     <revision>
-      <id>21</id>
+      <id>31</id>
       <timestamp>2025-06-05T04:02:28Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „Moodle ist eine Open-Source-Lernplattform, die es Lehrenden ermöglicht, Online-Kurse zu erstellen und zu verwalten. Moodle ist ein Akronym für "Modular Object-Oriented Dynamic Learning Environment". Es wurde ursprünglich von Martin Dougiamas entwickelt und wird von einer großen Community von Entwicklern und Nutzern weltweit unterstützt.  ==Moodle Installation== &lt;pre&gt;  cd /var/www git clone git://git.moodle.org/moodle.git cd moodle git branch -a git b…“</comment>
-      <origin>21</origin>
+      <origin>31</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3043" sha1="2ei70cnfnr3f9v28vx2s8jbzsf0frss" xml:space="preserve">Moodle ist eine Open-Source-Lernplattform, die es Lehrenden ermöglicht, Online-Kurse zu erstellen und zu verwalten. Moodle ist ein Akronym für "Modular Object-Oriented Dynamic Learning Environment". Es wurde ursprünglich von Martin Dougiamas entwickelt und wird von einer großen Community von Entwicklern und Nutzern weltweit unterstützt.
@@ -1059,16 +1851,16 @@ sudo systemctl restart php8.3-fpm
   <page>
     <title>Server Mieten</title>
     <ns>0</ns>
-    <id>16</id>
+    <id>18</id>
     <revision>
-      <id>25</id>
+      <id>32</id>
       <timestamp>2025-06-05T14:03:39Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Webspace Mieten== Webspace ist ein wichtiger Bestandteil eines Hosting-Pakets und bezieht sich auf den Speicherplatz, den ein Hosting-Anbieter auf seinen Servern zur Verfügung stellt. Webspace wird verwendet, um Dateien, Bilder und andere Inhalte einer Website zu speichern und zu verwalten. Die Menge an Webspace, die benötigt wird, hängt von der Größe der Website und der Anzahl der Besucher ab. * [https://bero-host.de/webhosting/prepaid-webspace-m…“</comment>
-      <origin>25</origin>
+      <origin>32</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="8603" sha1="ra7qqzs496lgna7fs9pznsvuavwy8gu" xml:space="preserve">== Webspace Mieten==
@@ -1177,16 +1969,16 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
   <page>
     <title>Static Site Generators nach Typen nach Reifegrade sortiert</title>
     <ns>0</ns>
-    <id>17</id>
+    <id>19</id>
     <revision>
-      <id>27</id>
+      <id>33</id>
       <timestamp>2025-06-05T22:05:46Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „* Next.js * Hugo * Gatsby“</comment>
-      <origin>27</origin>
+      <origin>33</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="25" sha1="pqaxrz3it5mlh07tungbbl4kx3tohyo" xml:space="preserve">* Next.js
@@ -1195,14 +1987,14 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
       <sha1>pqaxrz3it5mlh07tungbbl4kx3tohyo</sha1>
     </revision>
     <revision>
-      <id>28</id>
-      <parentid>27</parentid>
+      <id>34</id>
+      <parentid>33</parentid>
       <timestamp>2025-06-05T23:03:08Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>28</origin>
+      <origin>34</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="63" sha1="t9v0jbwq828q3331p39pn4rlk8ek27t" xml:space="preserve">* Antora
@@ -1213,14 +2005,14 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
       <sha1>t9v0jbwq828q3331p39pn4rlk8ek27t</sha1>
     </revision>
     <revision>
-      <id>29</id>
-      <parentid>28</parentid>
+      <id>35</id>
+      <parentid>34</parentid>
       <timestamp>2025-06-05T23:20:14Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>29</origin>
+      <origin>35</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="142" sha1="lrnjqbtpd2qv5s7eave9yulzkz9y25x" xml:space="preserve">Multi-Repository-Dokumentation Static Site Generators nach Reifegrade sortiert
@@ -1232,14 +2024,14 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
       <sha1>lrnjqbtpd2qv5s7eave9yulzkz9y25x</sha1>
     </revision>
     <revision>
-      <id>30</id>
-      <parentid>29</parentid>
+      <id>36</id>
+      <parentid>35</parentid>
       <timestamp>2025-06-05T23:23:22Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>30</origin>
+      <origin>36</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="133" sha1="p96yc0gkrlbckfacwjvel2f1c5tyfaz" xml:space="preserve">Multi-Repository-Dokumentation Static Site Generators nach Reifegrade sortiert
@@ -1250,14 +2042,14 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
       <sha1>p96yc0gkrlbckfacwjvel2f1c5tyfaz</sha1>
     </revision>
     <revision>
-      <id>31</id>
-      <parentid>30</parentid>
+      <id>37</id>
+      <parentid>36</parentid>
       <timestamp>2025-06-06T00:17:44Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>31</origin>
+      <origin>37</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="243" sha1="j02rkcnm87i0p15h5715wohnn6m81mu" xml:space="preserve">Multi-Repository-Dokumentation Static Site Generators nach Reifegrade sortiert
@@ -1271,15 +2063,15 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
       <sha1>j02rkcnm87i0p15h5715wohnn6m81mu</sha1>
     </revision>
     <revision>
-      <id>32</id>
-      <parentid>31</parentid>
+      <id>38</id>
+      <parentid>37</parentid>
       <timestamp>2025-06-06T00:18:28Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>/* Open-Source-Multi-Repository-Dokumentations-CMS */</comment>
-      <origin>32</origin>
+      <origin>38</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="252" sha1="id63839gu6exw22ne7syzmlndpoj1yi" xml:space="preserve">Multi-Repository-Dokumentation Static Site Generators nach Reifegrade sortiert
@@ -1294,15 +2086,15 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
       <sha1>id63839gu6exw22ne7syzmlndpoj1yi</sha1>
     </revision>
     <revision>
-      <id>33</id>
-      <parentid>32</parentid>
+      <id>39</id>
+      <parentid>38</parentid>
       <timestamp>2025-06-06T00:22:30Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>/* Open-Source-Multi-Repository-Dokumentations-CMS */</comment>
-      <origin>33</origin>
+      <origin>39</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="276" sha1="cdgh9dydte84kwieq4m28qk5nopo3lo" xml:space="preserve">Multi-Repository-Dokumentation Static Site Generators nach Reifegrade sortiert
@@ -1319,15 +2111,15 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
       <sha1>cdgh9dydte84kwieq4m28qk5nopo3lo</sha1>
     </revision>
     <revision>
-      <id>34</id>
-      <parentid>33</parentid>
+      <id>40</id>
+      <parentid>39</parentid>
       <timestamp>2025-06-06T00:30:00Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>/* Open-Source-Multi-Repository-Dokumentations-CMS */</comment>
-      <origin>34</origin>
+      <origin>40</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="268" sha1="kkoj59lpob8rar4vc3xxq799utuib3r" xml:space="preserve">Multi-Repository-Dokumentation Static Site Generators nach Reifegrade sortiert
@@ -1343,14 +2135,14 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
       <sha1>kkoj59lpob8rar4vc3xxq799utuib3r</sha1>
     </revision>
     <revision>
-      <id>35</id>
-      <parentid>34</parentid>
+      <id>41</id>
+      <parentid>40</parentid>
       <timestamp>2025-06-06T00:45:46Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>35</origin>
+      <origin>41</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="310" sha1="38s2p10vqv8nb74if59hq9i5datkqur" xml:space="preserve">Multi-Repository-Dokumentation Static Site Generators nach Reifegrade sortiert
@@ -1369,15 +2161,15 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
       <sha1>38s2p10vqv8nb74if59hq9i5datkqur</sha1>
     </revision>
     <revision>
-      <id>36</id>
-      <parentid>35</parentid>
+      <id>42</id>
+      <parentid>41</parentid>
       <timestamp>2025-06-06T00:46:01Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>/* Open-Source-Multi-Repository-Dokumentations-CMS */</comment>
-      <origin>36</origin>
+      <origin>42</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="312" sha1="00ej5bh8prtuyjtpvenxbx19y7883j6" xml:space="preserve">Multi-Repository-Dokumentation Static Site Generators nach Reifegrade sortiert
@@ -1396,14 +2188,14 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
       <sha1>00ej5bh8prtuyjtpvenxbx19y7883j6</sha1>
     </revision>
     <revision>
-      <id>37</id>
-      <parentid>36</parentid>
+      <id>43</id>
+      <parentid>42</parentid>
       <timestamp>2025-06-06T00:53:55Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>37</origin>
+      <origin>43</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="280" sha1="kjala8kz6kzxy1ags0rx13pl3wt379u" xml:space="preserve">Multi-Repository-Dokumentation Static Site Generators nach Reifegrade sortiert
@@ -1420,15 +2212,15 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
       <sha1>kjala8kz6kzxy1ags0rx13pl3wt379u</sha1>
     </revision>
     <revision>
-      <id>38</id>
-      <parentid>37</parentid>
+      <id>44</id>
+      <parentid>43</parentid>
       <timestamp>2025-06-06T02:03:17Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>/* Selbhosting */</comment>
-      <origin>38</origin>
+      <origin>44</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="252" sha1="id63839gu6exw22ne7syzmlndpoj1yi" xml:space="preserve">Multi-Repository-Dokumentation Static Site Generators nach Reifegrade sortiert
@@ -1443,14 +2235,14 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
       <sha1>id63839gu6exw22ne7syzmlndpoj1yi</sha1>
     </revision>
     <revision>
-      <id>39</id>
-      <parentid>38</parentid>
+      <id>45</id>
+      <parentid>44</parentid>
       <timestamp>2025-06-06T02:19:55Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>39</origin>
+      <origin>45</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="260" sha1="8c9i1669iboo1x3thlog39xkbvi3ux4" xml:space="preserve">Multi-Repository-Dokumentation Static Site Generators nach Reifegrade sortiert
@@ -1466,14 +2258,14 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
       <sha1>8c9i1669iboo1x3thlog39xkbvi3ux4</sha1>
     </revision>
     <revision>
-      <id>40</id>
-      <parentid>39</parentid>
+      <id>46</id>
+      <parentid>45</parentid>
       <timestamp>2025-06-06T02:24:41Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>40</origin>
+      <origin>46</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="252" sha1="id63839gu6exw22ne7syzmlndpoj1yi" xml:space="preserve">Multi-Repository-Dokumentation Static Site Generators nach Reifegrade sortiert
@@ -1488,14 +2280,14 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
       <sha1>id63839gu6exw22ne7syzmlndpoj1yi</sha1>
     </revision>
     <revision>
-      <id>41</id>
-      <parentid>40</parentid>
+      <id>47</id>
+      <parentid>46</parentid>
       <timestamp>2025-06-06T02:32:33Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>41</origin>
+      <origin>47</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="297" sha1="dyk8vx5a1wmv4defg9ej27ebi38ly3c" xml:space="preserve">Multi-Repository-Dokumentation Static Site Generators nach Reifegrade sortiert
@@ -1511,14 +2303,14 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
       <sha1>dyk8vx5a1wmv4defg9ej27ebi38ly3c</sha1>
     </revision>
     <revision>
-      <id>42</id>
-      <parentid>41</parentid>
+      <id>48</id>
+      <parentid>47</parentid>
       <timestamp>2025-06-06T02:35:06Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>42</origin>
+      <origin>48</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="385" sha1="4o20sp1l1y19sssb1vlsblx25ffjxbj" xml:space="preserve">
@@ -1541,14 +2333,14 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
       <sha1>4o20sp1l1y19sssb1vlsblx25ffjxbj</sha1>
     </revision>
     <revision>
-      <id>43</id>
-      <parentid>42</parentid>
+      <id>49</id>
+      <parentid>48</parentid>
       <timestamp>2025-06-06T02:58:29Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
-      <origin>43</origin>
+      <origin>49</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="377" sha1="cj21fnwarwa4f60jwlhn6kld0br7p1l" xml:space="preserve">
@@ -1571,15 +2363,15 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
       <sha1>cj21fnwarwa4f60jwlhn6kld0br7p1l</sha1>
     </revision>
     <revision>
-      <id>44</id>
-      <parentid>43</parentid>
+      <id>50</id>
+      <parentid>49</parentid>
       <timestamp>2025-06-06T09:51:11Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>44</origin>
+      <origin>50</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="511" sha1="hakdm44wqeph6xqk4mpz05tlm2e2ahx" xml:space="preserve">== Übersicht über Multi-Repository-Dokumentations-Static-Site-Generatoren nach Reifegrad ==
@@ -1606,15 +2398,15 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
       <sha1>hakdm44wqeph6xqk4mpz05tlm2e2ahx</sha1>
     </revision>
     <revision>
-      <id>45</id>
-      <parentid>44</parentid>
+      <id>51</id>
+      <parentid>50</parentid>
       <timestamp>2025-06-06T10:28:37Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>45</origin>
+      <origin>51</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="510" sha1="qsmu7wtoui9kqcf991y7vio3qthusue" xml:space="preserve">== Übersicht über Multi-Repository-Dokumentations-Static-Site-Generatoren nach Reifegrad ==
@@ -1644,16 +2436,16 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
   <page>
     <title>Anki</title>
     <ns>0</ns>
-    <id>18</id>
+    <id>20</id>
     <revision>
-      <id>46</id>
+      <id>52</id>
       <timestamp>2025-06-07T01:21:42Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „* [[Asp Net Core Model Binding]]“</comment>
-      <origin>46</origin>
+      <origin>52</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="32" sha1="4p3n45siu73nziuutcc8vdlnmgzma60" xml:space="preserve">* [[Asp Net Core Model Binding]]</text>
@@ -1663,16 +2455,16 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
   <page>
     <title>Asp Net Core Model Binding</title>
     <ns>0</ns>
-    <id>19</id>
+    <id>21</id>
     <revision>
-      <id>47</id>
+      <id>53</id>
       <timestamp>2025-06-07T01:22:51Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>1</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „==Query String== &lt;pre&gt;  using Microsoft.AspNetCore.Mvc;  namespace start.{{c1::Controllers;}}  // Diese Klasse definiert einen Controller für die ASP.NET Core MVC-Anwendung. {{c1::public class HomeController : Controller}} {{c1::{}}     // Diese Methode wird aufgerufen, wenn die Route "/start" aufgerufen wird.     // Der optionale Parameter "name" kann über die URL als Query-Parameter übergeben werden (z. B. /start?name=Thorsten).     {{c1::[Route("sta…“</comment>
-      <origin>47</origin>
+      <origin>53</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="20510" sha1="ehu67mio8754h682f7xdq9giaqdwnqx" xml:space="preserve">==Query String==
@@ -2253,6 +3045,1652 @@ namespace start.praxis;
 }
 &lt;/pre&gt;</text>
       <sha1>ehu67mio8754h682f7xdq9giaqdwnqx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Typo3</title>
+    <ns>0</ns>
+    <id>22</id>
+    <revision>
+      <id>57</id>
+      <timestamp>2025-06-07T22:02:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>57</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3996" sha1="12or3rfscsvnf6h8usx2536ykme6ga7" xml:space="preserve">Typo3 ist ein freies Content-Management-System (CMS) für Webseiten, das in PHP geschrieben ist. Es ist besonders bekannt für seine Flexibilität und Skalierbarkeit, was es zu einer beliebten Wahl für Unternehmen und Organisationen macht, die komplexe Websites verwalten möchten. Typo3 bietet eine Vielzahl von Funktionen, darunter:
+==Typo3 Installation==
+===Mit Composer===
+&lt;pre&gt;
+cd /var/www
+sudo composer create-project "typo3/cms-base-distribution:^13.4" typo3
+
+==Postgrsql Datenbank Einrichten==
+&lt;pre&gt;
+
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten typo3
+psql -d typo3 -c "CREATE EXTENSION postgis;"
+psql -d typo3 -c "CREATE EXTENSION hstore;"
+psql -d typo3 -c "CREATE EXTENSION pg_trgm;"
+psql -d typo3 -c "ALTER TABLE geometry_columns OWNER TO thorsten;"
+psql -d typo3 -c "ALTER TABLE spatial_ref_sys OWNER TO thorsten;"
+psql -d typo3 -c "GRANT ALL PRIVILEGES ON DATABASE typo3 TO thorsten;"
+exit
+&lt;/pre&gt;
+==Nginx Konfiguration==
+&lt;pre&gt;
+sudo certbot certonly --standalone -d typo3.ahrensburg.city
+sudo nano /etc/nginx/conf.d/typo3.conf
+&lt;/pre&gt;
+
+&lt;pre&gt;
+server {
+    listen  443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name typo3.ahrensburg.city;
+     # SSL certificates
+    ssl_certificate /etc/letsencrypt/live/typo3.ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/typo3.ahrensburg.city/privkey.pem;
+  
+    root /var/www/typo3/public;
+    index index.php;
+
+    # TYPO3 specific rewrite rules
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    # Pass PHP scripts to PHP-FPM
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/run/php/php-fpm.sock; # Adjust if your PHP-FPM socket is different (e.g., php8.3-fpm.sock)
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        fastcgi_read_timeout 300; # Increase if you experience timeouts during TYPO3 installation/operations
+    }
+
+# Special root site case. prevent "try_files $uri/" + "index" from skipping the cache
+# by accessing /index.php directly
+location =/ {
+    recursive_error_pages on;
+    error_page 405 = @sfc;
+    return 405;
+}
+
+location @t3frontend {
+    # Using try_files for ease of configuration demonstration here,
+    # you can also fastcgi_pass directly to php here
+    try_files $uri /index.php$is_args$args;
+}
+
+location @sfc {
+    # Perform an internal redirect to TYPO3 if any of the required
+    # conditions for StaticFileCache don't match
+    error_page 405 = @t3frontend;
+
+    # Query String needs to be empty
+    if ($args != '') {
+        return 405;
+    }
+
+    # We can't serve static files for logged-in BE/FE users
+    if ($cookie_staticfilecache = 'typo_user_logged_in') {
+        return 405;
+    }
+
+    if ($cookie_be_typo_user != '') {
+        return 405;
+    }
+
+    # Ensure we redirect to TYPO3 for non GET/HEAD requests
+    if ($request_method !~ ^(GET|HEAD)$ ) {
+        return 405;
+    }
+
+    # Disable cache for EXT:solr indexing requests
+    if ($http_x_tx_solr_iq) {
+        return 405;
+    }
+
+    charset utf-8;
+    default_type text/html;
+    try_files /typo3temp/assets/tx_staticfilecache/${scheme}_${host}_${server_port}${uri}/index
+          /typo3temp/assets/tx_staticfilecache/${scheme}_${host}_${server_port}${uri}
+          =405;
+}
+
+location /typo3temp/assets/tx_staticfilecache {
+    deny all;
+}
+
+    # Optional: Enable Gzip compression
+    gzip on;
+    gzip_vary on;
+    gzip_proxied any;
+    gzip_comp_level 6;
+    gzip_buffers 16 8k;
+    gzip_http_version 1.1;
+    gzip_types text/plain text/css application/json application/javascript text/xml application/xml application/xml+rss text/javascript;
+
+    # Optional: Add security headers
+    add_header X-Frame-Options "SAMEORIGIN";
+    add_header X-Content-Type-Options "nosniff";
+    add_header X-XSS-Protection "1; mode=block";
+    add_header Referrer-Policy "no-referrer-when-downgrade";
+    add_header Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" always;
+}
+&lt;/pre&gt;</text>
+      <sha1>12or3rfscsvnf6h8usx2536ykme6ga7</sha1>
+    </revision>
+    <revision>
+      <id>58</id>
+      <parentid>57</parentid>
+      <timestamp>2025-06-07T22:03:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>58</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4003" sha1="g0j4jfq0z3epz8mccjvnlc056ba95jo" xml:space="preserve">Typo3 ist ein freies Content-Management-System (CMS) für Webseiten, das in PHP geschrieben ist. Es ist besonders bekannt für seine Flexibilität und Skalierbarkeit, was es zu einer beliebten Wahl für Unternehmen und Organisationen macht, die komplexe Websites verwalten möchten. Typo3 bietet eine Vielzahl von Funktionen, darunter:
+==Typo3 Installation==
+===Mit Composer===
+
+&lt;pre&gt;
+cd /var/www
+sudo composer create-project "typo3/cms-base-distribution:^13.4" typo3
+&lt;/pre&gt;
+==Postgrsql Datenbank Einrichten==
+&lt;pre&gt;
+
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten typo3
+psql -d typo3 -c "CREATE EXTENSION postgis;"
+psql -d typo3 -c "CREATE EXTENSION hstore;"
+psql -d typo3 -c "CREATE EXTENSION pg_trgm;"
+psql -d typo3 -c "ALTER TABLE geometry_columns OWNER TO thorsten;"
+psql -d typo3 -c "ALTER TABLE spatial_ref_sys OWNER TO thorsten;"
+psql -d typo3 -c "GRANT ALL PRIVILEGES ON DATABASE typo3 TO thorsten;"
+exit
+&lt;/pre&gt;
+==Nginx Konfiguration==
+&lt;pre&gt;
+sudo certbot certonly --standalone -d typo3.ahrensburg.city
+sudo nano /etc/nginx/conf.d/typo3.conf
+&lt;/pre&gt;
+
+&lt;pre&gt;
+server {
+    listen  443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name typo3.ahrensburg.city;
+     # SSL certificates
+    ssl_certificate /etc/letsencrypt/live/typo3.ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/typo3.ahrensburg.city/privkey.pem;
+  
+    root /var/www/typo3/public;
+    index index.php;
+
+    # TYPO3 specific rewrite rules
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    # Pass PHP scripts to PHP-FPM
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/run/php/php-fpm.sock; # Adjust if your PHP-FPM socket is different (e.g., php8.3-fpm.sock)
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        fastcgi_read_timeout 300; # Increase if you experience timeouts during TYPO3 installation/operations
+    }
+
+# Special root site case. prevent "try_files $uri/" + "index" from skipping the cache
+# by accessing /index.php directly
+location =/ {
+    recursive_error_pages on;
+    error_page 405 = @sfc;
+    return 405;
+}
+
+location @t3frontend {
+    # Using try_files for ease of configuration demonstration here,
+    # you can also fastcgi_pass directly to php here
+    try_files $uri /index.php$is_args$args;
+}
+
+location @sfc {
+    # Perform an internal redirect to TYPO3 if any of the required
+    # conditions for StaticFileCache don't match
+    error_page 405 = @t3frontend;
+
+    # Query String needs to be empty
+    if ($args != '') {
+        return 405;
+    }
+
+    # We can't serve static files for logged-in BE/FE users
+    if ($cookie_staticfilecache = 'typo_user_logged_in') {
+        return 405;
+    }
+
+    if ($cookie_be_typo_user != '') {
+        return 405;
+    }
+
+    # Ensure we redirect to TYPO3 for non GET/HEAD requests
+    if ($request_method !~ ^(GET|HEAD)$ ) {
+        return 405;
+    }
+
+    # Disable cache for EXT:solr indexing requests
+    if ($http_x_tx_solr_iq) {
+        return 405;
+    }
+
+    charset utf-8;
+    default_type text/html;
+    try_files /typo3temp/assets/tx_staticfilecache/${scheme}_${host}_${server_port}${uri}/index
+          /typo3temp/assets/tx_staticfilecache/${scheme}_${host}_${server_port}${uri}
+          =405;
+}
+
+location /typo3temp/assets/tx_staticfilecache {
+    deny all;
+}
+
+    # Optional: Enable Gzip compression
+    gzip on;
+    gzip_vary on;
+    gzip_proxied any;
+    gzip_comp_level 6;
+    gzip_buffers 16 8k;
+    gzip_http_version 1.1;
+    gzip_types text/plain text/css application/json application/javascript text/xml application/xml application/xml+rss text/javascript;
+
+    # Optional: Add security headers
+    add_header X-Frame-Options "SAMEORIGIN";
+    add_header X-Content-Type-Options "nosniff";
+    add_header X-XSS-Protection "1; mode=block";
+    add_header Referrer-Policy "no-referrer-when-downgrade";
+    add_header Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" always;
+}
+&lt;/pre&gt;</text>
+      <sha1>g0j4jfq0z3epz8mccjvnlc056ba95jo</sha1>
+    </revision>
+    <revision>
+      <id>59</id>
+      <parentid>58</parentid>
+      <timestamp>2025-06-07T23:28:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>59</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4129" sha1="87mb137qozwyivcobx9pi0jbg55bgu1" xml:space="preserve">Typo3 ist ein freies Content-Management-System (CMS) für Webseiten, das in PHP geschrieben ist. Es ist besonders bekannt für seine Flexibilität und Skalierbarkeit, was es zu einer beliebten Wahl für Unternehmen und Organisationen macht, die komplexe Websites verwalten möchten. Typo3 bietet eine Vielzahl von Funktionen, darunter:
+==Typo3 Installation==
+===Mit Composer===
+
+&lt;pre&gt;
+cd /var/www
+sudo composer create-project "typo3/cms-base-distribution:^13.4" typo3
+&lt;/pre&gt;
+==Postgrsql Datenbank Einrichten==
+&lt;pre&gt;
+
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten typo3
+psql -d typo3 -c "CREATE EXTENSION postgis;"
+psql -d typo3 -c "CREATE EXTENSION hstore;"
+psql -d typo3 -c "CREATE EXTENSION pg_trgm;"
+psql -d typo3 -c "ALTER TABLE geometry_columns OWNER TO thorsten;"
+psql -d typo3 -c "ALTER TABLE spatial_ref_sys OWNER TO thorsten;"
+psql -d typo3 -c "GRANT ALL PRIVILEGES ON DATABASE typo3 TO thorsten;"
+exit
+&lt;/pre&gt;
+==Nginx Konfiguration==
+&lt;pre&gt;
+sudo certbot certonly --standalone -d typo3.ahrensburg.city
+sudo nano /etc/nginx/conf.d/typo3.conf
+&lt;/pre&gt;
+
+&lt;pre&gt;
+server {
+    listen  443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name typo3.ahrensburg.city;
+     # SSL certificates
+    ssl_certificate /etc/letsencrypt/live/typo3.ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/typo3.ahrensburg.city/privkey.pem;
+  
+    root /var/www/typo3/public;
+    index index.php;
+
+    # TYPO3 specific rewrite rules
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    # Pass PHP scripts to PHP-FPM
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/run/php/php-fpm.sock; # Adjust if your PHP-FPM socket is different (e.g., php8.3-fpm.sock)
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        fastcgi_read_timeout 300; # Increase if you experience timeouts during TYPO3 installation/operations
+    }
+
+# Special root site case. prevent "try_files $uri/" + "index" from skipping the cache
+# by accessing /index.php directly
+location =/ {
+    recursive_error_pages on;
+    error_page 405 = @sfc;
+    return 405;
+}
+
+location @t3frontend {
+    # Using try_files for ease of configuration demonstration here,
+    # you can also fastcgi_pass directly to php here
+    try_files $uri /index.php$is_args$args;
+}
+
+location @sfc {
+    # Perform an internal redirect to TYPO3 if any of the required
+    # conditions for StaticFileCache don't match
+    error_page 405 = @t3frontend;
+
+    # Query String needs to be empty
+    if ($args != '') {
+        return 405;
+    }
+
+    # We can't serve static files for logged-in BE/FE users
+    if ($cookie_staticfilecache = 'typo_user_logged_in') {
+        return 405;
+    }
+
+    if ($cookie_be_typo_user != '') {
+        return 405;
+    }
+
+    # Ensure we redirect to TYPO3 for non GET/HEAD requests
+    if ($request_method !~ ^(GET|HEAD)$ ) {
+        return 405;
+    }
+
+    # Disable cache for EXT:solr indexing requests
+    if ($http_x_tx_solr_iq) {
+        return 405;
+    }
+
+    charset utf-8;
+    default_type text/html;
+    try_files /typo3temp/assets/tx_staticfilecache/${scheme}_${host}_${server_port}${uri}/index
+          /typo3temp/assets/tx_staticfilecache/${scheme}_${host}_${server_port}${uri}
+          =405;
+}
+
+location /typo3temp/assets/tx_staticfilecache {
+    deny all;
+}
+
+    # Optional: Enable Gzip compression
+    gzip on;
+    gzip_vary on;
+    gzip_proxied any;
+    gzip_comp_level 6;
+    gzip_buffers 16 8k;
+    gzip_http_version 1.1;
+    gzip_types text/plain text/css application/json application/javascript text/xml application/xml application/xml+rss text/javascript;
+
+    # Optional: Add security headers
+    add_header X-Frame-Options "SAMEORIGIN";
+    add_header X-Content-Type-Options "nosniff";
+    add_header X-XSS-Protection "1; mode=block";
+    add_header Referrer-Policy "no-referrer-when-downgrade";
+    add_header Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" always;
+}
+&lt;/pre&gt;
+
+==Video Kurse youtube==
+* [https://www.youtube.com/watch?v=1b0j2k6a3d4&amp;list=PL5c7e8f9f8b4c4d3a Typo3 13.4 - 14.0 Video Kurs]</text>
+      <sha1>87mb137qozwyivcobx9pi0jbg55bgu1</sha1>
+    </revision>
+    <revision>
+      <id>73</id>
+      <parentid>59</parentid>
+      <timestamp>2025-06-09T18:54:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>73</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4154" sha1="amdie52l91879mljjisht2lsq3ex528" xml:space="preserve">* [[Typo3/Installieren]]
+Typo3 ist ein freies Content-Management-System (CMS) für Webseiten, das in PHP geschrieben ist. Es ist besonders bekannt für seine Flexibilität und Skalierbarkeit, was es zu einer beliebten Wahl für Unternehmen und Organisationen macht, die komplexe Websites verwalten möchten. Typo3 bietet eine Vielzahl von Funktionen, darunter:
+==Typo3 Installation==
+===Mit Composer===
+
+&lt;pre&gt;
+cd /var/www
+sudo composer create-project "typo3/cms-base-distribution:^13.4" typo3
+&lt;/pre&gt;
+==Postgrsql Datenbank Einrichten==
+&lt;pre&gt;
+
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten typo3
+psql -d typo3 -c "CREATE EXTENSION postgis;"
+psql -d typo3 -c "CREATE EXTENSION hstore;"
+psql -d typo3 -c "CREATE EXTENSION pg_trgm;"
+psql -d typo3 -c "ALTER TABLE geometry_columns OWNER TO thorsten;"
+psql -d typo3 -c "ALTER TABLE spatial_ref_sys OWNER TO thorsten;"
+psql -d typo3 -c "GRANT ALL PRIVILEGES ON DATABASE typo3 TO thorsten;"
+exit
+&lt;/pre&gt;
+==Nginx Konfiguration==
+&lt;pre&gt;
+sudo certbot certonly --standalone -d typo3.ahrensburg.city
+sudo nano /etc/nginx/conf.d/typo3.conf
+&lt;/pre&gt;
+
+&lt;pre&gt;
+server {
+    listen  443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name typo3.ahrensburg.city;
+     # SSL certificates
+    ssl_certificate /etc/letsencrypt/live/typo3.ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/typo3.ahrensburg.city/privkey.pem;
+  
+    root /var/www/typo3/public;
+    index index.php;
+
+    # TYPO3 specific rewrite rules
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    # Pass PHP scripts to PHP-FPM
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/run/php/php-fpm.sock; # Adjust if your PHP-FPM socket is different (e.g., php8.3-fpm.sock)
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        fastcgi_read_timeout 300; # Increase if you experience timeouts during TYPO3 installation/operations
+    }
+
+# Special root site case. prevent "try_files $uri/" + "index" from skipping the cache
+# by accessing /index.php directly
+location =/ {
+    recursive_error_pages on;
+    error_page 405 = @sfc;
+    return 405;
+}
+
+location @t3frontend {
+    # Using try_files for ease of configuration demonstration here,
+    # you can also fastcgi_pass directly to php here
+    try_files $uri /index.php$is_args$args;
+}
+
+location @sfc {
+    # Perform an internal redirect to TYPO3 if any of the required
+    # conditions for StaticFileCache don't match
+    error_page 405 = @t3frontend;
+
+    # Query String needs to be empty
+    if ($args != '') {
+        return 405;
+    }
+
+    # We can't serve static files for logged-in BE/FE users
+    if ($cookie_staticfilecache = 'typo_user_logged_in') {
+        return 405;
+    }
+
+    if ($cookie_be_typo_user != '') {
+        return 405;
+    }
+
+    # Ensure we redirect to TYPO3 for non GET/HEAD requests
+    if ($request_method !~ ^(GET|HEAD)$ ) {
+        return 405;
+    }
+
+    # Disable cache for EXT:solr indexing requests
+    if ($http_x_tx_solr_iq) {
+        return 405;
+    }
+
+    charset utf-8;
+    default_type text/html;
+    try_files /typo3temp/assets/tx_staticfilecache/${scheme}_${host}_${server_port}${uri}/index
+          /typo3temp/assets/tx_staticfilecache/${scheme}_${host}_${server_port}${uri}
+          =405;
+}
+
+location /typo3temp/assets/tx_staticfilecache {
+    deny all;
+}
+
+    # Optional: Enable Gzip compression
+    gzip on;
+    gzip_vary on;
+    gzip_proxied any;
+    gzip_comp_level 6;
+    gzip_buffers 16 8k;
+    gzip_http_version 1.1;
+    gzip_types text/plain text/css application/json application/javascript text/xml application/xml application/xml+rss text/javascript;
+
+    # Optional: Add security headers
+    add_header X-Frame-Options "SAMEORIGIN";
+    add_header X-Content-Type-Options "nosniff";
+    add_header X-XSS-Protection "1; mode=block";
+    add_header Referrer-Policy "no-referrer-when-downgrade";
+    add_header Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" always;
+}
+&lt;/pre&gt;
+
+==Video Kurse youtube==
+* [https://www.youtube.com/watch?v=1b0j2k6a3d4&amp;list=PL5c7e8f9f8b4c4d3a Typo3 13.4 - 14.0 Video Kurs]</text>
+      <sha1>amdie52l91879mljjisht2lsq3ex528</sha1>
+    </revision>
+    <revision>
+      <id>84</id>
+      <parentid>73</parentid>
+      <timestamp>2025-06-09T20:06:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>84</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4186" sha1="038y1qj6lg3x0dldn0m6o7ikzt30y40" xml:space="preserve">* [[Typo3/Installieren]]
+* [[Typo3/Nginx Konfiguration]]
+Typo3 ist ein freies Content-Management-System (CMS) für Webseiten, das in PHP geschrieben ist. Es ist besonders bekannt für seine Flexibilität und Skalierbarkeit, was es zu einer beliebten Wahl für Unternehmen und Organisationen macht, die komplexe Websites verwalten möchten. Typo3 bietet eine Vielzahl von Funktionen, darunter:
+==Typo3 Installation==
+===Mit Composer===
+
+&lt;pre&gt;
+cd /var/www
+sudo composer create-project "typo3/cms-base-distribution:^13.4" typo3
+&lt;/pre&gt;
+==Postgrsql Datenbank Einrichten==
+&lt;pre&gt;
+
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten typo3
+psql -d typo3 -c "CREATE EXTENSION postgis;"
+psql -d typo3 -c "CREATE EXTENSION hstore;"
+psql -d typo3 -c "CREATE EXTENSION pg_trgm;"
+psql -d typo3 -c "ALTER TABLE geometry_columns OWNER TO thorsten;"
+psql -d typo3 -c "ALTER TABLE spatial_ref_sys OWNER TO thorsten;"
+psql -d typo3 -c "GRANT ALL PRIVILEGES ON DATABASE typo3 TO thorsten;"
+exit
+&lt;/pre&gt;
+==Nginx Konfiguration==
+&lt;pre&gt;
+sudo certbot certonly --standalone -d typo3.ahrensburg.city
+sudo nano /etc/nginx/conf.d/typo3.conf
+&lt;/pre&gt;
+
+&lt;pre&gt;
+server {
+    listen  443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name typo3.ahrensburg.city;
+     # SSL certificates
+    ssl_certificate /etc/letsencrypt/live/typo3.ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/typo3.ahrensburg.city/privkey.pem;
+  
+    root /var/www/typo3/public;
+    index index.php;
+
+    # TYPO3 specific rewrite rules
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    # Pass PHP scripts to PHP-FPM
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/run/php/php-fpm.sock; # Adjust if your PHP-FPM socket is different (e.g., php8.3-fpm.sock)
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        fastcgi_read_timeout 300; # Increase if you experience timeouts during TYPO3 installation/operations
+    }
+
+# Special root site case. prevent "try_files $uri/" + "index" from skipping the cache
+# by accessing /index.php directly
+location =/ {
+    recursive_error_pages on;
+    error_page 405 = @sfc;
+    return 405;
+}
+
+location @t3frontend {
+    # Using try_files for ease of configuration demonstration here,
+    # you can also fastcgi_pass directly to php here
+    try_files $uri /index.php$is_args$args;
+}
+
+location @sfc {
+    # Perform an internal redirect to TYPO3 if any of the required
+    # conditions for StaticFileCache don't match
+    error_page 405 = @t3frontend;
+
+    # Query String needs to be empty
+    if ($args != '') {
+        return 405;
+    }
+
+    # We can't serve static files for logged-in BE/FE users
+    if ($cookie_staticfilecache = 'typo_user_logged_in') {
+        return 405;
+    }
+
+    if ($cookie_be_typo_user != '') {
+        return 405;
+    }
+
+    # Ensure we redirect to TYPO3 for non GET/HEAD requests
+    if ($request_method !~ ^(GET|HEAD)$ ) {
+        return 405;
+    }
+
+    # Disable cache for EXT:solr indexing requests
+    if ($http_x_tx_solr_iq) {
+        return 405;
+    }
+
+    charset utf-8;
+    default_type text/html;
+    try_files /typo3temp/assets/tx_staticfilecache/${scheme}_${host}_${server_port}${uri}/index
+          /typo3temp/assets/tx_staticfilecache/${scheme}_${host}_${server_port}${uri}
+          =405;
+}
+
+location /typo3temp/assets/tx_staticfilecache {
+    deny all;
+}
+
+    # Optional: Enable Gzip compression
+    gzip on;
+    gzip_vary on;
+    gzip_proxied any;
+    gzip_comp_level 6;
+    gzip_buffers 16 8k;
+    gzip_http_version 1.1;
+    gzip_types text/plain text/css application/json application/javascript text/xml application/xml application/xml+rss text/javascript;
+
+    # Optional: Add security headers
+    add_header X-Frame-Options "SAMEORIGIN";
+    add_header X-Content-Type-Options "nosniff";
+    add_header X-XSS-Protection "1; mode=block";
+    add_header Referrer-Policy "no-referrer-when-downgrade";
+    add_header Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" always;
+}
+&lt;/pre&gt;
+
+==Video Kurse youtube==
+* [https://www.youtube.com/watch?v=1b0j2k6a3d4&amp;list=PL5c7e8f9f8b4c4d3a Typo3 13.4 - 14.0 Video Kurs]</text>
+      <sha1>038y1qj6lg3x0dldn0m6o7ikzt30y40</sha1>
+    </revision>
+    <revision>
+      <id>85</id>
+      <parentid>84</parentid>
+      <timestamp>2025-06-09T20:11:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Nginx Konfiguration */</comment>
+      <origin>85</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4162" sha1="f2qns9hotiougjwdmphvza1ahrv4g2t" xml:space="preserve">* [[Typo3/Installieren]]
+* [[Typo3/Nginx Konfiguration]]
+Typo3 ist ein freies Content-Management-System (CMS) für Webseiten, das in PHP geschrieben ist. Es ist besonders bekannt für seine Flexibilität und Skalierbarkeit, was es zu einer beliebten Wahl für Unternehmen und Organisationen macht, die komplexe Websites verwalten möchten. Typo3 bietet eine Vielzahl von Funktionen, darunter:
+==Typo3 Installation==
+===Mit Composer===
+
+&lt;pre&gt;
+cd /var/www
+sudo composer create-project "typo3/cms-base-distribution:^13.4" typo3
+&lt;/pre&gt;
+==Postgrsql Datenbank Einrichten==
+&lt;pre&gt;
+
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten typo3
+psql -d typo3 -c "CREATE EXTENSION postgis;"
+psql -d typo3 -c "CREATE EXTENSION hstore;"
+psql -d typo3 -c "CREATE EXTENSION pg_trgm;"
+psql -d typo3 -c "ALTER TABLE geometry_columns OWNER TO thorsten;"
+psql -d typo3 -c "ALTER TABLE spatial_ref_sys OWNER TO thorsten;"
+psql -d typo3 -c "GRANT ALL PRIVILEGES ON DATABASE typo3 TO thorsten;"
+exit
+&lt;/pre&gt;
+&lt;pre&gt;
+sudo certbot certonly --standalone -d typo3.ahrensburg.city
+sudo nano /etc/nginx/conf.d/typo3.conf
+&lt;/pre&gt;
+
+&lt;pre&gt;
+server {
+    listen  443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name typo3.ahrensburg.city;
+     # SSL certificates
+    ssl_certificate /etc/letsencrypt/live/typo3.ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/typo3.ahrensburg.city/privkey.pem;
+  
+    root /var/www/typo3/public;
+    index index.php;
+
+    # TYPO3 specific rewrite rules
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    # Pass PHP scripts to PHP-FPM
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/run/php/php-fpm.sock; # Adjust if your PHP-FPM socket is different (e.g., php8.3-fpm.sock)
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        fastcgi_read_timeout 300; # Increase if you experience timeouts during TYPO3 installation/operations
+    }
+
+# Special root site case. prevent "try_files $uri/" + "index" from skipping the cache
+# by accessing /index.php directly
+location =/ {
+    recursive_error_pages on;
+    error_page 405 = @sfc;
+    return 405;
+}
+
+location @t3frontend {
+    # Using try_files for ease of configuration demonstration here,
+    # you can also fastcgi_pass directly to php here
+    try_files $uri /index.php$is_args$args;
+}
+
+location @sfc {
+    # Perform an internal redirect to TYPO3 if any of the required
+    # conditions for StaticFileCache don't match
+    error_page 405 = @t3frontend;
+
+    # Query String needs to be empty
+    if ($args != '') {
+        return 405;
+    }
+
+    # We can't serve static files for logged-in BE/FE users
+    if ($cookie_staticfilecache = 'typo_user_logged_in') {
+        return 405;
+    }
+
+    if ($cookie_be_typo_user != '') {
+        return 405;
+    }
+
+    # Ensure we redirect to TYPO3 for non GET/HEAD requests
+    if ($request_method !~ ^(GET|HEAD)$ ) {
+        return 405;
+    }
+
+    # Disable cache for EXT:solr indexing requests
+    if ($http_x_tx_solr_iq) {
+        return 405;
+    }
+
+    charset utf-8;
+    default_type text/html;
+    try_files /typo3temp/assets/tx_staticfilecache/${scheme}_${host}_${server_port}${uri}/index
+          /typo3temp/assets/tx_staticfilecache/${scheme}_${host}_${server_port}${uri}
+          =405;
+}
+
+location /typo3temp/assets/tx_staticfilecache {
+    deny all;
+}
+
+    # Optional: Enable Gzip compression
+    gzip on;
+    gzip_vary on;
+    gzip_proxied any;
+    gzip_comp_level 6;
+    gzip_buffers 16 8k;
+    gzip_http_version 1.1;
+    gzip_types text/plain text/css application/json application/javascript text/xml application/xml application/xml+rss text/javascript;
+
+    # Optional: Add security headers
+    add_header X-Frame-Options "SAMEORIGIN";
+    add_header X-Content-Type-Options "nosniff";
+    add_header X-XSS-Protection "1; mode=block";
+    add_header Referrer-Policy "no-referrer-when-downgrade";
+    add_header Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" always;
+}
+&lt;/pre&gt;
+
+==Video Kurse youtube==
+* [https://www.youtube.com/watch?v=1b0j2k6a3d4&amp;list=PL5c7e8f9f8b4c4d3a Typo3 13.4 - 14.0 Video Kurs]</text>
+      <sha1>f2qns9hotiougjwdmphvza1ahrv4g2t</sha1>
+    </revision>
+    <revision>
+      <id>87</id>
+      <parentid>85</parentid>
+      <timestamp>2025-06-09T20:24:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Der Seiteninhalt wurde durch einen anderen Text ersetzt: „* [[Typo3/Installieren]] * [[Typo3/Nginx Konfiguration]]“</comment>
+      <origin>87</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="56" sha1="4gl1e35bl3o8qt2hc9pajcuab9lru85" xml:space="preserve">* [[Typo3/Installieren]]
+* [[Typo3/Nginx Konfiguration]]</text>
+      <sha1>4gl1e35bl3o8qt2hc9pajcuab9lru85</sha1>
+    </revision>
+    <revision>
+      <id>88</id>
+      <parentid>87</parentid>
+      <timestamp>2025-06-09T20:28:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>88</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="79" sha1="jjrvf6ivl09zx6gvqphkkeh21my4yup" xml:space="preserve">* [[Typo3/Installieren]]
+* [[Typo3/Nginx Konfiguration]]
+* [[Typo3/Einrichten]]</text>
+      <sha1>jjrvf6ivl09zx6gvqphkkeh21my4yup</sha1>
+    </revision>
+    <revision>
+      <id>89</id>
+      <parentid>88</parentid>
+      <timestamp>2025-06-09T21:04:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>89</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="82" sha1="t2eq09pykjk7k3l475g6r11drtqhqus" xml:space="preserve">* [[Typo3/Installieren]]
+* [[Typo3/Nginx Konfiguration]]
+* [[Typo3/Konfiguration]]</text>
+      <sha1>t2eq09pykjk7k3l475g6r11drtqhqus</sha1>
+    </revision>
+    <revision>
+      <id>96</id>
+      <parentid>89</parentid>
+      <timestamp>2025-06-09T23:35:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>96</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="134" sha1="pv1f45gh6y91qmxgof346byi8wbsuzb" xml:space="preserve">* [[Typo3/Installieren]]
+* [[Typo3/Nginx Konfiguration]]
+* [[Typo3/Konfiguration]]
+* [[Typo3/Deutsche Benutzeroberfläche einrichten]]</text>
+      <sha1>pv1f45gh6y91qmxgof346byi8wbsuzb</sha1>
+    </revision>
+    <revision>
+      <id>98</id>
+      <parentid>96</parentid>
+      <timestamp>2025-06-10T03:22:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>98</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="175" sha1="7mknxb3b1a036ml6nff4ug49smsn02w" xml:space="preserve">* [[Typo3/Installieren]]
+* [[Typo3/Nginx Konfiguration]]
+* [[Typo3/Konfiguration]]
+* [[Typo3/Deutsche Benutzeroberfläche einrichten]]
+* [[Typo3/Bootstrap-Paket Installieren]]</text>
+      <sha1>7mknxb3b1a036ml6nff4ug49smsn02w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Typo3/Installieren</title>
+    <ns>0</ns>
+    <id>23</id>
+    <revision>
+      <id>74</id>
+      <timestamp>2025-06-09T19:00:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ Unter Ubuntu, meinem bevorzugten Betriebssystem, starte ich meine Arbeit stets im Terminal. Zunächst bereinige ich alle alten PostgreSQL-Datenbanken. Hier die notwendigen Befehle:  * `sudo -u postgres -i` * `psql` * `GRANT ALL PRIVILEGES ON DATABASE typo3l TO postgres;` * `drop database drupal;`  '''Typo3-Installation mit Composer'''  Um Typo3 mittels Composer zu installieren, gehe ich wie folgt vor:  # Zuerst navigiere ich zum Zielordner:  `cd /var/www…“</comment>
+      <origin>74</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="633" sha1="cbdf0kycwhbgqsmrj9jc9pg6edz4fh8" xml:space="preserve">
+Unter Ubuntu, meinem bevorzugten Betriebssystem, starte ich meine Arbeit stets im Terminal. Zunächst bereinige ich alle alten PostgreSQL-Datenbanken. Hier die notwendigen Befehle:
+
+* `sudo -u postgres -i`
+* `psql`
+* `GRANT ALL PRIVILEGES ON DATABASE typo3l TO postgres;`
+* `drop database drupal;`
+
+'''Typo3-Installation mit Composer'''
+
+Um Typo3 mittels Composer zu installieren, gehe ich wie folgt vor:
+
+# Zuerst navigiere ich zum Zielordner:  `cd /var/www`
+# Anschließend erstelle ich ein neues Projekt:  `sudo composer create-project "typo3/cms-base-distribution:^13.4" typo3`
+# Danach muss eine neue Datenbank erstellt werden.</text>
+      <sha1>cbdf0kycwhbgqsmrj9jc9pg6edz4fh8</sha1>
+    </revision>
+    <revision>
+      <id>75</id>
+      <parentid>74</parentid>
+      <timestamp>2025-06-09T19:02:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>75</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="631" sha1="8l5ya6qvsmennnls0tlywl7ajtx19c5" xml:space="preserve">
+Unter Ubuntu, meinem bevorzugten Betriebssystem, starte ich meine Arbeit stets im Terminal. Zunächst bereinige ich alle alten PostgreSQL-Datenbanken. Hier die notwendigen Befehle:
+
+* `sudo -u postgres -i`
+* `psql`
+* `GRANT ALL PRIVILEGES ON DATABASE typo3l TO postgres;`
+* `drop database drupal;`
+
+==Typo3-Installation mit Composer==
+
+Um Typo3 mittels Composer zu installieren, gehe ich wie folgt vor:
+
+# Zuerst navigiere ich zum Zielordner:  `cd /var/www`
+# Anschließend erstelle ich ein neues Projekt:  `sudo composer create-project "typo3/cms-base-distribution:^13.4" typo3`
+# Danach muss eine neue Datenbank erstellt werden.</text>
+      <sha1>8l5ya6qvsmennnls0tlywl7ajtx19c5</sha1>
+    </revision>
+    <revision>
+      <id>76</id>
+      <parentid>75</parentid>
+      <timestamp>2025-06-09T19:08:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>76</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="626" sha1="kzyz8xq0rc0g4xkxop4bk6velv0fo0r" xml:space="preserve">
+Unter Ubuntu, meinem bevorzugten Betriebssystem, starte ich meine Arbeit stets im Terminal. Zunächst bereinige ich alle alten PostgreSQL-Datenbanken. Hier die notwendigen Befehle:
+&lt;pre&gt;
+sudo -u postgres -i
+psql
+GRANT ALL PRIVILEGES ON DATABASE typo3l TO postgres;
+drop database drupal;
+&lt;/pre&gt;
+==Typo3-Installation mit Composer==
+
+Um Typo3 mittels Composer zu installieren, gehe ich wie folgt vor:
+
+# Zuerst navigiere ich zum Zielordner:  `cd /var/www`
+# Anschließend erstelle ich ein neues Projekt:  `sudo composer create-project "typo3/cms-base-distribution:^13.4" typo3`
+# Danach muss eine neue Datenbank erstellt werden.</text>
+      <sha1>kzyz8xq0rc0g4xkxop4bk6velv0fo0r</sha1>
+    </revision>
+    <revision>
+      <id>77</id>
+      <parentid>76</parentid>
+      <timestamp>2025-06-09T19:09:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>77</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="625" sha1="hzg2cx7u8s0gijt18r5z8zusqrpupi3" xml:space="preserve">
+Unter Ubuntu, meinem bevorzugten Betriebssystem, starte ich meine Arbeit stets im Terminal. Zunächst bereinige ich alle alten PostgreSQL-Datenbanken. Hier die notwendigen Befehle:
+&lt;pre&gt;
+sudo -u postgres -i
+psql
+GRANT ALL PRIVILEGES ON DATABASE typo3l TO postgres;
+drop database typo3;
+&lt;/pre&gt;
+==Typo3-Installation mit Composer==
+
+Um Typo3 mittels Composer zu installieren, gehe ich wie folgt vor:
+
+# Zuerst navigiere ich zum Zielordner:  `cd /var/www`
+# Anschließend erstelle ich ein neues Projekt:  `sudo composer create-project "typo3/cms-base-distribution:^13.4" typo3`
+# Danach muss eine neue Datenbank erstellt werden.</text>
+      <sha1>hzg2cx7u8s0gijt18r5z8zusqrpupi3</sha1>
+    </revision>
+    <revision>
+      <id>78</id>
+      <parentid>77</parentid>
+      <timestamp>2025-06-09T19:11:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>78</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="624" sha1="irzm54qr44osnawvw7o9ug5n4uzy978" xml:space="preserve">
+Unter Ubuntu, meinem bevorzugten Betriebssystem, starte ich meine Arbeit stets im Terminal. Zunächst bereinige ich alle alten PostgreSQL-Datenbanken. Hier die notwendigen Befehle:
+&lt;pre&gt;
+sudo -u postgres -i
+psql
+GRANT ALL PRIVILEGES ON DATABASE typo3 TO postgres;
+drop database typo3;
+&lt;/pre&gt;
+==Typo3-Installation mit Composer==
+
+Um Typo3 mittels Composer zu installieren, gehe ich wie folgt vor:
+
+# Zuerst navigiere ich zum Zielordner:  `cd /var/www`
+# Anschließend erstelle ich ein neues Projekt:  `sudo composer create-project "typo3/cms-base-distribution:^13.4" typo3`
+# Danach muss eine neue Datenbank erstellt werden.</text>
+      <sha1>irzm54qr44osnawvw7o9ug5n4uzy978</sha1>
+    </revision>
+    <revision>
+      <id>79</id>
+      <parentid>78</parentid>
+      <timestamp>2025-06-09T19:19:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>79</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="632" sha1="daz4r2ombrs9xsqr6b9ae5iw52568t6" xml:space="preserve">
+Unter Ubuntu, meinem bevorzugten Betriebssystem, starte ich meine Arbeit stets im Terminal. Zunächst bereinige ich alle alten PostgreSQL-Datenbanken. Hier die notwendigen Befehle:
+&lt;pre&gt;
+sudo -u postgres -i
+psql
+GRANT ALL PRIVILEGES ON DATABASE typo3 TO postgres;
+drop database typo3;
+\q
+exit
+&lt;/pre&gt;
+==Typo3-Installation mit Composer==
+
+Um Typo3 mittels Composer zu installieren, gehe ich wie folgt vor:
+
+# Zuerst navigiere ich zum Zielordner:  `cd /var/www`
+# Anschließend erstelle ich ein neues Projekt:  `sudo composer create-project "typo3/cms-base-distribution:^13.4" typo3`
+# Danach muss eine neue Datenbank erstellt werden.</text>
+      <sha1>daz4r2ombrs9xsqr6b9ae5iw52568t6</sha1>
+    </revision>
+    <revision>
+      <id>80</id>
+      <parentid>79</parentid>
+      <timestamp>2025-06-09T19:23:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Typo3-Installation mit Composer */</comment>
+      <origin>80</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="553" sha1="lx10wfjkgf072o9df85h6ksflus4dm6" xml:space="preserve">
+Unter Ubuntu, meinem bevorzugten Betriebssystem, starte ich meine Arbeit stets im Terminal. Zunächst bereinige ich alle alten PostgreSQL-Datenbanken. Hier die notwendigen Befehle:
+&lt;pre&gt;
+sudo -u postgres -i
+psql
+GRANT ALL PRIVILEGES ON DATABASE typo3 TO postgres;
+drop database typo3;
+\q
+exit
+&lt;/pre&gt;
+==Typo3-Installation mit Composer==
+
+Um Typo3 mittels Composer zu installieren, gehe ich wie folgt vor:
+&lt;pre&gt;
+cd /var/www
+sudo composer create-project "typo3/cms-base-distribution:^13.4" typo3
+&lt;/pre&gt;
+==Danach muss eine neue Datenbank erstellt werden.==</text>
+      <sha1>lx10wfjkgf072o9df85h6ksflus4dm6</sha1>
+    </revision>
+    <revision>
+      <id>81</id>
+      <parentid>80</parentid>
+      <timestamp>2025-06-09T19:31:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Danach muss eine neue Datenbank erstellt werden. */</comment>
+      <origin>81</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="958" sha1="ci8fj8frfdc9j9svk311ubqlckedsjq" xml:space="preserve">
+Unter Ubuntu, meinem bevorzugten Betriebssystem, starte ich meine Arbeit stets im Terminal. Zunächst bereinige ich alle alten PostgreSQL-Datenbanken. Hier die notwendigen Befehle:
+&lt;pre&gt;
+sudo -u postgres -i
+psql
+GRANT ALL PRIVILEGES ON DATABASE typo3 TO postgres;
+drop database typo3;
+\q
+exit
+&lt;/pre&gt;
+==Typo3-Installation mit Composer==
+
+Um Typo3 mittels Composer zu installieren, gehe ich wie folgt vor:
+&lt;pre&gt;
+cd /var/www
+sudo composer create-project "typo3/cms-base-distribution:^13.4" typo3
+&lt;/pre&gt;
+==Danach muss eine neue Datenbank erstellt werden.==
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten typo3
+psql -d typo3 -c "CREATE EXTENSION postgis;"
+psql -d typo3 -c "CREATE EXTENSION hstore;"
+psql -d typo3 -c "CREATE EXTENSION pg_trgm;"
+psql -d typo3 -c "ALTER TABLE geometry_columns OWNER TO thorsten;"
+psql -d typo3 -c "ALTER TABLE spatial_ref_sys OWNER TO thorsten;"
+psql -d typo3 -c "GRANT ALL PRIVILEGES ON DATABASE typo3 TO thorsten;"
+&lt;pre&gt;</text>
+      <sha1>ci8fj8frfdc9j9svk311ubqlckedsjq</sha1>
+    </revision>
+    <revision>
+      <id>82</id>
+      <parentid>81</parentid>
+      <timestamp>2025-06-09T19:48:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>82</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="691" sha1="ipowxhum52wl0dwly6rqadpqlortjfj" xml:space="preserve">
+Unter Ubuntu, meinem bevorzugten Betriebssystem, starte ich meine Arbeit stets im Terminal. Zunächst bereinige ich alle alten PostgreSQL-Datenbanken. Hier die notwendigen Befehle:
+&lt;pre&gt;
+sudo -u postgres -i
+psql
+GRANT ALL PRIVILEGES ON DATABASE typo3 TO postgres;
+drop database typo3;
+\q
+exit
+&lt;/pre&gt;
+==Typo3-Installation mit Composer==
+
+Um Typo3 mittels Composer zu installieren, gehe ich wie folgt vor:
+&lt;pre&gt;
+cd /var/www
+sudo composer create-project "typo3/cms-base-distribution:^13.4" typo3
+&lt;/pre&gt;
+==Danach muss eine neue Datenbank erstellt werden.==
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten typo3
+psql -d typo3 -c "GRANT ALL PRIVILEGES ON DATABASE typo3 TO thorsten;"
+&lt;pre&gt;</text>
+      <sha1>ipowxhum52wl0dwly6rqadpqlortjfj</sha1>
+    </revision>
+    <revision>
+      <id>83</id>
+      <parentid>82</parentid>
+      <timestamp>2025-06-09T19:50:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Danach muss eine neue Datenbank erstellt werden. */</comment>
+      <origin>83</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="696" sha1="b94as2sx3n1p5nfyp974t0dasrbllox" xml:space="preserve">
+Unter Ubuntu, meinem bevorzugten Betriebssystem, starte ich meine Arbeit stets im Terminal. Zunächst bereinige ich alle alten PostgreSQL-Datenbanken. Hier die notwendigen Befehle:
+&lt;pre&gt;
+sudo -u postgres -i
+psql
+GRANT ALL PRIVILEGES ON DATABASE typo3 TO postgres;
+drop database typo3;
+\q
+exit
+&lt;/pre&gt;
+==Typo3-Installation mit Composer==
+
+Um Typo3 mittels Composer zu installieren, gehe ich wie folgt vor:
+&lt;pre&gt;
+cd /var/www
+sudo composer create-project "typo3/cms-base-distribution:^13.4" typo3
+&lt;/pre&gt;
+==Danach muss eine neue Datenbank erstellt werden.==
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten typo3
+psql -d typo3 -c "GRANT ALL PRIVILEGES ON DATABASE typo3 TO thorsten;"
+exit
+&lt;pre&gt;</text>
+      <sha1>b94as2sx3n1p5nfyp974t0dasrbllox</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Typo3/Nginx Konfiguration</title>
+    <ns>0</ns>
+    <id>24</id>
+    <revision>
+      <id>86</id>
+      <timestamp>2025-06-09T20:12:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Nginx Konfiguration== &lt;pre&gt; sudo certbot certonly --standalone -d typo3.ahrensburg.city sudo nano /etc/nginx/conf.d/typo3.conf &lt;/pre&gt;  &lt;pre&gt; server {     listen  443 ssl http2;     listen [::]:443 ssl http2;     server_name typo3.ahrensburg.city;      # SSL certificates     ssl_certificate /etc/letsencrypt/live/typo3.ahrensburg.city/fullchain.pem;     ssl_certificate_key /etc/letsencrypt/live/typo3.ahrensburg.city/privkey.pem;        root /var/www/typo3…“</comment>
+      <origin>86</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3081" sha1="4tq10beo2lfsfug513hd0oh1nxhgunv" xml:space="preserve">==Nginx Konfiguration==
+&lt;pre&gt;
+sudo certbot certonly --standalone -d typo3.ahrensburg.city
+sudo nano /etc/nginx/conf.d/typo3.conf
+&lt;/pre&gt;
+
+&lt;pre&gt;
+server {
+    listen  443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name typo3.ahrensburg.city;
+     # SSL certificates
+    ssl_certificate /etc/letsencrypt/live/typo3.ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/typo3.ahrensburg.city/privkey.pem;
+  
+    root /var/www/typo3/public;
+    index index.php;
+
+    # TYPO3 specific rewrite rules
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    # Pass PHP scripts to PHP-FPM
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/run/php/php-fpm.sock; # Adjust if your PHP-FPM socket is different (e.g., php8.3-fpm.sock)
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        fastcgi_read_timeout 300; # Increase if you experience timeouts during TYPO3 installation/operations
+    }
+
+# Special root site case. prevent "try_files $uri/" + "index" from skipping the cache
+# by accessing /index.php directly
+location =/ {
+    recursive_error_pages on;
+    error_page 405 = @sfc;
+    return 405;
+}
+
+location @t3frontend {
+    # Using try_files for ease of configuration demonstration here,
+    # you can also fastcgi_pass directly to php here
+    try_files $uri /index.php$is_args$args;
+}
+
+location @sfc {
+    # Perform an internal redirect to TYPO3 if any of the required
+    # conditions for StaticFileCache don't match
+    error_page 405 = @t3frontend;
+
+    # Query String needs to be empty
+    if ($args != '') {
+        return 405;
+    }
+
+    # We can't serve static files for logged-in BE/FE users
+    if ($cookie_staticfilecache = 'typo_user_logged_in') {
+        return 405;
+    }
+
+    if ($cookie_be_typo_user != '') {
+        return 405;
+    }
+
+    # Ensure we redirect to TYPO3 for non GET/HEAD requests
+    if ($request_method !~ ^(GET|HEAD)$ ) {
+        return 405;
+    }
+
+    # Disable cache for EXT:solr indexing requests
+    if ($http_x_tx_solr_iq) {
+        return 405;
+    }
+
+    charset utf-8;
+    default_type text/html;
+    try_files /typo3temp/assets/tx_staticfilecache/${scheme}_${host}_${server_port}${uri}/index
+          /typo3temp/assets/tx_staticfilecache/${scheme}_${host}_${server_port}${uri}
+          =405;
+}
+
+location /typo3temp/assets/tx_staticfilecache {
+    deny all;
+}
+
+    # Optional: Enable Gzip compression
+    gzip on;
+    gzip_vary on;
+    gzip_proxied any;
+    gzip_comp_level 6;
+    gzip_buffers 16 8k;
+    gzip_http_version 1.1;
+    gzip_types text/plain text/css application/json application/javascript text/xml application/xml application/xml+rss text/javascript;
+
+    # Optional: Add security headers
+    add_header X-Frame-Options "SAMEORIGIN";
+    add_header X-Content-Type-Options "nosniff";
+    add_header X-XSS-Protection "1; mode=block";
+    add_header Referrer-Policy "no-referrer-when-downgrade";
+    add_header Strict-Transport-Security "max-age=31536000; includeSubDomains; preload" always;
+}
+&lt;/pre&gt;</text>
+      <sha1>4tq10beo2lfsfug513hd0oh1nxhgunv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Typo3/Konfiguration</title>
+    <ns>0</ns>
+    <id>25</id>
+    <revision>
+      <id>90</id>
+      <timestamp>2025-06-09T22:19:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Typo3 Konfiguration  Für die Installation gehen wir wie folgt vor: Zuerst besuchen wir &lt;nowiki&gt;https://typo3.ahrensburg.city&lt;/nowiki&gt;. Im nächsten Schritt wird eine Dateierstellung erforderlich. Dazu sind folgende Befehle im Terminal einzugeben:  cd /var/www/typo3/public  touch FIRST_INSTALL  sudo chmod 777 FIRST_INSTALL  Anschließend muss die Datei `/etc/php/8.3/fpm/php.ini` modifiziert werden. Dies geschieht mit dem Befehl:  sudo nano /etc/php/8.3/fp…“</comment>
+      <origin>90</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="839" sha1="6019tleqicwmnvfvvzft9yuvrhp5pro" xml:space="preserve">Typo3 Konfiguration
+
+Für die Installation gehen wir wie folgt vor: Zuerst besuchen wir &lt;nowiki&gt;https://typo3.ahrensburg.city&lt;/nowiki&gt;. Im nächsten Schritt wird eine Dateierstellung erforderlich. Dazu sind folgende Befehle im Terminal einzugeben:
+
+cd /var/www/typo3/public
+
+touch FIRST_INSTALL
+
+sudo chmod 777 FIRST_INSTALL
+
+Anschließend muss die Datei `/etc/php/8.3/fpm/php.ini` modifiziert werden. Dies geschieht mit dem Befehl:
+
+sudo nano /etc/php/8.3/fpm/php.ini
+
+Suchen Sie in dieser Datei nach dem Wert `max_execution_time` mit Strg + W. Ändern Sie den Wert zu:
+
+max_execution_time = 240
+
+Die Änderung wird mit F3 gespeichert. Danach ist ein Neustart erforderlich. Führen Sie dazu folgenden Befehl aus:
+
+sudo systemctl restart php8.3-fpm
+
+Abschließend starten wir Typo3 neu über &lt;nowiki&gt;https://typo3.ahrensburg.city&lt;/nowiki&gt;.</text>
+      <sha1>6019tleqicwmnvfvvzft9yuvrhp5pro</sha1>
+    </revision>
+    <revision>
+      <id>91</id>
+      <parentid>90</parentid>
+      <timestamp>2025-06-09T22:19:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>91</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="848" sha1="895r3w6b98h0yms3vumstq5s36tigu4" xml:space="preserve">Typo3 Konfiguration
+
+Für die Installation gehen wir wie folgt vor: Zuerst besuchen wir &lt;nowiki&gt;https://typo3.ahrensburg.city&lt;/nowiki&gt;. Im nächsten Schritt wird eine Dateierstellung erforderlich. Dazu sind folgende Befehle im Terminal einzugeben:
+&lt;pre&gt;
+cd /var/www/typo3/public
+touch FIRST_INSTALL
+sudo chmod 777 FIRST_INSTALL
+&lt;pre&gt;
+
+Anschließend muss die Datei `/etc/php/8.3/fpm/php.ini` modifiziert werden. Dies geschieht mit dem Befehl:
+
+sudo nano /etc/php/8.3/fpm/php.ini
+
+Suchen Sie in dieser Datei nach dem Wert `max_execution_time` mit Strg + W. Ändern Sie den Wert zu:
+
+max_execution_time = 240
+
+Die Änderung wird mit F3 gespeichert. Danach ist ein Neustart erforderlich. Führen Sie dazu folgenden Befehl aus:
+
+sudo systemctl restart php8.3-fpm
+
+Abschließend starten wir Typo3 neu über &lt;nowiki&gt;https://typo3.ahrensburg.city&lt;/nowiki&gt;.</text>
+      <sha1>895r3w6b98h0yms3vumstq5s36tigu4</sha1>
+    </revision>
+    <revision>
+      <id>92</id>
+      <parentid>91</parentid>
+      <timestamp>2025-06-09T22:20:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>92</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="860" sha1="35c12jntbwz90yu4ofgh3xnd2cagsf4" xml:space="preserve">Typo3 Konfiguration
+
+Für die Installation gehen wir wie folgt vor: Zuerst besuchen wir &lt;nowiki&gt;https://typo3.ahrensburg.city&lt;/nowiki&gt;. Im nächsten Schritt wird eine Dateierstellung erforderlich. Dazu sind folgende Befehle im Terminal einzugeben:
+&lt;pre&gt;
+cd /var/www/typo3/public
+touch FIRST_INSTALL
+sudo chmod 777 FIRST_INSTALL
+&lt;pre&gt;
+
+Anschließend muss die Datei `/etc/php/8.3/fpm/php.ini` modifiziert werden. Dies geschieht mit dem Befehl:
+&lt;pre&gt;
+sudo nano /etc/php/8.3/fpm/php.ini
+&lt;/pre&gt;
+
+Suchen Sie in dieser Datei nach dem Wert `max_execution_time` mit Strg + W. Ändern Sie den Wert zu:
+
+max_execution_time = 240
+
+Die Änderung wird mit F3 gespeichert. Danach ist ein Neustart erforderlich. Führen Sie dazu folgenden Befehl aus:
+
+sudo systemctl restart php8.3-fpm
+
+Abschließend starten wir Typo3 neu über &lt;nowiki&gt;https://typo3.ahrensburg.city&lt;/nowiki&gt;.</text>
+      <sha1>35c12jntbwz90yu4ofgh3xnd2cagsf4</sha1>
+    </revision>
+    <revision>
+      <id>93</id>
+      <parentid>92</parentid>
+      <timestamp>2025-06-09T22:21:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>93</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="860" sha1="iif3s11nux0uvkbzjmy6ehbpo3xl2lv" xml:space="preserve">Typo3 Konfiguration
+
+Für die Installation gehen wir wie folgt vor: Zuerst besuchen wir &lt;nowiki&gt;https://typo3.ahrensburg.city&lt;/nowiki&gt;. Im nächsten Schritt wird eine Dateierstellung erforderlich. Dazu sind folgende Befehle im Terminal einzugeben:
+&lt;pre&gt;
+cd /var/www/typo3/public
+touch FIRST_INSTALL
+sudo chmod 777 FIRST_INSTALL
+&lt;/pre&gt;
+
+Anschließend muss die Datei `/etc/php/8.3/fpm/php.ini` modifiziert werden. Dies geschieht mit dem Befehl:
+pre&gt;
+sudo nano /etc/php/8.3/fpm/php.ini
+&lt;/pre&gt;
+
+Suchen Sie in dieser Datei nach dem Wert `max_execution_time` mit Strg + W. Ändern Sie den Wert zu:
+
+max_execution_time = 240
+
+Die Änderung wird mit F3 gespeichert. Danach ist ein Neustart erforderlich. Führen Sie dazu folgenden Befehl aus:
+
+sudo systemctl restart php8.3-fpm
+
+Abschließend starten wir Typo3 neu über &lt;nowiki&gt;https://typo3.ahrensburg.city&lt;/nowiki&gt;.</text>
+      <sha1>iif3s11nux0uvkbzjmy6ehbpo3xl2lv</sha1>
+    </revision>
+    <revision>
+      <id>94</id>
+      <parentid>93</parentid>
+      <timestamp>2025-06-09T22:22:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>94</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="861" sha1="agjsvs4f6v6forruzrbdblwzbm4z1a3" xml:space="preserve">Typo3 Konfiguration
+
+Für die Installation gehen wir wie folgt vor: Zuerst besuchen wir &lt;nowiki&gt;https://typo3.ahrensburg.city&lt;/nowiki&gt;. Im nächsten Schritt wird eine Dateierstellung erforderlich. Dazu sind folgende Befehle im Terminal einzugeben:
+&lt;pre&gt;
+cd /var/www/typo3/public
+touch FIRST_INSTALL
+sudo chmod 777 FIRST_INSTALL
+&lt;/pre&gt;
+
+Anschließend muss die Datei `/etc/php/8.3/fpm/php.ini` modifiziert werden. Dies geschieht mit dem Befehl:
+&lt;pre&gt;
+sudo nano /etc/php/8.3/fpm/php.ini
+&lt;/pre&gt;
+
+Suchen Sie in dieser Datei nach dem Wert `max_execution_time` mit Strg + W. Ändern Sie den Wert zu:
+
+max_execution_time = 240
+
+Die Änderung wird mit F3 gespeichert. Danach ist ein Neustart erforderlich. Führen Sie dazu folgenden Befehl aus:
+
+sudo systemctl restart php8.3-fpm
+
+Abschließend starten wir Typo3 neu über &lt;nowiki&gt;https://typo3.ahrensburg.city&lt;/nowiki&gt;.</text>
+      <sha1>agjsvs4f6v6forruzrbdblwzbm4z1a3</sha1>
+    </revision>
+    <revision>
+      <id>95</id>
+      <parentid>94</parentid>
+      <timestamp>2025-06-09T22:23:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>95</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="874" sha1="2y3fys6lad5n1upkvm96jv5efkxe50h" xml:space="preserve">Typo3 Konfiguration
+
+Für die Installation gehen wir wie folgt vor: Zuerst besuchen wir &lt;nowiki&gt;https://typo3.ahrensburg.city&lt;/nowiki&gt;. Im nächsten Schritt wird eine Dateierstellung erforderlich. Dazu sind folgende Befehle im Terminal einzugeben:
+&lt;pre&gt;
+cd /var/www/typo3/public
+touch FIRST_INSTALL
+sudo chmod 777 FIRST_INSTALL
+&lt;/pre&gt;
+
+Anschließend muss die Datei `/etc/php/8.3/fpm/php.ini` modifiziert werden. Dies geschieht mit dem Befehl:
+&lt;pre&gt;
+sudo nano /etc/php/8.3/fpm/php.ini
+&lt;/pre&gt;
+
+Suchen Sie in dieser Datei nach dem Wert `max_execution_time` mit Strg + W. Ändern Sie den Wert zu:
+
+max_execution_time = 240
+
+Die Änderung wird mit F3 gespeichert. Danach ist ein Neustart erforderlich. Führen Sie dazu folgenden Befehl aus:
+&lt;pre&gt;
+
+sudo systemctl restart php8.3-fpm
+&lt;/pre&gt;
+
+Abschließend starten wir Typo3 neu über &lt;nowiki&gt;https://typo3.ahrensburg.city&lt;/nowiki&gt;.</text>
+      <sha1>2y3fys6lad5n1upkvm96jv5efkxe50h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Typo3/Deutsche Benutzeroberfläche einrichten</title>
+    <ns>0</ns>
+    <id>26</id>
+    <revision>
+      <id>97</id>
+      <timestamp>2025-06-10T00:56:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ Anleitung zur Installation des deutschen Sprachpakets:  # Öffne das linke Menü, gehe zu "Admin Tools" und wähle "Maintenance". # Auf der sich öffnenden Seite klicke rechts auf "Manage Language Packs" und dann im Popup-Fenster auf "Add languages". # Suche in der Liste den Eintrag "German" und wähle ihn aus. # Der Download des Sprachpakets startet und der Fortschritt wird angezeigt. # Klicke oben rechts auf deinen Benutzernamen. Ein neues Fenster öff…“</comment>
+      <origin>97</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="704" sha1="75azbhhrv5yzchr5dtgwiplj2vyqwft" xml:space="preserve">
+Anleitung zur Installation des deutschen Sprachpakets:
+
+# Öffne das linke Menü, gehe zu "Admin Tools" und wähle "Maintenance".
+# Auf der sich öffnenden Seite klicke rechts auf "Manage Language Packs" und dann im Popup-Fenster auf "Add languages".
+# Suche in der Liste den Eintrag "German" und wähle ihn aus.
+# Der Download des Sprachpakets startet und der Fortschritt wird angezeigt.
+# Klicke oben rechts auf deinen Benutzernamen. Ein neues Fenster öffnet sich.
+# Wähle in diesem Fenster "User Settings", um ein weiteres Fenster zu öffnen.
+# Im neuen Fenster klicke auf "Language".
+# Scrolle in der Liste zu "German" und klicke anschließend oben auf "Save", um die Sprachänderung zu speichern.</text>
+      <sha1>75azbhhrv5yzchr5dtgwiplj2vyqwft</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Typo3/Bootstrap-Paket Installieren</title>
+    <ns>0</ns>
+    <id>27</id>
+    <revision>
+      <id>99</id>
+      <timestamp>2025-06-10T04:01:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ Installation des Bootstrap-Packages in TYPO3  # '''Terminal öffnen.''' # '''Zum TYPO3-Verzeichnis navigieren''': Verwenden Sie den Befehl `cd /var/www/typo3`. # '''Bootstrap-Package installieren''': Führen Sie `composer require bk2k/bootstrap-package` aus.  Backend-Wartung  # '''Backend-Seite starten.''' # '''Datenbankstruktur analysieren''': Gehen Sie zur Wartung und wählen Sie "Analyze Database Structure". # '''Datenbank aktualisieren.'''“</comment>
+      <origin>99</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="448" sha1="cx0lqqnwmbk5o4vbojhv0monww9sjj4" xml:space="preserve">
+Installation des Bootstrap-Packages in TYPO3
+
+# '''Terminal öffnen.'''
+# '''Zum TYPO3-Verzeichnis navigieren''': Verwenden Sie den Befehl `cd /var/www/typo3`.
+# '''Bootstrap-Package installieren''': Führen Sie `composer require bk2k/bootstrap-package` aus.
+
+Backend-Wartung
+
+# '''Backend-Seite starten.'''
+# '''Datenbankstruktur analysieren''': Gehen Sie zur Wartung und wählen Sie "Analyze Database Structure".
+# '''Datenbank aktualisieren.'''</text>
+      <sha1>cx0lqqnwmbk5o4vbojhv0monww9sjj4</sha1>
     </revision>
   </page>
 </mediawiki>
