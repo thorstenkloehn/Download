@@ -24,7 +24,8 @@
       <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
       <namespace key="14" case="first-letter">Kategorie</namespace>
       <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
-      <namespace key="3000" case="first-letter">Server</namespace>
+      <namespace key="1000" case="first-letter">Server</namespace>
+      <namespace key="3001" case="first-letter">Server</namespace>
     </namespaces>
   </siteinfo>
   <page>
@@ -843,7 +844,7 @@ Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert
     </revision>
   </page>
   <page>
-    <title>Server:Hauptseite</title>
+    <title>Hauptseite</title>
     <ns>3000</ns>
     <id>2</id>
     <revision>
@@ -1974,9 +1975,87 @@ Das Wiki-Prinzip ermöglicht es mehreren Benutzern, Inhalte gemeinschaftlich und
 * [[Server:Drupal Themen Vorschlag]]</text>
       <sha1>3fah6defxfjm6unyrup6xz8n5zksi6p</sha1>
     </revision>
+    <revision>
+      <id>135</id>
+      <parentid>129</parentid>
+      <timestamp>2025-06-19T21:18:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>135</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="530" sha1="0dpc0vfvg54nn4d78vky6gmnngjaqvj" xml:space="preserve">* [[Server:Mieten]]
+* [[Server:Backup]]
+* [[Server:Ubuntu Software Pakete Installieren]]
+* [[Server:KachelServer]]
+* [[Server:Apache Port ändern]]
+* [[Server:SSL]]
+* [[Server:Nginx Einstellung]]
+* [[Server:Inhaltsverwaltung und Datenverwaltungssoftware für Websites]]
+* [[Server:Office Paket mit KI]]
+* [[Server:Mehr Informationen zu Sprachmodellen und Deep Research im Internet]]
+* [[Server:Visual Studio Code mit KI]]
+* [[Server:Vergleich: Drupal und Mediawiki nutzen]]
+* [[Server:Drupal]]
+* [[Server:Drupal Themen Vorschlag]]</text>
+      <sha1>0dpc0vfvg54nn4d78vky6gmnngjaqvj</sha1>
+    </revision>
+    <revision>
+      <id>150</id>
+      <parentid>135</parentid>
+      <timestamp>2025-06-20T06:44:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>150</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="421" sha1="3zexuullu7osrvnt5tzwogt676ex36t" xml:space="preserve">* [[Server:Mieten]]
+* [[Server:Backup]]
+* [[Server:Ubuntu Software Pakete Installieren]]
+* [[Server:KachelServer]]
+* [[Server:Apache Port ändern]]
+* [[Server:SSL]]
+* [[Server:Nginx Einstellung]]
+* [[Server:Inhaltsverwaltung und Datenverwaltungssoftware für Websites]]
+* [[Server:Office Paket mit KI]]
+* [[Server:Mehr Informationen zu Sprachmodellen und Deep Research im Internet]]
+* [[Server:Visual Studio Code mit KI]]</text>
+      <sha1>3zexuullu7osrvnt5tzwogt676ex36t</sha1>
+    </revision>
+    <revision>
+      <id>156</id>
+      <parentid>150</parentid>
+      <timestamp>2025-06-20T07:26:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>156</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="530" sha1="0dpc0vfvg54nn4d78vky6gmnngjaqvj" xml:space="preserve">* [[Server:Mieten]]
+* [[Server:Backup]]
+* [[Server:Ubuntu Software Pakete Installieren]]
+* [[Server:KachelServer]]
+* [[Server:Apache Port ändern]]
+* [[Server:SSL]]
+* [[Server:Nginx Einstellung]]
+* [[Server:Inhaltsverwaltung und Datenverwaltungssoftware für Websites]]
+* [[Server:Office Paket mit KI]]
+* [[Server:Mehr Informationen zu Sprachmodellen und Deep Research im Internet]]
+* [[Server:Visual Studio Code mit KI]]
+* [[Server:Vergleich: Drupal und Mediawiki nutzen]]
+* [[Server:Drupal]]
+* [[Server:Drupal Themen Vorschlag]]</text>
+      <sha1>0dpc0vfvg54nn4d78vky6gmnngjaqvj</sha1>
+    </revision>
   </page>
   <page>
-    <title>Server:Mieten</title>
+    <title>Mieten</title>
     <ns>3000</ns>
     <id>3</id>
     <revision>
@@ -2203,7 +2282,7 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
     </revision>
   </page>
   <page>
-    <title>Server:KachelServer</title>
+    <title>KachelServer</title>
     <ns>3000</ns>
     <id>4</id>
     <revision>
@@ -2814,7 +2893,7 @@ ssh thorsten@localhost
     </revision>
   </page>
   <page>
-    <title>Server:Software Installation</title>
+    <title>Software Installation</title>
     <ns>3000</ns>
     <id>5</id>
     <revision>
@@ -2840,7 +2919,7 @@ Der Befehl &lt;code&gt;sudo apt update&lt;/code&gt; wird verwendet, um die Paket
     </revision>
   </page>
   <page>
-    <title>Server:Ubuntu Software Pakete Installieren</title>
+    <title>Ubuntu Software Pakete Installieren</title>
     <ns>3000</ns>
     <id>6</id>
     <revision>
@@ -3302,7 +3381,7 @@ sudo mv composer.phar /usr/local/bin/composer
     </revision>
   </page>
   <page>
-    <title>Server:Apache Port ändern</title>
+    <title>Apache Port ändern</title>
     <ns>3000</ns>
     <id>7</id>
     <revision>
@@ -3370,6 +3449,23 @@ Apache restarten
       <text bytes="53" sha1="lbc101g0haoq65yxhzub4lym0pj17xk" xml:space="preserve">* [[Geschichte der Stadt Ahrensburg]]
 * [[Geografie]]</text>
       <sha1>lbc101g0haoq65yxhzub4lym0pj17xk</sha1>
+    </revision>
+    <revision>
+      <id>132</id>
+      <parentid>50</parentid>
+      <timestamp>2025-06-19T19:14:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>132</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="264" sha1="8sa5w99m3cbamqbhue0jmf9nma5oeat" xml:space="preserve">'''Ahrensburg''' ist eine Stadt im Kreis Stormarn in Schleswig-Holstein, Deutschland. Sie liegt nordöstlich von Hamburg und ist bekannt für ihr Schloss sowie ihre gute Anbindung an die Metropolregion Hamburg.
+* [[Geschichte der Stadt Ahrensburg]]
+* [[Geografie]]</text>
+      <sha1>8sa5w99m3cbamqbhue0jmf9nma5oeat</sha1>
     </revision>
   </page>
   <page>
@@ -3720,6 +3816,41 @@ Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
 * Regelmäßige Feste &amp; Veranstaltungen</text>
       <sha1>ispwg2p65e41owcxnpfann6m3qz8uag</sha1>
     </revision>
+    <revision>
+      <id>133</id>
+      <parentid>93</parentid>
+      <timestamp>2025-06-19T19:21:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>133</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="382" sha1="8h3a5nb8mci1ou1p62aywtrjnn1cmi3" xml:space="preserve">Ahrensburg bietet eine Vielzahl an Sehenswürdigkeiten und kulturellen Angeboten. Besonders bekannt ist das Ahrensburger Schloss, das als Wahrzeichen der Stadt gilt. Darüber hinaus laden Museen, Theater und regelmäßige Veranstaltungen dazu ein, die kulturelle Vielfalt der Stadt zu entdecken.2
+* [[Sehenswürdigkeiten]]
+* Musik und Theater
+* Regelmäßige Feste &amp; Veranstaltungen</text>
+      <sha1>8h3a5nb8mci1ou1p62aywtrjnn1cmi3</sha1>
+    </revision>
+    <revision>
+      <id>155</id>
+      <parentid>133</parentid>
+      <timestamp>2025-06-20T07:20:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>155</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="386" sha1="2hb4vdlf0mrh05ix4wy05exlo2ozqme" xml:space="preserve">Ahrensburg bietet eine Vielzahl an Sehenswürdigkeiten und kulturellen Angeboten. Besonders bekannt ist das Ahrensburger Schloss, das als Wahrzeichen der Stadt gilt. Darüber hinaus laden Museen, Theater und regelmäßige Veranstaltungen dazu ein, die kulturelle Vielfalt der Stadt zu entdecken.2
+* [[Sehenswürdigkeiten]]
+* [[Musik und Theater]]
+* Regelmäßige Feste &amp; Veranstaltungen</text>
+      <sha1>2hb4vdlf0mrh05ix4wy05exlo2ozqme</sha1>
+    </revision>
   </page>
   <page>
     <title>Alltag &amp; Leben in Ahrensburg</title>
@@ -3745,6 +3876,50 @@ Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
 * Seniorentreff</text>
       <sha1>9sp6str1mkrrg9a1jz5lqkwquo1fjx6</sha1>
     </revision>
+    <revision>
+      <id>151</id>
+      <parentid>55</parentid>
+      <timestamp>2025-06-20T07:14:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>151</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="207" sha1="fpbp7wt6slqnhqljwb6ul1nc0mcw7ax" xml:space="preserve">* Die Stadtteile im Porträt
+* Vereinsleben
+* Wochenmarkt
+* Gastronomie-Führer
+* Einkaufen in Ahrensburg
+* Kirchen und religiöse Gemeinschaften.
+* Seniorentreff
+* Gesundheit:
+Unterseite: Familie &amp; Bildung:</text>
+      <sha1>fpbp7wt6slqnhqljwb6ul1nc0mcw7ax</sha1>
+    </revision>
+    <revision>
+      <id>152</id>
+      <parentid>151</parentid>
+      <timestamp>2025-06-20T07:14:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>152</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="197" sha1="i6l90nq224sid6fwdn4vucj2xu9q4kq" xml:space="preserve">* Die Stadtteile im Porträt
+* Vereinsleben
+* Wochenmarkt
+* Gastronomie-Führer
+* Einkaufen in Ahrensburg
+* Kirchen und religiöse Gemeinschaften.
+* Seniorentreff
+* Gesundheit:
+* Familie &amp; Bildung:</text>
+      <sha1>i6l90nq224sid6fwdn4vucj2xu9q4kq</sha1>
+    </revision>
   </page>
   <page>
     <title>Natur &amp; Freizeit</title>
@@ -3766,6 +3941,25 @@ Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
 * Spielplätze
 * Sportstätten</text>
       <sha1>6fnkoug9bdrqqy4v58cvksilj7io0ic</sha1>
+    </revision>
+    <revision>
+      <id>153</id>
+      <parentid>57</parentid>
+      <timestamp>2025-06-20T07:15:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>153</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="100" sha1="d5ak6o9sbvdif0swy6pxpn3b4l6bg23" xml:space="preserve">* Naherholungsgebiete
+* Wander- und Radwege
+* Spielplätze
+* Sportstätten
+* Vereine
+* Ausflugsziele</text>
+      <sha1>d5ak6o9sbvdif0swy6pxpn3b4l6bg23</sha1>
     </revision>
   </page>
   <page>
@@ -3832,7 +4026,7 @@ Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
     </revision>
   </page>
   <page>
-    <title>Server:Drupal Themen Vorschlag</title>
+    <title>Drupal Themen Vorschlag</title>
     <ns>3000</ns>
     <id>16</id>
     <revision>
@@ -3938,6 +4132,46 @@ Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
 ** '''&lt;code&gt;Admin Toolbar&lt;/code&gt;''': Verbessert das Admin-Menü für eine schnellere Verwaltung.
 ** '''&lt;code&gt;Simple XML Sitemap&lt;/code&gt;''': Erstellt eine Sitemap für Suchmaschinen.</text>
       <sha1>g53ujnj0jyd5lvm9oyi0fqsbb06o6hh</sha1>
+    </revision>
+    <revision>
+      <id>158</id>
+      <parentid>68</parentid>
+      <timestamp>2025-06-20T09:40:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>158</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2372" sha1="no5lgulb5rqkxya9rb8nc7rt23jwjm3" xml:space="preserve">* '''Aktuelles'''
+** ''Unterseite: Nachrichten:'' Eine View, die alle Inhalte vom Typ &lt;code&gt;Artikel&lt;/code&gt; chronologisch anzeigt. Filterbar nach &lt;code&gt;Themen-Kategorien&lt;/code&gt;.
+** ''Unterseite: [[Server:Drupal/Veranstaltungskalender]]:'' Eine View, die alle Inhalte vom Typ &lt;code&gt;Veranstaltung&lt;/code&gt; als Kalender oder Liste anzeigt. Filterbar nach Datum und &lt;code&gt;Veranstaltungsart&lt;/code&gt;.
+* '''Leben &amp; Alltag'''
+** ''Unterseite: Gastronomie:'' Eine View, die alle &lt;code&gt;Orte&lt;/code&gt; der Kategorie "Gastronomie" anzeigt.
+** ''Unterseite: Einkaufen:'' Eine View, die alle &lt;code&gt;Orte&lt;/code&gt; der Kategorie "Einzelhandel" anzeigt.
+** ''Unterseite: Gesundheit:'' Zeigt &lt;code&gt;Orte&lt;/code&gt; der Kategorie "Gesundheit" (Ärzte, Apotheken).
+** ''Unterseite: Familie &amp; Bildung:'' Zeigt &lt;code&gt;Orte&lt;/code&gt; der Kategorien "Schule", "Kita" etc. und Artikel der Kategorie "Familie &amp; Soziales".
+* '''Freizeit &amp; Kultur'''
+** ''Unterseite: Vereine:'' Zeigt &lt;code&gt;Orte&lt;/code&gt; der Kategorie "Verein" und Artikel der Kategorie "Sport &amp; Vereine".
+** ''Unterseite: Sehenswürdigkeiten:'' Zeigt &lt;code&gt;Orte&lt;/code&gt; der Kategorie "Sehenswürdigkeit".
+** ''Unterseite: Ausflugsziele:'' Zeigt Artikel und Orte mit dem Tag "Ausflugsziel".
+* '''Branchenbuch'''
+** Eine leistungsstarke View-Seite, die alle &lt;code&gt;Orte&lt;/code&gt; anzeigt. Mit einer exponierten Filterleiste (Suche nach Name, Filter nach &lt;code&gt;Branchen / Orte-Art&lt;/code&gt;) und idealerweise einer Kartenansicht (z.B. mit dem Leaflet-Modul).
+* ÖPNV (Öffentlicher Personennahverkehr)
+* Stadtwerke &amp; Versorgung
+* Abfall &amp; Entsorgung:
+
+=== Wichtige Drupal-Module für dieses Projekt ===
+
+* '''Core-Module:''' Views, Taxonomy, Blocks, Menus, Media Library.
+* '''Zusatz-Module (Contrib):'''
+** '''&lt;code&gt;Pathauto&lt;/code&gt;''': Erstellt automatisch saubere URLs (z.B. &lt;code&gt;/aktuelles/mein-super-artikel&lt;/code&gt; statt &lt;code&gt;/node/123&lt;/code&gt;). Absolut essenziell für SEO.
+** '''&lt;code&gt;Geolocation Field&lt;/code&gt;''' &amp; '''&lt;code&gt;Leaflet&lt;/code&gt;''': Um die Adressen der &lt;code&gt;Orte&lt;/code&gt; auf einer interaktiven Karte darzustellen.
+** '''&lt;code&gt;Webform&lt;/code&gt;''': Für Kontaktformulare oder Formulare, mit denen Nutzer Veranstaltungen oder Orte vorschlagen können ("Event einreichen").
+** '''&lt;code&gt;Admin Toolbar&lt;/code&gt;''': Verbessert das Admin-Menü für eine schnellere Verwaltung.
+** '''&lt;code&gt;Simple XML Sitemap&lt;/code&gt;''': Erstellt eine Sitemap für Suchmaschinen.</text>
+      <sha1>no5lgulb5rqkxya9rb8nc7rt23jwjm3</sha1>
     </revision>
   </page>
   <page>
@@ -4088,7 +4322,7 @@ Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanz
     </revision>
   </page>
   <page>
-    <title>Server:Drupal</title>
+    <title>Drupal</title>
     <ns>3000</ns>
     <id>19</id>
     <revision>
@@ -4105,9 +4339,248 @@ Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanz
       <text bytes="30" sha1="dal7faxu9ujjhmzv1roh8vhkhmp7wre" xml:space="preserve">[[Server:Drupal/Installieren]]</text>
       <sha1>dal7faxu9ujjhmzv1roh8vhkhmp7wre</sha1>
     </revision>
+    <revision>
+      <id>136</id>
+      <parentid>72</parentid>
+      <timestamp>2025-06-19T21:57:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>136</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="68" sha1="neteyy7icy2ouem7s0r2s03murl8vky" xml:space="preserve">[[Server:Drupal/Installieren]]
+[[Server;Drupal/Nginx-Konfiguration]]</text>
+      <sha1>neteyy7icy2ouem7s0r2s03murl8vky</sha1>
+    </revision>
+    <revision>
+      <id>137</id>
+      <parentid>136</parentid>
+      <timestamp>2025-06-19T21:58:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>137</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="72" sha1="fsd3dhjaauh1c88je9qg6l567bptw1z" xml:space="preserve">* [[Server:Drupal/Installieren]]
+* [[Server;Drupal/Nginx-Konfiguration]]</text>
+      <sha1>fsd3dhjaauh1c88je9qg6l567bptw1z</sha1>
+    </revision>
+    <revision>
+      <id>139</id>
+      <parentid>137</parentid>
+      <timestamp>2025-06-19T22:05:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>139</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="115" sha1="pnevfox7t99240a3jd9pn9qtyftw0ze" xml:space="preserve">* [[Server:Drupal/Installieren]]
+* [[Server;Drupal/Nginx-Konfiguration]]
+* {{Server;Drupal/Berechtigungsproblemen]]</text>
+      <sha1>pnevfox7t99240a3jd9pn9qtyftw0ze</sha1>
+    </revision>
+    <revision>
+      <id>140</id>
+      <parentid>139</parentid>
+      <timestamp>2025-06-19T22:06:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>140</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="115" sha1="t0bp1z7h52ozbn7v7svxkmg97bbkxzb" xml:space="preserve">* [[Server:Drupal/Installieren]]
+* [[Server;Drupal/Nginx-Konfiguration]]
+* [[Server;Drupal/Berechtigungsproblemen]]</text>
+      <sha1>t0bp1z7h52ozbn7v7svxkmg97bbkxzb</sha1>
+    </revision>
+    <revision>
+      <id>142</id>
+      <parentid>140</parentid>
+      <timestamp>2025-06-19T22:29:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>142</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="141" sha1="0wdomdxk3v9j6moicf21dafqg2cyyq9" xml:space="preserve">* [[Server:Drupal/Installieren]]
+* [[Server;Drupal/Nginx-Konfiguration]]
+* [[Server;Drupal/Berechtigungsproblemen]]
+* [[Server:Drupal/Drush]]</text>
+      <sha1>0wdomdxk3v9j6moicf21dafqg2cyyq9</sha1>
+    </revision>
+    <revision>
+      <id>144</id>
+      <parentid>142</parentid>
+      <timestamp>2025-06-19T22:35:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>144</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="173" sha1="oulgz98vp3k96jnivhmzuhug43yrj2b" xml:space="preserve">* [[Server:Drupal/Installieren]]
+* [[Server;Drupal/Nginx-Konfiguration]]
+* [[Server;Drupal/Berechtigungsproblemen]]
+* [[Server:Drupal/Drush]]
+* [[Drupal/Paket Installieren]]</text>
+      <sha1>oulgz98vp3k96jnivhmzuhug43yrj2b</sha1>
+    </revision>
+    <revision>
+      <id>160</id>
+      <parentid>144</parentid>
+      <timestamp>2025-06-20T18:50:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>160</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="184" sha1="9f6jx312ljmwd3pjf5q1uf9nj04bm3i" xml:space="preserve">* [[Server:Drupal/Installieren]]
+* [[Server;Drupal/Nginx-Konfiguration]]
+* [[Server;Drupal/Berechtigungsproblemen]]
+* [[Server:Drupal/Drush]]
+* [[Server:DrupalPaket Installieren]]
+* [[</text>
+      <sha1>9f6jx312ljmwd3pjf5q1uf9nj04bm3i</sha1>
+    </revision>
+    <revision>
+      <id>162</id>
+      <parentid>160</parentid>
+      <timestamp>2025-06-20T18:55:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>162</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="184" sha1="7a1jgb62smuupfb9u43c443v7ikgvub" xml:space="preserve">* [[Server:Drupal/Installieren]]
+* [[Server:Drupal/Nginx-Konfiguration]]
+* [[Server:Drupal/Berechtigungsproblemen]]
+* [[Server:Drupal/Drush]]
+* [[Server:DrupalPaket Installieren]]
+* [[</text>
+      <sha1>7a1jgb62smuupfb9u43c443v7ikgvub</sha1>
+    </revision>
+    <revision>
+      <id>165</id>
+      <parentid>162</parentid>
+      <timestamp>2025-06-20T19:02:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>165</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="217" sha1="3r5vqfa083z7ev0pg4ch8wy46o0i1r2" xml:space="preserve">* [[Server:Drupal/Installieren]]
+* [[Server:Drupal/Nginx-Konfiguration]]
+* [[Server:Drupal/Berechtigungsproblemen]]
+* [[Server:Drupal/Drush]]
+* [[Server:DrupalPaket Installieren]]
+* [[Server:Drupal/Cookie-Richtlinie]]</text>
+      <sha1>3r5vqfa083z7ev0pg4ch8wy46o0i1r2</sha1>
+    </revision>
+    <revision>
+      <id>167</id>
+      <parentid>165</parentid>
+      <timestamp>2025-06-20T19:12:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>167</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="251" sha1="gf6q6qdtuo62cr5m95uoh5pqlt8svii" xml:space="preserve">* [[Server:Drupal/Installieren]]
+* [[Server:Drupal/Nginx-Konfiguration]]
+* [[Server:Drupal/Berechtigungsproblemen]]
+* [[Server:Drupal/Drush]]
+* [[Server:DrupalPaket Installieren]]
+* [[Server:Drupal/Cookie-Richtlinie]]
+* [[Server:Drupal/Inhalt Import]]</text>
+      <sha1>gf6q6qdtuo62cr5m95uoh5pqlt8svii</sha1>
+    </revision>
+    <revision>
+      <id>169</id>
+      <parentid>167</parentid>
+      <timestamp>2025-06-20T19:39:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>169</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="285" sha1="dm88ffxgen5ya9gghr5lahjl2x73nru" xml:space="preserve">* [[Server:Drupal/Installieren]]
+* [[Server:Drupal/Nginx-Konfiguration]]
+* [[Server:Drupal/Berechtigungsproblemen]]
+* [[Server:Drupal/Drush]]
+* [[Server:DrupalPaket Installieren]]
+* [[Server:Drupal/Cookie-Richtlinie]]
+* [[Server:Drupal/Inhalt Import]]
+* [[Server:Drupal/Inhalt Export]]</text>
+      <sha1>dm88ffxgen5ya9gghr5lahjl2x73nru</sha1>
+    </revision>
+    <revision>
+      <id>171</id>
+      <parentid>169</parentid>
+      <timestamp>2025-06-20T19:48:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>171</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="372" sha1="fxvh07l4q1ilaws7vi70yrsn5qjy9n9" xml:space="preserve">* [[Server:Drupal/Installieren]]
+* [[Server:Drupal/Nginx-Konfiguration]]
+* [[Server:Drupal/Berechtigungsproblemen]]
+* [[Server:Drupal/Drush]]
+* [[Server:DrupalPaket Installieren]]
+* [[Server:Drupal/Cookie-Richtlinie]]
+* [[Server:Drupal/Inhalt Import]]
+* [[Server:Drupal/Inhalt Export]]
+* [[Server:Drupal/vollständige statische HTML-Kopie einer Drupal-Website zu erstellen</text>
+      <sha1>fxvh07l4q1ilaws7vi70yrsn5qjy9n9</sha1>
+    </revision>
+    <revision>
+      <id>172</id>
+      <parentid>171</parentid>
+      <timestamp>2025-06-20T19:48:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>172</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="374" sha1="h7rj2i6h5u8ibzhtidj2se4h1h16i4g" xml:space="preserve">* [[Server:Drupal/Installieren]]
+* [[Server:Drupal/Nginx-Konfiguration]]
+* [[Server:Drupal/Berechtigungsproblemen]]
+* [[Server:Drupal/Drush]]
+* [[Server:DrupalPaket Installieren]]
+* [[Server:Drupal/Cookie-Richtlinie]]
+* [[Server:Drupal/Inhalt Import]]
+* [[Server:Drupal/Inhalt Export]]
+* [[Server:Drupal/vollständige statische HTML-Kopie einer Drupal-Website zu erstellen]]</text>
+      <sha1>h7rj2i6h5u8ibzhtidj2se4h1h16i4g</sha1>
+    </revision>
   </page>
   <page>
-    <title>Server:Drupal/Installieren</title>
+    <title>Drupal/Installieren</title>
     <ns>3000</ns>
     <id>20</id>
     <revision>
@@ -4202,7 +4675,7 @@ composer create-project drupal/recommended-project drupal</text>
     </revision>
   </page>
   <page>
-    <title>Server:Mediawiki/Freigabeprozess</title>
+    <title>Mediawiki/Freigabeprozess</title>
     <ns>3000</ns>
     <id>21</id>
     <revision>
@@ -4542,6 +5015,25 @@ Ahrensburg bietet zahlreiche Sehenswürdigkeiten:
 * '''[[Marstall Ahrensburg]]''': Ehemaliges Wirtschaftsgebäude des Schlosses, heute Veranstaltungsort.</text>
       <sha1>8o1rufi1aexpjb4eaga8lb7vwbe9v5u</sha1>
     </revision>
+    <revision>
+      <id>154</id>
+      <parentid>94</parentid>
+      <timestamp>2025-06-20T07:16:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>154</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="292" sha1="75fh1783pdu3a6csoux2j7u1oftqhmd" xml:space="preserve">== Sehenswürdigkeiten in Ahrensburg ==
+
+Ahrensburg bietet zahlreiche Sehenswürdigkeiten:
+
+* '''[[Schloss Ahrensburg]]''': Das weiße Renaissanceschloss ist das Wahrzeichen der Stadt und beherbergt ein Museum.
+* '''[[Schlosskirche Ahrensburg]]''': Historische Kirche aus dem 15. Jahrhundert.</text>
+      <sha1>75fh1783pdu3a6csoux2j7u1oftqhmd</sha1>
+    </revision>
   </page>
   <page>
     <title>Schloss Ahrensburg</title>
@@ -4681,7 +5173,7 @@ Der Verein Schloss Ahrensburg wurde gegründet und verwaltet das Schloss seitdem
     </revision>
   </page>
   <page>
-    <title>Server:Nginx Einstellung</title>
+    <title>Nginx Einstellung</title>
     <ns>3000</ns>
     <id>24</id>
     <revision>
@@ -4911,9 +5403,335 @@ sudo systemctl reload nginx
 * Weitere Informationen finden Sie in der offiziellen [https://nginx.org/de/docs/ Nginx-Dokumentation].</text>
       <sha1>hzhof6a9zhv4jxsp2fyj2ebwplyvj1q</sha1>
     </revision>
+    <revision>
+      <id>148</id>
+      <parentid>115</parentid>
+      <timestamp>2025-06-20T06:40:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>148</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2632" sha1="crmdcqyuspi6nfk9ib8mqj1vbrt0w0o" xml:space="preserve">==Erstellen Sie eine neue Konfigurationsdatei==
+Um eine neue Konfigurationsdatei für Nginx zu erstellen, öffnen Sie ein Terminal und geben Sie folgenden Befehl ein:
+&lt;pre&gt;
+ sudo nano /etc/nginx/conf.d/start.conf
+&lt;/pre&gt;
+Dies öffnet den Texteditor `nano` mit Root-Rechten und erstellt (oder bearbeitet) die Datei `start.conf` im Verzeichnis `/etc/nginx/conf.d/`. In dieser Datei können Sie Ihre gewünschten Nginx-Konfigurationen eintragen. Nach dem Bearbeiten speichern Sie die Datei mit `Strg + O`, bestätigen mit `Enter` und schließen den Editor mit `Strg + X`.
+
+Folgende Text eingeben in Datei
+
+&lt;pre&gt;
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name wiki.ahrensburg.city;
+    ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+     root /var/www/mediawiki;
+    index index.php index.html index.htm;
+    location /karte {
+    alias /var/www/karte;
+    autoindex on;
+}
+location /hot {
+    proxy_pass http://localhost:8080/;
+    proxy_set_header Host $host;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header X-Forwarded-Proto $scheme;
+}
+ location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\.ht {
+
+           deny all;
+    }
+
+}
+
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name alterwiki.ahrensburg.city;
+    ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+     root /var/www/alterwiki;
+    index index.php index.html index.htm;
+
+ location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\.ht {
+
+           deny all;
+    }
+
+}
+
+server {
+    listen 80;
+    listen [::]:80;
+    server_name ahrensburg.city www.ahrensburg.city;
+    return 301 https://$host$request_uri;
+}
+
+&lt;/pre&gt;
+
+'''Hinweis:'''
+* Nach dem Speichern und Schließen der Datei müssen Sie die Nginx-Konfiguration neu laden, damit die Änderungen wirksam werden:
+&lt;pre&gt;
+sudo nginx -t
+sudo systemctl reload nginx
+&lt;/pre&gt;
+* Prüfen Sie mit &lt;code&gt;sudo nginx -t&lt;/code&gt; immer zuerst, ob die Konfiguration fehlerfrei ist.
+* Weitere Informationen finden Sie in der offiziellen [https://nginx.org/de/docs/ Nginx-Dokumentation].</text>
+      <sha1>crmdcqyuspi6nfk9ib8mqj1vbrt0w0o</sha1>
+    </revision>
+    <revision>
+      <id>157</id>
+      <parentid>148</parentid>
+      <timestamp>2025-06-20T07:26:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>157</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6948" sha1="hzhof6a9zhv4jxsp2fyj2ebwplyvj1q" xml:space="preserve">==Erstellen Sie eine neue Konfigurationsdatei==
+Um eine neue Konfigurationsdatei für Nginx zu erstellen, öffnen Sie ein Terminal und geben Sie folgenden Befehl ein:
+&lt;pre&gt;
+ sudo nano /etc/nginx/conf.d/start.conf
+&lt;/pre&gt;
+Dies öffnet den Texteditor `nano` mit Root-Rechten und erstellt (oder bearbeitet) die Datei `start.conf` im Verzeichnis `/etc/nginx/conf.d/`. In dieser Datei können Sie Ihre gewünschten Nginx-Konfigurationen eintragen. Nach dem Bearbeiten speichern Sie die Datei mit `Strg + O`, bestätigen mit `Enter` und schließen den Editor mit `Strg + X`.
+
+Folgende Text eingeben in Datei
+
+&lt;pre&gt;
+/**
+ * NGINX-Konfigurationsdatei für mehrere virtuelle Hosts mit SSL-Unterstützung.
+ *
+ * Enthält folgende Server-Blöcke:
+ *
+ * 1. ahrensburg.city &amp; www.ahrensburg.city (Drupal):
+ *    - Lauscht auf Port 443 mit SSL und HTTP/2.
+ *    - Verwendet Let's Encrypt-Zertifikate.
+ *    - Setzt Sicherheitsheader (X-Frame-Options, X-Content-Type-Options, X-XSS-Protection).
+ *    - Aktiviert Gzip-Komprimierung für verschiedene Dateitypen.
+ *    - Schützt sensible Verzeichnisse und Dateien (z.B. private Dateien, .php in /sites/files).
+ *    - Leitet Anfragen über try_files an index.php weiter (Drupal-typisch).
+ *    - Spezielle Behandlung für statische Assets (js, css, Bilder) mit Caching.
+ *    - FastCGI-Konfiguration für PHP über php8.3-fpm.
+ *
+ * 2. wiki.ahrensburg.city (MediaWiki):
+ *    - Lauscht auf Port 443 mit SSL und HTTP/2 (IPv4 &amp; IPv6).
+ *    - Root-Verzeichnis: /var/www/mediawiki.
+ *    - Alias für /karte-Verzeichnis mit Autoindex.
+ *    - Reverse Proxy für /hot auf lokalen Dienst (Port 8080).
+ *    - Standard-URL-Rewriting für MediaWiki.
+ *    - FastCGI für PHP-Dateien.
+ *    - Schutz vor Zugriff auf .ht*-Dateien.
+ *
+ * 3. alterwiki.ahrensburg.city:
+ *    - Wie wiki.ahrensburg.city, aber Root: /var/www/alterwiki.
+ *    - Gleiches URL-Rewriting und PHP-Handling.
+ *    - Schutz vor .ht*-Dateien.
+ *
+ * 5. HTTP-zu-HTTPS-Redirect:
+ *    - Leitet alle Anfragen auf Port 80 (IPv4 &amp; IPv6) für ahrensburg.city und www.ahrensburg.city per 301-Redirect auf HTTPS um.
+ *
+ * Hinweise:
+ * - Alle Server verwenden die gleichen SSL-Zertifikate.
+ * - PHP wird über Unix-Socket an php8.3-fpm weitergeleitet.
+ * - Die Konfiguration ist für produktive Umgebungen optimiert (Sicherheit, Performance, Redirects).
+ */
+
+server {
+    listen 443 ssl http2;
+    server_name ahrensburg.city www.ahrensburg.city;
+
+    root /var/www/drupal/web;
+    index index.php index.html;
+
+    ssl_certificate      /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+    ssl_certificate_key  /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+    ssl_protocols TLSv1.2 TLSv1.3;
+    ssl_ciphers HIGH:!aNULL:!MD5;
+
+    # Sicherheitsheader
+    add_header X-Frame-Options "SAMEORIGIN";
+    add_header X-Content-Type-Options "nosniff";
+    add_header X-XSS-Protection "1; mode=block";
+
+    # Gzip-Komprimierung
+    gzip on;
+    gzip_types text/plain text/css application/json application/javascript text/xml application/xml application/xml+rss text/javascript;
+
+    location = /favicon.ico { log_not_found off; access_log off; }
+    location = /robots.txt  { allow all; log_not_found off; access_log off; }
+
+    location ~ \..*/.*\.php$ { return 403; }
+    location ~ ^/sites/.*/private/ { return 403; }
+    location ~ ^/sites/[^/]+/files/.*\.php$ { deny all; }
+    location ~ (^|/)\. { return 403; }
+
+    location / {
+        try_files $uri /index.php?$query_string;
+    }
+
+    location @rewrite {
+        rewrite ^/(.*)$ /index.php?q=$1;
+    }
+
+    location ~ /vendor/.*\.php$ {
+        deny all;
+        return 404;
+    }
+
+    location ~ '\.php$|^/update.php' {
+        include fastcgi_params;
+        fastcgi_split_path_info ^(.+?\.php)(/.*)?$;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        fastcgi_param PATH_INFO $fastcgi_path_info;
+        fastcgi_param HTTP_PROXY "";
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+        fastcgi_intercept_errors on;
+    }
+
+    location ~ ^/sites/.*/files/styles/ {
+        try_files $uri @rewrite;
+    }
+
+    location ~ ^(/[a-z\-]+)?/system/files/ {
+        try_files $uri /index.php?$query_string;
+    }
+
+    location ~* \.(js|css|png|jpg|jpeg|gif|ico|svg)$ {
+        try_files $uri @rewrite;
+        expires max;
+        log_not_found off;
+    }
+}
+
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name wiki.ahrensburg.city;
+    ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+     root /var/www/mediawiki;
+    index index.php index.html index.htm;
+    location /karte {
+    alias /var/www/karte;
+    autoindex on;
+}
+location /hot {
+    proxy_pass http://localhost:8080/;
+    proxy_set_header Host $host;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header X-Forwarded-Proto $scheme;
+}
+ location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\.ht {
+
+           deny all;
+    }
+
+}
+
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name alterwiki.ahrensburg.city;
+    ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+     root /var/www/alterwiki;
+    index index.php index.html index.htm;
+
+ location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\.ht {
+
+           deny all;
+    }
+
+}
+
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name stadtwiki.ahrensburg.city;
+    ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+     root /var/www/stadtwiki;
+    index index.php index.html index.htm;
+
+ location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\.ht {
+
+           deny all;
+    }
+
+}
+
+server {
+    listen 80;
+    listen [::]:80;
+    server_name ahrensburg.city www.ahrensburg.city;
+    return 301 https://$host$request_uri;
+}
+
+&lt;/pre&gt;
+
+'''Hinweis:'''
+* Nach dem Speichern und Schließen der Datei müssen Sie die Nginx-Konfiguration neu laden, damit die Änderungen wirksam werden:
+&lt;pre&gt;
+sudo nginx -t
+sudo systemctl reload nginx
+&lt;/pre&gt;
+* Prüfen Sie mit &lt;code&gt;sudo nginx -t&lt;/code&gt; immer zuerst, ob die Konfiguration fehlerfrei ist.
+* Weitere Informationen finden Sie in der offiziellen [https://nginx.org/de/docs/ Nginx-Dokumentation].</text>
+      <sha1>hzhof6a9zhv4jxsp2fyj2ebwplyvj1q</sha1>
+    </revision>
   </page>
   <page>
-    <title>Server:SSL</title>
+    <title>SSL</title>
     <ns>3000</ns>
     <id>25</id>
     <revision>
@@ -5060,9 +5878,50 @@ sudo systemctl start nginx
 &lt;/pre&gt;</text>
       <sha1>ngpqa4pt8bwlw4hpn9ku7q526zu2mta</sha1>
     </revision>
+    <revision>
+      <id>149</id>
+      <parentid>120</parentid>
+      <timestamp>2025-06-20T06:42:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>149</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1782" sha1="bn1cv7n7shhys4wfredahwgdqj85u9l" xml:space="preserve">Die folgenden Befehle richten die Umgebung für die Nutzung von Certbot mit Nginx auf einem Linux-System ein:
+
+# &lt;code&gt;sudo apt install snapd&lt;/code&gt;  Installiert den Snap-Daemon, der benötigt wird, um Snap-Pakete (wie Certbot) zu installieren.
+# &lt;code&gt;sudo apt-get install nginx&lt;/code&gt;  Installiert den Nginx-Webserver.
+# &lt;code&gt;sudo rm /etc/nginx/sites-enabled/default&lt;/code&gt;  Entfernt die Standardkonfiguration von Nginx, um Konflikte mit eigenen Einstellungen zu vermeiden.
+# &lt;code&gt;sudo systemctl stop nginx&lt;/code&gt;  Stoppt den laufenden Nginx-Dienst, damit Certbot später Zertifikate anfordern und konfigurieren kann.
+# &lt;code&gt;sudo snap install --classic certbot&lt;/code&gt;  Installiert Certbot (das Tool zur Verwaltung von SSL-Zertifikaten von Let's Encrypt) über Snap.
+# &lt;code&gt;sudo ln -s /snap/bin/certbot /usr/bin/certbot&lt;/code&gt;  Erstellt einen symbolischen Link, damit Certbot systemweit als Befehl verfügbar ist.
+# &lt;code&gt;sudo systemctl stop nginx&lt;/code&gt;  Stoppt Nginx erneut, um sicherzustellen, dass der Webserver für die Zertifikatsanfrage nicht läuft.
+
+Diese Schritte bereiten das System darauf vor, SSL-Zertifikate mit Certbot für Nginx zu erstellen und zu verwalten.
+
+==Kurze Form==
+&lt;pre&gt;
+sudo apt install snapd
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+sudo systemctl stop nginx
+sudo snap install --classic certbot
+sudo ln -s /snap/bin/certbot /usr/bin/certbot
+sudo systemctl stop nginx
+&lt;/pre&gt;
+Nach der Eingabe der obigen Befehle können Sie mit den folgenden Schritten fortfahren, um SSL-Zertifikate für Ihre Domains zu erstellen und Nginx wieder zu starten.
+&lt;pre&gt;
+sudo certbot certonly --standalone -d ahrensburg.city -d www.ahrensburg.city
+sudo certbot certonly --standalone -d alterwiki.ahrensburg.city
+sudo systemctl start nginx
+&lt;/pre&gt;</text>
+      <sha1>bn1cv7n7shhys4wfredahwgdqj85u9l</sha1>
+    </revision>
   </page>
   <page>
-    <title>Server:Inhaltsverwaltung und Datenverwaltungssoftware für Websites</title>
+    <title>Inhaltsverwaltung und Datenverwaltungssoftware für Websites</title>
     <ns>3000</ns>
     <id>26</id>
     <revision>
@@ -5147,7 +6006,7 @@ Einfacher ausgedrückt, übernehmen Web-Frameworks die sich wiederholende und ko
     </revision>
   </page>
   <page>
-    <title>Server:Office Paket mit KI</title>
+    <title>Office Paket mit KI</title>
     <ns>3000</ns>
     <id>27</id>
     <revision>
@@ -5215,7 +6074,7 @@ Die genauen Preise und enthaltenen Funktionen können je nach Region und gewähl
     </revision>
   </page>
   <page>
-    <title>Server:Vergleich: Drupal und Mediawiki nutzen</title>
+    <title>Vergleich: Drupal und Mediawiki nutzen</title>
     <ns>3000</ns>
     <id>28</id>
     <revision>
@@ -5271,7 +6130,7 @@ Das Wiki-Prinzip ermöglicht es mehreren Benutzern, Inhalte gemeinschaftlich und
     </revision>
   </page>
   <page>
-    <title>Server:Mehr Informationen zu Sprachmodellen und Deep Research im Internet</title>
+    <title>Mehr Informationen zu Sprachmodellen und Deep Research im Internet</title>
     <ns>3000</ns>
     <id>29</id>
     <revision>
@@ -5321,7 +6180,7 @@ Einige spezialisierte Tools und Funktionen für Deep Research sind:
     </revision>
   </page>
   <page>
-    <title>Server:Visual Studio Code mit KI</title>
+    <title>Visual Studio Code mit KI</title>
     <ns>3000</ns>
     <id>30</id>
     <revision>
@@ -5342,6 +6201,2654 @@ Hier sind einige der bekanntesten KI-Tools für Visual Studio Code:
 * '''GitHub Copilot''': Ein KI-gestützter Code-Assistent, der kontextbezogene Vorschläge in Echtzeit liefert. Copilot kann ganze Funktionen oder Algorithmen basierend auf Kommentaren oder bestehendem Code generieren und unterstützt eine Vielzahl von Programmiersprachen.
 * '''AI Toolkit for Visual Studio Code''': Eine Sammlung von KI-Tools, die speziell für Visual Studio Code entwickelt wurde, um die Produktivität zu steigern und die Codequalität zu verbessern.</text>
       <sha1>5l7cryc5kcvig5smcgitto3p1bisbem</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Schlosskirche Ahrensburg</title>
+    <ns>0</ns>
+    <id>31</id>
+    <revision>
+      <id>134</id>
+      <timestamp>2025-06-19T21:11:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>134</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1775" sha1="ei1o3idotpb8490c7rg0e8dhlgsm1iv" xml:space="preserve">'''Die denkmalgeschützte Schlosskapelle Ahrensburg''' befindet sich im Norden von Ahrensburg, Schleswig-Holstein, Deutschland, und ist eine evangelisch-lutherische Kirche direkt gegenüber dem Ahrensburger Schloss. Das Bauwerk im spätgotischen Backsteinstil gilt als herausragendes Beispiel historischer Architektur und verleiht dem Alten Marktplatz besonderen Glanz. Die Kirche zählt zu den ersten Kirchenneubauten nach der Reformationszeit. Ihre Adresse ist Am Alten Markt 7, 22926 Ahrensburg, Deutschland, und telefonisch ist sie unter +49 4102 52584 erreichbar.
+Die Schlosskapelle diente zudem als Begräbnisstätte der Familie Rantzau.
+== Geschichte ==
+Die Schlosskapelle wurde von 1594 bis 1596 im Auftrag des Gutsherrn Peter Rantzau erbaut.  
+Sie war das religiöse Zentrum des Dorfes Ahrensburg und spielte eine wichtige Rolle für das geistliche Leben der Gemeinde. Die Schlosskapelle wurde für Gottesdienste, Taufen, Trauungen und Beerdigungen genutzt und war eng mit den Aktivitäten des benachbarten Schlosses verbunden. Zudem diente sie als repräsentative Grablege der Familie Rantzau.  
+Im Großen Nordischen Krieg (1700–1721) wurden die Innenräume der Kirche stark geplündert und zerstört, und das Grabmal wurde von schwedischen Truppen schwer beschädigt.  
+Nach dem Krieg wurde die Schlosskapelle im prachtvollen Stil des Spätbarock wieder aufgebaut.  
+Nach dem Kauf durch die Familie Schimmelmann im Jahr 1759 wurde die Kirche weiter umgebaut und erhielt ihr heutiges Aussehen.
+== Architektur ==
+Die Kirche weist Elemente der Renaissance-Architektur auf und ist besonders für ihre weiß getünchten Wände und das hölzerne Innenleben bekannt. Altar und Kanzel sind reich verziert und spiegeln die künstlerischen Stile der damaligen Zeit wider.</text>
+      <sha1>ei1o3idotpb8490c7rg0e8dhlgsm1iv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Server;Drupal/Nginx-Konfiguration</title>
+    <ns>0</ns>
+    <id>32</id>
+    <revision>
+      <id>138</id>
+      <timestamp>2025-06-19T21:58:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ === Schritt 3: Nginx-Konfiguration ===  sudo apt-get install nginx  sudo rm /etc/nginx/sites-enabled/default  # Erstellen Sie eine neue Konfigurationsdatei:   sudo nano /etc/nginx/conf.d/drupal.conf  # Fügen Sie den folgenden Inhalt ein:   server {      listen 443 ssl http2;      server_name drupal.ahrensburg.city;        root /var/www/drupal/web;      index index.php index.html;        ssl_certificate      /etc/letsencrypt/live/drupal.ahrensburg.city/f…“</comment>
+      <origin>138</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2304" sha1="46smdqergzzcl83i6vz3are3fw03pn4" xml:space="preserve">
+=== Schritt 3: Nginx-Konfiguration ===
+ sudo apt-get install nginx
+ sudo rm /etc/nginx/sites-enabled/default
+
+# Erstellen Sie eine neue Konfigurationsdatei:
+
+ sudo nano /etc/nginx/conf.d/drupal.conf
+
+# Fügen Sie den folgenden Inhalt ein:
+
+ server {
+     listen 443 ssl http2;
+     server_name drupal.ahrensburg.city;
+ 
+     root /var/www/drupal/web;
+     index index.php index.html;
+ 
+     ssl_certificate      /etc/letsencrypt/live/drupal.ahrensburg.city/fullchain.pem;
+     ssl_certificate_key  /etc/letsencrypt/live/drupal.ahrensburg.city/privkey.pem;
+     ssl_protocols TLSv1.2 TLSv1.3;
+     ssl_ciphers HIGH:!aNULL:!MD5;
+ 
+     # Sicherheitsheader
+     add_header X-Frame-Options "SAMEORIGIN";
+     add_header X-Content-Type-Options "nosniff";
+     add_header X-XSS-Protection "1; mode=block";
+ 
+     # Gzip-Komprimierung
+     gzip on;
+     gzip_types text/plain text/css application/json application/javascript text/xml application/xml application/xml+rss text/javascript;
+ 
+     location = /favicon.ico { log_not_found off; access_log off; }
+     location = /robots.txt  { allow all; log_not_found off; access_log off; }
+ 
+     location ~ \..*/.*\.php$ { return 403; }
+     location ~ ^/sites/.*/private/ { return 403; }
+     location ~ ^/sites/[^/]+/files/.*\.php$ { deny all; }
+     location ~ (^|/)\. { return 403; }
+ 
+     location / {
+         try_files $uri /index.php?$query_string;
+     }
+ 
+     location @rewrite {
+         rewrite ^/(.*)$ /index.php?q=$1;
+     }
+ 
+     location ~ /vendor/.*\.php$ {
+         deny all;
+         return 404;
+     }
+ 
+     location ~ '\.php$|^/update.php' {
+         include fastcgi_params;
+         fastcgi_split_path_info ^(.+?\.php)(/.*)?$;
+         fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+         fastcgi_param PATH_INFO $fastcgi_path_info;
+         fastcgi_param HTTP_PROXY "";
+         fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+         fastcgi_intercept_errors on;
+     }
+ 
+     location ~ ^/sites/.*/files/styles/ {
+         try_files $uri @rewrite;
+     }
+ 
+     location ~ ^(/[a-z\-]+)?/system/files/ {
+         try_files $uri /index.php?$query_string;
+     }
+ 
+     location ~* \.(js|css|png|jpg|jpeg|gif|ico|svg)$ {
+         try_files $uri @rewrite;
+         expires max;
+         log_not_found off;
+     }
+ }</text>
+      <sha1>46smdqergzzcl83i6vz3are3fw03pn4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Server;Drupal/Berechtigungsproblemen</title>
+    <ns>0</ns>
+    <id>33</id>
+    <revision>
+      <id>141</id>
+      <timestamp>2025-06-19T22:22:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ Installation von Drupal beim Hosting-Anbieter: Anleitung zur Behebung von Berechtigungsproblemen  Wählen Sie zunächst Ihr Land und Ihre bevorzugte Sprache für die Drupal-Installation bei Ihrem Hosting-Anbieter aus. Bitte beachten Sie, dass inkorrekte Dateiberechtigungen während des Installationsprozesses zu Problemen führen können.  '''Fehlerbehebung bei Installationsfehlern aufgrund von Berechtigungsproblemen:'''  Sollte die Installation aufgrund…“</comment>
+      <origin>141</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2224" sha1="bbw9dzm102yml3la5kccgoyhdmegb1g" xml:space="preserve">
+Installation von Drupal beim Hosting-Anbieter: Anleitung zur Behebung von Berechtigungsproblemen
+
+Wählen Sie zunächst Ihr Land und Ihre bevorzugte Sprache für die Drupal-Installation bei Ihrem Hosting-Anbieter aus. Bitte beachten Sie, dass inkorrekte Dateiberechtigungen während des Installationsprozesses zu Problemen führen können.
+
+'''Fehlerbehebung bei Installationsfehlern aufgrund von Berechtigungsproblemen:'''
+
+Sollte die Installation aufgrund unzureichender Berechtigungen fehlschlagen, befolgen Sie bitte die nachstehenden Schritte in der angegebenen Reihenfolge:
+
+# '''Terminal öffnen und zum Drupal-Hauptverzeichnis navigieren:''' Öffnen Sie Ihr Terminal oder Ihre Kommandozeile. Verwenden Sie den Befehl `cd`, um zum Hauptverzeichnis Ihrer Drupal-Installation zu wechseln. Ein typischer Pfad könnte beispielsweise `/var/www/drupal` lauten.
+# '''In das Unterverzeichnis `web/sites/default` wechseln:''' Navigieren Sie anschließend mit dem Befehl `cd /var/www/drupal/web/sites/default` in das Unterverzeichnis `web/sites/default`.
+# '''Erforderliche Verzeichnisse erstellen:''' Erstellen Sie nun die beiden benötigten Verzeichnisse `files` und `files/translations` mithilfe der Befehle `mkdir files` und `mkdir files/translations`.
+# '''Zugriffsrechte für das Verzeichnis `files` ändern:''' Ändern Sie rekursiv die Zugriffsrechte für das Verzeichnis `files` auf 777 mit dem Befehl `sudo chmod 777 -R files`. Dieser Schritt gewährleistet, dass Drupal Dateien in dieses Verzeichnis schreiben kann.
+# '''Konfigurationsdatei kopieren und umbenennen:''' Kopieren Sie die Konfigurationsdatei `default.settings.php` und benennen Sie die Kopie in `settings.php` um. Verwenden Sie hierfür den Befehl `cp default.settings.php settings.php`.
+# '''Dateiberechtigungen für `settings.php` ändern:''' Abschließend müssen Sie die Dateiberechtigungen für die Datei `settings.php` auf 666 ändern. Verwenden Sie hierzu den Befehl `sudo chmod 666 settings.php`.
+
+'''Kurzanleitung für die Kommandozeile:'''
+ cd /var/www/drupal/web/sites/default/
+ mkdir files
+ mkdir files/translations
+ sudo chmod 777 -R files
+ cp default.settings.php settings.php
+ sudo chmod 666 settings.php
+Website starten. Jetzt neu start</text>
+      <sha1>bbw9dzm102yml3la5kccgoyhdmegb1g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Drupal/Drush</title>
+    <ns>3000</ns>
+    <id>34</id>
+    <revision>
+      <id>143</id>
+      <timestamp>2025-06-19T22:34:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ == Drush: Werkzeug für Drupal == Drush ist ein Kommandozeilenwerkzeug, das die Verwaltung und Entwicklung von Drupal-Websites erheblich erleichtert.  '''Vorteile von Drush'''  * Automatisierung wiederkehrender Aufgaben * Schnelle Installation und Aktualisierung von Modulen und Themes * Verwaltung von Konfigurationen und Datenbank-Updates * Leeren von Caches und Ausführen von Wartungsaufgaben * Integration in Skripte und CI/CD-Pipelines  '''Installation…“</comment>
+      <origin>143</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="902" sha1="lb0x56l6d7zpf5uzwb4vbouu4qon03e" xml:space="preserve">
+== Drush: Werkzeug für Drupal ==
+Drush ist ein Kommandozeilenwerkzeug, das die Verwaltung und Entwicklung von Drupal-Websites erheblich erleichtert.
+
+'''Vorteile von Drush'''
+
+* Automatisierung wiederkehrender Aufgaben
+* Schnelle Installation und Aktualisierung von Modulen und Themes
+* Verwaltung von Konfigurationen und Datenbank-Updates
+* Leeren von Caches und Ausführen von Wartungsaufgaben
+* Integration in Skripte und CI/CD-Pipelines
+
+'''Installation'''
+
+'''Wichtiger Hinweis:''' Drush sollte unter Ubuntu nicht global installiert werden.
+
+'''Installationsschritte:'''
+
+# '''Terminal öffnen:''' Starten Sie die Kommandozeile.
+# '''Zum Projektverzeichnis wechseln:''' Navigieren Sie in Ihr Drupal-Projektverzeichnis, z. B. nach `/var/www/drupal`.
+# '''Drush installieren:''' Führen Sie den Befehl &lt;code&gt;composer require drush/drush&lt;/code&gt; aus.
+# Führen Sie &lt;code&gt;composer install&lt;/code&gt; aus.</text>
+      <sha1>lb0x56l6d7zpf5uzwb4vbouu4qon03e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Drupal/Paket Installieren</title>
+    <ns>0</ns>
+    <id>35</id>
+    <revision>
+      <id>145</id>
+      <timestamp>2025-06-19T22:40:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Folgende Pakete werden benötigt:  == Themen herunterladen == Für mein Projekt stellt das Bootstrap 5-Paket die optimale Lösung dar.  Um dieses zu installieren, starten wir das Terminalprogramm und führen folgenden Befehl aus:  composer require 'drupal/bootstrap:^5.0'  Dadurch wird das Theme heruntergeladen.  Module herunterladen  == Wir installieren die folgenden Module == '''EU Cookie Compliance'''  composer require 'drupal/eu\_cookie\_compliance:^1.…“</comment>
+      <origin>145</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="752" sha1="ax4j9tehuqulo4a7h4a0cx644amnyun" xml:space="preserve">Folgende Pakete werden benötigt:
+
+== Themen herunterladen ==
+Für mein Projekt stellt das Bootstrap 5-Paket die optimale Lösung dar.
+
+Um dieses zu installieren, starten wir das Terminalprogramm und führen folgenden Befehl aus:
+
+composer require 'drupal/bootstrap:^5.0'
+
+Dadurch wird das Theme heruntergeladen.
+
+Module herunterladen
+
+== Wir installieren die folgenden Module ==
+'''EU Cookie Compliance'''
+
+composer require 'drupal/eu\_cookie\_compliance:^1.26'
+
+'''Markdown Easy'''
+
+composer require 'drupal/markdown_easy:^1.0'
+
+'''Pathauto''' Erzeugt automatisch suchmaschinenfreundliche URLs.
+
+composer require 'drupal/pathauto:^1.13'
+
+'''Metatag''' Ermöglicht das Hinzufügen von Metatags für bessere SEO.
+
+composer require 'drupal/metatag:^2.1'</text>
+      <sha1>ax4j9tehuqulo4a7h4a0cx644amnyun</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Backup</title>
+    <ns>3000</ns>
+    <id>36</id>
+    <revision>
+      <id>146</id>
+      <timestamp>2025-06-19T23:07:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>146</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="922" sha1="k6jm9oy00he6uvk4r4m0zbs89svb6vf" xml:space="preserve">==Server Backup Anbieter in Deutschland==
+
+Es gibt mehrere günstige Backup-Server-Anbieter in Deutschland. Hier sind einige Beispiele:
+
+* Hetzner Storage Box – Bietet verschiedene Speichergrößen, schnelle Anbindung und einfache Verwaltung.
+* Netcup Storage Server – Flexible Tarife, gute Anbindung innerhalb Deutschlands, günstige Preise.
+* Contabo Storage VPS – Große Speicherkapazitäten, günstige Preise, verschiedene Standorte verfügbar.
+
+== Git Backup erstellen nicht mit Nutzerdaten erstellen==
+Es gibt verschiedene Anbieter, bei denen Sie Git-Repositories hosten können. Zu den bekanntesten gehören:
+
+* GitHub – Weltweit größter Anbieter für Git-Repositories, bietet kostenlose und kostenpflichtige Pläne.
+* GitLab – Open-Source-Lösung, kann selbst gehostet oder als Cloud-Service genutzt werden.
+* Codeberg – Gemeinnütziger Anbieter aus Europa, legt Wert auf Datenschutz und Transparenz.</text>
+      <sha1>k6jm9oy00he6uvk4r4m0zbs89svb6vf</sha1>
+    </revision>
+    <revision>
+      <id>147</id>
+      <parentid>146</parentid>
+      <timestamp>2025-06-20T03:44:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>147</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="920" sha1="17rc6kdqz2lh2f7b91a0cylram3uuwc" xml:space="preserve">==Server Backup Anbieter in Deutschland==
+
+Es gibt mehrere günstige Backup-Server-Anbieter in Deutschland. Hier sind einige Beispiele:
+
+* Hetzner Storage Box – Bietet verschiedene Speichergrößen, schnelle Anbindung und einfache Verwaltung.
+* Netcup Storage Server – Flexible Tarife, gute Anbindung innerhalb Deutschlands, günstige Preise.
+* Contabo Storage VPS – Große Speicherkapazitäten, günstige Preise, verschiedene Standorte verfügbar.
+
+==Git-Backup erstellen, ohne Nutzerdaten zu verwenden==
+Es gibt verschiedene Anbieter, bei denen Sie Git-Repositories hosten können. Zu den bekanntesten gehören:
+
+* GitHub – Weltweit größter Anbieter für Git-Repositories, bietet kostenlose und kostenpflichtige Pläne.
+* GitLab – Open-Source-Lösung, kann selbst gehostet oder als Cloud-Service genutzt werden.
+* Codeberg – Gemeinnütziger Anbieter aus Europa, legt Wert auf Datenschutz und Transparenz.</text>
+      <sha1>17rc6kdqz2lh2f7b91a0cylram3uuwc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Drupal/Veranstaltungskalender</title>
+    <ns>3000</ns>
+    <id>37</id>
+    <revision>
+      <id>159</id>
+      <timestamp>2025-06-20T17:29:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>159</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2696" sha1="mvmf8yi12dtohqea6aazaiiqg0bhtzm" xml:space="preserve">== Veranstaltungskalender mit Drupal und dem Modul Full Calendar ==
+
+Mit Drupal lässt sich ein leistungsfähiger Veranstaltungskalender erstellen. Das Modul '''Full Calendar''' integriert den populären JavaScript-Kalender ''FullCalendar'' in Drupal und ermöglicht eine ansprechende Darstellung von Terminen.
+
+=== Voraussetzungen ===
+* Drupal Core (empfohlen: aktuelle Version)
+* Modul: [https://www.drupal.org/project/fullcalendar_view Full Calendar View]
+* Modul: [https://www.drupal.org/project/views Views]
+* Modul: [https://www.drupal.org/project/date Date]
+
+=== Schritte zur Einrichtung ===
+# Navigiere im Drupal-Backend zu ''Erweiterungen'' und installiere die Module '''Full Calendar View''', '''Views''' und '''Date'''. Aktiviere diese anschließend.
+# Erstelle unter ''Struktur &gt; Inhaltstypen'' einen neuen Inhaltstyp, beispielsweise '''Veranstaltung'''.
+# Ergänze den Inhaltstyp um folgende Felder: '''Titel''' (Textfeld), '''Startdatum''' und '''Enddatum''' (beide vom Typ ''Datum'').
+# Gehe zu ''Struktur &gt; Ansichten'' und erstelle eine neue Ansicht vom Typ '''Full Calendar''', die Inhalte des Typs '''Veranstaltung''' verwendet.
+# Konfiguriere die gewünschten Kalenderansichten (z.B. Tag, Woche, Monat) und passe Filter sowie Sortierung nach Bedarf an.
+# Speichere die Ansicht und platziere sie als Seite oder Block, um den Kalender im Frontend sichtbar zu machen.
+=== Beispiel: Ansicht für Veranstaltungen erstellen ===
+# Gehe zu ''Struktur &gt; Ansichten'' und klicke auf ''Ansicht hinzufügen''.
+# Gib der Ansicht einen Namen, z.B. '''Veranstaltungskalender'''.
+# Wähle als anzuzeigenden Inhaltstyp '''Veranstaltung''' und als Anzeigeformat '''Full Calendar'''.
+# Füge die Felder '''Titel''', '''Startdatum''' und '''Enddatum''' hinzu, falls diese nicht automatisch übernommen werden.
+# Konfiguriere die Filterkriterien, z.B. ''Veröffentlicht'' ist ''Ja'', um nur sichtbare Veranstaltungen anzuzeigen.
+# Passe die Einstellungen für die Kalenderanzeige nach Bedarf an (z.B. Standardansicht: Monat, verfügbare Ansichten: Woche, Tag).
+# Speichere die Ansicht und teste die Kalenderdarstellung auf der zugewiesenen Seite.
+
+=== Hinweise ===
+* Über die Einstellungen der Ansicht kannst du weitere Filter (z.B. nach Kategorie) hinzufügen.
+* Mit zusätzlichen Modulen wie ''Calendar iCal'' kannst du Export- und Importfunktionen für Termine bereitstellen.
+=== Vorteile von Full Calendar ===
+* Interaktive Kalenderansicht
+* Drag &amp; Drop-Unterstützung (optional)
+* Filter- und Suchfunktionen
+* Responsive Design
+
+Weitere Informationen findest du in der [https://www.drupal.org/docs/contributed-modules/fullcalendar-view offiziellen Dokumentation des Full Calendar View Moduls].</text>
+      <sha1>mvmf8yi12dtohqea6aazaiiqg0bhtzm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>DrupalPaket Installieren</title>
+    <ns>3000</ns>
+    <id>38</id>
+    <revision>
+      <id>161</id>
+      <timestamp>2025-06-20T18:53:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Folgende Pakete werden benötigt:  == Themen herunterladen == Für mein Projekt stellt das Bootstrap 5-Paket die optimale Lösung dar.  Um dieses zu installieren, starten wir das Terminalprogramm und führen folgenden Befehl aus:  composer require 'drupal/bootstrap:^5.0'  Dadurch wird das Theme heruntergeladen.  Module herunterladen  == Wir installieren die folgenden Module == '''EU Cookie Compliance'''  composer require 'drupal/eu\_cookie\_compliance:^1.…“</comment>
+      <origin>161</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="752" sha1="ax4j9tehuqulo4a7h4a0cx644amnyun" xml:space="preserve">Folgende Pakete werden benötigt:
+
+== Themen herunterladen ==
+Für mein Projekt stellt das Bootstrap 5-Paket die optimale Lösung dar.
+
+Um dieses zu installieren, starten wir das Terminalprogramm und führen folgenden Befehl aus:
+
+composer require 'drupal/bootstrap:^5.0'
+
+Dadurch wird das Theme heruntergeladen.
+
+Module herunterladen
+
+== Wir installieren die folgenden Module ==
+'''EU Cookie Compliance'''
+
+composer require 'drupal/eu\_cookie\_compliance:^1.26'
+
+'''Markdown Easy'''
+
+composer require 'drupal/markdown_easy:^1.0'
+
+'''Pathauto''' Erzeugt automatisch suchmaschinenfreundliche URLs.
+
+composer require 'drupal/pathauto:^1.13'
+
+'''Metatag''' Ermöglicht das Hinzufügen von Metatags für bessere SEO.
+
+composer require 'drupal/metatag:^2.1'</text>
+      <sha1>ax4j9tehuqulo4a7h4a0cx644amnyun</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Drupal/Nginx-Konfiguration</title>
+    <ns>3000</ns>
+    <id>39</id>
+    <revision>
+      <id>163</id>
+      <timestamp>2025-06-20T18:56:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ === Schritt 3: Nginx-Konfiguration ===  sudo apt-get install nginx  sudo rm /etc/nginx/sites-enabled/default  # Erstellen Sie eine neue Konfigurationsdatei:   sudo nano /etc/nginx/conf.d/drupal.conf  # Fügen Sie den folgenden Inhalt ein:   server {      listen 443 ssl http2;      server_name drupal.ahrensburg.city;        root /var/www/drupal/web;      index index.php index.html;        ssl_certificate      /etc/letsencrypt/live/drupal.ahrensburg.city/f…“</comment>
+      <origin>163</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2304" sha1="46smdqergzzcl83i6vz3are3fw03pn4" xml:space="preserve">
+=== Schritt 3: Nginx-Konfiguration ===
+ sudo apt-get install nginx
+ sudo rm /etc/nginx/sites-enabled/default
+
+# Erstellen Sie eine neue Konfigurationsdatei:
+
+ sudo nano /etc/nginx/conf.d/drupal.conf
+
+# Fügen Sie den folgenden Inhalt ein:
+
+ server {
+     listen 443 ssl http2;
+     server_name drupal.ahrensburg.city;
+ 
+     root /var/www/drupal/web;
+     index index.php index.html;
+ 
+     ssl_certificate      /etc/letsencrypt/live/drupal.ahrensburg.city/fullchain.pem;
+     ssl_certificate_key  /etc/letsencrypt/live/drupal.ahrensburg.city/privkey.pem;
+     ssl_protocols TLSv1.2 TLSv1.3;
+     ssl_ciphers HIGH:!aNULL:!MD5;
+ 
+     # Sicherheitsheader
+     add_header X-Frame-Options "SAMEORIGIN";
+     add_header X-Content-Type-Options "nosniff";
+     add_header X-XSS-Protection "1; mode=block";
+ 
+     # Gzip-Komprimierung
+     gzip on;
+     gzip_types text/plain text/css application/json application/javascript text/xml application/xml application/xml+rss text/javascript;
+ 
+     location = /favicon.ico { log_not_found off; access_log off; }
+     location = /robots.txt  { allow all; log_not_found off; access_log off; }
+ 
+     location ~ \..*/.*\.php$ { return 403; }
+     location ~ ^/sites/.*/private/ { return 403; }
+     location ~ ^/sites/[^/]+/files/.*\.php$ { deny all; }
+     location ~ (^|/)\. { return 403; }
+ 
+     location / {
+         try_files $uri /index.php?$query_string;
+     }
+ 
+     location @rewrite {
+         rewrite ^/(.*)$ /index.php?q=$1;
+     }
+ 
+     location ~ /vendor/.*\.php$ {
+         deny all;
+         return 404;
+     }
+ 
+     location ~ '\.php$|^/update.php' {
+         include fastcgi_params;
+         fastcgi_split_path_info ^(.+?\.php)(/.*)?$;
+         fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+         fastcgi_param PATH_INFO $fastcgi_path_info;
+         fastcgi_param HTTP_PROXY "";
+         fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+         fastcgi_intercept_errors on;
+     }
+ 
+     location ~ ^/sites/.*/files/styles/ {
+         try_files $uri @rewrite;
+     }
+ 
+     location ~ ^(/[a-z\-]+)?/system/files/ {
+         try_files $uri /index.php?$query_string;
+     }
+ 
+     location ~* \.(js|css|png|jpg|jpeg|gif|ico|svg)$ {
+         try_files $uri @rewrite;
+         expires max;
+         log_not_found off;
+     }
+ }</text>
+      <sha1>46smdqergzzcl83i6vz3are3fw03pn4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Drupal/Berechtigungsproblemen</title>
+    <ns>3000</ns>
+    <id>40</id>
+    <revision>
+      <id>164</id>
+      <timestamp>2025-06-20T18:58:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ Installation von Drupal beim Hosting-Anbieter: Anleitung zur Behebung von Berechtigungsproblemen  Wählen Sie zunächst Ihr Land und Ihre bevorzugte Sprache für die Drupal-Installation bei Ihrem Hosting-Anbieter aus. Bitte beachten Sie, dass inkorrekte Dateiberechtigungen während des Installationsprozesses zu Problemen führen können.  '''Fehlerbehebung bei Installationsfehlern aufgrund von Berechtigungsproblemen:'''  Sollte die Installation aufgrund…“</comment>
+      <origin>164</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2221" sha1="dy1gc9nvli62ypf8tdzgx2u8dvn4nyc" xml:space="preserve">
+Installation von Drupal beim Hosting-Anbieter: Anleitung zur Behebung von Berechtigungsproblemen
+
+Wählen Sie zunächst Ihr Land und Ihre bevorzugte Sprache für die Drupal-Installation bei Ihrem Hosting-Anbieter aus. Bitte beachten Sie, dass inkorrekte Dateiberechtigungen während des Installationsprozesses zu Problemen führen können.
+
+'''Fehlerbehebung bei Installationsfehlern aufgrund von Berechtigungsproblemen:'''
+
+Sollte die Installation aufgrund unzureichender Berechtigungen fehlschlagen, befolgen Sie bitte die nachstehenden Schritte in der angegebenen Reihenfolge:
+
+# '''Terminal öffnen und zum Drupal-Hauptverzeichnis navigieren:''' Öffnen Sie Ihr Terminal oder Ihre Kommandozeile. Verwenden Sie den Befehl `cd`, um zum Hauptverzeichnis Ihrer Drupal-Installation zu wechseln. Ein typischer Pfad könnte beispielsweise `/var/www/drupal` lauten.
+# '''In das Unterverzeichnis `web/sites/default` wechseln:''' Navigieren Sie anschließend mit dem Befehl `cd /var/www/drupal/web/sites/default` in das Unterverzeichnis `web/sites/default`.
+# '''Erforderliche Verzeichnisse erstellen:''' Erstellen Sie nun die beiden benötigten Verzeichnisse `files` und `files/translations` mithilfe der Befehle `mkdir files` und `mkdir files/translations`.
+# '''Zugriffsrechte für das Verzeichnis `files` ändern:''' Ändern Sie rekursiv die Zugriffsrechte für das Verzeichnis `files` auf 777 mit dem Befehl `sudo chmod 777 -R files`. Dieser Schritt gewährleistet, dass Drupal Dateien in dieses Verzeichnis schreiben kann.
+# '''Konfigurationsdatei kopieren und umbenennen:''' Kopieren Sie die Konfigurationsdatei `default.settings.php` und benennen Sie die Kopie in `settings.php` um. Verwenden Sie hierfür den Befehl `cp default.settings.php settings.php`.
+# '''Dateiberechtigungen für `settings.php` ändern:''' Abschließend müssen Sie die Dateiberechtigungen für die Datei `settings.php` auf 666 ändern. Verwenden Sie hierzu den Befehl `sudo chmod 666 settings.php`.
+
+'''Kurzanleitung für die Kommandozeile:'''
+ cd /var/www/drupal/web/sites/default/
+ mkdir files
+ mkdir files/translations
+ sudo chmod 777 -R files
+ cp default.settings.php settings.php
+ sudo chmod 666 settings.php
+Website starten. Jetzt neu st</text>
+      <sha1>dy1gc9nvli62ypf8tdzgx2u8dvn4nyc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Drupal/Cookie-Richtlinie</title>
+    <ns>3000</ns>
+    <id>41</id>
+    <revision>
+      <id>166</id>
+      <timestamp>2025-06-20T19:02:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ '''So installieren Sie die Option "Markdown Easy" in Drupal:''' # '''Zum Drupal-Adminbereich gehen.''' # '''Im linken Menü auf "Erweitern" klicken.''' Eine neue Seite erscheint. # '''Auf der Seite nach unten scrollen.''' # '''Die Option "Markdown Easy" suchen.''' # '''"Markdown Easy" durch Klicken auf das Kästchen aktivieren (blaues Häkchen).''' # '''Zum Seitenende scrollen und auf "Installieren" klicken.'''  '''Inhalte erstellen:'''  # Im linken Men…“</comment>
+      <origin>166</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2470" sha1="mm643c5rysixp82t9qk18lwb4wt1ac1" xml:space="preserve">
+'''So installieren Sie die Option "Markdown Easy" in Drupal:'''
+# '''Zum Drupal-Adminbereich gehen.'''
+# '''Im linken Menü auf "Erweitern" klicken.''' Eine neue Seite erscheint.
+# '''Auf der Seite nach unten scrollen.'''
+# '''Die Option "Markdown Easy" suchen.'''
+# '''"Markdown Easy" durch Klicken auf das Kästchen aktivieren (blaues Häkchen).'''
+# '''Zum Seitenende scrollen und auf "Installieren" klicken.'''
+
+'''Inhalte erstellen:'''
+
+# Im linken Menü den Punkt '''„Inhalt“''' auswählen. Eine neue Seite wird geladen.
+# Mit der Maus über die Schaltfläche '''„Inhalt hinzufügen“''' fahren und daraufklicken.
+# Eine neue Webseite öffnet sich.
+
+'''Anleitung zum Ausfüllen des Formulars:'''
+
+# '''Titel:''' Tragen Sie exakt „Cookie-Bestimmungen“ ein.
+# '''Inhalt:''' Verwenden Sie den nachfolgenden Text.
+# '''Textformat:''' Stellen Sie sicher, dass das Format auf „Markdown“ eingestellt ist.
+# '''Speichern:''' Klicken Sie abschließend auf die Schaltfläche „Speichern“.
+
+ # Cookie-Richtlinie
+ 
+ ## Was sind Cookies?
+ 
+ Cookies sind kleine Textdateien, die von Ihrem Browser auf Ihrem Endgerät gespeichert werden, wenn Sie unsere Website besuchen. Sie dienen dazu, unser Angebot nutzerfreundlicher, effektiver und sicherer zu machen.
+ 
+ ## Wie verwendet unsere Drupal-Website Cookies?
+ 
+ Unsere Drupal-Website verwendet Cookies für folgende Zwecke:
+ 
+ - **Notwendige Cookies:** Diese Cookies sind für den Betrieb der Website und grundlegende Funktionen erforderlich (z. B. Login, Session-Management).
+ - **Funktionale Cookies:** Sie ermöglichen erweiterte Funktionen und Personalisierung, wie z. B. das Speichern von Spracheinstellungen.
+ - **Drittanbieter-Cookies:** Beim Einbinden von externen Diensten (z. B. YouTube, Google Maps) können Cookies von Drittanbietern gesetzt werden.
+ 
+ ## Cookie-Einstellungen verwalten
+ 
+ Sie können Ihre Cookie-Einstellungen jederzeit in Ihrem Browser anpassen und bereits gespeicherte Cookies löschen. Bitte beachten Sie, dass bei der Deaktivierung von Cookies die Funktionalität unserer Website eingeschränkt sein kann.
+ 
+ ## Rechtsgrundlage
+ 
+ Die Verarbeitung personenbezogener Daten durch Cookies erfolgt auf Grundlage von Art. 6 Abs. 1 lit. a DSGVO (Einwilligung) oder Art. 6 Abs. 1 lit. f DSGVO (berechtigtes Interesse).
+ 
+ ## Weitere Informationen
+ 
+ Weitere Informationen zum Datenschutz finden Sie in unserer [Datenschutzerklärung](#).
+ 
+ ---
+ 
+ *Letzte Aktualisierung: 01.06.2025*</text>
+      <sha1>mm643c5rysixp82t9qk18lwb4wt1ac1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Drupal/Inhalt Import</title>
+    <ns>3000</ns>
+    <id>42</id>
+    <revision>
+      <id>168</id>
+      <timestamp>2025-06-20T19:12:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Die Inhaltsmigration ist ein wichtiger Bestandteil der Drupal-Websiteentwicklung und ermöglicht die Integration von Daten aus unterschiedlichen Quellen in die Drupal-Datenbank. Dies ist nützlich für die Migration von Inhalten aus anderen Systemen, die Aktualisierung bestehender Inhalte oder die Einbindung externer Datenquellen. Drupal bietet hierfür verschiedene Module und Methoden, darunter Feeds, Content Import und Migrate.  '''Feeds in Drupal'''  E…“</comment>
+      <origin>168</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2415" sha1="gq55t3m1hz8dpc0u7wpop0k6zpc9i2m" xml:space="preserve">Die Inhaltsmigration ist ein wichtiger Bestandteil der Drupal-Websiteentwicklung und ermöglicht die Integration von Daten aus unterschiedlichen Quellen in die Drupal-Datenbank. Dies ist nützlich für die Migration von Inhalten aus anderen Systemen, die Aktualisierung bestehender Inhalte oder die Einbindung externer Datenquellen. Drupal bietet hierfür verschiedene Module und Methoden, darunter Feeds, Content Import und Migrate.
+
+'''Feeds in Drupal'''
+
+Ein Feed in Drupal dient dem automatischen Import von Inhalten aus externen Quellen. Das Feeds-Modul erlaubt die Integration von Daten wie Artikeln, Nachrichten oder Benutzern aus verschiedenen Formaten (z. B. RSS, CSV) in eine Drupal-Website. Dies ist besonders praktisch für die regelmäßige Inhaltsaktualisierung oder Datenmigrationen. Die Installation und Konfiguration des Feeds-Moduls erfolgt über die Drupal-Modulseite. Nach der Aktivierung können Benutzer Feeds erstellen, konfigurieren und verwalten, um Inhalte effizient zu importieren und zu aktualisieren.
+
+composer require 'drupal/feeds:^3.0'
+
+'''Migrate-Modul für komplexe Migrationen'''
+
+Das Migrate-Modul in Drupal ist ein fortschrittliches Werkzeug für komplexe Inhaltsmigrationen. Es unterstützt die Migration aus verschiedenen Quellen, einschließlich anderer Drupal-Websites, und bietet eine flexible API zur Anpassung des Migrationsprozesses. Das Migrate-Modul ermöglicht die Migration von Inhalten, Benutzern, Taxonomien und anderen Entitäten und erlaubt Entwicklern, benutzerdefinierte Migrationsskripte zu erstellen. Dies ist besonders bei größeren Projekten mit Bedarf an präziser Steuerung des Migrationsprozesses von Vorteil. Die Installation und Konfiguration erfolgt ebenfalls über die Drupal-Modulseite. Nach der Aktivierung können Migrationspläne erstellt werden, welche die zu migrierenden Datenquellen und -ziele definieren.
+
+'''Zusammenfassung'''
+
+Der Inhaltsimport in Drupal ist ein grundlegender Aspekt der Website-Entwicklung und ermöglicht die Integration und Aktualisierung von Daten aus verschiedenen Quellen. Module wie Feeds und Migrate erlauben es Benutzern, Inhalte effizient zu importieren und zu verwalten, was die Flexibilität und Funktionalität von Drupal erheblich erweitert. Die Wahl des geeigneten Moduls hängt von den spezifischen Projektanforderungen ab, wobei Feeds sich für einfachere und Migrate für komplexere Migrationen eignet.</text>
+      <sha1>gq55t3m1hz8dpc0u7wpop0k6zpc9i2m</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Drupal/Inhalt Export</title>
+    <ns>3000</ns>
+    <id>43</id>
+    <revision>
+      <id>170</id>
+      <timestamp>2025-06-20T19:44:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ == Für den allgemeinen Inhaltsexport (CSV, XML, JSON) ==  === Views Data Export Modul ===  == Für die Migration von Inhalten zwischen Drupal-Sites (insbesondere gleiche Drupal-Version) ==  === Single Content Sync Modul ===  === Entity Migrate Export (EME) Modul ===  === Backup and Migrate Modul ===  == Für den Konfigurationsexport (z.B. Inhaltstypen, Felder, Views) ==  === Core Configuration Management (CMI) ===  === Features Modul ===“</comment>
+      <origin>170</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="443" sha1="du69jadejm9es5jhwti1r83hq63tkks" xml:space="preserve">
+== Für den allgemeinen Inhaltsexport (CSV, XML, JSON) ==
+
+=== Views Data Export Modul ===
+
+== Für die Migration von Inhalten zwischen Drupal-Sites (insbesondere gleiche Drupal-Version) ==
+
+=== Single Content Sync Modul ===
+
+=== Entity Migrate Export (EME) Modul ===
+
+=== Backup and Migrate Modul ===
+
+== Für den Konfigurationsexport (z.B. Inhaltstypen, Felder, Views) ==
+
+=== Core Configuration Management (CMI) ===
+
+=== Features Modul ===</text>
+      <sha1>du69jadejm9es5jhwti1r83hq63tkks</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Drupal/vollständige statische HTML-Kopie einer Drupal-Website zu erstellen</title>
+    <ns>3000</ns>
+    <id>44</id>
+    <revision>
+      <id>173</id>
+      <timestamp>2025-06-20T20:03:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ == vollständige statische HTML-Kopie einer Drupal-Website zu erstellen ==  * Tome-Modul * Wget Static-Modul * Static Generator-Modul“</comment>
+      <origin>173</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="134" sha1="glxe4md2iafztp6nqww7wo64m861alo" xml:space="preserve">
+== vollständige statische HTML-Kopie einer Drupal-Website zu erstellen ==
+
+* Tome-Modul
+* Wget Static-Modul
+* Static Generator-Modul</text>
+      <sha1>glxe4md2iafztp6nqww7wo64m861alo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurs:Hauptseite</title>
+    <ns>0</ns>
+    <id>45</id>
+    <revision>
+      <id>174</id>
+      <timestamp>2025-06-21T01:07:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „*  [[Asp Net Core Model Binding]]“</comment>
+      <origin>174</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="33" sha1="c4ob63qmb41rmovzh4yvfzebdr9al31" xml:space="preserve">*  [[Asp Net Core Model Binding]]</text>
+      <sha1>c4ob63qmb41rmovzh4yvfzebdr9al31</sha1>
+    </revision>
+    <revision>
+      <id>176</id>
+      <parentid>174</parentid>
+      <timestamp>2025-06-21T01:08:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>176</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="38" sha1="28qc6nxra7h1gkbifj2stvvd2kus0th" xml:space="preserve">*  [[Kurs:Asp Net Core Model Binding]]</text>
+      <sha1>28qc6nxra7h1gkbifj2stvvd2kus0th</sha1>
+    </revision>
+    <revision>
+      <id>178</id>
+      <parentid>176</parentid>
+      <timestamp>2025-06-21T01:39:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>178</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="61" sha1="5kl3bgtfqkpguvx3y68k9b60o69emk6" xml:space="preserve">*  [[Kurs:Asp Net Core Model Binding]]
+* [[Kurs:Razor Views]]</text>
+      <sha1>5kl3bgtfqkpguvx3y68k9b60o69emk6</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Asp Net Core Model Binding</title>
+    <ns>0</ns>
+    <id>46</id>
+    <revision>
+      <id>175</id>
+      <timestamp>2025-06-21T01:07:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Query String== &lt;pre&gt;  using Microsoft.AspNetCore.Mvc;  namespace start.{{c1::Controllers;}}  // Diese Klasse definiert einen Controller für die ASP.NET Core MVC-Anwendung. {{c1::public class HomeController : Controller}} {{c1::{}}     // Diese Methode wird aufgerufen, wenn die Route "/start" aufgerufen wird.     // Der optionale Parameter "name" kann über die URL als Query-Parameter übergeben werden (z. B. /start?name=Thorsten).     {{c1::[Route("sta…“</comment>
+      <origin>175</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20510" sha1="ehu67mio8754h682f7xdq9giaqdwnqx" xml:space="preserve">==Query String==
+&lt;pre&gt;
+
+using Microsoft.AspNetCore.Mvc;
+
+namespace start.{{c1::Controllers;}}
+
+// Diese Klasse definiert einen Controller für die ASP.NET Core MVC-Anwendung.
+{{c1::public class HomeController : Controller}}
+{{c1::{}}
+    // Diese Methode wird aufgerufen, wenn die Route "/start" aufgerufen wird.
+    // Der optionale Parameter "name" kann über die URL als Query-Parameter übergeben werden (z. B. /start?name=Thorsten).
+    {{c1::[Route("start")]}}
+    {{c1::public IActionResult Index(string? name)}} 
+    {
+        // Überprüft, ob der Parameter "name" nicht null ist.
+        {{c1::if (name!=null){}}
+            // Gibt den Wert von "name" als Antwort zurück.
+            {{c1::return Content($"{name}");}}
+        {{c1::} }}
+        // Gibt den Standardinhalt keine Inhalt zurück, wenn "name" null ist.
+        {{c1::return Content("Keine Inhalt");}}
+    {{c1::} }} 
+{{c1::} }}
+
+&lt;/pre&gt;
+
+==Route Data==
+&lt;pre&gt;
+using Microsoft.AspNetCore.Mvc;
+
+// Der HomeController erbt von der Basisklasse "Controller", die grundlegende Funktionen für MVC-Controller bereitstellt.
+namespace start.{{c1::Controllers;}}
+
+{{c1::public class HomeController : Controller}}
+{
+
+    // Die Route-Attributdeklaration definiert eine URL-Route für die Methode "Index".
+    // Beispiel: Ein Aufruf von "http://localhost/start/100" würde diese Methode aufrufen,
+    // wobei "100" als Parameter "id" übergeben wird.
+    {{c1::[Route("/start/{id:int}")] }} // Die Route akzeptiert nur Ganzzahlen (int) als Parameter.
+    {{c1::public IActionResult Index(int? id){}}
+        // Gibt den Wert des Parameters "id" als Textinhalt zurück.
+        // Wenn "id" null ist, wird "null" als String zurückgegeben.
+        {{c1::return Content($"{id}");}}
+    {{c1::} }}
+{{c1::} }}
+&lt;/pre&gt;
+
+==Die HomeController-Klasse erbt von der Controller-Basis-Klasse==
+&lt;pre&gt;
+using Microsoft.AspNetCore.Mvc; // Importiert den Namespace für ASP.NET Core MVC-Funktionen
+
+namespace start.{{c1::Controllers;}} // Definiert den Namespace der Anwendung
+
+// Die HomeController-Klasse erbt von der Controller-Basis-Klasse
+{{c1::public class HomeController : Controller}}
+{{c1::{}}
+    // Die Route "/start" wird für diese Methode definiert
+    // Beispiel: http://localhost/start?id=100  als Ganzahl
+    {{c1::[Route("/start")]}} 
+    {{c1::public IActionResult Index([FromQuery] int? id){}} // Nimmt eine optionale Abfrageparameter "id" aus der URL entgegen Ganzahl
+        {{c1::return Content($"{id}");}} // Gibt den Wert von "id" als Textinhalt zurück
+    {{c1::} }}
+{{c1::} }}
+&lt;/pre&gt;
+
+==Der HomeController stellt einen Endpunkt zur Verfügung, der eine ID aus der URL entgegennimmt==
+
+&lt;pre&gt;
+using Microsoft.AspNetCore.Mvc;
+
+namespace start.{{c1::Controllers;}}
+
+// Der HomeController stellt einen Endpunkt zur Verfügung, der eine ID aus der URL entgegennimmt
+{{c1::public class HomeController : Controller}}
+{{c1::{}}
+    // Diese Methode reagiert auf Aufrufe wie /start/123 und gibt die ID als Text zurück(Ganz Zahl)
+    {{c1::[Route("/start/{id}")]}}
+    {{c1::public IActionResult Index ([FromRoute] int id)}}
+    {{c1::{}}
+        // Gibt die übergebene ID als Inhalt der HTTP-Antwort zurück
+        {{c1::return Content($"{id}");}}
+    {{c1::} }}
+
+{{c1::} }}
+
+&lt;/pre&gt;
+==Person.css==
+&lt;pre&gt;
+using Microsoft.AspNetCore.Mvc;
+
+namespace start.{{c1::Models;}}
+
+// Diese Klasse repräsentiert eine Person.
+{{c1::public class Person}}
+{
+// Holt den Wert für die Eigenschaft Id aus den Query-Parametern der HTTP-Anfrage.
+    {{c1::[FromQuery]}}
+
+     // Die eindeutige ID der Person (Ganzzahl).
+    {{c1::public int? Id {get;set;}}}
+
+    // Der Vorname der Person.
+    {{c1::public string? Vorname {get;set;}}}
+
+    // Gibt eine Zeichenkette zurück, die die Person anhand von Id und Vorname beschreibt.
+    {{c1::public override string ToString()}}
+    {{c1::{}}
+        {{c1::return}} $"{Id}={Vorname}";
+    {{c1::} }}
+{{c1::} }}
+
+&lt;/pre&gt;
+
+==HomeController==
+&lt;pre&gt;
+using Microsoft.AspNetCore.Mvc;
+using start.Models;
+namespace start.{{c1::Controllers;}}
+
+// Dies ist der Controller für die Startseite.
+{{c1::public class HomeController : Controller}}
+{{c1::{}}
+
+    // Diese Methode wird aufgerufen, wenn die Route "/start?id=1&amp;Vorname=Thorsten aufgerufen wird.
+    // Sie nimmt ein Person-Objekt entgegen und gibt dessen Inhalt als Text zurück.
+    {{c1::[Route("/start")]}}
+    {{c1::public IActionResult Index(Person person)}}
+    {{c1::{}}
+        {{c1::return Content($"{person}");}}
+    {{c1::} }}
+
+{{c1::} }}
+
+&lt;/pre&gt;
+
+
+==Person.cs==
+
+&lt;pre&gt;
+using System.ComponentModel.DataAnnotations;
+
+namespace start.{{c1::Models;}}
+
+// Die Klasse `Person` repräsentiert eine Person mit grundlegenden Eigenschaften wie Vorname, Nachname und Telefonnummer.
+{{c1::public class Person}}
+{
+    // Die Eigenschaft `Vorname` ist erforderlich und darf nicht leer sein.
+    {{c1::[Required]}}
+    {{c1::public string? Vorname {get;set;} }}
+
+    // Die Eigenschaft `Nachname` ist optional, kann aber bei Bedarf ebenfalls als erforderlich markiert werden.
+    {{c1::public string? Nachname {get;set;} }}
+
+    // Die Eigenschaft `Telefonnummer` ist optional. Es gibt keine Validierung für das Format der Telefonnummer.
+    {{c1::public string? Telefonnummer {get;set;} }}
+
+    // Überschreibt die `ToString`-Methode, um die Eigenschaften der Klasse als lesbaren String zurückzugeben.
+       {{c1::public override string ToString()}}
+    {{c1::{}}
+        {{c1::return}} $"Vorname {Vorname} , Nachname: {Nachname}: Telefonummer: {Telefonnummer} ";
+    {{c1::} }}
+{{c1::} }}
+&lt;/pre&gt;
+
+==HomeController==
+&lt;pre&gt;
+
+using Microsoft.AspNetCore.Mvc;
+using start.{{c1::Models;}}
+
+namespace start.{{c1::Controllers;}}
+
+// Der `HomeController` verwaltet die Routen und Aktionen für die Startseite der Anwendung.
+{{c1::public class HomeController : Controller}}
+{
+    // Die Methode `Index` wird aufgerufen, wenn die Route "/Register" aufgerufen wird.
+    // Sie erwartet ein `Person`-Objekt als Parameter, das automatisch durch Model Binding gefüllt wird.
+    // Die Methode gibt die Eigenschaften des `Person`-Objekts als Textinhalt zurück.
+    {{c1::[Route("Register")]}}
+    {{c1::public IActionResult Index(Person person)}}
+    {{c1::{}}
+        // Gibt die `ToString`-Darstellung des `Person`-Objekts als HTTP-Antwort zurück.
+        {{c1::return Content($"{person}");}}
+    {{c1::} }}
+{{c1::} }}
+&lt;/pre&gt;
+==Der HomeController verarbeitet Anfragen an die Route "Register".==
+&lt;pre&gt;
+using Microsoft.AspNetCore.Mvc;
+using start.{{c1::Models;}}
+namespace start.{{c1::Controllers;}}
+
+// Der HomeController verarbeitet Anfragen an die Route "Register".
+// Die Methode Index nimmt ein Person-Objekt entgegen und prüft,
+// ob das Model gültig ist. Bei ungültigem Model sollte eine Fehlerbehandlung erfolgen.
+{{c1::public class HomeController : Controller}}
+{
+
+    {{c1::[Route("Register")]}}
+    {{public IActionResult Index(Person person)}}
+    {
+        // Überprüft, ob das Model gültig ist
+        {{c1::if (!ModelState.IsValid)}}
+        {
+            // Hier sollte die Fehlerbehandlung implementiert werden
+        }
+        // Weitere Verarbeitung, falls das Model gültig ist
+    }
+
+}
+&lt;/pre&gt;
+==Dies ist der HomeController, der von der ASP.NET Core Controller-Basis-Klasse erbt==
+&lt;pre&gt;
+
+using Microsoft.AspNetCore.Mvc;
+using start.{{c1::Models;}}
+namespace start.{{c1::Controllers;}}
+
+// Dies ist der HomeController, der von der ASP.NET Core Controller-Basis-Klasse erbt.
+{{c1::public class HomeController : Controller}}
+{
+
+    // Diese Methode wird aufgerufen, wenn die Route "/Register" aufgerufen wird.
+    // Sie erwartet ein Person-Objekt als Parameter.
+    {{c1::[Route("Register")]}}
+    {{c1::public IActionResult Index(Person person)}}
+    {{c1::{}}
+        // Überprüft, ob das übergebene Modell gültig ist.
+        {{c1::if (!ModelState.IsValid)}}
+        {{c1::{}}
+            // Falls das Modell ungültig ist, werden alle Fehlermeldungen aus dem ModelState gesammelt.
+           {{c1::var errors=ModelState.Values}}
+                {{c1::.SelectMany(v =&gt; v.Errors)}}
+                {{c1::.Select(e =&gt; e.ErrorMessage)}}
+                {{c1::.ToList();}}
+            // Gibt die Fehlermeldungen als Text zurück, getrennt durch Semikolons.
+            {{c1::return Content(string.Join("; ", errors));}}
+        {{c1::} }}
+        // Falls das Modell gültig ist, wird "Richtig" als Text zurückgegeben.
+        {{c1::return Content("Richtig");}}
+    {{c1::} }}
+
+{{c1::} }}
+
+&lt;/pre&gt;
+
+==Person.cs==
+&lt;pre&gt;
+using System;
+using System.ComponentModel.DataAnnotations;
+
+namespace start.{{c1::Models;}}
+
+/// Die Klasse Person repräsentiert eine Person mit Vor- und Nachnamen
+{{c1::public class Person}}
+{
+
+
+    /// Gibt den Vornamen der Person zurück oder legt ihn fest.
+    /// Das Attribut  stellt sicher, dass dieses Feld nicht leer bleibt.
+    {{c1::[Required]}}
+    {{c1::public string? Vorname {{c1::{get;set;} }}
+    /// Gibt den Nachnamen der Person zurück oder legt ihn fest.
+    /// Das Attribut stellt sicher, dass dieses Feld nicht leer bleibt.
+    {{c1::[Required]}}
+    {{c1::public string? Nachname {get;set;} }}
+
+{{c1::} }}
+
+&lt;/pre&gt;
+
+==HomeController==
+&lt;pre&gt;
+using Microsoft.AspNetCore.Mvc;
+using start.Models;
+
+namespace start.Controllers;
+
+/// Der HomeController behandelt die Startseite der Anwendung.
+public class HomeController : Controller
+{
+    
+    /// Diese Methode empfängt ein Person-Objekt und gibt entweder die Namen aus
+    /// oder bei ungültigem Model die Fehlermeldungen zurück.
+    /// Url http://localhost?Vorname=ttt&amp;Nachname=rrr
+    {{c1::[Route("/")]}}
+    {{c1::public IActionResult Index(Person person)}}
+    {{c1::{}}
+        {{c1::if (!ModelState.IsValid)}}
+        {{c1::{}}
+            // Fehler aus dem ModelState extrahieren und als BadRequest zurückgeben
+            {{c1::var errors=ModelState.Values}}
+            {{c1::.SelectMany(v=&gt;v.Errors)}}
+            {{c1::.Select(e=&gt;e.ErrorMessage);}}
+            {{c1::return BadRequest(errors);}}
+        {{c1::} }}
+        // Vor- und Nachname der Person als Text zurückgeben
+        {{c1::return Content}}($"{person.Vorname} {person.Nachname}");
+    {{c1::} }}
+{{c1::} }}
+&lt;/pre&gt;
+
+
+==Person.cs==
+
+&lt;pre&gt;
+
+using System;
+using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
+
+namespace start.{{c1::Models;}}
+
+// Die Klasse "Person" repräsentiert ein Modell für eine Person mit Vor- und Nachnamen.
+{{c1::public class Person}}
+{
+    // Die Eigenschaft "Vorname" ist erforderlich und darf nicht null sein.
+    // Der Anzeigename wird als "Vorname" definiert.
+    {{c1::[Required(ErrorMessage = "{0} darf nicht leer sein.")]}}
+    {{c1::[Display(Name = "Vorname")]}}
+    {{c1::public string? Vorname {get;set;} }}
+
+    // Die Eigenschaft "Nachname" ist ebenfalls erforderlich und darf nicht null sein.
+    // Der Anzeigename wird als "Nachname" definiert.
+    {{c1::[Required(ErrorMessage = "{0} darf nicht leer sein.")]}}
+    {{c1::[Display(Name = "Nachname")]}}
+    {{c1::public string? Nachname {get;set;} }}
+{{c1::} }}
+
+&lt;/pre&gt;
+
+
+==HomeController==
+
+&lt;pre&gt;
+using System;
+using Microsoft.AspNetCore.Mvc;
+using start.{{c1::Models;}}
+
+namespace start.{{c1::Controllers;}}
+
+// Die HomeController-Klasse erbt von der Controller-Basis-Klasse und stellt Endpunkte für die Anwendung bereit.
+{{c1::public class HomeController : Controller}}
+{
+
+    // Dieser Endpunkt wird über die Route "Register" aufgerufen. Beispiel: https://localhost/Register?Vorname=steffi&amp;Nachname=Timm
+    {{c1::[Route("Register")]}}
+    {{c1::public IActionResult Index(Person person)}}
+    {{c1::{}}
+        // Überprüft, ob das übermittelte Modell (Person) gültig ist.
+        {{c1::if (!ModelState.IsValid)}}
+        {{c1::{}}
+            // Falls das Modell ungültig ist, werden alle Validierungsfehler gesammelt.
+            {{c1::var errors = ModelState.Values}}
+                {{c1::.SelectMany(e =&gt; e.Errors)}}
+                {{c1::.Select(v =&gt; v.ErrorMessage);}}
+
+            // Gibt die Fehler als BadRequest-Antwort zurück.
+           
+
+            {{v1::return BadRequest(errors);}}
+        {{c1::} }}
+
+        // Falls das Modell gültig ist, wird der Nachname und Vorname der Person zurückgegeben.
+        {{c1::return}} Json(person);
+    {{c1::} }}
+{{c1::} }}
+&lt;/pre&gt;
+==Person.cs==
+&lt;pre&gt;
+using System;
+using System.ComponentModel.DataAnnotations;
+
+namespace start.{{c1::Models;}}
+
+// Die Klasse Person repräsentiert eine Person mit einer Eigenschaft "Vorname".
+{{c1::public class Person}}
+{{c1::{}}
+    // Die Eigenschaft "Vorname" ist erforderlich und unterliegt bestimmten Validierungsregeln.
+
+    //  Stellt sicher, dass die Eigenschaft "Vorname" nicht leer ist.
+    // Eine benutzerdefinierte Fehlermeldung wird angezeigt, wenn die Validierung fehlschlägt.
+    // Satz soll ausgaben '''Das Feld Vorname darf nicht leer sein''' 
+    {{c1::[Required(ErrorMessage="Das Feld {0} darf nicht leer sein.")]}}
+
+    // [Display]: Gibt an, wie die Eigenschaft "Vorname" in der Benutzeroberfläche angezeigt wird.
+    {{c1::[Display(Name="Vorname")]}}
+
+    //  Legt die maximale und minimale Länge für die Eigenschaft "Vorname" fest.
+    // Die Länge muss zwischen 5 und 40 Zeichen liegen. Eine Fehlermeldung wird definiert.
+    // Satz soll ausgaben '''Die Länge von Vornaame muss zwischen 5 und 40 Zeichen liegen
+    {{c1::[StringLength(40,MinimumLength=5,ErrorMessage="Die Länge von {0} muss zwischen {2} und {1} Zeichen liegen.")]}}
+    {{c1::public string? Vorname {get;set;} }}
+{{c1::} }}
+
+&lt;/pre&gt;
+
+==HomeController==
+&lt;pre&gt;
+
+using System;
+using System.ComponentModel.Design;
+using Microsoft.AspNetCore.Mvc;
+using start.{{c1::Models;}}
+namespace start.{{c1::Controllers;}}
+
+// Der HomeController erbt von der Basisklasse Controller, die grundlegende Funktionen für MVC-Controller bereitstellt.
+{{c1::public class HomeController : Controller}}
+{{c1::{}}
+    // Die Index-Methode ist mit der Route "/" verknüpft und wird aufgerufen, wenn die Basis-URL der Anwendung aufgerufen wird.
+    {{c1::[Route("/")]}}
+    {{c1::public IActionResult Index(Person person)}}
+    {{c1::{}}
+        // Überprüfung, ob das übergebene Modell (Person) gültig ist.
+        {{c1::if (!ModelState.IsValid)}}
+        {{c1::{}}
+            // Wenn das Modell ungültig ist, werden die Fehler aus dem ModelState extrahiert.
+            {{c1::var errors=ModelState.Values}}
+            {{c1::.SelectMany(e=&gt;e.Errors)}}
+            {{c1::.Select(v=&gt;v.ErrorMessage);}}
+
+            // Rückgabe eines BadRequest (HTTP 400) mit den Fehlern.
+            {{c1::return BadRequest(errors);}}
+        {{c1::} }}
+
+        // Wenn das Modell gültig ist, wird es als JSON zurückgegeben.
+        {{c1::return Json(person);}}
+    {{c1::} }}
+{{c1::} }}
+&lt;/pre&gt;
+
+==Person==
+&lt;pre&gt;
+using System.ComponentModel.DataAnnotations;
+
+namespace start.{{c1::Models;}}
+
+// Die Klasse "Person" repräsentiert ein Modell mit einer Eigenschaft "Alter".
+{{c1::public class Person}}
+{{c1::{}}
+    // "Alter" darf nicht leer sein. Eine Fehlermeldung wird angezeigt, 
+    // wenn kein Wert angegeben wird.
+    {{c1::[Required(ErrorMessage = "{0} darf nicht leer sein")]}}
+    
+    // Der Anzeigename für "Alter" wird auf "Alter" gesetzt, was z. B. 
+    // in Formularen oder Fehlermeldungen verwendet wird.
+    {{c1::[Display(Name="Alter")]}}
+    
+    // Der Wert von "Alter" muss zwischen 10 und 20 liegen. Andernfalls wird 
+    // eine Fehlermeldung mit den entsprechenden Grenzwerten angezeigt.
+    // Fehlermeldung: "Alter darf nur mindestens 10 bis 20 sein."
+    {{c1::[Range(10, 20, ErrorMessage = "{0} darf nur mindestens {1} bis {2} sein")]}}
+    {{c1::public int? Alter {get;set;} }}
+{{c1::} }}
+&lt;/pre&gt;
+
+==HomeController==
+&lt;pre&gt;
+
+using System;
+using System.ComponentModel.Design;
+using Microsoft.AspNetCore.Mvc;
+using start.{{c1::Models;}}
+namespace start.{{c1::Controllers;}}
+
+// Der HomeController erbt von der Basisklasse Controller, die grundlegende Funktionen für MVC-Controller bereitstellt.
+{{c1::public class HomeController : Controller}}
+{{c1::{}}
+    // Die Index-Methode ist mit der Route "/" verknüpft und wird aufgerufen, wenn die Basis-URL der Anwendung aufgerufen wird.
+    {{c1::[Route("/")]}}
+    {{c1::public IActionResult Index(Person person)}}
+    {{c1::{}}
+        // Überprüfung, ob das übergebene Modell (Person) gültig ist.
+        {{c1::if (!ModelState.IsValid)}}
+        {{c1::{}}
+            // Wenn das Modell ungültig ist, werden die Fehler aus dem ModelState extrahiert.
+            {{c1::var errors=ModelState.Values}}
+            {{c1::.SelectMany(e=&gt;e.Errors)}}
+            {{c1::.Select(v=&gt;v.ErrorMessage);}}
+
+            // Rückgabe eines BadRequest (HTTP 400) mit den Fehlern.
+            {{c1::return BadRequest(errors);}}
+        {{c1::} }}
+
+        // Wenn das Modell gültig ist, wird es als JSON zurückgegeben.
+        {{c1::return Json(person);}}
+    {{c1::} }}
+{{c1::} }}
+&lt;/pre&gt;
+
+==Person.css==
+&lt;pre&gt;
+
+using System.ComponentModel.DataAnnotations;
+
+namespace start.Models;
+
+// Die Klasse Person repräsentiert ein Modell mit Validierungsregeln für die Eigenschaften Passwort und RePasswort.
+public class Person
+{c1::{}}
+    // Die Eigenschaft Passwort ist erforderlich und muss zwischen 8 und 12 Zeichen lang sein.
+    // Das Attribut  stellt sicher, dass das Feld nicht leer ist.
+    // Das Attribut definiert den Anzeigenamen für die Eigenschaft.
+    // Das Attribut  legt die minimale und maximale Länge der Zeichenfolge fest.
+    //Fehler Meldung "Passwort darf nicht leer sein.
+    {{c1::[Required(ErrorMessage="{0} darf nicht leer sein")}}
+    {{c1::[Display(Name="Passwort")]}}
+    //Fehler Meldung "Passwort: Die Länge muss zwischen 12 und 8 Zeichen liegen")]
+    {{c1::[StringLength(12,MinimumLength=8,ErrorMessage ="{0}: Die Länge muss zwischen {2} und {1} Zeichen liegen")]}}
+    {{c1::public string? Passwort{get; set;} }}
+
+    // Die Eigenschaft RePasswort ist ebenfalls erforderlich und muss die gleichen Längenbeschränkungen wie Passwort erfüllen.
+    // Zusätzlich wird mit dem Attribut  sichergestellt, dass RePasswort mit Passwort übereinstimmt.
+   //Fehler Meldung ""RePasswort darf nicht leer sein."
+    {{c1::[Required(ErrorMessage="{0} darf nicht leer sein")]}}
+    {{c1::[Display(Name="RePasswort")]}}
+    //Fehler Meldung "RePasswort: Die Länge muss zwischen 12 und 8 Zeichen liegen")]
+    {{c1::[StringLength(12,MinimumLength=8,ErrorMessage="{0}: Die Länge muss zwischen {2} und {1} Zeichen liegen")]}}
+    //Fehler Meldung "RePasswort stimmt nicht mit Passwort überein"
+    {{c1::[Compare("Passwort",ErrorMessage="{0} stimmt nicht mit {1} überein")]}}
+    {{c1::public string? RePasswort {get;set;} }}
+{{c1::} }}
+
+&lt;/pre&gt;
+
+==HomeController==
+&lt;pre&gt;
+using System;
+using System.ComponentModel.Design;
+using Microsoft.AspNetCore.Mvc;
+using start.{{c1::Models;}}
+namespace start.{{c1::Controllers;}}
+
+// Der HomeController erbt von der Basisklasse Controller, die grundlegende Funktionen für MVC-Controller bereitstellt.
+{{c1::public class HomeController : Controller}}
+{{c1::{}}
+    // Die Index-Methode ist mit der Route "/" verknüpft und wird aufgerufen, wenn die Basis-URL der Anwendung aufgerufen wird.
+    {{c1::[Route("/")]}}
+    {{c1::public IActionResult Index(Person person)}}
+    {{c1::{}}
+        // Überprüfung, ob das übergebene Modell (Person) gültig ist.
+        {{c1::if (!ModelState.IsValid)}}
+        {{c1::{}}
+            // Wenn das Modell ungültig ist, werden die Fehler aus dem ModelState extrahiert.
+            {{c1::var errors=ModelState.Values}}
+            {{c1::.SelectMany(e=&gt;e.Errors)}}
+            {{c1::.Select(v=&gt;v.ErrorMessage);}}
+
+            // Rückgabe eines BadRequest (HTTP 400) mit den Fehlern.
+            {{c1::return BadRequest(errors);}}
+        {{c1::} }}
+
+        // Wenn das Modell gültig ist, wird es als JSON zurückgegeben.
+        {{c1::return Json(person);}}
+    {{c1::} }}
+{{c1::} }}
+&lt;/pre&gt;
+
+==Grundklasse für Start-Validierung==
+&lt;pre&gt;
+using System;
+using System.ComponentModel.DataAnnotations;
+
+namespace start.praxis;
+// Grundklasse für Start-Validierung
+// Diese Klasse kann erweitert werden, um spezifische Validierungslogik zu implementieren
+// Grundsätzlich wird die Validierung in der abgeleiteten Klasse implementiert
+{{c1::public class Start : ValidationAttribute}} // Automaazisch ersellt, um Validierung zu ermöglichen
+{
+    {{c1::protected override}} ValidationResult? IsValid(object? value, ValidationContext validationContext)
+    {
+        return base.IsValid(value, validationContext);
+    }
+}
+&lt;/pre&gt;</text>
+      <sha1>ehu67mio8754h682f7xdq9giaqdwnqx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurs:Asp Net Core Model Binding</title>
+    <ns>0</ns>
+    <id>47</id>
+    <revision>
+      <id>177</id>
+      <timestamp>2025-06-21T01:09:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Query String== &lt;pre&gt;  using Microsoft.AspNetCore.Mvc;  namespace start.{{c1::Controllers;}}  // Diese Klasse definiert einen Controller für die ASP.NET Core MVC-Anwendung. {{c1::public class HomeController : Controller}} {{c1::{}}     // Diese Methode wird aufgerufen, wenn die Route "/start" aufgerufen wird.     // Der optionale Parameter "name" kann über die URL als Query-Parameter übergeben werden (z. B. /start?name=Thorsten).     {{c1::[Route("sta…“</comment>
+      <origin>177</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20510" sha1="ehu67mio8754h682f7xdq9giaqdwnqx" xml:space="preserve">==Query String==
+&lt;pre&gt;
+
+using Microsoft.AspNetCore.Mvc;
+
+namespace start.{{c1::Controllers;}}
+
+// Diese Klasse definiert einen Controller für die ASP.NET Core MVC-Anwendung.
+{{c1::public class HomeController : Controller}}
+{{c1::{}}
+    // Diese Methode wird aufgerufen, wenn die Route "/start" aufgerufen wird.
+    // Der optionale Parameter "name" kann über die URL als Query-Parameter übergeben werden (z. B. /start?name=Thorsten).
+    {{c1::[Route("start")]}}
+    {{c1::public IActionResult Index(string? name)}} 
+    {
+        // Überprüft, ob der Parameter "name" nicht null ist.
+        {{c1::if (name!=null){}}
+            // Gibt den Wert von "name" als Antwort zurück.
+            {{c1::return Content($"{name}");}}
+        {{c1::} }}
+        // Gibt den Standardinhalt keine Inhalt zurück, wenn "name" null ist.
+        {{c1::return Content("Keine Inhalt");}}
+    {{c1::} }} 
+{{c1::} }}
+
+&lt;/pre&gt;
+
+==Route Data==
+&lt;pre&gt;
+using Microsoft.AspNetCore.Mvc;
+
+// Der HomeController erbt von der Basisklasse "Controller", die grundlegende Funktionen für MVC-Controller bereitstellt.
+namespace start.{{c1::Controllers;}}
+
+{{c1::public class HomeController : Controller}}
+{
+
+    // Die Route-Attributdeklaration definiert eine URL-Route für die Methode "Index".
+    // Beispiel: Ein Aufruf von "http://localhost/start/100" würde diese Methode aufrufen,
+    // wobei "100" als Parameter "id" übergeben wird.
+    {{c1::[Route("/start/{id:int}")] }} // Die Route akzeptiert nur Ganzzahlen (int) als Parameter.
+    {{c1::public IActionResult Index(int? id){}}
+        // Gibt den Wert des Parameters "id" als Textinhalt zurück.
+        // Wenn "id" null ist, wird "null" als String zurückgegeben.
+        {{c1::return Content($"{id}");}}
+    {{c1::} }}
+{{c1::} }}
+&lt;/pre&gt;
+
+==Die HomeController-Klasse erbt von der Controller-Basis-Klasse==
+&lt;pre&gt;
+using Microsoft.AspNetCore.Mvc; // Importiert den Namespace für ASP.NET Core MVC-Funktionen
+
+namespace start.{{c1::Controllers;}} // Definiert den Namespace der Anwendung
+
+// Die HomeController-Klasse erbt von der Controller-Basis-Klasse
+{{c1::public class HomeController : Controller}}
+{{c1::{}}
+    // Die Route "/start" wird für diese Methode definiert
+    // Beispiel: http://localhost/start?id=100  als Ganzahl
+    {{c1::[Route("/start")]}} 
+    {{c1::public IActionResult Index([FromQuery] int? id){}} // Nimmt eine optionale Abfrageparameter "id" aus der URL entgegen Ganzahl
+        {{c1::return Content($"{id}");}} // Gibt den Wert von "id" als Textinhalt zurück
+    {{c1::} }}
+{{c1::} }}
+&lt;/pre&gt;
+
+==Der HomeController stellt einen Endpunkt zur Verfügung, der eine ID aus der URL entgegennimmt==
+
+&lt;pre&gt;
+using Microsoft.AspNetCore.Mvc;
+
+namespace start.{{c1::Controllers;}}
+
+// Der HomeController stellt einen Endpunkt zur Verfügung, der eine ID aus der URL entgegennimmt
+{{c1::public class HomeController : Controller}}
+{{c1::{}}
+    // Diese Methode reagiert auf Aufrufe wie /start/123 und gibt die ID als Text zurück(Ganz Zahl)
+    {{c1::[Route("/start/{id}")]}}
+    {{c1::public IActionResult Index ([FromRoute] int id)}}
+    {{c1::{}}
+        // Gibt die übergebene ID als Inhalt der HTTP-Antwort zurück
+        {{c1::return Content($"{id}");}}
+    {{c1::} }}
+
+{{c1::} }}
+
+&lt;/pre&gt;
+==Person.css==
+&lt;pre&gt;
+using Microsoft.AspNetCore.Mvc;
+
+namespace start.{{c1::Models;}}
+
+// Diese Klasse repräsentiert eine Person.
+{{c1::public class Person}}
+{
+// Holt den Wert für die Eigenschaft Id aus den Query-Parametern der HTTP-Anfrage.
+    {{c1::[FromQuery]}}
+
+     // Die eindeutige ID der Person (Ganzzahl).
+    {{c1::public int? Id {get;set;}}}
+
+    // Der Vorname der Person.
+    {{c1::public string? Vorname {get;set;}}}
+
+    // Gibt eine Zeichenkette zurück, die die Person anhand von Id und Vorname beschreibt.
+    {{c1::public override string ToString()}}
+    {{c1::{}}
+        {{c1::return}} $"{Id}={Vorname}";
+    {{c1::} }}
+{{c1::} }}
+
+&lt;/pre&gt;
+
+==HomeController==
+&lt;pre&gt;
+using Microsoft.AspNetCore.Mvc;
+using start.Models;
+namespace start.{{c1::Controllers;}}
+
+// Dies ist der Controller für die Startseite.
+{{c1::public class HomeController : Controller}}
+{{c1::{}}
+
+    // Diese Methode wird aufgerufen, wenn die Route "/start?id=1&amp;Vorname=Thorsten aufgerufen wird.
+    // Sie nimmt ein Person-Objekt entgegen und gibt dessen Inhalt als Text zurück.
+    {{c1::[Route("/start")]}}
+    {{c1::public IActionResult Index(Person person)}}
+    {{c1::{}}
+        {{c1::return Content($"{person}");}}
+    {{c1::} }}
+
+{{c1::} }}
+
+&lt;/pre&gt;
+
+
+==Person.cs==
+
+&lt;pre&gt;
+using System.ComponentModel.DataAnnotations;
+
+namespace start.{{c1::Models;}}
+
+// Die Klasse `Person` repräsentiert eine Person mit grundlegenden Eigenschaften wie Vorname, Nachname und Telefonnummer.
+{{c1::public class Person}}
+{
+    // Die Eigenschaft `Vorname` ist erforderlich und darf nicht leer sein.
+    {{c1::[Required]}}
+    {{c1::public string? Vorname {get;set;} }}
+
+    // Die Eigenschaft `Nachname` ist optional, kann aber bei Bedarf ebenfalls als erforderlich markiert werden.
+    {{c1::public string? Nachname {get;set;} }}
+
+    // Die Eigenschaft `Telefonnummer` ist optional. Es gibt keine Validierung für das Format der Telefonnummer.
+    {{c1::public string? Telefonnummer {get;set;} }}
+
+    // Überschreibt die `ToString`-Methode, um die Eigenschaften der Klasse als lesbaren String zurückzugeben.
+       {{c1::public override string ToString()}}
+    {{c1::{}}
+        {{c1::return}} $"Vorname {Vorname} , Nachname: {Nachname}: Telefonummer: {Telefonnummer} ";
+    {{c1::} }}
+{{c1::} }}
+&lt;/pre&gt;
+
+==HomeController==
+&lt;pre&gt;
+
+using Microsoft.AspNetCore.Mvc;
+using start.{{c1::Models;}}
+
+namespace start.{{c1::Controllers;}}
+
+// Der `HomeController` verwaltet die Routen und Aktionen für die Startseite der Anwendung.
+{{c1::public class HomeController : Controller}}
+{
+    // Die Methode `Index` wird aufgerufen, wenn die Route "/Register" aufgerufen wird.
+    // Sie erwartet ein `Person`-Objekt als Parameter, das automatisch durch Model Binding gefüllt wird.
+    // Die Methode gibt die Eigenschaften des `Person`-Objekts als Textinhalt zurück.
+    {{c1::[Route("Register")]}}
+    {{c1::public IActionResult Index(Person person)}}
+    {{c1::{}}
+        // Gibt die `ToString`-Darstellung des `Person`-Objekts als HTTP-Antwort zurück.
+        {{c1::return Content($"{person}");}}
+    {{c1::} }}
+{{c1::} }}
+&lt;/pre&gt;
+==Der HomeController verarbeitet Anfragen an die Route "Register".==
+&lt;pre&gt;
+using Microsoft.AspNetCore.Mvc;
+using start.{{c1::Models;}}
+namespace start.{{c1::Controllers;}}
+
+// Der HomeController verarbeitet Anfragen an die Route "Register".
+// Die Methode Index nimmt ein Person-Objekt entgegen und prüft,
+// ob das Model gültig ist. Bei ungültigem Model sollte eine Fehlerbehandlung erfolgen.
+{{c1::public class HomeController : Controller}}
+{
+
+    {{c1::[Route("Register")]}}
+    {{public IActionResult Index(Person person)}}
+    {
+        // Überprüft, ob das Model gültig ist
+        {{c1::if (!ModelState.IsValid)}}
+        {
+            // Hier sollte die Fehlerbehandlung implementiert werden
+        }
+        // Weitere Verarbeitung, falls das Model gültig ist
+    }
+
+}
+&lt;/pre&gt;
+==Dies ist der HomeController, der von der ASP.NET Core Controller-Basis-Klasse erbt==
+&lt;pre&gt;
+
+using Microsoft.AspNetCore.Mvc;
+using start.{{c1::Models;}}
+namespace start.{{c1::Controllers;}}
+
+// Dies ist der HomeController, der von der ASP.NET Core Controller-Basis-Klasse erbt.
+{{c1::public class HomeController : Controller}}
+{
+
+    // Diese Methode wird aufgerufen, wenn die Route "/Register" aufgerufen wird.
+    // Sie erwartet ein Person-Objekt als Parameter.
+    {{c1::[Route("Register")]}}
+    {{c1::public IActionResult Index(Person person)}}
+    {{c1::{}}
+        // Überprüft, ob das übergebene Modell gültig ist.
+        {{c1::if (!ModelState.IsValid)}}
+        {{c1::{}}
+            // Falls das Modell ungültig ist, werden alle Fehlermeldungen aus dem ModelState gesammelt.
+           {{c1::var errors=ModelState.Values}}
+                {{c1::.SelectMany(v =&gt; v.Errors)}}
+                {{c1::.Select(e =&gt; e.ErrorMessage)}}
+                {{c1::.ToList();}}
+            // Gibt die Fehlermeldungen als Text zurück, getrennt durch Semikolons.
+            {{c1::return Content(string.Join("; ", errors));}}
+        {{c1::} }}
+        // Falls das Modell gültig ist, wird "Richtig" als Text zurückgegeben.
+        {{c1::return Content("Richtig");}}
+    {{c1::} }}
+
+{{c1::} }}
+
+&lt;/pre&gt;
+
+==Person.cs==
+&lt;pre&gt;
+using System;
+using System.ComponentModel.DataAnnotations;
+
+namespace start.{{c1::Models;}}
+
+/// Die Klasse Person repräsentiert eine Person mit Vor- und Nachnamen
+{{c1::public class Person}}
+{
+
+
+    /// Gibt den Vornamen der Person zurück oder legt ihn fest.
+    /// Das Attribut  stellt sicher, dass dieses Feld nicht leer bleibt.
+    {{c1::[Required]}}
+    {{c1::public string? Vorname {{c1::{get;set;} }}
+    /// Gibt den Nachnamen der Person zurück oder legt ihn fest.
+    /// Das Attribut stellt sicher, dass dieses Feld nicht leer bleibt.
+    {{c1::[Required]}}
+    {{c1::public string? Nachname {get;set;} }}
+
+{{c1::} }}
+
+&lt;/pre&gt;
+
+==HomeController==
+&lt;pre&gt;
+using Microsoft.AspNetCore.Mvc;
+using start.Models;
+
+namespace start.Controllers;
+
+/// Der HomeController behandelt die Startseite der Anwendung.
+public class HomeController : Controller
+{
+    
+    /// Diese Methode empfängt ein Person-Objekt und gibt entweder die Namen aus
+    /// oder bei ungültigem Model die Fehlermeldungen zurück.
+    /// Url http://localhost?Vorname=ttt&amp;Nachname=rrr
+    {{c1::[Route("/")]}}
+    {{c1::public IActionResult Index(Person person)}}
+    {{c1::{}}
+        {{c1::if (!ModelState.IsValid)}}
+        {{c1::{}}
+            // Fehler aus dem ModelState extrahieren und als BadRequest zurückgeben
+            {{c1::var errors=ModelState.Values}}
+            {{c1::.SelectMany(v=&gt;v.Errors)}}
+            {{c1::.Select(e=&gt;e.ErrorMessage);}}
+            {{c1::return BadRequest(errors);}}
+        {{c1::} }}
+        // Vor- und Nachname der Person als Text zurückgeben
+        {{c1::return Content}}($"{person.Vorname} {person.Nachname}");
+    {{c1::} }}
+{{c1::} }}
+&lt;/pre&gt;
+
+
+==Person.cs==
+
+&lt;pre&gt;
+
+using System;
+using System.ComponentModel;
+using System.ComponentModel.DataAnnotations;
+
+namespace start.{{c1::Models;}}
+
+// Die Klasse "Person" repräsentiert ein Modell für eine Person mit Vor- und Nachnamen.
+{{c1::public class Person}}
+{
+    // Die Eigenschaft "Vorname" ist erforderlich und darf nicht null sein.
+    // Der Anzeigename wird als "Vorname" definiert.
+    {{c1::[Required(ErrorMessage = "{0} darf nicht leer sein.")]}}
+    {{c1::[Display(Name = "Vorname")]}}
+    {{c1::public string? Vorname {get;set;} }}
+
+    // Die Eigenschaft "Nachname" ist ebenfalls erforderlich und darf nicht null sein.
+    // Der Anzeigename wird als "Nachname" definiert.
+    {{c1::[Required(ErrorMessage = "{0} darf nicht leer sein.")]}}
+    {{c1::[Display(Name = "Nachname")]}}
+    {{c1::public string? Nachname {get;set;} }}
+{{c1::} }}
+
+&lt;/pre&gt;
+
+
+==HomeController==
+
+&lt;pre&gt;
+using System;
+using Microsoft.AspNetCore.Mvc;
+using start.{{c1::Models;}}
+
+namespace start.{{c1::Controllers;}}
+
+// Die HomeController-Klasse erbt von der Controller-Basis-Klasse und stellt Endpunkte für die Anwendung bereit.
+{{c1::public class HomeController : Controller}}
+{
+
+    // Dieser Endpunkt wird über die Route "Register" aufgerufen. Beispiel: https://localhost/Register?Vorname=steffi&amp;Nachname=Timm
+    {{c1::[Route("Register")]}}
+    {{c1::public IActionResult Index(Person person)}}
+    {{c1::{}}
+        // Überprüft, ob das übermittelte Modell (Person) gültig ist.
+        {{c1::if (!ModelState.IsValid)}}
+        {{c1::{}}
+            // Falls das Modell ungültig ist, werden alle Validierungsfehler gesammelt.
+            {{c1::var errors = ModelState.Values}}
+                {{c1::.SelectMany(e =&gt; e.Errors)}}
+                {{c1::.Select(v =&gt; v.ErrorMessage);}}
+
+            // Gibt die Fehler als BadRequest-Antwort zurück.
+           
+
+            {{v1::return BadRequest(errors);}}
+        {{c1::} }}
+
+        // Falls das Modell gültig ist, wird der Nachname und Vorname der Person zurückgegeben.
+        {{c1::return}} Json(person);
+    {{c1::} }}
+{{c1::} }}
+&lt;/pre&gt;
+==Person.cs==
+&lt;pre&gt;
+using System;
+using System.ComponentModel.DataAnnotations;
+
+namespace start.{{c1::Models;}}
+
+// Die Klasse Person repräsentiert eine Person mit einer Eigenschaft "Vorname".
+{{c1::public class Person}}
+{{c1::{}}
+    // Die Eigenschaft "Vorname" ist erforderlich und unterliegt bestimmten Validierungsregeln.
+
+    //  Stellt sicher, dass die Eigenschaft "Vorname" nicht leer ist.
+    // Eine benutzerdefinierte Fehlermeldung wird angezeigt, wenn die Validierung fehlschlägt.
+    // Satz soll ausgaben '''Das Feld Vorname darf nicht leer sein''' 
+    {{c1::[Required(ErrorMessage="Das Feld {0} darf nicht leer sein.")]}}
+
+    // [Display]: Gibt an, wie die Eigenschaft "Vorname" in der Benutzeroberfläche angezeigt wird.
+    {{c1::[Display(Name="Vorname")]}}
+
+    //  Legt die maximale und minimale Länge für die Eigenschaft "Vorname" fest.
+    // Die Länge muss zwischen 5 und 40 Zeichen liegen. Eine Fehlermeldung wird definiert.
+    // Satz soll ausgaben '''Die Länge von Vornaame muss zwischen 5 und 40 Zeichen liegen
+    {{c1::[StringLength(40,MinimumLength=5,ErrorMessage="Die Länge von {0} muss zwischen {2} und {1} Zeichen liegen.")]}}
+    {{c1::public string? Vorname {get;set;} }}
+{{c1::} }}
+
+&lt;/pre&gt;
+
+==HomeController==
+&lt;pre&gt;
+
+using System;
+using System.ComponentModel.Design;
+using Microsoft.AspNetCore.Mvc;
+using start.{{c1::Models;}}
+namespace start.{{c1::Controllers;}}
+
+// Der HomeController erbt von der Basisklasse Controller, die grundlegende Funktionen für MVC-Controller bereitstellt.
+{{c1::public class HomeController : Controller}}
+{{c1::{}}
+    // Die Index-Methode ist mit der Route "/" verknüpft und wird aufgerufen, wenn die Basis-URL der Anwendung aufgerufen wird.
+    {{c1::[Route("/")]}}
+    {{c1::public IActionResult Index(Person person)}}
+    {{c1::{}}
+        // Überprüfung, ob das übergebene Modell (Person) gültig ist.
+        {{c1::if (!ModelState.IsValid)}}
+        {{c1::{}}
+            // Wenn das Modell ungültig ist, werden die Fehler aus dem ModelState extrahiert.
+            {{c1::var errors=ModelState.Values}}
+            {{c1::.SelectMany(e=&gt;e.Errors)}}
+            {{c1::.Select(v=&gt;v.ErrorMessage);}}
+
+            // Rückgabe eines BadRequest (HTTP 400) mit den Fehlern.
+            {{c1::return BadRequest(errors);}}
+        {{c1::} }}
+
+        // Wenn das Modell gültig ist, wird es als JSON zurückgegeben.
+        {{c1::return Json(person);}}
+    {{c1::} }}
+{{c1::} }}
+&lt;/pre&gt;
+
+==Person==
+&lt;pre&gt;
+using System.ComponentModel.DataAnnotations;
+
+namespace start.{{c1::Models;}}
+
+// Die Klasse "Person" repräsentiert ein Modell mit einer Eigenschaft "Alter".
+{{c1::public class Person}}
+{{c1::{}}
+    // "Alter" darf nicht leer sein. Eine Fehlermeldung wird angezeigt, 
+    // wenn kein Wert angegeben wird.
+    {{c1::[Required(ErrorMessage = "{0} darf nicht leer sein")]}}
+    
+    // Der Anzeigename für "Alter" wird auf "Alter" gesetzt, was z. B. 
+    // in Formularen oder Fehlermeldungen verwendet wird.
+    {{c1::[Display(Name="Alter")]}}
+    
+    // Der Wert von "Alter" muss zwischen 10 und 20 liegen. Andernfalls wird 
+    // eine Fehlermeldung mit den entsprechenden Grenzwerten angezeigt.
+    // Fehlermeldung: "Alter darf nur mindestens 10 bis 20 sein."
+    {{c1::[Range(10, 20, ErrorMessage = "{0} darf nur mindestens {1} bis {2} sein")]}}
+    {{c1::public int? Alter {get;set;} }}
+{{c1::} }}
+&lt;/pre&gt;
+
+==HomeController==
+&lt;pre&gt;
+
+using System;
+using System.ComponentModel.Design;
+using Microsoft.AspNetCore.Mvc;
+using start.{{c1::Models;}}
+namespace start.{{c1::Controllers;}}
+
+// Der HomeController erbt von der Basisklasse Controller, die grundlegende Funktionen für MVC-Controller bereitstellt.
+{{c1::public class HomeController : Controller}}
+{{c1::{}}
+    // Die Index-Methode ist mit der Route "/" verknüpft und wird aufgerufen, wenn die Basis-URL der Anwendung aufgerufen wird.
+    {{c1::[Route("/")]}}
+    {{c1::public IActionResult Index(Person person)}}
+    {{c1::{}}
+        // Überprüfung, ob das übergebene Modell (Person) gültig ist.
+        {{c1::if (!ModelState.IsValid)}}
+        {{c1::{}}
+            // Wenn das Modell ungültig ist, werden die Fehler aus dem ModelState extrahiert.
+            {{c1::var errors=ModelState.Values}}
+            {{c1::.SelectMany(e=&gt;e.Errors)}}
+            {{c1::.Select(v=&gt;v.ErrorMessage);}}
+
+            // Rückgabe eines BadRequest (HTTP 400) mit den Fehlern.
+            {{c1::return BadRequest(errors);}}
+        {{c1::} }}
+
+        // Wenn das Modell gültig ist, wird es als JSON zurückgegeben.
+        {{c1::return Json(person);}}
+    {{c1::} }}
+{{c1::} }}
+&lt;/pre&gt;
+
+==Person.css==
+&lt;pre&gt;
+
+using System.ComponentModel.DataAnnotations;
+
+namespace start.Models;
+
+// Die Klasse Person repräsentiert ein Modell mit Validierungsregeln für die Eigenschaften Passwort und RePasswort.
+public class Person
+{c1::{}}
+    // Die Eigenschaft Passwort ist erforderlich und muss zwischen 8 und 12 Zeichen lang sein.
+    // Das Attribut  stellt sicher, dass das Feld nicht leer ist.
+    // Das Attribut definiert den Anzeigenamen für die Eigenschaft.
+    // Das Attribut  legt die minimale und maximale Länge der Zeichenfolge fest.
+    //Fehler Meldung "Passwort darf nicht leer sein.
+    {{c1::[Required(ErrorMessage="{0} darf nicht leer sein")}}
+    {{c1::[Display(Name="Passwort")]}}
+    //Fehler Meldung "Passwort: Die Länge muss zwischen 12 und 8 Zeichen liegen")]
+    {{c1::[StringLength(12,MinimumLength=8,ErrorMessage ="{0}: Die Länge muss zwischen {2} und {1} Zeichen liegen")]}}
+    {{c1::public string? Passwort{get; set;} }}
+
+    // Die Eigenschaft RePasswort ist ebenfalls erforderlich und muss die gleichen Längenbeschränkungen wie Passwort erfüllen.
+    // Zusätzlich wird mit dem Attribut  sichergestellt, dass RePasswort mit Passwort übereinstimmt.
+   //Fehler Meldung ""RePasswort darf nicht leer sein."
+    {{c1::[Required(ErrorMessage="{0} darf nicht leer sein")]}}
+    {{c1::[Display(Name="RePasswort")]}}
+    //Fehler Meldung "RePasswort: Die Länge muss zwischen 12 und 8 Zeichen liegen")]
+    {{c1::[StringLength(12,MinimumLength=8,ErrorMessage="{0}: Die Länge muss zwischen {2} und {1} Zeichen liegen")]}}
+    //Fehler Meldung "RePasswort stimmt nicht mit Passwort überein"
+    {{c1::[Compare("Passwort",ErrorMessage="{0} stimmt nicht mit {1} überein")]}}
+    {{c1::public string? RePasswort {get;set;} }}
+{{c1::} }}
+
+&lt;/pre&gt;
+
+==HomeController==
+&lt;pre&gt;
+using System;
+using System.ComponentModel.Design;
+using Microsoft.AspNetCore.Mvc;
+using start.{{c1::Models;}}
+namespace start.{{c1::Controllers;}}
+
+// Der HomeController erbt von der Basisklasse Controller, die grundlegende Funktionen für MVC-Controller bereitstellt.
+{{c1::public class HomeController : Controller}}
+{{c1::{}}
+    // Die Index-Methode ist mit der Route "/" verknüpft und wird aufgerufen, wenn die Basis-URL der Anwendung aufgerufen wird.
+    {{c1::[Route("/")]}}
+    {{c1::public IActionResult Index(Person person)}}
+    {{c1::{}}
+        // Überprüfung, ob das übergebene Modell (Person) gültig ist.
+        {{c1::if (!ModelState.IsValid)}}
+        {{c1::{}}
+            // Wenn das Modell ungültig ist, werden die Fehler aus dem ModelState extrahiert.
+            {{c1::var errors=ModelState.Values}}
+            {{c1::.SelectMany(e=&gt;e.Errors)}}
+            {{c1::.Select(v=&gt;v.ErrorMessage);}}
+
+            // Rückgabe eines BadRequest (HTTP 400) mit den Fehlern.
+            {{c1::return BadRequest(errors);}}
+        {{c1::} }}
+
+        // Wenn das Modell gültig ist, wird es als JSON zurückgegeben.
+        {{c1::return Json(person);}}
+    {{c1::} }}
+{{c1::} }}
+&lt;/pre&gt;
+
+==Grundklasse für Start-Validierung==
+&lt;pre&gt;
+using System;
+using System.ComponentModel.DataAnnotations;
+
+namespace start.praxis;
+// Grundklasse für Start-Validierung
+// Diese Klasse kann erweitert werden, um spezifische Validierungslogik zu implementieren
+// Grundsätzlich wird die Validierung in der abgeleiteten Klasse implementiert
+{{c1::public class Start : ValidationAttribute}} // Automaazisch ersellt, um Validierung zu ermöglichen
+{
+    {{c1::protected override}} ValidationResult? IsValid(object? value, ValidationContext validationContext)
+    {
+        return base.IsValid(value, validationContext);
+    }
+}
+&lt;/pre&gt;</text>
+      <sha1>ehu67mio8754h682f7xdq9giaqdwnqx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurs:Razor Views</title>
+    <ns>0</ns>
+    <id>48</id>
+    <revision>
+      <id>179</id>
+      <timestamp>2025-06-21T01:48:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>179</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="906" sha1="hnvs5qwi1bknwhapu8ga8yoesfbtxb6" xml:space="preserve">== Razor Views erstellen – Spickzettel ==
+
+=== 1. Neue Razor View anlegen ===
+# Im ''Views''-Ordner des Controllers eine neue Datei mit der Endung &lt;code&gt;.cshtml&lt;/code&gt; erstellen.
+# Beispiel: &lt;code&gt;Views/Home/Index.cshtml&lt;/code&gt;
+
+=== 2. Razor Syntax Grundlagen ===
+* C#-Code einbinden: &lt;code&gt;@{ /* C#-Code */ }&lt;/code&gt;
+* Variable ausgeben: &lt;code&gt;@variableName&lt;/code&gt;
+* HTML und C# mischen: 
+    ```html
+    &lt;h1&gt;@Model.Title&lt;/h1&gt;
+    ```
+
+=== 3. Model an eine View übergeben ===
+* Im Controller:
+    ```csharp
+    return View(myModel);
+    ```
+* In der View:
+    ```csharp
+    @model Namespace.ModelType
+    ```
+
+=== 4. Schleifen und Bedingungen ===
+* Schleife:
+    ```csharp
+    @foreach(var item in Model.Items) {
+            &lt;li&gt;@item.Name&lt;/li&gt;
+    }
+    ```
+* Bedingung:
+    ```csharp
+    @if(Model.IsActive) {
+            &lt;span&gt;Aktiv&lt;/span&gt;
+    }
+    ```
+
+=== 5. Teilansichten (Partials) einbinden ===</text>
+      <sha1>hnvs5qwi1bknwhapu8ga8yoesfbtxb6</sha1>
+    </revision>
+    <revision>
+      <id>180</id>
+      <parentid>179</parentid>
+      <timestamp>2025-06-21T02:18:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>180</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2349" sha1="kzyr0pj6fviyhuz12c22oz5d1rf4hca" xml:space="preserve">== Razor Views erstellen – Spickzettel ==
+
+=== 1. Neue Razor View anlegen ===
+# Im ''Views''-Ordner des Controllers eine neue Datei mit der Endung &lt;code&gt;.cshtml&lt;/code&gt; erstellen.
+# Beispiel: &lt;code&gt;Views/Home/Index.cshtml&lt;/code&gt;
+
+=== 2. Razor Syntax Grundlagen ===
+* C#-Code einbinden: &lt;code&gt;@{ /* C#-Code */ }&lt;/code&gt;
+* Variable ausgeben: &lt;code&gt;@variableName&lt;/code&gt;
+* HTML und C# mischen: 
+    ```html
+    &lt;h1&gt;@Model.Title&lt;/h1&gt;
+    ```
+
+=== 3. Model an eine View übergeben ===
+* Im Controller:
+    ```csharp
+    return View(myModel);
+    ```
+* In der View:
+    ```csharp
+    @model Namespace.ModelType
+    ```
+
+=== 4. Schleifen und Bedingungen ===
+* Schleife:
+    ```csharp
+    @foreach(var item in Model.Items) {
+            &lt;li&gt;@item.Name&lt;/li&gt;
+    }
+    ```
+* Bedingung:
+    ```csharp
+    @if(Model.IsActive) {
+            &lt;span&gt;Aktiv&lt;/span&gt;
+    }
+    ```
+
+=== 5. Teilansichten (Partials) einbinden ===
+* Einbinden einer Partial View:
+    ```csharp
+    @Html.Partial("PartialViewName")
+    @await Html.PartialAsync("PartialViewName")
+    @await Html.RenderPartialAsync("PartialViewName")
+    ```
+* Mit Model:
+    ```csharp
+    @Html.Partial("PartialViewName", model)
+    ```
+
+=== 6. Layouts verwenden ===
+* Layout festlegen:
+    ```csharp
+    @{
+        Layout = "_Layout";
+    }
+    ```
+* Bereich für Content:
+    ```csharp
+    @RenderBody()
+    ```
+* Sektionen:
+    ```csharp
+    @RenderSection("SectionName", required: false)
+    ```
+
+=== 7. ViewData, ViewBag und TempData ===
+* ViewData:
+    ```csharp
+    ViewData["Key"] = "Wert";
+    @ViewData["Key"]
+    ```
+* ViewBag:
+    ```csharp
+    ViewBag.Key = "Wert";
+    @ViewBag.Key
+    ```
+* TempData:
+    ```csharp
+    TempData["Key"] = "Wert";
+    @TempData["Key"]
+    ```
+
+=== 8. Kommentare ===
+* Razor-Kommentar:
+    ```csharp
+    @* Dies ist ein Razor-Kommentar *@
+    ```
+* HTML-Kommentar:
+    ```html
+    &lt;!-- Dies ist ein HTML-Kommentar --&gt;
+    ```
+
+=== 9. Weitere Razor-Befehle ===
+* Abschnitt deklarieren:
+    ```csharp
+    @section Scripts {
+        &lt;script src="..."&gt;&lt;/script&gt;
+    }
+    ```
+* HTML-Helfer:
+    ```csharp
+    @Html.ActionLink("Linktext", "Action", "Controller")
+    @Html.TextBoxFor(model =&gt; model.Name)
+    @Html.DisplayFor(model =&gt; model.Name)
+    @Html.EditorFor(model =&gt; model.Name)
+    ```
+* Raw HTML ausgeben:
+    ```csharp
+    @Html.Raw("&lt;b&gt;Fett&lt;/b&gt;")
+    ```</text>
+      <sha1>kzyr0pj6fviyhuz12c22oz5d1rf4hca</sha1>
+    </revision>
+    <revision>
+      <id>181</id>
+      <parentid>180</parentid>
+      <timestamp>2025-06-21T06:26:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>181</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7781" sha1="lya2i1jqzj4794xim7vkia9320m38za" xml:space="preserve">Absolut\! Hier ist eine Umformulierung des von Ihnen bereitgestellten technischen Texts in eine strukturierte und verständliche Kursbeschreibung. Der Inhalt wurde neu geordnet und in einem didaktischen Format aufbereitet, das sich ideal für Lernende eignet.
+
+-----
+
+### **Kurs: Professionelle Webentwicklung mit ASP.NET Core MVC**
+
+Willkommen zu diesem Kurs über das Model-View-Controller (MVC) Architekturmuster in ASP.NET Core\! Hier lernen Sie, wie Sie saubere, wartbare und skalierbare Webanwendungen entwickeln, indem Sie die Logik Ihrer Anwendung klar strukturieren.
+
+-----
+
+#### **Lektion 1: Das Fundament – Das MVC-Architekturmuster**
+
+Das Herzstück moderner Webanwendungen ist eine saubere Architektur. Das Model-View-Controller (MVC) Muster ist ein bewährter Ansatz, der den Code in drei logische Hauptkomponenten unterteilt.
+
+**Ziele und Vorteile:**
+
+  * **Klare Trennung der Verantwortlichkeiten (Separation of Concerns):** Jede Komponente hat genau eine Aufgabe. Das macht den Code verständlicher und Fehler leichter auffindbar.
+  * **Parallele Entwicklung:** Teams können gleichzeitig am Datenmodell, der Benutzeroberfläche und der Anwendungslogik arbeiten.
+  * **Einfacheres Testen:** Jede Komponente kann isoliert getestet werden (Unit-Testing), was die Qualität Ihrer Software enorm steigert.
+  * **Wartbarkeit:** Änderungen in einer Komponente (z. B. im Design der View) haben minimale bis keine Auswirkungen auf die anderen Komponenten.
+
+Das wichtigste Prinzip ist die Unabhängigkeit des **Models**. Es kennt weder die View noch den Controller und kann daher völlig eigenständig entwickelt und getestet werden.
+
+-----
+
+#### **Lektion 2: Die drei Hauptakteure und ihre Rollen**
+
+Um das MVC-Muster zu verstehen, müssen wir die Verantwortlichkeiten der einzelnen Komponenten kennen. Stellen Sie sich den Ablauf einer Anfrage vor:
+
+1.  **Der Controller: Der Dirigent**
+
+      * Empfängt die HTTP-Anfrage des Benutzers (z. B. das Aufrufen einer URL).
+      * Er ist der Koordinator: Er ruft das Geschäftsmodell auf, um Daten abzufragen oder zu bearbeiten.
+      * Anschließend wählt er die passende **View** aus, um die Daten darzustellen.
+
+2.  **Das Geschäftsmodell (Model): Das Gehirn**
+
+      * Enthält die gesamte Geschäftslogik und die Daten Ihrer Anwendung.
+      * Führt Operationen aus, wie z. B. das Lesen und Schreiben von Daten in einer Datenbank.
+      * Es ist die "Quelle der Wahrheit" und gibt die verarbeiteten Daten an den Controller zurück. Es hat keinerlei Kenntnis von der Benutzeroberfläche.
+
+3.  **Die View: Das Gesicht**
+
+      * Ist für die reine Darstellung der Daten verantwortlich (HTML-Code).
+      * Sie empfängt die vom Controller vorbereiteten Daten und stellt sie dar.
+      * Die View selbst enthält keine Geschäftslogik. Sie sollte nur Code enthalten, der für die Präsentation notwendig ist.
+
+**Der Datenfluss im Überblick:**
+Anfrage → **Controller** → Ruft **Model** auf → Model liefert Daten zurück → **Controller** übergibt Daten an **View** → View wird gerendert und als Antwort an den Benutzer gesendet.
+
+-----
+
+#### **Lektion 3: Dynamische Ansichten mit der Razor View Engine**
+
+Eine View ist mehr als nur statisches HTML. Mit der Razor View Engine können wir C\#-Code direkt in unsere `.cshtml`-Dateien einbetten, um dynamische Inhalte zu erzeugen.
+
+  * Das `@`-Zeichen leitet Razor-Syntax ein.
+  * Razor ermöglicht es uns, Daten aus unserem Modell direkt im HTML auszugeben und Logik für die Darstellung zu implementieren.
+
+**Wichtige Razor-Konstrukte:**
+
+  * **Ausdrücke (`@Model.Username`):** Geben den Wert einer Variable oder Eigenschaft aus.
+  * **Codeblöcke (`@{ ... }`):** Führen eine oder mehrere Zeilen C\#-Code aus.
+  * **Kontrollstrukturen:** Sie können bekannte C\#-Strukturen wie `if-else`, `switch`, `foreach` und `for` verwenden, um die Darstellung zu steuern.
+  * **Lokale Funktionen:** Sie können kleine Hilfsfunktionen direkt in Ihrer View definieren.
+
+**Wichtig:** Die Logik in einer View sollte sich ausschließlich auf die **Präsentation** beschränken\! Komplexe Berechnungen gehören in das Model oder den Controller.
+
+-----
+
+#### **Lektion 4: Daten vom Controller an die View übergeben**
+
+Doch wie gelangen die Daten vom Controller in die View? Dafür gibt es mehrere Mechanismen. Wir beginnen mit zwei einfachen, aber "schwach typisierten" Ansätzen.
+
+##### **1. ViewData**
+
+`ViewData` ist ein Wörterbuch-Objekt (`Dictionary&lt;string, object&gt;`), in dem Sie Daten unter einem bestimmten Schlüssel ablegen können.
+
+  * **Im Controller:** `ViewData["Titel"] = "Produktliste";`
+  * **In der View:** `&lt;h1&gt;@ViewData["Titel"]&lt;/h1&gt;`
+
+Da die Werte als `object` gespeichert werden, müssen Sie sie bei komplexeren Datentypen oft umwandeln (casten), was fehleranfällig sein kann.
+`@(ViewData["Produkt"] as Produkt).Name`
+
+##### **2. ViewBag**
+
+`ViewBag` ist ein dynamisches Objekt, das im Hintergrund `ViewData` verwendet, aber eine einfachere Syntax bietet.
+
+  * **Im Controller:** `ViewBag.Titel = "Produktliste";`
+  * **In der View:** `&lt;h1&gt;@ViewBag.Titel&lt;/h1&gt;`
+
+**Vorteile von `ViewBag`:**
+
+  * Einfachere, sauberere Syntax (`ViewBag.Eigenschaft`).
+  * Kein explizites Umwandeln (Casting) notwendig.
+
+**Nachteil beider Ansätze:** Es gibt keine Überprüfung zur Kompilierzeit. Ein Tippfehler im Schlüssel (`ViewData["Titl"]`) oder im Eigenschaftsnamen (`ViewBag.Titl`) wird erst zur Laufzeit als Fehler bemerkt.
+
+-----
+
+#### **Lokalektion 5: Der Königsweg – Stark typisierte Views**
+
+Für robuste und wartbare Anwendungen ist die Verwendung von **stark typisierten Views** der empfohlene Standard. Eine stark typisierte View ist fest an eine bestimmte Modellklasse gebunden.
+
+**Und so funktioniert's:**
+
+1.  **Im Controller:** Sie erstellen eine Instanz Ihres Modells und übergeben diese direkt an die `View()`-Methode.
+
+    ```csharp
+    public IActionResult Details(int id)
+    {
+        Produkt meinProdukt = _db.Produkte.Find(id);
+        return View(meinProdukt); // Übergabe des gesamten Objekts
+    }
+    ```
+
+2.  **In der View:** Sie deklarieren mit der `@model`-Direktive, welchen Datentyp die View erwartet.
+
+    ```csharp
+    @model Projekt.Modelle.Produkt
+
+    &lt;h1&gt;@Model.Name&lt;/h1&gt;
+    &lt;p&gt;Preis: @Model.Preis.ToString("c")&lt;/p&gt;
+    &lt;p&gt;Beschreibung: @Model.Beschreibung&lt;/p&gt; 
+    ```
+
+**Die unschlagbaren Vorteile:**
+
+  * **IntelliSense:** Der Editor kennt Ihr Modell und schlägt Ihnen die verfügbaren Eigenschaften vor.
+  * **Kompilierzeit-Sicherheit:** Tippfehler bei Eigenschaftsnamen (`@Model.Naem`) führen zu einem Kompilierfehler und werden sofort entdeckt.
+  * **Klarheit:** Es ist sofort ersichtlich, welche Daten diese View für ihre Darstellung benötigt.
+
+-----
+
+#### **Lektion 6: Code organisieren und wiederverwenden**
+
+Für größere Projekte sind Struktur und Wiederverwendbarkeit entscheidend.
+
+##### **ViewImports.cshtml**
+
+Diese spezielle Datei im `Views`-Ordner ist der perfekte Ort, um Namespaces zu importieren (`@using Projekt.Modelle`) oder Tag Helper zu registrieren, die in vielen Views benötigt werden. Der Inhalt von `ViewImports.cshtml` wird automatisch auf alle Views im selben Ordner und in Unterordnern angewendet.
+
+##### **Geteilte Views (Shared Views)**
+
+Views, die von mehreren Controllern verwendet werden (z. B. Layout-Dateien, Navigationsleisten, Fehlerseiten), sollten im Ordner `/Views/Shared` abgelegt werden. Wenn ein Controller eine View anfordert, sucht das Framework zuerst im spezifischen Ordner des Controllers (`/Views/ControllerName`) und danach im `/Views/Shared`-Ordner.
+
+##### **Die View-Auflösung**
+
+Zusammenfassend sucht ASP.NET Core eine View `MeineView` für den `HomeController` in dieser Reihenfolge:
+
+1.  `/Views/Home/MeineView.cshtml`
+2.  `/Views/Shared/MeineView.cshtml`</text>
+      <sha1>lya2i1jqzj4794xim7vkia9320m38za</sha1>
+    </revision>
+    <revision>
+      <id>182</id>
+      <parentid>181</parentid>
+      <timestamp>2025-06-21T06:27:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>182</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8439" sha1="lakjbsb5rf9rxdpr06fyx2wyfgnjnai" xml:space="preserve">Absolut\! Hier ist eine Umformulierung des von Ihnen bereitgestellten technischen Texts in eine strukturierte und verständliche Kursbeschreibung. Der Inhalt wurde neu geordnet und in einem didaktischen Format aufbereitet, das sich ideal für Lernende eignet.
+
+&lt;nowiki&gt;-----&lt;/nowiki&gt;
+
+&lt;nowiki&gt;###&lt;/nowiki&gt; **Kurs: Professionelle Webentwicklung mit ASP.NET Core MVC**
+
+Willkommen zu diesem Kurs über das Model-View-Controller (MVC) Architekturmuster in ASP.NET Core\! Hier lernen Sie, wie Sie saubere, wartbare und skalierbare Webanwendungen entwickeln, indem Sie die Logik Ihrer Anwendung klar strukturieren.
+
+&lt;nowiki&gt;-----&lt;/nowiki&gt;
+
+&lt;nowiki&gt;####&lt;/nowiki&gt; **Lektion 1: Das Fundament – Das MVC-Architekturmuster**
+
+Das Herzstück moderner Webanwendungen ist eine saubere Architektur. Das Model-View-Controller (MVC) Muster ist ein bewährter Ansatz, der den Code in drei logische Hauptkomponenten unterteilt.
+
+&lt;nowiki&gt;**&lt;/nowiki&gt;Ziele und Vorteile:**
+
+  * **Klare Trennung der Verantwortlichkeiten (Separation of Concerns):** Jede Komponente hat genau eine Aufgabe. Das macht den Code verständlicher und Fehler leichter auffindbar.
+
+  * **Parallele Entwicklung:** Teams können gleichzeitig am Datenmodell, der Benutzeroberfläche und der Anwendungslogik arbeiten.
+
+  * **Einfacheres Testen:** Jede Komponente kann isoliert getestet werden (Unit-Testing), was die Qualität Ihrer Software enorm steigert.
+
+  * **Wartbarkeit:** Änderungen in einer Komponente (z. B. im Design der View) haben minimale bis keine Auswirkungen auf die anderen Komponenten.
+
+Das wichtigste Prinzip ist die Unabhängigkeit des **Models**. Es kennt weder die View noch den Controller und kann daher völlig eigenständig entwickelt und getestet werden.
+
+&lt;nowiki&gt;-----&lt;/nowiki&gt;
+
+&lt;nowiki&gt;####&lt;/nowiki&gt; **Lektion 2: Die drei Hauptakteure und ihre Rollen**
+
+Um das MVC-Muster zu verstehen, müssen wir die Verantwortlichkeiten der einzelnen Komponenten kennen. Stellen Sie sich den Ablauf einer Anfrage vor:
+
+1.  **Der Controller: Der Dirigent**
+
+      * Empfängt die HTTP-Anfrage des Benutzers (z. B. das Aufrufen einer URL).
+
+      * Er ist der Koordinator: Er ruft das Geschäftsmodell auf, um Daten abzufragen oder zu bearbeiten.
+
+      * Anschließend wählt er die passende **View** aus, um die Daten darzustellen.
+
+2.  **Das Geschäftsmodell (Model): Das Gehirn**
+
+      * Enthält die gesamte Geschäftslogik und die Daten Ihrer Anwendung.
+
+      * Führt Operationen aus, wie z. B. das Lesen und Schreiben von Daten in einer Datenbank.
+
+      * Es ist die "Quelle der Wahrheit" und gibt die verarbeiteten Daten an den Controller zurück. Es hat keinerlei Kenntnis von der Benutzeroberfläche.
+
+3.  **Die View: Das Gesicht**
+
+      * Ist für die reine Darstellung der Daten verantwortlich (HTML-Code).
+
+      * Sie empfängt die vom Controller vorbereiteten Daten und stellt sie dar.
+
+      * Die View selbst enthält keine Geschäftslogik. Sie sollte nur Code enthalten, der für die Präsentation notwendig ist.
+
+&lt;nowiki&gt;**&lt;/nowiki&gt;Der Datenfluss im Überblick:**
+
+Anfrage → **Controller** → Ruft **Model** auf → Model liefert Daten zurück → **Controller** übergibt Daten an **View** → View wird gerendert und als Antwort an den Benutzer gesendet.
+
+&lt;nowiki&gt;-----&lt;/nowiki&gt;
+
+&lt;nowiki&gt;####&lt;/nowiki&gt; **Lektion 3: Dynamische Ansichten mit der Razor View Engine**
+
+Eine View ist mehr als nur statisches HTML. Mit der Razor View Engine können wir C\#-Code direkt in unsere `.cshtml`-Dateien einbetten, um dynamische Inhalte zu erzeugen.
+
+  * Das `@`-Zeichen leitet Razor-Syntax ein.
+
+  * Razor ermöglicht es uns, Daten aus unserem Modell direkt im HTML auszugeben und Logik für die Darstellung zu implementieren.
+
+&lt;nowiki&gt;**&lt;/nowiki&gt;Wichtige Razor-Konstrukte:**
+
+  * **Ausdrücke (`@Model.Username`):** Geben den Wert einer Variable oder Eigenschaft aus.
+
+  * **Codeblöcke (`@{ ... }`):** Führen eine oder mehrere Zeilen C\#-Code aus.
+
+  * **Kontrollstrukturen:** Sie können bekannte C\#-Strukturen wie `if-else`, `switch`, `foreach` und `for` verwenden, um die Darstellung zu steuern.
+
+  * **Lokale Funktionen:** Sie können kleine Hilfsfunktionen direkt in Ihrer View definieren.
+
+&lt;nowiki&gt;**&lt;/nowiki&gt;Wichtig:** Die Logik in einer View sollte sich ausschließlich auf die **Präsentation** beschränken\! Komplexe Berechnungen gehören in das Model oder den Controller.
+
+&lt;nowiki&gt;-----&lt;/nowiki&gt;
+
+&lt;nowiki&gt;####&lt;/nowiki&gt; **Lektion 4: Daten vom Controller an die View übergeben**
+
+Doch wie gelangen die Daten vom Controller in die View? Dafür gibt es mehrere Mechanismen. Wir beginnen mit zwei einfachen, aber "schwach typisierten" Ansätzen.
+
+&lt;nowiki&gt;#####&lt;/nowiki&gt; **1. ViewData**
+
+`ViewData` ist ein Wörterbuch-Objekt (`Dictionary&lt;string, object&gt;`), in dem Sie Daten unter einem bestimmten Schlüssel ablegen können.
+
+  * **Im Controller:** `ViewData["Titel"] = "Produktliste";`
+
+  * **In der View:** `&lt;nowiki&gt;&lt;h1&gt;@ViewData["Titel"]&lt;/h1&gt;&lt;/nowiki&gt;`
+
+Da die Werte als `object` gespeichert werden, müssen Sie sie bei komplexeren Datentypen oft umwandeln (casten), was fehleranfällig sein kann.
+
+`@(ViewData["Produkt"] as Produkt).Name`
+
+&lt;nowiki&gt;#####&lt;/nowiki&gt; **2. ViewBag**
+
+`ViewBag` ist ein dynamisches Objekt, das im Hintergrund `ViewData` verwendet, aber eine einfachere Syntax bietet.
+
+  * **Im Controller:** `ViewBag.Titel = "Produktliste";`
+
+  * **In der View:** `&lt;nowiki&gt;&lt;h1&gt;@ViewBag.Titel&lt;/h1&gt;&lt;/nowiki&gt;`
+
+&lt;nowiki&gt;**&lt;/nowiki&gt;Vorteile von `ViewBag`:**
+
+  * Einfachere, sauberere Syntax (`ViewBag.Eigenschaft`).
+
+  * Kein explizites Umwandeln (Casting) notwendig.
+
+&lt;nowiki&gt;**&lt;/nowiki&gt;Nachteil beider Ansätze:** Es gibt keine Überprüfung zur Kompilierzeit. Ein Tippfehler im Schlüssel (`ViewData["Titl"]`) oder im Eigenschaftsnamen (`ViewBag.Titl`) wird erst zur Laufzeit als Fehler bemerkt.
+
+&lt;nowiki&gt;-----&lt;/nowiki&gt;
+
+&lt;nowiki&gt;####&lt;/nowiki&gt; **Lokalektion 5: Der Königsweg – Stark typisierte Views**
+
+Für robuste und wartbare Anwendungen ist die Verwendung von **stark typisierten Views** der empfohlene Standard. Eine stark typisierte View ist fest an eine bestimmte Modellklasse gebunden.
+
+&lt;nowiki&gt;**&lt;/nowiki&gt;Und so funktioniert's:**
+
+1.  **Im Controller:** Sie erstellen eine Instanz Ihres Modells und übergeben diese direkt an die `View()`-Methode.
+
+    ```csharp
+
+    public IActionResult Details(int id)
+
+    {
+
+        Produkt meinProdukt = _db.Produkte.Find(id);
+
+        return View(meinProdukt); // Übergabe des gesamten Objekts
+
+    }
+
+    ```
+
+2.  **In der View:** Sie deklarieren mit der `@model`-Direktive, welchen Datentyp die View erwartet.
+
+    ```csharp
+
+    @model Projekt.Modelle.Produkt
+
+    &lt;nowiki&gt;&lt;h1&gt;@Model.Name&lt;/h1&gt;&lt;/nowiki&gt;
+
+    &lt;nowiki&gt;&lt;p&gt;Preis: @Model.Preis.ToString("c")&lt;/p&gt;&lt;/nowiki&gt;
+
+    &lt;nowiki&gt;&lt;p&gt;Beschreibung: @Model.Beschreibung&lt;/p&gt;&lt;/nowiki&gt; 
+
+    ```
+
+&lt;nowiki&gt;**&lt;/nowiki&gt;Die unschlagbaren Vorteile:**
+
+  * **IntelliSense:** Der Editor kennt Ihr Modell und schlägt Ihnen die verfügbaren Eigenschaften vor.
+
+  * **Kompilierzeit-Sicherheit:** Tippfehler bei Eigenschaftsnamen (`@Model.Naem`) führen zu einem Kompilierfehler und werden sofort entdeckt.
+
+  * **Klarheit:** Es ist sofort ersichtlich, welche Daten diese View für ihre Darstellung benötigt.
+
+&lt;nowiki&gt;-----&lt;/nowiki&gt;
+
+&lt;nowiki&gt;####&lt;/nowiki&gt; **Lektion 6: Code organisieren und wiederverwenden**
+
+Für größere Projekte sind Struktur und Wiederverwendbarkeit entscheidend.
+
+&lt;nowiki&gt;#####&lt;/nowiki&gt; **ViewImports.cshtml**
+
+Diese spezielle Datei im `Views`-Ordner ist der perfekte Ort, um Namespaces zu importieren (`@using Projekt.Modelle`) oder Tag Helper zu registrieren, die in vielen Views benötigt werden. Der Inhalt von `ViewImports.cshtml` wird automatisch auf alle Views im selben Ordner und in Unterordnern angewendet.
+
+&lt;nowiki&gt;#####&lt;/nowiki&gt; **Geteilte Views (Shared Views)**
+
+Views, die von mehreren Controllern verwendet werden (z. B. Layout-Dateien, Navigationsleisten, Fehlerseiten), sollten im Ordner `/Views/Shared` abgelegt werden. Wenn ein Controller eine View anfordert, sucht das Framework zuerst im spezifischen Ordner des Controllers (`/Views/ControllerName`) und danach im `/Views/Shared`-Ordner.
+
+&lt;nowiki&gt;#####&lt;/nowiki&gt; **Die View-Auflösung**
+
+Zusammenfassend sucht ASP.NET Core eine View `MeineView` für den `HomeController` in dieser Reihenfolge:
+
+1.  `/Views/Home/MeineView.cshtml`
+
+2.  `/Views/Shared/MeineView.cshtml`</text>
+      <sha1>lakjbsb5rf9rxdpr06fyx2wyfgnjnai</sha1>
+    </revision>
+    <revision>
+      <id>183</id>
+      <parentid>182</parentid>
+      <timestamp>2025-06-21T06:35:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>183</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="8049" sha1="ldf4kvsllqcxa30xj1haufvyysetoyr" xml:space="preserve">Absolut! Hier ist die Umwandlung des bereitgestellten Markdown-Inhalts in MediaWiki-Syntax:
+
+-----
+
+= '''Kurs: Professionelle Webentwicklung mit ASP.NET Core MVC''' =
+
+Willkommen zu diesem Kurs über das Model-View-Controller (MVC) Architekturmuster in ASP.NET Core! Hier lernen Sie, wie Sie saubere, wartbare und skalierbare Webanwendungen entwickeln, indem Sie die Logik Ihrer Anwendung klar strukturieren.
+
+-----
+
+== '''Lektion 1: Das Fundament – Das MVC-Architekturmuster''' ==
+
+Das Herzstück moderner Webanwendungen ist eine saubere Architektur. Das Model-View-Controller (MVC) Muster ist ein bewährter Ansatz, der den Code in drei logische Hauptkomponenten unterteilt.
+
+'''Ziele und Vorteile:'''
+* '''Klare Trennung der Verantwortlichkeiten (Separation of Concerns):''' Jede Komponente hat genau eine Aufgabe. Das macht den Code verständlicher und Fehler leichter auffindbar.
+* '''Parallele Entwicklung:''' Teams können gleichzeitig am Datenmodell, der Benutzeroberfläche und der Anwendungslogik arbeiten.
+* '''Einfacheres Testen:''' Jede Komponente kann isoliert getestet werden (Unit-Testing), was die Qualität Ihrer Software enorm steigert.
+* '''Wartbarkeit:''' Änderungen in einer Komponente (z. B. im Design der View) haben minimale bis keine Auswirkungen auf die anderen Komponenten.
+
+Das wichtigste Prinzip ist die Unabhängigkeit des '''Models'''. Es kennt weder die View noch den Controller und kann daher völlig eigenständig entwickelt und getestet werden.
+
+-----
+
+== '''Lektion 2: Die drei Hauptakteure und ihre Rollen''' ==
+
+Um das MVC-Muster zu verstehen, müssen wir die Verantwortlichkeiten der einzelnen Komponenten kennen. Stellen Sie sich den Ablauf einer Anfrage vor:
+
+# '''Der Controller: Der Dirigent'''
+#* Empfängt die HTTP-Anfrage des Benutzers (z. B. das Aufrufen einer URL).
+#* Er ist der Koordinator: Er ruft das Geschäftsmodell auf, um Daten abzufragen oder zu bearbeiten.
+#* Anschließend wählt er die passende '''View''' aus, um die Daten darzustellen.
+
+# '''Das Geschäftsmodell (Model): Das Gehirn'''
+#* Enthält die gesamte Geschäftslogik und die Daten Ihrer Anwendung.
+#* Führt Operationen aus, wie z. B. das Lesen und Schreiben von Daten in einer Datenbank.
+#* Es ist die "Quelle der Wahrheit" und gibt die verarbeiteten Daten an den Controller zurück. Es hat keinerlei Kenntnis von der Benutzeroberfläche.
+
+# '''Die View: Das Gesicht'''
+#* Ist für die reine Darstellung der Daten verantwortlich (HTML-Code).
+#* Sie empfängt die vom Controller vorbereiteten Daten und stellt sie dar.
+#* Die View selbst enthält keine Geschäftslogik. Sie sollte nur Code enthalten, der für die Präsentation notwendig ist.
+
+'''Der Datenfluss im Überblick:'''  
+Anfrage → '''Controller''' → Ruft '''Model''' auf → Model liefert Daten zurück → '''Controller''' übergibt Daten an '''View''' → View wird gerendert und als Antwort an den Benutzer gesendet.
+
+-----
+
+== '''Lektion 3: Dynamische Ansichten mit der Razor View Engine''' ==
+
+Eine View ist mehr als nur statisches HTML. Mit der Razor View Engine können wir C#-Code direkt in unsere &lt;code&gt;.cshtml&lt;/code&gt;-Dateien einbetten, um dynamische Inhalte zu erzeugen.
+
+* Das &lt;code&gt;@&lt;/code&gt;-Zeichen leitet Razor-Syntax ein.
+* Razor ermöglicht es uns, Daten aus unserem Modell direkt im HTML auszugeben und Logik für die Darstellung zu implementieren.
+
+'''Wichtige Razor-Konstrukte:'''
+* '''Ausdrücke (&lt;code&gt;@Model.Username&lt;/code&gt;):''' Geben den Wert einer Variable oder Eigenschaft aus.
+* '''Codeblöcke (&lt;code&gt;@{ ... }&lt;/code&gt;):''' Führen eine oder mehrere Zeilen C#-Code aus.
+* '''Kontrollstrukturen:''' Sie können bekannte C#-Strukturen wie &lt;code&gt;if-else&lt;/code&gt;, &lt;code&gt;switch&lt;/code&gt;, &lt;code&gt;foreach&lt;/code&gt; und &lt;code&gt;for&lt;/code&gt; verwenden, um die Darstellung zu steuern.
+* '''Lokale Funktionen:''' Sie können kleine Hilfsfunktionen direkt in Ihrer View definieren.
+
+'''Wichtig:''' Die Logik in einer View sollte sich ausschließlich auf die '''Präsentation''' beschränken! Komplexe Berechnungen gehören in das Model oder den Controller.
+
+-----
+
+== '''Lektion 4: Daten vom Controller an die View übergeben''' ==
+
+Doch wie gelangen die Daten vom Controller in die View? Dafür gibt es mehrere Mechanismen. Wir beginnen mit zwei einfachen, aber "schwach typisierten" Ansätzen.
+
+=== '''1. ViewData''' ===
+
+&lt;code&gt;ViewData&lt;/code&gt; ist ein Wörterbuch-Objekt (&lt;code&gt;Dictionary&amp;lt;string, object&amp;gt;&lt;/code&gt;), in dem Sie Daten unter einem bestimmten Schlüssel ablegen können.
+
+* '''Im Controller:''' &lt;code&gt;ViewData["Titel"] = "Produktliste";&lt;/code&gt;
+* '''In der View:''' &lt;code&gt;&amp;lt;h1&amp;gt;@ViewData["Titel"]&amp;lt;/h1&amp;gt;&lt;/code&gt;
+
+Da die Werte als &lt;code&gt;object&lt;/code&gt; gespeichert werden, müssen Sie sie bei komplexeren Datentypen oft umwandeln (casten), was fehleranfällig sein kann.  
+&lt;code&gt;@(ViewData["Produkt"] as Produkt).Name&lt;/code&gt;
+
+=== '''2. ViewBag''' ===
+
+&lt;code&gt;ViewBag&lt;/code&gt; ist ein dynamisches Objekt, das im Hintergrund &lt;code&gt;ViewData&lt;/code&gt; verwendet, aber eine einfachere Syntax bietet.
+
+* '''Im Controller:''' &lt;code&gt;ViewBag.Titel = "Produktliste";&lt;/code&gt;
+* '''In der View:''' &lt;code&gt;&amp;lt;h1&amp;gt;@ViewBag.Titel&amp;lt;/h1&amp;gt;&lt;/code&gt;
+
+'''Vorteile von &lt;code&gt;ViewBag&lt;/code&gt;:'''
+* Einfachere, sauberere Syntax (&lt;code&gt;ViewBag.Eigenschaft&lt;/code&gt;).
+* Kein explizites Umwandeln (Casting) notwendig.
+
+'''Nachteil beider Ansätze:''' Es gibt keine Überprüfung zur Kompilierzeit. Ein Tippfehler im Schlüssel (&lt;code&gt;ViewData["Titl"]&lt;/code&gt;) oder im Eigenschaftsnamen (&lt;code&gt;ViewBag.Titl&lt;/code&gt;) wird erst zur Laufzeit als Fehler bemerkt.
+
+-----
+
+== '''Lektion 5: Der Königsweg – Stark typisierte Views''' ==
+
+Für robuste und wartbare Anwendungen ist die Verwendung von '''stark typisierten Views''' der empfohlene Standard. Eine stark typisierte View ist fest an eine bestimmte Modellklasse gebunden.
+
+'''Und so funktioniert's:'''
+
+# '''Im Controller:''' Sie erstellen eine Instanz Ihres Modells und übergeben diese direkt an die &lt;code&gt;View()&lt;/code&gt;-Methode.
+&lt;syntaxhighlight lang="csharp"&gt;
+public IActionResult Details(int id)
+{
+    Produkt meinProdukt = _db.Produkte.Find(id);
+    return View(meinProdukt); // Übergabe des gesamten Objekts
+}
+&lt;/syntaxhighlight&gt;
+
+# '''In der View:''' Sie deklarieren mit der &lt;code&gt;@model&lt;/code&gt;-Direktive, welchen Datentyp die View erwartet.
+&lt;syntaxhighlight lang="csharp"&gt;
+@model Projekt.Modelle.Produkt
+
+&lt;h1&gt;@Model.Name&lt;/h1&gt;
+&lt;p&gt;Preis: @Model.Preis.ToString("c")&lt;/p&gt;
+&lt;p&gt;Beschreibung: @Model.Beschreibung&lt;/p&gt;
+&lt;/syntaxhighlight&gt;
+
+'''Die unschlagbaren Vorteile:'''
+* '''IntelliSense:''' Der Editor kennt Ihr Modell und schlägt Ihnen die verfügbaren Eigenschaften vor.
+* '''Kompilierzeit-Sicherheit:''' Tippfehler bei Eigenschaftsnamen (&lt;code&gt;@Model.Naem&lt;/code&gt;) führen zu einem Kompilierfehler und werden sofort entdeckt.
+* '''Klarheit:''' Es ist sofort ersichtlich, welche Daten diese View für ihre Darstellung benötigt.
+
+-----
+
+== '''Lektion 6: Code organisieren und wiederverwenden''' ==
+
+Für größere Projekte sind Struktur und Wiederverwendbarkeit entscheidend.
+
+=== '''ViewImports.cshtml''' ===
+
+Diese spezielle Datei im &lt;code&gt;Views&lt;/code&gt;-Ordner ist der perfekte Ort, um Namespaces zu importieren (&lt;code&gt;@using Projekt.Modelle&lt;/code&gt;) oder Tag Helper zu registrieren, die in vielen Views benötigt werden. Der Inhalt von &lt;code&gt;ViewImports.cshtml&lt;/code&gt; wird automatisch auf alle Views im selben Ordner und in Unterordnern angewendet.
+
+=== '''Geteilte Views (Shared Views)''' ===
+
+Views, die von mehreren Controllern verwendet werden (z. B. Layout-Dateien, Navigationsleisten, Fehlerseiten), sollten im Ordner &lt;code&gt;/Views/Shared&lt;/code&gt; abgelegt werden. Wenn ein Controller eine View anfordert, sucht das Framework zuerst im spezifischen Ordner des Controllers (&lt;code&gt;/Views/ControllerName&lt;/code&gt;) und danach im &lt;code&gt;/Views/Shared&lt;/code&gt;-Ordner.
+
+=== '''Die View-Auflösung''' ===
+
+Zusammenfassend sucht ASP.NET Core eine View &lt;code&gt;MeineView&lt;/code&gt; für den &lt;code&gt;HomeController&lt;/code&gt; in dieser Reihenfolge:
+# &lt;code&gt;/Views/Home/MeineView.cshtml&lt;/code&gt;
+# &lt;code&gt;/Views/Shared/MeineView.cshtml&lt;/code&gt;</text>
+      <sha1>ldf4kvsllqcxa30xj1haufvyysetoyr</sha1>
     </revision>
   </page>
 </mediawiki>
