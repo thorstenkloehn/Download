@@ -28,6 +28,10 @@
       <namespace key="3001" case="first-letter">Server Diskussion</namespace>
       <namespace key="3002" case="first-letter">Kurse</namespace>
       <namespace key="3003" case="first-letter">Kurse Diskussion</namespace>
+      <namespace key="3004" case="first-letter">Ai</namespace>
+      <namespace key="3005" case="first-letter">Ai Diskussion</namespace>
+      <namespace key="3006" case="first-letter">Schwachstellen</namespace>
+      <namespace key="3007" case="first-letter">Schwachstellen Diskussion</namespace>
     </namespaces>
   </siteinfo>
   <page>
@@ -2137,6 +2141,47 @@ Das Wiki-Prinzip ermöglicht es mehreren Benutzern, Inhalte gemeinschaftlich und
 * [[Server:Drupal Themen Vorschlag]]</text>
       <sha1>0dpc0vfvg54nn4d78vky6gmnngjaqvj</sha1>
     </revision>
+    <revision>
+      <id>301</id>
+      <parentid>187</parentid>
+      <timestamp>2025-06-26T13:37:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>301</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="195" sha1="4rwir0b8py5qlqwsrb9imj1jbmfl0wa" xml:space="preserve">* [[Server:Mieten]]
+* [[Server:Backup]]
+* [[Server:Ubuntu Software Pakete Installieren]]
+* [[Server:KachelServer]]
+* [[Server:Apache Port ändern]]
+* [[Server:SSL]]
+* [[Server:Nginx Einstellung]]</text>
+      <sha1>4rwir0b8py5qlqwsrb9imj1jbmfl0wa</sha1>
+    </revision>
+    <revision>
+      <id>309</id>
+      <parentid>301</parentid>
+      <timestamp>2025-06-26T13:56:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>309</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="231" sha1="podxxh7o6ddfvb2ecorik3g69o16u0o" xml:space="preserve">* [[Server:Mieten]]
+* [[Server:Backup]]
+* [[Server:Ubuntu Software Pakete Installieren]]
+* [[Server:KachelServer]]
+* [[Server:Apache Port ändern]]
+* [[Server:SSL]]
+* [[Server:Nginx Einstellung]]
+* [[Server:Mediawiki Installieren]]</text>
+      <sha1>podxxh7o6ddfvb2ecorik3g69o16u0o</sha1>
+    </revision>
   </page>
   <page>
     <title>Server:Ns3000:Mieten</title>
@@ -4062,6 +4107,23 @@ Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
 * Regelmäßige Feste &amp; Veranstaltungen</text>
       <sha1>dx4sc5rqdb0vongt481ypjq06eotoxk</sha1>
     </revision>
+    <revision>
+      <id>255</id>
+      <parentid>223</parentid>
+      <timestamp>2025-06-24T17:37:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>255</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="389" sha1="i6xs9fxmvyyvrpv67kpcdyxzdlpmwrg" xml:space="preserve">Ahrensburg bietet eine Vielzahl an Sehenswürdigkeiten und kulturellen Angeboten. Besonders bekannt ist das Ahrensburger Schloss, das als Wahrzeichen der Stadt gilt. Darüber hinaus laden Museen, Theater und regelmäßige Veranstaltungen dazu ein, die kulturelle Vielfalt der Stadt zu entdecken.
+* [[Sehenswürdigkeiten]]
+* [[Musik und Theater]]
+* [[Regelmäßige Feste &amp; Veranstaltungen]]</text>
+      <sha1>i6xs9fxmvyyvrpv67kpcdyxzdlpmwrg</sha1>
+    </revision>
   </page>
   <page>
     <title>Alltag &amp; Leben in Ahrensburg</title>
@@ -4130,6 +4192,50 @@ Unterseite: Familie &amp; Bildung:</text>
 * Gesundheit:
 * Familie &amp; Bildung:</text>
       <sha1>i6l90nq224sid6fwdn4vucj2xu9q4kq</sha1>
+    </revision>
+    <revision>
+      <id>292</id>
+      <parentid>105</parentid>
+      <timestamp>2025-06-26T12:01:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>292</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="201" sha1="r902lp3jexvzu7xiomqtq1wh1qbc26p" xml:space="preserve">* [[Die Stadtteile im Porträt]]
+* Vereinsleben
+* Wochenmarkt
+* Gastronomie-Führer
+* Einkaufen in Ahrensburg
+* Kirchen und religiöse Gemeinschaften.
+* Seniorentreff
+* Gesundheit:
+* Familie &amp; Bildung:</text>
+      <sha1>r902lp3jexvzu7xiomqtq1wh1qbc26p</sha1>
+    </revision>
+    <revision>
+      <id>294</id>
+      <parentid>292</parentid>
+      <timestamp>2025-06-26T12:27:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>294</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="205" sha1="2f2ecbdd8owfmnbd2iiwk7n7xjdmull" xml:space="preserve">* [[Die Stadtteile im Porträt]]
+* [[Vereinsleben]]
+* Wochenmarkt
+* Gastronomie-Führer
+* Einkaufen in Ahrensburg
+* Kirchen und religiöse Gemeinschaften.
+* Seniorentreff
+* Gesundheit:
+* Familie &amp; Bildung:</text>
+      <sha1>2f2ecbdd8owfmnbd2iiwk7n7xjdmull</sha1>
     </revision>
   </page>
   <page>
@@ -5381,6 +5487,55 @@ Der Verein Schloss Ahrensburg wurde gegründet und verwaltet das Schloss seitdem
 * [https://www.stormarnlexikon.de/schlossahrensburg_bau/ Schloss Ahrensburg]
 * [https://www.hamburg-tourism.de/sehen-erleben/metropolregion/schloss-ahrensburg/ Schloss Ahrensburg]</text>
       <sha1>qdzxy03ctjrhtct9b3tr86wgjna23u2</sha1>
+    </revision>
+    <revision>
+      <id>254</id>
+      <parentid>146</parentid>
+      <timestamp>2025-06-24T17:15:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>254</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4130" sha1="6inbjpf9gut3zvcbqvb44dplb6syhgk" xml:space="preserve">Das leuchtend weiße, von einem Wassergraben umgebene Schloss Ahrensburg liegt im südlichen Schleswig-Holstein, nordöstlich von Hamburg und nördlich des Stadtzentrums von Ahrensburg an der Lübecker Straße. Es ist in einen sehr schönen englischen Landschaftspark eingebettet.
+Das kleine Schloss wird allgemein als Herrenhaus bezeichnet. Früher, in der Renaissancezeit bis zur Weimarer Zeit, lag es inmitten der Ländereien eines adligen Gutes.
+
+Das Schloss ist eine bekannte Renaissance-Architektur Schleswig-Holsteins und ist der Öffentlichkeit zugänglich.
+==Geschichte==
+===Familie Rantzau Ära===
+Im 15. Jahrhundert war der dänische König auch Herzog von Holstein. 1567 erwarb König Friedrich II. die Adelsgüter Woldenhorn, Ahrensburg und Rethwisch.
+Der Feldherr Daniel Rantzau in den Herzogtümern wurde beauftragt, die alte Burg Ahrensburg abzureißen. Friedrich II. beauftragte ihn und übertrug ihm das Rittergut als Dank für seine herausragenden militärischen Dienste. An einer idyllischen Stelle am Fluss Hunnau im Hunnautal in Ahrensburg sollte er ein Herrenhaus bauen.
+Um 1587 wurde das Schloss gebaut, wobei Steine der alten Ahrenfelder Burg verwendet wurden.
+Leider starb Daniel Rantzau zwei Jahre später während eines Feldzugs bei der Belagerung der Festung Varberg in Schweden. Er war nicht verheiratet und hatte keine Kinder.
+Das von Daniel Rantzau begonnene Herrenhaus wurde zwischen 1585 und 1595 fertiggestellt, aber er selbst hat es nie gesehen. Sein Bruder Peter Rantzau erbte das Herrenhaus.
+Peter Rantzau zog mit seiner Frau in das Schloss Ahrensburg und starb vier Jahre später. Er hinterließ die Bedingung, dass seine Nachfahren sein soziales Werk erhalten.
+Nach dem Dreißigjährigen Krieg zehrten die Kosten des Krieges an der Familie Rantzau, viele ihrer Güter wurden zerstört und gebrandschatzt, und der Wiederaufbau ihres Vermögens war schwierig. Sie konnten das alte Schloss Ahrensburg noch halten.
+Die Familie Rantzau verschärfte die Regeln der Leibeigenschaft und ordnete mehr und längere Frondienste an. Es kam auch zu vielen Bauernaufständen. Noch etwa 100 Jahre konnten sie das Schloss halten, doch sie verarmten langsam immer mehr.
+===Familie Schimmelmann===
+Heinrich Carl von Schimmelmann war Kaufmann, Sklavenhändler und Berater des dänischen Königs. Er stieg zum reichsten Kaufmann Europas auf und wurde für seine Dienste am dänischen König zum Ritter geschlagen.
+Er kaufte 1759 das Schloss Ahrensburg von der Familie Rantzau. Die Familie Schimmelmann prägte das wirtschaftliche und soziale Leben in Ahrensburg durch enge Verbindungen zum dänischen Königshof. Das Herrenhaus wurde zu einem barocken Schloss und später zu einem klassizistischen Meisterwerk umgebaut.
+===Das Ende einer Ära und ein bleibendes Erbe===
+Dem Schloss Ahrensburg drohte die Zwangsversteigerung, da die Familie Schimmelmann langsam verarmte und sich das Schloss nicht mehr leisten konnte. 1932 verkaufte sie es, und die Kreissparkasse Stormarn erwarb das Schloss Ahrensburg.
+Der Verein Schloss Ahrensburg wurde gegründet und verwaltet das Schloss seitdem.
+==Als kultureller Veranstaltungsort==
+Das Schloss Ahrensburg eignet sich ideal für Lesungen, Konzerte, Ausstellungen sowie private Feiern und Hochzeiten im historischen Ambiente. Verschiedene Räume bieten unterschiedliche Nutzungsmöglichkeiten:
+
+* '''Salon Louis-Seize (2. OG):''' Trauung, Lesung, kleiner Vortrag, ca. 14 Plätze
+* '''Bibliothek (2. OG):''' Trauung, Lesung, ca. 18 Plätze
+* '''Gartensaal (EG):''' Lesung, Konzert, Trauung, 28–35 Sitzplätze, zusätzlich ca. 15 Stehplätze (bis zu 60 Personen)
+* '''Schlosskeller / Gewölbe:''' Stimmungsvolles Ambiente für Feiern, bis zu 80 Personen an runden Tischen
+* '''Schlosspark (Open-Air-Bühne):''' Open-Air-Konzerte, Kino und Events
+
+
+==Weblinks==
+* [https://www.schloss-ahrensburg.de/ Offizielle Website]
+* [https://de.wikipedia.org/wiki/Schloss_Ahrensburg Schloss Ahrensburg]
+* [https://www.stormarnlexikon.de/schlossahrensburg_bau/ Schloss Ahrensburg]
+* [https://www.hamburg-tourism.de/sehen-erleben/metropolregion/schloss-ahrensburg/ Schloss Ahrensburg]</text>
+      <sha1>6inbjpf9gut3zvcbqvb44dplb6syhgk</sha1>
     </revision>
   </page>
   <page>
@@ -9367,6 +9522,168 @@ Zusammenfassend sucht ASP.NET Core eine View &lt;code&gt;MeineView&lt;/code&gt; 
 * [[Kurse:Razor Views]] - [[Kurse:Täglich Razor Views]]</text>
       <sha1>inmafcx01xj6eu6guyuuj1gvk3e2o2c</sha1>
     </revision>
+    <revision>
+      <id>262</id>
+      <parentid>244</parentid>
+      <timestamp>2025-06-25T10:41:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>262</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="389" sha1="bxvmssdxph23kt89pa9nxrkm57ffiri" xml:space="preserve">* [[Kurse:HTTP]] - [[Kurse:HTTP Code Übungen]]
+* [[Kurse:Middleware]] - [[Kurse:Tägich Middleware Übungen]]
+* [[Kurse:Routing]] - [[Kurse:Täglich Routing Übungen]]
+* [[Kurse:Controllers]] - [[Kurse:Täglich Controllers Übungen]]
+* [[Kurse:Model Binding]] - [[Kurse:Täglich Model Binding Übungen]]
+* [[Kurse:Razor Views]] - [[Kurse:Täglich Razor Views]]
+* [[Kurse:Grud Operatoren]]</text>
+      <sha1>bxvmssdxph23kt89pa9nxrkm57ffiri</sha1>
+    </revision>
+    <revision>
+      <id>269</id>
+      <parentid>262</parentid>
+      <timestamp>2025-06-25T11:39:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>269</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="426" sha1="12gv93in7h9zlgs8g5a0dicwy5gh4zg" xml:space="preserve">* [[Kurse:HTTP]] - [[Kurse:HTTP Code Übungen]]
+* [[Kurse:Middleware]] - [[Kurse:Tägich Middleware Übungen]]
+* [[Kurse:Routing]] - [[Kurse:Täglich Routing Übungen]]
+* [[Kurse:Controllers]] - [[Kurse:Täglich Controllers Übungen]]
+* [[Kurse:Model Binding]] - [[Kurse:Täglich Model Binding Übungen]]
+* [[Kurse:Razor Views]] - [[Kurse:Täglich Razor Views]]
+* [[Kurse:Grud Operatoren]]
+* [[Kurse:Identity &amp; Authorization]]</text>
+      <sha1>12gv93in7h9zlgs8g5a0dicwy5gh4zg</sha1>
+    </revision>
+    <revision>
+      <id>272</id>
+      <parentid>269</parentid>
+      <timestamp>2025-06-25T11:58:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>272</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="460" sha1="k7yxy8vorcv0pota1m1sypv0a9hzr0k" xml:space="preserve">* [[Kurse:HTTP]] - [[Kurse:HTTP Code Übungen]]
+* [[Kurse:Middleware]] - [[Kurse:Tägich Middleware Übungen]]
+* [[Kurse:Routing]] - [[Kurse:Täglich Routing Übungen]]
+* [[Kurse:Controllers]] - [[Kurse:Täglich Controllers Übungen]]
+* [[Kurse:Model Binding]] - [[Kurse:Täglich Model Binding Übungen]]
+* [[Kurse:Razor Views]] - [[Kurse:Täglich Razor Views]]
+* [[Kurse:Grud Operatoren]]
+* [[Kurse:Identity &amp; Authorization]]
+* [[Kurse:Entity Framework Core]]</text>
+      <sha1>k7yxy8vorcv0pota1m1sypv0a9hzr0k</sha1>
+    </revision>
+    <revision>
+      <id>274</id>
+      <parentid>272</parentid>
+      <timestamp>2025-06-25T13:38:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>274</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="389" sha1="bxvmssdxph23kt89pa9nxrkm57ffiri" xml:space="preserve">* [[Kurse:HTTP]] - [[Kurse:HTTP Code Übungen]]
+* [[Kurse:Middleware]] - [[Kurse:Tägich Middleware Übungen]]
+* [[Kurse:Routing]] - [[Kurse:Täglich Routing Übungen]]
+* [[Kurse:Controllers]] - [[Kurse:Täglich Controllers Übungen]]
+* [[Kurse:Model Binding]] - [[Kurse:Täglich Model Binding Übungen]]
+* [[Kurse:Razor Views]] - [[Kurse:Täglich Razor Views]]
+* [[Kurse:Grud Operatoren]]</text>
+      <sha1>bxvmssdxph23kt89pa9nxrkm57ffiri</sha1>
+    </revision>
+    <revision>
+      <id>275</id>
+      <parentid>274</parentid>
+      <timestamp>2025-06-25T13:39:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>275</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="361" sha1="inmafcx01xj6eu6guyuuj1gvk3e2o2c" xml:space="preserve">* [[Kurse:HTTP]] - [[Kurse:HTTP Code Übungen]]
+* [[Kurse:Middleware]] - [[Kurse:Tägich Middleware Übungen]]
+* [[Kurse:Routing]] - [[Kurse:Täglich Routing Übungen]]
+* [[Kurse:Controllers]] - [[Kurse:Täglich Controllers Übungen]]
+* [[Kurse:Model Binding]] - [[Kurse:Täglich Model Binding Übungen]]
+* [[Kurse:Razor Views]] - [[Kurse:Täglich Razor Views]]</text>
+      <sha1>inmafcx01xj6eu6guyuuj1gvk3e2o2c</sha1>
+    </revision>
+    <revision>
+      <id>276</id>
+      <parentid>275</parentid>
+      <timestamp>2025-06-25T14:27:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>276</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="385" sha1="8xaty9d2run77pe86xpgn5qb4gzncen" xml:space="preserve">* [[Kurse:HTTP]] - [[Kurse:HTTP Code Übungen]]
+* [[Kurse:Middleware]] - [[Kurse:Tägich Middleware Übungen]]
+* [[Kurse:Routing]] - [[Kurse:Täglich Routing Übungen]]
+* [[Kurse:Controllers]] - [[Kurse:Täglich Controllers Übungen]]
+* [[Kurse:Model Binding]] - [[Kurse:Täglich Model Binding Übungen]]
+* [[Kurse:Razor Views]] - [[Kurse:Täglich Razor Views]]
+* [[Kurse:Laout Views]]</text>
+      <sha1>8xaty9d2run77pe86xpgn5qb4gzncen</sha1>
+    </revision>
+    <revision>
+      <id>278</id>
+      <parentid>276</parentid>
+      <timestamp>2025-06-25T14:31:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>278</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="386" sha1="qqfatk3lxfq0wiueuffxw4cqkwofu60" xml:space="preserve">* [[Kurse:HTTP]] - [[Kurse:HTTP Code Übungen]]
+* [[Kurse:Middleware]] - [[Kurse:Tägich Middleware Übungen]]
+* [[Kurse:Routing]] - [[Kurse:Täglich Routing Übungen]]
+* [[Kurse:Controllers]] - [[Kurse:Täglich Controllers Übungen]]
+* [[Kurse:Model Binding]] - [[Kurse:Täglich Model Binding Übungen]]
+* [[Kurse:Razor Views]] - [[Kurse:Täglich Razor Views]]
+* [[Kurse:Layout Views]]</text>
+      <sha1>qqfatk3lxfq0wiueuffxw4cqkwofu60</sha1>
+    </revision>
+    <revision>
+      <id>280</id>
+      <parentid>278</parentid>
+      <timestamp>2025-06-25T14:40:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>280</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="429" sha1="0zkg2dlc9yinqfiwjvrtwoaau9senzd" xml:space="preserve">* [[Kurse:HTTP]] - [[Kurse:HTTP Code Übungen]]
+* [[Kurse:Middleware]] - [[Kurse:Tägich Middleware Übungen]]
+* [[Kurse:Routing]] - [[Kurse:Täglich Routing Übungen]]
+* [[Kurse:Controllers]] - [[Kurse:Täglich Controllers Übungen]]
+* [[Kurse:Model Binding]] - [[Kurse:Täglich Model Binding Übungen]]
+* [[Kurse:Razor Views]] - [[Kurse:Täglich Razor Views]]
+* [[Kurse:Layout Views]] - [[Kurse:Täglich Layout Views Übungen]]</text>
+      <sha1>0zkg2dlc9yinqfiwjvrtwoaau9senzd</sha1>
+    </revision>
   </page>
   <page>
     <title>Server:Haupseite</title>
@@ -9449,6 +9766,24 @@ Zusammenfassend sucht ASP.NET Core eine View &lt;code&gt;MeineView&lt;/code&gt; 
 * [[Server:Backup]]
 * [[Server:Asp Net Core]]</text>
       <sha1>gefzf8wfp1737pmexnm7bu1nl94h4aq</sha1>
+    </revision>
+    <revision>
+      <id>296</id>
+      <parentid>197</parentid>
+      <timestamp>2025-06-26T13:18:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>296</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="118" sha1="qz5aqmkoeiq8z8no776cspuz6hzqx26" xml:space="preserve">==Server==
+* [[Server:Mieten]]
+* [[Server:Backup]]
+* [[Ubuntu Software Pakete Installieren]]
+* [[Server:Asp Net Core]]</text>
+      <sha1>qz5aqmkoeiq8z8no776cspuz6hzqx26</sha1>
     </revision>
   </page>
   <page>
@@ -11934,6 +12269,24 @@ app.Use(async (context, next) =&gt; {
 * Schloss Ahrensburg (Schloss &amp; Schlosspark)</text>
       <sha1>l2fwvp0m8wf9lx61pziabvdlbz1hp2k</sha1>
     </revision>
+    <revision>
+      <id>253</id>
+      <parentid>232</parentid>
+      <timestamp>2025-06-24T17:01:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>253</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="166" sha1="c07hjvvqqqhrjtllyby636o9i4fxayj" xml:space="preserve">* [[Alfred-Rust-Saal]]
+* [[Eduard-Söring-Saal]]
+* [[Kulturzentrum Marstall Ahrensburg]]
+* [[Kulturbühne Kultavida]]
+* [[Schloss Ahrensburg]] (Schloss &amp; Schlosspark)</text>
+      <sha1>c07hjvvqqqhrjtllyby636o9i4fxayj</sha1>
+    </revision>
   </page>
   <page>
     <title>Alfred-Rust-Saal</title>
@@ -12899,6 +13252,2921 @@ builder.Services.AddControllers(options =&gt; {
 * Binde eine Liste von Strings im Model und fülle sie über ein Array im Request.
 * Hole den User-Agent per [FromHeader] und gib ihn in der Response aus.</text>
       <sha1>ajmqa1hzrm2ax7jopx4d279z7v6mffg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Schwachstellen:Hauptseite</title>
+    <ns>3006</ns>
+    <id>74</id>
+    <revision>
+      <id>245</id>
+      <timestamp>2025-06-24T14:51:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Schwachstellen==“</comment>
+      <origin>245</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18" sha1="7c4wphqe7qh1l2drd6by4541vv2nzh8" xml:space="preserve">==Schwachstellen==</text>
+      <sha1>7c4wphqe7qh1l2drd6by4541vv2nzh8</sha1>
+    </revision>
+    <revision>
+      <id>246</id>
+      <parentid>245</parentid>
+      <timestamp>2025-06-24T15:18:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>246</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1475" sha1="sasm0pgwqhwgra8q3ztbnqv6wruvhfx" xml:space="preserve">==Schwachstellen==
+===Sprachmodell===
+* [https://airiskdatabase.com AI Risk Database] – Eine Datenbank mit Risiken und Schwachstellen im Bereich Künstliche Intelligenz.
+* [https://github.com/advisories GitHub CVE &amp; Security Advisories] – Offizielle Sicherheitswarnungen und CVE-Meldungen von GitHub für Open-Source-Projekte.
+* [https://cve.mitre.org/ MITRE CVE Database] – Zentrale Datenbank für öffentlich bekannte Schwachstellen (Common Vulnerabilities and Exposures, CVE).
+* [https://nvd.nist.gov/ National Vulnerability Database (NVD)] – Die US-amerikanische nationale Datenbank für Schwachstellen, gepflegt vom NIST.
+* [https://www.cvedetails.com/ CVE Details] – Eine benutzerfreundliche Übersicht und Analyse von CVE-Einträgen.
+* [https://www.exploit-db.com/ Exploit Database] – Sammlung von Exploits und Proof-of-Concept-Code für bekannte Schwachstellen.
+* [https://www.securityfocus.com/vulnerabilities SecurityFocus Vulnerability Database] – Archiv von Schwachstellen und Sicherheitsmeldungen.
+* [https://www.openwall.com/lists/oss-security/ Open Source Security (oss-security)] – Mailingliste und Archiv zu Schwachstellen in Open-Source-Software.
+* [https://vuldb.com VulDB] – Community-basierte Schwachstellendatenbank mit aktuellen Informationen und Analysen.
+* [https://www.zerodayinitiative.com/advisories/published/ Zero Day Initiative Advisories] – Veröffentlichte Schwachstellen und Exploits aus dem Zero Day Initiative Programm.</text>
+      <sha1>sasm0pgwqhwgra8q3ztbnqv6wruvhfx</sha1>
+    </revision>
+    <revision>
+      <id>247</id>
+      <parentid>246</parentid>
+      <timestamp>2025-06-24T15:20:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>247</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1332" sha1="18gphefdoejs4sxkm41g05ymzhx5gud" xml:space="preserve">==Schwachstellen==
+===Sprachmodell===
+* [https://airiskdatabase.com AI Risk Database] – Eine Datenbank mit Risiken und Schwachstellen im Bereich Künstliche Intelligenz.
+* [https://github.com/advisories GitHub CVE &amp; Security Advisories] – Offizielle Sicherheitswarnungen und CVE-Meldungen von GitHub für Open-Source-Projekte.
+* [https://cve.mitre.org/ MITRE CVE Database] – Zentrale Datenbank für öffentlich bekannte Schwachstellen (Common Vulnerabilities and Exposures, CVE).
+* [https://nvd.nist.gov/ National Vulnerability Database (NVD)] – Die US-amerikanische nationale Datenbank für Schwachstellen, gepflegt vom NIST.
+* [https://www.cvedetails.com/ CVE Details] – Eine benutzerfreundliche Übersicht und Analyse von CVE-Einträgen.
+* [https://www.exploit-db.com/ Exploit Database] – Sammlung von Exploits und Proof-of-Concept-Code für bekannte Schwachstellen.
+* [https://www.openwall.com/lists/oss-security/ Open Source Security (oss-security)] – Mailingliste und Archiv zu Schwachstellen in Open-Source-Software.
+* [https://vuldb.com VulDB] – Community-basierte Schwachstellendatenbank mit aktuellen Informationen und Analysen.
+* [https://www.zerodayinitiative.com/advisories/published/ Zero Day Initiative Advisories] – Veröffentlichte Schwachstellen und Exploits aus dem Zero Day Initiative Programm.</text>
+      <sha1>18gphefdoejs4sxkm41g05ymzhx5gud</sha1>
+    </revision>
+    <revision>
+      <id>248</id>
+      <parentid>247</parentid>
+      <timestamp>2025-06-24T15:34:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>248</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2120" sha1="mog6c3vm86nht83mv2cxeg81crvey59" xml:space="preserve">==Schwachstellen==
+===Sprachmodell===
+* [https://airiskdatabase.com AI Risk Database] – Eine Datenbank mit Risiken und Schwachstellen im Bereich Künstliche Intelligenz.
+* [https://github.com/advisories GitHub CVE &amp; Security Advisories] – Offizielle Sicherheitswarnungen und CVE-Meldungen von GitHub für Open-Source-Projekte.
+* [https://cve.mitre.org/ MITRE CVE Database] – Zentrale Datenbank für öffentlich bekannte Schwachstellen (Common Vulnerabilities and Exposures, CVE).
+* [https://nvd.nist.gov/ National Vulnerability Database (NVD)] – Die US-amerikanische nationale Datenbank für Schwachstellen, gepflegt vom NIST.
+* [https://www.cvedetails.com/ CVE Details] – Eine benutzerfreundliche Übersicht und Analyse von CVE-Einträgen.
+* [https://www.exploit-db.com/ Exploit Database] – Sammlung von Exploits und Proof-of-Concept-Code für bekannte Schwachstellen.
+* [https://www.openwall.com/lists/oss-security/ Open Source Security (oss-security)] – Mailingliste und Archiv zu Schwachstellen in Open-Source-Software.
+* [https://vuldb.com VulDB] – Community-basierte Schwachstellendatenbank mit aktuellen Informationen und Analysen.
+* [https://www.zerodayinitiative.com/advisories/published/ Zero Day Initiative Advisories] – Veröffentlichte Schwachstellen und Exploits aus dem Zero Day Initiative Programm.
+==Allgemein==
+* [https://deps.dev/ Deps.dev] ist ein Tool, das die Abhängigkeiten von Open-Source-Projekten analysiert und Schwachstellen in den Abhängigkeiten identifiziert. Es ist ein kostenloser Dienst, der von GitHub bereitgestellt wird.
+* [https://security.snyk.io/ Snyk] ist ein weiteres Tool, das Schwachstellen in Open-Source-Abhängigkeiten identifiziert und Entwicklern hilft, diese zu beheben. Es bietet auch Funktionen zur Überwachung von Sicherheitslücken in Abhängigkeiten im laufenden Betrieb.
+* [https://osv.dev/ OSV (Open Source Vulnerabilities)] ist ein Tool, das Schwachstellen in Open-Source-Software identifiziert und Entwicklern hilft, diese zu beheben. Es bietet auch Funktionen zur Überwachung von Sicherheitslücken in Abhängigkeiten im laufenden Betrieb.</text>
+      <sha1>mog6c3vm86nht83mv2cxeg81crvey59</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ai:Hauptseite</title>
+    <ns>3004</ns>
+    <id>75</id>
+    <revision>
+      <id>249</id>
+      <timestamp>2025-06-24T15:56:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* Ai:Nahtlose Integration von KI und ML in Ihre Projekte“</comment>
+      <origin>249</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="58" sha1="js8fpf3w0q25dy7iswgrsevxpkfut56" xml:space="preserve">* [[Ai:Nahtlose Integration von KI und ML in Ihre Projekte</text>
+      <sha1>js8fpf3w0q25dy7iswgrsevxpkfut56</sha1>
+    </revision>
+    <revision>
+      <id>250</id>
+      <parentid>249</parentid>
+      <timestamp>2025-06-24T15:56:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>250</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="60" sha1="6uo9i5eki1xr4790n2d9r6fc6i2w481" xml:space="preserve">* [[Ai:Nahtlose Integration von KI und ML in Ihre Projekte]]</text>
+      <sha1>6uo9i5eki1xr4790n2d9r6fc6i2w481</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ai:Nahtlose Integration von KI und ML in Ihre Projekte</title>
+    <ns>3004</ns>
+    <id>76</id>
+    <revision>
+      <id>251</id>
+      <timestamp>2025-06-24T16:23:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ Sicher, hier ist eine detaillierte Beschreibung der allgemeinen Frameworks mit LLM-Inferenzfunktionen  == Anwendungsentwicklungs-Frameworks für LLMs == Diese Frameworks erleichtern die Integration und Nutzung von Large Language Models (LLMs) in verschiedene Anwendungen.  === LangChain === '''Beschreibung:''' LangChain ist ein Framework, das die Entwicklung von Anwendungen, die durch Sprachmodelle unterstützt werden, vereinfacht. Es bietet Tools für Ke…“</comment>
+      <origin>251</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="11760" sha1="4veao5wh3r5kto7x3lvcm8fi5tootwr" xml:space="preserve">
+Sicher, hier ist eine detaillierte Beschreibung der allgemeinen Frameworks mit LLM-Inferenzfunktionen
+
+== Anwendungsentwicklungs-Frameworks für LLMs ==
+Diese Frameworks erleichtern die Integration und Nutzung von Large Language Models (LLMs) in verschiedene Anwendungen.
+
+=== LangChain ===
+'''Beschreibung:''' LangChain ist ein Framework, das die Entwicklung von Anwendungen, die durch Sprachmodelle unterstützt werden, vereinfacht. Es bietet Tools für Kettenbildung (Chaining), Agentenentwicklung und Datenaugmentation, um komplexe LLM-basierte Workflows zu erstellen. Umfassende Sammlung an Werkzeugen, Komponenten und Schnittstellen zur Vereinfachung der Arbeit mit großen Sprachmodellen. Ermöglicht die Entwicklung von Anwendungen, die kontextbezogen sind und in der Lage sind Daten von unterschiedlichen Quellen zu verarbeiten. '''Kernfunktionen:''' Modellintegrationen (z.B. OpenAI, Hugging Face). Datenverbindungen (z.B. Datenbanken, APIs). Chains (Verknüpfung von LLM-Aufrufen). Agenten (autonome LLM-gesteuerte Entscheidungsfindung). '''Anwendungsfälle:''' Chatbots und virtuelle Assistenten. Frage-Antwort-Systeme. Textzusammenfassung und -generierung.
+
+=== LlamaIndex ===
+
+=== Haystack (von deepset) ===
+
+=== Semantic Kernel ===
+'''Beschreibung:''' Semantic Kernel von Microsoft ist ein Open-Source-SDK, das die Integration von LLMs in herkömmliche Programmiersprachen ermöglicht. Es bietet eine flexible Architektur für die Kombination von KI-Funktionen mit benutzerdefiniertem Code. Bietet Entwicklern eine Möglichkeit generative KI mit bestehenden Code in bestehenden Applikationen zu kombinieren. '''Kernfunktionen:''' Funktionsplanung und -ausführung. Plugin-System für benutzerdefinierte Funktionen. Integration mit verschiedenen LLM-Anbietern. ermöglicht das erstellen von KI Agenten. '''Anwendungsfälle:''' Automatisierung von Geschäftsprozessen. Intelligente Suchanwendungen. Persönliche KI-Assistenten. === Spring Boot Ai
+
+== LLM-Inferenz-Engines ==
+LLM-Inferenz-Engines sind Softwarebibliotheken oder Frameworks, die zur effizienten Ausführung von Large Language Models (LLMs) verwendet werden. Sie optimieren die Modellinferenz, um die Latenz zu reduzieren und den Durchsatz zu erhöhen. Hier sind einige wichtige LLM-Inferenz-Engines:
+
+=== vLLM ===
+Beschreibung: vLLM ist eine schnelle und benutzerfreundliche Inferenz- und Serving-Engine für LLMs. Sie nutzt PagedAttention, einen neuartigen Aufmerksamkeitsalgorithmus, der von der virtuellen Speicherverwaltung in Betriebssystemen inspiriert ist, um den Durchsatz erheblich zu steigern. Wichtige Merkmale: PagedAttention für effiziente Schlüssel-Wert-Cache-Verwaltung Kontinuierliches Batching von Anfragen Optimierte CUDA-Kernel Unterstützung für Quantisierung (GPTQ, AWQ) Vorteile: Hoher Durchsatz, niedrige Latenz, effiziente Ressourcennutzung. Verwendung: Geeignet für Produktionsumgebungen, in denen hohe Leistung und Skalierbarkeit erforderlich sind.
+
+=== Hugging Face Text Generation Inference (TGI) ===
+Beschreibung: TGI ist eine Inferenz-Engine von Hugging Face, die auf einfache Bereitstellung und hohe Leistung ausgelegt ist. Wichtige Merkmale: Optimiert für Hugging Face Transformer-Modelle Unterstützung für verschiedene Hardwarebeschleuniger (GPUs, CPUs) Flexibles und erweiterbares Design Verwendet in Hugging Face Diensten wie Hugging Chat und der Inference API. Vorteile: Einfache Integration mit dem Hugging Face Ökosystem, gute Leistung. Verwendung: Beliebt für die Bereitstellung von Hugging Face Modellen in Produktionsumgebungen.
+
+=== llama.cpp ===
+Beschreibung: llama.cpp ist eine C++-Implementierung des Llama-Modells, die auf Leistung und Effizienz ausgelegt ist, insbesondere auf Hardware wie Apple Silicon. Wichtige Merkmale: Reine C++-Implementierung ohne Abhängigkeiten Optimiert für CPU-Inferenz Gute Unterstützung für Apple Silicon Schnelle ausführung auf Verbraucherhardware. Vorteile: Niedriger Ressourcenverbrauch, gute Leistung auf CPUs. Verwendung: Ideal für lokale Inferenz auf Laptops und anderen Geräten mit begrenzten Ressourcen.
+
+=== OpenVINO ===
+Beschreibung: OpenVINO (Open Visual Inference and Neural Network Optimization) ist ein Toolkit von Intel zur Optimierung und Bereitstellung von KI-Modellen, einschließlich LLMs. Wichtige Merkmale: Unterstützung für verschiedene Hardwareplattformen (CPUs, GPUs, VPU) Optimierungen für Intel-Hardware Werkzeuge zur Modelloptimierung und -konvertierung Vorteile: Gute Leistung auf Intel-Hardware, Unterstützung für verschiedene Hardwareplattformen. Verwendung: Geeignet für die Bereitstellung von LLMs auf Intel-basierter Hardware.
+
+=== GGML - GGUF ===
+Beschreibung: GGML (auch in Verbindung mit GGUF verwendet) ist ein C-Bibliothek für Machine Learning, die speziell für die Ausführung von LLMs auf Verbraucherhardware entwickelt wurde. GGUF ist das neue Quantisierungsformat von GGML. Wichtige Merkmale: CPU-zentriert, mit teilweiser GPU-Unterstützung über OpenCL oder Metal. Ermöglicht die Ausführung großer Modelle auf Geräten mit begrenztem Speicher. Breite Unterstützung für viele Quantisierungs Methoden. GGUF hat das ältere GGML Format abgelöst. Vorteile: Ermöglicht die Inferenz auf schwächeren Geräten. Verwendung: Besonders für das lokale Nutzen von LLM's von Bedeutung.
+
+== ML-Compiler und verwandte Tools ==
+
+* '''ML-Compiler''' sind Software-Tools, die darauf abzielen, maschinelle Lernmodelle (ML) zu optimieren und auf verschiedene Hardware-Plattformen zu übersetzen. Sie ermöglichen eine effiziente Ausführung von ML-Modellen auf unterschiedlichen Geräten und verbessern die Leistung durch Optimierungen wie Fusionierung von Operationen, Speicheroptimierung und Code-Generierung.
+
+=== Apache TVM ===
+
+* '''Beschreibung:''' Apache TVM ist ein Open-Source-Compiler-Framework für maschinelles Lernen, das die Leistung von ML-Modellen auf verschiedenen Hardware-Plattformen optimiert. Es unterstützt eine breite Palette von Backend-Hardware, darunter CPUs, GPUs und spezialisierte Beschleuniger.
+
+* '''Funktionen:'''
+** Modelloptimierung: TVM führt verschiedene Optimierungen durch, wie z.B. Operatorenfusion, Layout-Transformationen und Speichermanagement, um die Ausführungsgeschwindigkeit und den Speicherverbrauch zu verbessern.
+** Code-Generierung: TVM generiert optimierten Code für verschiedene Hardware-Backends, was eine effiziente Ausführung auf unterschiedlichen Plattformen ermöglicht.
+** Hardware-Unterstützung: TVM unterstützt eine Vielzahl von Hardware-Plattformen, darunter CPUs (x86, ARM), GPUs (NVIDIA, AMD, Intel) und spezialisierte Beschleuniger (TPUs, FPGAs).
+** Framework-Integration: TVM kann mit verschiedenen ML-Frameworks wie TensorFlow, PyTorch und ONNX integriert werden.
+** Relay IR: verwendet eine funktionale relationale IR, um Optimierungen durchzuführen.
+
+* '''Anwendung:''' TVM wird verwendet, um ML-Modelle für das Edge Computing, eingebettete Systeme und Cloud-Bereitstellungen zu optimieren.
+
+=== Google MLIR (Multi-Level Intermediate Representation) ===
+
+* '''Beschreibung:''' MLIR ist ein Compiler-Infrastrukturprojekt, das eine flexible und erweiterbare Zwischenrepräsentation (IR) für die Optimierung von ML-Modellen bietet. Es ist ein modulares System, das verschiedene Abstraktionsebenen unterstützt und eine Vielzahl von Optimierungen ermöglicht.
+
+* '''Funktionen:'''
+** Multi-Level IR: MLIR unterstützt verschiedene Abstraktionsebenen, von hochrangigen ML-Operationen bis hin zu hardwarenahen Operationen.
+** Dialekte: MLIR verwendet Dialekte, um verschiedene Abstraktionsebenen und Optimierungen darzustellen.
+** Optimierungs-Framework: MLIR bietet eine Reihe von Optimierungspässen, die auf verschiedenen Abstraktionsebenen angewendet werden können.
+** Code-Generierung: MLIR kann Code für verschiedene Hardware-Backends generieren, darunter CPUs, GPUs und spezialisierte Beschleuniger.
+** Erweiterbarkeit: MLIR ist so konzipiert, dass es erweiterbar ist, was es ermöglicht, neue Dialekte und Optimierungen hinzuzufügen.
+
+* '''Anwendung:''' MLIR wird verwendet, um ML-Modelle für verschiedene Anwendungen zu optimieren, darunter Inferenz, Training und hardwarebeschleunigte Berechnungen. Es ist die Grundlage vieler Google ML-Tools, einschließlich XLA.
+
+=== TensorFlow XLA (Accelerated Linear Algebra) ===
+
+* '''Beschreibung:''' XLA ist ein Compiler für lineare Algebra, der TensorFlow-Modelle optimiert. Es führt verschiedene Optimierungen durch, um die Ausführungsgeschwindigkeit und den Speicherverbrauch zu verbessern, insbesondere auf GPUs und TPUs.
+
+* '''Funktionen:'''
+** Just-in-Time (JIT) Kompilierung: XLA kompiliert TensorFlow-Graphen zur Laufzeit, um die Ausführungsgeschwindigkeit zu verbessern.
+** Operatorenfusion: XLA fusioniert mehrere Operationen zu einer einzigen Operation, um den Overhead zu reduzieren.
+** Speichermanagement: XLA optimiert die Speicherzuweisung und -freigabe, um den Speicherverbrauch zu minimieren.
+** Hardware-Beschleunigung: XLA ist speziell für die Beschleunigung von ML-Modellen auf GPUs und TPUs konzipiert.
+** Backends: XLA unterstützt verschiedene Backend Hardware, besonders die Google TPU, aber auch Nvidia und AMD GPUs.
+
+* '''Anwendung:''' XLA wird verwendet, um die Leistung von TensorFlow-Modellen für Training und Inferenz zu verbessern.
+
+=== Meta Glow ===
+
+* '''Beschreibung:''' Glow ist ein Compiler für neuronale Netzwerke, der von Meta (ehemals Facebook) entwickelt wurde. Er zielt darauf ab, die Leistung von ML-Modellen auf verschiedenen Hardware-Plattformen zu optimieren, insbesondere für Edge-Computing-Anwendungen.
+
+* '''Funktionen:'''
+** Optimierungen: Glow führt verschiedene Optimierungen durch, wie z.B. Operatorenfusion, Speichermanagement und Code-Generierung.
+** Code-Generierung: Glow generiert optimierten Code für verschiedene Hardware-Backends, darunter CPUs und spezialisierte Beschleuniger.
+** Edge-Computing-Fokus: Glow ist speziell für die Optimierung von ML-Modellen für Edge-Computing-Anwendungen konzipiert.
+** Open Source: Glow ist ein Open-Source-Projekt, das von der Community weiterentwickelt wird.
+** IR: Glow verwendet eine eigene interne IR, um Optimierungen durchzuführen.
+
+* '''Anwendung:''' Glow wird verwendet, um ML-Modelle für Edge-Computing-Anwendungen zu optimieren, z.B. für Computer Vision, natürliche Sprachverarbeitung und andere Anwendungen, die auf eingebetteten Systemen ausgeführt werden.
+
+=== ONNX (Open Neural Network Exchange) ===
+
+* '''Beschreibung:''' ONNX ist ein offenes Format für die Darstellung von ML-Modellen. Es ermöglicht den Austausch von Modellen zwischen verschiedenen ML-Frameworks und Hardware-Plattformen. ONNX ist nicht direkt ein Compiler, sondern eine Zwischenrepräsentation, die von Compilern und Laufzeitumgebungen verwendet wird.
+
+* '''Funktionen:'''
+** Modell-Interoperabilität: ONNX ermöglicht den Austausch von Modellen zwischen verschiedenen ML-Frameworks wie TensorFlow, PyTorch und scikit-learn.
+** Hardware-Unabhängigkeit: ONNX-Modelle können auf verschiedenen Hardware-Plattformen ausgeführt werden, was die Bereitstellung von ML-Modellen vereinfacht.
+** Standardisierung: ONNX ist ein offener Standard, der von einer breiten Palette von Unternehmen und Organisationen unterstützt wird.
+** Graph-Repräsentation: ONNX repräsentiert ML-Modelle als gerichtete azyklische Graphen (DAGs).
+** Laufzeitumgebungen: ONNX-Laufzeitumgebungen wie ONNX Runtime optimieren und führen ONNX-Modelle aus.
+
+* '''Anwendung:''' ONNX wird verwendet, um die Interoperabilität von ML-Modellen zu verbessern und die Bereitstellung von Modellen auf verschiedenen Hardware-Plattformen zu vereinfachen. Es ist ein wichtiger Bestandteil der ML-Toolchain, der von Compilern und Laufzeitumgebungen verwendet wird.</text>
+      <sha1>4veao5wh3r5kto7x3lvcm8fi5tootwr</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kulturbühne Kultavida</title>
+    <ns>0</ns>
+    <id>77</id>
+    <revision>
+      <id>252</id>
+      <timestamp>2025-06-24T16:55:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>252</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="557" sha1="6m8fwr4pyu75dl0icf3s0waqgxj1qmq" xml:space="preserve">Die Kulturbühne Kultavida in Ahrensburg wurde von Oliver Arndt ins Leben gerufen. Die gemütliche und persönliche Kleinkunstbühne befindet sich auf Wohnzimmer-Niveau in der Großen Straße 32, mitten im Zentrum von Ahrensburg. Sie verfügt über etwa 40 Sitzplätze sowie bis zu 60 Stehplätze.
+Als Kleinkunst- und Kulturhalle versteht sich die Kulturbühne als Plattform für Musik, Lesungen, Theater und Workshops und bietet ein abwechslungsreiches Programm: Offene Bühne, Konzerte, Lesungen, Comedy und Workshops.
+
+==Weblink==
+* https://kultavida.de/</text>
+      <sha1>6m8fwr4pyu75dl0icf3s0waqgxj1qmq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Regelmäßige Feste &amp; Veranstaltungen</title>
+    <ns>0</ns>
+    <id>78</id>
+    <revision>
+      <id>256</id>
+      <timestamp>2025-06-24T17:45:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* Ahrensburger Stadtfest * Kultur4Ort * Schlosspark-Kinosommer * Ahrensburger Weihnachtsmarkt“</comment>
+      <origin>256</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="93" sha1="o91vt830abezi5dzbxugl3motehvm6r" xml:space="preserve">* Ahrensburger Stadtfest
+* Kultur4Ort
+* Schlosspark-Kinosommer
+* Ahrensburger Weihnachtsmarkt</text>
+      <sha1>o91vt830abezi5dzbxugl3motehvm6r</sha1>
+    </revision>
+    <revision>
+      <id>257</id>
+      <parentid>256</parentid>
+      <timestamp>2025-06-24T17:52:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>257</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="135" sha1="73qfoqeq1d0vsm1sz07ovgo5gnu1via" xml:space="preserve">* Ahrensburger Stadtfest
+* Kultur4Ort
+* Schlosspark-Kinosommer
+* Ahrensburger Weihnachtsmarkt
+* Oktoberfest
+* Weinfest
+* Music for free</text>
+      <sha1>73qfoqeq1d0vsm1sz07ovgo5gnu1via</sha1>
+    </revision>
+    <revision>
+      <id>258</id>
+      <parentid>257</parentid>
+      <timestamp>2025-06-24T18:03:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>258</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="186" sha1="q8xwjhr044wk7uxhk2m1u5xd148xpdb" xml:space="preserve">* Ahrensburger Stadtfest
+* Kultur4Ort
+* Schlosspark-Kinosommer
+* Ahrensburger Weihnachtsmarkt
+* Oktoberfest
+* Weinfest
+* Music for free
+* Osterfeuer:
+* Schleswig-Holstein Musik Festival:</text>
+      <sha1>q8xwjhr044wk7uxhk2m1u5xd148xpdb</sha1>
+    </revision>
+    <revision>
+      <id>259</id>
+      <parentid>258</parentid>
+      <timestamp>2025-06-25T02:21:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>259</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="190" sha1="hrua6zglzcflb1w91a6w2ftewh3f4za" xml:space="preserve">* [[Ahrensburger Stadtfest]]
+* Kultur4Ort
+* Schlosspark-Kinosommer
+* Ahrensburger Weihnachtsmarkt
+* Oktoberfest
+* Weinfest
+* Music for free
+* Osterfeuer:
+* Schleswig-Holstein Musik Festival:</text>
+      <sha1>hrua6zglzcflb1w91a6w2ftewh3f4za</sha1>
+    </revision>
+    <revision>
+      <id>282</id>
+      <parentid>259</parentid>
+      <timestamp>2025-06-25T19:43:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>282</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="194" sha1="4mmt72sr9k8xyrkwpz46p0bt9q1qyve" xml:space="preserve">* [[Ahrensburger Stadtfest]]
+* [[Kultur4Ort]]
+* Schlosspark-Kinosommer
+* Ahrensburger Weihnachtsmarkt
+* Oktoberfest
+* Weinfest
+* Music for free
+* Osterfeuer:
+* Schleswig-Holstein Musik Festival:</text>
+      <sha1>4mmt72sr9k8xyrkwpz46p0bt9q1qyve</sha1>
+    </revision>
+    <revision>
+      <id>284</id>
+      <parentid>282</parentid>
+      <timestamp>2025-06-25T20:00:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>284</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="147" sha1="048h35p9574truezxj366q80mokj72e" xml:space="preserve">* [[Ahrensburger Stadtfest]]
+* [[Kultur4Ort]]
+* [[Schlosspark-Kinosommer]]
+* Ahrensburger Weihnachtsmarkt
+* Oktoberfest
+* Weinfest
+* Music for free</text>
+      <sha1>048h35p9574truezxj366q80mokj72e</sha1>
+    </revision>
+    <revision>
+      <id>285</id>
+      <parentid>284</parentid>
+      <timestamp>2025-06-25T20:09:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>285</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="104" sha1="s3jhydxe68nro1kg83cftu6ct9btlo1" xml:space="preserve">* [[Ahrensburger Stadtfest]]
+* [[Kultur4Ort]]
+* Ahrensburger Weihnachtsmarkt
+* Weinfest
+* Music for free</text>
+      <sha1>s3jhydxe68nro1kg83cftu6ct9btlo1</sha1>
+    </revision>
+    <revision>
+      <id>286</id>
+      <parentid>285</parentid>
+      <timestamp>2025-06-25T20:18:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>286</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="108" sha1="9srx7f1rw1xszi10x0meelhvfnvgdpc" xml:space="preserve">* [[Ahrensburger Stadtfest]]
+* [[Kultur4Ort]]
+* [[Ahrensburger Weihnachtsmarkt]]
+* Weinfest
+* Music for free</text>
+      <sha1>9srx7f1rw1xszi10x0meelhvfnvgdpc</sha1>
+    </revision>
+    <revision>
+      <id>288</id>
+      <parentid>286</parentid>
+      <timestamp>2025-06-25T20:38:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>288</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="112" sha1="kd3iwmoi6lzoj61gxaxbei96hjrm0o1" xml:space="preserve">* [[Ahrensburger Stadtfest]]
+* [[Kultur4Ort]]
+* [[Ahrensburger Weihnachtsmarkt]]
+* [[Weinfest]]
+* Music for free</text>
+      <sha1>kd3iwmoi6lzoj61gxaxbei96hjrm0o1</sha1>
+    </revision>
+    <revision>
+      <id>290</id>
+      <parentid>288</parentid>
+      <timestamp>2025-06-25T21:13:27Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>290</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="116" sha1="d7k696n48vuhp7ahy0hkkogb7d2127i" xml:space="preserve">* [[Ahrensburger Stadtfest]]
+* [[Kultur4Ort]]
+* [[Ahrensburger Weihnachtsmarkt]]
+* [[Weinfest]]
+* [[Music for free]]</text>
+      <sha1>d7k696n48vuhp7ahy0hkkogb7d2127i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ahrensburger Stadtfest</title>
+    <ns>0</ns>
+    <id>79</id>
+    <revision>
+      <id>260</id>
+      <timestamp>2025-06-25T02:47:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>260</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="451" sha1="1c5o12a3calvzmj86zup8uqm9ffk907" xml:space="preserve">==Ahrensburger Stadtfest==
+
+Das Ahrensburger Stadtfest ist ein dreitägiges Volksfest, das jährlich am zweiten Juniwochenende im Zentrum von Ahrensburg stattfindet. Veranstalter ist das Ahrensburger Stadtforum (der Verein der Kaufleute und Gewerbetreibenden), unterstützt von der Stadt Ahrensburg.
+Veranstaltungsorte: Große Straße, Hagener Allee, Rondell, Manhagener Allee, Hamburger Straße.
+
+==Weblinks==
+* https://www.ahrensburger-stadtfest.de/</text>
+      <sha1>1c5o12a3calvzmj86zup8uqm9ffk907</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Täglich Razor Views</title>
+    <ns>3002</ns>
+    <id>80</id>
+    <revision>
+      <id>261</id>
+      <timestamp>2025-06-25T03:52:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „= ASP.NET Core MVC – Speckzettel &amp; Übungen =  == MVC Architektur: Grundprinzip == * **Model:** Daten &amp; Geschäftslogik (z.B. DB-Zugriffe, Validierung) * **View:** Darstellung der UI (Razor/HTML-Templates) * **Controller:** Vermittler – verarbeitet Anfragen, steuert Model &amp; View  === Model-Typen: === * Geschäftsmodell: Reale Entitäten (z.B. Produkt, Kunde) * View Model: Für die Darstellung optimiert (z.B. Zusammenfassung mehrerer Models)  == Ablauf…“</comment>
+      <origin>261</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5301" sha1="bg1i4hrgqhjmt7ffc5iqdhjqy2sb6c7" xml:space="preserve">= ASP.NET Core MVC – Speckzettel &amp; Übungen =
+
+== MVC Architektur: Grundprinzip ==
+* **Model:** Daten &amp; Geschäftslogik (z.B. DB-Zugriffe, Validierung)
+* **View:** Darstellung der UI (Razor/HTML-Templates)
+* **Controller:** Vermittler – verarbeitet Anfragen, steuert Model &amp; View
+
+=== Model-Typen: ===
+* Geschäftsmodell: Reale Entitäten (z.B. Produkt, Kunde)
+* View Model: Für die Darstellung optimiert (z.B. Zusammenfassung mehrerer Models)
+
+== Ablauf einer MVC-Anfrage ==
+# Routing: URL → Controller/Action
+# Model Binding: Request-Daten werden Parametern/Models zugewiesen
+# Validierung: Daten werden geprüft, Fehler landen in ModelState
+# Action-Logik: Daten holen/bearbeiten, ViewModel erstellen
+# View-Auswahl: View + Model werden an die View-Engine (Razor) übergeben
+# View-Rendering: Razor erzeugt das HTML
+# Response: HTML wird an den Client geschickt
+
+== Beispielcode ==
+
+=== Aktivierung in Program.cs ===
+&lt;syntaxhighlight lang="csharp"&gt;
+// Program.cs
+builder.Services.AddControllersWithViews(); // MVC aktivieren
+&lt;/syntaxhighlight&gt;
+
+=== Controller Beispiel ===
+&lt;syntaxhighlight lang="csharp"&gt;
+// HomeController.cs
+public class HomeController : Controller
+{
+    [Route("home")]
+    public IActionResult Index()
+    {
+        return View(); // Rendert Views/Home/Index.cshtml
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+=== View Beispiel ===
+&lt;syntaxhighlight lang="html"&gt;
+// Views/Home/Index.cshtml
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;Asp.Net Core App&lt;/title&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    Willkommen!
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;/syntaxhighlight&gt;
+
+----
+
+== Razor-Grundlagen ==
+
+* **@{...}**: C#-Codeblock
+* **@variable**: Variablen-Ausgabe
+* **@if, @else, @switch, @foreach, @for**: Kontrollstrukturen
+* **@Html.Raw()**: Rohes HTML ausgeben (Achtung: XSS-Gefahr!)
+
+=== Razor-Control-Flow Beispiel ===
+&lt;syntaxhighlight lang="csharp"&gt;
+@if (person.Geburtsdatum.HasValue)
+{
+    &lt;p&gt;Alter: @(Math.Round((DateTime.Now - person.Geburtsdatum.Value).TotalDays / 365.25)) Jahre&lt;/p&gt;
+}
+else
+{
+    &lt;p&gt;Geburtsdatum unbekannt&lt;/p&gt;
+}
+&lt;/syntaxhighlight&gt;
+
+=== Übung: Kontrollstrukturen ===
+&lt;pre&gt;
+Schreibe einen Razor-View, der eine Liste von Personen mit Name und Geschlecht anzeigt.
+&lt;/pre&gt;
+
+----
+
+== ViewData &amp; ViewBag ==
+
+* **ViewData["key"]**: Dictionary, cast nötig
+* **ViewBag.key**: Dynamisches Objekt, kein Cast nötig
+
+=== Beispiel: Übergabe im Controller ===
+&lt;syntaxhighlight lang="csharp"&gt;
+// Controller
+ViewData["Titel"] = "Meine App";
+ViewBag.Personen = personenListe;
+&lt;/syntaxhighlight&gt;
+
+=== Beispiel: Zugriff in View ===
+&lt;syntaxhighlight lang="csharp"&gt;
+// View
+&lt;title&gt;@ViewData["Titel"]&lt;/title&gt;
+@foreach(var p in ViewBag.Personen) { &lt;div&gt;@p.Name&lt;/div&gt; }
+&lt;/syntaxhighlight&gt;
+
+=== Übung: ViewBag ===
+&lt;pre&gt;
+Übertrage die aktuelle Uhrzeit per ViewBag in die View und zeige sie dort an.
+&lt;/pre&gt;
+
+----
+
+== Starke Typisierung mit @model ==
+
+* View erhält direkt eine Model-Instanz → IntelliSense, Typ-Sicherheit
+
+=== Beispiel: Übergabe einer Liste ===
+&lt;syntaxhighlight lang="csharp"&gt;
+// Controller
+public IActionResult Index()
+{
+    List&lt;Person&gt; personen = new();
+    // Personen füllen...
+    return View(personen);
+}
+&lt;/syntaxhighlight&gt;
+
+&lt;syntaxhighlight lang="csharp"&gt;
+// Index.cshtml
+@model IEnumerable&lt;Person&gt;
+@foreach(var p in Model)
+{
+    &lt;div&gt;@p.Name - @p.Geschlecht&lt;/div&gt;
+}
+&lt;/syntaxhighlight&gt;
+
+=== Übung: Starke Typisierung ===
+&lt;pre&gt;
+Erstelle ein ViewModel mit Person &amp; Produkt und zeige beides in einer View an.
+&lt;/pre&gt;
+
+----
+
+== Lokale Funktionen im View ==
+
+&lt;syntaxhighlight lang="csharp"&gt;
+@functions {
+    double? AlterBerechnen(DateTime? geburt)
+    {
+        if(geburt != null)
+            return Math.Round((DateTime.Now - geburt.Value).TotalDays/365.25);
+        else
+            return null;
+    }
+}
+&lt;!-- Nutzung: --&gt;
+@AlterBerechnen(person.Geburtsdatum)
+&lt;/syntaxhighlight&gt;
+
+----
+
+== _ViewImports.cshtml ==
+* Gemeinsame Direktiven für alle Views eines Ordners:
+&lt;syntaxhighlight lang="csharp"&gt;
+@using YourProject.Models
+@addTagHelper *, Microsoft.AspNetCore.Mvc.TagHelpers
+&lt;/syntaxhighlight&gt;
+
+----
+
+== Shared Views ==
+* In **Views/Shared** ablegen → wiederverwendbar
+* Beispiel: _Layout.cshtml, _ProductCard.cshtml (Partial Views)
+
+=== Beispiel: Shared View verwenden ===
+&lt;syntaxhighlight lang="csharp"&gt;
+// Controller
+public IActionResult All()
+{
+    return View(); // Sucht zuerst in Views/Controller, dann Views/Shared
+}
+&lt;/syntaxhighlight&gt;
+
+---
+
+== Wichtige Best Practices ==
+* Trenne Präsentation (View), Logik (Controller), und Daten (Model)!
+* Nutze starke Typisierung (ViewModels)!
+* Wiederverwendbare Views in Views/Shared ablegen!
+* Html.Raw() **nur** bei vertrauenswürdigem Inhalt!
+* Konsistenz: Nutze entweder ViewBag **oder** ViewData – nicht beides wild gemischt!
+
+----
+
+= Interview-Checkliste MVC =
+* Razor-Syntax erklären &amp; anwenden (inkl. Control-Flow, Html.Raw)
+* ViewModels &amp; starke Typisierung erklären
+* Sicherheitsaspekte (keine ungesicherten Daten in Html.Raw)
+* Einsatz von _ViewImports.cshtml &amp; Shared Views begründen
+
+----
+
+== Mini-Übungsaufgaben ==
+# Erstelle eine View, die alle Produkte als Tabelle darstellt.
+# Übergebe eine Fehlermeldung per ViewBag und zeige sie prominent in der View an.
+# Verwende ein ViewModel, um Person und deren Produktliste in einer View darzustellen.
+# Schreibe eine lokale Funktion in einer View, die das Alter einer Person berechnet.</text>
+      <sha1>bg1i4hrgqhjmt7ffc5iqdhjqy2sb6c7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Grud Operatoren</title>
+    <ns>3002</ns>
+    <id>81</id>
+    <revision>
+      <id>263</id>
+      <timestamp>2025-06-25T10:46:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „== Controller: Lesen (Index) &amp; Erstellen (Create) == === Beispiel: PersonenController.cs === &lt;syntaxhighlight lang="csharp"&gt; // Index (Read) public IActionResult Index(string searchBy, string searchString, string sortBy, string sortOrder) {     var personen = _personService.GetFilteredPersons(searchBy, searchString, sortBy, sortOrder);     return View(personen); }  // Create (GET) public IActionResult Create() {     return View(); }  // Create (POST) [Htt…“</comment>
+      <origin>263</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2639" sha1="ops6shp7sd3jqnv1i49xe1axknfcvhv" xml:space="preserve">== Controller: Lesen (Index) &amp; Erstellen (Create) ==
+=== Beispiel: PersonenController.cs ===
+&lt;syntaxhighlight lang="csharp"&gt;
+// Index (Read)
+public IActionResult Index(string searchBy, string searchString, string sortBy, string sortOrder)
+{
+    var personen = _personService.GetFilteredPersons(searchBy, searchString, sortBy, sortOrder);
+    return View(personen);
+}
+
+// Create (GET)
+public IActionResult Create()
+{
+    return View();
+}
+
+// Create (POST)
+[HttpPost]
+[ValidateAntiForgeryToken]
+public IActionResult Create(PersonAddRequest model)
+{
+    if (ModelState.IsValid)
+    {
+        _personService.AddPerson(model);
+        return RedirectToAction("Index");
+    }
+    return View(model);
+}
+&lt;/syntaxhighlight&gt;
+''Hinweis: _personService ist eine Service-Klasse, die die Geschäftslogik kapselt.''
+
+=== Übungsvorschläge ===
+* Implementiere ein einfaches CRUD für eine "Person"-Entität.
+* Ergänze eine Such- und Sortierfunktion in der Index-Methode.
+* Baue eine Validierung mit DataAnnotations (z. B. [Required], [StringLength]) ein.
+* Setze eine Weiterleitung nach erfolgreichem Create/Update ein.
+* Teste verschiedene Fehlerszenarien (leere Felder, ungültige Eingaben).
+
+== View: Index &amp; Create ==
+=== Beispiel: Index.cshtml (Lesen) ===
+&lt;syntaxhighlight lang="html+razor"&gt;
+@model IEnumerable&lt;PersonResponse&gt;
+
+&lt;form asp-action="Index" method="get"&gt;
+    &lt;select name="searchBy"&gt;
+        &lt;option value="Name"&gt;Name&lt;/option&gt;
+        &lt;option value="Stadt"&gt;Stadt&lt;/option&gt;
+    &lt;/select&gt;
+    &lt;input type="text" name="searchString" value="@ViewBag.CurrentSearchString" /&gt;
+    &lt;button type="submit"&gt;Suchen&lt;/button&gt;
+&lt;/form&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;
+                @Html.ActionLink("Name", "Index", new { sortBy = "Name", sortOrder = ViewBag.NameSortParm })
+            &lt;/th&gt;
+            &lt;th&gt;
+                @Html.ActionLink("Stadt", "Index", new { sortBy = "Stadt", sortOrder = ViewBag.StadtSortParm })
+            &lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+    @foreach (var p in Model)
+    {
+        &lt;tr&gt;
+            &lt;td&gt;@p.Name&lt;/td&gt;
+            &lt;td&gt;@p.Stadt&lt;/td&gt;
+        &lt;/tr&gt;
+    }
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/syntaxhighlight&gt;
+
+=== Beispiel: Create.cshtml (Erstellen) ===
+&lt;syntaxhighlight lang="html+razor"&gt;
+@model PersonAddRequest
+
+&lt;form asp-action="Create" method="post"&gt;
+    &lt;div&gt;
+        &lt;label asp-for="Name"&gt;&lt;/label&gt;
+        &lt;input asp-for="Name" /&gt;
+        &lt;span asp-validation-for="Name"&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+        &lt;label asp-for="Stadt"&gt;&lt;/label&gt;
+        &lt;input asp-for="Stadt" /&gt;
+        &lt;span asp-validation-for="Stadt"&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;button type="submit"&gt;Erstellen&lt;/button&gt;
+&lt;/form&gt;</text>
+      <sha1>ops6shp7sd3jqnv1i49xe1axknfcvhv</sha1>
+    </revision>
+    <revision>
+      <id>264</id>
+      <parentid>263</parentid>
+      <timestamp>2025-06-25T11:02:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Beispiel: Create.cshtml (Erstellen) */</comment>
+      <origin>264</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2609" sha1="2ndl8t61r2m8cmmf8bj1kefy3fid25h" xml:space="preserve">== Controller: Lesen (Index) &amp; Erstellen (Create) ==
+=== Beispiel: PersonenController.cs ===
+&lt;syntaxhighlight lang="csharp"&gt;
+// Index (Read)
+public IActionResult Index(string searchBy, string searchString, string sortBy, string sortOrder)
+{
+    var personen = _personService.GetFilteredPersons(searchBy, searchString, sortBy, sortOrder);
+    return View(personen);
+}
+
+// Create (GET)
+public IActionResult Create()
+{
+    return View();
+}
+
+// Create (POST)
+[HttpPost]
+[ValidateAntiForgeryToken]
+public IActionResult Create(PersonAddRequest model)
+{
+    if (ModelState.IsValid)
+    {
+        _personService.AddPerson(model);
+        return RedirectToAction("Index");
+    }
+    return View(model);
+}
+&lt;/syntaxhighlight&gt;
+''Hinweis: _personService ist eine Service-Klasse, die die Geschäftslogik kapselt.''
+
+=== Übungsvorschläge ===
+* Implementiere ein einfaches CRUD für eine "Person"-Entität.
+* Ergänze eine Such- und Sortierfunktion in der Index-Methode.
+* Baue eine Validierung mit DataAnnotations (z. B. [Required], [StringLength]) ein.
+* Setze eine Weiterleitung nach erfolgreichem Create/Update ein.
+* Teste verschiedene Fehlerszenarien (leere Felder, ungültige Eingaben).
+
+== View: Index &amp; Create ==
+=== Beispiel: Index.cshtml (Lesen) ===
+&lt;syntaxhighlight lang="html+razor"&gt;
+@model IEnumerable&lt;PersonResponse&gt;
+
+&lt;form asp-action="Index" method="get"&gt;
+    &lt;select name="searchBy"&gt;
+        &lt;option value="Name"&gt;Name&lt;/option&gt;
+        &lt;option value="Stadt"&gt;Stadt&lt;/option&gt;
+    &lt;/select&gt;
+    &lt;input type="text" name="searchString" value="@ViewBag.CurrentSearchString" /&gt;
+    &lt;button type="submit"&gt;Suchen&lt;/button&gt;
+&lt;/form&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;
+                @Html.ActionLink("Name", "Index", new { sortBy = "Name", sortOrder = ViewBag.NameSortParm })
+            &lt;/th&gt;
+            &lt;th&gt;
+                @Html.ActionLink("Stadt", "Index", new { sortBy = "Stadt", sortOrder = ViewBag.StadtSortParm })
+            &lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+    @foreach (var p in Model)
+    {
+        &lt;tr&gt;
+            &lt;td&gt;@p.Name&lt;/td&gt;
+            &lt;td&gt;@p.Stadt&lt;/td&gt;
+        &lt;/tr&gt;
+    }
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/syntaxhighlight&gt;
+
+=== Beispiel: Create.cshtml (Erstellen) ===
+&lt;pre&gt;
+@model PersonAddRequest
+
+&lt;form asp-action="Create" method="post"&gt;
+    &lt;div&gt;
+        &lt;label asp-for="Name"&gt;&lt;/label&gt;
+        &lt;input asp-for="Name" /&gt;
+        &lt;span asp-validation-for="Name"&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+        &lt;label asp-for="Stadt"&gt;&lt;/label&gt;
+        &lt;input asp-for="Stadt" /&gt;
+        &lt;span asp-validation-for="Stadt"&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;button type="submit"&gt;Erstellen&lt;/button&gt;
+&lt;/form&gt;</text>
+      <sha1>2ndl8t61r2m8cmmf8bj1kefy3fid25h</sha1>
+    </revision>
+    <revision>
+      <id>265</id>
+      <parentid>264</parentid>
+      <timestamp>2025-06-25T11:02:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Beispiel: Index.cshtml (Lesen) */</comment>
+      <origin>265</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2602" sha1="gnpel3ttkjl2ust29c5nl9kewac6d4u" xml:space="preserve">== Controller: Lesen (Index) &amp; Erstellen (Create) ==
+=== Beispiel: PersonenController.cs ===
+&lt;syntaxhighlight lang="csharp"&gt;
+// Index (Read)
+public IActionResult Index(string searchBy, string searchString, string sortBy, string sortOrder)
+{
+    var personen = _personService.GetFilteredPersons(searchBy, searchString, sortBy, sortOrder);
+    return View(personen);
+}
+
+// Create (GET)
+public IActionResult Create()
+{
+    return View();
+}
+
+// Create (POST)
+[HttpPost]
+[ValidateAntiForgeryToken]
+public IActionResult Create(PersonAddRequest model)
+{
+    if (ModelState.IsValid)
+    {
+        _personService.AddPerson(model);
+        return RedirectToAction("Index");
+    }
+    return View(model);
+}
+&lt;/syntaxhighlight&gt;
+''Hinweis: _personService ist eine Service-Klasse, die die Geschäftslogik kapselt.''
+
+=== Übungsvorschläge ===
+* Implementiere ein einfaches CRUD für eine "Person"-Entität.
+* Ergänze eine Such- und Sortierfunktion in der Index-Methode.
+* Baue eine Validierung mit DataAnnotations (z. B. [Required], [StringLength]) ein.
+* Setze eine Weiterleitung nach erfolgreichem Create/Update ein.
+* Teste verschiedene Fehlerszenarien (leere Felder, ungültige Eingaben).
+
+== View: Index &amp; Create ==
+=== Beispiel: Index.cshtml (Lesen) ===
+&lt;syntaxhighlight lang="htm"&gt;
+@model IEnumerable&lt;PersonResponse&gt;
+
+&lt;form asp-action="Index" method="get"&gt;
+    &lt;select name="searchBy"&gt;
+        &lt;option value="Name"&gt;Name&lt;/option&gt;
+        &lt;option value="Stadt"&gt;Stadt&lt;/option&gt;
+    &lt;/select&gt;
+    &lt;input type="text" name="searchString" value="@ViewBag.CurrentSearchString" /&gt;
+    &lt;button type="submit"&gt;Suchen&lt;/button&gt;
+&lt;/form&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;
+                @Html.ActionLink("Name", "Index", new { sortBy = "Name", sortOrder = ViewBag.NameSortParm })
+            &lt;/th&gt;
+            &lt;th&gt;
+                @Html.ActionLink("Stadt", "Index", new { sortBy = "Stadt", sortOrder = ViewBag.StadtSortParm })
+            &lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+    @foreach (var p in Model)
+    {
+        &lt;tr&gt;
+            &lt;td&gt;@p.Name&lt;/td&gt;
+            &lt;td&gt;@p.Stadt&lt;/td&gt;
+        &lt;/tr&gt;
+    }
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/syntaxhighlight&gt;
+
+=== Beispiel: Create.cshtml (Erstellen) ===
+&lt;pre&gt;
+@model PersonAddRequest
+
+&lt;form asp-action="Create" method="post"&gt;
+    &lt;div&gt;
+        &lt;label asp-for="Name"&gt;&lt;/label&gt;
+        &lt;input asp-for="Name" /&gt;
+        &lt;span asp-validation-for="Name"&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+        &lt;label asp-for="Stadt"&gt;&lt;/label&gt;
+        &lt;input asp-for="Stadt" /&gt;
+        &lt;span asp-validation-for="Stadt"&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;button type="submit"&gt;Erstellen&lt;/button&gt;
+&lt;/form&gt;</text>
+      <sha1>gnpel3ttkjl2ust29c5nl9kewac6d4u</sha1>
+    </revision>
+    <revision>
+      <id>266</id>
+      <parentid>265</parentid>
+      <timestamp>2025-06-25T11:03:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Beispiel: Create.cshtml (Erstellen) */</comment>
+      <origin>266</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2625" sha1="hnvjmgqozuynlt30xw4689fthc84l7y" xml:space="preserve">== Controller: Lesen (Index) &amp; Erstellen (Create) ==
+=== Beispiel: PersonenController.cs ===
+&lt;syntaxhighlight lang="csharp"&gt;
+// Index (Read)
+public IActionResult Index(string searchBy, string searchString, string sortBy, string sortOrder)
+{
+    var personen = _personService.GetFilteredPersons(searchBy, searchString, sortBy, sortOrder);
+    return View(personen);
+}
+
+// Create (GET)
+public IActionResult Create()
+{
+    return View();
+}
+
+// Create (POST)
+[HttpPost]
+[ValidateAntiForgeryToken]
+public IActionResult Create(PersonAddRequest model)
+{
+    if (ModelState.IsValid)
+    {
+        _personService.AddPerson(model);
+        return RedirectToAction("Index");
+    }
+    return View(model);
+}
+&lt;/syntaxhighlight&gt;
+''Hinweis: _personService ist eine Service-Klasse, die die Geschäftslogik kapselt.''
+
+=== Übungsvorschläge ===
+* Implementiere ein einfaches CRUD für eine "Person"-Entität.
+* Ergänze eine Such- und Sortierfunktion in der Index-Methode.
+* Baue eine Validierung mit DataAnnotations (z. B. [Required], [StringLength]) ein.
+* Setze eine Weiterleitung nach erfolgreichem Create/Update ein.
+* Teste verschiedene Fehlerszenarien (leere Felder, ungültige Eingaben).
+
+== View: Index &amp; Create ==
+=== Beispiel: Index.cshtml (Lesen) ===
+&lt;syntaxhighlight lang="htm"&gt;
+@model IEnumerable&lt;PersonResponse&gt;
+
+&lt;form asp-action="Index" method="get"&gt;
+    &lt;select name="searchBy"&gt;
+        &lt;option value="Name"&gt;Name&lt;/option&gt;
+        &lt;option value="Stadt"&gt;Stadt&lt;/option&gt;
+    &lt;/select&gt;
+    &lt;input type="text" name="searchString" value="@ViewBag.CurrentSearchString" /&gt;
+    &lt;button type="submit"&gt;Suchen&lt;/button&gt;
+&lt;/form&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;
+                @Html.ActionLink("Name", "Index", new { sortBy = "Name", sortOrder = ViewBag.NameSortParm })
+            &lt;/th&gt;
+            &lt;th&gt;
+                @Html.ActionLink("Stadt", "Index", new { sortBy = "Stadt", sortOrder = ViewBag.StadtSortParm })
+            &lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+    @foreach (var p in Model)
+    {
+        &lt;tr&gt;
+            &lt;td&gt;@p.Name&lt;/td&gt;
+            &lt;td&gt;@p.Stadt&lt;/td&gt;
+        &lt;/tr&gt;
+    }
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/syntaxhighlight&gt;
+
+=== Beispiel: Create.cshtml (Erstellen) ===
+&lt;syntaxhighlight lang="htm"&gt;
+@model PersonAddRequest
+
+&lt;form asp-action="Create" method="post"&gt;
+    &lt;div&gt;
+        &lt;label asp-for="Name"&gt;&lt;/label&gt;
+        &lt;input asp-for="Name" /&gt;
+        &lt;span asp-validation-for="Name"&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+        &lt;label asp-for="Stadt"&gt;&lt;/label&gt;
+        &lt;input asp-for="Stadt" /&gt;
+        &lt;span asp-validation-for="Stadt"&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;button type="submit"&gt;Erstellen&lt;/button&gt;
+&lt;/form&gt;</text>
+      <sha1>hnvjmgqozuynlt30xw4689fthc84l7y</sha1>
+    </revision>
+    <revision>
+      <id>267</id>
+      <parentid>266</parentid>
+      <timestamp>2025-06-25T11:04:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>267</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2626" sha1="6gcyb80412ifgtwwunaaovxl5p3d50k" xml:space="preserve">== Controller: Lesen (Index) &amp; Erstellen (Create) ==
+=== Beispiel: PersonenController.cs ===
+&lt;syntaxhighlight lang="csharp"&gt;
+// Index (Read)
+public IActionResult Index(string searchBy, string searchString, string sortBy, string sortOrder)
+{
+    var personen = _personService.GetFilteredPersons(searchBy, searchString, sortBy, sortOrder);
+    return View(personen);
+}
+
+// Create (GET)
+public IActionResult Create()
+{
+    return View();
+}
+
+// Create (POST)
+[HttpPost]
+[ValidateAntiForgeryToken]
+public IActionResult Create(PersonAddRequest model)
+{
+    if (ModelState.IsValid)
+    {
+        _personService.AddPerson(model);
+        return RedirectToAction("Index");
+    }
+    return View(model);
+}
+&lt;/syntaxhighlight&gt;
+''Hinweis: _personService ist eine Service-Klasse, die die Geschäftslogik kapselt.''
+
+=== Übungsvorschläge ===
+* Implementiere ein einfaches CRUD für eine "Person"-Entität.
+* Ergänze eine Such- und Sortierfunktion in der Index-Methode.
+* Baue eine Validierung mit DataAnnotations (z. B. [Required], [StringLength]) ein.
+* Setze eine Weiterleitung nach erfolgreichem Create/Update ein.
+* Teste verschiedene Fehlerszenarien (leere Felder, ungültige Eingaben).
+
+== View: Index &amp; Create ==
+=== Beispiel: Index.cshtml (Lesen) ===
+&lt;syntaxhighlight lang="htm"&gt;
+@model IEnumerable&lt;PersonResponse&gt;
+
+&lt;form asp-action="Index" method="get"&gt;
+    &lt;select name="searchBy"&gt;
+        &lt;option value="Name"&gt;Name&lt;/option&gt;
+        &lt;option value="Stadt"&gt;Stadt&lt;/option&gt;
+    &lt;/select&gt;
+    &lt;input type="text" name="searchString" value="@ViewBag.CurrentSearchString" /&gt;
+    &lt;button type="submit"&gt;Suchen&lt;/button&gt;
+&lt;/form&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;
+                @Html.ActionLink("Name", "Index", new { sortBy = "Name", sortOrder = ViewBag.NameSortParm })
+            &lt;/th&gt;
+            &lt;th&gt;
+                @Html.ActionLink("Stadt", "Index", new { sortBy = "Stadt", sortOrder = ViewBag.StadtSortParm })
+            &lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+    @foreach (var p in Model)
+    {
+        &lt;tr&gt;
+            &lt;td&gt;@p.Name&lt;/td&gt;
+            &lt;td&gt;@p.Stadt&lt;/td&gt;
+        &lt;/tr&gt;
+    }
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/syntaxhighlight&gt;
+
+=== Beispiel: Create.cshtml (Erstellen) ===
+&lt;syntaxhighlight lang="html"&gt;
+@model PersonAddRequest
+
+&lt;form asp-action="Create" method="post"&gt;
+    &lt;div&gt;
+        &lt;label asp-for="Name"&gt;&lt;/label&gt;
+        &lt;input asp-for="Name" /&gt;
+        &lt;span asp-validation-for="Name"&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+        &lt;label asp-for="Stadt"&gt;&lt;/label&gt;
+        &lt;input asp-for="Stadt" /&gt;
+        &lt;span asp-validation-for="Stadt"&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;button type="submit"&gt;Erstellen&lt;/button&gt;
+&lt;/form&gt;</text>
+      <sha1>6gcyb80412ifgtwwunaaovxl5p3d50k</sha1>
+    </revision>
+    <revision>
+      <id>268</id>
+      <parentid>267</parentid>
+      <timestamp>2025-06-25T11:05:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>268</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2627" sha1="gghzrfuhhqszvaerslnjfog2s1frdgb" xml:space="preserve">== Controller: Lesen (Index) &amp; Erstellen (Create) ==
+=== Beispiel: PersonenController.cs ===
+&lt;syntaxhighlight lang="csharp"&gt;
+// Index (Read)
+public IActionResult Index(string searchBy, string searchString, string sortBy, string sortOrder)
+{
+    var personen = _personService.GetFilteredPersons(searchBy, searchString, sortBy, sortOrder);
+    return View(personen);
+}
+
+// Create (GET)
+public IActionResult Create()
+{
+    return View();
+}
+
+// Create (POST)
+[HttpPost]
+[ValidateAntiForgeryToken]
+public IActionResult Create(PersonAddRequest model)
+{
+    if (ModelState.IsValid)
+    {
+        _personService.AddPerson(model);
+        return RedirectToAction("Index");
+    }
+    return View(model);
+}
+&lt;/syntaxhighlight&gt;
+''Hinweis: _personService ist eine Service-Klasse, die die Geschäftslogik kapselt.''
+
+=== Übungsvorschläge ===
+* Implementiere ein einfaches CRUD für eine "Person"-Entität.
+* Ergänze eine Such- und Sortierfunktion in der Index-Methode.
+* Baue eine Validierung mit DataAnnotations (z. B. [Required], [StringLength]) ein.
+* Setze eine Weiterleitung nach erfolgreichem Create/Update ein.
+* Teste verschiedene Fehlerszenarien (leere Felder, ungültige Eingaben).
+
+== View: Index &amp; Create ==
+=== Beispiel: Index.cshtml (Lesen) ===
+&lt;syntaxhighlight lang="html"&gt;
+@model IEnumerable&lt;PersonResponse&gt;
+
+&lt;form asp-action="Index" method="get"&gt;
+    &lt;select name="searchBy"&gt;
+        &lt;option value="Name"&gt;Name&lt;/option&gt;
+        &lt;option value="Stadt"&gt;Stadt&lt;/option&gt;
+    &lt;/select&gt;
+    &lt;input type="text" name="searchString" value="@ViewBag.CurrentSearchString" /&gt;
+    &lt;button type="submit"&gt;Suchen&lt;/button&gt;
+&lt;/form&gt;
+
+&lt;table&gt;
+    &lt;thead&gt;
+        &lt;tr&gt;
+            &lt;th&gt;
+                @Html.ActionLink("Name", "Index", new { sortBy = "Name", sortOrder = ViewBag.NameSortParm })
+            &lt;/th&gt;
+            &lt;th&gt;
+                @Html.ActionLink("Stadt", "Index", new { sortBy = "Stadt", sortOrder = ViewBag.StadtSortParm })
+            &lt;/th&gt;
+        &lt;/tr&gt;
+    &lt;/thead&gt;
+    &lt;tbody&gt;
+    @foreach (var p in Model)
+    {
+        &lt;tr&gt;
+            &lt;td&gt;@p.Name&lt;/td&gt;
+            &lt;td&gt;@p.Stadt&lt;/td&gt;
+        &lt;/tr&gt;
+    }
+    &lt;/tbody&gt;
+&lt;/table&gt;
+&lt;/syntaxhighlight&gt;
+
+=== Beispiel: Create.cshtml (Erstellen) ===
+&lt;syntaxhighlight lang="html"&gt;
+@model PersonAddRequest
+
+&lt;form asp-action="Create" method="post"&gt;
+    &lt;div&gt;
+        &lt;label asp-for="Name"&gt;&lt;/label&gt;
+        &lt;input asp-for="Name" /&gt;
+        &lt;span asp-validation-for="Name"&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;div&gt;
+        &lt;label asp-for="Stadt"&gt;&lt;/label&gt;
+        &lt;input asp-for="Stadt" /&gt;
+        &lt;span asp-validation-for="Stadt"&gt;&lt;/span&gt;
+    &lt;/div&gt;
+    &lt;button type="submit"&gt;Erstellen&lt;/button&gt;
+&lt;/form&gt;</text>
+      <sha1>gghzrfuhhqszvaerslnjfog2s1frdgb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Identity &amp; Authorization</title>
+    <ns>3002</ns>
+    <id>82</id>
+    <revision>
+      <id>270</id>
+      <timestamp>2025-06-25T11:39:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „// Benutzerregistrierung ApplicationUser user = new ApplicationUser { UserName = registerDTO.Email, Email = registerDTO.Email }; IdentityResult result = await _userManager.CreateAsync(user, registerDTO.Password);  // Benutzer anmelden var result = await _signInManager.PasswordSignInAsync(     loginDTO.Email,     loginDTO.Password,     isPersistent: false,     lockoutOnFailure: false);  // Rolle prüfen if (await _userManager.IsInRoleAsync(user, "Admin"))…“</comment>
+      <origin>270</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1929" sha1="e11ftd2jr9fxzcrzrfsf5i3vdbtwegw" xml:space="preserve">// Benutzerregistrierung
+ApplicationUser user = new ApplicationUser { UserName = registerDTO.Email, Email = registerDTO.Email };
+IdentityResult result = await _userManager.CreateAsync(user, registerDTO.Password);
+
+// Benutzer anmelden
+var result = await _signInManager.PasswordSignInAsync(
+    loginDTO.Email,
+    loginDTO.Password,
+    isPersistent: false,
+    lockoutOnFailure: false);
+
+// Rolle prüfen
+if (await _userManager.IsInRoleAsync(user, "Admin")) {
+    // Admin-spezifische Logik
+}
+
+// Rolle erstellen (falls nicht vorhanden)
+if (!await _roleManager.RoleExistsAsync("Admin")) {
+    await _roleManager.CreateAsync(new ApplicationRole("Admin"));
+}
+
+// Benutzer zu Rolle hinzufügen
+await _userManager.AddToRoleAsync(user, "Admin");
+
+// Benutzer abmelden
+await _signInManager.SignOutAsync();
+
+// E-Mail prüfen (bereits registriert?)
+var existingUser = await _userManager.FindByEmailAsync(email);
+return Json(existingUser == null);
+
+// [Authorize] zum Schutz von Aktionen
+[Authorize]
+public IActionResult ProtectedAction() { ... }
+
+// [AllowAnonymous] für anonyme Zugriffe
+[AllowAnonymous]
+public IActionResult PublicAction() { ... }
+
+// [ValidateAntiForgeryToken] gegen CSRF
+[HttpPost]
+[ValidateAntiForgeryToken]
+public IActionResult SubmitForm() { ... }
+
+// Benutzerdefinierte Richtlinie in Program.cs
+builder.Services.AddAuthorization(options =&gt; {
+    options.AddPolicy("NotAuthorized", policy =&gt; policy.RequireAssertion(
+        context =&gt; !context.User.Identity.IsAuthenticated));
+});
+
+// Identity-Konfiguration in Program.cs
+builder.Services.AddIdentity&lt;ApplicationUser, ApplicationRole&gt;(options =&gt; {
+    options.Password.RequiredLength = 8;
+    options.Password.RequireNonAlphanumeric = true;
+}).AddEntityFrameworkStores&lt;ApplicationDbContext&gt;()
+  .AddDefaultTokenProviders();
+
+// Identity-Cookie konfigurieren
+builder.Services.ConfigureApplicationCookie(options =&gt; {
+    options.LoginPath = "/Account/Login";
+});</text>
+      <sha1>e11ftd2jr9fxzcrzrfsf5i3vdbtwegw</sha1>
+    </revision>
+    <revision>
+      <id>271</id>
+      <parentid>270</parentid>
+      <timestamp>2025-06-25T11:43:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>271</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1942" sha1="2ca5f8ai4qpwgitlmm9a3j3wpaz3r96" xml:space="preserve">&lt;pre&gt;
+// Benutzerregistrierung
+ApplicationUser user = new ApplicationUser { UserName = registerDTO.Email, Email = registerDTO.Email };
+IdentityResult result = await _userManager.CreateAsync(user, registerDTO.Password);
+
+// Benutzer anmelden
+var result = await _signInManager.PasswordSignInAsync(
+    loginDTO.Email,
+    loginDTO.Password,
+    isPersistent: false,
+    lockoutOnFailure: false);
+
+// Rolle prüfen
+if (await _userManager.IsInRoleAsync(user, "Admin")) {
+    // Admin-spezifische Logik
+}
+
+// Rolle erstellen (falls nicht vorhanden)
+if (!await _roleManager.RoleExistsAsync("Admin")) {
+    await _roleManager.CreateAsync(new ApplicationRole("Admin"));
+}
+
+// Benutzer zu Rolle hinzufügen
+await _userManager.AddToRoleAsync(user, "Admin");
+
+// Benutzer abmelden
+await _signInManager.SignOutAsync();
+
+// E-Mail prüfen (bereits registriert?)
+var existingUser = await _userManager.FindByEmailAsync(email);
+return Json(existingUser == null);
+
+// [Authorize] zum Schutz von Aktionen
+[Authorize]
+public IActionResult ProtectedAction() { ... }
+
+// [AllowAnonymous] für anonyme Zugriffe
+[AllowAnonymous]
+public IActionResult PublicAction() { ... }
+
+// [ValidateAntiForgeryToken] gegen CSRF
+[HttpPost]
+[ValidateAntiForgeryToken]
+public IActionResult SubmitForm() { ... }
+
+// Benutzerdefinierte Richtlinie in Program.cs
+builder.Services.AddAuthorization(options =&gt; {
+    options.AddPolicy("NotAuthorized", policy =&gt; policy.RequireAssertion(
+        context =&gt; !context.User.Identity.IsAuthenticated));
+});
+
+// Identity-Konfiguration in Program.cs
+builder.Services.AddIdentity&lt;ApplicationUser, ApplicationRole&gt;(options =&gt; {
+    options.Password.RequiredLength = 8;
+    options.Password.RequireNonAlphanumeric = true;
+}).AddEntityFrameworkStores&lt;ApplicationDbContext&gt;()
+  .AddDefaultTokenProviders();
+
+// Identity-Cookie konfigurieren
+builder.Services.ConfigureApplicationCookie(options =&gt; {
+    options.LoginPath = "/Account/Login";
+});
+&lt;/pre&gt;</text>
+      <sha1>2ca5f8ai4qpwgitlmm9a3j3wpaz3r96</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Entity Framework Core</title>
+    <ns>3002</ns>
+    <id>83</id>
+    <revision>
+      <id>273</id>
+      <timestamp>2025-06-25T12:04:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „= Entity Framework Core (EF Core) Spickzettel =  == Was ist EF Core? == * EF Core ist ein moderner, leichter und erweiterbarer Object-Relational Mapper (ORM) für .NET. * Erlaubt die Arbeit mit Datenbankdaten als .NET-Objekte (Entities), anstatt mit SQL-Queries.  == Grundkonzepte == * '''Entities''': C#-Klassen, die Datenbanktabellen repräsentieren. * '''DbContext''': Brücke zwischen Entities und Datenbank. * '''DbSet&lt;TEntity&gt;''': Sammlung einer Entitä…“</comment>
+      <origin>273</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5538" sha1="r2l5p5vz1l04vjzoiy9ame7s138zh8d" xml:space="preserve">= Entity Framework Core (EF Core) Spickzettel =
+
+== Was ist EF Core? ==
+* EF Core ist ein moderner, leichter und erweiterbarer Object-Relational Mapper (ORM) für .NET.
+* Erlaubt die Arbeit mit Datenbankdaten als .NET-Objekte (Entities), anstatt mit SQL-Queries.
+
+== Grundkonzepte ==
+* '''Entities''': C#-Klassen, die Datenbanktabellen repräsentieren.
+* '''DbContext''': Brücke zwischen Entities und Datenbank.
+* '''DbSet&lt;TEntity&gt;''': Sammlung einer Entität (Tabelle).
+
+== Beispiel: Entities und DbContext ==
+&lt;syntaxhighlight lang="csharp"&gt;
+public class Country
+{
+    public int CountryID { get; set; }
+    public string CountryName { get; set; }
+    public ICollection&lt;Person&gt; Persons { get; set; }
+}
+public class Person
+{
+    public int PersonID { get; set; }
+    public string PersonName { get; set; }
+    public int CountryID { get; set; }
+    public Country Country { get; set; }
+}
+
+public class PersonsDbContext : DbContext
+{
+    public DbSet&lt;Country&gt; Countries { get; set; }
+    public DbSet&lt;Person&gt; Persons { get; set; }
+    protected override void OnModelCreating(ModelBuilder modelBuilder)
+    {
+        modelBuilder.Entity&lt;Country&gt;().ToTable("Countries");
+        modelBuilder.Entity&lt;Person&gt;().ToTable("Persons");
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+== Wichtige NuGet-Pakete ==
+* &lt;code&gt;Microsoft.EntityFrameworkCore&lt;/code&gt;
+* &lt;code&gt;Microsoft.EntityFrameworkCore.SqlServer&lt;/code&gt; (oder Sqlite, Npgsql etc.)
+* &lt;code&gt;Microsoft.EntityFrameworkCore.Tools&lt;/code&gt;
+
+== Verbindung zur Datenbank ==
+&lt;syntaxhighlight lang="csharp"&gt;
+// In Program.cs oder Startup.cs
+builder.Services.AddDbContext&lt;PersonsDbContext&gt;(options =&gt;
+    options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
+&lt;/syntaxhighlight&gt;
+
+''appsettings.json'':
+&lt;syntaxhighlight lang="json"&gt;
+{
+  "ConnectionStrings": {
+    "DefaultConnection": "Data Source=(localdb)\\MSSQLLocalDB;Initial Catalog=PersonsDatabase;Integrated Security=True;"
+  }
+}
+&lt;/syntaxhighlight&gt;
+
+== Datenbank initialisieren (Seeding) ==
+&lt;syntaxhighlight lang="csharp"&gt;
+protected override void OnModelCreating(ModelBuilder modelBuilder)
+{
+    modelBuilder.Entity&lt;Country&gt;().HasData(
+        new Country { CountryID = 1, CountryName = "Deutschland" }
+    );
+    modelBuilder.Entity&lt;Person&gt;().HasData(
+        new Person { PersonID = 1, PersonName = "Max Mustermann", CountryID = 1 }
+    );
+}
+&lt;/syntaxhighlight&gt;
+
+== Code First Migration ==
+# Migration erstellen:
+&lt;syntaxhighlight lang="bash"&gt;
+dotnet ef migrations add InitialCreate
+&lt;/syntaxhighlight&gt;
+# Migration anwenden:
+&lt;syntaxhighlight lang="bash"&gt;
+dotnet ef database update
+&lt;/syntaxhighlight&gt;
+
+== CRUD-Operationen mit EF Core ==
+* '''Create''':  
+  &lt;syntaxhighlight lang="csharp"&gt;
+var person = new Person { PersonName = "Anna" };
+context.Persons.Add(person);
+context.SaveChanges();
+  &lt;/syntaxhighlight&gt;
+* '''Read''':  
+  &lt;syntaxhighlight lang="csharp"&gt;
+var people = context.Persons.ToList();
+var one = context.Persons.FirstOrDefault(p =&gt; p.PersonID == 1);
+  &lt;/syntaxhighlight&gt;
+* '''Update''':  
+  &lt;syntaxhighlight lang="csharp"&gt;
+var person = context.Persons.Find(1);
+person.PersonName = "Maria";
+context.SaveChanges();
+  &lt;/syntaxhighlight&gt;
+* '''Delete''':  
+  &lt;syntaxhighlight lang="csharp"&gt;
+var person = context.Persons.Find(1);
+context.Persons.Remove(person);
+context.SaveChanges();
+  &lt;/syntaxhighlight&gt;
+
+== Beziehungen (Relationships) ==
+* '''One-to-Many''': Ein Land hat viele Personen, eine Person gehört zu einem Land.
+* '''Foreign Key''' wird automatisch erkannt (CountryID in Person).
+* Mit Navigation Properties arbeiten.
+
+== LINQ-Abfragen ==
+&lt;syntaxhighlight lang="csharp"&gt;
+var deutsche = context.Persons.Where(p =&gt; p.Country.CountryName == "Deutschland").ToList();
+&lt;/syntaxhighlight&gt;
+
+== Eager Loading mit Include ==
+&lt;syntaxhighlight lang="csharp"&gt;
+var personsWithCountry = context.Persons.Include(p =&gt; p.Country).ToList();
+&lt;/syntaxhighlight&gt;
+
+== Fluent API (Erweiterte Konfiguration) ==
+&lt;syntaxhighlight lang="csharp"&gt;
+modelBuilder.Entity&lt;Person&gt;()
+    .Property(p =&gt; p.PersonName)
+    .IsRequired()
+    .HasMaxLength(100);
+&lt;/syntaxhighlight&gt;
+
+== Stored Procedures verwenden ==
+&lt;syntaxhighlight lang="csharp"&gt;
+// Select
+var result = context.Persons.FromSqlRaw("EXEC GetAllPersons").ToList();
+// Insert
+context.Database.ExecuteSqlRaw("EXEC InsertPerson @Name", new SqlParameter("@Name", "Max"));
+&lt;/syntaxhighlight&gt;
+
+== Dateien generieren (PDF/CSV) ==
+* '''PDF (z.B. mit Rotativa):'''
+&lt;syntaxhighlight lang="csharp"&gt;
+return new ViewAsPdf("PersonsPDF", personsList);
+&lt;/syntaxhighlight&gt;
+* '''CSV (mit CsvHelper):'''
+&lt;syntaxhighlight lang="csharp"&gt;
+using (var writer = new StreamWriter("file.csv"))
+using (var csv = new CsvWriter(writer, CultureInfo.InvariantCulture))
+{
+    csv.WriteRecords(personsList);
+}
+&lt;/syntaxhighlight&gt;
+
+== Best Practices ==
+* Asynchrone Methoden verwenden: &lt;code&gt;await context.SaveChangesAsync()&lt;/code&gt;
+* Migrationen immer ins Source Control aufnehmen
+* Validierung auf Model- und View-Ebene
+* Repository-Pattern für größere Projekte
+
+== Interviewfragen-Vorbereitung ==
+* Was ist ein ORM? Wie funktioniert EF Core?
+* Unterschied zwischen Code First und Database First?
+* Wie werden Beziehungen zwischen Tabellen definiert?
+* Wozu dient die Migration?
+* Wie funktioniert Change Tracking?
+
+== Häufige Fehler ==
+* Vergessen: SaveChanges() oder SaveChangesAsync()
+* Falsche/fehlende Navigation Properties
+* Verbindungskette falsch/fehlt
+* Nicht alle Migrations ausgeführt
+
+----
+''Tipp:'' Für weitere Beispiele siehe offizielle EF Core Dokumentation: https://learn.microsoft.com/de-de/ef/core/</text>
+      <sha1>r2l5p5vz1l04vjzoiy9ame7s138zh8d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Laout Views</title>
+    <ns>3002</ns>
+    <id>84</id>
+    <revision>
+      <id>277</id>
+      <timestamp>2025-06-25T14:27:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „== Layout Views – Spickzettel (Cheat Sheet) ==  '''Layout View''' ist eine Webseite (z.B. ''layout.cshtml''), die für die Präsentationslogik-Vorlage zuständig ist (typischerweise ein HTML-Template mit Header, Sidebar, Footer usw.).  === Ablauf der View-Ausführung === # Die '''View''' wird zuerst ausgeführt. # Die '''Layout View''' wird danach mit dem Inhalt der View „gefüllt“. # Daten aus der View können somit auch im Layout genutzt werden.…“</comment>
+      <origin>277</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2088" sha1="e84mv7zj1nzn7nzx2kla24zyc4izl76" xml:space="preserve">== Layout Views – Spickzettel (Cheat Sheet) ==
+
+'''Layout View''' ist eine Webseite (z.B. ''layout.cshtml''), die für die Präsentationslogik-Vorlage zuständig ist (typischerweise ein HTML-Template mit Header, Sidebar, Footer usw.).
+
+=== Ablauf der View-Ausführung ===
+# Die '''View''' wird zuerst ausgeführt.
+# Die '''Layout View''' wird danach mit dem Inhalt der View „gefüllt“.
+# Daten aus der View können somit auch im Layout genutzt werden.
+
+=== Merkmale von Layout Views ===
+* Die Methode &lt;code&gt;@RenderBody()&lt;/code&gt; gibt im Layout an, '''wo''' der Inhalt der jeweiligen View angezeigt wird.
+* Die &lt;code&gt;Layout&lt;/code&gt;-Eigenschaft in einer View gibt den Pfad zur Layout-View an.
+* Diese Eigenschaft kann auch '''dynamisch''' gesetzt werden (z.B. per Code).
+* '''View''' und '''Layout View''' teilen sich das &lt;code&gt;ViewData&lt;/code&gt;-Objekt.
+* '''CSS/JS-Dateien''', die im Layout eingebunden sind, gelten auch für den View-Inhalt, weil die View in das Layout „hineingemischt“ wird.
+
+=== Beispiel: layout.cshtml ===
+&lt;source lang="csharp"&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;@ViewBag.Title&lt;/title&gt;
+    &lt;link rel="stylesheet" href="~/Content/site.css" /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;header&gt;
+        &lt;h1&gt;Meine Webseite&lt;/h1&gt;
+    &lt;/header&gt;
+    &lt;div&gt;
+        @RenderBody()
+    &lt;/div&gt;
+    &lt;footer&gt;
+        &amp;copy; 2025
+    &lt;/footer&gt;
+    &lt;script src="~/Scripts/site.js"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;/source&gt;
+
+=== Beispiel: View (Index.cshtml) ===
+&lt;source lang="csharp"&gt;
+@{
+    ViewBag.Title = "Startseite";
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Pfad zum Layout
+}
+
+&lt;h2&gt;Willkommen!&lt;/h2&gt;
+&lt;p&gt;Dies ist der Inhalt der Startseite.&lt;/p&gt;
+&lt;/source&gt;
+
+=== Hinweise ===
+* Mit &lt;code&gt;ViewData["xy"]&lt;/code&gt; oder &lt;code&gt;ViewBag.Xy&lt;/code&gt; können Daten an das Layout übergeben werden.
+* Das Layout kann im Controller oder direkt in der View gesetzt werden.
+
+----
+
+'''Zusammengefasst:'''
+Das Layout ist eine zentrale Design-Schablone, die das Aussehen und die Struktur für viele Seiten vorgibt – und &lt;code&gt;@RenderBody()&lt;/code&gt; ist die Einfüge-Markierung für den individuellen Seiteninhalt.</text>
+      <sha1>e84mv7zj1nzn7nzx2kla24zyc4izl76</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Layout Views</title>
+    <ns>3002</ns>
+    <id>85</id>
+    <revision>
+      <id>279</id>
+      <timestamp>2025-06-25T14:31:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „== Layout Views – Spickzettel (Cheat Sheet) ==  '''Layout View''' ist eine Webseite (z.B. ''layout.cshtml''), die für die Präsentationslogik-Vorlage zuständig ist (typischerweise ein HTML-Template mit Header, Sidebar, Footer usw.).  === Ablauf der View-Ausführung === # Die '''View''' wird zuerst ausgeführt. # Die '''Layout View''' wird danach mit dem Inhalt der View „gefüllt“. # Daten aus der View können somit auch im Layout genutzt werden.…“</comment>
+      <origin>279</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2088" sha1="e84mv7zj1nzn7nzx2kla24zyc4izl76" xml:space="preserve">== Layout Views – Spickzettel (Cheat Sheet) ==
+
+'''Layout View''' ist eine Webseite (z.B. ''layout.cshtml''), die für die Präsentationslogik-Vorlage zuständig ist (typischerweise ein HTML-Template mit Header, Sidebar, Footer usw.).
+
+=== Ablauf der View-Ausführung ===
+# Die '''View''' wird zuerst ausgeführt.
+# Die '''Layout View''' wird danach mit dem Inhalt der View „gefüllt“.
+# Daten aus der View können somit auch im Layout genutzt werden.
+
+=== Merkmale von Layout Views ===
+* Die Methode &lt;code&gt;@RenderBody()&lt;/code&gt; gibt im Layout an, '''wo''' der Inhalt der jeweiligen View angezeigt wird.
+* Die &lt;code&gt;Layout&lt;/code&gt;-Eigenschaft in einer View gibt den Pfad zur Layout-View an.
+* Diese Eigenschaft kann auch '''dynamisch''' gesetzt werden (z.B. per Code).
+* '''View''' und '''Layout View''' teilen sich das &lt;code&gt;ViewData&lt;/code&gt;-Objekt.
+* '''CSS/JS-Dateien''', die im Layout eingebunden sind, gelten auch für den View-Inhalt, weil die View in das Layout „hineingemischt“ wird.
+
+=== Beispiel: layout.cshtml ===
+&lt;source lang="csharp"&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;@ViewBag.Title&lt;/title&gt;
+    &lt;link rel="stylesheet" href="~/Content/site.css" /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;header&gt;
+        &lt;h1&gt;Meine Webseite&lt;/h1&gt;
+    &lt;/header&gt;
+    &lt;div&gt;
+        @RenderBody()
+    &lt;/div&gt;
+    &lt;footer&gt;
+        &amp;copy; 2025
+    &lt;/footer&gt;
+    &lt;script src="~/Scripts/site.js"&gt;&lt;/script&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;/source&gt;
+
+=== Beispiel: View (Index.cshtml) ===
+&lt;source lang="csharp"&gt;
+@{
+    ViewBag.Title = "Startseite";
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Pfad zum Layout
+}
+
+&lt;h2&gt;Willkommen!&lt;/h2&gt;
+&lt;p&gt;Dies ist der Inhalt der Startseite.&lt;/p&gt;
+&lt;/source&gt;
+
+=== Hinweise ===
+* Mit &lt;code&gt;ViewData["xy"]&lt;/code&gt; oder &lt;code&gt;ViewBag.Xy&lt;/code&gt; können Daten an das Layout übergeben werden.
+* Das Layout kann im Controller oder direkt in der View gesetzt werden.
+
+----
+
+'''Zusammengefasst:'''
+Das Layout ist eine zentrale Design-Schablone, die das Aussehen und die Struktur für viele Seiten vorgibt – und &lt;code&gt;@RenderBody()&lt;/code&gt; ist die Einfüge-Markierung für den individuellen Seiteninhalt.</text>
+      <sha1>e84mv7zj1nzn7nzx2kla24zyc4izl76</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Täglich Layout Views Übungen</title>
+    <ns>3002</ns>
+    <id>86</id>
+    <revision>
+      <id>281</id>
+      <timestamp>2025-06-25T15:01:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „= ASP.NET Core MVC – Layout Views Spickzettel =  == 1. Grundstruktur: Layout-View (_Layout.cshtml) == &lt;syntaxhighlight lang="html"&gt; &lt;!-- Views/Shared/_Layout.cshtml --&gt; &lt;!DOCTYPE html&gt; &lt;html&gt; &lt;head&gt;     &lt;title&gt;@ViewData["Title"]&lt;/title&gt;     &lt;link href="~/StyleSheet.css" rel="stylesheet" /&gt; &lt;/head&gt; &lt;body&gt;     &lt;div class="navbar"&gt;         &lt;a href="/"&gt;Home&lt;/a&gt;     &lt;/div&gt;     &lt;div class="container"&gt;         @RenderBody()     &lt;/div&gt; &lt;/body&gt; &lt;/html&gt; &lt;/syntaxh…“</comment>
+      <origin>281</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1474" sha1="ocn9mn7mwovm55q2mifckeametstw0w" xml:space="preserve">= ASP.NET Core MVC – Layout Views Spickzettel =
+
+== 1. Grundstruktur: Layout-View (_Layout.cshtml) ==
+&lt;syntaxhighlight lang="html"&gt;
+&lt;!-- Views/Shared/_Layout.cshtml --&gt;
+&lt;!DOCTYPE html&gt;
+&lt;html&gt;
+&lt;head&gt;
+    &lt;title&gt;@ViewData["Title"]&lt;/title&gt;
+    &lt;link href="~/StyleSheet.css" rel="stylesheet" /&gt;
+&lt;/head&gt;
+&lt;body&gt;
+    &lt;div class="navbar"&gt;
+        &lt;a href="/"&gt;Home&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class="container"&gt;
+        @RenderBody()
+    &lt;/div&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;/syntaxhighlight&gt;
+
+* '''@RenderBody()''': Platzhalter für den Inhalt der einzelnen View.
+
+== 2. Verwendung in einer Content-View ==
+&lt;syntaxhighlight lang="csharp"&gt;
+@{
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Layout explizit festlegen
+    ViewData["Title"] = "Home";
+}
+&lt;h1&gt;Home&lt;/h1&gt;
+&lt;p&gt;Willkommen!&lt;/p&gt;
+&lt;/syntaxhighlight&gt;
+
+* '''Layout''': Legt verwendetes Layout fest.
+* '''ViewData["Title"]''': Titel für Layout setzen.
+
+== 3. _ViewStart.cshtml: Standardlayout setzen ==
+&lt;syntaxhighlight lang="csharp"&gt;
+@{
+    Layout = "_Layout"; // Standard-Layout für alle Views im Verzeichnis
+}
+&lt;/syntaxhighlight&gt;
+
+== 4. Dynamisches Layout (z.B. per ViewBag) ==
+&lt;syntaxhighlight lang="csharp"&gt;
+@{
+    if (ViewBag.ProductID != null) {
+        Layout = "~/Views/Shared/_ProductsLayout.cshtml";
+    }
+}
+&lt;!-- Restlicher View-Code --&gt;
+&lt;/syntaxhighlight&gt;
+
+== 5. Sections &amp; @RenderSection ==
+'''Layout-View:'''
+&lt;syntaxhighlight lang="csharp"&gt;
+@RenderSection("footer_section", false) // "false": Section ist optional
+&lt;/syntaxhighlight&gt;</text>
+      <sha1>ocn9mn7mwovm55q2mifckeametstw0w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kultur4Ort</title>
+    <ns>0</ns>
+    <id>87</id>
+    <revision>
+      <id>283</id>
+      <timestamp>2025-06-25T19:57:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>283</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="319" sha1="e63cakbz3sqjl5hh1o46tr4g8rs5d89" xml:space="preserve">Kultur4Ort in Ahrensburg ist eine offene und kostenlose Veranstaltungsreihe der Stadt Ahrensburg, die jedes Jahr an einem anderen Ort in Ahrensburg stattfindet. Die Reihe fördert Nachwuchs, kulturellen Austausch, die Nutzung öffentlicher Räume als Kulturorte sowie die Netzwerkbildung in der Kulturszene.
+==Weblink==</text>
+      <sha1>e63cakbz3sqjl5hh1o46tr4g8rs5d89</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ahrensburger Weihnachtsmarkt</title>
+    <ns>0</ns>
+    <id>88</id>
+    <revision>
+      <id>287</id>
+      <timestamp>2025-06-25T20:27:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>287</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="198" sha1="3g7lkpm4rpo5maujo8brunchn6en8a2" xml:space="preserve">Der Weihnachtsmarkt oder Adventsmarkt findet im Rondell in Ahrensburg während der Adventszeit statt. Die gemütliche Atmosphäre entsteht durch dicht stehende Holzbuden, die zum Verweilen einladen.</text>
+      <sha1>3g7lkpm4rpo5maujo8brunchn6en8a2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Weinfest</title>
+    <ns>0</ns>
+    <id>89</id>
+    <revision>
+      <id>289</id>
+      <timestamp>2025-06-25T21:05:27Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>289</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="317" sha1="rdlkwcdigd6tyohpk6e3seuwzfnw81p" xml:space="preserve">Das Weinfest in Ahrensburg findet in der Innenstadt entlang der Großen Straße statt. Rund 20 Winzer:innen präsentieren Weine und Traubenprodukte aus verschiedenen Anbaugebieten. Besucher:innen erwartet eine entspannte Atmosphäre mit Live-Musik (Pop, Rock, Oldies) sowie kulinarischen Angeboten rund um die Traube.</text>
+      <sha1>rdlkwcdigd6tyohpk6e3seuwzfnw81p</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Music for free</title>
+    <ns>0</ns>
+    <id>90</id>
+    <revision>
+      <id>291</id>
+      <timestamp>2025-06-25T21:19:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>291</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="254" sha1="klksq408dmi0p1rk2vjor17h0zw602r" xml:space="preserve">Ein Veranstaltungsklassiker des Ahrensburger Stadtforums: Kostenloser Eintritt zu Live-Konzerten in sieben Lokalen der Innenstadt, jeweils von 20 bis 23 Uhr.
+Bands und Stilrichtungen: von Rock über Pop, Jazz, Chanson bis Latin. Abschlussfeier mit Disco.</text>
+      <sha1>klksq408dmi0p1rk2vjor17h0zw602r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Die Stadtteile im Porträt</title>
+    <ns>0</ns>
+    <id>91</id>
+    <revision>
+      <id>293</id>
+      <timestamp>2025-06-26T12:25:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>293</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2306" sha1="2uuyt1ld8ewlzy4e2zdo5xzqj5pid09" xml:space="preserve">Die Stadtteile im Porträt in Ahrensburg: 
+
+* '''Ahrensburg (Zentrum)''': Das Zentrum ist das historische und kommerzielle Herz der Stadt. Hier befinden sich das bekannte Schloss Ahrensburg, die Fußgängerzone mit zahlreichen Geschäften, das Rathaus sowie zentrale Haltestellen für U- und S-Bahn. Das Zentrum ist geprägt von einer Mischung aus Altbauten, modernen Gebäuden und vielfältigen Einkaufsmöglichkeiten.
+* '''Ahrensfelde''': Ursprünglich ein eigenständiges Dorf, liegt Ahrensfelde heute nördlich des Zentrums. Der Stadtteil hat seinen dörflichen Charakter bewahrt, mit vielen Einfamilienhäusern, alten Höfen und viel Grün. Die Umgebung ist ruhig und familienfreundlich.
+* '''Am Hagen / Siedlung Hagen / Waldgut Hagen''': Dieses Gebiet im Südwesten von Ahrensburg ist naturnah und zeichnet sich durch große Waldflächen und geschützte Forstgebiete aus. Die Siedlung Hagen bietet Wohnraum in ruhiger Lage, während das Waldgut Hagen als Naherholungsgebiet dient.
+* '''Beimoor / Gewerbegebiet Nord''': Nordöstlich des Stadtzentrums gelegen, umfasst dieser Stadtteil sowohl Wohngebiete als auch ein großes Gewerbegebiet. Hier befinden sich zahlreiche Unternehmen, Handwerksbetriebe und Einkaufsmöglichkeiten. Die Wohngebiete sind modern und familienfreundlich.
+* '''Gartenholz (inkl. Kremerberg)''': Im Norden der Stadt gelegen, ist Gartenholz ein gemischtes Wohn- und Gewerbegebiet. Der Regionalbahn-Haltepunkt Ahrensburg-Gartenholz sorgt für eine gute Verkehrsanbindung. Die Bebauung ist vielfältig, von Einfamilienhäusern bis zu Mehrfamilienhäusern.
+* '''Erlenhof-Süd''': Dieses neue Wohngebiet westlich der Lübecker Straße entstand ab etwa 2014. Es bietet moderne Wohnhäuser, Spielplätze und Grünflächen. Die Infrastruktur ist auf Familien und junge Menschen ausgerichtet.
+* '''Woldenhorn''': Der historische Altort, ursprünglich Woldenhorn genannt, bildet das Zentrum der Stadt. Hier finden sich viele denkmalgeschützte Gebäude und das kulturelle Herz Ahrensburgs.
+* '''Wulfsdorf''': Südwestlich an der Grenze zu Hamburg gelegen, ist Wulfsdorf teils dörflich geprägt, teils in das städtische Gefüge eingebunden. Es gibt landwirtschaftliche Betriebe, alte Höfe und neue Wohngebiete. Die Nähe zu Hamburg macht den Stadtteil besonders attraktiv für Pendler.</text>
+      <sha1>2uuyt1ld8ewlzy4e2zdo5xzqj5pid09</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Server:Ubuntu Software Pakete Installieren</title>
+    <ns>3000</ns>
+    <id>92</id>
+    <revision>
+      <id>295</id>
+      <timestamp>2025-06-26T13:17:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „== System aktualisieren und upgraden == Um Ihr Ubuntu-System zu aktualisieren und zu upgraden, können Sie die folgenden Befehle verwenden:  # '''System aktualisieren'''  Der Befehl &lt;code&gt;sudo apt update&lt;/code&gt; wird verwendet, um die Paketlisten für Upgrades zu aktualisieren, die installiert werden müssen, sowie für neue Pakete, die installiert werden können. &lt;pre&gt; sudo apt update sudo apt upgrade &lt;/pre&gt;  == Weitere Pakete installieren == Mit folgende…“</comment>
+      <origin>295</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2125" sha1="dyv1p3dlwgtrfwjtc0enzwttom7s52s" xml:space="preserve">== System aktualisieren und upgraden ==
+Um Ihr Ubuntu-System zu aktualisieren und zu upgraden, können Sie die folgenden Befehle verwenden:
+
+# '''System aktualisieren'''
+
+Der Befehl &lt;code&gt;sudo apt update&lt;/code&gt; wird verwendet, um die Paketlisten für Upgrades zu aktualisieren, die installiert werden müssen, sowie für neue Pakete, die installiert werden können.
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+&lt;/pre&gt;
+
+== Weitere Pakete installieren ==
+Mit folgendem Befehl installieren Sie alle benötigten Pakete:
+&lt;pre&gt;
+sudo apt install screen locate libapache2-mod-tile renderd git tar unzip wget bzip2 apache2 lua5.1 mapnik-utils python3-mapnik python3-psycopg2 python3-yaml gdal-bin postgresql postgresql-contrib postgis postgresql-16-postgis-3 postgresql-16-postgis-3-scripts osm2pgsql net-tools curl osmosis snapd nginx
+&lt;/pre&gt;
+
+== Node.js installieren ==
+Anleitung zur Installation von Node.js auf Ubuntu 24.04 LTS:
+&lt;pre&gt;
+sudo apt install curl
+curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+source ~/.bashrc
+nvm install 22
+&lt;/pre&gt;
+
+== .NET installieren ==
+&lt;pre&gt;
+sudo apt install -y dotnet-sdk-9.0 # Installation des .NET SDK
+&lt;/pre&gt;
+
+== Java installieren ==
+&lt;pre&gt;
+sudo apt update
+sudo apt install -y openjdk-21-jdk
+java -version
+&lt;/pre&gt;
+
+== Python installieren ==
+&lt;pre&gt;
+sudo apt install python3 python3-pip python3-venv python-is-python3
+&lt;/pre&gt;
+== PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;</text>
+      <sha1>dyv1p3dlwgtrfwjtc0enzwttom7s52s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ubuntu Software Pakete Installieren</title>
+    <ns>0</ns>
+    <id>93</id>
+    <revision>
+      <id>297</id>
+      <timestamp>2025-06-26T13:19:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „== System aktualisieren und upgraden == Um Ihr Ubuntu-System zu aktualisieren und zu upgraden, können Sie die folgenden Befehle verwenden:  # '''System aktualisieren'''  Der Befehl &lt;code&gt;sudo apt update&lt;/code&gt; wird verwendet, um die Paketlisten für Upgrades zu aktualisieren, die installiert werden müssen, sowie für neue Pakete, die installiert werden können. &lt;pre&gt; sudo apt update sudo apt upgrade &lt;/pre&gt;  == Weitere Pakete installieren == Mit folgende…“</comment>
+      <origin>297</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2125" sha1="dyv1p3dlwgtrfwjtc0enzwttom7s52s" xml:space="preserve">== System aktualisieren und upgraden ==
+Um Ihr Ubuntu-System zu aktualisieren und zu upgraden, können Sie die folgenden Befehle verwenden:
+
+# '''System aktualisieren'''
+
+Der Befehl &lt;code&gt;sudo apt update&lt;/code&gt; wird verwendet, um die Paketlisten für Upgrades zu aktualisieren, die installiert werden müssen, sowie für neue Pakete, die installiert werden können.
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+&lt;/pre&gt;
+
+== Weitere Pakete installieren ==
+Mit folgendem Befehl installieren Sie alle benötigten Pakete:
+&lt;pre&gt;
+sudo apt install screen locate libapache2-mod-tile renderd git tar unzip wget bzip2 apache2 lua5.1 mapnik-utils python3-mapnik python3-psycopg2 python3-yaml gdal-bin postgresql postgresql-contrib postgis postgresql-16-postgis-3 postgresql-16-postgis-3-scripts osm2pgsql net-tools curl osmosis snapd nginx
+&lt;/pre&gt;
+
+== Node.js installieren ==
+Anleitung zur Installation von Node.js auf Ubuntu 24.04 LTS:
+&lt;pre&gt;
+sudo apt install curl
+curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+source ~/.bashrc
+nvm install 22
+&lt;/pre&gt;
+
+== .NET installieren ==
+&lt;pre&gt;
+sudo apt install -y dotnet-sdk-9.0 # Installation des .NET SDK
+&lt;/pre&gt;
+
+== Java installieren ==
+&lt;pre&gt;
+sudo apt update
+sudo apt install -y openjdk-21-jdk
+java -version
+&lt;/pre&gt;
+
+== Python installieren ==
+&lt;pre&gt;
+sudo apt install python3 python3-pip python3-venv python-is-python3
+&lt;/pre&gt;
+== PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;</text>
+      <sha1>dyv1p3dlwgtrfwjtc0enzwttom7s52s</sha1>
+    </revision>
+    <revision>
+      <id>298</id>
+      <parentid>297</parentid>
+      <timestamp>2025-06-26T13:21:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* .NET installieren */</comment>
+      <origin>298</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2234" sha1="hbvpweoazp5jzm2a353o4rae0ande8n" xml:space="preserve">== System aktualisieren und upgraden ==
+Um Ihr Ubuntu-System zu aktualisieren und zu upgraden, können Sie die folgenden Befehle verwenden:
+
+# '''System aktualisieren'''
+
+Der Befehl &lt;code&gt;sudo apt update&lt;/code&gt; wird verwendet, um die Paketlisten für Upgrades zu aktualisieren, die installiert werden müssen, sowie für neue Pakete, die installiert werden können.
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+&lt;/pre&gt;
+
+== Weitere Pakete installieren ==
+Mit folgendem Befehl installieren Sie alle benötigten Pakete:
+&lt;pre&gt;
+sudo apt install screen locate libapache2-mod-tile renderd git tar unzip wget bzip2 apache2 lua5.1 mapnik-utils python3-mapnik python3-psycopg2 python3-yaml gdal-bin postgresql postgresql-contrib postgis postgresql-16-postgis-3 postgresql-16-postgis-3-scripts osm2pgsql net-tools curl osmosis snapd nginx
+&lt;/pre&gt;
+
+== Node.js installieren ==
+Anleitung zur Installation von Node.js auf Ubuntu 24.04 LTS:
+&lt;pre&gt;
+sudo apt install curl
+curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+source ~/.bashrc
+nvm install 22
+&lt;/pre&gt;
+
+== .NET installieren ==
+&lt;pre&gt;
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:dotnet/backports
+sudo apt-get update
+sudo apt install -y dotnet-sdk-9.0 # Installation des .NET SDK
+&lt;/pre&gt;
+
+== Java installieren ==
+&lt;pre&gt;
+sudo apt update
+sudo apt install -y openjdk-21-jdk
+java -version
+&lt;/pre&gt;
+
+== Python installieren ==
+&lt;pre&gt;
+sudo apt install python3 python3-pip python3-venv python-is-python3
+&lt;/pre&gt;
+== PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;</text>
+      <sha1>hbvpweoazp5jzm2a353o4rae0ande8n</sha1>
+    </revision>
+    <revision>
+      <id>299</id>
+      <parentid>298</parentid>
+      <timestamp>2025-06-26T13:23:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* .NET installieren */</comment>
+      <origin>299</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2218" sha1="6t37npogonjr9kgf1q21rt0264zve01" xml:space="preserve">== System aktualisieren und upgraden ==
+Um Ihr Ubuntu-System zu aktualisieren und zu upgraden, können Sie die folgenden Befehle verwenden:
+
+# '''System aktualisieren'''
+
+Der Befehl &lt;code&gt;sudo apt update&lt;/code&gt; wird verwendet, um die Paketlisten für Upgrades zu aktualisieren, die installiert werden müssen, sowie für neue Pakete, die installiert werden können.
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+&lt;/pre&gt;
+
+== Weitere Pakete installieren ==
+Mit folgendem Befehl installieren Sie alle benötigten Pakete:
+&lt;pre&gt;
+sudo apt install screen locate libapache2-mod-tile renderd git tar unzip wget bzip2 apache2 lua5.1 mapnik-utils python3-mapnik python3-psycopg2 python3-yaml gdal-bin postgresql postgresql-contrib postgis postgresql-16-postgis-3 postgresql-16-postgis-3-scripts osm2pgsql net-tools curl osmosis snapd nginx
+&lt;/pre&gt;
+
+== Node.js installieren ==
+Anleitung zur Installation von Node.js auf Ubuntu 24.04 LTS:
+&lt;pre&gt;
+sudo apt install curl
+curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+source ~/.bashrc
+nvm install 22
+&lt;/pre&gt;
+
+== .NET installieren ==
+&lt;pre&gt;
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:dotnet/backports
+sudo apt-get update
+sudo apt-get install -y aspnetcore-runtime-9.0
+&lt;/pre&gt;
+
+== Java installieren ==
+&lt;pre&gt;
+sudo apt update
+sudo apt install -y openjdk-21-jdk
+java -version
+&lt;/pre&gt;
+
+== Python installieren ==
+&lt;pre&gt;
+sudo apt install python3 python3-pip python3-venv python-is-python3
+&lt;/pre&gt;
+== PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;</text>
+      <sha1>6t37npogonjr9kgf1q21rt0264zve01</sha1>
+    </revision>
+    <revision>
+      <id>300</id>
+      <parentid>299</parentid>
+      <timestamp>2025-06-26T13:34:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Java installieren */</comment>
+      <origin>300</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2219" sha1="81j5yvir9vcvfgjo6dky5l87s9wu2rd" xml:space="preserve">== System aktualisieren und upgraden ==
+Um Ihr Ubuntu-System zu aktualisieren und zu upgraden, können Sie die folgenden Befehle verwenden:
+
+# '''System aktualisieren'''
+
+Der Befehl &lt;code&gt;sudo apt update&lt;/code&gt; wird verwendet, um die Paketlisten für Upgrades zu aktualisieren, die installiert werden müssen, sowie für neue Pakete, die installiert werden können.
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+&lt;/pre&gt;
+
+== Weitere Pakete installieren ==
+Mit folgendem Befehl installieren Sie alle benötigten Pakete:
+&lt;pre&gt;
+sudo apt install screen locate libapache2-mod-tile renderd git tar unzip wget bzip2 apache2 lua5.1 mapnik-utils python3-mapnik python3-psycopg2 python3-yaml gdal-bin postgresql postgresql-contrib postgis postgresql-16-postgis-3 postgresql-16-postgis-3-scripts osm2pgsql net-tools curl osmosis snapd nginx
+&lt;/pre&gt;
+
+== Node.js installieren ==
+Anleitung zur Installation von Node.js auf Ubuntu 24.04 LTS:
+&lt;pre&gt;
+sudo apt install curl
+curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+source ~/.bashrc
+nvm install 22
+&lt;/pre&gt;
+
+== .NET installieren ==
+&lt;pre&gt;
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:dotnet/backports
+sudo apt-get update
+sudo apt-get install -y aspnetcore-runtime-9.0
+&lt;/pre&gt;
+
+== Java installieren ==
+&lt;pre&gt;
+sudo apt update
+sudo apt-get install openjdk-21-jre
+java -version
+&lt;/pre&gt;
+
+== Python installieren ==
+&lt;pre&gt;
+sudo apt install python3 python3-pip python3-venv python-is-python3
+&lt;/pre&gt;
+== PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;</text>
+      <sha1>81j5yvir9vcvfgjo6dky5l87s9wu2rd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Server:KachelServer</title>
+    <ns>3000</ns>
+    <id>94</id>
+    <revision>
+      <id>302</id>
+      <timestamp>2025-06-26T13:39:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „== Ubuntu 24.04 LTS Installation == Diese Seite beschreibt, wie man alle notwendige Software installiert, einrichtet und konfiguriert, um einen eigenen Kachelserver zu betreiben. Diese Schritt-für-Schritt-Anleitung wurde für Ubuntu Linux 24.04 (Noble Numbat) geschrieben und im April 2024 getestet.  == Softwareinstallation == Der OSM-Kachelserver-Stack ist eine Sammlung von Programmen und Bibliotheken, die zusammenarbeiten, um einen Kachelserver zu erste…“</comment>
+      <origin>302</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="13461" sha1="r8k4yfantqpjh5zjew2crnvwztprdfk" xml:space="preserve">== Ubuntu 24.04 LTS Installation ==
+Diese Seite beschreibt, wie man alle notwendige Software installiert, einrichtet und konfiguriert, um einen eigenen Kachelserver zu betreiben. Diese Schritt-für-Schritt-Anleitung wurde für Ubuntu Linux 24.04 (Noble Numbat) geschrieben und im April 2024 getestet.
+
+== Softwareinstallation ==
+Der OSM-Kachelserver-Stack ist eine Sammlung von Programmen und Bibliotheken, die zusammenarbeiten, um einen Kachelserver zu erstellen. Wie so oft bei OpenStreetMap gibt es viele Wege, dieses Ziel zu erreichen, und fast alle Komponenten haben Alternativen, die verschiedene spezifische Vor- und Nachteile haben. Dieses Tutorial beschreibt die gängigste Version, die der auf den Haupt-Kachelserven von OpenStreetMap.org ähnlich ist.
+
+Er besteht aus 5 Hauptkomponenten: mod_tile, renderd, mapnik, osm2pgsql und einer PostgreSQL/PostGIS-Datenbank. Mod_tile ist ein Apache-Modul, das zwischengespeicherte Kacheln bereitstellt und entscheidet, welche Kacheln neu gerendert werden müssen - entweder weil sie noch nicht zwischengespeichert sind oder weil sie veraltet sind. Renderd bietet ein Prioritätswarteschlangensystem für verschiedene Arten von Anfragen, um die Last von Renderanfragen zu verwalten und zu glätten. Mapnik ist die Softwarebibliothek, die das eigentliche Rendern durchführt und von renderd verwendet wird.
+
+Dank der Arbeit der Debian- und Ubuntu-Maintainer, die neuesten Versionen dieser Pakete in Ubuntu 24.04 zu integrieren, sind diese Anweisungen etwas kürzer als einige frühere Versionen.
+
+Diese Anweisungen wurden geschrieben und gegen einen neu installierten Ubuntu 24.04 Server getestet. Wenn Sie bereits andere Versionen einiger Software installiert haben (vielleicht haben Sie von einer früheren Version aktualisiert, oder Sie haben einige PPAs zum Laden eingerichtet), dann müssen Sie möglicherweise einige Anpassungen vornehmen.
+
+Um diese Komponenten zu erstellen, müssen zunächst eine Vielzahl von Abhängigkeiten installiert werden.
+
+Dieser Leitfaden geht davon aus, dass Sie alles von einem Nicht-Root-Benutzer über "sudo" ausführen. Versuchen Sie nicht, alles unten als Root zu tun; es wird nicht funktionieren.
+
+Aktualisieren Sie zunächst Ihre Paketliste und installieren Sie die erforderlichen Pakete:
+
+== Nutzer erstellen bei Ubuntu 24.04 LTS ==
+Um einen neuen Nutzer in Ubuntu 24.04 LTS zu erstellen, können Sie die folgenden Schritte ausführen:
+
+# Öffnen Sie ein Terminalfenster.
+# Führen Sie den folgenden Befehl aus, um einen neuen Nutzer zu erstellen:
+
+ &lt;code&gt;sudo adduser --force-badname _renderd
+ sudo usermod -aG sudo _renderd
+ exit&lt;/code&gt;
+
+=== Login als neuer Nutzer ===
+Der gegebene Codeblock zeigt, wie man sich als ein bestimmter Nutzer in einem Linux-System einloggt. Der Befehl &lt;code&gt;ssh&lt;/code&gt; wird verwendet, um eine sichere Shell-Sitzung zu starten.
+ &lt;code&gt;ssh _renderd@localhost&lt;/code&gt;
+An diesem Punkt wurden einige neue Konten hinzugefügt. Sie können sie mit "tail /etc/passwd" sehen. "postgres" wird zur Verwaltung der Datenbanken verwendet, die wir zur Speicherung von Daten für das Rendering verwenden. "_renderd" wird für den Renderd-Daemon verwendet, und wir müssen sicherstellen, dass viele der unten aufgeführten Befehle als dieser Benutzer ausgeführt werden.
+
+Jetzt müssen Sie eine PostGIS-Datenbank erstellen. Die Standardwerte verschiedener Programme gehen davon aus, dass die Datenbank "gis" heißt und wir werden in diesem Tutorial die gleiche Konvention verwenden, obwohl dies nicht notwendig ist. Beachten Sie, dass "_renderd" unten dem Benutzer entspricht, unter dem der Renderd-Daemon ausgeführt wird.
+ &lt;code&gt;sudo -u postgres -i
+ createuser _renderd
+ createdb -E UTF8 -O _renderd gis
+ psql -d gis -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+ psql -d gis -c "CREATE EXTENSION hstore;" # Erweiterung hinzufügen
+ psql -d gis -c "ALTER TABLE geometry_columns OWNER TO _renderd;" # Rechte setzen
+ psql -d gis -c "ALTER TABLE spatial_ref_sys OWNER TO _renderd;" # Rechte setzen
+ exit&lt;/code&gt;
+(Das wird Sie aus dem Benutzer "postgres" herausbringen)
+
+== Mapnik ==
+Mapnik wurde oben installiert. Wir werden überprüfen, ob es korrekt installiert wurde, indem wir Folgendes tun:
+ &lt;code&gt;python3
+ &gt;&gt;&gt; import mapnik
+ &gt;&gt;&gt;&lt;/code&gt;
+Wenn Sie keine Fehlermeldung erhalten, ist Mapnik korrekt installiert. Drücken Sie "Ctrl-D", um Python zu verlassen.
+
+== Konfiguration des Stylesheets ==
+Jetzt, da alle notwendige Software installiert ist, müssen Sie ein Stylesheet herunterladen und konfigurieren.
+
+Der Stil, den wir hier verwenden, ist der, der von der "Standard"-Karte auf der Website openstreetmap.org verwendet wird. Er wurde gewählt, weil er gut dokumentiert ist und überall auf der Welt funktionieren sollte (einschließlich an Orten mit nicht-lateinischen Ortsnamen). Es gibt jedoch ein paar Nachteile - es ist sehr viel ein Kompromiss, der global funktionieren soll, und es ist ziemlich kompliziert zu verstehen und zu modifizieren, falls Sie das tun müssen.
+
+Die Heimat von "OpenStreetMap Carto" im Web ist &lt;nowiki&gt;https://github.com/gravitystorm/openstreetmap-carto/&lt;/nowiki&gt; und es hat seine eigenen Installationsanweisungen unter &lt;nowiki&gt;https://github.com/gravitystorm/openstreetmap-carto/blob/master/INSTALL.md&lt;/nowiki&gt; , obwohl wir hier alles abdecken, was getan werden muss.
+
+Hier gehen wir davon aus, dass wir die Details des Stylesheets in einem Verzeichnis unter "src" im Home-Verzeichnis des jeweiligen Nicht-Root-Benutzerkontos speichern, das Sie verwenden; wir werden den Zugriff so ändern, dass der Benutzer "_renderd" darauf zugreifen kann.
+ &lt;code&gt;mkdir ~/src
+ cd ~/src
+ git clone &lt;nowiki&gt;https://github.com/gravitystorm/openstreetmap-carto&lt;/nowiki&gt;
+ cd openstreetmap-carto
+ git pull --all
+ git switch --detach v5.9.0&lt;/code&gt;
+Als nächstes installieren wir eine geeignete Version des "carto"-Compilers.
+ &lt;code&gt;npm install -g carto
+ carto -v&lt;/code&gt;
+Das sollte mit einer Zahl antworten, die mindestens so hoch ist wie:
+     &lt;code&gt;1.2.0&lt;/code&gt;
+Dann konvertieren wir das Carto-Projekt in ein Format, das Mapnik verstehen kann:
+ &lt;code&gt;carto project.mml &gt; mapnik.xml&lt;/code&gt;
+Sie haben jetzt ein Mapnik XML-Stylesheet unter /home/IhrBenutzerkonto/src/openstreetmap-carto/mapnik.xml .
+
+== Daten laden ==
+Zunächst laden wir nur eine kleine Menge an Testdaten. Es sind andere Download-Standorte verfügbar, aber "download.geofabrik.de" bietet eine breite Palette an Optionen. In diesem Beispiel laden wir die Daten für Schlewig Holstein herunter, die derzeit etwa 32Mb groß sind.
+
+Navigieren Sie zu &lt;nowiki&gt;https://download.geofabrik.de/europe/germany/schleswig-holstein.html&lt;/nowiki&gt; und beachten Sie das Datum "Diese Datei wurde zuletzt geändert" (z.B. "2024-04-24T20:21:40Z"). Wir werden das später benötigen, wenn wir die Datenbank mit den nachfolgenden Änderungen der Menschen an OpenStreetMap aktualisieren wollen. Laden Sie es wie folgt herunter:
+ &lt;code&gt;mkdir ~/data
+ cd ~/data
+ wget &lt;nowiki&gt;https://download.geofabrik.de/europe/germany/schleswig-holstein-latest.osm.pbf&lt;/nowiki&gt;
+ osmosis --read-pbf file=schleswig-holstein-latest.osm.pbf --bounding-box left=10.1141 right=10.3716 top=53.7136 bottom=53.6249 --write-pbf file=ahrensburg.pbf&lt;/code&gt;
+ 
+Als nächstes müssen wir sicherstellen, dass der Benutzer "_renderd" auf das Stylesheet zugreifen kann. Um dies zu ermöglichen, benötigt er Zugriff auf den Ort, an dem Sie es heruntergeladen haben, und standardmäßig hat er keinen Zugriff auf Ihr Home-Verzeichnis. Wenn es sich in "src" unter Ihrem Benutzerkonto befindet, dann
+ &lt;code&gt;chmod a+rx ~&lt;/code&gt;
+wird funktionieren. Wenn Sie dies nicht tun möchten, können Sie es verschieben und die Verweise auf die Dateiorte in den nachfolgenden Befehlen ändern.
+
+Der folgende Befehl wird die zuvor heruntergeladenen OpenStreetMap-Daten in die Datenbank einfügen. Dieser Schritt ist sehr intensiv in Bezug auf die Festplatten-I/O; der Import des gesamten Planeten kann je nach Hardware viele Stunden, Tage oder Wochen dauern. Für kleinere Extrakte ist die Importzeit entsprechend viel schneller, und Sie müssen möglicherweise mit verschiedenen -C-Werten experimentieren, um in den verfügbaren Speicher Ihres Rechners zu passen. Beachten Sie, dass der Benutzer "_renderd" für diesen Prozess verwendet wird.
+ &lt;code&gt;sudo -u _renderd osm2pgsql -d gis --create --slim  -G --hstore --tag-transform-script ~/src/openstreetmap-carto/openstreetmap-carto.lua -C 2500 --number-processes 1 -S ~/src/openstreetmap-carto/openstreetmap-carto.style ~/data/ahrensburg.pbf&lt;/code&gt;
+
+== Erstellen von Indizes ==
+Seit der Version v5.3.0 müssen einige zusätzliche Indizes manuell angewendet werden:
+ &lt;code&gt;cd ~/src/openstreetmap-carto/
+ sudo -u _renderd psql -d gis -f indexes.sql&lt;/code&gt;
+Es sollte 16 Mal mit "CREATE INDEX" antworten.
+
+== Datenbankfunktionen ==
+In Version 5.9.0 von "OSM Carto" (veröffentlicht im Oktober 2024) müssen einige Funktionen manuell in die Datenbank geladen werden. Diese können jederzeit hinzugefügt / neu geladen werden mit:
+ &lt;code&gt;cd ~/src/openstreetmap-carto/
+ sudo -u _renderd psql -d gis -f functions.sql&lt;/code&gt;
+
+== Shapefile-Download ==
+Obwohl die meisten Daten, die zur Erstellung der Karte verwendet werden, direkt aus der oben heruntergeladenen OpenStreetMap-Datendatei stammen, werden immer noch einige Shapefiles für Dinge wie Ländergrenzen bei niedriger Zoomstufe benötigt. Um diese herunterzuladen und zu indizieren, verwenden wir das gleiche Konto wie zuvor:
+ &lt;code&gt;cd ~/src/openstreetmap-carto/
+ mkdir data
+ sudo chown _renderd data
+ sudo -u _renderd scripts/get-external-data.py&lt;/code&gt;
+Dieser Prozess beinhaltet einen erheblichen Download und kann einige Zeit in Anspruch nehmen - während er läuft, wird nicht viel auf dem Bildschirm angezeigt. Einige Daten gehen direkt in die Datenbank, und einige gehen in ein "data"-Verzeichnis unter "openstreetmap-carto". Wenn hier ein Problem auftritt, dann sind die Natural Earth Daten möglicherweise verschoben worden - schauen Sie sich dieses Problem und andere Probleme bei Natural Earth für weitere Details an. Wenn Sie den Download-Ort von Natural Earth ändern müssen, ist Ihre Kopie dieser Datei diejenige, die Sie bearbeiten sollten.
+
+== Schriftarten ==
+In der Version v5.6.0 und höher von Carto müssen Schriftarten manuell installiert werden:
+ &lt;code&gt;cd ~/src/openstreetmap-carto/
+ scripts/get-fonts.sh&lt;/code&gt;
+Unser Testdatenbereich (Ahrensburg) wurde sowohl wegen seiner geringen Größe als auch wegen einiger Ortsnamen in dieser Region ausgewählt, die Namen mit nicht-lateinischen Zeichen enthalten.
+
+== Einrichten Ihres Webservers ==
+
+=== Konfigurieren von renderd ===
+Die Konfigurationsdatei für "renderd" unter Ubuntu 24.04 ist "/etc/renderd.conf". Bearbeiten Sie diese mit einem Texteditor wie nano:
+ &lt;code&gt;sudo nano /etc/renderd.conf&lt;/code&gt;
+Ändern Sie die folgenden Zeilen, um sie an Ihre Umgebung anzupassen:
+ &lt;code&gt;[s2o]
+ URI=/hot/
+ XML=/home/_renderd/src/openstreetmap-carto/mapnik.xml
+ HOST=localhost
+ TILESIZE=256
+ MAXZOOM=20&lt;/code&gt;
+Der Pfad zur XML-Datei "/home/accountname/src/openstreetmap-carto/mapnik.xml" muss auf den tatsächlichen Pfad auf Ihrem System geändert werden. Sie können auch "[s2o]" und "URI=/hot/" ändern, wenn Sie möchten. Wenn Sie mehr als einen Satz von Kacheln von einem Server rendern möchten, können Sie das tun - fügen Sie einfach einen weiteren Abschnitt wie "[s2o]" mit einem anderen Namen hinzu, der auf einen anderen Kartenstil verweist. Wenn Sie möchten, dass es sich auf eine andere Datenbank als die Standarddatenbank "gis" bezieht, können Sie das tun, aber das liegt außerhalb des Rahmens dieses Dokuments. Wenn Sie nur etwa 2Gb Speicher haben, sollten Sie auch "num_threads" auf 2 reduzieren. "URI=/hot/" wurde gewählt, damit die hier generierten Kacheln leichter anstelle der HOT-Kachel-Ebene auf OpenStreetMap.org verwendet werden können. Sie können hier etwas anderes verwenden, aber "/hot/" ist genauso gut wie alles andere.
+
+Als dieser Leitfaden zum ersten Mal geschrieben wurde, war die von Ubuntu 24.04 bereitgestellte Version von Mapnik 3.1, und die Einstellung "plugins_dir" im Abschnitt "[mapnik]" der Datei war "/usr/lib/mapnik/3.1/input". Dieses "3.1" könnte sich in der Zukunft wieder ändern. Wenn beim Versuch, Kacheln zu rendern, ein Fehler auftritt, wie dieser:
+ &lt;code&gt;An error occurred while loading the map layer 's2o': Could not create datasource for type: 'postgis' (no datasource plugin directories have been successfully registered)  encountered during parsing of layer 'landcover-low-zoom'&lt;/code&gt;
+Dann schauen Sie in "/usr/lib/mapnik" und sehen Sie, welche Versionsverzeichnisse es gibt, und schauen Sie auch in "/usr/lib/mapnik/(version)/input", um sicherzustellen, dass dort eine Datei "postgis.input" existiert.
+
+Jetzt, da wir "renderd" gesagt haben, wie es auf Kachelrendering-Anfragen reagieren soll, müssen wir dem Apache-Webserver sagen, dass er sie senden soll. Leider wurde die Konfiguration dafür aus den neuesten Versionen von mod_tile entfernt. Sie kann jedoch derzeit von hier installiert werden
+ &lt;code&gt;cd /etc/apache2/conf-available/
+ sudo wget &lt;nowiki&gt;https://raw.githubusercontent.com/openstreetmap/mod_tile/python-implementation/etc/apache2/renderd.conf&lt;/nowiki&gt;
+ sudo a2enconf renderd
+ sudo systemctl reload apache2&lt;/code&gt;
+
+=== Reload Apache ===
+ &lt;code&gt;sudo nano /usr/lib/systemd/system/renderd.service
+ sudo systemctl daemon-reload
+ sudo systemctl restart renderd
+ sudo systemctl restart apache2&lt;/code&gt;</text>
+      <sha1>r8k4yfantqpjh5zjew2crnvwztprdfk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Server:Apache Port ändern</title>
+    <ns>3000</ns>
+    <id>95</id>
+    <revision>
+      <id>303</id>
+      <timestamp>2025-06-26T13:41:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;code&gt;sudo nano /etc/apache2/ports.conf&lt;/code&gt; Ändern Sie den Port von 80 auf 8080  &lt;code&gt;Listen 8080&lt;/code&gt; Apache restarten  &lt;code&gt;sudo systemctl restart apache2“</comment>
+      <origin>303</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="164" sha1="gr15p2kx141yv2lfpir3ww6jvq5etiv" xml:space="preserve">&lt;code&gt;sudo nano /etc/apache2/ports.conf&lt;/code&gt;
+Ändern Sie den Port von 80 auf 8080
+ &lt;code&gt;Listen 8080&lt;/code&gt;
+Apache restarten
+ &lt;code&gt;sudo systemctl restart apache2</text>
+      <sha1>gr15p2kx141yv2lfpir3ww6jvq5etiv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Server:SSL</title>
+    <ns>3000</ns>
+    <id>96</id>
+    <revision>
+      <id>304</id>
+      <timestamp>2025-06-26T13:42:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Die folgenden Befehle richten die Umgebung für die Nutzung von Certbot mit Nginx auf einem Linux-System ein:  # &lt;code&gt;sudo apt install snapd&lt;/code&gt;  Installiert den Snap-Daemon, der benötigt wird, um Snap-Pakete (wie Certbot) zu installieren. # &lt;code&gt;sudo apt-get install nginx&lt;/code&gt;  Installiert den Nginx-Webserver. # &lt;code&gt;sudo rm /etc/nginx/sites-enabled/default&lt;/code&gt;  Entfernt die Standardkonfiguration von Nginx, um Konflikte mit eigenen Einstellun…“</comment>
+      <origin>304</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1782" sha1="bn1cv7n7shhys4wfredahwgdqj85u9l" xml:space="preserve">Die folgenden Befehle richten die Umgebung für die Nutzung von Certbot mit Nginx auf einem Linux-System ein:
+
+# &lt;code&gt;sudo apt install snapd&lt;/code&gt;  Installiert den Snap-Daemon, der benötigt wird, um Snap-Pakete (wie Certbot) zu installieren.
+# &lt;code&gt;sudo apt-get install nginx&lt;/code&gt;  Installiert den Nginx-Webserver.
+# &lt;code&gt;sudo rm /etc/nginx/sites-enabled/default&lt;/code&gt;  Entfernt die Standardkonfiguration von Nginx, um Konflikte mit eigenen Einstellungen zu vermeiden.
+# &lt;code&gt;sudo systemctl stop nginx&lt;/code&gt;  Stoppt den laufenden Nginx-Dienst, damit Certbot später Zertifikate anfordern und konfigurieren kann.
+# &lt;code&gt;sudo snap install --classic certbot&lt;/code&gt;  Installiert Certbot (das Tool zur Verwaltung von SSL-Zertifikaten von Let's Encrypt) über Snap.
+# &lt;code&gt;sudo ln -s /snap/bin/certbot /usr/bin/certbot&lt;/code&gt;  Erstellt einen symbolischen Link, damit Certbot systemweit als Befehl verfügbar ist.
+# &lt;code&gt;sudo systemctl stop nginx&lt;/code&gt;  Stoppt Nginx erneut, um sicherzustellen, dass der Webserver für die Zertifikatsanfrage nicht läuft.
+
+Diese Schritte bereiten das System darauf vor, SSL-Zertifikate mit Certbot für Nginx zu erstellen und zu verwalten.
+
+==Kurze Form==
+&lt;pre&gt;
+sudo apt install snapd
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+sudo systemctl stop nginx
+sudo snap install --classic certbot
+sudo ln -s /snap/bin/certbot /usr/bin/certbot
+sudo systemctl stop nginx
+&lt;/pre&gt;
+Nach der Eingabe der obigen Befehle können Sie mit den folgenden Schritten fortfahren, um SSL-Zertifikate für Ihre Domains zu erstellen und Nginx wieder zu starten.
+&lt;pre&gt;
+sudo certbot certonly --standalone -d ahrensburg.city -d www.ahrensburg.city
+sudo certbot certonly --standalone -d alterwiki.ahrensburg.city
+sudo systemctl start nginx
+&lt;/pre&gt;</text>
+      <sha1>bn1cv7n7shhys4wfredahwgdqj85u9l</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Server:Nginx Einstellung</title>
+    <ns>3000</ns>
+    <id>97</id>
+    <revision>
+      <id>305</id>
+      <timestamp>2025-06-26T13:45:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ == Erstellen Sie eine neue Konfigurationsdatei[Bearbeiten | Quelltext bearbeiten] == Um eine neue Konfigurationsdatei für Nginx zu erstellen, öffnen Sie ein Terminal und geben Sie folgenden Befehl ein:   sudo nano /etc/nginx/conf.d/start.conf Dies öffnet den Texteditor `nano` mit Root-Rechten und erstellt (oder bearbeitet) die Datei `start.conf` im Verzeichnis `/etc/nginx/conf.d/`. In dieser Datei können Sie Ihre gewünschten Nginx-Konfigurationen ei…“</comment>
+      <origin>305</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="626" sha1="jcpw7usuhmiotqyjc921rhs1h1qjgfv" xml:space="preserve">
+== Erstellen Sie eine neue Konfigurationsdatei[Bearbeiten | Quelltext bearbeiten] ==
+Um eine neue Konfigurationsdatei für Nginx zu erstellen, öffnen Sie ein Terminal und geben Sie folgenden Befehl ein:
+  sudo nano /etc/nginx/conf.d/start.conf
+Dies öffnet den Texteditor `nano` mit Root-Rechten und erstellt (oder bearbeitet) die Datei `start.conf` im Verzeichnis `/etc/nginx/conf.d/`. In dieser Datei können Sie Ihre gewünschten Nginx-Konfigurationen eintragen. Nach dem Bearbeiten speichern Sie die Datei mit `Strg + O`, bestätigen mit `Enter` und schließen den Editor mit `Strg + X`.
+
+Folgende Text eingeben in Datei</text>
+      <sha1>jcpw7usuhmiotqyjc921rhs1h1qjgfv</sha1>
+    </revision>
+    <revision>
+      <id>306</id>
+      <parentid>305</parentid>
+      <timestamp>2025-06-26T13:46:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>306</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="890" sha1="csfsk5bcy9cwhpt3655tou43epotmfx" xml:space="preserve">
+== Erstellen Sie eine neue Konfigurationsdatei[Bearbeiten | Quelltext bearbeiten] ==
+Um eine neue Konfigurationsdatei für Nginx zu erstellen, öffnen Sie ein Terminal und geben Sie folgenden Befehl ein:
+  sudo nano /etc/nginx/conf.d/start.conf
+Dies öffnet den Texteditor `nano` mit Root-Rechten und erstellt (oder bearbeitet) die Datei `start.conf` im Verzeichnis `/etc/nginx/conf.d/`. In dieser Datei können Sie Ihre gewünschten Nginx-Konfigurationen eintragen. Nach dem Bearbeiten speichern Sie die Datei mit `Strg + O`, bestätigen mit `Enter` und schließen den Editor mit `Strg + X`.
+
+Folgende Text eingeben in Datei
+
+
+Hinweis:
+
+Nach dem Speichern und Schließen der Datei müssen Sie die Nginx-Konfiguration neu laden, damit die Änderungen wirksam werden:
+sudo nginx -t
+sudo systemctl reload nginx
+Prüfen Sie mit sudo nginx -t immer zuerst, ob die Konfiguration fehlerfrei ist.</text>
+      <sha1>csfsk5bcy9cwhpt3655tou43epotmfx</sha1>
+    </revision>
+    <revision>
+      <id>307</id>
+      <parentid>306</parentid>
+      <timestamp>2025-06-26T13:48:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>307</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1939" sha1="lc5k5xz5fx3xa6denzs777kfv9dck23" xml:space="preserve">
+== Erstellen Sie eine neue Konfigurationsdatei[Bearbeiten | Quelltext bearbeiten] ==
+Um eine neue Konfigurationsdatei für Nginx zu erstellen, öffnen Sie ein Terminal und geben Sie folgenden Befehl ein:
+  sudo nano /etc/nginx/conf.d/start.conf
+Dies öffnet den Texteditor `nano` mit Root-Rechten und erstellt (oder bearbeitet) die Datei `start.conf` im Verzeichnis `/etc/nginx/conf.d/`. In dieser Datei können Sie Ihre gewünschten Nginx-Konfigurationen eintragen. Nach dem Bearbeiten speichern Sie die Datei mit `Strg + O`, bestätigen mit `Enter` und schließen den Editor mit `Strg + X`.
+
+Folgende Text eingeben in Datei
+
+&lt;pre&gt;
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name ahrensburg.city;
+    ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+     root /var/www/mediawiki;
+    index index.php index.html index.htm;
+   location /hot {
+        proxy_pass http://localhost:8080/hot;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+
+location /karte {
+    alias /var/www/karte;
+    autoindex on;
+}
+ location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\.ht {
+
+           deny all;
+    }
+
+}
+server {
+    listen 80;
+    listen [::]:80;
+    server_name ahrensburg.city;
+    return 301 https://$host$request_uri;
+}
+
+
+&lt;/pre&gt;
+
+Hinweis:
+
+Nach dem Speichern und Schließen der Datei müssen Sie die Nginx-Konfiguration neu laden, damit die Änderungen wirksam werden:
+sudo nginx -t
+sudo systemctl reload nginx
+Prüfen Sie mit sudo nginx -t immer zuerst, ob die Konfiguration fehlerfrei ist.</text>
+      <sha1>lc5k5xz5fx3xa6denzs777kfv9dck23</sha1>
+    </revision>
+    <revision>
+      <id>308</id>
+      <parentid>307</parentid>
+      <timestamp>2025-06-26T13:50:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Erstellen Sie eine neue Konfigurationsdatei[Bearbeiten | Quelltext bearbeiten] */</comment>
+      <origin>308</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1903" sha1="kxnbwyb9fc9n7bbpyo1svfkijqeo1g1" xml:space="preserve">
+== Erstellen Sie eine neue Konfigurationsdatei==
+Um eine neue Konfigurationsdatei für Nginx zu erstellen, öffnen Sie ein Terminal und geben Sie folgenden Befehl ein:
+  sudo nano /etc/nginx/conf.d/start.conf
+Dies öffnet den Texteditor `nano` mit Root-Rechten und erstellt (oder bearbeitet) die Datei `start.conf` im Verzeichnis `/etc/nginx/conf.d/`. In dieser Datei können Sie Ihre gewünschten Nginx-Konfigurationen eintragen. Nach dem Bearbeiten speichern Sie die Datei mit `Strg + O`, bestätigen mit `Enter` und schließen den Editor mit `Strg + X`.
+
+Folgende Text eingeben in Datei
+
+&lt;pre&gt;
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name ahrensburg.city;
+    ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+     root /var/www/mediawiki;
+    index index.php index.html index.htm;
+   location /hot {
+        proxy_pass http://localhost:8080/hot;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+
+location /karte {
+    alias /var/www/karte;
+    autoindex on;
+}
+ location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\.ht {
+
+           deny all;
+    }
+
+}
+server {
+    listen 80;
+    listen [::]:80;
+    server_name ahrensburg.city;
+    return 301 https://$host$request_uri;
+}
+
+
+&lt;/pre&gt;
+
+Hinweis:
+
+Nach dem Speichern und Schließen der Datei müssen Sie die Nginx-Konfiguration neu laden, damit die Änderungen wirksam werden:
+sudo nginx -t
+sudo systemctl reload nginx
+Prüfen Sie mit sudo nginx -t immer zuerst, ob die Konfiguration fehlerfrei ist.</text>
+      <sha1>kxnbwyb9fc9n7bbpyo1svfkijqeo1g1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Server:Mediawiki Installieren</title>
+    <ns>3000</ns>
+    <id>98</id>
+    <revision>
+      <id>310</id>
+      <timestamp>2025-06-26T13:57:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ == Postgres Datenbank erstellen ==  &lt;code&gt;sudo -u postgres -i  createdb -E UTF8 -O thorsten mediawiki  psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten    exit&lt;/code&gt;  == PHP installieren ==  &lt;code&gt;sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip php-intl -y&lt;/code&gt;  == Mediawiki installieren ==  &lt;code&gt;cd /var/www  sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawi…“</comment>
+      <origin>310</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1053" sha1="9rr1kowfgc8q675s6zxm7u74g8gg1n5" xml:space="preserve">
+== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten mediawiki
+ psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten
+ 
+ exit&lt;/code&gt;
+
+== PHP installieren ==
+ &lt;code&gt;sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip php-intl -y&lt;/code&gt;
+
+== Mediawiki installieren ==
+ &lt;code&gt;cd /var/www
+ sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawiki/core.git&lt;/nowiki&gt; mediawiki
+ sudo cd mediawiki
+ sudo git tag -l | sort -V
+ sudo git checkout 1.41.0
+ sudo git submodule update --init --recursive
+ sudo chown -R www-data:www-data /var/www/mediawiki
+ sudo chmod -R 755 /var/www/mediawiki&lt;/code&gt;
+ 
+Hochladen der Konfiguration
+ &lt;code&gt;sudo scp /home/thorsten/Downloads/LocalSettings.php thorsten@ahrensburg.city:/var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+== Lesbare URLs konfiguriern in mediawiki ==
+ &lt;code&gt;sudo nano /var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+ &lt;code&gt;$wgScriptPath = "";
+ $wgArticlePath = "/$1";
+ $wgUsePathInfo = true;&lt;/code&gt;</text>
+      <sha1>9rr1kowfgc8q675s6zxm7u74g8gg1n5</sha1>
+    </revision>
+    <revision>
+      <id>311</id>
+      <parentid>310</parentid>
+      <timestamp>2025-06-26T13:57:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>311</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="902" sha1="47d7hnbnfx04duap33fgobyglbkmcvl" xml:space="preserve">
+== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten mediawiki
+ psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten
+ 
+ exit&lt;/code&gt;
+
+
+== Mediawiki installieren ==
+ &lt;code&gt;cd /var/www
+ sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawiki/core.git&lt;/nowiki&gt; mediawiki
+ sudo cd mediawiki
+ sudo git tag -l | sort -V
+ sudo git checkout 1.41.0
+ sudo git submodule update --init --recursive
+ sudo chown -R www-data:www-data /var/www/mediawiki
+ sudo chmod -R 755 /var/www/mediawiki&lt;/code&gt;
+ 
+Hochladen der Konfiguration
+ &lt;code&gt;sudo scp /home/thorsten/Downloads/LocalSettings.php thorsten@ahrensburg.city:/var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+== Lesbare URLs konfiguriern in mediawiki ==
+ &lt;code&gt;sudo nano /var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+ &lt;code&gt;$wgScriptPath = "";
+ $wgArticlePath = "/$1";
+ $wgUsePathInfo = true;&lt;/code&gt;</text>
+      <sha1>47d7hnbnfx04duap33fgobyglbkmcvl</sha1>
     </revision>
   </page>
 </mediawiki>
