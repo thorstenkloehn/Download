@@ -32,6 +32,12 @@
       <namespace key="3005" case="first-letter">Ai Diskussion</namespace>
       <namespace key="3006" case="first-letter">Schwachstellen</namespace>
       <namespace key="3007" case="first-letter">Schwachstellen Diskussion</namespace>
+      <namespace key="3008" case="first-letter">IDE</namespace>
+      <namespace key="3009" case="first-letter">IDE Diskussion</namespace>
+      <namespace key="3010" case="first-letter">Builder</namespace>
+      <namespace key="3011" case="first-letter">Builder Diskussion</namespace>
+      <namespace key="3012" case="first-letter">Backup</namespace>
+      <namespace key="3013" case="first-letter">Backup Diskussion</namespace>
     </namespaces>
   </siteinfo>
   <page>
@@ -4236,6 +4242,28 @@ Unterseite: Familie &amp; Bildung:</text>
 * Gesundheit:
 * Familie &amp; Bildung:</text>
       <sha1>2f2ecbdd8owfmnbd2iiwk7n7xjdmull</sha1>
+    </revision>
+    <revision>
+      <id>314</id>
+      <parentid>294</parentid>
+      <timestamp>2025-06-26T18:18:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>314</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="209" sha1="5oiholzv9bjqpbn31xhu2pmv1fd6jys" xml:space="preserve">* [[Die Stadtteile im Porträt]]
+* [[Vereinsleben]]
+* [[Wochenmarkt]]
+* Gastronomie-Führer
+* Einkaufen in Ahrensburg
+* Kirchen und religiöse Gemeinschaften.
+* Seniorentreff
+* Gesundheit:
+* Familie &amp; Bildung:</text>
+      <sha1>5oiholzv9bjqpbn31xhu2pmv1fd6jys</sha1>
     </revision>
   </page>
   <page>
@@ -9683,6 +9711,27 @@ Zusammenfassend sucht ASP.NET Core eine View &lt;code&gt;MeineView&lt;/code&gt; 
 * [[Kurse:Razor Views]] - [[Kurse:Täglich Razor Views]]
 * [[Kurse:Layout Views]] - [[Kurse:Täglich Layout Views Übungen]]</text>
       <sha1>0zkg2dlc9yinqfiwjvrtwoaau9senzd</sha1>
+    </revision>
+    <revision>
+      <id>323</id>
+      <parentid>280</parentid>
+      <timestamp>2025-06-27T12:53:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>323</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="455" sha1="hcvbot7fesz375fc68a8n4iyd6e8lhi" xml:space="preserve">* [[Kurse:HTTP]] - [[Kurse:HTTP Code Übungen]]
+* [[Kurse:Middleware]] - [[Kurse:Tägich Middleware Übungen]]
+* [[Kurse:Routing]] - [[Kurse:Täglich Routing Übungen]]
+* [[Kurse:Controllers]] - [[Kurse:Täglich Controllers Übungen]]
+* [[Kurse:Model Binding]] - [[Kurse:Täglich Model Binding Übungen]]
+* [[Kurse:Razor Views]] - [[Kurse:Täglich Razor Views]]
+* [[Kurse:Layout Views]] - [[Kurse:Täglich Layout Views Übungen]]
+* [[Kurse:Partial Views]]</text>
+      <sha1>hcvbot7fesz375fc68a8n4iyd6e8lhi</sha1>
     </revision>
   </page>
   <page>
@@ -15365,6 +15414,372 @@ sudo mv composer.phar /usr/local/bin/composer
 &lt;/pre&gt;</text>
       <sha1>dyv1p3dlwgtrfwjtc0enzwttom7s52s</sha1>
     </revision>
+    <revision>
+      <id>315</id>
+      <parentid>295</parentid>
+      <timestamp>2025-06-26T20:39:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Composer Installieren */</comment>
+      <origin>315</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1624" sha1="5617k1bg1zjz95ayscu40cgruwltkp4" xml:space="preserve">== System aktualisieren und upgraden ==
+Um Ihr Ubuntu-System zu aktualisieren und zu upgraden, können Sie die folgenden Befehle verwenden:
+
+# '''System aktualisieren'''
+
+Der Befehl &lt;code&gt;sudo apt update&lt;/code&gt; wird verwendet, um die Paketlisten für Upgrades zu aktualisieren, die installiert werden müssen, sowie für neue Pakete, die installiert werden können.
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+&lt;/pre&gt;
+
+== Weitere Pakete installieren ==
+Mit folgendem Befehl installieren Sie alle benötigten Pakete:
+&lt;pre&gt;
+sudo apt install screen locate libapache2-mod-tile renderd git tar unzip wget bzip2 apache2 lua5.1 mapnik-utils python3-mapnik python3-psycopg2 python3-yaml gdal-bin postgresql postgresql-contrib postgis postgresql-16-postgis-3 postgresql-16-postgis-3-scripts osm2pgsql net-tools curl osmosis snapd nginx
+&lt;/pre&gt;
+
+== Node.js installieren ==
+Anleitung zur Installation von Node.js auf Ubuntu 24.04 LTS:
+&lt;pre&gt;
+sudo apt install curl
+curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+source ~/.bashrc
+nvm install 22
+&lt;/pre&gt;
+
+== .NET installieren ==
+&lt;pre&gt;
+sudo apt install -y dotnet-sdk-9.0 # Installation des .NET SDK
+&lt;/pre&gt;
+
+== Java installieren ==
+&lt;pre&gt;
+sudo apt update
+sudo apt install -y openjdk-21-jdk
+java -version
+&lt;/pre&gt;
+
+== Python installieren ==
+&lt;pre&gt;
+sudo apt install python3 python3-pip python3-venv python-is-python3
+&lt;/pre&gt;
+== PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;</text>
+      <sha1>5617k1bg1zjz95ayscu40cgruwltkp4</sha1>
+    </revision>
+    <revision>
+      <id>316</id>
+      <parentid>315</parentid>
+      <timestamp>2025-06-26T21:28:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Weitere Pakete installieren */</comment>
+      <origin>316</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1621" sha1="kflzvg8zh0rlxybav0vytbkx4cv5t57" xml:space="preserve">== System aktualisieren und upgraden ==
+Um Ihr Ubuntu-System zu aktualisieren und zu upgraden, können Sie die folgenden Befehle verwenden:
+
+# '''System aktualisieren'''
+
+Der Befehl &lt;code&gt;sudo apt update&lt;/code&gt; wird verwendet, um die Paketlisten für Upgrades zu aktualisieren, die installiert werden müssen, sowie für neue Pakete, die installiert werden können.
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+&lt;/pre&gt;
+
+== Weitere Pakete installieren ==
+Mit folgendem Befehl installieren Sie alle benötigten Pakete:
+&lt;pre&gt;
+sudo apt install screen locate libapache2-mod-tile renderd  tar unzip wget bzip2 apache2 lua5.1 mapnik-utils python3-mapnik python3-psycopg2 python3-yaml gdal-bin postgresql postgresql-contrib postgis postgresql-16-postgis-3 postgresql-16-postgis-3-scripts osm2pgsql net-tools curl osmosis snapd nginx
+&lt;/pre&gt;
+
+== Node.js installieren ==
+Anleitung zur Installation von Node.js auf Ubuntu 24.04 LTS:
+&lt;pre&gt;
+sudo apt install curl
+curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+source ~/.bashrc
+nvm install 22
+&lt;/pre&gt;
+
+== .NET installieren ==
+&lt;pre&gt;
+sudo apt install -y dotnet-sdk-9.0 # Installation des .NET SDK
+&lt;/pre&gt;
+
+== Java installieren ==
+&lt;pre&gt;
+sudo apt update
+sudo apt install -y openjdk-21-jdk
+java -version
+&lt;/pre&gt;
+
+== Python installieren ==
+&lt;pre&gt;
+sudo apt install python3 python3-pip python3-venv python-is-python3
+&lt;/pre&gt;
+== PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;</text>
+      <sha1>kflzvg8zh0rlxybav0vytbkx4cv5t57</sha1>
+    </revision>
+    <revision>
+      <id>317</id>
+      <parentid>316</parentid>
+      <timestamp>2025-06-26T21:31:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* .NET installieren */</comment>
+      <origin>317</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1597" sha1="k4gne0cmtqilqbbd42bzlrqhki9r10x" xml:space="preserve">== System aktualisieren und upgraden ==
+Um Ihr Ubuntu-System zu aktualisieren und zu upgraden, können Sie die folgenden Befehle verwenden:
+
+# '''System aktualisieren'''
+
+Der Befehl &lt;code&gt;sudo apt update&lt;/code&gt; wird verwendet, um die Paketlisten für Upgrades zu aktualisieren, die installiert werden müssen, sowie für neue Pakete, die installiert werden können.
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+&lt;/pre&gt;
+
+== Weitere Pakete installieren ==
+Mit folgendem Befehl installieren Sie alle benötigten Pakete:
+&lt;pre&gt;
+sudo apt install screen locate libapache2-mod-tile renderd  tar unzip wget bzip2 apache2 lua5.1 mapnik-utils python3-mapnik python3-psycopg2 python3-yaml gdal-bin postgresql postgresql-contrib postgis postgresql-16-postgis-3 postgresql-16-postgis-3-scripts osm2pgsql net-tools curl osmosis snapd nginx
+&lt;/pre&gt;
+
+== Node.js installieren ==
+Anleitung zur Installation von Node.js auf Ubuntu 24.04 LTS:
+&lt;pre&gt;
+sudo apt install curl
+curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+source ~/.bashrc
+nvm install 22
+&lt;/pre&gt;
+
+== .NET installieren ==
+&lt;pre&gt;
+sudo apt install -y dotnet-runtime-9.0
+&lt;/pre&gt;
+
+== Java installieren ==
+&lt;pre&gt;
+sudo apt update
+sudo apt install -y openjdk-21-jdk
+java -version
+&lt;/pre&gt;
+
+== Python installieren ==
+&lt;pre&gt;
+sudo apt install python3 python3-pip python3-venv python-is-python3
+&lt;/pre&gt;
+== PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;</text>
+      <sha1>k4gne0cmtqilqbbd42bzlrqhki9r10x</sha1>
+    </revision>
+    <revision>
+      <id>318</id>
+      <parentid>317</parentid>
+      <timestamp>2025-06-26T21:38:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Java installieren */</comment>
+      <origin>318</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1597" sha1="cwqq6isnpkqo4cna4gz3mocc3k3y7ev" xml:space="preserve">== System aktualisieren und upgraden ==
+Um Ihr Ubuntu-System zu aktualisieren und zu upgraden, können Sie die folgenden Befehle verwenden:
+
+# '''System aktualisieren'''
+
+Der Befehl &lt;code&gt;sudo apt update&lt;/code&gt; wird verwendet, um die Paketlisten für Upgrades zu aktualisieren, die installiert werden müssen, sowie für neue Pakete, die installiert werden können.
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+&lt;/pre&gt;
+
+== Weitere Pakete installieren ==
+Mit folgendem Befehl installieren Sie alle benötigten Pakete:
+&lt;pre&gt;
+sudo apt install screen locate libapache2-mod-tile renderd  tar unzip wget bzip2 apache2 lua5.1 mapnik-utils python3-mapnik python3-psycopg2 python3-yaml gdal-bin postgresql postgresql-contrib postgis postgresql-16-postgis-3 postgresql-16-postgis-3-scripts osm2pgsql net-tools curl osmosis snapd nginx
+&lt;/pre&gt;
+
+== Node.js installieren ==
+Anleitung zur Installation von Node.js auf Ubuntu 24.04 LTS:
+&lt;pre&gt;
+sudo apt install curl
+curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+source ~/.bashrc
+nvm install 22
+&lt;/pre&gt;
+
+== .NET installieren ==
+&lt;pre&gt;
+sudo apt install -y dotnet-runtime-9.0
+&lt;/pre&gt;
+
+== Java installieren ==
+&lt;pre&gt;
+sudo apt update
+sudo apt install -y openjdk-21-jre
+java -version
+&lt;/pre&gt;
+
+== Python installieren ==
+&lt;pre&gt;
+sudo apt install python3 python3-pip python3-venv python-is-python3
+&lt;/pre&gt;
+== PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;</text>
+      <sha1>cwqq6isnpkqo4cna4gz3mocc3k3y7ev</sha1>
+    </revision>
+    <revision>
+      <id>319</id>
+      <parentid>318</parentid>
+      <timestamp>2025-06-26T21:41:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* .NET installieren */</comment>
+      <origin>319</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1706" sha1="61rjxyvzh3po08uesza2vhe3yxs9uaz" xml:space="preserve">== System aktualisieren und upgraden ==
+Um Ihr Ubuntu-System zu aktualisieren und zu upgraden, können Sie die folgenden Befehle verwenden:
+
+# '''System aktualisieren'''
+
+Der Befehl &lt;code&gt;sudo apt update&lt;/code&gt; wird verwendet, um die Paketlisten für Upgrades zu aktualisieren, die installiert werden müssen, sowie für neue Pakete, die installiert werden können.
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+&lt;/pre&gt;
+
+== Weitere Pakete installieren ==
+Mit folgendem Befehl installieren Sie alle benötigten Pakete:
+&lt;pre&gt;
+sudo apt install screen locate libapache2-mod-tile renderd  tar unzip wget bzip2 apache2 lua5.1 mapnik-utils python3-mapnik python3-psycopg2 python3-yaml gdal-bin postgresql postgresql-contrib postgis postgresql-16-postgis-3 postgresql-16-postgis-3-scripts osm2pgsql net-tools curl osmosis snapd nginx
+&lt;/pre&gt;
+
+== Node.js installieren ==
+Anleitung zur Installation von Node.js auf Ubuntu 24.04 LTS:
+&lt;pre&gt;
+sudo apt install curl
+curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+source ~/.bashrc
+nvm install 22
+&lt;/pre&gt;
+
+== .NET installieren ==
+&lt;pre&gt;
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:dotnet/backports
+sudo apt-get update
+sudo apt install -y dotnet-runtime-9.0
+&lt;/pre&gt;
+
+== Java installieren ==
+&lt;pre&gt;
+sudo apt update
+sudo apt install -y openjdk-21-jre
+java -version
+&lt;/pre&gt;
+
+== Python installieren ==
+&lt;pre&gt;
+sudo apt install python3 python3-pip python3-venv python-is-python3
+&lt;/pre&gt;
+== PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;</text>
+      <sha1>61rjxyvzh3po08uesza2vhe3yxs9uaz</sha1>
+    </revision>
+    <revision>
+      <id>320</id>
+      <parentid>319</parentid>
+      <timestamp>2025-06-26T21:45:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* .NET installieren */</comment>
+      <origin>320</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1714" sha1="7whkxkkbhishx9a7tyjkj2r448sywvd" xml:space="preserve">== System aktualisieren und upgraden ==
+Um Ihr Ubuntu-System zu aktualisieren und zu upgraden, können Sie die folgenden Befehle verwenden:
+
+# '''System aktualisieren'''
+
+Der Befehl &lt;code&gt;sudo apt update&lt;/code&gt; wird verwendet, um die Paketlisten für Upgrades zu aktualisieren, die installiert werden müssen, sowie für neue Pakete, die installiert werden können.
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+&lt;/pre&gt;
+
+== Weitere Pakete installieren ==
+Mit folgendem Befehl installieren Sie alle benötigten Pakete:
+&lt;pre&gt;
+sudo apt install screen locate libapache2-mod-tile renderd  tar unzip wget bzip2 apache2 lua5.1 mapnik-utils python3-mapnik python3-psycopg2 python3-yaml gdal-bin postgresql postgresql-contrib postgis postgresql-16-postgis-3 postgresql-16-postgis-3-scripts osm2pgsql net-tools curl osmosis snapd nginx
+&lt;/pre&gt;
+
+== Node.js installieren ==
+Anleitung zur Installation von Node.js auf Ubuntu 24.04 LTS:
+&lt;pre&gt;
+sudo apt install curl
+curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+source ~/.bashrc
+nvm install 22
+&lt;/pre&gt;
+
+== .NET installieren ==
+&lt;pre&gt;
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:dotnet/backports
+sudo apt-get update
+sudo apt-get install -y aspnetcore-runtime-9.0
+&lt;/pre&gt;
+
+== Java installieren ==
+&lt;pre&gt;
+sudo apt update
+sudo apt install -y openjdk-21-jre
+java -version
+&lt;/pre&gt;
+
+== Python installieren ==
+&lt;pre&gt;
+sudo apt install python3 python3-pip python3-venv python-is-python3
+&lt;/pre&gt;
+== PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;</text>
+      <sha1>7whkxkkbhishx9a7tyjkj2r448sywvd</sha1>
+    </revision>
   </page>
   <page>
     <title>Ubuntu Software Pakete Installieren</title>
@@ -16167,6 +16582,283 @@ Hochladen der Konfiguration
  $wgArticlePath = "/$1";
  $wgUsePathInfo = true;&lt;/code&gt;</text>
       <sha1>47d7hnbnfx04duap33fgobyglbkmcvl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Vereinsleben</title>
+    <ns>0</ns>
+    <id>99</id>
+    <revision>
+      <id>312</id>
+      <timestamp>2025-06-26T18:14:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>312</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1914" sha1="rwiogq40jzu6cmulxpa25c50u9u57gz" xml:space="preserve">Das Vereinsleben in Ahrensburg bietet zahlreiche Möglichkeiten, sich zu treffen und gemeinsam die Freizeit zu gestalten. In Ahrensburg gibt es verschiedene Vereine, darunter Sportvereine, Kulturvereine sowie Gemeinschafts- und Ehrenamtsvereine.
+
+==Sportvereine==
+* Ahrensburger TSV von 1874 e.V. – Der größte Sportverein im Kreis Stormarn mit etwa 4.000 Mitgliedern. Er bietet 25 Abteilungen, darunter Turnen, Fußball, Handball, Schwimmen, Tennis, Tischtennis, Volleyball, Tanz und einen Spielmannszug. Außerdem gibt es Angebote für ehrenamtliches Engagement, Jugendfreizeiten, Boxen und vieles mehr.
+* SSC Hagen Ahrensburg (gegründet 1947) – Rund 1.800 Mitglieder in neun Abteilungen: Fußball (Herren, Damen), Tennis, Schwimmen, Tischtennis, Leichtathletik, Tanz, Turnen und Volleyball. Zu den aktuellen Erfolgen zählen unter anderem Kreisliga-Fußball und Pokalgewinne.
+
+==Kultur, Gemeinschaft &amp; Ehrenamt==
+* Ahrensburger Bürgerverein von 1874 e.V. – Pflege historischer Bauten wie der Bagatelle, aktives Engagement für das Stadtbild und die Kultur.
+* Theater und Musik in Ahrensburg e.V. – Organisiert seit über 60 Jahren Theater- und Konzertveranstaltungen auf hohem Niveau – vom Alfred-Rust-Saal bis zum Eduard-Söring-Saal.
+* Niederdeutsche Bühne Ahrensburg (Stormarner Speeldeel e.V.) – Widmet sich dem plattdeutschen Theater mit Aufführungen im lokalen Dialekt.
+* Deutsches Rotes Kreuz Ahrensburg (DRK OV) – Ehrenamtlich aktiv in Erste Hilfe, sozialen Diensten, Jugendrotkreuz, Wohlfahrts- und Flüchtlingshilfe.
+* AWO Ortsverein Ahrensburg / Peter-Rantzau-Haus  
+    Bietet Integrations- und Begegnungsprojekte, einen Buchladen, Haustierhilfe und diverse Freiwilligendienste. Im Peter-Rantzau-Haus sind Ehrenamtliche in vielen Bereichen engagiert.
+* Hospiz Ahrensburg e.V. – Ausbildung und Einsatz als Sterbe- oder Trauerbegleiter*in. Qualifizierte Schulungsangebote ab 2025.</text>
+      <sha1>rwiogq40jzu6cmulxpa25c50u9u57gz</sha1>
+    </revision>
+    <revision>
+      <id>313</id>
+      <parentid>312</parentid>
+      <timestamp>2025-06-26T18:15:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>313</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1910" sha1="mr1uekgo12vbhwhs8615ugpgkmpdy80" xml:space="preserve">Das Vereinsleben in Ahrensburg bietet zahlreiche Möglichkeiten, sich zu treffen und gemeinsam die Freizeit zu gestalten. In Ahrensburg gibt es verschiedene Vereine, darunter Sportvereine, Kulturvereine sowie Gemeinschafts- und Ehrenamtsvereine.
+
+==Sportvereine==
+* Ahrensburger TSV von 1874 e.V. – Der größte Sportverein im Kreis Stormarn mit etwa 4.000 Mitgliedern. Er bietet 25 Abteilungen, darunter Turnen, Fußball, Handball, Schwimmen, Tennis, Tischtennis, Volleyball, Tanz und einen Spielmannszug. Außerdem gibt es Angebote für ehrenamtliches Engagement, Jugendfreizeiten, Boxen und vieles mehr.
+* SSC Hagen Ahrensburg (gegründet 1947) – Rund 1.800 Mitglieder in neun Abteilungen: Fußball (Herren, Damen), Tennis, Schwimmen, Tischtennis, Leichtathletik, Tanz, Turnen und Volleyball. Zu den aktuellen Erfolgen zählen unter anderem Kreisliga-Fußball und Pokalgewinne.
+
+==Kultur, Gemeinschaft &amp; Ehrenamt==
+* Ahrensburger Bürgerverein von 1874 e.V. – Pflege historischer Bauten wie der Bagatelle, aktives Engagement für das Stadtbild und die Kultur.
+* Theater und Musik in Ahrensburg e.V. – Organisiert seit über 60 Jahren Theater- und Konzertveranstaltungen auf hohem Niveau – vom Alfred-Rust-Saal bis zum Eduard-Söring-Saal.
+* Niederdeutsche Bühne Ahrensburg (Stormarner Speeldeel e.V.) – Widmet sich dem plattdeutschen Theater mit Aufführungen im lokalen Dialekt.
+* Deutsches Rotes Kreuz Ahrensburg (DRK OV) – Ehrenamtlich aktiv in Erste Hilfe, sozialen Diensten, Jugendrotkreuz, Wohlfahrts- und Flüchtlingshilfe.
+* AWO Ortsverein Ahrensburg / Peter-Rantzau-Haus   Bietet Integrations- und Begegnungsprojekte, einen Buchladen, Haustierhilfe und diverse Freiwilligendienste. Im Peter-Rantzau-Haus sind Ehrenamtliche in vielen Bereichen engagiert.
+* Hospiz Ahrensburg e.V. – Ausbildung und Einsatz als Sterbe- oder Trauerbegleiter*in. Qualifizierte Schulungsangebote ab 2025.</text>
+      <sha1>mr1uekgo12vbhwhs8615ugpgkmpdy80</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Builder:Hauptseite</title>
+    <ns>3010</ns>
+    <id>100</id>
+    <revision>
+      <id>321</id>
+      <timestamp>2025-06-26T22:12:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Builder== &lt;pre&gt;  rsync -avz /quelle/ user@server:/ziel/“</comment>
+      <origin>321</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="57" sha1="sgzjojsy4ephtkdo0vjp7n0fd2xto2o" xml:space="preserve">==Builder==
+&lt;pre&gt;
+
+rsync -avz /quelle/ user@server:/ziel/</text>
+      <sha1>sgzjojsy4ephtkdo0vjp7n0fd2xto2o</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Backup:Hautptseite</title>
+    <ns>3012</ns>
+    <id>101</id>
+    <revision>
+      <id>322</id>
+      <timestamp>2025-06-27T06:18:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Beispiel Site==“</comment>
+      <origin>322</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="17" sha1="n2vzddr1ggrq8hrpxh4zrtqe5pjgpmm" xml:space="preserve">==Beispiel Site==</text>
+      <sha1>n2vzddr1ggrq8hrpxh4zrtqe5pjgpmm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Partial Views</title>
+    <ns>3002</ns>
+    <id>102</id>
+    <revision>
+      <id>324</id>
+      <timestamp>2025-06-27T12:53:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „= Partial Views in ASP.NET Core MVC – Spickzettel =  == 🧩 Was ist eine Partial View? == Eine '''Partial View''' ist ein wiederverwendbares Razor-Markup-Fragment (.cshtml), das in andere Views eingebettet werden kann. Sie dient der Strukturierung und Wiederverwendung von UI-Komponenten (z. B. Listen, Formulare, Widgets).  == ✅ Vorteile == * '''Wiederverwendbarkeit''': Einmal erstellt, mehrfach einsetzbar * '''Modularität''': Zerlegung großer Vie…“</comment>
+      <origin>324</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4487" sha1="gmdjj6w77354mn1jfrgrv7hnj6ewgfh" xml:space="preserve">= Partial Views in ASP.NET Core MVC – Spickzettel =
+
+== 🧩 Was ist eine Partial View? ==
+Eine '''Partial View''' ist ein wiederverwendbares Razor-Markup-Fragment (.cshtml), das in andere Views eingebettet werden kann.
+Sie dient der Strukturierung und Wiederverwendung von UI-Komponenten (z. B. Listen, Formulare, Widgets).
+
+== ✅ Vorteile ==
+* '''Wiederverwendbarkeit''': Einmal erstellt, mehrfach einsetzbar
+* '''Modularität''': Zerlegung großer Views in kleine Bestandteile
+* '''Dynamik''': Daten können flexibel übergeben werden
+
+== 🛠️ Verwendung ==
+
+=== 🔸 Speicherort &amp; Namenskonvention ===
+* Normalerweise im Ordner: &lt;code&gt;Views/Shared/&lt;/code&gt; oder im selben Ordner wie die aufrufende View
+* Namenskonvention: &lt;code&gt;_ListPartialView.cshtml&lt;/code&gt; (Unterstrich als Erkennungszeichen)
+
+=== 🔸 Rendern ===
+&lt;pre&gt;
+&lt;!-- Tag Helper --&gt;
+&lt;partial name="_ListPartialView" /&gt;
+&lt;partial name="_ListPartialView" model="yourModel" /&gt;
+
+&lt;!-- HTML Helper --&gt;
+@await Html.PartialAsync("_ListPartialView")
+@await Html.PartialAsync("_ListPartialView", yourModel)
+&lt;/pre&gt;
+
+== 📄 Beispiel 1: Mit ViewBag / ViewData ==
+
+=== _ListPartialView.cshtml ===
+&lt;source lang="razor"&gt;
+&lt;div class="list-container"&gt;
+    &lt;h3&gt;@ViewBag.ListTitle&lt;/h3&gt;
+    &lt;ul class="list"&gt;
+    @foreach (string item in ViewBag.ListItems)
+    {
+        &lt;li&gt;@item&lt;/li&gt;
+    }
+    &lt;/ul&gt;
+&lt;/div&gt;
+&lt;/source&gt;
+
+=== Index.cshtml ===
+&lt;source lang="razor"&gt;
+&lt;h1&gt;Home&lt;/h1&gt;
+
+&lt;partial name="_ListPartialView" /&gt;
+
+@{
+    var myViewData = new ViewDataDictionary(ViewData);
+    myViewData["ListTitle"] = "Länder";
+    myViewData["ListItems"] = new List&lt;string&gt; { "USA", "Kanada", "Japan", "Deutschland", "Indien" };
+}
+
+&lt;div class="box"&gt;
+    &lt;partial name="_ListPartialView" view-data="myViewData" /&gt;
+&lt;/div&gt;
+&lt;/source&gt;
+
+== 📄 Beispiel 2: Stark typisierte Partial View (empfohlen) ==
+
+=== ListModel.cs ===
+&lt;source lang="csharp"&gt;
+public class ListModel
+{
+    public string ListTitle { get; set; }
+    public List&lt;string&gt; ListItems { get; set; }
+}
+&lt;/source&gt;
+
+=== _ListPartialView.cshtml ===
+&lt;source lang="razor"&gt;
+@model ListModel
+
+&lt;div class="list-container"&gt;
+    &lt;h3&gt;@Model.ListTitle&lt;/h3&gt;
+    &lt;ul class="list"&gt;
+    @foreach (var item in Model.ListItems)
+    {
+        &lt;li&gt;@item&lt;/li&gt;
+    }
+    &lt;/ul&gt;
+&lt;/div&gt;
+&lt;/source&gt;
+
+=== Index.cshtml ===
+&lt;source lang="razor"&gt;
+@using YourNamespace.Models
+
+@{
+    var listModel = new ListModel {
+        ListTitle = "Länder",
+        ListItems = new List&lt;string&gt; { "USA", "Kanada", "Japan", "Deutschland", "Indien" }
+    };
+}
+&lt;partial name="_ListPartialView" model="listModel" /&gt;
+&lt;/source&gt;
+
+== 📄 Beispiel 3: PartialViewResult mit AJAX ==
+
+=== HomeController.cs ===
+&lt;source lang="csharp"&gt;
+[Route("programming-languages")]
+public IActionResult ProgrammingLanguages()
+{
+    var listModel = new ListModel
+    {
+        ListTitle = "Programmiersprachen",
+        ListItems = new List&lt;string&gt; { "Python", "C#", "Go" }
+    };
+    return PartialView("_ListPartialView", listModel);
+}
+&lt;/source&gt;
+
+=== Index.cshtml (AJAX Beispiel) ===
+&lt;source lang="html"&gt;
+&lt;button id="button-load"&gt;Lade Programmiersprachen&lt;/button&gt;
+&lt;div class="programming-languages-content"&gt;&lt;/div&gt;
+
+&lt;script&gt;
+document.querySelector("#button-load").addEventListener("click", async () =&gt; {
+    const response = await fetch("programming-languages");
+    const html = await response.text();
+    document.querySelector(".programming-languages-content").innerHTML = html;
+});
+&lt;/script&gt;
+&lt;/source&gt;
+
+== 🧠 Zusammenfassung ==
+
+=== 🔹 Partial Views ===
+* Zweck: Wiederverwendbare Razor-Fragmente (z. B. für Listen, Formulare)
+* Konvention: &lt;code&gt;_PartialName.cshtml&lt;/code&gt;
+* Speicherort: &lt;code&gt;Views/Shared&lt;/code&gt; oder lokaler Ordner
+* Rendern:
+  * &lt;code&gt;&lt;partial name="..." /&gt;&lt;/code&gt;
+  * &lt;code&gt;@await Html.PartialAsync(...)&lt;/code&gt;
+
+=== 🔹 ViewData / ViewBag ===
+* Übergabe von Daten aus Controller oder Parent View
+* In Partial View per &lt;code&gt;@ViewData["key"]&lt;/code&gt; oder &lt;code&gt;@ViewBag.Key&lt;/code&gt;
+
+=== 🔹 Starke Typisierung ===
+* Mit &lt;code&gt;@model YourNamespace.YourModel&lt;/code&gt;
+* Zugriff auf &lt;code&gt;@Model.Property&lt;/code&gt;
+* Vorteil: IntelliSense, Typprüfung, weniger Fehler
+
+=== 🔹 PartialViewResult ===
+* Rückgabe einer Partial View aus Controller
+* Einsatz für AJAX-Szenarien:
+  &lt;source lang="csharp"&gt;
+  return PartialView("_PartialName", model);
+  &lt;/source&gt;
+
+=== 🔹 Best Practices ===
+* Verwende ViewModels für saubere Trennung
+* Nutze starke Typisierung wo möglich
+* Vermeide Logik in Views
+* Caching bedenken für statische Inhalte</text>
+      <sha1>gmdjj6w77354mn1jfrgrv7hnj6ewgfh</sha1>
     </revision>
   </page>
 </mediawiki>
