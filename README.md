@@ -9,12 +9,15 @@ Für die Ausführung der Datei sind folgende Komponenten erforderlich:
 
 Installationsanleitung: (Hinweis: Installationsanleitung fehlt im Originaltext)
 
-## wiki.ahrensburg.city
+## Auf Entwicklungsserver installieren
 
-Dieses Wiki dient dazu, Meta-Projekte zu sammeln und zu beschreiben.
+**Hinweis:** Die folgenden Schritte gelten ausschließlich für Entwicklungsserver und sollten nicht auf Produktivsystemen verwendet werden.
 
-Zur Installation von MediaWiki 1.43 sind die folgenden Befehle auszuführen:
-
+1. Voraussetzungen prüfen und sicherstellen, dass alle benötigten Komponenten installiert sind (z.B. PHP, Webserver, Datenbank).
+2. Repository klonen und MediaWiki installieren (siehe Befehle unten).
+3. Konfiguration und Anpassungen können auf dem Entwicklungsserver getestet werden, bevor Änderungen in eine Produktionsumgebung übernommen werden.
+4. Sicherheitsaspekte wie Benutzerrechte und Zugangsbeschränkungen beachten, da Entwicklungsserver nicht für den produktiven Einsatz gedacht sind.
+```
 `cd /var/www`    
 `sudo git clone https://gerrit.wikimedia.org/r/mediawiki/core.git /var/www/mediawiki`    
 `cd mediawiki`    
@@ -23,46 +26,70 @@ Zur Installation von MediaWiki 1.43 sind die folgenden Befehle auszuführen:
 `sudo git submodule update \--init \--recursive`    
 `sudo chown \-R www-data:www-data /var/www/mediawiki`    
 `sudo chmod \-R 755 /var/www/mediawiki`
+```
 
-## 
+==LocalSettings==
 
-## alterwiki.ahrensburg.city
+```
+define("NS_SCHWACHSTELLEN", 3006);
+define("NS_SCHWACHSTELLEN_TALK", 3007);
+$wgExtraNamespaces[NS_SCHWACHSTELLEN] = "Schwachstellen";
+$wgExtraNamespaces[NS_SCHWACHSTELLEN_TALK] = "Schwachstellen Diskussion";
+$wgNamespacesWithSubpages[NS_SCHWACHSTELLEN] = true;
 
-Dieses Archiv enthält eine Sammlung alter Projekte und damit verbundenen Altlasten.
+// VisualEditor für Schwachstellen-Namensraum aktivieren
+$wgVisualEditorAvailableNamespaces[NS_SCHWACHSTELLEN] = true;
+$wgVisualEditorAvailableNamespaces[NS_SCHWACHSTELLEN_TALK] = true;
+// Server-Namensraum
+define("NS_SERVER", 3000);
+define("NS_SERVER_TALK", 3001);
+$wgExtraNamespaces[NS_SERVER] = "Server";
+$wgExtraNamespaces[NS_SERVER_TALK] = "Server Diskussion";
+$wgNamespacesWithSubpages[NS_SERVER] = true;
 
-`cd /var/www`    
-`sudo git clone https://gerrit.wikimedia.org/r/mediawiki/core.git /var/www/alterwiki`   
-`cd alterwiki`    
-`sudo git tag \-l | sort \-V`    
-`sudo git checkout 1.43.1`    
-`sudo git submodule update \--init \--recursive`    
-`sudo chown \-R www-data:www-data /var/www/alterwiki`    
-`sudo chmod \-R 755 /var/www/alterwiki`  
-`cd /var/www/alterwiki`  
-`sudo COMPOSER=composer.local.json composer require --no-update mediawiki/semantic-media-wiki`  
-`sudo composer update --no-dev`  
-`COMPOSER=composer.local.json composer require --no-update mediawiki/maps`  
-`composer update mediawiki/maps --no-dev -o`  
-`php maintenance/update.php`
+// Kurse-Namensraum
+define("NS_KURSE", 3002);
+define("NS_KURSE_TALK", 3003);
+$wgExtraNamespaces[NS_KURSE] = "Kurse";
+$wgExtraNamespaces[NS_KURSE_TALK] = "Kurse Diskussion";
+$wgNamespacesWithSubpages[NS_KURSE] = true;
 
-## stadtwiki.ahrensburg.city
 
-Alle Informationen zum Thema Ahrensburg.
+// AI-Namensraum
+define("NS_AI", 3004);
+define("NS_AI_TALK", 3005);
+$wgExtraNamespaces[NS_AI] = "Ai";
+$wgExtraNamespaces[NS_AI_TALK] = "Ai Diskussion";
+$wgNamespacesWithSubpages[NS_AI] = true;
 
-`cd /var/www`    
-`sudo git clone https://gerrit.wikimedia.org/r/mediawiki/core.git /var/www/stadtwiki`   
-`cd   stadtwiki`  
-`sudo git tag \-l | sort \-V`    
-`sudo git checkout 1.43.1`    
-`sudo git submodule update \--init \--recursive`    
-`sudo chown \-R www-data:www-data /var/www/stadtwiki`  
-`sudo chmod \-R 755 /var/www/stadtwiki`  
-`cd /var/www/stadtwiki`  
-`sudo COMPOSER=composer.local.json composer require --no-update mediawiki/semantic-media-wiki`  
-`sudo composer update --no-dev`  
-`COMPOSER=composer.local.json composer require --no-update mediawiki/maps`  
-`composer update mediawiki/maps --no-dev -o`  
-`php maintenance/update.php`
+// VisualEditor für die neuen Namensräume aktivieren
+$wgVisualEditorAvailableNamespaces[NS_SERVER] = true;
+$wgVisualEditorAvailableNamespaces[NS_SERVER_TALK] = true;
+$wgVisualEditorAvailableNamespaces[NS_KURSE] = true;
+$wgVisualEditorAvailableNamespaces[NS_KURSE_TALK] = true;
+$wgVisualEditorAvailableNamespaces[NS_AI] = true;
+$wgVisualEditorAvailableNamespaces[NS_AI_TALK] = true;
 
-ahrensburg.city  
-Ahrensburg  Portal
+define("NS_IDE", 3008);
+define("NS_IDE_TALK", 3009);
+$wgExtraNamespaces[NS_IDE] = "IDE";
+$wgExtraNamespaces[NS_IDE_TALK] = "IDE Diskussion";
+$wgNamespacesWithSubpages[NS_IDE] = true;
+$wgVisualEditorAvailableNamespaces[NS_IDE] = true;
+$wgVisualEditorAvailableNamespaces[NS_IDE_TALK] = true;
+define("NS_BUILDER", 3010);
+define("NS_BUILDER_TALK", 3011);
+
+$wgExtraNamespaces[NS_BUILDER] = "Builder";
+$wgExtraNamespaces[NS_BUILDER_TALK] = "Builder_Diskussion";
+$wgVisualEditorAvailableNamespaces[] = NS_BUILDER;
+define("NS_BACKUP", 3012);
+define("NS_BACKUP_TALK", 3013);
+
+$wgExtraNamespaces[NS_BACKUP] = "Backup";
+$wgExtraNamespaces[NS_BACKUP_TALK] = "Backup_Diskussion";
+$wgVisualEditorAvailableNamespaces[] = NS_BACKUP;
+
+
+
+
