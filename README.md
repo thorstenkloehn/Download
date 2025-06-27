@@ -90,6 +90,6 @@ $wgExtraNamespaces[NS_BACKUP] = "Backup";
 $wgExtraNamespaces[NS_BACKUP_TALK] = "Backup_Diskussion";
 $wgVisualEditorAvailableNamespaces[] = NS_BACKUP;
 
-
+```
 
 
