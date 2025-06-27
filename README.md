@@ -28,9 +28,22 @@ Installationsanleitung: (Hinweis: Installationsanleitung fehlt im Originaltext)
 `sudo chmod \-R 755 /var/www/mediawiki`
 ```
 
-==LocalSettings==
+## LocalSettings
 
 ```
+wfLoadExtension( 'VisualEditor' );
+# Cookie-Warnung aktivieren
+wfLoadExtension( 'CookieWarning' );
+wfLoadExtension( 'SyntaxHighlight_GeSHi' );
+$wgCookieWarningEnabled=true;
+$wgCookieWarningMoreUrl='';
+$wgCookieWarningGeoIPServiceURL='';
+$wgCookieWarningGeoIPLookup='none';
+$wgCookieWarningForCountryCodes="EU";
+
+
+
+
 define("NS_SCHWACHSTELLEN", 3006);
 define("NS_SCHWACHSTELLEN_TALK", 3007);
 $wgExtraNamespaces[NS_SCHWACHSTELLEN] = "Schwachstellen";
