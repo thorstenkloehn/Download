@@ -27383,6 +27383,361 @@ git push
 &lt;/pre&gt;</text>
       <sha1>ad3p6avihnb3qc7az976x11m6oz51dd</sha1>
     </revision>
+    <revision>
+      <id>662</id>
+      <parentid>661</parentid>
+      <timestamp>2025-07-13T21:08:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Beispiel Site */</comment>
+      <origin>662</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3320" sha1="kwvqjayf3ls5n3iatru5nkhvrqua1ky" xml:space="preserve">==SSH Key Schlüssel Anlegen==
+&lt;pre&gt;
+# Erstellt einen neuen SSH-Schlüssel (falls noch nicht vorhanden)
+ssh-keygen -t rsa -b 4096
+
+# Kopiert den öffentlichen Schlüssel auf den Zielserver
+# Ersetzen Sie 'benutzer' und 'hostname' durch die entsprechenden Werte
+ssh-copy-id benutzer@hostname
+
+# Falls der SSH-Server einen anderen Port als 22 verwendet
+# ssh-copy-id -p &lt;port&gt; benutzer@hostname
+
+=== Vorteile ===
+* '''Sicherheit:''' Deutlich sicherer als passwortbasierte Authentifizierung. SSH-Schlüssel sind wesentlich komplexer und widerstandsfähiger gegen Brute-Force-Angriffe.
+* '''Bequemlichkeit:''' Ermöglicht passwortloses Anmelden, was die Automatisierung von Aufgaben (z.B. Backups mit rsync, wie im unteren Beispiel) erheblich vereinfacht.
+
+=== Nachteile ===
+* '''Schlüsselverwaltung:''' Der private Schlüssel muss absolut sicher aufbewahrt werden. Bei Diebstahl erhält ein Angreifer Zugriff auf alle Systeme, auf denen der öffentliche Schlüssel hinterlegt ist.
+* '''Einmaliger Einrichtungsaufwand:''' Die Ersteinrichtung ist etwas aufwändiger als die reine Verwendung eines Passworts.
+* '''Verlust des Schlüssels:''' Bei Verlust des privaten Schlüssels (ohne Backup) geht der Zugriff verloren und muss über einen anderen Weg wiederhergestellt werden.
+=== Was tun, wenn der Zugriff nicht mehr möglich ist? ===
+Wenn Sie einen neuen Rechner einrichten oder den Zugriff über Ihren bisherigen Schlüssel verloren haben, gibt es mehrere Möglichkeiten:
+
+* '''Privaten Schlüssel vom alten Rechner kopieren:'''
+** Der sicherste und einfachste Weg ist, Ihren privaten Schlüssel (z.B. `~/.ssh/id_rsa`) von Ihrem alten auf Ihren neuen Rechner zu kopieren.
+** Stellen Sie sicher, dass die Datei auf dem neuen System die richtigen Berechtigungen hat (`chmod 600 ~/.ssh/id_rsa`), damit sie von SSH akzeptiert wird.
+
+* '''Neuen Schlüssel generieren und hinzufügen:'''
+** Erstellen Sie auf Ihrem neuen Rechner ein neues Schlüsselpaar (wie oben beschrieben mit `ssh-keygen`).
+** Sie müssen den neuen '''öffentlichen''' Schlüssel (`~/.ssh/id_rsa.pub`) zum Server hinzufügen. Dafür benötigen Sie vorübergehend eine andere Zugriffsmöglichkeit auf den Server (z.B. Passwort-Login, Zugriff über einen anderen Rechner oder eine Konsole Ihres Hosters), um den Inhalt der `.pub`-Datei in die `~/.ssh/authorized_keys`-Datei auf dem Server einzufügen.
+
+* '''Zugriff über den Hoster wiederherstellen:'''
+** Wenn keine der oben genannten Methoden möglich ist, müssen Sie sich an Ihren Server-Hoster wenden. Dieser kann Ihnen in der Regel über ein Web-Interface (Rescue-System, VNC/KVM-Konsole) Zugriff gewähren, sodass Sie einen neuen öffentlichen Schlüssel hinterlegen können.
+
+
+&lt;/pre&gt;
+
+==Beispiel Site==
+&lt;pre&gt;
+
+rsync -avz --delete \
+  --exclude 'LocalSettings.php' \
+  --exclude '.git/' \
+  --exclude '.gitignore' \
+  --exclude 'images/' \
+  --exclude 'cache/' \
+  /var/www/mediawiki \
+  user@prod:/var/www/mediawiki/
+&lt;/pre&gt;
+
+==Backup erstellen==
+&lt;pre&gt;
+cd /home/thorsten
+gh repo clone thorstenkloehn/Download
+sudo chmod 777 -R Download
+cd /home/thorsten/Download
+sudo rm /home/thorsten/Download/pagedump.xml
+ssh root@ahrensburg.city "php /var/www/mediawiki/mediawiki/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/pagedump.xml
+git add pagedump.xml
+git commit -m "Backup"
+git push
+&lt;/pre&gt;</text>
+      <sha1>kwvqjayf3ls5n3iatru5nkhvrqua1ky</sha1>
+    </revision>
+    <revision>
+      <id>663</id>
+      <parentid>662</parentid>
+      <timestamp>2025-07-13T21:19:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Backup erstellen */</comment>
+      <origin>663</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5538" sha1="j0c8vlf74jtlrua5eoj6mdd7riphmj1" xml:space="preserve">==SSH Key Schlüssel Anlegen==
+&lt;pre&gt;
+# Erstellt einen neuen SSH-Schlüssel (falls noch nicht vorhanden)
+ssh-keygen -t rsa -b 4096
+
+# Kopiert den öffentlichen Schlüssel auf den Zielserver
+# Ersetzen Sie 'benutzer' und 'hostname' durch die entsprechenden Werte
+ssh-copy-id benutzer@hostname
+
+# Falls der SSH-Server einen anderen Port als 22 verwendet
+# ssh-copy-id -p &lt;port&gt; benutzer@hostname
+
+=== Vorteile ===
+* '''Sicherheit:''' Deutlich sicherer als passwortbasierte Authentifizierung. SSH-Schlüssel sind wesentlich komplexer und widerstandsfähiger gegen Brute-Force-Angriffe.
+* '''Bequemlichkeit:''' Ermöglicht passwortloses Anmelden, was die Automatisierung von Aufgaben (z.B. Backups mit rsync, wie im unteren Beispiel) erheblich vereinfacht.
+
+=== Nachteile ===
+* '''Schlüsselverwaltung:''' Der private Schlüssel muss absolut sicher aufbewahrt werden. Bei Diebstahl erhält ein Angreifer Zugriff auf alle Systeme, auf denen der öffentliche Schlüssel hinterlegt ist.
+* '''Einmaliger Einrichtungsaufwand:''' Die Ersteinrichtung ist etwas aufwändiger als die reine Verwendung eines Passworts.
+* '''Verlust des Schlüssels:''' Bei Verlust des privaten Schlüssels (ohne Backup) geht der Zugriff verloren und muss über einen anderen Weg wiederhergestellt werden.
+=== Was tun, wenn der Zugriff nicht mehr möglich ist? ===
+Wenn Sie einen neuen Rechner einrichten oder den Zugriff über Ihren bisherigen Schlüssel verloren haben, gibt es mehrere Möglichkeiten:
+
+* '''Privaten Schlüssel vom alten Rechner kopieren:'''
+** Der sicherste und einfachste Weg ist, Ihren privaten Schlüssel (z.B. `~/.ssh/id_rsa`) von Ihrem alten auf Ihren neuen Rechner zu kopieren.
+** Stellen Sie sicher, dass die Datei auf dem neuen System die richtigen Berechtigungen hat (`chmod 600 ~/.ssh/id_rsa`), damit sie von SSH akzeptiert wird.
+
+* '''Neuen Schlüssel generieren und hinzufügen:'''
+** Erstellen Sie auf Ihrem neuen Rechner ein neues Schlüsselpaar (wie oben beschrieben mit `ssh-keygen`).
+** Sie müssen den neuen '''öffentlichen''' Schlüssel (`~/.ssh/id_rsa.pub`) zum Server hinzufügen. Dafür benötigen Sie vorübergehend eine andere Zugriffsmöglichkeit auf den Server (z.B. Passwort-Login, Zugriff über einen anderen Rechner oder eine Konsole Ihres Hosters), um den Inhalt der `.pub`-Datei in die `~/.ssh/authorized_keys`-Datei auf dem Server einzufügen.
+
+* '''Zugriff über den Hoster wiederherstellen:'''
+** Wenn keine der oben genannten Methoden möglich ist, müssen Sie sich an Ihren Server-Hoster wenden. Dieser kann Ihnen in der Regel über ein Web-Interface (Rescue-System, VNC/KVM-Konsole) Zugriff gewähren, sodass Sie einen neuen öffentlichen Schlüssel hinterlegen können.
+
+
+&lt;/pre&gt;
+
+==Beispiel Site==
+&lt;pre&gt;
+
+rsync -avz --delete \
+  --exclude 'LocalSettings.php' \
+  --exclude '.git/' \
+  --exclude '.gitignore' \
+  --exclude 'images/' \
+  --exclude 'cache/' \
+  /var/www/mediawiki \
+  user@prod:/var/www/mediawiki/
+&lt;/pre&gt;
+
+==Backup erstellen==
+&lt;pre&gt;
+cd /home/thorsten
+gh repo clone thorstenkloehn/Download
+sudo chmod 777 -R Download
+cd /home/thorsten/Download
+sudo rm /home/thorsten/Download/pagedump.xml
+ssh root@ahrensburg.city "php /var/www/mediawiki/mediawiki/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/pagedump.xml
+git add pagedump.xml
+git commit -m "Backup"
+git push
+&lt;/pre&gt;
+
+==Wiedererstellung==
+pre&gt;
+
+
+define("NS_SCHWACHSTELLEN", 3006);
+define("NS_SCHWACHSTELLEN_TALK", 3007);
+$wgExtraNamespaces[NS_SCHWACHSTELLEN] = "Schwachstellen";
+$wgExtraNamespaces[NS_SCHWACHSTELLEN_TALK] = "Schwachstellen Diskussion";
+$wgNamespacesWithSubpages[NS_SCHWACHSTELLEN] = true;
+
+// VisualEditor für Schwachstellen-Namensraum aktivieren
+$wgVisualEditorAvailableNamespaces[NS_SCHWACHSTELLEN] = true;
+$wgVisualEditorAvailableNamespaces[NS_SCHWACHSTELLEN_TALK] = true;
+// Server-Namensraum
+define("NS_SERVER", 3000);
+define("NS_SERVER_TALK", 3001);
+$wgExtraNamespaces[NS_SERVER] = "Server";
+$wgExtraNamespaces[NS_SERVER_TALK] = "Server Diskussion";
+$wgNamespacesWithSubpages[NS_SERVER] = true;
+
+// Kurse-Namensraum
+define("NS_KURSE", 3002);
+define("NS_KURSE_TALK", 3003);
+$wgExtraNamespaces[NS_KURSE] = "Kurse";
+$wgExtraNamespaces[NS_KURSE_TALK] = "Kurse Diskussion";
+$wgNamespacesWithSubpages[NS_KURSE] = true;
+
+
+// AI-Namensraum
+define("NS_AI", 3004);
+define("NS_AI_TALK", 3005);
+$wgExtraNamespaces[NS_AI] = "Ai";
+$wgExtraNamespaces[NS_AI_TALK] = "Ai Diskussion";
+$wgNamespacesWithSubpages[NS_AI] = true;
+
+// VisualEditor für die neuen Namensräume aktivieren
+$wgVisualEditorAvailableNamespaces[NS_SERVER] = true;
+$wgVisualEditorAvailableNamespaces[NS_SERVER_TALK] = true;
+$wgVisualEditorAvailableNamespaces[NS_KURSE] = true;
+$wgVisualEditorAvailableNamespaces[NS_KURSE_TALK] = true;
+$wgVisualEditorAvailableNamespaces[NS_AI] = true;
+$wgVisualEditorAvailableNamespaces[NS_AI_TALK] = true;
+
+define("NS_IDE", 3008);
+define("NS_IDE_TALK", 3009);
+$wgExtraNamespaces[NS_IDE] = "IDE";
+$wgExtraNamespaces[NS_IDE_TALK] = "IDE Diskussion";
+$wgNamespacesWithSubpages[NS_IDE] = true;
+$wgVisualEditorAvailableNamespaces[NS_IDE] = true;
+$wgVisualEditorAvailableNamespaces[NS_IDE_TALK] = true;
+define("NS_BUILDER", 3010);
+define("NS_BUILDER_TALK", 3011);
+
+$wgExtraNamespaces[NS_BUILDER] = "Builder";
+$wgExtraNamespaces[NS_BUILDER_TALK] = "Builder_Diskussion";
+$wgVisualEditorAvailableNamespaces[] = NS_BUILDER;
+define("NS_BACKUP", 3012);
+define("NS_BACKUP_TALK", 3013);
+
+$wgExtraNamespaces[NS_BACKUP] = "Backup";
+$wgExtraNamespaces[NS_BACKUP_TALK] = "Backup_Diskussion";
+$wgVisualEditorAvailableNamespaces[] = NS_BACKUP;</text>
+      <sha1>j0c8vlf74jtlrua5eoj6mdd7riphmj1</sha1>
+    </revision>
+    <revision>
+      <id>664</id>
+      <parentid>663</parentid>
+      <timestamp>2025-07-13T21:20:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Wiedererstellung */</comment>
+      <origin>664</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5546" sha1="i8xheqv50hdp7tgfmrhcfkm40787ulg" xml:space="preserve">==SSH Key Schlüssel Anlegen==
+&lt;pre&gt;
+# Erstellt einen neuen SSH-Schlüssel (falls noch nicht vorhanden)
+ssh-keygen -t rsa -b 4096
+
+# Kopiert den öffentlichen Schlüssel auf den Zielserver
+# Ersetzen Sie 'benutzer' und 'hostname' durch die entsprechenden Werte
+ssh-copy-id benutzer@hostname
+
+# Falls der SSH-Server einen anderen Port als 22 verwendet
+# ssh-copy-id -p &lt;port&gt; benutzer@hostname
+
+=== Vorteile ===
+* '''Sicherheit:''' Deutlich sicherer als passwortbasierte Authentifizierung. SSH-Schlüssel sind wesentlich komplexer und widerstandsfähiger gegen Brute-Force-Angriffe.
+* '''Bequemlichkeit:''' Ermöglicht passwortloses Anmelden, was die Automatisierung von Aufgaben (z.B. Backups mit rsync, wie im unteren Beispiel) erheblich vereinfacht.
+
+=== Nachteile ===
+* '''Schlüsselverwaltung:''' Der private Schlüssel muss absolut sicher aufbewahrt werden. Bei Diebstahl erhält ein Angreifer Zugriff auf alle Systeme, auf denen der öffentliche Schlüssel hinterlegt ist.
+* '''Einmaliger Einrichtungsaufwand:''' Die Ersteinrichtung ist etwas aufwändiger als die reine Verwendung eines Passworts.
+* '''Verlust des Schlüssels:''' Bei Verlust des privaten Schlüssels (ohne Backup) geht der Zugriff verloren und muss über einen anderen Weg wiederhergestellt werden.
+=== Was tun, wenn der Zugriff nicht mehr möglich ist? ===
+Wenn Sie einen neuen Rechner einrichten oder den Zugriff über Ihren bisherigen Schlüssel verloren haben, gibt es mehrere Möglichkeiten:
+
+* '''Privaten Schlüssel vom alten Rechner kopieren:'''
+** Der sicherste und einfachste Weg ist, Ihren privaten Schlüssel (z.B. `~/.ssh/id_rsa`) von Ihrem alten auf Ihren neuen Rechner zu kopieren.
+** Stellen Sie sicher, dass die Datei auf dem neuen System die richtigen Berechtigungen hat (`chmod 600 ~/.ssh/id_rsa`), damit sie von SSH akzeptiert wird.
+
+* '''Neuen Schlüssel generieren und hinzufügen:'''
+** Erstellen Sie auf Ihrem neuen Rechner ein neues Schlüsselpaar (wie oben beschrieben mit `ssh-keygen`).
+** Sie müssen den neuen '''öffentlichen''' Schlüssel (`~/.ssh/id_rsa.pub`) zum Server hinzufügen. Dafür benötigen Sie vorübergehend eine andere Zugriffsmöglichkeit auf den Server (z.B. Passwort-Login, Zugriff über einen anderen Rechner oder eine Konsole Ihres Hosters), um den Inhalt der `.pub`-Datei in die `~/.ssh/authorized_keys`-Datei auf dem Server einzufügen.
+
+* '''Zugriff über den Hoster wiederherstellen:'''
+** Wenn keine der oben genannten Methoden möglich ist, müssen Sie sich an Ihren Server-Hoster wenden. Dieser kann Ihnen in der Regel über ein Web-Interface (Rescue-System, VNC/KVM-Konsole) Zugriff gewähren, sodass Sie einen neuen öffentlichen Schlüssel hinterlegen können.
+
+
+&lt;/pre&gt;
+
+==Beispiel Site==
+&lt;pre&gt;
+
+rsync -avz --delete \
+  --exclude 'LocalSettings.php' \
+  --exclude '.git/' \
+  --exclude '.gitignore' \
+  --exclude 'images/' \
+  --exclude 'cache/' \
+  /var/www/mediawiki \
+  user@prod:/var/www/mediawiki/
+&lt;/pre&gt;
+
+==Backup erstellen==
+&lt;pre&gt;
+cd /home/thorsten
+gh repo clone thorstenkloehn/Download
+sudo chmod 777 -R Download
+cd /home/thorsten/Download
+sudo rm /home/thorsten/Download/pagedump.xml
+ssh root@ahrensburg.city "php /var/www/mediawiki/mediawiki/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/pagedump.xml
+git add pagedump.xml
+git commit -m "Backup"
+git push
+&lt;/pre&gt;
+
+==Wiedererstellung==
+&lt;pre&gt;
+
+
+define("NS_SCHWACHSTELLEN", 3006);
+define("NS_SCHWACHSTELLEN_TALK", 3007);
+$wgExtraNamespaces[NS_SCHWACHSTELLEN] = "Schwachstellen";
+$wgExtraNamespaces[NS_SCHWACHSTELLEN_TALK] = "Schwachstellen Diskussion";
+$wgNamespacesWithSubpages[NS_SCHWACHSTELLEN] = true;
+
+// VisualEditor für Schwachstellen-Namensraum aktivieren
+$wgVisualEditorAvailableNamespaces[NS_SCHWACHSTELLEN] = true;
+$wgVisualEditorAvailableNamespaces[NS_SCHWACHSTELLEN_TALK] = true;
+// Server-Namensraum
+define("NS_SERVER", 3000);
+define("NS_SERVER_TALK", 3001);
+$wgExtraNamespaces[NS_SERVER] = "Server";
+$wgExtraNamespaces[NS_SERVER_TALK] = "Server Diskussion";
+$wgNamespacesWithSubpages[NS_SERVER] = true;
+
+// Kurse-Namensraum
+define("NS_KURSE", 3002);
+define("NS_KURSE_TALK", 3003);
+$wgExtraNamespaces[NS_KURSE] = "Kurse";
+$wgExtraNamespaces[NS_KURSE_TALK] = "Kurse Diskussion";
+$wgNamespacesWithSubpages[NS_KURSE] = true;
+
+
+// AI-Namensraum
+define("NS_AI", 3004);
+define("NS_AI_TALK", 3005);
+$wgExtraNamespaces[NS_AI] = "Ai";
+$wgExtraNamespaces[NS_AI_TALK] = "Ai Diskussion";
+$wgNamespacesWithSubpages[NS_AI] = true;
+
+// VisualEditor für die neuen Namensräume aktivieren
+$wgVisualEditorAvailableNamespaces[NS_SERVER] = true;
+$wgVisualEditorAvailableNamespaces[NS_SERVER_TALK] = true;
+$wgVisualEditorAvailableNamespaces[NS_KURSE] = true;
+$wgVisualEditorAvailableNamespaces[NS_KURSE_TALK] = true;
+$wgVisualEditorAvailableNamespaces[NS_AI] = true;
+$wgVisualEditorAvailableNamespaces[NS_AI_TALK] = true;
+
+define("NS_IDE", 3008);
+define("NS_IDE_TALK", 3009);
+$wgExtraNamespaces[NS_IDE] = "IDE";
+$wgExtraNamespaces[NS_IDE_TALK] = "IDE Diskussion";
+$wgNamespacesWithSubpages[NS_IDE] = true;
+$wgVisualEditorAvailableNamespaces[NS_IDE] = true;
+$wgVisualEditorAvailableNamespaces[NS_IDE_TALK] = true;
+define("NS_BUILDER", 3010);
+define("NS_BUILDER_TALK", 3011);
+
+$wgExtraNamespaces[NS_BUILDER] = "Builder";
+$wgExtraNamespaces[NS_BUILDER_TALK] = "Builder_Diskussion";
+$wgVisualEditorAvailableNamespaces[] = NS_BUILDER;
+define("NS_BACKUP", 3012);
+define("NS_BACKUP_TALK", 3013);
+
+$wgExtraNamespaces[NS_BACKUP] = "Backup";
+$wgExtraNamespaces[NS_BACKUP_TALK] = "Backup_Diskussion";
+$wgVisualEditorAvailableNamespaces[] = NS_BACKUP;
+&lt;/pre&gt;</text>
+      <sha1>i8xheqv50hdp7tgfmrhcfkm40787ulg</sha1>
+    </revision>
   </page>
   <page>
     <title>Kurse:Partial Views</title>
