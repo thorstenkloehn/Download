@@ -20078,6 +20078,140 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
 * [[Kurse:Lumi]]</text>
       <sha1>kbh59cgsbtdcv6pdl0obma16zumtd3x</sha1>
     </revision>
+    <revision>
+      <id>668</id>
+      <parentid>611</parentid>
+      <timestamp>2025-07-17T00:47:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Kurse Übungen Projekt */</comment>
+      <origin>668</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="840" sha1="1ejzh61dikhzmcvqobnsdyu33cypmbf" xml:space="preserve">* [[Kurse:HTTP]] - [[Kurse:HTTP Code Übungen]]
+* [[Kurse:Middleware]] - [[Kurse:Tägich Middleware Übungen]]
+* [[Kurse:Routing]] - [[Kurse:Täglich Routing Übungen]]
+* [[Kurse:Controllers]] - [[Kurse:Täglich Controllers Übungen]]
+* [[Kurse:Model Binding]] - [[Kurse:Täglich Model Binding Übungen]]
+* [[Kurse:Razor Views]] - [[Kurse:Täglich Razor Views]]
+* [[Kurse:Layout Views]] - [[Kurse:Täglich Layout Views Übungen]]
+* [[Kurse:Partial Views]]
+* [[Kurse:View Components]]
+* [[Kurse:Services]]
+* [[Kurse:ASP.NET Core Environments]]
+* [[Kurse:ASP.NET Core Konfiguration]]
+* [[Kurse:Crud Operations]]
+* [[Kurse:Tag Helpers]]
+* [[Kurse:Entity Framework Core]]
+* [[Kurse:ASP.NET Core Identity &amp; Authorization]]
+==Kurse Übungen Projekt==
+* [[Kurse:News Site erstellen]]
+* [[Kurse:Lernplan für Asp net Core nach einzelnen Schritten]]</text>
+      <sha1>1ejzh61dikhzmcvqobnsdyu33cypmbf</sha1>
+    </revision>
+    <revision>
+      <id>669</id>
+      <parentid>668</parentid>
+      <timestamp>2025-07-17T01:17:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>669</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="874" sha1="1mz0wydlyglsxs56c18gfygxjjhgsj1" xml:space="preserve">* [[Kurse:HTTP]] - [[Kurse:HTTP Code Übungen]]
+* [[Kurse:Middleware]] - [[Kurse:Tägich Middleware Übungen]]
+* [[Kurse:Routing]] - [[Kurse:Täglich Routing Übungen]]
+* [[Kurse:Controllers]] - [[Kurse:Täglich Controllers Übungen]]
+* [[Kurse:Model Binding]] - [[Kurse:Täglich Model Binding Übungen]]
+* [[Kurse:Razor Views]] - [[Kurse:Täglich Razor Views]]
+* [[Kurse:Layout Views]] - [[Kurse:Täglich Layout Views Übungen]]
+* [[Kurse:Partial Views]]
+* [[Kurse:View Components]]
+* [[Kurse:Services]]
+* [[Kurse:ASP.NET Core Environments]]
+* [[Kurse:ASP.NET Core Konfiguration]]
+* [[Kurse:Crud Operations]]
+* [[Kurse:Tag Helpers]]
+* [[Kurse:Entity Framework Core]]
+* [[Kurse:ASP.NET Core Identity &amp; Authorization]]
+==Kurse Übungen Projekt==
+* [[Kurse:News Site erstellen]]
+* [[Kurse:Lernplan für Asp net Core nach einzelnen Schritten]]
+* [[Kurse:asp net core Übung 1]]</text>
+      <sha1>1mz0wydlyglsxs56c18gfygxjjhgsj1</sha1>
+    </revision>
+    <revision>
+      <id>670</id>
+      <parentid>669</parentid>
+      <timestamp>2025-07-17T01:18:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>670</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="874" sha1="1q0mpcwvofx7547n8h3bbly5u2kzyj8" xml:space="preserve">* [[Kurse:HTTP]] - [[Kurse:HTTP Code Übungen]]
+* [[Kurse:Middleware]] - [[Kurse:Tägich Middleware Übungen]]
+* [[Kurse:Routing]] - [[Kurse:Täglich Routing Übungen]]
+* [[Kurse:Controllers]] - [[Kurse:Täglich Controllers Übungen]]
+* [[Kurse:Model Binding]] - [[Kurse:Täglich Model Binding Übungen]]
+* [[Kurse:Razor Views]] - [[Kurse:Täglich Razor Views]]
+* [[Kurse:Layout Views]] - [[Kurse:Täglich Layout Views Übungen]]
+* [[Kurse:Partial Views]]
+* [[Kurse:View Components]]
+* [[Kurse:Services]]
+* [[Kurse:ASP.NET Core Environments]]
+* [[Kurse:ASP.NET Core Konfiguration]]
+* [[Kurse:Crud Operations]]
+* [[Kurse:Tag Helpers]]
+* [[Kurse:Entity Framework Core]]
+* [[Kurse:ASP.NET Core Identity &amp; Authorization]]
+==Kurse Übungen Projekt==
+* [[Kurse:News Site erstellen]]
+* [[Kurse:Lernplan für Asp net Core nach einzelnen Schritten]]
+* [[Kurse:Asp Net Core Übung 1]]</text>
+      <sha1>1q0mpcwvofx7547n8h3bbly5u2kzyj8</sha1>
+    </revision>
+    <revision>
+      <id>676</id>
+      <parentid>670</parentid>
+      <timestamp>2025-07-17T18:21:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>676</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="906" sha1="7dscxer0ccrcni2nitw6sj7z30fteb2" xml:space="preserve">* [[Kurse:HTTP]] - [[Kurse:HTTP Code Übungen]]
+* [[Kurse:Middleware]] - [[Kurse:Tägich Middleware Übungen]]
+* [[Kurse:Routing]] - [[Kurse:Täglich Routing Übungen]]
+* [[Kurse:Controllers]] - [[Kurse:Täglich Controllers Übungen]]
+* [[Kurse:Model Binding]] - [[Kurse:Täglich Model Binding Übungen]]
+* [[Kurse:Razor Views]] - [[Kurse:Täglich Razor Views]]
+* [[Kurse:Layout Views]] - [[Kurse:Täglich Layout Views Übungen]]
+* [[Kurse:Partial Views]]
+* [[Kurse:View Components]]
+* [[Kurse:Services]]
+* [[Kurse:ASP.NET Core Environments]]
+* [[Kurse:ASP.NET Core Konfiguration]]
+* [[Kurse:Crud Operations]]
+* [[Kurse:Tag Helpers]]
+* [[Kurse:Entity Framework Core]]
+* [[Kurse:ASP.NET Core Identity &amp; Authorization]]
+==Kurse Übungen Projekt==
+* [[Kurse:News Site erstellen]]
+* [[Kurse:Lernplan für Asp net Core nach einzelnen Schritten]]
+* [[Kurse:Asp Net Core Übung 1]]
+==Kurse==
+* [[Kurse:Udemy.com]]</text>
+      <sha1>7dscxer0ccrcni2nitw6sj7z30fteb2</sha1>
+    </revision>
   </page>
   <page>
     <title>Server:Haupseite</title>
@@ -29088,6 +29222,25 @@ exit # Ausloggen
 * [[IDE:Asp Net Core]]</text>
       <sha1>hgqw5v43z1dwg7iqel5caofgvzmifgy</sha1>
     </revision>
+    <revision>
+      <id>691</id>
+      <parentid>628</parentid>
+      <timestamp>2025-07-23T02:02:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>691</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="138" sha1="mokkjcryazvbkqsmzcb6fs3kwmqsf0b" xml:space="preserve">* [[IDE:Installieren]]
+* [[IDE:Mediawiki Installieren]]
+* [[IDE:Moodle]]
+* [[IDE:Qgis Installieren]]
+* [[IDE:Asp Net Core]]
+* [[IDE:Anki]]</text>
+      <sha1>mokkjcryazvbkqsmzcb6fs3kwmqsf0b</sha1>
+    </revision>
   </page>
   <page>
     <title>Wochenmarkt</title>
@@ -32868,6 +33021,543 @@ sudo apt-get install nginx
 sudo rm /etc/nginx/sites-enabled/default
 &lt;/pre&gt;</text>
       <sha1>3ams65hsgxzwy2nna1ircp1u2vnnsxf</sha1>
+    </revision>
+    <revision>
+      <id>702</id>
+      <parentid>624</parentid>
+      <timestamp>2025-07-27T20:16:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Postgis Installation in Ubuntu 23.04 */</comment>
+      <origin>702</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4169" sha1="hxjb06nej38jeeyylrgrr5dcb9wjs9u" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension ckolkman.vscode-postgres
+ code --install-extension  ms-ossdata.vscode-postgresql
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;code&gt;sudo apt-get install postgresql-all&lt;/code&gt;
+
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+ sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.24.5.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.24.5.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;</text>
+      <sha1>hxjb06nej38jeeyylrgrr5dcb9wjs9u</sha1>
+    </revision>
+    <revision>
+      <id>703</id>
+      <parentid>702</parentid>
+      <timestamp>2025-07-28T08:04:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>703</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4383" sha1="0b3kxkn5c7ksjq1x6jyuhm5bvvmfb1s" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension ckolkman.vscode-postgres
+ code --install-extension  ms-ossdata.vscode-postgresql
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.24.5.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.24.5.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;</text>
+      <sha1>0b3kxkn5c7ksjq1x6jyuhm5bvvmfb1s</sha1>
+    </revision>
+    <revision>
+      <id>704</id>
+      <parentid>703</parentid>
+      <timestamp>2025-07-28T08:06:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>704</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4389" sha1="g9t51rr78r4if32063qea5doru00ld0" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension ckolkman.vscode-postgres
+ code --install-extension  ms-ossdata.vscode-postgresql
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.24.5.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.24.5.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;</text>
+      <sha1>g9t51rr78r4if32063qea5doru00ld0</sha1>
+    </revision>
+    <revision>
+      <id>705</id>
+      <parentid>704</parentid>
+      <timestamp>2025-07-28T12:12:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>705</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4282" sha1="1l1uzrs2lznasdjwyqdur2asrt6ghju" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.24.5.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.24.5.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;</text>
+      <sha1>1l1uzrs2lznasdjwyqdur2asrt6ghju</sha1>
     </revision>
   </page>
   <page>
@@ -37191,6 +37881,951 @@ sudo chmod -R 770 /var/www/moodle/moodledata
 
 Achten Sie darauf, dass das Verzeichnis nicht über den Webserver erreichbar ist, um die Sicherheit Ihrer Moodle-Installation zu gewährleisten.</text>
       <sha1>ic3mlz7ahd9jexoljixjyvq5h1k4hg4</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>IDE:Qgis Installieren</title>
+    <ns>3008</ns>
+    <id>179</id>
+    <revision>
+      <id>665</id>
+      <timestamp>2025-07-16T22:50:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>665</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1899" sha1="kz56h7nl4ekmm1zhqilns2d0ncy7e2h" xml:space="preserve">&lt;%-- [PAGE_INFO]
+    comment = #Please do not remove this struct. It's record contains some important information of edit. This struct will be removed automatically after you push edits.#
+    pageTitle = #IDE:Qgis Installieren#
+    pageID = ##
+    revisionID = ##
+    contentModel = ##
+    contentFormat = ##
+== QGIS auf Ubuntu 24.04 installieren ==
+
+Folge diesen Schritten, um QGIS auf einem Ubuntu 24.04 Rechner zu installieren:
+
+=== 1. Paketquellen aktualisieren ===
+Öffne ein Terminal und führe aus:
+ sudo apt update
+
+=== 2. QGIS-Repository hinzufügen ===
+Füge das offizielle QGIS-Repository hinzu:
+ sudo apt install gnupg software-properties-common
+sudo mkdir -m755 -p /etc/apt/keyrings  # not needed since apt version 2.4.0 like Debian 12 and Ubuntu 22 or newer
+sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.org/downloads/qgis-archive-keyring.gpg
+
+=== 3. Paketquellen erneut aktualisieren ===
+ sudo apt update
+
+=== 4. QGIS installieren ===
+ sudo apt install qgis qgis-plugin-grass
+
+=== 5. QGIS starten ===
+Starte QGIS über das Terminal:
+ qgis
+
+Weitere Informationen findest du auf der offiziellen QGIS-Webseite: https://qgis.org/de/site/forusers/alldownloads.html
+
+==Osm Quick==
+Um die Stadtgrenze von Ahrensburg in QGIS anzuzeigen, kannst du die OSM-Daten (OpenStreetMap) verwenden:
+
+1. Öffne QGIS und lade das OSM-Plugin, falls noch nicht installiert.
+2. Gehe zu „Layer“ &gt; „Datenquelle verwalten“ &gt; „OpenStreetMap“.
+3. Suche nach „Ahrensburg“ und lade die relevanten Daten.
+4. Filtere die Grenzlinien mit dem Attribut „boundary=administrative“ und „name=Ahrensburg“.
+5. Die Stadtgrenze wird als Polygon angezeigt.
+
+Alternativ kannst du die Grenzdaten direkt von [Geofabrik](https://download.geofabrik.de/europe/germany/schleswig-holstein.html) als Shapefile herunterladen und in QGIS importieren.
+
+==QuickOSM==
+==Overpass Turbo==</text>
+      <sha1>kz56h7nl4ekmm1zhqilns2d0ncy7e2h</sha1>
+    </revision>
+    <revision>
+      <id>666</id>
+      <parentid>665</parentid>
+      <timestamp>2025-07-16T22:52:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>666</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1591" sha1="ewjk9hg82b7rz4z2kfayaeopeez67ak" xml:space="preserve">
+== QGIS auf Ubuntu 24.04 installieren ==
+
+Folge diesen Schritten, um QGIS auf einem Ubuntu 24.04 Rechner zu installieren:
+
+=== 1. Paketquellen aktualisieren ===
+Öffne ein Terminal und führe aus:
+ sudo apt update
+
+=== 2. QGIS-Repository hinzufügen ===
+Füge das offizielle QGIS-Repository hinzu:
+ sudo apt install gnupg software-properties-common
+sudo mkdir -m755 -p /etc/apt/keyrings  # not needed since apt version 2.4.0 like Debian 12 and Ubuntu 22 or newer
+sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.org/downloads/qgis-archive-keyring.gpg
+
+=== 3. Paketquellen erneut aktualisieren ===
+ sudo apt update
+
+=== 4. QGIS installieren ===
+ sudo apt install qgis qgis-plugin-grass
+
+=== 5. QGIS starten ===
+Starte QGIS über das Terminal:
+ qgis
+
+Weitere Informationen findest du auf der offiziellen QGIS-Webseite: https://qgis.org/de/site/forusers/alldownloads.html
+
+==Osm Quick==
+Um die Stadtgrenze von Ahrensburg in QGIS anzuzeigen, kannst du die OSM-Daten (OpenStreetMap) verwenden:
+
+1. Öffne QGIS und lade das OSM-Plugin, falls noch nicht installiert.
+2. Gehe zu „Layer“ &gt; „Datenquelle verwalten“ &gt; „OpenStreetMap“.
+3. Suche nach „Ahrensburg“ und lade die relevanten Daten.
+4. Filtere die Grenzlinien mit dem Attribut „boundary=administrative“ und „name=Ahrensburg“.
+5. Die Stadtgrenze wird als Polygon angezeigt.
+
+Alternativ kannst du die Grenzdaten direkt von [Geofabrik](https://download.geofabrik.de/europe/germany/schleswig-holstein.html) als Shapefile herunterladen und in QGIS importieren.
+
+==QuickOSM==
+==Overpass Turbo==</text>
+      <sha1>ewjk9hg82b7rz4z2kfayaeopeez67ak</sha1>
+    </revision>
+    <revision>
+      <id>667</id>
+      <parentid>666</parentid>
+      <timestamp>2025-07-16T22:52:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* QGIS auf Ubuntu 24.04 installieren */</comment>
+      <origin>667</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1603" sha1="8x8k1n18gh5a69g9a5t0rvr9v6ec1pm" xml:space="preserve">
+== QGIS auf Ubuntu 24.04 installieren ==
+
+Folge diesen Schritten, um QGIS auf einem Ubuntu 24.04 Rechner zu installieren:
+
+=== 1. Paketquellen aktualisieren ===
+Öffne ein Terminal und führe aus:
+ sudo apt update
+
+=== 2. QGIS-Repository hinzufügen ===
+Füge das offizielle QGIS-Repository hinzu:
+&lt;pre&gt;
+ sudo apt install gnupg software-properties-common
+sudo mkdir -m755 -p /etc/apt/keyrings  # not needed since apt version 2.4.0 like Debian 12 and Ubuntu 22 or newer
+sudo wget -O /etc/apt/keyrings/qgis-archive-keyring.gpg https://download.qgis.org/downloads/qgis-archive-keyring.gpg
+&lt;/pre&gt;
+=== 3. Paketquellen erneut aktualisieren ===
+ sudo apt update
+
+=== 4. QGIS installieren ===
+ sudo apt install qgis qgis-plugin-grass
+
+=== 5. QGIS starten ===
+Starte QGIS über das Terminal:
+ qgis
+
+Weitere Informationen findest du auf der offiziellen QGIS-Webseite: https://qgis.org/de/site/forusers/alldownloads.html
+
+==Osm Quick==
+Um die Stadtgrenze von Ahrensburg in QGIS anzuzeigen, kannst du die OSM-Daten (OpenStreetMap) verwenden:
+
+1. Öffne QGIS und lade das OSM-Plugin, falls noch nicht installiert.
+2. Gehe zu „Layer“ &gt; „Datenquelle verwalten“ &gt; „OpenStreetMap“.
+3. Suche nach „Ahrensburg“ und lade die relevanten Daten.
+4. Filtere die Grenzlinien mit dem Attribut „boundary=administrative“ und „name=Ahrensburg“.
+5. Die Stadtgrenze wird als Polygon angezeigt.
+
+Alternativ kannst du die Grenzdaten direkt von [Geofabrik](https://download.geofabrik.de/europe/germany/schleswig-holstein.html) als Shapefile herunterladen und in QGIS importieren.
+
+==QuickOSM==
+==Overpass Turbo==</text>
+      <sha1>8x8k1n18gh5a69g9a5t0rvr9v6ec1pm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Asp Net Core Übung 1</title>
+    <ns>3002</ns>
+    <id>180</id>
+    <revision>
+      <id>671</id>
+      <timestamp>2025-07-17T01:21:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ Program.cs &lt;pre&gt; builder.Services.AddDbContext&lt;ApplicationDbContext&gt;(options =&gt; options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultContext")));// using Microsoft.EntityFrameworkCore; &lt;/pre&gt;“</comment>
+      <origin>671</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="207" sha1="mzs8ct5korbydhrehjtwy7x93ffwpeu" xml:space="preserve">
+Program.cs
+&lt;pre&gt;
+builder.Services.AddDbContext&lt;ApplicationDbContext&gt;(options =&gt; options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultContext")));// using Microsoft.EntityFrameworkCore;
+&lt;/pre&gt;</text>
+      <sha1>mzs8ct5korbydhrehjtwy7x93ffwpeu</sha1>
+    </revision>
+    <revision>
+      <id>672</id>
+      <parentid>671</parentid>
+      <timestamp>2025-07-17T01:24:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>672</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="316" sha1="ce9lags28qf9wzhodqzsa6qysplhacn" xml:space="preserve">
+Program.cs
+&lt;pre&gt;
+builder.Services.AddDbContext&lt;ApplicationDbContext&gt;(options =&gt; options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultContext")));
+&lt;/pre&gt;
+appsettings.json
+&lt;pre&gt;
+"ConnectionStrings": {"DefaultContext" : "Host=localhost;Port=5432;Database=thorsten;Username=thorsten;Password=Test"
+&lt;/pre&gt;</text>
+      <sha1>ce9lags28qf9wzhodqzsa6qysplhacn</sha1>
+    </revision>
+    <revision>
+      <id>673</id>
+      <parentid>672</parentid>
+      <timestamp>2025-07-17T01:34:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>673</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="316" sha1="ayrd3f4haktl95og8dblk7o39j76ach" xml:space="preserve">appsettings.json
+&lt;pre&gt;
+"ConnectionStrings": {"DefaultContext" : "Host=localhost;Port=5432;Database=thorsten;Username=thorsten;Password=Test"
+&lt;/pre&gt;
+
+Program.cs
+&lt;pre&gt;
+builder.Services.AddDbContext&lt;ApplicationDbContext&gt;(options =&gt; options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultContext")));
+&lt;/pre&gt;</text>
+      <sha1>ayrd3f4haktl95og8dblk7o39j76ach</sha1>
+    </revision>
+    <revision>
+      <id>674</id>
+      <parentid>673</parentid>
+      <timestamp>2025-07-17T01:37:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>674</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="550" sha1="bp598tlymaj7kuk3s3wh88bq0mknh98" xml:space="preserve">appsettings.json
+&lt;pre&gt;
+"ConnectionStrings": {"DefaultContext" : "Host=localhost;Port=5432;Database=thorsten;Username=thorsten;Password=Test"
+&lt;/pre&gt;
+ApplicationDbContext
+&lt;pre&gt;
+public class ApplicationDbContext : DbContext
+{
+
+public ApplicationDbContext(DbContextOptions&lt;ApplicationDbContext&gt;options)
+:base (options) {}
+    public DbSet&lt;Sexmachine&gt; Sexmaschines { get; set; }
+}
+&lt;/pre&gt;
+Program.cs
+&lt;pre&gt;
+builder.Services.AddDbContext&lt;ApplicationDbContext&gt;(options =&gt; options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultContext")));
+&lt;/pre&gt;</text>
+      <sha1>bp598tlymaj7kuk3s3wh88bq0mknh98</sha1>
+    </revision>
+    <revision>
+      <id>675</id>
+      <parentid>674</parentid>
+      <timestamp>2025-07-17T01:38:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>675</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="498" sha1="ik3p4ru21nkt692ah3j6ua70gssfs2s" xml:space="preserve">appsettings.json
+&lt;pre&gt;
+"ConnectionStrings": {"DefaultContext" : "Host=localhost;Port=5432;Database=thorsten;Username=thorsten;Password=Test"
+&lt;/pre&gt;
+ApplicationDbContext
+&lt;pre&gt;
+public class ApplicationDbContext : DbContext
+{
+
+public ApplicationDbContext(DbContextOptions&lt;ApplicationDbContext&gt;options)
+:base (options) {}
+   
+}
+&lt;/pre&gt;
+Program.cs
+&lt;pre&gt;
+builder.Services.AddDbContext&lt;ApplicationDbContext&gt;(options =&gt; options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultContext")));
+&lt;/pre&gt;</text>
+      <sha1>ik3p4ru21nkt692ah3j6ua70gssfs2s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Udemy.com</title>
+    <ns>3002</ns>
+    <id>181</id>
+    <revision>
+      <id>677</id>
+      <timestamp>2025-07-17T18:57:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==asp net core==  * ASP.NET Core | Projects | Bootcamp    * .NET Core MVC - The Complete Guide [E-commerce]“</comment>
+      <origin>677</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="108" sha1="7h1a95anfuhjroejixwmp942nmfopog" xml:space="preserve">==asp net core==
+
+* ASP.NET Core | Projects | Bootcamp   
+* .NET Core MVC - The Complete Guide [E-commerce]</text>
+      <sha1>7h1a95anfuhjroejixwmp942nmfopog</sha1>
+    </revision>
+    <revision>
+      <id>678</id>
+      <parentid>677</parentid>
+      <timestamp>2025-07-17T18:59:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* asp net core */</comment>
+      <origin>678</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="165" sha1="6c27f86y7jz7io1n0s4c3017lj09lej" xml:space="preserve">==asp net core==
+
+* ASP.NET Core | Projects | Bootcamp   
+* .NET Core MVC - The Complete Guide [E-commerce]
+* The complete ASP.NET Core 9 course for busy developers</text>
+      <sha1>6c27f86y7jz7io1n0s4c3017lj09lej</sha1>
+    </revision>
+    <revision>
+      <id>679</id>
+      <parentid>678</parentid>
+      <timestamp>2025-07-17T19:05:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* asp net core */</comment>
+      <origin>679</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="217" sha1="nnvlbtv0qcy16nihxr5k1ujfsyzr6f5" xml:space="preserve">==asp net core==
+
+* ASP.NET Core | Projects | Bootcamp   Web Academy by Harsha Vardhan
+* .NET Core MVC - The Complete Guide [E-commerce] Bhrugen Patel
+* The complete ASP.NET Core 9 course for busy devel Denis Panjuta</text>
+      <sha1>nnvlbtv0qcy16nihxr5k1ujfsyzr6f5</sha1>
+    </revision>
+    <revision>
+      <id>680</id>
+      <parentid>679</parentid>
+      <timestamp>2025-07-17T19:08:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>680</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="217" sha1="aw3e47ac1c4x5vsxsr1dit9hfz5iis1" xml:space="preserve">==Asp Net Core==
+
+* ASP.NET Core | Projects | Bootcamp   Web Academy by Harsha Vardhan
+* .NET Core MVC - The Complete Guide [E-commerce] Bhrugen Patel
+* The complete ASP.NET Core 9 course for busy devel Denis Panjuta</text>
+      <sha1>aw3e47ac1c4x5vsxsr1dit9hfz5iis1</sha1>
+    </revision>
+    <revision>
+      <id>681</id>
+      <parentid>680</parentid>
+      <timestamp>2025-07-17T22:34:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>681</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="460" sha1="rizhqzcmuyvo5xdx07etdbsc75odnug" xml:space="preserve">==Asp Net Core==
+
+* ASP.NET Core | Projects | Bootcamp  Web Academy by Harsha Vardhan
+* .NET Core MVC - The Complete Guide [E-commerce] Bhrugen Patel
+* The complete ASP.NET Core 9 course for busy devel Denis Panjuta
+==Golang==
+==Spring Boot==
+
+* Spring &amp; Hibernate for Beginners (includes Spring Boot) by Chad Darby
+* in28Minutes' Master Spring Boot 3 &amp; Spring Framework 6 with Java
+* John Thompsons Spring Boot 3, Spring Framework 6: Beginner to Guru
+==Rust==</text>
+      <sha1>rizhqzcmuyvo5xdx07etdbsc75odnug</sha1>
+    </revision>
+    <revision>
+      <id>682</id>
+      <parentid>681</parentid>
+      <timestamp>2025-07-17T23:58:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>682</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="705" sha1="hggimnq95ez0jpayp449ljrxvol50ly" xml:space="preserve">==Asp Net Core==
+
+* ASP.NET Core | Projects | Bootcamp  Web Academy by Harsha Vardhan
+* .NET Core MVC - The Complete Guide [E-commerce] Bhrugen Patel
+* The complete ASP.NET Core 9 course for busy devel Denis Panjuta
+==Golang==
+==Spring Boot==
+
+* Spring &amp; Hibernate for Beginners (includes Spring Boot) by Chad Darby
+* in28Minutes' Master Spring Boot 3 &amp; Spring Framework 6 with Java
+* John Thompsons Spring Boot 3, Spring Framework 6: Beginner to Guru
+==Rust==
+
+==C++==
+* Drogon C++ Web Framework: Vom Anfänger zum Profi
+
+==Lernkurve: Vom Anfänger zum Profi==
+Die Lernkurve für Web-Frameworks wie ASP.NET Core, Spring Boot, Echo (Golang), Actix Web (Rust) oder Drogon (C++) – vom Anfänger zum Profi.</text>
+      <sha1>hggimnq95ez0jpayp449ljrxvol50ly</sha1>
+    </revision>
+    <revision>
+      <id>683</id>
+      <parentid>682</parentid>
+      <timestamp>2025-07-18T11:12:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>683</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="371" sha1="dtsb7nya28z9om6wgro1gy9twdl5vsq" xml:space="preserve">==Asp Net Core==
+
+* ASP.NET Core | Projects | Bootcamp  Web Academy by Harsha Vardhan
+* .NET Core MVC - The Complete Guide [E-commerce] Bhrugen Pa
+==Spring Boot==
+
+* Spring &amp; Hibernate for Beginners (includes Spring Boot) by Chad Darby
+* in28Minutes' Master Spring Boot 3 &amp; Spring Framework 6 with Java
+* John Thompsons Spring Boot 3, Spring Framework 6: Beginner to Guru</text>
+      <sha1>dtsb7nya28z9om6wgro1gy9twdl5vsq</sha1>
+    </revision>
+    <revision>
+      <id>684</id>
+      <parentid>683</parentid>
+      <timestamp>2025-07-18T12:09:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>684</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="439" sha1="4uzlw6cjlqe82fq0jgzql3zilekfz7y" xml:space="preserve">==Asp Net Core==
+
+* ASP.NET Core | Projects | Bootcamp  Web Academy by Harsha Vardhan
+* .NET Core MVC - The Complete Guide [E-commerce] Bhrugen Pa
+* * The complete ASP.NET Core 9 course for busy devel Denis Panjuta
+==Spring Boot==
+
+* Spring &amp; Hibernate for Beginners (includes Spring Boot) by Chad Darby
+* in28Minutes' Master Spring Boot 3 &amp; Spring Framework 6 with Java
+* John Thompsons Spring Boot 3, Spring Framework 6: Beginner to Guru</text>
+      <sha1>4uzlw6cjlqe82fq0jgzql3zilekfz7y</sha1>
+    </revision>
+    <revision>
+      <id>685</id>
+      <parentid>684</parentid>
+      <timestamp>2025-07-18T23:26:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Spring Boot */</comment>
+      <origin>685</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="669" sha1="lml9efvo87cs4qlmyumdbzx5ny987gn" xml:space="preserve">==Asp Net Core==
+
+* ASP.NET Core | Projects | Bootcamp  Web Academy by Harsha Vardhan
+* .NET Core MVC - The Complete Guide [E-commerce] Bhrugen Pa
+* * The complete ASP.NET Core 9 course for busy devel Denis Panjuta
+==Spring Boot==
+
+* Spring &amp; Hibernate for Beginners (includes Spring Boot) by Chad Darby
+* in28Minutes' Master Spring Boot 3 &amp; Spring Framework 6 with Java
+* John Thompsons Spring Boot 3, Spring Framework 6: Beginner to Guru
+
+==Web Gis==
+* Web GIS development course (Krishna Lodha)
+* Intro to web programming for GIS... (Michael Miller)
+* Display and analyze... with Leaflet (Michael Miller)
+* Intro to Spatial Databases with PostGIS... (Michael Miller)</text>
+      <sha1>lml9efvo87cs4qlmyumdbzx5ny987gn</sha1>
+    </revision>
+    <revision>
+      <id>686</id>
+      <parentid>685</parentid>
+      <timestamp>2025-07-18T23:45:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Web Gis */</comment>
+      <origin>686</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="730" sha1="2l49q0kx97wmiu3owbn9mb0fpe7x12u" xml:space="preserve">==Asp Net Core==
+
+* ASP.NET Core | Projects | Bootcamp  Web Academy by Harsha Vardhan
+* .NET Core MVC - The Complete Guide [E-commerce] Bhrugen Pa
+* * The complete ASP.NET Core 9 course for busy devel Denis Panjuta
+==Spring Boot==
+
+* Spring &amp; Hibernate for Beginners (includes Spring Boot) by Chad Darby
+* in28Minutes' Master Spring Boot 3 &amp; Spring Framework 6 with Java
+* John Thompsons Spring Boot 3, Spring Framework 6: Beginner to Guru
+
+==Web Gis==
+* Web GIS development course (Krishna Lodha)
+* Intro to web programming for GIS... (Michael Miller)
+* Display and analyze... with Leaflet (Michael Miller)
+* Intro to Spatial Databases with PostGIS... (Michael Miller)
+* Building Web GIS Apps with C# ASP.NET CORE MVC and Leaflet</text>
+      <sha1>2l49q0kx97wmiu3owbn9mb0fpe7x12u</sha1>
+    </revision>
+    <revision>
+      <id>687</id>
+      <parentid>686</parentid>
+      <timestamp>2025-07-19T00:04:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Web Gis */</comment>
+      <origin>687</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="783" sha1="4qb8txwnyru5j1svoqwhquiy8q304ws" xml:space="preserve">==Asp Net Core==
+
+* ASP.NET Core | Projects | Bootcamp  Web Academy by Harsha Vardhan
+* .NET Core MVC - The Complete Guide [E-commerce] Bhrugen Pa
+* * The complete ASP.NET Core 9 course for busy devel Denis Panjuta
+==Spring Boot==
+
+* Spring &amp; Hibernate for Beginners (includes Spring Boot) by Chad Darby
+* in28Minutes' Master Spring Boot 3 &amp; Spring Framework 6 with Java
+* John Thompsons Spring Boot 3, Spring Framework 6: Beginner to Guru
+
+==Web Gis==
+* Web GIS development course (Krishna Lodha)
+* Intro to web programming for GIS... (Michael Miller)
+* Display and analyze... with Leaflet (Michael Miller)
+* Intro to Spatial Databases with PostGIS... (Michael Miller)
+* Building Web GIS Apps with C# ASP.NET CORE MVC and Leaflet
+* QGIS 3.10 LTR for GIS Professionals Michael Miller</text>
+      <sha1>4qb8txwnyru5j1svoqwhquiy8q304ws</sha1>
+    </revision>
+    <revision>
+      <id>688</id>
+      <parentid>687</parentid>
+      <timestamp>2025-07-19T11:07:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>688</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="781" sha1="06ocgmhnzjg5z5rrjtwf8bd4fccghg6" xml:space="preserve">==Asp Net Core==
+
+* ASP.NET Core | Projects | Bootcamp  Web Academy by Harsha Vardhan
+* .NET Core MVC - The Complete Guide [E-commerce] Bhrugen Pa
+* The complete ASP.NET Core 9 course for busy devel Denis Panjuta
+==Spring Boot==
+
+* Spring &amp; Hibernate for Beginners (includes Spring Boot) by Chad Darby
+* in28Minutes' Master Spring Boot 3 &amp; Spring Framework 6 with Java
+* John Thompsons Spring Boot 3, Spring Framework 6: Beginner to Guru
+
+==Web Gis==
+* Web GIS development course (Krishna Lodha)
+* Intro to web programming for GIS... (Michael Miller)
+* Display and analyze... with Leaflet (Michael Miller)
+* Intro to Spatial Databases with PostGIS... (Michael Miller)
+* Building Web GIS Apps with C# ASP.NET CORE MVC and Leaflet
+* QGIS 3.10 LTR for GIS Professionals Michael Miller</text>
+      <sha1>06ocgmhnzjg5z5rrjtwf8bd4fccghg6</sha1>
+    </revision>
+    <revision>
+      <id>689</id>
+      <parentid>688</parentid>
+      <timestamp>2025-07-19T13:13:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>689</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="942" sha1="ngj9tiik17ucpgmolvw845djv47akmw" xml:space="preserve">==Asp Net Core==
+
+* ASP.NET Core | Projects | Bootcamp  Web Academy by Harsha Vardhan
+* .NET Core MVC - The Complete Guide [E-commerce] Bhrugen Pa
+* The complete ASP.NET Core 9 course for busy devel Denis Panjuta
+==Spring Boot==
+
+* Spring &amp; Hibernate for Beginners (includes Spring Boot) by Chad Darby
+* in28Minutes' Master Spring Boot 3 &amp; Spring Framework 6 with Java
+* John Thompsons Spring Boot 3, Spring Framework 6: Beginner to Guru
+
+==Web Gis==
+* Web GIS development course (Krishna Lodha)
+* Intro to web programming for GIS... (Michael Miller)
+* Display and analyze... with Leaflet (Michael Miller)
+* Intro to Spatial Databases with PostGIS... (Michael Miller)
+* Building Web GIS Apps with C# ASP.NET CORE MVC and Leaflet
+* QGIS 3.10 LTR for GIS Professionals Michael Miller
+==Java==
+*  Christian Gestys "Java leicht gemacht
+* Jannis Seemanns "Das Java - Bootcamp"
+* Christian Ullenbooms "Der moderne Java-Kurs, vom Anfänger zum Profi</text>
+      <sha1>ngj9tiik17ucpgmolvw845djv47akmw</sha1>
+    </revision>
+    <revision>
+      <id>690</id>
+      <parentid>689</parentid>
+      <timestamp>2025-07-19T13:18:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Java */</comment>
+      <origin>690</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1046" sha1="sdmsuhkg33vbnaflkxhtmaa9o7bptxh" xml:space="preserve">==Asp Net Core==
+
+* ASP.NET Core | Projects | Bootcamp  Web Academy by Harsha Vardhan
+* .NET Core MVC - The Complete Guide [E-commerce] Bhrugen Pa
+* The complete ASP.NET Core 9 course for busy devel Denis Panjuta
+==Spring Boot==
+
+* Spring &amp; Hibernate for Beginners (includes Spring Boot) by Chad Darby
+* in28Minutes' Master Spring Boot 3 &amp; Spring Framework 6 with Java
+* John Thompsons Spring Boot 3, Spring Framework 6: Beginner to Guru
+
+==Web Gis==
+* Web GIS development course (Krishna Lodha)
+* Intro to web programming for GIS... (Michael Miller)
+* Display and analyze... with Leaflet (Michael Miller)
+* Intro to Spatial Databases with PostGIS... (Michael Miller)
+* Building Web GIS Apps with C# ASP.NET CORE MVC and Leaflet
+* QGIS 3.10 LTR for GIS Professionals Michael Miller
+==Java==
+*  Christian Gestys "Java leicht gemacht
+* Jannis Seemanns "Das Java - Bootcamp"
+* Christian Ullenbooms "Der moderne Java-Kurs, vom Anfänger zum Profi
+
+==C#==
+* Ultimate C# Masterclass for 2025 Krystyna Ślusarczyk
+* Complete C# Masterclass Denis Panjuta</text>
+      <sha1>sdmsuhkg33vbnaflkxhtmaa9o7bptxh</sha1>
+    </revision>
+    <revision>
+      <id>700</id>
+      <parentid>690</parentid>
+      <timestamp>2025-07-23T22:48:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>700</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1124" sha1="55z11kjhi6udrnkew2ntaoclfxe05ne" xml:space="preserve">==Asp Net Core==
+
+* ASP.NET Core | Projects | Bootcamp  Web Academy by Harsha Vardhan
+* .NET Core MVC - The Complete Guide [E-commerce] Bhrugen Pa
+* The complete ASP.NET Core 9 course for busy devel Denis Panjuta
+==Spring Boot==
+
+* Spring &amp; Hibernate for Beginners (includes Spring Boot) by Chad Darby
+* in28Minutes' Master Spring Boot 3 &amp; Spring Framework 6 with Java
+* John Thompsons Spring Boot 3, Spring Framework 6: Beginner to Guru
+
+==Web Gis==
+* Web GIS development course (Krishna Lodha)
+* Intro to web programming for GIS... (Michael Miller)
+* Display and analyze... with Leaflet (Michael Miller)
+* Intro to Spatial Databases with PostGIS... (Michael Miller)
+* Building Web GIS Apps with C# ASP.NET CORE MVC and Leaflet
+* QGIS 3.10 LTR for GIS Professionals Michael Miller
+==Java==
+*  Christian Gestys "Java leicht gemacht
+* Jannis Seemanns "Das Java - Bootcamp"
+* Christian Ullenbooms "Der moderne Java-Kurs, vom Anfänger zum Profi
+
+==C#==
+* Ultimate C# Masterclass for 2025 Krystyna Ślusarczyk
+* Complete C# Masterclass Denis Panjuta
+==html+css==
+*  Ruben Winklers „Der ultimative HTML5 und CSS3 Komplettkurs"</text>
+      <sha1>55z11kjhi6udrnkew2ntaoclfxe05ne</sha1>
+    </revision>
+    <revision>
+      <id>701</id>
+      <parentid>700</parentid>
+      <timestamp>2025-07-24T13:00:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>701</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1231" sha1="o3vhbwqc4heujjyzfijzeoy0lc1gtue" xml:space="preserve">==Visual Studio Code==
+* „Visual Studio Code for Developers 2025“ (Navone) Estefania Cassingena Navone
+==Asp Net Core==
+
+* ASP.NET Core | Projects | Bootcamp  Web Academy by Harsha Vardhan
+* .NET Core MVC - The Complete Guide [E-commerce] Bhrugen Pa
+* The complete ASP.NET Core 9 course for busy devel Denis Panjuta
+==Spring Boot==
+
+* Spring &amp; Hibernate for Beginners (includes Spring Boot) by Chad Darby
+* in28Minutes' Master Spring Boot 3 &amp; Spring Framework 6 with Java
+* John Thompsons Spring Boot 3, Spring Framework 6: Beginner to Guru
+
+==Web Gis==
+* Web GIS development course (Krishna Lodha)
+* Intro to web programming for GIS... (Michael Miller)
+* Display and analyze... with Leaflet (Michael Miller)
+* Intro to Spatial Databases with PostGIS... (Michael Miller)
+* Building Web GIS Apps with C# ASP.NET CORE MVC and Leaflet
+* QGIS 3.10 LTR for GIS Professionals Michael Miller
+==Java==
+*  Christian Gestys "Java leicht gemacht
+* Jannis Seemanns "Das Java - Bootcamp"
+* Christian Ullenbooms "Der moderne Java-Kurs, vom Anfänger zum Profi
+
+==C#==
+* Ultimate C# Masterclass for 2025 Krystyna Ślusarczyk
+* Complete C# Masterclass Denis Panjuta
+==html+css==
+*  Ruben Winklers „Der ultimative HTML5 und CSS3 Komplettkurs"</text>
+      <sha1>o3vhbwqc4heujjyzfijzeoy0lc1gtue</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>IDE:Anki</title>
+    <ns>3008</ns>
+    <id>182</id>
+    <revision>
+      <id>692</id>
+      <timestamp>2025-07-23T02:04:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „== Anki ist ein Programm zum Lernen von Vokabeln und anderen Inhalten. Es ist für Windows, Linux und Mac OS X verfügbar. Anki ist Open Source und kostenlos. Es ist auch für Android und iOS verfügbar, aber diese Versionen sind nicht kostenlos. ==“</comment>
+      <origin>692</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="249" sha1="ac1j10yh69lv307n2jap4d77eabaq0j" xml:space="preserve">== Anki ist ein Programm zum Lernen von Vokabeln und anderen Inhalten. Es ist für Windows, Linux und Mac OS X verfügbar. Anki ist Open Source und kostenlos. Es ist auch für Android und iOS verfügbar, aber diese Versionen sind nicht kostenlos. ==</text>
+      <sha1>ac1j10yh69lv307n2jap4d77eabaq0j</sha1>
+    </revision>
+    <revision>
+      <id>693</id>
+      <parentid>692</parentid>
+      <timestamp>2025-07-23T02:04:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>693</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="247" sha1="hynfikw1g82iyp2hhpum6qcx3z0ksak" xml:space="preserve"> Anki ist ein Programm zum Lernen von Vokabeln und anderen Inhalten. Es ist für Windows, Linux und Mac OS X verfügbar. Anki ist Open Source und kostenlos. Es ist auch für Android und iOS verfügbar, aber diese Versionen sind nicht kostenlos. ==</text>
+      <sha1>hynfikw1g82iyp2hhpum6qcx3z0ksak</sha1>
+    </revision>
+    <revision>
+      <id>694</id>
+      <parentid>693</parentid>
+      <timestamp>2025-07-23T02:05:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>694</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="243" sha1="rlzqjs19v6bg8b087ftnv5z0fzzx1tt" xml:space="preserve">Anki ist ein Programm zum Lernen von Vokabeln und anderen Inhalten. Es ist für Windows, Linux und Mac OS X verfügbar. Anki ist Open Source und kostenlos. Es ist auch für Android und iOS verfügbar, aber diese Versionen sind nicht kostenlos.</text>
+      <sha1>rlzqjs19v6bg8b087ftnv5z0fzzx1tt</sha1>
+    </revision>
+    <revision>
+      <id>695</id>
+      <parentid>694</parentid>
+      <timestamp>2025-07-23T02:08:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>695</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="338" sha1="j2fh54zxazvk9wx59u5lduc0h5f71f5" xml:space="preserve">Anki ist ein Programm zum Lernen von Vokabeln und anderen Inhalten. Es ist für Windows, Linux und Mac OS X verfügbar. Anki ist Open Source und kostenlos. Es ist auch für Android und iOS verfügbar, aber diese Versionen sind nicht kostenlos.
+
+
+=== Anforderungen ===
+ &lt;code&gt;sudo apt install libxcb-xinerama0 libxcb-cursor0 libnss3&lt;/code&gt;</text>
+      <sha1>j2fh54zxazvk9wx59u5lduc0h5f71f5</sha1>
+    </revision>
+    <revision>
+      <id>696</id>
+      <parentid>695</parentid>
+      <timestamp>2025-07-23T02:08:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>696</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="500" sha1="440291np61pkbzs2mjmweflmavztq5e" xml:space="preserve">Anki ist ein Programm zum Lernen von Vokabeln und anderen Inhalten. Es ist für Windows, Linux und Mac OS X verfügbar. Anki ist Open Source und kostenlos. Es ist auch für Android und iOS verfügbar, aber diese Versionen sind nicht kostenlos.
+
+
+=== Anforderungen ===
+ &lt;code&gt;sudo apt install libxcb-xinerama0 libxcb-cursor0 libnss3&lt;/code&gt;
+
+
+=== Anki herunterladen ===
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://github.com/ankitects/anki/releases/download/25.02/anki-25.02-linux-qt6.tar.zst&lt;/nowiki&gt;&lt;/code&gt;</text>
+      <sha1>440291np61pkbzs2mjmweflmavztq5e</sha1>
+    </revision>
+    <revision>
+      <id>697</id>
+      <parentid>696</parentid>
+      <timestamp>2025-07-23T02:10:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>697</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="504" sha1="m07m0qxirilxksruskhpa99eo51azr6" xml:space="preserve">Anki ist ein Programm zum Lernen von Vokabeln und anderen Inhalten. Es ist für Windows, Linux und Mac OS X verfügbar. Anki ist Open Source und kostenlos. Es ist auch für Android und iOS verfügbar, aber diese Versionen sind nicht kostenlos.
+
+
+=== Anforderungen ===
+ &lt;code&gt;sudo apt install libxcb-xinerama0 libxcb-cursor0 libnss3&lt;/code&gt;
+
+
+=== Anki herunterladen ===
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://github.com/ankitects/anki/releases/download/25.02.7/anki-25.02.7-linux-qt6.tar.zst&lt;/nowiki&gt;&lt;/code&gt;</text>
+      <sha1>m07m0qxirilxksruskhpa99eo51azr6</sha1>
+    </revision>
+    <revision>
+      <id>698</id>
+      <parentid>697</parentid>
+      <timestamp>2025-07-23T02:19:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>698</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="758" sha1="h5bqnlruahfaetnres4oj3u1s0pzv1y" xml:space="preserve">Anki ist ein Programm zum Lernen von Vokabeln und anderen Inhalten. Es ist für Windows, Linux und Mac OS X verfügbar. Anki ist Open Source und kostenlos. Es ist auch für Android und iOS verfügbar, aber diese Versionen sind nicht kostenlos.
+
+
+=== Anforderungen ===
+ &lt;code&gt;sudo apt install libxcb-xinerama0 libxcb-cursor0 libnss3&lt;/code&gt;
+
+
+=== Anki herunterladen ===
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://github.com/ankitects/anki/releases/download/25.02.7/anki-25.02.7-linux-qt6.tar.zst&lt;/nowiki&gt;&lt;/code&gt;
+
+
+ &lt;code&gt;tar xaf anki-25.02.7-linux-qt6.tar.zst
+ cd  anki-25.02.7-linux-qt6.tar.zst
+ sudo ./install.sh
+ QT_DEBUG_PLUGINS=1 anki&lt;/code&gt;
+
+=== Erweiterungen ===
+
+==== Erweiterungen installieren ====
+ &lt;code&gt;1436550454 1933645497 1463041493 1190756458&lt;/code&gt;</text>
+      <sha1>h5bqnlruahfaetnres4oj3u1s0pzv1y</sha1>
+    </revision>
+    <revision>
+      <id>699</id>
+      <parentid>698</parentid>
+      <timestamp>2025-07-23T12:19:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Anki herunterladen */</comment>
+      <origin>699</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="750" sha1="dxyzihxtx2lmbehfb7jqgegido5xa8s" xml:space="preserve">Anki ist ein Programm zum Lernen von Vokabeln und anderen Inhalten. Es ist für Windows, Linux und Mac OS X verfügbar. Anki ist Open Source und kostenlos. Es ist auch für Android und iOS verfügbar, aber diese Versionen sind nicht kostenlos.
+
+
+=== Anforderungen ===
+ &lt;code&gt;sudo apt install libxcb-xinerama0 libxcb-cursor0 libnss3&lt;/code&gt;
+
+
+=== Anki herunterladen ===
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://github.com/ankitects/anki/releases/download/25.02.7/anki-25.02.7-linux-qt6.tar.zst&lt;/nowiki&gt;&lt;/code&gt;
+
+
+ &lt;code&gt;tar xaf anki-25.02.7-linux-qt6.tar.zst
+ cd  anki-25.02.7-linux-qt6
+ sudo ./install.sh
+ QT_DEBUG_PLUGINS=1 anki&lt;/code&gt;
+
+=== Erweiterungen ===
+
+==== Erweiterungen installieren ====
+ &lt;code&gt;1436550454 1933645497 1463041493 1190756458&lt;/code&gt;</text>
+      <sha1>dxyzihxtx2lmbehfb7jqgegido5xa8s</sha1>
     </revision>
   </page>
 </mediawiki>
