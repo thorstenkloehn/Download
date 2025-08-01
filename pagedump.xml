@@ -18736,6 +18736,29 @@ Das Wiki-Prinzip ermöglicht es mehreren Benutzern, Inhalte gemeinschaftlich und
 * [[Server:Ahrensburg.city Asp Anwendung]]</text>
       <sha1>qq75rnqdwvlou898gzsxfcyckm6kejt</sha1>
     </revision>
+    <revision>
+      <id>712</id>
+      <parentid>646</parentid>
+      <timestamp>2025-08-01T03:26:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>712</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="295" sha1="ftwuazh05sxufcyg70xvldsi7ndqse1" xml:space="preserve">* [[Server:Mieten]]
+* [[Server:Backup]]
+* [[Server:Ubuntu Software Pakete Installieren]]
+* [[Server:KachelServer]]
+* [[Server:Apache Port ändern]]
+* [[Server:SSL]]
+* [[Server:Nginx Einstellung]]
+* [[Server:Mediawiki Installieren]]
+* [[Server:Postfix]]
+* [[Server:Ahrensburg.city Asp Anwendung]]</text>
+      <sha1>ftwuazh05sxufcyg70xvldsi7ndqse1</sha1>
+    </revision>
   </page>
   <page>
     <title>Server:Ns3000:Mieten</title>
@@ -20312,6 +20335,63 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
 * [[Ubuntu Software Pakete Installieren]]
 * [[Server:Asp Net Core]]</text>
       <sha1>qz5aqmkoeiq8z8no776cspuz6hzqx26</sha1>
+    </revision>
+    <revision>
+      <id>706</id>
+      <parentid>405</parentid>
+      <timestamp>2025-07-30T13:57:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>706</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="139" sha1="iup7kh1uhzj0sv9lx2dvnsdvi76dhmi" xml:space="preserve">==Server==
+* [[Server:Mieten]]
+* [[Server:Backup]]
+* [[Ubuntu Software Pakete Installieren]]
+* [[Server:Asp Net Core]]
+* [[Server:Mailfix]]</text>
+      <sha1>iup7kh1uhzj0sv9lx2dvnsdvi76dhmi</sha1>
+    </revision>
+    <revision>
+      <id>708</id>
+      <parentid>706</parentid>
+      <timestamp>2025-08-01T03:09:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>708</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="139" sha1="ea2termv6ourtfzzejf8jcxymj69oee" xml:space="preserve">==Server==
+* [[Server:Mieten]]
+* [[Server:Backup]]
+* [[Ubuntu Software Pakete Installieren]]
+* [[Server:Asp Net Core]]
+* [[Server:Postfix]]</text>
+      <sha1>ea2termv6ourtfzzejf8jcxymj69oee</sha1>
+    </revision>
+    <revision>
+      <id>709</id>
+      <parentid>708</parentid>
+      <timestamp>2025-08-01T03:10:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>709</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="146" sha1="gtw4f2uky1i6ezyp0gboc8l1r7fqqpf" xml:space="preserve">==Server==
+* [[Server:Mieten]]
+* [[Server:Backup]]
+* [[Server:Ubuntu Software Pakete Installieren]]
+* [[Server:Asp Net Core]]
+* [[Server:Postfix]]</text>
+      <sha1>gtw4f2uky1i6ezyp0gboc8l1r7fqqpf</sha1>
     </revision>
   </page>
   <page>
@@ -25881,6 +25961,139 @@ sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlr
 &lt;/pre&gt;</text>
       <sha1>7whkxkkbhishx9a7tyjkj2r448sywvd</sha1>
     </revision>
+    <revision>
+      <id>710</id>
+      <parentid>617</parentid>
+      <timestamp>2025-08-01T03:10:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>710</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2219" sha1="81j5yvir9vcvfgjo6dky5l87s9wu2rd" xml:space="preserve">== System aktualisieren und upgraden ==
+Um Ihr Ubuntu-System zu aktualisieren und zu upgraden, können Sie die folgenden Befehle verwenden:
+
+# '''System aktualisieren'''
+
+Der Befehl &lt;code&gt;sudo apt update&lt;/code&gt; wird verwendet, um die Paketlisten für Upgrades zu aktualisieren, die installiert werden müssen, sowie für neue Pakete, die installiert werden können.
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+&lt;/pre&gt;
+
+== Weitere Pakete installieren ==
+Mit folgendem Befehl installieren Sie alle benötigten Pakete:
+&lt;pre&gt;
+sudo apt install screen locate libapache2-mod-tile renderd git tar unzip wget bzip2 apache2 lua5.1 mapnik-utils python3-mapnik python3-psycopg2 python3-yaml gdal-bin postgresql postgresql-contrib postgis postgresql-16-postgis-3 postgresql-16-postgis-3-scripts osm2pgsql net-tools curl osmosis snapd nginx
+&lt;/pre&gt;
+
+== Node.js installieren ==
+Anleitung zur Installation von Node.js auf Ubuntu 24.04 LTS:
+&lt;pre&gt;
+sudo apt install curl
+curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+source ~/.bashrc
+nvm install 22
+&lt;/pre&gt;
+
+== .NET installieren ==
+&lt;pre&gt;
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:dotnet/backports
+sudo apt-get update
+sudo apt-get install -y aspnetcore-runtime-9.0
+&lt;/pre&gt;
+
+== Java installieren ==
+&lt;pre&gt;
+sudo apt update
+sudo apt-get install openjdk-21-jre
+java -version
+&lt;/pre&gt;
+
+== Python installieren ==
+&lt;pre&gt;
+sudo apt install python3 python3-pip python3-venv python-is-python3
+&lt;/pre&gt;
+== PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;</text>
+      <sha1>81j5yvir9vcvfgjo6dky5l87s9wu2rd</sha1>
+    </revision>
+    <revision>
+      <id>711</id>
+      <parentid>710</parentid>
+      <timestamp>2025-08-01T03:11:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Composer Installieren */</comment>
+      <origin>711</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1718" sha1="s5owpraguf8u3y69rl3sgp60s92m2da" xml:space="preserve">== System aktualisieren und upgraden ==
+Um Ihr Ubuntu-System zu aktualisieren und zu upgraden, können Sie die folgenden Befehle verwenden:
+
+# '''System aktualisieren'''
+
+Der Befehl &lt;code&gt;sudo apt update&lt;/code&gt; wird verwendet, um die Paketlisten für Upgrades zu aktualisieren, die installiert werden müssen, sowie für neue Pakete, die installiert werden können.
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+&lt;/pre&gt;
+
+== Weitere Pakete installieren ==
+Mit folgendem Befehl installieren Sie alle benötigten Pakete:
+&lt;pre&gt;
+sudo apt install screen locate libapache2-mod-tile renderd git tar unzip wget bzip2 apache2 lua5.1 mapnik-utils python3-mapnik python3-psycopg2 python3-yaml gdal-bin postgresql postgresql-contrib postgis postgresql-16-postgis-3 postgresql-16-postgis-3-scripts osm2pgsql net-tools curl osmosis snapd nginx
+&lt;/pre&gt;
+
+== Node.js installieren ==
+Anleitung zur Installation von Node.js auf Ubuntu 24.04 LTS:
+&lt;pre&gt;
+sudo apt install curl
+curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+source ~/.bashrc
+nvm install 22
+&lt;/pre&gt;
+
+== .NET installieren ==
+&lt;pre&gt;
+sudo apt install software-properties-common
+sudo add-apt-repository ppa:dotnet/backports
+sudo apt-get update
+sudo apt-get install -y aspnetcore-runtime-9.0
+&lt;/pre&gt;
+
+== Java installieren ==
+&lt;pre&gt;
+sudo apt update
+sudo apt-get install openjdk-21-jre
+java -version
+&lt;/pre&gt;
+
+== Python installieren ==
+&lt;pre&gt;
+sudo apt install python3 python3-pip python3-venv python-is-python3
+&lt;/pre&gt;
+== PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;</text>
+      <sha1>s5owpraguf8u3y69rl3sgp60s92m2da</sha1>
+    </revision>
   </page>
   <page>
     <title>Server:KachelServer</title>
@@ -29240,6 +29453,26 @@ exit # Ausloggen
 * [[IDE:Asp Net Core]]
 * [[IDE:Anki]]</text>
       <sha1>mokkjcryazvbkqsmzcb6fs3kwmqsf0b</sha1>
+    </revision>
+    <revision>
+      <id>714</id>
+      <parentid>691</parentid>
+      <timestamp>2025-08-01T22:45:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>714</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="156" sha1="4rna5r8ie797vwf1x8e6meh7i0or8je" xml:space="preserve">* [[IDE:Installieren]]
+* [[IDE:Mediawiki Installieren]]
+* [[IDE:Moodle]]
+* [[IDE:Qgis Installieren]]
+* [[IDE:Asp Net Core]]
+* [[IDE:Anki]]
+* [[IDE:Postfix]]</text>
+      <sha1>4rna5r8ie797vwf1x8e6meh7i0or8je</sha1>
     </revision>
   </page>
   <page>
@@ -38826,6 +39059,311 @@ Die Lernkurve für Web-Frameworks wie ASP.NET Core, Spring Boot, Echo (Golang), 
 ==== Erweiterungen installieren ====
  &lt;code&gt;1436550454 1933645497 1463041493 1190756458&lt;/code&gt;</text>
       <sha1>dxyzihxtx2lmbehfb7jqgegido5xa8s</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Server:Mailfix</title>
+    <ns>3000</ns>
+    <id>183</id>
+    <revision>
+      <id>707</id>
+      <timestamp>2025-07-30T13:57:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; sudo apt update &amp;&amp; sudo apt install -y postfix certbot &lt;/pre&gt;“</comment>
+      <origin>707</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="67" sha1="5hwzw0ceyx3lzchwa92r3jkzvi4julk" xml:space="preserve">&lt;pre&gt;
+sudo apt update &amp;&amp; sudo apt install -y postfix certbot
+&lt;/pre&gt;</text>
+      <sha1>5hwzw0ceyx3lzchwa92r3jkzvi4julk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Server:Postfix</title>
+    <ns>3000</ns>
+    <id>184</id>
+    <revision>
+      <id>713</id>
+      <timestamp>2025-08-01T12:29:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>713</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3451" sha1="jeymvjaw8bgmaw46kormj7l25nnl927" xml:space="preserve">= Postfix Installation auf Ubuntu mit Let's Encrypt SSL =
+
+== Voraussetzungen ==
+* Ubuntu Server (20.04 LTS oder neuer)
+* Root- oder sudo-Zugriff
+* Öffentliche Domain mit DNS-Eintrag auf Server-IP
+* Ports 25, 587, 465 in Firewall geöffnet
+
+== Schritt 1: System aktualisieren ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo apt update
+sudo apt upgrade -y
+&lt;/syntaxhighlight&gt;
+
+== Schritt 2: Postfix installieren ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo apt install postfix -y
+&lt;/syntaxhighlight&gt;
+
+Bei der Installation wählen:
+* General type: '''Internet Site'''
+* System mail name: '''ihre-domain.de'''
+
+== Schritt 3: Postfix Grundkonfiguration ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo nano /etc/postfix/main.cf
+&lt;/syntaxhighlight&gt;
+
+Wichtige Einstellungen anpassen:
+&lt;syntaxhighlight lang="text"&gt;
+myhostname = mail.ihre-domain.de
+mydomain = ihre-domain.de
+myorigin = $mydomain
+mydestination = $myhostname, localhost.$mydomain, localhost, $mydomain
+mynetworks = 127.0.0.0/8 [::ffff:127.0.0.0]/104 [::1]/128
+home_mailbox = Maildir/
+&lt;/syntaxhighlight&gt;
+
+== Schritt 4: Certbot für Let's Encrypt installieren ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo apt install certbot -y
+&lt;/syntaxhighlight&gt;
+
+== Schritt 5: SSL-Zertifikat erstellen ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo certbot certonly --standalone -d mail.ihre-domain.de
+&lt;/syntaxhighlight&gt;
+
+E-Mail-Adresse eingeben und Bedingungen akzeptieren.
+
+== Schritt 6: Postfix für SSL konfigurieren ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo nano /etc/postfix/main.cf
+&lt;/syntaxhighlight&gt;
+
+SSL-Einstellungen hinzufügen:
+&lt;syntaxhighlight lang="text"&gt;
+# TLS parameters
+smtpd_tls_cert_file=/etc/letsencrypt/live/mail.ihre-domain.de/fullchain.pem
+smtpd_tls_key_file=/etc/letsencrypt/live/mail.ihre-domain.de/privkey.pem
+smtpd_use_tls=yes
+smtpd_tls_security_level=may
+smtpd_tls_protocols = !SSLv2, !SSLv3, !TLSv1, !TLSv1.1
+smtpd_tls_mandatory_protocols = !SSLv2, !SSLv3, !TLSv1, !TLSv1.1
+smtp_tls_security_level=may
+smtp_tls_note_starttls_offer=yes
+&lt;/syntaxhighlight&gt;
+
+== Schritt 7: Submission Port aktivieren ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo nano /etc/postfix/master.cf
+&lt;/syntaxhighlight&gt;
+
+Folgende Zeilen auskommentieren/hinzufügen:
+&lt;syntaxhighlight lang="text"&gt;
+submission inet n       -       y       -       -       smtpd
+    -o syslog_name=postfix/submission
+    -o smtpd_tls_security_level=encrypt
+    -o smtpd_sasl_auth_enable=yes
+    -o smtpd_recipient_restrictions=permit_sasl_authenticated,reject
+&lt;/syntaxhighlight&gt;
+
+== Schritt 8: Postfix neu starten ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo systemctl restart postfix
+sudo systemctl enable postfix
+&lt;/syntaxhighlight&gt;
+
+== Schritt 9: Automatische Zertifikatserneuerung ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo crontab -e
+&lt;/syntaxhighlight&gt;
+
+Hinzufügen:
+&lt;syntaxhighlight lang="text"&gt;
+0 2 * * * /usr/bin/certbot renew --quiet --post-hook "systemctl reload postfix"
+&lt;/syntaxhighlight&gt;
+
+== Testen ==
+&lt;syntaxhighlight lang="bash"&gt;
+# Postfix Status prüfen
+sudo systemctl status postfix
+
+# SSL-Verbindung testen
+openssl s_client -connect mail.ihre-domain.de:587 -starttls smtp
+&lt;/syntaxhighlight&gt;
+
+
+
+== Test-Mail senden ==
+
+Mit dem folgenden Befehl kann eine Test-Mail über die Kommandozeile versendet werden:
+
+&lt;syntaxhighlight lang="bash"&gt;
+echo "Dies ist eine Test-Mail von Postfix." | mail -s "Postfix Test" empfaenger@beispiel.de
+&lt;/syntaxhighlight&gt;
+
+Falls das Paket '''mailutils''' noch nicht installiert ist:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo apt install mailutils -y
+&lt;/syntaxhighlight&gt;</text>
+      <sha1>jeymvjaw8bgmaw46kormj7l25nnl927</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>IDE:Postfix</title>
+    <ns>3008</ns>
+    <id>185</id>
+    <revision>
+      <id>715</id>
+      <timestamp>2025-08-01T22:50:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>715</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1425" sha1="foqfhjez5k2smth5wthmao0x2xig0qt" xml:space="preserve">= Postfix mit MailHog auf Ubuntu einrichten =
+
+== Schritt 1: System aktualisieren ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo apt update
+sudo apt upgrade -y
+&lt;/syntaxhighlight&gt;
+
+== Schritt 2: Postfix installieren ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo apt install postfix -y
+&lt;/syntaxhighlight&gt;
+
+Bei der Installation:
+* "Internet Site" auswählen
+* System mail name: localhost oder gewünschter Hostname
+
+== Schritt 3: Mailutils installieren ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo apt install mailutils -y
+&lt;/syntaxhighlight&gt;
+
+== Schritt 4: MailHog installieren ==
+&lt;syntaxhighlight lang="bash"&gt;
+wget https://github.com/mailhog/MailHog/releases/download/v1.0.1/MailHog_linux_amd64
+sudo chmod +x MailHog_linux_amd64
+sudo mv MailHog_linux_amd64 /usr/local/bin/mailhog
+&lt;/syntaxhighlight&gt;
+
+== Schritt 5: Postfix für MailHog konfigurieren ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo nano /etc/postfix/main.cf
+&lt;/syntaxhighlight&gt;
+
+Folgende Zeilen hinzufügen/ändern:
+&lt;syntaxhighlight lang="text"&gt;
+relayhost = [127.0.0.1]:1025
+&lt;/syntaxhighlight&gt;
+
+== Schritt 6: Postfix neustarten ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo systemctl restart postfix
+&lt;/syntaxhighlight&gt;
+
+== Schritt 7: MailHog starten ==
+&lt;syntaxhighlight lang="bash"&gt;
+mailhog
+&lt;/syntaxhighlight&gt;
+
+MailHog läuft auf:
+* SMTP: localhost:1025
+* Web UI: http://localhost:8025
+
+== Test ==
+&lt;syntaxhighlight lang="bash"&gt;
+echo "Test Mail" | mail -s "Test Subject" test@example.com
+&lt;/syntaxhighlight&gt;</text>
+      <sha1>foqfhjez5k2smth5wthmao0x2xig0qt</sha1>
+    </revision>
+    <revision>
+      <id>716</id>
+      <parentid>715</parentid>
+      <timestamp>2025-08-01T23:02:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>716</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1300" sha1="ja4lqrlqqp4m6w7wf60bwsqvvt8vsla" xml:space="preserve">= Postfix mit MailHog auf Ubuntu einrichten =
+
+== Schritt 1: System aktualisieren ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo apt update
+sudo apt upgrade -y
+&lt;/syntaxhighlight&gt;
+
+== Schritt 2: Postfix installieren ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo apt install postfix -y
+&lt;/syntaxhighlight&gt;
+
+Bei der Installation:
+* "Internet Site" auswählen
+* System mail name: localhost oder gewünschter Hostname
+
+== Schritt 3: Mailutils installieren ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo apt install mailutils -y
+&lt;/syntaxhighlight&gt;
+
+== Schritt 4: MailHog installieren ==
+&lt;syntaxhighlight lang="bash"&gt;
+go install github.com/mailhog/MailHog@latest
+&lt;/syntaxhighlight&gt;
+
+== Schritt 5: Postfix für MailHog konfigurieren ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo nano /etc/postfix/main.cf
+&lt;/syntaxhighlight&gt;
+
+Folgende Zeilen hinzufügen/ändern:
+&lt;syntaxhighlight lang="text"&gt;
+relayhost = [127.0.0.1]:1025
+&lt;/syntaxhighlight&gt;
+
+== Schritt 6: Postfix neustarten ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo systemctl restart postfix
+&lt;/syntaxhighlight&gt;
+
+== Schritt 7: MailHog starten ==
+&lt;syntaxhighlight lang="bash"&gt;
+mailhog
+&lt;/syntaxhighlight&gt;
+
+MailHog läuft auf:
+* SMTP: localhost:1025
+* Web UI: http://localhost:8025
+
+== Test ==
+&lt;syntaxhighlight lang="bash"&gt;
+echo "Test Mail" | mail -s "Test Subject" test@example.com
+&lt;/syntaxhighlight&gt;</text>
+      <sha1>ja4lqrlqqp4m6w7wf60bwsqvvt8vsla</sha1>
     </revision>
   </page>
 </mediawiki>
