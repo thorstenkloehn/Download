@@ -20548,6 +20548,123 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
 * [[Kurse:Moderne-C-Charp Class Aufbau]]</text>
       <sha1>93mlbked92oaslfb92fwyhjw7mut8kq</sha1>
     </revision>
+    <revision>
+      <id>788</id>
+      <parentid>777</parentid>
+      <timestamp>2025-09-25T18:33:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>788</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1126" sha1="gaky5btqwnk38tvoctnh2ljhzdxaous" xml:space="preserve">* [[Kurse:HTTP]] - [[Kurse:HTTP Code Übungen]]
+* [[Kurse:Middleware]] - [[Kurse:Tägich Middleware Übungen]]
+* [[Kurse:Routing]] - [[Kurse:Täglich Routing Übungen]]
+* [[Kurse:Controllers]] - [[Kurse:Täglich Controllers Übungen]]
+* [[Kurse:Model Binding]] - [[Kurse:Täglich Model Binding Übungen]]
+* [[Kurse:Razor Views]] - [[Kurse:Täglich Razor Views]]
+* [[Kurse:Layout Views]] - [[Kurse:Täglich Layout Views Übungen]]
+* [[Kurse:Partial Views]]
+* [[Kurse:View Components]]
+* [[Kurse:Services]]
+* [[Kurse:ASP.NET Core Environments]]
+* [[Kurse:ASP.NET Core Konfiguration]]
+* [[Kurse:Crud Operations]]
+* [[Kurse:Tag Helpers]]
+* [[Kurse:Entity Framework Core]]
+* [[Kurse:ASP.NET Core Identity &amp; Authorization]]
+==Kurse Übungen Projekt==
+* [[Kurse:News Site erstellen]]
+* [[Kurse:Lernplan für Asp net Core nach einzelnen Schritten]]
+* [[Kurse:Asp Net Core Übung 1]]
+* [[C Sharp gibt es folgende Kategorien von Datentypen]]
+
+==Kurse==
+* [[Kurse:Udemy.com]]
+* [[Kurse:Variable-Datentypen]]
+
+==Wichtige Befehl==
+* [[Kurse:Asp Net Core Einstellung]]
+* [[Kurse:Datentypen-C-Sharp]]
+* [[Kurse:Moderne-C-Charp Class Aufbau]]</text>
+      <sha1>gaky5btqwnk38tvoctnh2ljhzdxaous</sha1>
+    </revision>
+    <revision>
+      <id>790</id>
+      <parentid>788</parentid>
+      <timestamp>2025-09-26T08:29:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>790</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1150" sha1="czzedspmht76hmvlp3pmj6kgzxg91jl" xml:space="preserve">* [[Kurse:Lerntechnik]]
+* [[Kurse:HTTP]] - [[Kurse:HTTP Code Übungen]]
+* [[Kurse:Middleware]] - [[Kurse:Tägich Middleware Übungen]]
+* [[Kurse:Routing]] - [[Kurse:Täglich Routing Übungen]]
+* [[Kurse:Controllers]] - [[Kurse:Täglich Controllers Übungen]]
+* [[Kurse:Model Binding]] - [[Kurse:Täglich Model Binding Übungen]]
+* [[Kurse:Razor Views]] - [[Kurse:Täglich Razor Views]]
+* [[Kurse:Layout Views]] - [[Kurse:Täglich Layout Views Übungen]]
+* [[Kurse:Partial Views]]
+* [[Kurse:View Components]]
+* [[Kurse:Services]]
+* [[Kurse:ASP.NET Core Environments]]
+* [[Kurse:ASP.NET Core Konfiguration]]
+* [[Kurse:Crud Operations]]
+* [[Kurse:Tag Helpers]]
+* [[Kurse:Entity Framework Core]]
+* [[Kurse:ASP.NET Core Identity &amp; Authorization]]
+==Kurse Übungen Projekt==
+* [[Kurse:News Site erstellen]]
+* [[Kurse:Lernplan für Asp net Core nach einzelnen Schritten]]
+* [[Kurse:Asp Net Core Übung 1]]
+* [[C Sharp gibt es folgende Kategorien von Datentypen]]
+
+==Kurse==
+* [[Kurse:Udemy.com]]
+* [[Kurse:Variable-Datentypen]]
+
+==Wichtige Befehl==
+* [[Kurse:Asp Net Core Einstellung]]
+* [[Kurse:Datentypen-C-Sharp]]
+* [[Kurse:Moderne-C-Charp Class Aufbau]]</text>
+      <sha1>czzedspmht76hmvlp3pmj6kgzxg91jl</sha1>
+    </revision>
+    <revision>
+      <id>795</id>
+      <parentid>790</parentid>
+      <timestamp>2025-09-28T11:03:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Der Seiteninhalt wurde durch einen anderen Text ersetzt: „* [[Kurse:Lerntechnik]]“</comment>
+      <origin>795</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="t4e5d0qlcsfs1y3fao6mxsjs1naludl" xml:space="preserve">* [[Kurse:Lerntechnik]]</text>
+      <sha1>t4e5d0qlcsfs1y3fao6mxsjs1naludl</sha1>
+    </revision>
+    <revision>
+      <id>796</id>
+      <parentid>795</parentid>
+      <timestamp>2025-09-28T11:08:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>796</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="53" sha1="3t28abgsj7mfn8tt1bust5e2hef3p1l" xml:space="preserve">* [[Kurse:Lerntechnik]]
+* [[Kurse:Asp net core leer]]</text>
+      <sha1>3t28abgsj7mfn8tt1bust5e2hef3p1l</sha1>
+    </revision>
   </page>
   <page>
     <title>Server:Haupseite</title>
@@ -35219,6 +35336,1137 @@ code --install-extension vmware.vscode-boot-dev-pack
 &lt;/pre&gt;</text>
       <sha1>bxiqg3lscdvt4z9m1kaop06bmnpzplx</sha1>
     </revision>
+    <revision>
+      <id>780</id>
+      <parentid>774</parentid>
+      <timestamp>2025-09-16T09:01:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>780</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5047" sha1="r0o5v6c3zm5z96d5oqhf7tg6oyacl2i" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.1.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.1.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-21-jdk
+sudo apt install maven 
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;code&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.AvaloniaVS
+&lt;/code&gt;</text>
+      <sha1>r0o5v6c3zm5z96d5oqhf7tg6oyacl2i</sha1>
+    </revision>
+    <revision>
+      <id>781</id>
+      <parentid>780</parentid>
+      <timestamp>2025-09-16T09:02:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Avalonia Installieren */</comment>
+      <origin>781</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5045" sha1="h5hjxn0nltcey15pbk4lvuxtaxgww3w" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.1.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.1.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-21-jdk
+sudo apt install maven 
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.AvaloniaVS
+&lt;/pre&gt;</text>
+      <sha1>h5hjxn0nltcey15pbk4lvuxtaxgww3w</sha1>
+    </revision>
+    <revision>
+      <id>782</id>
+      <parentid>781</parentid>
+      <timestamp>2025-09-16T09:06:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Visual Studio Code Extensions */</comment>
+      <origin>782</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5050" sha1="nru80ctkfdhy01xapaszyvzggnlyh8b" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.1.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.1.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-21-jdk
+sudo apt install maven 
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.vscode-avalonia
+&lt;/pre&gt;</text>
+      <sha1>nru80ctkfdhy01xapaszyvzggnlyh8b</sha1>
+    </revision>
+    <revision>
+      <id>783</id>
+      <parentid>782</parentid>
+      <timestamp>2025-09-19T07:34:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Avalonia Installieren */</comment>
+      <origin>783</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4464" sha1="bxiqg3lscdvt4z9m1kaop06bmnpzplx" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.1.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.1.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-21-jdk
+sudo apt install maven 
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+&lt;/pre&gt;</text>
+      <sha1>bxiqg3lscdvt4z9m1kaop06bmnpzplx</sha1>
+    </revision>
+    <revision>
+      <id>784</id>
+      <parentid>783</parentid>
+      <timestamp>2025-09-19T09:42:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>784</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5050" sha1="nru80ctkfdhy01xapaszyvzggnlyh8b" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.1.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.1.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-21-jdk
+sudo apt install maven 
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.vscode-avalonia
+&lt;/pre&gt;</text>
+      <sha1>nru80ctkfdhy01xapaszyvzggnlyh8b</sha1>
+    </revision>
+    <revision>
+      <id>798</id>
+      <parentid>784</parentid>
+      <timestamp>2025-09-28T12:41:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* dotnet */</comment>
+      <origin>798</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5106" sha1="nrtfuux523iiu4tf0pwt9m52xpzs9bm" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.1.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.1.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-21-jdk
+sudo apt install maven 
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.vscode-avalonia
+&lt;/pre&gt;</text>
+      <sha1>nrtfuux523iiu4tf0pwt9m52xpzs9bm</sha1>
+    </revision>
+    <revision>
+      <id>799</id>
+      <parentid>798</parentid>
+      <timestamp>2025-09-28T12:42:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>799</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5107" sha1="p4nywvznjfp1pbrhruoweed0tus3fte" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.1.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.1.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-21-jdk
+sudo apt install maven 
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.vscode-avalonia
+&lt;/pre&gt;</text>
+      <sha1>p4nywvznjfp1pbrhruoweed0tus3fte</sha1>
+    </revision>
   </page>
   <page>
     <title>Verkehrsanbindung</title>
@@ -41506,6 +42754,127 @@ C Programming Bootcamp - The Complete C Language Course	Vlad Budnitski
 * [[Kurse:Später lernen]]</text>
       <sha1>8g7heiiudwrymr6nk03u85svipibzup</sha1>
     </revision>
+    <revision>
+      <id>785</id>
+      <parentid>761</parentid>
+      <timestamp>2025-09-23T07:21:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Javascript */</comment>
+      <origin>785</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1046" sha1="a6wmyyyi28fmfbmmnfpdgmvb0e0hwpj" xml:space="preserve">==Visual Studio Code==
+* „Visual Studio Code for Developers 2025“ (Navone) Estefania Cassingena Navone
+==Asp Net Core==
+* ASP.NET Core | Projects | Bootcamp  Web Academy by Harsha Vardhan
+* .NET Core MVC - The Complete Guide [E-commerce] Bhrugen Pa
+* The complete ASP.NET Core 9 course for busy devel Denis Panjuta
+==Spring Boot==
+* in28Minutes' Master Spring Boot 3 &amp; Spring Framework 6 with Java
+==Java==
+* Tim Buchalka: The Complete Java Masterclass 
+* Christian Ullenboom Der moderne Java-Kurs, vom Anfänger zum Profi
+==C#==
+* Complete C# Masterclass Denis Panjuta
+==Javascript==
+*  Jonas Schmedtmann The Complete JavaScript Course 2025: From Zero to Expert!
+* Die komplette JavaScript Masterclass: Vom Anfänger zum Profi (Jannis Seemann)
+* Der ultimative JavaScript Komplettkurs (Ruben Winkler)
+
+==html+css==
+*  Brad Traversy Modern HTML &amp; CSS From The Beginning 2.0
+* Jonas Schmedtmann Build Responsive Real-World Websites with HTML and CSS
+* Anthony Alicea Understanding HTML and CSS
+==Weiter Information==
+* [[Kurse:Später lernen]]</text>
+      <sha1>a6wmyyyi28fmfbmmnfpdgmvb0e0hwpj</sha1>
+    </revision>
+    <revision>
+      <id>786</id>
+      <parentid>785</parentid>
+      <timestamp>2025-09-23T07:36:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* html+css */</comment>
+      <origin>786</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1238" sha1="ociravf7f7q0h00r0bouxo70lxw9rk4" xml:space="preserve">==Visual Studio Code==
+* „Visual Studio Code for Developers 2025“ (Navone) Estefania Cassingena Navone
+==Asp Net Core==
+* ASP.NET Core | Projects | Bootcamp  Web Academy by Harsha Vardhan
+* .NET Core MVC - The Complete Guide [E-commerce] Bhrugen Pa
+* The complete ASP.NET Core 9 course for busy devel Denis Panjuta
+==Spring Boot==
+* in28Minutes' Master Spring Boot 3 &amp; Spring Framework 6 with Java
+==Java==
+* Tim Buchalka: The Complete Java Masterclass 
+* Christian Ullenboom Der moderne Java-Kurs, vom Anfänger zum Profi
+==C#==
+* Complete C# Masterclass Denis Panjuta
+==Javascript==
+*  Jonas Schmedtmann The Complete JavaScript Course 2025: From Zero to Expert!
+* Die komplette JavaScript Masterclass: Vom Anfänger zum Profi (Jannis Seemann)
+* Der ultimative JavaScript Komplettkurs (Ruben Winkler)
+
+==html+css==
+* Jonas Schmedtmann Build Responsive Real-World Websites with HTML and CSS
+* Der ultimative HTML5 und CSS3 Komplettkurs“
+Ruben Winkler
+* „HTML &amp; CSS High-Level-Masterclass – Vom Grundwissen zur Perfektion“ BytersLab
+* „HTML5 &amp; CSS3 – Modernes Webdesign Meisterkurs“ Lourny
+* „Baue Webseiten mit HTML5 &amp; CSS3: Vom Anfänger zum Profi!“ Jannis Seemann
+
+==Weiter Information==
+* [[Kurse:Später lernen]]</text>
+      <sha1>ociravf7f7q0h00r0bouxo70lxw9rk4</sha1>
+    </revision>
+    <revision>
+      <id>787</id>
+      <parentid>786</parentid>
+      <timestamp>2025-09-23T07:43:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* html+css */</comment>
+      <origin>787</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1238" sha1="708sz7j1kpj7utlv8sqk17jaba21cdo" xml:space="preserve">==Visual Studio Code==
+* „Visual Studio Code for Developers 2025“ (Navone) Estefania Cassingena Navone
+==Asp Net Core==
+* ASP.NET Core | Projects | Bootcamp  Web Academy by Harsha Vardhan
+* .NET Core MVC - The Complete Guide [E-commerce] Bhrugen Pa
+* The complete ASP.NET Core 9 course for busy devel Denis Panjuta
+==Spring Boot==
+* in28Minutes' Master Spring Boot 3 &amp; Spring Framework 6 with Java
+==Java==
+* Tim Buchalka: The Complete Java Masterclass 
+* Christian Ullenboom Der moderne Java-Kurs, vom Anfänger zum Profi
+==C#==
+* Complete C# Masterclass Denis Panjuta
+==Javascript==
+*  Jonas Schmedtmann The Complete JavaScript Course 2025: From Zero to Expert!
+* Die komplette JavaScript Masterclass: Vom Anfänger zum Profi (Jannis Seemann)
+* Der ultimative JavaScript Komplettkurs (Ruben Winkler)
+
+==html+css==
+* Jonas Schmedtmann Build Responsive Real-World Websites with HTML and CSS
+* Der ultimative HTML5 und CSS3 Komplettkurs“ Ruben Winkler
+* „HTML &amp; CSS High-Level-Masterclass – Vom Grundwissen zur Perfektion“ BytersLab
+* „HTML5 &amp; CSS3 – Modernes Webdesign Meisterkurs“ Lourny
+* „Baue Webseiten mit HTML5 &amp; CSS3: Vom Anfänger zum Profi!“ Jannis Seemann
+
+==Weiter Information==
+* [[Kurse:Später lernen]]</text>
+      <sha1>708sz7j1kpj7utlv8sqk17jaba21cdo</sha1>
+    </revision>
   </page>
   <page>
     <title>IDE:Anki</title>
@@ -45622,6 +46991,422 @@ public class Person
 }
 &lt;/syntaxhighlight&gt;</text>
       <sha1>lj096jptmjkrjkrdt55agp95thojb5k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Asp Net Core Einstellung</title>
+    <ns>3002</ns>
+    <id>194</id>
+    <revision>
+      <id>789</id>
+      <timestamp>2025-09-25T18:50:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt; var builder = WebApplication.CreateBuilder(args); builder.Services.AddControllersWithViews(); var app = builder.Build();  app.UseStaticFiles(); app.UseRouting();  app.MapControllerRoute(     name: "default",     pattern: "{controller=Home}/{action=Index}/{id?}"); &lt;/pre&gt;“</comment>
+      <origin>789</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="276" sha1="f1aydb18yt92c3cgpin8hzry3tje82g" xml:space="preserve">&lt;pre&gt;
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllersWithViews();
+var app = builder.Build();
+
+app.UseStaticFiles();
+app.UseRouting();
+
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+&lt;/pre&gt;</text>
+      <sha1>f1aydb18yt92c3cgpin8hzry3tje82g</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Lerntechnik</title>
+    <ns>3002</ns>
+    <id>195</id>
+    <revision>
+      <id>791</id>
+      <timestamp>2025-09-26T10:25:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>791</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="941" sha1="nx9b7caj2veorjkq5ha8qd0dhyhk0m4" xml:space="preserve">==Lernressourcen==
+* Lernpath
+* Schritt für Schritte Anleitung
+* Schritt für Schritt
+* Kleine Projekte umsetzen
+* Tutorials
+* Kurse
+* Dokumentationen
+* Video-Tutorials
+* Coding-Plattformen
+* Cheat Sheets und Spickzettel
+* Coding-Challenge
+* Microlearning (Lernen in kleinen Einheiten)
+
+==Projektbasiertes und Nicht-Lineares Lernen==
+Projektbasiertes Lernen ist eine Lernmethode, bei der Lernende Wissen und Kompetenzen durch die Bearbeitung von Projekten erwerben. Im Mittelpunkt steht dabei die eigenständige Planung, Durchführung und Präsentation eines Projekts, das häufig an realen Problemen oder Fragestellungen orientiert ist. Diese Methode fördert selbstständiges Arbeiten, Teamfähigkeit und die Anwendung von Wissen in praxisnahen Situationen.
+
+* Learning by Doing / Projektmethode
+* Interleaving (Durchmischen)
+* Top-Down-Lernen
+* Active Recall (Aktives Erinnern)
+* Challenge-Based Learning (Lernen durch Herausforderungen)</text>
+      <sha1>nx9b7caj2veorjkq5ha8qd0dhyhk0m4</sha1>
+    </revision>
+    <revision>
+      <id>792</id>
+      <parentid>791</parentid>
+      <timestamp>2025-09-26T13:08:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>792</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1015" sha1="s4plooxmod84ospou8sw4k6yhv0quwy" xml:space="preserve">==Lernressourcen==
+* Lernpath
+* Schritt für Schritte Anleitung
+* Schritt für Schritt
+* Kleine Projekte umsetzen
+* Tutorials
+* Kurse
+* Dokumentationen
+* Video-Tutorials
+* Coding-Plattformen
+* Cheat Sheets und Spickzettel
+* Coding-Challenge
+* Microlearning (Lernen in kleinen Einheiten)
+* Notizen
+* Best Practices
+* Learning by Teaching (Lernen durch Erklären)
+==Projektbasiertes und Nicht-Lineares Lernen==
+Projektbasiertes Lernen ist eine Lernmethode, bei der Lernende Wissen und Kompetenzen durch die Bearbeitung von Projekten erwerben. Im Mittelpunkt steht dabei die eigenständige Planung, Durchführung und Präsentation eines Projekts, das häufig an realen Problemen oder Fragestellungen orientiert ist. Diese Methode fördert selbstständiges Arbeiten, Teamfähigkeit und die Anwendung von Wissen in praxisnahen Situationen.
+
+* Learning by Doing / Projektmethode
+* Interleaving (Durchmischen)
+* Top-Down-Lernen
+* Active Recall (Aktives Erinnern)
+* Challenge-Based Learning (Lernen durch Herausforderungen)</text>
+      <sha1>s4plooxmod84ospou8sw4k6yhv0quwy</sha1>
+    </revision>
+    <revision>
+      <id>793</id>
+      <parentid>792</parentid>
+      <timestamp>2025-09-27T04:32:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Lernressourcen */</comment>
+      <origin>793</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="889" sha1="tmjj6gd3lhdyczcf0obcam8j2r7u4bv" xml:space="preserve">==Lernressourcen==
+* Lernpath
+* Schritt für Schritte Anleitung
+* Schritt für Schritt
+* Tutorials und Dokumentationen
+* Kleine Projekte umsetzen (Micro-Projekte)
+* Coding-Plattformen und Coding-Challenges 
+* Notizen 
+* Best Practices
+
+==Projektbasiertes und Nicht-Lineares Lernen==
+Projektbasiertes Lernen ist eine Lernmethode, bei der Lernende Wissen und Kompetenzen durch die Bearbeitung von Projekten erwerben. Im Mittelpunkt steht dabei die eigenständige Planung, Durchführung und Präsentation eines Projekts, das häufig an realen Problemen oder Fragestellungen orientiert ist. Diese Methode fördert selbstständiges Arbeiten, Teamfähigkeit und die Anwendung von Wissen in praxisnahen Situationen.
+
+* Learning by Doing / Projektmethode
+* Interleaving (Durchmischen)
+* Top-Down-Lernen
+* Active Recall (Aktives Erinnern)
+* Challenge-Based Learning (Lernen durch Herausforderungen)</text>
+      <sha1>tmjj6gd3lhdyczcf0obcam8j2r7u4bv</sha1>
+    </revision>
+    <revision>
+      <id>794</id>
+      <parentid>793</parentid>
+      <timestamp>2025-09-27T05:19:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>794</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2681" sha1="2ro89rslphv3ficylkdg5hw0fca90bu" xml:space="preserve">==Die besten modernen Lernmethoden für das Lernen von Programmiersprachen==
+
+Effektives Programmierenlernen kombiniert praktische Übung, kognitive Strategien und soziale Formate. Die folgenden Ansätze lassen sich flexibel mischen und iterativ anwenden.
+
+===Praktische Ansätze===
+* '''Projektbasiertes Lernen''': Eigene Mini‑Projekte (z.B. To‑Do‑App, CLI‑Tool, kleines Spiel) liefern schnellen Praxisbezug und fördern Transfer.
+* '''Coding-Challenges und Online-Plattformen''': Regelmäßiges Lösen von Aufgaben auf [[LeetCode]], [[HackerRank]] oder [[Codewars]] festigt Syntax und Problemlösungsfähigkeiten.
+* '''Pair Programming''': Abwechselndes „Driver/Navigator“-Arbeiten erhöht Code‑Qualität und Wissenstransfer.
+* '''Katas und Refactoring''': Wiederholtes Lösen kleiner Aufgaben schärft Automatisierung und sauberes Design.
+* '''Open-Source-Beiträge''': Kleine PRs an Einsteigerfreundlichen Repos zeigen reale Standards und Workflows.
+
+===Kognitive Methoden===
+* '''Active Recall (Aktives Erinnern)''': Wissen aktiv abrufen (Kurztests, Karteikarten) statt nur erneut lesen.
+* '''Spaced Repetition (Verteiltes Wiederholen)''': Inhalte in wachsenden Intervallen wiederholen (z.B. mit Anki).
+* '''Interleaving (Vermischtes Lernen)''': Themen und Aufgabentypen mischen, um flexible Kompetenz aufzubauen.
+* '''Feynman-Technik''': Konzepte einfach erklären und Lücken gezielt schließen.
+* '''Deliberate Practice (Bewusstes Üben)''': Eng umrissene Schwächen (z.B. Rekursion, Tests) mit Feedback trainieren.
+* '''Testing-Effekt''': Häufige Selbsttests statt passiver Wiederholung erhöhen Behaltensleistung.
+
+===Soziale und strukturierte Ansätze===
+* '''Peer Learning''': Lernen in Tandems/Gruppe; gegenseitige Reviews, gemeinsame Retrospektiven.
+* '''Micro-Learning''': Kurze, fokussierte Einheiten (15–30 Min.) mit klarem Ziel.
+* '''Gamification''': Badges, Levels, Streaks zur Motivationsstütze.
+* '''Mentoring/Code-Reviews''': Gezieltes Feedback beschleunigt Lernkurven und Qualitätsverständnis.
+
+===Alternative Lernstrategien===
+* '''Top-Down-Lernen''': Vom Ziel/Prototyp ausgehend nur die nötigen Details vertiefen.
+* '''REPL-basiertes Lernen''': Sofortiges Feedback durch REPL/Notebooks (z.B. Python, Node.js, Clojure).
+* '''Learning in Public''': Notizen/Projekte öffentlich dokumentieren (Blog, GitHub), um Feedback zu erhalten.
+
+===Praktische Umsetzung (Kurzleitfaden)===
+# Konkretes Wochenziel definieren (Feature/Kata).
+# Täglich 30–60 Min. Praxis + 10–15 Min. Active Recall/Spaced Repetition.
+# Wöchentlich 1 Code-Review/Pair-Session einplanen.
+# Mini‑Retro durchführen: Was hat funktioniert? Was nächste Woche ändern?</text>
+      <sha1>2ro89rslphv3ficylkdg5hw0fca90bu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Asp net core leer</title>
+    <ns>3002</ns>
+    <id>196</id>
+    <revision>
+      <id>797</id>
+      <timestamp>2025-09-28T11:28:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>797</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="40" sha1="dj8661pt2jj33qgwrxsvtc8ybhtnx4p" xml:space="preserve">==Asp net core leer==
+===Vorausetzung===</text>
+      <sha1>dj8661pt2jj33qgwrxsvtc8ybhtnx4p</sha1>
+    </revision>
+    <revision>
+      <id>800</id>
+      <parentid>797</parentid>
+      <timestamp>2025-09-28T13:19:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>800</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1891" sha1="s7xzn6ycy8pvq94l6iodhawa1z8bw0l" xml:space="preserve">==Asp net core leer==
+===Vorausetzung===
+'''Wichtige Grundlagen für ASP.NET Core:'''
+* ASP.NET Core ist ein plattformübergreifendes, Open-Source-Framework für moderne Webanwendungen.
+* Die wichtigsten Konzepte sind Middleware, Dependency Injection und Routing.
+* Projekte werden meist mit dem Befehl `dotnet new` erstellt.
+* Die Datei `Program.cs` ist der Einstiegspunkt der Anwendung.
+* Konfiguration erfolgt über `appsettings.json` und Umgebungsvariablen.
+* Für Datenbankzugriffe wird häufig Entity Framework Core verwendet.
+* Entwicklungswerkzeuge: Visual Studio Code, .NET CLI, Browser.
+&lt;pre&gt;
+sudo snap install code --classic
+sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+sudo apt-get update # Aktualisiert die Paketliste
+sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+dotnet tool install --global dotnet-ef
+dotnet tool install --global dotnet-aspnet-codegenerator
+dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+source ~/.bashrc  # Aktualisierung der .bashrc
+code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung
+&lt;/pre&gt;
+
+
+
+===Wichtige Übung===
+
+&lt;pre&gt;
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllersWithViews();
+var app = builder.Build();
+app.UseStaticFiles();
+app.UseRouting();
+app.MapControllerRoute(
+
+   name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+app.Run();
+
+
+&lt;/pre&gt;
+
+===Wichtige Frontend Pakete===
+&lt;pre&gt;
+libman install bootstrap -p cdnjs -d wwwroot/lib/bootstrap
+libman install jquery -p cdnjs -d wwwroot/lib/jquery
+&lt;/pre&gt;</text>
+      <sha1>s7xzn6ycy8pvq94l6iodhawa1z8bw0l</sha1>
+    </revision>
+    <revision>
+      <id>801</id>
+      <parentid>800</parentid>
+      <timestamp>2025-09-28T13:23:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>801</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1903" sha1="531l4p31xv05ziknw8cez97oqv5e8zi" xml:space="preserve">==Asp net core leer==
+===Vorausetzung===
+'''Wichtige Grundlagen für ASP.NET Core:'''
+* ASP.NET Core ist ein plattformübergreifendes, Open-Source-Framework für moderne Webanwendungen.
+* Die wichtigsten Konzepte sind Middleware, Dependency Injection und Routing.
+* Projekte werden meist mit dem Befehl `dotnet new` erstellt.
+* Die Datei `Program.cs` ist der Einstiegspunkt der Anwendung.
+* Konfiguration erfolgt über `appsettings.json` und Umgebungsvariablen.
+* Für Datenbankzugriffe wird häufig Entity Framework Core verwendet.
+* Entwicklungswerkzeuge: Visual Studio Code, .NET CLI, Browser.
+&lt;pre&gt;
+sudo snap install code --classic
+sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+sudo apt-get update # Aktualisiert die Paketliste
+sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+dotnet tool install --global dotnet-ef
+dotnet tool install --global dotnet-aspnet-codegenerator
+dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+source ~/.bashrc  # Aktualisierung der .bashrc
+code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung
+&lt;/pre&gt;
+
+
+
+===Wichtige Übung===
+
+&lt;pre&gt;
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllersWithViews();
+var app = builder.Build();
+app.UseStaticFiles();
+app.UseRouting();
+app.MapControllerRoute(
+
+   name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+app.Run();
+
+
+&lt;/pre&gt;
+
+===Wichtige Frontend Pakete===
+&lt;pre&gt;
+libman init
+libman install bootstrap -p cdnjs -d wwwroot/lib/bootstrap
+libman install jquery -p cdnjs -d wwwroot/lib/jquery
+&lt;/pre&gt;</text>
+      <sha1>531l4p31xv05ziknw8cez97oqv5e8zi</sha1>
+    </revision>
+    <revision>
+      <id>802</id>
+      <parentid>801</parentid>
+      <timestamp>2025-09-28T14:30:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>802</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2077" sha1="1a07pl3r7kog14ru6b6lkzbdiiy1mv2" xml:space="preserve">==Asp net core leer==
+===Vorausetzung===
+'''Wichtige Grundlagen für ASP.NET Core:'''
+* ASP.NET Core ist ein plattformübergreifendes, Open-Source-Framework für moderne Webanwendungen.
+* Die wichtigsten Konzepte sind Middleware, Dependency Injection und Routing.
+* Projekte werden meist mit dem Befehl `dotnet new` erstellt.
+* Die Datei `Program.cs` ist der Einstiegspunkt der Anwendung.
+* Konfiguration erfolgt über `appsettings.json` und Umgebungsvariablen.
+* Für Datenbankzugriffe wird häufig Entity Framework Core verwendet.
+* Entwicklungswerkzeuge: Visual Studio Code, .NET CLI, Browser.
+&lt;pre&gt;
+sudo snap install code --classic
+sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+sudo apt-get update # Aktualisiert die Paketliste
+sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+dotnet tool install --global dotnet-ef
+dotnet tool install --global dotnet-aspnet-codegenerator
+dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+source ~/.bashrc  # Aktualisierung der .bashrc
+code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung
+&lt;/pre&gt;
+
+
+
+===Wichtige Übung===
+
+&lt;pre&gt;
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllersWithViews();
+var app = builder.Build();
+app.UseStaticFiles();
+app.UseRouting();
+app.MapControllerRoute(
+
+   name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+app.Run();
+
+
+&lt;/pre&gt;
+
+===Wichtige Frontend Pakete===
+&lt;pre&gt;
+libman init
+libman install bootstrap -p cdnjs -d wwwroot/lib/bootstrap
+libman install jquery -p cdnjs -d wwwroot/lib/jquery
+libman install jquery-validation-unobtrusive -p cdnjs -d wwwroot/lib/jquery-validation-unobtrusive
+libman install jquery-validation -p cdnjs -d wwwroot/lib/jquery-validation
+&lt;/pre&gt;</text>
+      <sha1>1a07pl3r7kog14ru6b6lkzbdiiy1mv2</sha1>
     </revision>
   </page>
 </mediawiki>
