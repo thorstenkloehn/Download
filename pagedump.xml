@@ -20665,6 +20665,75 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
 * [[Kurse:Asp net core leer]]</text>
       <sha1>3t28abgsj7mfn8tt1bust5e2hef3p1l</sha1>
     </revision>
+    <revision>
+      <id>804</id>
+      <parentid>796</parentid>
+      <timestamp>2025-09-29T09:23:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>804</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="92" sha1="3xr7r3aht3z5ee7lb0cmhs1wgq6uy7y" xml:space="preserve">* [[Kurse:Lerntechnik]]
+* [[Kurse:asp net core Alle Konzept ]]
+* [[Kurse:Asp net core leer]]</text>
+      <sha1>3xr7r3aht3z5ee7lb0cmhs1wgq6uy7y</sha1>
+    </revision>
+    <revision>
+      <id>806</id>
+      <parentid>804</parentid>
+      <timestamp>2025-09-30T23:18:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>806</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="136" sha1="hvc3zfvm25cp9fcak17pzdaz8mx0gis" xml:space="preserve">* [[Kurse:Lerntechnik]]
+* [[Kurse:asp net core Alle Konzept ]]
+* [[Kurse:Cms Webramework in asp net core]]
+* [[Kurse:Asp net core leer]]</text>
+      <sha1>hvc3zfvm25cp9fcak17pzdaz8mx0gis</sha1>
+    </revision>
+    <revision>
+      <id>822</id>
+      <parentid>806</parentid>
+      <timestamp>2025-10-08T21:44:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>822</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="175" sha1="5p68avo65z4l30ewkd29frlx70wuj7u" xml:space="preserve">* [[Kurse:Lerntechnik]]
+* [[Kurse:asp net core Alle Konzept ]]
+* [[Kurse:Cms Webramework in asp net core]]
+* [[Kurse:Asp net core leer]]
+* [[Kurse:Alternativen zu Drupal (CMS)</text>
+      <sha1>5p68avo65z4l30ewkd29frlx70wuj7u</sha1>
+    </revision>
+    <revision>
+      <id>823</id>
+      <parentid>822</parentid>
+      <timestamp>2025-10-08T21:45:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>823</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="177" sha1="t55jgjtyk5iomk0tuyno8zbqrar5nzv" xml:space="preserve">* [[Kurse:Lerntechnik]]
+* [[Kurse:asp net core Alle Konzept ]]
+* [[Kurse:Cms Webramework in asp net core]]
+* [[Kurse:Asp net core leer]]
+* [[Kurse:Alternativen zu Drupal (CMS)]]</text>
+      <sha1>t55jgjtyk5iomk0tuyno8zbqrar5nzv</sha1>
+    </revision>
   </page>
   <page>
     <title>Server:Haupseite</title>
@@ -26874,6 +26943,62 @@ sudo systemctl start nginx
 &lt;/pre&gt;</text>
       <sha1>bn1cv7n7shhys4wfredahwgdqj85u9l</sha1>
     </revision>
+    <revision>
+      <id>812</id>
+      <parentid>455</parentid>
+      <timestamp>2025-10-07T03:03:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>812</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2340" sha1="7wncquguo727suphab4mpw6db07ntyu" xml:space="preserve">Die folgenden Befehle richten die Umgebung für die Nutzung von Certbot mit Nginx auf einem Linux-System ein:
+
+# &lt;code&gt;sudo apt install snapd&lt;/code&gt;  Installiert den Snap-Daemon, der benötigt wird, um Snap-Pakete (wie Certbot) zu installieren.
+# &lt;code&gt;sudo apt-get install nginx&lt;/code&gt;  Installiert den Nginx-Webserver.
+# &lt;code&gt;sudo rm /etc/nginx/sites-enabled/default&lt;/code&gt;  Entfernt die Standardkonfiguration von Nginx, um Konflikte mit eigenen Einstellungen zu vermeiden.
+# &lt;code&gt;sudo systemctl stop nginx&lt;/code&gt;  Stoppt den laufenden Nginx-Dienst, damit Certbot später Zertifikate anfordern und konfigurieren kann.
+# &lt;code&gt;sudo snap install --classic certbot&lt;/code&gt;  Installiert Certbot (das Tool zur Verwaltung von SSL-Zertifikaten von Let's Encrypt) über Snap.
+# &lt;code&gt;sudo ln -s /snap/bin/certbot /usr/bin/certbot&lt;/code&gt;  Erstellt einen symbolischen Link, damit Certbot systemweit als Befehl verfügbar ist.
+# &lt;code&gt;sudo systemctl stop nginx&lt;/code&gt;  Stoppt Nginx erneut, um sicherzustellen, dass der Webserver für die Zertifikatsanfrage nicht läuft.
+
+Diese Schritte bereiten das System darauf vor, SSL-Zertifikate mit Certbot für Nginx zu erstellen und zu verwalten.
+
+==Kurze Form==
+&lt;pre&gt;
+sudo apt install snapd
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+sudo systemctl stop nginx
+sudo snap install --classic certbot
+sudo ln -s /snap/bin/certbot /usr/bin/certbot
+sudo systemctl stop nginx
+&lt;/pre&gt;
+Nach der Eingabe der obigen Befehle können Sie mit den folgenden Schritten fortfahren, um SSL-Zertifikate für Ihre Domains zu erstellen und Nginx wieder zu starten.
+&lt;pre&gt;
+sudo certbot certonly --standalone -d ahrensburg.city -d www.ahrensburg.city
+sudo certbot certonly --standalone -d alterwiki.ahrensburg.city
+sudo systemctl start nginx
+&lt;/pre&gt;
+Um ein Wildcard-SSL-Zertifikat mit Certbot und Let's Encrypt zu erstellen, muss die DNS-01-Challenge verwendet werden. Beispiel:
+
+&lt;pre&gt;
+sudo certbot certonly --manual --preferred-challenges dns -d "*.ahrensburg.city" -d ahrensburg.city
+&lt;/pre&gt;
+
+Sie werden aufgefordert, einen speziellen DNS-TXT-Eintrag für Ihre Domain zu setzen. Nach erfolgreicher Validierung wird das Zertifikat erstellt.
+
+Weitere Informationen: [Let's Encrypt Wildcard-Zertifikate](https://certbot.eff.org/docs/using.html#wildcard-certificates)
+
+&lt;pre&gt;
+ahrensburg.city-0002 Befehl
+
+&lt;/pre&gt;</text>
+      <sha1>7wncquguo727suphab4mpw6db07ntyu</sha1>
+    </revision>
   </page>
   <page>
     <title>Server:Nginx Einstellung</title>
@@ -30043,6 +30168,27 @@ exit # Ausloggen
 * [[IDE:Postfix]]
 * [[IDE:asp identity]]</text>
       <sha1>ozjibhej8d778pcqgkm9adz9bwpub6q</sha1>
+    </revision>
+    <revision>
+      <id>813</id>
+      <parentid>718</parentid>
+      <timestamp>2025-10-07T22:30:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>813</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="179" sha1="7kqg0so3tgdraxgizwipjkrorv6suul" xml:space="preserve">* [[IDE:Installieren]]
+* [[IDE:Mediawiki Installieren]]
+* [[IDE:Drupal]]
+* [[IDE:Qgis Installieren]]
+* [[IDE:Asp Net Core]]
+* [[IDE:Anki]]
+* [[IDE:Postfix]]
+* [[IDE:asp identity]]</text>
+      <sha1>7kqg0so3tgdraxgizwipjkrorv6suul</sha1>
     </revision>
   </page>
   <page>
@@ -36466,6 +36612,340 @@ code --install-extension ms-dotnettools.csdevkit
 code --install-extension AvaloniaTeam.vscode-avalonia
 &lt;/pre&gt;</text>
       <sha1>p4nywvznjfp1pbrhruoweed0tus3fte</sha1>
+    </revision>
+    <revision>
+      <id>808</id>
+      <parentid>799</parentid>
+      <timestamp>2025-10-01T03:24:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* dotnet */</comment>
+      <origin>808</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5162" sha1="cxxdh550z99fextkldr5i9bswa93ekn" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.1.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.1.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+dotnet new install OrchardCore.ProjectTemplates::2.2.0
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-21-jdk
+sudo apt install maven 
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.vscode-avalonia
+&lt;/pre&gt;</text>
+      <sha1>cxxdh550z99fextkldr5i9bswa93ekn</sha1>
+    </revision>
+    <revision>
+      <id>809</id>
+      <parentid>808</parentid>
+      <timestamp>2025-10-01T03:24:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* dotnet */</comment>
+      <origin>809</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5163" sha1="4oowiziaydzw50upqgbbdaop09idduq" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.1.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.1.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+ dotnet new install OrchardCore.ProjectTemplates::2.2.0
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-21-jdk
+sudo apt install maven 
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.vscode-avalonia
+&lt;/pre&gt;</text>
+      <sha1>4oowiziaydzw50upqgbbdaop09idduq</sha1>
     </revision>
   </page>
   <page>
@@ -47407,6 +47887,942 @@ libman install jquery-validation-unobtrusive -p cdnjs -d wwwroot/lib/jquery-vali
 libman install jquery-validation -p cdnjs -d wwwroot/lib/jquery-validation
 &lt;/pre&gt;</text>
       <sha1>1a07pl3r7kog14ru6b6lkzbdiiy1mv2</sha1>
+    </revision>
+    <revision>
+      <id>803</id>
+      <parentid>802</parentid>
+      <timestamp>2025-09-29T09:18:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Wichtige Frontend Pakete */</comment>
+      <origin>803</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2044" sha1="jkqv9lifiwzzupqarua94byjth3fgjs" xml:space="preserve">==Asp net core leer==
+===Vorausetzung===
+'''Wichtige Grundlagen für ASP.NET Core:'''
+* ASP.NET Core ist ein plattformübergreifendes, Open-Source-Framework für moderne Webanwendungen.
+* Die wichtigsten Konzepte sind Middleware, Dependency Injection und Routing.
+* Projekte werden meist mit dem Befehl `dotnet new` erstellt.
+* Die Datei `Program.cs` ist der Einstiegspunkt der Anwendung.
+* Konfiguration erfolgt über `appsettings.json` und Umgebungsvariablen.
+* Für Datenbankzugriffe wird häufig Entity Framework Core verwendet.
+* Entwicklungswerkzeuge: Visual Studio Code, .NET CLI, Browser.
+&lt;pre&gt;
+sudo snap install code --classic
+sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+sudo apt-get update # Aktualisiert die Paketliste
+sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+dotnet tool install --global dotnet-ef
+dotnet tool install --global dotnet-aspnet-codegenerator
+dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+source ~/.bashrc  # Aktualisierung der .bashrc
+code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung
+&lt;/pre&gt;
+
+
+
+===Wichtige Übung===
+
+&lt;pre&gt;
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllersWithViews();
+var app = builder.Build();
+app.UseStaticFiles();
+app.UseRouting();
+app.MapControllerRoute(
+
+   name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}");
+app.Run();
+
+
+&lt;/pre&gt;
+
+===Wichtige Frontend Pakete===
+&lt;pre&gt;
+libman init
+libman install bootstrap  -d wwwroot/lib/bootstrap
+libman install jquery  -d wwwroot/lib/jquery
+libman install jquery-validation-unobtrusive  -d wwwroot/lib/jquery-validation-unobtrusive
+libman install jquery-validation -d wwwroot/lib/jquery-validation
+&lt;/pre&gt;</text>
+      <sha1>jkqv9lifiwzzupqarua94byjth3fgjs</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Asp net core Alle Konzept</title>
+    <ns>3002</ns>
+    <id>197</id>
+    <revision>
+      <id>805</id>
+      <timestamp>2025-09-29T21:59:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>805</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3441" sha1="j7xc8qwqqni58o737vrzc3fs017689y" xml:space="preserve">==Asp net core Alle Konzept==
+* '''HTTP-Methoden:''' GET zum Lesen, POST zum Erstellen, PUT/PATCH zum Aktualisieren, DELETE zum Löschen. Idempotenz, Safe-Methods und passende Statuscodes beachten.
+* '''Middleware:''' Komponenten in der Request/Response-Pipeline, Reihenfolge bestimmt Verhalten. Use/Run/Map, eigene Middleware für Cross-Cutting-Concerns.
+* '''Routing:''' Endpoint Routing mit Attribut- oder konventionellem Routing. Routen-Constraints, Parameter, Areas und benannte Routen.
+* '''Controllers:''' MVC/ApiController, Actions liefern IActionResult/Typed Results. DI für Services, Attribut-Routing und ModelState-Verwendung.
+* '''Modelbindung und Validierung:''' Binding aus Route, Query, Header, Body. DataAnnotations oder FluentValidation; ModelState.IsValid prüfen; FromBody/FromQuery gezielt setzen.
+* '''Razor Views:''' .cshtml mit Razor-Syntax, @model für strongly typed Views. Layouts, Sections und automatisches HTML-Encoding.
+* '''Layout Views:''' Zentrales Layout (_Layout.cshtml), Section-Platzhalter, gemeinsame Assets (CSS/JS).
+* '''Partial Views:''' Wiederverwendbare View-Fragmente ohne eigene Pipeline. Übergabe von Teilmodellen mit Html.Partial/Html.RenderPartial oder Partial Tag Helper.
+* '''View Components:''' Kapseln Logik + View, unabhängig vom Controller-Lebenszyklus. Asynchron mit Component.InvokeAsync aufrufen.
+* '''Dependency Inversion:''' Gegen Abstraktionen programmieren; eingebaute DI mit Transient/Scoped/Singleton-Lifetimes. Registrierung über IServiceCollection, Nutzung via Konstruktorinjektion.
+* '''Environment:''' IHostEnvironment für Development/Staging/Production. Umgebungsabhängige appsettings, bedingte Middleware (z. B. Developer Exception Page nur in Development).
+* '''Configuration:''' Hierarchische Konfiguration aus JSON, Environment-Variablen, Secret Manager, Key Vault. Options-Pattern (IOptions/IOptionsMonitor) für stark typisierte Settings.
+* '''CRUD-Operationen:''' Erstellen, Lesen, Aktualisieren, Löschen von Entitäten; typische Endpunkte mit Validierung, Concurrency-Handling und korrekten Statuscodes.
+* '''Tag Helpers:''' Serverseitige Erweiterungen für semantisches HTML (z. B. asp-for, asp-action, asp-route). Bessere IntelliSense und Modelbinding-Integration.
+* '''Entity Framework Core:''' ORM mit DbContext/DbSet, LINQ, Change Tracking, Lazy/Eager Loading. Migrations, Beziehungen und Transaktionen.
+* '''Repository Pattern:''' Abstraktion der Datenzugriffsschicht; optional Unit of Work. Sinnvoll bei mehreren Stores/Tests; mit EF Core selektiv einsetzen.
+* '''Logging und Serilog:''' Microsoft.Extensions.Logging mit strukturierten Logs. Serilog-Provider mit Sinks, Enrichers, MinimumLevel und appsettings-Konfiguration.
+* '''Filters:''' Action/Result/Exception/Resource/Auth-Filter für Querschnittsfunktionen wie Caching, Validierung, Autorisierung.
+* '''Error Handling:''' DeveloperExceptionPage (Dev), ExceptionHandler/ProblemDetails (Prod). Einheitliche Fehler-DTOs, Logging und Korrelation (TraceId).
+* '''SOLID Principles:''' SRP, OCP, LSP, ISP, DIP für testbare, wartbare Services und Controller.
+* '''Clean Architecture:''' Schichten Domain/Application/Infrastructure/Web; Abhängigkeiten zeigen nach innen. Use-Cases in Application, Infrastruktur via DI ersetzbar.
+* '''ASP.NET Core Identity + EF Core:''' Benutzer, Rollen, Claims, Token, 2FA. IdentityDbContext-Store, Identity UI, Cookies oder JWT für Authentifizierung/Autorisierung.</text>
+      <sha1>j7xc8qwqqni58o737vrzc3fs017689y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Cms Webramework in asp net core</title>
+    <ns>3002</ns>
+    <id>198</id>
+    <revision>
+      <id>807</id>
+      <timestamp>2025-09-30T23:27:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>807</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="388" sha1="9tv442wzpoz1zyhkw2cihpzqrbs42dy" xml:space="preserve">== CMS-Webframeworks in ASP.NET Core mit PostgreSQL (nach Reifegrad) ==
+
+=== Produktionsreif ===
+* [https://orchardcore.net/ Orchard Core] – Modulares, Multi-Tenant CMS/Framework. PostgreSQL via YesSql-Provider; offizielle Templates/Docs vorhanden.
+* [https://piranhacms.org/ Piranha CMS] – Schlankes CMS auf ASP.NET Core. PostgreSQL via EF Core Provider (Piranha.Data.EF.PostgreSql).</text>
+      <sha1>9tv442wzpoz1zyhkw2cihpzqrbs42dy</sha1>
+    </revision>
+    <revision>
+      <id>810</id>
+      <parentid>807</parentid>
+      <timestamp>2025-10-01T17:14:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>810</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1486" sha1="0a6m9wpz30qgch3ekwt4dknk8cn8fdb" xml:space="preserve">== CMS-Webframeworks in ASP.NET Core mit PostgreSQL (nach Reifegrad) ==
+
+=== Produktionsreif ===
+==== Tier 1 ====
+* [https://orchardcore.net/ Orchard Core] – Modulares, Multi-Tenant CMS/Framework. PostgreSQL via YesSql-Provider; offizielle Templates/Docs vorhanden.
+* [https://piranhacms.org/ Piranha CMS] – Schlankes CMS auf ASP.NET Core. PostgreSQL via EF Core Provider (Piranha.Data.EF.PostgreSql).
+
+=== Tier 1 - Enterprise &amp; Community Supported ===
+* [https://www.nuget.org/packages/OrchardCore.Application.Cms.Targets/ OrchardCore.Application.Cms.Targets] – Vollständiges CMS-Framework mit PostgreSQL-Support
+* [https://www.nuget.org/packages/Piranha.Data.EF.PostgreSql/ Piranha.Data.EF.PostgreSql] – PostgreSQL-Provider für Piranha CMS
+
+
+=== Vergleich mit anderen Technologien ===
+==== Spring Boot CMS-Frameworks (Java) ====
+''Hinweis: Spring Boot ist ein Java-Framework, nicht ASP.NET Core. Dieser Abschnitt dient nur zu Vergleichszwecken.''
+
+* '''Magnolia CMS''' – Enterprise CMS mit Spring Boot Integration
+* '''Crafter CMS''' – Headless CMS mit Spring Boot Support
+* '''dotCMS''' – Enterprise Web CMS mit REST APIs für Spring Boot
+* '''Alf.io''' – Event-Management CMS auf Spring Boot Basis
+
+
+''Hinweis: Für sehr große Websites empfiehlt sich die Nutzung von Enterprise-Lösungen wie Orchard Core, Kentico Xperience oder spezialisierten Headless CMS wie Squidex, da diese Skalierbarkeit, Multi-Tenancy und umfangreiche Integrationsmöglichkeiten bieten.''</text>
+      <sha1>0a6m9wpz30qgch3ekwt4dknk8cn8fdb</sha1>
+    </revision>
+    <revision>
+      <id>811</id>
+      <parentid>810</parentid>
+      <timestamp>2025-10-02T21:50:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>811</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1217" sha1="d3biv4fps3quf3p0e7bmlro1eacllv2" xml:space="preserve">== CMS-Webframeworks in ASP.NET Core mit PostgreSQL (nach Reifegrad) ==
+
+=== Produktionsreif ===
+==== Tier 1 ====
+* [https://orchardcore.net/ Orchard Core] – Modulares, Multi-Tenant CMS/Framework. PostgreSQL via YesSql-Provider; offizielle Templates/Docs vorhanden.
+
+=== Tier 1 - Enterprise &amp; Community Supported ===
+* [https://www.nuget.org/packages/OrchardCore.Application.Cms.Targets/ OrchardCore.Application.Cms.Targets] – Vollständiges CMS-Framework mit PostgreSQL-Support
+
+
+=== Vergleich mit anderen Technologien ===
+==== Spring Boot CMS-Frameworks (Java) ====
+''Hinweis: Spring Boot ist ein Java-Framework, nicht ASP.NET Core. Dieser Abschnitt dient nur zu Vergleichszwecken.''
+
+* '''Magnolia CMS''' – Enterprise CMS mit Spring Boot Integration
+* '''Crafter CMS''' – Headless CMS mit Spring Boot Support
+* '''dotCMS''' – Enterprise Web CMS mit REST APIs für Spring Boot
+* '''Alf.io''' – Event-Management CMS auf Spring Boot Basis
+
+
+''Hinweis: Für sehr große Websites empfiehlt sich die Nutzung von Enterprise-Lösungen wie Orchard Core, Kentico Xperience oder spezialisierten Headless CMS wie Squidex, da diese Skalierbarkeit, Multi-Tenancy und umfangreiche Integrationsmöglichkeiten bieten.''</text>
+      <sha1>d3biv4fps3quf3p0e7bmlro1eacllv2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>IDE:Drupal</title>
+    <ns>3008</ns>
+    <id>199</id>
+    <revision>
+      <id>814</id>
+      <timestamp>2025-10-07T22:35:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>814</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="967" sha1="cgcobzd972rm5kuqq43yye0lu2mmj00" xml:space="preserve">== nginx auf Ubuntu installieren ==
+
+=== Voraussetzungen ===
+* Ubuntu Server (18.04 LTS oder neuer)
+* Root- oder sudo-Berechtigungen
+
+=== Installation ===
+
+==== Paketlisten aktualisieren ====
+&lt;source lang="bash"&gt;
+sudo apt update
+&lt;/source&gt;
+
+==== nginx installieren ====
+&lt;source lang="bash"&gt;
+sudo apt install nginx
+&lt;/source&gt;
+
+==== Status prüfen ====
+&lt;source lang="bash"&gt;
+sudo systemctl status nginx
+&lt;/source&gt;
+
+=== Firewall konfigurieren ===
+&lt;source lang="bash"&gt;
+sudo ufw allow 'Nginx Full'
+sudo ufw status
+&lt;/source&gt;
+
+=== Grundlegende Befehle ===
+&lt;source lang="bash"&gt;
+# nginx starten
+sudo systemctl start nginx
+
+# nginx stoppen
+sudo systemctl stop nginx
+
+# nginx neustarten
+sudo systemctl restart nginx
+
+# Konfiguration neu laden
+sudo systemctl reload nginx
+
+# Autostart aktivieren
+sudo systemctl enable nginx
+&lt;/source&gt;
+
+=== Wichtige Verzeichnisse ===
+* Konfiguration: &lt;code&gt;/etc/nginx/&lt;/code&gt;
+* Webroot: &lt;code&gt;/var/www/html/&lt;/code&gt;
+* Logs: &lt;code&gt;/var/log/nginx/&lt;/code&gt;</text>
+      <sha1>cgcobzd972rm5kuqq43yye0lu2mmj00</sha1>
+    </revision>
+    <revision>
+      <id>815</id>
+      <parentid>814</parentid>
+      <timestamp>2025-10-07T22:40:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>815</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1127" sha1="2ar432tudbwavk2s31a2wupekipj52t" xml:space="preserve">== nginx auf Ubuntu installieren ==
+
+=== Voraussetzungen ===
+* Ubuntu Server (18.04 LTS oder neuer)
+* Root- oder sudo-Berechtigungen
+
+=== Installation ===
+
+==== Paketlisten aktualisieren ====
+&lt;source lang="bash"&gt;
+sudo apt update
+&lt;/source&gt;
+
+==== nginx installieren ====
+&lt;source lang="bash"&gt;
+sudo apt install nginx
+&lt;/source&gt;
+
+==== Status prüfen ====
+&lt;source lang="bash"&gt;
+sudo systemctl status nginx
+&lt;/source&gt;
+
+=== Firewall konfigurieren ===
+&lt;source lang="bash"&gt;
+sudo ufw allow 'Nginx Full'
+sudo ufw status
+&lt;/source&gt;
+
+=== Grundlegende Befehle ===
+&lt;source lang="bash"&gt;
+# nginx starten
+sudo systemctl start nginx
+
+# nginx stoppen
+sudo systemctl stop nginx
+
+# nginx neustarten
+sudo systemctl restart nginx
+
+# Konfiguration neu laden
+sudo systemctl reload nginx
+
+# Autostart aktivieren
+sudo systemctl enable nginx
+&lt;/source&gt;
+
+=== Wichtige Verzeichnisse ===
+* Konfiguration: &lt;code&gt;/etc/nginx/&lt;/code&gt;
+* Webroot: &lt;code&gt;/var/www/html/&lt;/code&gt;
+* Logs: &lt;code&gt;/var/log/nginx/&lt;/code&gt;
+
+== Drupal mit PostgreSQL ==
+
+=== Datenbank anlegen ===
+&lt;source lang="bash"&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten drupal
+exit # Ausloggen
+&lt;/source&gt;</text>
+      <sha1>2ar432tudbwavk2s31a2wupekipj52t</sha1>
+    </revision>
+    <revision>
+      <id>816</id>
+      <parentid>815</parentid>
+      <timestamp>2025-10-08T01:22:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>816</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="232" sha1="2edh9bkcd0di74f8vt757yxhtidvjmw" xml:space="preserve">==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-sqlite3 php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;</text>
+      <sha1>2edh9bkcd0di74f8vt757yxhtidvjmw</sha1>
+    </revision>
+    <revision>
+      <id>817</id>
+      <parentid>816</parentid>
+      <timestamp>2025-10-08T01:44:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>817</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="0" sha1="phoiac9h4m842xq45sp7s6u21eteeq1" xml:space="preserve" />
+      <sha1>phoiac9h4m842xq45sp7s6u21eteeq1</sha1>
+    </revision>
+    <revision>
+      <id>818</id>
+      <parentid>817</parentid>
+      <timestamp>2025-10-08T10:58:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <origin>818</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1127" sha1="2ar432tudbwavk2s31a2wupekipj52t" xml:space="preserve">== nginx auf Ubuntu installieren ==
+
+=== Voraussetzungen ===
+* Ubuntu Server (18.04 LTS oder neuer)
+* Root- oder sudo-Berechtigungen
+
+=== Installation ===
+
+==== Paketlisten aktualisieren ====
+&lt;source lang="bash"&gt;
+sudo apt update
+&lt;/source&gt;
+
+==== nginx installieren ====
+&lt;source lang="bash"&gt;
+sudo apt install nginx
+&lt;/source&gt;
+
+==== Status prüfen ====
+&lt;source lang="bash"&gt;
+sudo systemctl status nginx
+&lt;/source&gt;
+
+=== Firewall konfigurieren ===
+&lt;source lang="bash"&gt;
+sudo ufw allow 'Nginx Full'
+sudo ufw status
+&lt;/source&gt;
+
+=== Grundlegende Befehle ===
+&lt;source lang="bash"&gt;
+# nginx starten
+sudo systemctl start nginx
+
+# nginx stoppen
+sudo systemctl stop nginx
+
+# nginx neustarten
+sudo systemctl restart nginx
+
+# Konfiguration neu laden
+sudo systemctl reload nginx
+
+# Autostart aktivieren
+sudo systemctl enable nginx
+&lt;/source&gt;
+
+=== Wichtige Verzeichnisse ===
+* Konfiguration: &lt;code&gt;/etc/nginx/&lt;/code&gt;
+* Webroot: &lt;code&gt;/var/www/html/&lt;/code&gt;
+* Logs: &lt;code&gt;/var/log/nginx/&lt;/code&gt;
+
+== Drupal mit PostgreSQL ==
+
+=== Datenbank anlegen ===
+&lt;source lang="bash"&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten drupal
+exit # Ausloggen
+&lt;/source&gt;</text>
+      <sha1>2ar432tudbwavk2s31a2wupekipj52t</sha1>
+    </revision>
+    <revision>
+      <id>819</id>
+      <parentid>818</parentid>
+      <timestamp>2025-10-08T14:15:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>819</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1971" sha1="nzjxxli7vdj0520w19tjcc2jlingguy" xml:space="preserve">== nginx auf Ubuntu installieren ==
+
+=== Voraussetzungen ===
+* Ubuntu Server (18.04 LTS oder neuer)
+* Root- oder sudo-Berechtigungen
+
+=== Installation ===
+
+==== Paketlisten aktualisieren ====
+&lt;source lang="bash"&gt;
+sudo apt update
+&lt;/source&gt;
+
+==== nginx installieren ====
+&lt;source lang="bash"&gt;
+sudo apt install nginx
+&lt;/source&gt;
+
+==== Status prüfen ====
+&lt;source lang="bash"&gt;
+sudo systemctl status nginx
+&lt;/source&gt;
+
+=== Firewall konfigurieren ===
+&lt;source lang="bash"&gt;
+sudo ufw allow 'Nginx Full'
+sudo ufw status
+&lt;/source&gt;
+
+=== Grundlegende Befehle ===
+&lt;source lang="bash"&gt;
+# nginx starten
+sudo systemctl start nginx
+
+# nginx stoppen
+sudo systemctl stop nginx
+
+# nginx neustarten
+sudo systemctl restart nginx
+
+# Konfiguration neu laden
+sudo systemctl reload nginx
+
+# Autostart aktivieren
+sudo systemctl enable nginx
+&lt;/source&gt;
+
+=== Wichtige Verzeichnisse ===
+* Konfiguration: &lt;code&gt;/etc/nginx/&lt;/code&gt;
+* Webroot: &lt;code&gt;/var/www/html/&lt;/code&gt;
+* Logs: &lt;code&gt;/var/log/nginx/&lt;/code&gt;
+
+== Drupal mit PostgreSQL ==
+
+=== Datenbank anlegen ===
+&lt;source lang="bash"&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten drupal
+exit # Ausloggen
+&lt;/source&gt;
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+
+&lt;/pre&gt;
+
+== Drupal Installieren==
+&lt;pre&gt;
+cd /var/www
+composer create-project drupal/recommended-project drupal
+
+&lt;/pre&gt;</text>
+      <sha1>nzjxxli7vdj0520w19tjcc2jlingguy</sha1>
+    </revision>
+    <revision>
+      <id>820</id>
+      <parentid>819</parentid>
+      <timestamp>2025-10-08T15:09:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>820</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4124" sha1="epphorvbzu1ymy36snv2j4pnswhkbum" xml:space="preserve">== nginx auf Ubuntu installieren ==
+
+=== Voraussetzungen ===
+* Ubuntu Server (18.04 LTS oder neuer)
+* Root- oder sudo-Berechtigungen
+
+=== Installation ===
+
+==== Paketlisten aktualisieren ====
+&lt;source lang="bash"&gt;
+sudo apt update
+&lt;/source&gt;
+
+==== nginx installieren ====
+&lt;source lang="bash"&gt;
+sudo apt install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/source&gt;
+
+==== Status prüfen ====
+&lt;source lang="bash"&gt;
+sudo systemctl status nginx
+&lt;/source&gt;
+
+=== Firewall konfigurieren ===
+&lt;source lang="bash"&gt;
+sudo ufw allow 'Nginx Full'
+sudo ufw status
+&lt;/source&gt;
+
+=== Grundlegende Befehle ===
+&lt;source lang="bash"&gt;
+# nginx starten
+sudo systemctl start nginx
+
+# nginx stoppen
+sudo systemctl stop nginx
+
+# nginx neustarten
+sudo systemctl restart nginx
+
+# Konfiguration neu laden
+sudo systemctl reload nginx
+
+# Autostart aktivieren
+sudo systemctl enable nginx
+&lt;/source&gt;
+
+=== Wichtige Verzeichnisse ===
+* Konfiguration: &lt;code&gt;/etc/nginx/&lt;/code&gt;
+* Webroot: &lt;code&gt;/var/www/html/&lt;/code&gt;
+* Logs: &lt;code&gt;/var/log/nginx/&lt;/code&gt;
+
+== Drupal mit PostgreSQL ==
+
+=== Datenbank anlegen ===
+&lt;source lang="bash"&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten drupal
+exit # Ausloggen
+&lt;/source&gt;
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+
+&lt;/pre&gt;
+
+== Drupal Installieren==
+&lt;pre&gt;
+cd /var/www
+sudo composer create-project drupal/recommended-project drupal
+
+&lt;/pre&gt;
+
+== Nginx Konfigurationsdatei erstellen ==
+
+Erstelle eine neue Konfigurationsdatei mit folgendem Befehl:
+&lt;source lang="bash"&gt;
+sudo nano /etc/nginx/conf.d/start.conf
+&lt;/source&gt;
+
+Füge zum Beispiel folgende Grundkonfiguration ein:
+&lt;pre&gt;
+server {
+    listen 80;
+    server_name localhost;
+    root /var/www/drupal/web;
+
+    index index.php index.html index.htm;
+
+
+
+    # Sicherheitsheader
+    add_header X-Frame-Options "SAMEORIGIN";
+    add_header X-Content-Type-Options "nosniff";
+    add_header X-XSS-Protection "1; mode=block";
+
+    # Gzip-Komprimierung
+    gzip on;
+    gzip_types text/plain text/css application/json application/javascript text/xml application/xml application/xml+rss text/javascript;
+
+    location = /favicon.ico { log_not_found off; access_log off; }
+    location = /robots.txt  { allow all; log_not_found off; access_log off; }
+
+    location ~ \..*/.*\.php$ { return 403; }
+    location ~ ^/sites/.*/private/ { return 403; }
+    location ~ ^/sites/[^/]+/files/.*\.php$ { deny all; }
+    location ~ (^|/)\. { return 403; }
+
+    location / {
+        try_files $uri /index.php?$query_string;
+    }
+
+    location @rewrite {
+        rewrite ^/(.*)$ /index.php?q=$1;
+    }
+
+    location ~ /vendor/.*\.php$ {
+        deny all;
+        return 404;
+    }
+
+    location ~ '\.php$|^/update.php' {
+        include fastcgi_params;
+        fastcgi_split_path_info ^(.+?\.php)(/.*)?$;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        fastcgi_param PATH_INFO $fastcgi_path_info;
+        fastcgi_param HTTP_PROXY "";
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+        fastcgi_intercept_errors on;
+    }
+
+    location ~ ^/sites/.*/files/styles/ {
+        try_files $uri @rewrite;
+    }
+
+    location ~ ^(/[a-z\-]+)?/system/files/ {
+        try_files $uri /index.php?$query_string;
+    }
+
+    location ~* \.(js|css|png|jpg|jpeg|gif|ico|svg)$ {
+        try_files $uri @rewrite;
+        expires max;
+        log_not_found off;
+    }
+}
+&lt;/pre&gt;
+
+Speichere die Datei und lade die Nginx-Konfiguration neu:
+&lt;source lang="bash"&gt;
+sudo systemctl reload nginx
+&lt;/source&gt;</text>
+      <sha1>epphorvbzu1ymy36snv2j4pnswhkbum</sha1>
+    </revision>
+    <revision>
+      <id>821</id>
+      <parentid>820</parentid>
+      <timestamp>2025-10-08T15:10:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>821</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4125" sha1="2flzz0z2jtyvdkw4axl8nc3u6bsawkf" xml:space="preserve">== nginx auf Ubuntu installieren ==
+
+=== Voraussetzungen ===
+* Ubuntu Server (18.04 LTS oder neuer)
+* Root- oder sudo-Berechtigungen
+
+=== Installation ===
+
+==== Paketlisten aktualisieren ====
+&lt;source lang="bash"&gt;
+sudo apt update
+&lt;/source&gt;
+
+==== nginx installieren ====
+&lt;source lang="bash"&gt;
+sudo apt install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/source&gt;
+
+==== Status prüfen ====
+&lt;source lang="bash"&gt;
+sudo systemctl status nginx
+&lt;/source&gt;
+
+=== Firewall konfigurieren ===
+&lt;source lang="bash"&gt;
+sudo ufw allow 'Nginx Full'
+sudo ufw status
+&lt;/source&gt;
+
+=== Grundlegende Befehle ===
+&lt;source lang="bash"&gt;
+# nginx starten
+sudo systemctl start nginx
+
+# nginx stoppen
+sudo systemctl stop nginx
+
+# nginx neustarten
+sudo systemctl restart nginx
+
+# Konfiguration neu laden
+sudo systemctl reload nginx
+
+# Autostart aktivieren
+sudo systemctl enable nginx
+&lt;/source&gt;
+
+=== Wichtige Verzeichnisse ===
+* Konfiguration: &lt;code&gt;/etc/nginx/&lt;/code&gt;
+* Webroot: &lt;code&gt;/var/www/html/&lt;/code&gt;
+* Logs: &lt;code&gt;/var/log/nginx/&lt;/code&gt;
+
+== Drupal mit PostgreSQL ==
+
+=== Datenbank anlegen ===
+&lt;source lang="bash"&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten drupal
+exit # Ausloggen
+&lt;/source&gt;
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+
+&lt;/pre&gt;
+
+== Drupal Installieren==
+&lt;pre&gt;
+cd /var/www
+sudo composer create-project drupal/recommended-project drupal
+
+&lt;/pre&gt;
+
+== Nginx Konfigurationsdatei erstellen ==
+
+Erstelle eine neue Konfigurationsdatei mit folgendem Befehl:
+&lt;source lang="bash"&gt;
+sudo nano /etc/nginx/conf.d/drupal.conf
+&lt;/source&gt;
+
+Füge zum Beispiel folgende Grundkonfiguration ein:
+&lt;pre&gt;
+server {
+    listen 80;
+    server_name localhost;
+    root /var/www/drupal/web;
+
+    index index.php index.html index.htm;
+
+
+
+    # Sicherheitsheader
+    add_header X-Frame-Options "SAMEORIGIN";
+    add_header X-Content-Type-Options "nosniff";
+    add_header X-XSS-Protection "1; mode=block";
+
+    # Gzip-Komprimierung
+    gzip on;
+    gzip_types text/plain text/css application/json application/javascript text/xml application/xml application/xml+rss text/javascript;
+
+    location = /favicon.ico { log_not_found off; access_log off; }
+    location = /robots.txt  { allow all; log_not_found off; access_log off; }
+
+    location ~ \..*/.*\.php$ { return 403; }
+    location ~ ^/sites/.*/private/ { return 403; }
+    location ~ ^/sites/[^/]+/files/.*\.php$ { deny all; }
+    location ~ (^|/)\. { return 403; }
+
+    location / {
+        try_files $uri /index.php?$query_string;
+    }
+
+    location @rewrite {
+        rewrite ^/(.*)$ /index.php?q=$1;
+    }
+
+    location ~ /vendor/.*\.php$ {
+        deny all;
+        return 404;
+    }
+
+    location ~ '\.php$|^/update.php' {
+        include fastcgi_params;
+        fastcgi_split_path_info ^(.+?\.php)(/.*)?$;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        fastcgi_param PATH_INFO $fastcgi_path_info;
+        fastcgi_param HTTP_PROXY "";
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+        fastcgi_intercept_errors on;
+    }
+
+    location ~ ^/sites/.*/files/styles/ {
+        try_files $uri @rewrite;
+    }
+
+    location ~ ^(/[a-z\-]+)?/system/files/ {
+        try_files $uri /index.php?$query_string;
+    }
+
+    location ~* \.(js|css|png|jpg|jpeg|gif|ico|svg)$ {
+        try_files $uri @rewrite;
+        expires max;
+        log_not_found off;
+    }
+}
+&lt;/pre&gt;
+
+Speichere die Datei und lade die Nginx-Konfiguration neu:
+&lt;source lang="bash"&gt;
+sudo systemctl reload nginx
+&lt;/source&gt;</text>
+      <sha1>2flzz0z2jtyvdkw4axl8nc3u6bsawkf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Alternativen zu Drupal (CMS)</title>
+    <ns>3002</ns>
+    <id>200</id>
+    <revision>
+      <id>824</id>
+      <timestamp>2025-10-08T21:46:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „== Java-Alternativen zu Drupal (CMS)==“</comment>
+      <origin>824</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="38" sha1="p7984e0y8bk54cadrfvz71fhc50453d" xml:space="preserve">== Java-Alternativen zu Drupal (CMS)==</text>
+      <sha1>p7984e0y8bk54cadrfvz71fhc50453d</sha1>
+    </revision>
+    <revision>
+      <id>825</id>
+      <parentid>824</parentid>
+      <timestamp>2025-10-08T22:01:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>1</id>
+      </contributor>
+      <comment>/* Java-Alternativen zu Drupal (CMS) */</comment>
+      <origin>825</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="89" sha1="rks2la4ytr8pr70mkgwdt60g2ywe75o" xml:space="preserve">== Java-Alternativen zu Drupal (CMS)==
+== Asp net core - Alternativen zu Drupal (CMS)==
+*</text>
+      <sha1>rks2la4ytr8pr70mkgwdt60g2ywe75o</sha1>
     </revision>
   </page>
 </mediawiki>
