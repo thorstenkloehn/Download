@@ -1181,6 +1181,35 @@ Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert
 * Alpha-Phase [[IDE:OpenCms]]</text>
       <sha1>d0k1gmoog2xb75fsj4pwlc0pfjt3o6x</sha1>
     </revision>
+    <revision>
+      <id>712</id>
+      <parentid>697</parentid>
+      <timestamp>2025-10-21T09:21:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Schwesterprojekt */</comment>
+      <origin>712</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1181" sha1="d1cgrfr14t84wbk2zr07aptoli4e8g5" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]</text>
+      <sha1>d1cgrfr14t84wbk2zr07aptoli4e8g5</sha1>
+    </revision>
   </page>
   <page>
     <title>Server:Hauptseite</title>
@@ -11869,6 +11898,26 @@ Zusammenfassend sucht ASP.NET Core eine View &lt;code&gt;MeineView&lt;/code&gt; 
 * [[Server:Postfix]]
 * [[Server:ODK Central]]</text>
       <sha1>5jjc35qeujzveotg16hjto4qvawvqhx</sha1>
+    </revision>
+    <revision>
+      <id>707</id>
+      <parentid>693</parentid>
+      <timestamp>2025-10-21T01:40:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>707</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="167" sha1="027zitk2v183qlhj13adzvtbsk5e0o0" xml:space="preserve">==Server==
+* [[Server:Mieten]]
+* [[Server:Backup]]
+* [[Server:Ubuntu Software Pakete Installieren]]
+* [[Server:Asp Net Core]]
+* [[Server:Postfix]]
+* [[Server:OpenCms]]</text>
+      <sha1>027zitk2v183qlhj13adzvtbsk5e0o0</sha1>
     </revision>
   </page>
   <page>
@@ -30721,6 +30770,83 @@ sudo systemctl reload nginx
 &lt;/code&gt;</text>
       <sha1>akgxsnu0rs5imifdjjw12qvnzd44spb</sha1>
     </revision>
+    <revision>
+      <id>713</id>
+      <parentid>536</parentid>
+      <timestamp>2025-10-22T00:36:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Nginx Konfiguration für lokale MediaWiki-Installation */</comment>
+      <origin>713</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1640" sha1="3xzus32wwr4p450kf547nhb272kni8f" xml:space="preserve">== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten mediawiki
+ exit&lt;/code&gt;
+== Mediawiki installieren ==
+ &lt;code&gt;cd /var/www
+ sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawiki/core.git&lt;/nowiki&gt; mediawiki
+ sudo cd mediawiki
+ sudo git tag -l | sort -V
+ sudo git checkout 1.41.0
+ sudo git submodule update --init --recursive
+ sudo chown -R www-data:www-data /var/www/mediawiki
+ sudo chmod -R 755 /var/www/mediawiki&lt;/code&gt;
+ 
+Hochladen der Konfiguration
+ &lt;code&gt;sudo scp /home/thorsten/Downloads/LocalSettings.php thorsten@ahrensburg.city:/var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+== Nginx Konfiguration für lokale MediaWiki-Installation ==
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/start.conf
+&lt;/pre&gt;
+Füge die folgende Konfiguration ein:
+&lt;pre&gt;
+server {
+    listen 80;
+    server_name localhost;
+    root /var/www/mediawiki;
+    index index.php index.html index.htm;
+  
+ location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\.ht {
+
+           deny all;
+    }
+
+}
+&lt;/pre&gt;
+
+Aktiviere die Konfiguration und starte Nginx neu:
+
+&lt;code&gt;
+sudo systemctl reload nginx
+&lt;/code&gt;
+
+==Backup erstellen==
+&lt;pre&gt;
+cd /home/thorsten
+gh repo clone thorstenkloehn/Download
+sudo chmod 777 -R Download
+cd /home/thorsten/Download
+sudo rm /home/thorsten/Download/pagedump.xml
+ssh root@ahrensburg.city "php /var/www/mediawiki/mediawiki/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/pagedump.xml
+git add pagedump.xml
+git commit -m "Backup"
+git push
+&lt;/pre&gt;</text>
+      <sha1>3xzus32wwr4p450kf547nhb272kni8f</sha1>
+    </revision>
   </page>
   <page>
     <title>IDE:Mediawiki Extensions</title>
@@ -42081,6 +42207,549 @@ sudo systemctl restart postgresql
 
 Du wirst nun aufgefordert, ein neues Passwort für den Benutzer `thorsten` einzugeben.</text>
       <sha1>qze87mj7sa720gryhpotu6nctfy90on</sha1>
+    </revision>
+    <revision>
+      <id>705</id>
+      <parentid>704</parentid>
+      <timestamp>2025-10-21T01:16:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>705</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2570" sha1="qsrfzc8gf9agb76klj1tqg1c0mrsfgk" xml:space="preserve">'''OpenCms''' ist ein Open-Source-Content-Management-System (CMS), das auf Java und XML basiert. Es ermöglicht Unternehmen und Organisationen, Webseiten und digitale Inhalte effizient zu erstellen, zu verwalten und zu veröffentlichen. OpenCms bietet eine benutzerfreundliche Oberfläche, flexible Erweiterbarkeit und unterstützt verschiedene Workflows sowie rollenbasierte Zugriffssteuerung. Das System wird häufig für Unternehmenswebsites, Intranets und Portale eingesetzt.
+==OpenCms Installieren==
+
+===Ubuntu Rechner===
+&lt;pre&gt;
+cd $HOME
+wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.111/bin/apache-tomcat-9.0.111.tar.gz
+tar -xzf apache-tomcat-9.0.111.tar.gz
+mv apache-tomcat-9.0.111 tomcat9
+wget https://jdbc.postgresql.org/download/postgresql-42.7.3.jar
+sudo mv postgresql-42.7.3.jar tomcat9/lib/
+
+# Systemd-Service für Tomcat 9 erstellen
+sudo nano /etc/systemd/system/tomcat9.service
+[Unit]
+Description=Apache Tomcat 9 Web Application Container
+After=network.target
+
+[Service]
+Type=forking
+
+User=tomcat
+Group=tomcat
+
+ExecStart=/home/tomcat9/bin/startup.sh
+ExecStop=/home/tomcat9/bin/shutdown.sh
+
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+
+# Tomcat-Benutzer anlegen
+sudo useradd -r -m -U -d /home/tomcat9 -s /bin/false tomcat
+sudo chown -R tomcat:tomcat /home/tomcat9
+
+# Tomcat-Service aktivieren und starten
+sudo systemctl daemon-reload
+sudo systemctl enable tomcat9
+sudo systemctl start tomcat9
+cd $HOME
+wget https://github.com/alkacon/opencms-core/releases/download/build_19_0_0/opencms-19.0-distribution.zip
+unzip opencms-19.0-distribution.zip
+
+sudo cp opencms.war /var/lib/tomcat10/webapps/
+
+
+&lt;/pre&gt;
+
+Erstelle eine neue Konfigurationsdatei mit folgendem Befehl:
+
+sudo nano /etc/nginx/conf.d/opencms.conf
+
+&lt;pre&gt;
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name opencms.ahrensburg.city;
+    ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+     rewrite ^/$ /opencms/ permanent;
+ 
+    location / {
+     proxy_pass http://localhost:8080/;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_set_header Cookie $http_cookie;
+        proxy_buffering off;
+    }
+}
+&lt;/pre&gt;
+
+Um das Passwort für den PostgreSQL-Benutzer zu ändern, führe folgenden Befehl aus:
+
+&lt;pre&gt;
+sudo -u postgres psql
+\password postgres
+\q
+sudo systemctl restart postgresql
+&lt;/pre&gt;</text>
+      <sha1>qsrfzc8gf9agb76klj1tqg1c0mrsfgk</sha1>
+    </revision>
+    <revision>
+      <id>706</id>
+      <parentid>705</parentid>
+      <timestamp>2025-10-21T01:26:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Ubuntu Rechner */</comment>
+      <origin>706</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2552" sha1="3dowhls0h24yvl45vlbusa24oo92dhh" xml:space="preserve">'''OpenCms''' ist ein Open-Source-Content-Management-System (CMS), das auf Java und XML basiert. Es ermöglicht Unternehmen und Organisationen, Webseiten und digitale Inhalte effizient zu erstellen, zu verwalten und zu veröffentlichen. OpenCms bietet eine benutzerfreundliche Oberfläche, flexible Erweiterbarkeit und unterstützt verschiedene Workflows sowie rollenbasierte Zugriffssteuerung. Das System wird häufig für Unternehmenswebsites, Intranets und Portale eingesetzt.
+==OpenCms Installieren==
+
+===Ubuntu Rechner===
+&lt;pre&gt;
+cd $HOME
+wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.111/bin/apache-tomcat-9.0.111.tar.gz
+tar -xzf apache-tomcat-9.0.111.tar.gz
+mv apache-tomcat-9.0.111 /tomcat9
+wget https://jdbc.postgresql.org/download/postgresql-42.7.3.jar
+sudo mv postgresql-42.7.3.jar /tomcat9/lib/
+
+# Systemd-Service für Tomcat 9 erstellen
+sudo nano /etc/systemd/system/tomcat9.service
+[Unit]
+Description=Apache Tomcat 9 Web Application Container
+After=network.target
+
+[Service]
+Type=forking
+
+User=tomcat
+Group=tomcat
+
+ExecStart=/tomcat9/bin/startup.sh
+ExecStop=/tomcat9/bin/shutdown.sh
+
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+
+# Tomcat-Benutzer anlegen
+sudo useradd -r -m -U -d /tomcat9 -s /bin/false tomcat
+sudo chown -R tomcat:tomcat /tomcat9
+
+# Tomcat-Service aktivieren und starten
+sudo systemctl daemon-reload
+sudo systemctl enable tomcat9
+sudo systemctl start tomcat9
+cd $HOME
+wget https://github.com/alkacon/opencms-core/releases/download/build_19_0_0/opencms-19.0-distribution.zip
+unzip opencms-19.0-distribution.zip
+
+sudo cp opencms.war /var/lib/tomcat10/webapps/
+
+
+&lt;/pre&gt;
+
+Erstelle eine neue Konfigurationsdatei mit folgendem Befehl:
+
+sudo nano /etc/nginx/conf.d/opencms.conf
+
+&lt;pre&gt;
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name opencms.ahrensburg.city;
+    ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+     rewrite ^/$ /opencms/ permanent;
+ 
+    location / {
+     proxy_pass http://localhost:8080/;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_set_header Cookie $http_cookie;
+        proxy_buffering off;
+    }
+}
+&lt;/pre&gt;
+
+Um das Passwort für den PostgreSQL-Benutzer zu ändern, führe folgenden Befehl aus:
+
+&lt;pre&gt;
+sudo -u postgres psql
+\password postgres
+\q
+sudo systemctl restart postgresql
+&lt;/pre&gt;</text>
+      <sha1>3dowhls0h24yvl45vlbusa24oo92dhh</sha1>
+    </revision>
+    <revision>
+      <id>709</id>
+      <parentid>706</parentid>
+      <timestamp>2025-10-21T02:16:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>709</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1698" sha1="4k4u40x4oi064ioq7cu7o0dvfqgl12k" xml:space="preserve">'''OpenCms''' ist ein Open-Source-Content-Management-System (CMS), das auf Java und XML basiert. Es ermöglicht Unternehmen und Organisationen, Webseiten und digitale Inhalte effizient zu erstellen, zu verwalten und zu veröffentlichen. OpenCms bietet eine benutzerfreundliche Oberfläche, flexible Erweiterbarkeit und unterstützt verschiedene Workflows sowie rollenbasierte Zugriffssteuerung. Das System wird häufig für Unternehmenswebsites, Intranets und Portale eingesetzt.
+==OpenCms Installieren==
+
+===Ubuntu Rechner===
+&lt;pre&gt;
+cd $HOME
+wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.111/bin/apache-tomcat-9.0.111.tar.gz
+tar -xzf apache-tomcat-9.0.111.tar.gz
+mv apache-tomcat-9.0.111 /tomcat9
+wget https://jdbc.postgresql.org/download/postgresql-42.7.3.jar
+sudo mv postgresql-42.7.3.jar /tomcat9/lib/
+
+# Systemd-Service für Tomcat 9 erstellen
+sudo nano /etc/systemd/system/tomcat9.service
+[Unit]
+Description=Apache Tomcat 9 Web Application Container
+After=network.target
+
+[Service]
+Type=forking
+
+User=tomcat
+Group=tomcat
+
+ExecStart=/tomcat9/bin/startup.sh
+ExecStop=/tomcat9/bin/shutdown.sh
+
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+
+# Tomcat-Benutzer anlegen
+sudo useradd -r -m -U -d /tomcat9 -s /bin/false tomcat
+sudo chown -R tomcat:tomcat /tomcat9
+
+# Tomcat-Service aktivieren und starten
+sudo systemctl daemon-reload
+sudo systemctl enable tomcat9
+sudo systemctl start tomcat9
+cd $HOME
+wget https://github.com/alkacon/opencms-core/releases/download/build_19_0_0/opencms-19.0-distribution.zip
+unzip opencms-19.0-distribution.zip
+
+sudo cp opencms.war /tomcat9/webapps/
+
+
+&lt;/pre&gt;
+
+
+
+&lt;pre&gt;
+sudo -u postgres psql
+\password postgres
+\q
+sudo systemctl restart postgresql
+&lt;/pre&gt;</text>
+      <sha1>4k4u40x4oi064ioq7cu7o0dvfqgl12k</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Server:OpenCms</title>
+    <ns>3000</ns>
+    <id>165</id>
+    <revision>
+      <id>708</id>
+      <timestamp>2025-10-21T01:53:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>708</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2046" sha1="oho5l2g14bda62p0w7m5c7xmgkk8k3y" xml:space="preserve">===Ubuntu Rechner===
+&lt;pre&gt;
+cd $HOME
+wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.111/bin/apache-tomcat-9.0.111.tar.gz
+tar -xzf apache-tomcat-9.0.111.tar.gz
+mv apache-tomcat-9.0.111 /tomcat9
+wget https://jdbc.postgresql.org/download/postgresql-42.7.3.jar
+sudo mv postgresql-42.7.3.jar /tomcat9/lib/
+
+# Systemd-Service für Tomcat 9 erstellen
+sudo nano /etc/systemd/system/tomcat9.service
+[Unit]
+Description=Apache Tomcat 9 Web Application Container
+After=network.target
+
+[Service]
+Type=forking
+
+User=tomcat
+Group=tomcat
+
+ExecStart=/tomcat9/bin/startup.sh
+ExecStop=/tomcat9/bin/shutdown.sh
+
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+
+# Tomcat-Benutzer anlegen
+sudo useradd -r -m -U -d /tomcat9 -s /bin/false tomcat
+sudo chown -R tomcat:tomcat /tomcat9
+
+# Tomcat-Service aktivieren und starten
+sudo systemctl daemon-reload
+sudo systemctl enable tomcat9
+sudo systemctl start tomcat9
+cd $HOME
+wget https://github.com/alkacon/opencms-core/releases/download/build_19_0_0/opencms-19.0-distribution.zip
+unzip opencms-19.0-distribution.zip
+
+sudo cp opencms.war /var/lib/tomcat10/webapps/
+
+
+&lt;/pre&gt;
+
+Erstelle eine neue Konfigurationsdatei mit folgendem Befehl:
+
+sudo nano /etc/nginx/conf.d/opencms.conf
+
+&lt;pre&gt;
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name opencms.ahrensburg.city;
+    ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+     rewrite ^/$ /opencms/ permanent;
+ 
+    location / {
+     proxy_pass http://localhost:8080/;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_set_header Cookie $http_cookie;
+        proxy_buffering off;
+    }
+}
+&lt;/pre&gt;
+
+Um das Passwort für den PostgreSQL-Benutzer zu ändern, führe folgenden Befehl aus:
+
+&lt;pre&gt;
+sudo -u postgres psql
+\password postgres
+\q
+sudo systemctl restart postgresql
+&lt;/pre&gt;</text>
+      <sha1>oho5l2g14bda62p0w7m5c7xmgkk8k3y</sha1>
+    </revision>
+    <revision>
+      <id>710</id>
+      <parentid>708</parentid>
+      <timestamp>2025-10-21T02:41:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>710</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2107" sha1="rzw5nvcf1d2vicktgw4g5kw2ydtdqjj" xml:space="preserve">===Ubuntu Rechner===
+&lt;pre&gt;
+cd $HOME
+wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.111/bin/apache-tomcat-9.0.111.tar.gz
+tar -xzf apache-tomcat-9.0.111.tar.gz
+mv apache-tomcat-9.0.111 /tomcat9
+wget https://jdbc.postgresql.org/download/postgresql-42.7.3.jar
+sudo mv postgresql-42.7.3.jar /tomcat9/lib/
+
+# Systemd-Service für Tomcat 9 erstellen
+sudo nano /etc/systemd/system/tomcat9.service
+[Unit]
+Description=Apache Tomcat 9 Web Application Container
+After=network.target
+
+[Service]
+Type=forking
+
+User=tomcat
+Group=tomcat
+
+ExecStart=/tomcat9/bin/startup.sh
+ExecStop=/tomcat9/bin/shutdown.sh
+
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+
+# Tomcat-Benutzer anlegen
+sudo useradd -r -m -U -d /tomcat9 -s /bin/false tomcat
+sudo chown -R tomcat:tomcat /tomcat9
+
+# Tomcat-Service aktivieren und starten
+sudo systemctl daemon-reload
+sudo systemctl enable tomcat9
+sudo systemctl start tomcat9
+cd $HOME
+wget https://github.com/alkacon/opencms-core/releases/download/build_19_0_0/opencms-19.0-distribution.zip
+unzip https://github.com/alkacon/opencms-core/releases/download/build_20_0_0/opencms-20.0-distribution.zip
+
+sudo cp opencms.war /tomcat9/webapps/
+
+&lt;/pre&gt;
+
+Erstelle eine neue Konfigurationsdatei mit folgendem Befehl:
+
+sudo nano /etc/nginx/conf.d/opencms.conf
+
+&lt;pre&gt;
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name opencms.ahrensburg.city;
+    ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+     rewrite ^/$ /opencms/ permanent;
+ 
+    location / {
+     proxy_pass http://localhost:8080/;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_set_header Cookie $http_cookie;
+        proxy_buffering off;
+    }
+}
+&lt;/pre&gt;
+
+Um das Passwort für den PostgreSQL-Benutzer zu ändern, führe folgenden Befehl aus:
+
+&lt;pre&gt;
+sudo -u postgres psql
+\password postgres
+\q
+sudo systemctl restart postgresql
+&lt;/pre&gt;</text>
+      <sha1>rzw5nvcf1d2vicktgw4g5kw2ydtdqjj</sha1>
+    </revision>
+    <revision>
+      <id>711</id>
+      <parentid>710</parentid>
+      <timestamp>2025-10-21T02:44:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>711</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2107" sha1="d4qd4jbln76nltba6s7jilesasb64db" xml:space="preserve">===Ubuntu Rechner===
+&lt;pre&gt;
+cd $HOME
+wget https://dlcdn.apache.org/tomcat/tomcat-9/v9.0.111/bin/apache-tomcat-9.0.111.tar.gz
+tar -xzf apache-tomcat-9.0.111.tar.gz
+mv apache-tomcat-9.0.111 /tomcat9
+wget https://jdbc.postgresql.org/download/postgresql-42.7.3.jar
+sudo mv postgresql-42.7.3.jar /tomcat9/lib/
+
+# Systemd-Service für Tomcat 9 erstellen
+sudo nano /etc/systemd/system/tomcat9.service
+[Unit]
+Description=Apache Tomcat 9 Web Application Container
+After=network.target
+
+[Service]
+Type=forking
+
+User=tomcat
+Group=tomcat
+
+ExecStart=/tomcat9/bin/startup.sh
+ExecStop=/tomcat9/bin/shutdown.sh
+
+Restart=on-failure
+
+[Install]
+WantedBy=multi-user.target
+
+# Tomcat-Benutzer anlegen
+sudo useradd -r -m -U -d /tomcat9 -s /bin/false tomcat
+sudo chown -R tomcat:tomcat /tomcat9
+
+# Tomcat-Service aktivieren und starten
+sudo systemctl daemon-reload
+sudo systemctl enable tomcat9
+sudo systemctl start tomcat9
+cd $HOME
+wget https://github.com/alkacon/opencms-core/releases/download/build_20_0_0/opencms-20.0-distribution.zip
+unzip https://github.com/alkacon/opencms-core/releases/download/build_20_0_0/opencms-20.0-distribution.zip
+
+sudo cp opencms.war /tomcat9/webapps/
+
+&lt;/pre&gt;
+
+Erstelle eine neue Konfigurationsdatei mit folgendem Befehl:
+
+sudo nano /etc/nginx/conf.d/opencms.conf
+
+&lt;pre&gt;
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name opencms.ahrensburg.city;
+    ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+     rewrite ^/$ /opencms/ permanent;
+ 
+    location / {
+     proxy_pass http://localhost:8080/;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+        proxy_set_header Cookie $http_cookie;
+        proxy_buffering off;
+    }
+}
+&lt;/pre&gt;
+
+Um das Passwort für den PostgreSQL-Benutzer zu ändern, führe folgenden Befehl aus:
+
+&lt;pre&gt;
+sudo -u postgres psql
+\password postgres
+\q
+sudo systemctl restart postgresql
+&lt;/pre&gt;</text>
+      <sha1>d4qd4jbln76nltba6s7jilesasb64db</sha1>
     </revision>
   </page>
 </mediawiki>
