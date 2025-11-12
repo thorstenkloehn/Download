@@ -1210,6 +1210,37 @@ Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert
 * [[Infrastruktur &amp; Wirtschaft]]</text>
       <sha1>d1cgrfr14t84wbk2zr07aptoli4e8g5</sha1>
     </revision>
+    <revision>
+      <id>714</id>
+      <parentid>712</parentid>
+      <timestamp>2025-10-22T19:11:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>714</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1213" sha1="plffu8vvzhrmb2wfiy1u3a6zde9s6j0" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+
+==Technik==
+* [[Webframework]]</text>
+      <sha1>plffu8vvzhrmb2wfiy1u3a6zde9s6j0</sha1>
+    </revision>
   </page>
   <page>
     <title>Server:Hauptseite</title>
@@ -29877,6 +29908,173 @@ code --install-extension AvaloniaTeam.vscode-avalonia
 &lt;/pre&gt;</text>
       <sha1>dj41lhb86j64lly4mot6pcl07vxfxfb</sha1>
     </revision>
+    <revision>
+      <id>845</id>
+      <parentid>701</parentid>
+      <timestamp>2025-11-11T22:21:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Golang */</comment>
+      <origin>845</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5163" sha1="698mlsitcmaf0g4l0sme7uvj3chqt7u" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.4.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.4.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+ dotnet new install OrchardCore.ProjectTemplates::2.2.0
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-26-jdk
+sudo apt install maven 
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.vscode-avalonia
+&lt;/pre&gt;</text>
+      <sha1>698mlsitcmaf0g4l0sme7uvj3chqt7u</sha1>
+    </revision>
   </page>
   <page>
     <title>Verkehrsanbindung</title>
@@ -42750,6 +42948,4568 @@ sudo -u postgres psql
 sudo systemctl restart postgresql
 &lt;/pre&gt;</text>
       <sha1>d4qd4jbln76nltba6s7jilesasb64db</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Webframework</title>
+    <ns>0</ns>
+    <id>166</id>
+    <revision>
+      <id>715</id>
+      <timestamp>2025-10-22T19:15:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* [[Dependency Injection]]“</comment>
+      <origin>715</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="26" sha1="pqsgvbnkos4xed9c99s41u9xblmhox4" xml:space="preserve">* [[Dependency Injection]]</text>
+      <sha1>pqsgvbnkos4xed9c99s41u9xblmhox4</sha1>
+    </revision>
+    <revision>
+      <id>718</id>
+      <parentid>715</parentid>
+      <timestamp>2025-10-24T19:29:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>718</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="53" sha1="2b73j6bpyigf8vzs50zc1m8pvdfvdhp" xml:space="preserve">* [[Dependency Injection]]
+* [[Fullstack Frameworks]]</text>
+      <sha1>2b73j6bpyigf8vzs50zc1m8pvdfvdhp</sha1>
+    </revision>
+    <revision>
+      <id>720</id>
+      <parentid>718</parentid>
+      <timestamp>2025-10-24T20:46:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>720</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="80" sha1="7irk4zpormmiuuk7od7vogqhv9niic9" xml:space="preserve">* [[Dependency Injection]]
+* [[Fullstack Frameworks]]
+* [[Backend Webframework]]</text>
+      <sha1>7irk4zpormmiuuk7od7vogqhv9niic9</sha1>
+    </revision>
+    <revision>
+      <id>722</id>
+      <parentid>720</parentid>
+      <timestamp>2025-10-24T21:03:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>722</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="102" sha1="ia2fstbjquydxbte8kcxltelrjepqs1" xml:space="preserve">* [[Dependency Injection]]
+* [[Fullstack Frameworks]]
+* [[Backend Webframework]]
+* [[Meta-Frameworks]]</text>
+      <sha1>ia2fstbjquydxbte8kcxltelrjepqs1</sha1>
+    </revision>
+    <revision>
+      <id>723</id>
+      <parentid>722</parentid>
+      <timestamp>2025-10-25T09:10:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>723</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="137" sha1="spfkdlrf4ukv9rklh6iyvdzkq4ca8xi" xml:space="preserve">* [[Dependency Injection]]
+* [[Fullstack Frameworks]]
+* [[Backend Webframework]]
+* [[Meta-Frameworks]]
+* [[Content Management Framework]]</text>
+      <sha1>spfkdlrf4ukv9rklh6iyvdzkq4ca8xi</sha1>
+    </revision>
+    <revision>
+      <id>740</id>
+      <parentid>723</parentid>
+      <timestamp>2025-10-26T10:44:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>740</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="110" sha1="5nyucl8p1zvxw4su4293n615hzmyavf" xml:space="preserve">* [[Dependency Injection]]
+* [[Fullstack Frameworks]]
+* [[Meta-Frameworks]]
+* [[Content Management Framework]]</text>
+      <sha1>5nyucl8p1zvxw4su4293n615hzmyavf</sha1>
+    </revision>
+    <revision>
+      <id>743</id>
+      <parentid>740</parentid>
+      <timestamp>2025-10-26T13:00:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>743</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="263" sha1="tnt75bl66g6tqllbnqjydhz41yxhwwr" xml:space="preserve">* [[Dependency Injection]]
+* [[Fullstack Frameworks]]
+* [[Meta-Frameworks]]
+* [[Content Management Framework]]
+* [[Content Manage System]]
+* [[Microframeworks]]
+* [[Backend/API Frameworks]]
+* [[Frontend Frameworks]]
+* [[Static Site Generators]]
+* [[Headless CMS]]</text>
+      <sha1>tnt75bl66g6tqllbnqjydhz41yxhwwr</sha1>
+    </revision>
+    <revision>
+      <id>747</id>
+      <parentid>743</parentid>
+      <timestamp>2025-10-26T13:36:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>747</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="186" sha1="sqq6hqiod4ks6b0qtvijzgit4uebv56" xml:space="preserve">* [[Dependency Injection]]
+* [[Fullstack Frameworks]]
+* [[Meta-Frameworks]]
+* [[Content Management Framework]]
+* [[Content Manage System]]
+* [[Static Site Generators]]
+* [[Headless CMS]]</text>
+      <sha1>sqq6hqiod4ks6b0qtvijzgit4uebv56</sha1>
+    </revision>
+    <revision>
+      <id>748</id>
+      <parentid>747</parentid>
+      <timestamp>2025-10-26T13:37:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>748</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="263" sha1="tnt75bl66g6tqllbnqjydhz41yxhwwr" xml:space="preserve">* [[Dependency Injection]]
+* [[Fullstack Frameworks]]
+* [[Meta-Frameworks]]
+* [[Content Management Framework]]
+* [[Content Manage System]]
+* [[Microframeworks]]
+* [[Backend/API Frameworks]]
+* [[Frontend Frameworks]]
+* [[Static Site Generators]]
+* [[Headless CMS]]</text>
+      <sha1>tnt75bl66g6tqllbnqjydhz41yxhwwr</sha1>
+    </revision>
+    <revision>
+      <id>758</id>
+      <parentid>748</parentid>
+      <timestamp>2025-10-26T15:55:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>758</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="312" sha1="a24kktkiay1t7an9n8kmj1qie3dznkk" xml:space="preserve">* [[Dependency Injection]]
+* [[Fullstack Frameworks]]
+* [[Meta-Frameworks]]
+* [[Content Management Framework]]
+* [[Content Manage System]]
+* [[Microframeworks]]
+* [[Backend/API Frameworks]]
+* [[Frontend Frameworks]]
+* [[Static Site Generators]]
+* [[Headless CMS]]
+* [[Fullstack-Webframeworks mit KI-Integration]]</text>
+      <sha1>a24kktkiay1t7an9n8kmj1qie3dznkk</sha1>
+    </revision>
+    <revision>
+      <id>765</id>
+      <parentid>758</parentid>
+      <timestamp>2025-10-27T01:29:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>765</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="284" sha1="nv8a5grnrn84t8iy40a17hsjiziian6" xml:space="preserve">* [[Dependency Injection]]
+* [[Fullstack Frameworks]]
+* [[Meta-Frameworks]]
+* [[Content Management Framework]]
+* [[Microframeworks]]
+* [[Backend/API Frameworks]]
+* [[Frontend Frameworks]]
+* [[Static Site Generators]]
+* [[Headless CMS]]
+* [[Fullstack-Webframeworks mit KI-Integration]]</text>
+      <sha1>nv8a5grnrn84t8iy40a17hsjiziian6</sha1>
+    </revision>
+    <revision>
+      <id>771</id>
+      <parentid>765</parentid>
+      <timestamp>2025-10-27T02:43:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>771</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="472" sha1="4oqdhe17o5al3zv6xq39zcwjkhmh58h" xml:space="preserve">* [[Dependency Injection]]
+* [[Fullstack Frameworks]]
+* [[Meta-Frameworks]]
+* [[Content Management Framework]]
+* [[Microframeworks]]
+* [[Backend/API Frameworks]]
+* [[Frontend Frameworks]]
+* [[Static Site Generators]]
+* [[Headless CMS]]
+* [[Fullstack-Webframeworks mit KI-Integration]]
+* [[WebAssembly-Webframeworks]]
+* [[Auth-/Identity-Frameworks]]
+* [[UI-/CSS-Frameworks]]
+* [[Templating-/View-Frameworks]]
+* [[E-Commerce-/Shop-Frameworks]]
+* [[Microfrontend-Frameworks]]</text>
+      <sha1>4oqdhe17o5al3zv6xq39zcwjkhmh58h</sha1>
+    </revision>
+    <revision>
+      <id>772</id>
+      <parentid>771</parentid>
+      <timestamp>2025-10-27T02:56:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>772</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="444" sha1="tdvvoftxhjcloia9czwq779k0labesv" xml:space="preserve">* [[Dependency Injection]]
+* [[Fullstack Frameworks]]
+* [[Meta-Frameworks]]
+* [[Content Management Framework]]
+* [[Microframeworks]]
+* [[Backend/API Frameworks]]
+* [[Frontend Frameworks]]
+* [[Static Site Generators]]
+* [[Headless CMS]]
+* [[Fullstack-Webframeworks mit KI-Integration]]
+* [[WebAssembly-Webframeworks]]
+* [[Auth-/Identity-Frameworks]]
+* [[UI-/CSS-Frameworks]]
+* [[Admin-Panel-/CRUD-Frameworks]]
+* [[Benutzervwerwaltung Framework]]</text>
+      <sha1>tdvvoftxhjcloia9czwq779k0labesv</sha1>
+    </revision>
+    <revision>
+      <id>773</id>
+      <parentid>772</parentid>
+      <timestamp>2025-10-27T03:11:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>773</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="462" sha1="apdt499njjxit0ntcf5dnvid2sq1imo" xml:space="preserve">* [[Dependency Injection]]
+* [[Fullstack Frameworks]]
+* [[Meta-Frameworks]]
+* [[Content Management Framework]]
+* [[Microframeworks]]
+* [[Backend/API Frameworks]]
+* [[Frontend Frameworks]]
+* [[Static Site Generators]]
+* [[Headless CMS]]
+* [[Fullstack-Webframeworks mit KI-Integration]]
+* [[WebAssembly-Webframeworks]]
+* [[Auth-/Identity-Frameworks]]
+* [[UI-/CSS-Frameworks]]
+* [[Admin-Panel-/CRUD-Frameworks]]
+* [[Benutzervwerwaltung Framework]]
+* [[Game Enging]]</text>
+      <sha1>apdt499njjxit0ntcf5dnvid2sq1imo</sha1>
+    </revision>
+    <revision>
+      <id>777</id>
+      <parentid>773</parentid>
+      <timestamp>2025-10-27T03:53:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>777</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="444" sha1="tdvvoftxhjcloia9czwq779k0labesv" xml:space="preserve">* [[Dependency Injection]]
+* [[Fullstack Frameworks]]
+* [[Meta-Frameworks]]
+* [[Content Management Framework]]
+* [[Microframeworks]]
+* [[Backend/API Frameworks]]
+* [[Frontend Frameworks]]
+* [[Static Site Generators]]
+* [[Headless CMS]]
+* [[Fullstack-Webframeworks mit KI-Integration]]
+* [[WebAssembly-Webframeworks]]
+* [[Auth-/Identity-Frameworks]]
+* [[UI-/CSS-Frameworks]]
+* [[Admin-Panel-/CRUD-Frameworks]]
+* [[Benutzervwerwaltung Framework]]</text>
+      <sha1>tdvvoftxhjcloia9czwq779k0labesv</sha1>
+    </revision>
+    <revision>
+      <id>778</id>
+      <parentid>777</parentid>
+      <timestamp>2025-10-27T03:57:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>778</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="462" sha1="apdt499njjxit0ntcf5dnvid2sq1imo" xml:space="preserve">* [[Dependency Injection]]
+* [[Fullstack Frameworks]]
+* [[Meta-Frameworks]]
+* [[Content Management Framework]]
+* [[Microframeworks]]
+* [[Backend/API Frameworks]]
+* [[Frontend Frameworks]]
+* [[Static Site Generators]]
+* [[Headless CMS]]
+* [[Fullstack-Webframeworks mit KI-Integration]]
+* [[WebAssembly-Webframeworks]]
+* [[Auth-/Identity-Frameworks]]
+* [[UI-/CSS-Frameworks]]
+* [[Admin-Panel-/CRUD-Frameworks]]
+* [[Benutzervwerwaltung Framework]]
+* [[Game Enging]]</text>
+      <sha1>apdt499njjxit0ntcf5dnvid2sq1imo</sha1>
+    </revision>
+    <revision>
+      <id>794</id>
+      <parentid>778</parentid>
+      <timestamp>2025-10-27T22:26:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>794</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="490" sha1="g5lnpse73am1cbpg5we0v567kz8jv2u" xml:space="preserve">* [[Dependency Injection]]
+* [[Fullstack Frameworks]]
+* [[Meta-Frameworks]]
+* [[Content Management Framework]]
+* [[Content Manage System]]
+* [[Microframeworks]]
+* [[Backend/API Frameworks]]
+* [[Frontend Frameworks]]
+* [[Static Site Generators]]
+* [[Headless CMS]]
+* [[Fullstack-Webframeworks mit KI-Integration]]
+* [[WebAssembly-Webframeworks]]
+* [[Auth-/Identity-Frameworks]]
+* [[UI-/CSS-Frameworks]]
+* [[Admin-Panel-/CRUD-Frameworks]]
+* [[Benutzervwerwaltung Framework]]
+* [[Game Enging]]</text>
+      <sha1>g5lnpse73am1cbpg5we0v567kz8jv2u</sha1>
+    </revision>
+    <revision>
+      <id>795</id>
+      <parentid>794</parentid>
+      <timestamp>2025-10-27T22:26:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>795</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="455" sha1="kqmdqjyionhkm95gsmi7ta3cnl3bppm" xml:space="preserve">* [[Dependency Injection]]
+* [[Fullstack Frameworks]]
+* [[Meta-Frameworks]]
+* [[Content Management Framework]]
+* [[Content Manage System]]
+* [[Microframeworks]]
+* [[Backend/API Frameworks]]
+* [[Frontend Frameworks]]
+* [[Static Site Generators]]
+* [[Headless CMS]]
+* [[Fullstack-Webframeworks mit KI-Integration]]
+* [[WebAssembly-Webframeworks]]
+* [[Auth-/Identity-Frameworks]]
+* [[UI-/CSS-Frameworks]]
+* [[Benutzervwerwaltung Framework]]
+* [[Game Enging]]</text>
+      <sha1>kqmdqjyionhkm95gsmi7ta3cnl3bppm</sha1>
+    </revision>
+    <revision>
+      <id>802</id>
+      <parentid>795</parentid>
+      <timestamp>2025-10-28T10:37:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>802</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="427" sha1="4t7zgc5nzbuxubwscdyjxu8vfl3pydo" xml:space="preserve">* [[Dependency Injection]]
+* [[Fullstack Frameworks]]
+* [[Meta-Frameworks]]
+* [[Content Management Framework]]
+* [[Microframeworks]]
+* [[Backend/API Frameworks]]
+* [[Frontend Frameworks]]
+* [[Static Site Generators]]
+* [[Headless CMS]]
+* [[Fullstack-Webframeworks mit KI-Integration]]
+* [[WebAssembly-Webframeworks]]
+* [[Auth-/Identity-Frameworks]]
+* [[UI-/CSS-Frameworks]]
+* [[Benutzervwerwaltung Framework]]
+* [[Game Enging]]</text>
+      <sha1>4t7zgc5nzbuxubwscdyjxu8vfl3pydo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dependency Injection</title>
+    <ns>0</ns>
+    <id>167</id>
+    <revision>
+      <id>716</id>
+      <timestamp>2025-10-22T19:25:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* Constructor Injection * Setter Injection * Field Injection“</comment>
+      <origin>716</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="60" sha1="2eoz3me96cofuia5jirw43t44kvm1ry" xml:space="preserve">* Constructor Injection
+* Setter Injection
+* Field Injection</text>
+      <sha1>2eoz3me96cofuia5jirw43t44kvm1ry</sha1>
+    </revision>
+    <revision>
+      <id>717</id>
+      <parentid>716</parentid>
+      <timestamp>2025-10-23T05:39:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>717</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="42" sha1="602bxh008n9m9xlmjvtoxp3z9dkdqpn" xml:space="preserve">* Constructor Injection
+* Setter Injection</text>
+      <sha1>602bxh008n9m9xlmjvtoxp3z9dkdqpn</sha1>
+    </revision>
+    <revision>
+      <id>844</id>
+      <parentid>717</parentid>
+      <timestamp>2025-11-08T14:01:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>844</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="70" sha1="0obce6i6vvzt9qpbud7c36ak2a408lk" xml:space="preserve">* Constructor Injection
+* Setter Injection
+* Lose Kopplung: Interfaces</text>
+      <sha1>0obce6i6vvzt9qpbud7c36ak2a408lk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fullstack Frameworks</title>
+    <ns>0</ns>
+    <id>168</id>
+    <revision>
+      <id>719</id>
+      <timestamp>2025-10-24T19:55:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* Spring Boot * Asp Net Core * Django * Next.js“</comment>
+      <origin>719</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="fo8n3jjo0fv0q9nobgubth8tgfttkxb" xml:space="preserve">* Spring Boot
+* Asp Net Core
+* Django
+* Next.js</text>
+      <sha1>fo8n3jjo0fv0q9nobgubth8tgfttkxb</sha1>
+    </revision>
+    <revision>
+      <id>739</id>
+      <parentid>719</parentid>
+      <timestamp>2025-10-26T10:42:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>739</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="57" sha1="3td4ezh2sibfaqmpx2l9rjixk1iggqa" xml:space="preserve">* Spring Boot
+* ASP.NET Core
+* Django
+* Symfony
+* Next.js</text>
+      <sha1>3td4ezh2sibfaqmpx2l9rjixk1iggqa</sha1>
+    </revision>
+    <revision>
+      <id>760</id>
+      <parentid>739</parentid>
+      <timestamp>2025-10-27T00:59:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>760</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="28" sha1="pqiark2e4k36syuu00w8m1006z11sbr" xml:space="preserve">* Spring Boot
+* ASP.NET Core</text>
+      <sha1>pqiark2e4k36syuu00w8m1006z11sbr</sha1>
+    </revision>
+    <revision>
+      <id>809</id>
+      <parentid>760</parentid>
+      <timestamp>2025-10-29T01:18:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>809</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="38" sha1="4yt4j0ud9r9j8vxropjky01yl3f3e1a" xml:space="preserve">* Spring Boot
+* ASP.NET Core
+* Symfony</text>
+      <sha1>4yt4j0ud9r9j8vxropjky01yl3f3e1a</sha1>
+    </revision>
+    <revision>
+      <id>818</id>
+      <parentid>809</parentid>
+      <timestamp>2025-10-29T09:17:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>818</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="28" sha1="pqiark2e4k36syuu00w8m1006z11sbr" xml:space="preserve">* Spring Boot
+* ASP.NET Core</text>
+      <sha1>pqiark2e4k36syuu00w8m1006z11sbr</sha1>
+    </revision>
+    <revision>
+      <id>819</id>
+      <parentid>818</parentid>
+      <timestamp>2025-10-29T10:32:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>819</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="38" sha1="4yt4j0ud9r9j8vxropjky01yl3f3e1a" xml:space="preserve">* Spring Boot
+* ASP.NET Core
+* Symfony</text>
+      <sha1>4yt4j0ud9r9j8vxropjky01yl3f3e1a</sha1>
+    </revision>
+    <revision>
+      <id>820</id>
+      <parentid>819</parentid>
+      <timestamp>2025-10-29T12:47:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>820</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="54" sha1="pc8fq5k0rljpbrmd12d0p8v9boahz1u" xml:space="preserve">* Spring Boot
+* ASP.NET Core
+* [[IDE:Symfony|Symfony]]</text>
+      <sha1>pc8fq5k0rljpbrmd12d0p8v9boahz1u</sha1>
+    </revision>
+    <revision>
+      <id>830</id>
+      <parentid>820</parentid>
+      <timestamp>2025-11-04T11:21:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>830</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="28" sha1="pqiark2e4k36syuu00w8m1006z11sbr" xml:space="preserve">* Spring Boot
+* ASP.NET Core</text>
+      <sha1>pqiark2e4k36syuu00w8m1006z11sbr</sha1>
+    </revision>
+    <revision>
+      <id>832</id>
+      <parentid>830</parentid>
+      <timestamp>2025-11-04T12:30:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>832</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="36" sha1="gr1lzys43je31m9ljqdkt3bc3him03z" xml:space="preserve">* [[IDE:Spring Boot]]
+* ASP.NET Core</text>
+      <sha1>gr1lzys43je31m9ljqdkt3bc3him03z</sha1>
+    </revision>
+    <revision>
+      <id>840</id>
+      <parentid>832</parentid>
+      <timestamp>2025-11-05T02:23:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>840</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="q4ebs79yt81y66wck5u6pbf1roimhjt" xml:space="preserve">* [[IDE:Spring Boot]]
+* [[IDE:ASP.NET Core]]</text>
+      <sha1>q4ebs79yt81y66wck5u6pbf1roimhjt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Backend Webframework</title>
+    <ns>0</ns>
+    <id>169</id>
+    <revision>
+      <id>721</id>
+      <timestamp>2025-10-24T20:50:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* Spring Boot * Asp net core * Django“</comment>
+      <origin>721</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="37" sha1="qq08j6biqf7703subhq0c5jqu8v4wq0" xml:space="preserve">* Spring Boot
+* Asp net core
+* Django</text>
+      <sha1>qq08j6biqf7703subhq0c5jqu8v4wq0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Meta-Frameworks</title>
+    <ns>0</ns>
+    <id>170</id>
+    <revision>
+      <id>724</id>
+      <timestamp>2025-10-25T09:14:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* Next.js“</comment>
+      <origin>724</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="9" sha1="s5f3keu3tx7b33flpvafc7ps5rcazjz" xml:space="preserve">* Next.js</text>
+      <sha1>s5f3keu3tx7b33flpvafc7ps5rcazjz</sha1>
+    </revision>
+    <revision>
+      <id>741</id>
+      <parentid>724</parentid>
+      <timestamp>2025-10-26T11:03:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>741</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="104" sha1="cjt4ei4frwcivfbs23z4h34wlw7vnbk" xml:space="preserve">=== Tier 1 – Sehr reif / Mainstream ===
+* Next.js – sehr große Adoption, stabil, reiches Ökosystem</text>
+      <sha1>cjt4ei4frwcivfbs23z4h34wlw7vnbk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Content Management Framework</title>
+    <ns>0</ns>
+    <id>171</id>
+    <revision>
+      <id>725</id>
+      <timestamp>2025-10-25T12:46:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>725</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="264" sha1="btqij4alvyjxoshu2rg7mrpputmt34p" xml:space="preserve">== CMS nach Reifegrad (Tier 1, 2, 3) ==
+
+=== Tier 1 (Enterprise-Ready) ===
+Diese Systeme sind für große Unternehmen und komplexe Anforderungen ausgelegt. Sie bieten hohe Skalierbarkeit, Sicherheit und umfangreichen Support.
+* Drupal
+* Orchard Core (ASP.NET Core)</text>
+      <sha1>btqij4alvyjxoshu2rg7mrpputmt34p</sha1>
+    </revision>
+    <revision>
+      <id>726</id>
+      <parentid>725</parentid>
+      <timestamp>2025-10-25T13:42:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>726</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="908" sha1="kv8fdcdqqzp1ku95dpobn4bc0ylrvr5" xml:space="preserve">== CMf nach Reifegrad (Tier 1, 2,) - Open Source Fokus ==
+Hier ist eine Kategorisierung von Content-Management-Frameworks (CMf) nach ihrem Reifegrad in drei Tiers:
+
+== Tier 1 (Enterprise-Ready) ===
+Diese Systeme sind für große Unternehmen und komplexe Anforderungen ausgelegt. Sie bieten hohe Skalierbarkeit, Sicherheit und umfangreichen Support.
+
+Java:
+* Liferay CE (Java) - LGPL – PostgreSQL: Ja (offiziell unterstützt)
+* dotCMS (Java) - GPLv3 – PostgreSQL: Ja (Standard)
+* OpenCms (Java) - LGPL – PostgreSQL: Ja
+
+
+PHP:
+* Drupal (PHP) - GPL-2.0-or-later – PostgreSQL: Ja (offiziell unterstützt)
+* TYPO3 (PHP) - GPL-2.0-or-later – PostgreSQL: Ja (offiziell unterstützt)
+
+
+=== Tier 2 (Mittelstand) ===
+Geeignet für mittelgroße Unternehmen mit moderaten Anforderungen.
+
+ASP.NET Core:
+* Orchard Core (ASP.NET Core) - MIT – PostgreSQL: Ja
+* Piranha CMS (ASP.NET Core) - MIT – PostgreSQL: Ja</text>
+      <sha1>kv8fdcdqqzp1ku95dpobn4bc0ylrvr5</sha1>
+    </revision>
+    <revision>
+      <id>727</id>
+      <parentid>726</parentid>
+      <timestamp>2025-10-25T13:43:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>727</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="831" sha1="4systhbf7pbyqsmbe3agn8dj0q4q1eu" xml:space="preserve">== CMf nach Reifegrad (Tier 1, 2,) - Open Source Fokus ==
+Hier ist eine Kategorisierung von Content-Management-Frameworks (CMf) nach ihrem Reifegrad in drei Tiers:
+
+== Tier 1 (Enterprise-Ready) ===
+Diese Systeme sind für große Unternehmen und komplexe Anforderungen ausgelegt. Sie bieten hohe Skalierbarkeit, Sicherheit und umfangreichen Support.
+
+Java:
+* Liferay CE (Java) - LGPL – PostgreSQL: Ja (offiziell unterstützt)
+* dotCMS (Java) - GPLv3 – PostgreSQL: Ja (Standard)
+* OpenCms (Java) - LGPL – PostgreSQL: Ja
+
+
+PHP:
+* Drupal (PHP) - GPL-2.0-or-later – PostgreSQL: Ja (offiziell unterstützt)
+
+
+=== Tier 2 (Mittelstand) ===
+Geeignet für mittelgroße Unternehmen mit moderaten Anforderungen.
+
+ASP.NET Core:
+* Orchard Core (ASP.NET Core) - MIT – PostgreSQL: Ja
+* Piranha CMS (ASP.NET Core) - MIT – PostgreSQL: Ja</text>
+      <sha1>4systhbf7pbyqsmbe3agn8dj0q4q1eu</sha1>
+    </revision>
+    <revision>
+      <id>728</id>
+      <parentid>727</parentid>
+      <timestamp>2025-10-25T20:18:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>728</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="532" sha1="8dj2dwg8vms9c081lqesgs5p1ov3ofk" xml:space="preserve">Diese Systeme dienen primär als Frameworks für Content‑Modelle, APIs und Extensibility.
+
+== Nach Reifegrad (Tiers) ==
+
+=== Tier 1 (Enterprise-Ready) ===
+* Drupal (PHP) – PostgreSQL: Ja (offiziell)
+* TYPO3 (PHP) – PostgreSQL: Ja
+
+=== Tier 2 (Mittelstand/Erweitert) ===
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (über Doctrine)
+* Sulu (PHP) – PostgreSQL: Ja (offiziell)
+* Wagtail (Python) – PostgreSQL: Ja (offiziell)
+* django CMS (Python) – PostgreSQL: Ja (offiziell)</text>
+      <sha1>8dj2dwg8vms9c081lqesgs5p1ov3ofk</sha1>
+    </revision>
+    <revision>
+      <id>729</id>
+      <parentid>728</parentid>
+      <timestamp>2025-10-25T20:51:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Tier 1 (Enterprise-Ready) */</comment>
+      <origin>729</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="540" sha1="sulribhfmw2a36j75jz3ojudo0vmcl2" xml:space="preserve">Diese Systeme dienen primär als Frameworks für Content‑Modelle, APIs und Extensibility.
+
+== Nach Reifegrad (Tiers) ==
+
+=== Tier 1 (Enterprise-Ready) ===
+* Drupal (PHP) – PostgreSQL: Ja (offiziell)
+* [[IDE:TYPO3]] (PHP) – PostgreSQL: Ja
+
+=== Tier 2 (Mittelstand/Erweitert) ===
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (über Doctrine)
+* Sulu (PHP) – PostgreSQL: Ja (offiziell)
+* Wagtail (Python) – PostgreSQL: Ja (offiziell)
+* django CMS (Python) – PostgreSQL: Ja (offiziell)</text>
+      <sha1>sulribhfmw2a36j75jz3ojudo0vmcl2</sha1>
+    </revision>
+    <revision>
+      <id>730</id>
+      <parentid>729</parentid>
+      <timestamp>2025-10-25T20:51:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Tier 2 (Mittelstand/Erweitert) */</comment>
+      <origin>730</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="437" sha1="pg29uerflsmth2xr5vl6mfqt5gn1hin" xml:space="preserve">Diese Systeme dienen primär als Frameworks für Content‑Modelle, APIs und Extensibility.
+
+== Nach Reifegrad (Tiers) ==
+
+=== Tier 1 (Enterprise-Ready) ===
+* Drupal (PHP) – PostgreSQL: Ja (offiziell)
+* [[IDE:TYPO3]] (PHP) – PostgreSQL: Ja
+
+=== Tier 2 (Mittelstand/Erweitert) ===
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (über Doctrine)
+* Sulu (PHP) – PostgreSQL: Ja (offiziell)</text>
+      <sha1>pg29uerflsmth2xr5vl6mfqt5gn1hin</sha1>
+    </revision>
+    <revision>
+      <id>738</id>
+      <parentid>730</parentid>
+      <timestamp>2025-10-26T03:07:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>738</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="397" sha1="07uv2ge7fgx9zw9e0974uu9m6vayik1" xml:space="preserve">Diese Systeme dienen primär als Frameworks für Content‑Modelle, APIs und Extensibility.
+
+== Nach Reifegrad (Tiers) ==
+
+=== Tier 1 (Enterprise-Ready) ===
+* Drupal (PHP) – PostgreSQL: Ja (offiziell)
+
+
+=== Tier 2 (Mittelstand/Erweitert) ===
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (über Doctrine)
+* Sulu (PHP) – PostgreSQL: Ja (offiziell)</text>
+      <sha1>07uv2ge7fgx9zw9e0974uu9m6vayik1</sha1>
+    </revision>
+    <revision>
+      <id>742</id>
+      <parentid>738</parentid>
+      <timestamp>2025-10-26T12:28:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>742</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="512" sha1="85k56i33kx9s3qh0tryrffe41xelras" xml:space="preserve">Diese Systeme dienen primär als Frameworks für Content‑Modelle, APIs und Extensibility.
+
+== Nach Reifegrad (Tiers) ==
+
+=== Tier 1 (Enterprise-Ready) ===
+* Drupal (PHP) – PostgreSQL: Ja (offiziell)
+* Wagtail (Python/Django) – PostgreSQL: Ja (offiziell)
+=== Tier 2 (Mittelstand/Erweitert) ===
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (über Doctrine)
+* Sulu (PHP) – PostgreSQL: Ja (offiziell)
+* django CMS (Python/Django) – PostgreSQL: Ja (offiziell)</text>
+      <sha1>85k56i33kx9s3qh0tryrffe41xelras</sha1>
+    </revision>
+    <revision>
+      <id>762</id>
+      <parentid>742</parentid>
+      <timestamp>2025-10-27T01:16:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>762</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="303" sha1="4z2do7dfgbofw136zpx8fvdrrc53e74" xml:space="preserve">Diese Systeme dienen primär als Frameworks für Content‑Modelle, APIs und Extensibility.
+
+== Nach Reifegrad (Tiers) ==
+
+=== Tier 1 (Enterprise-Ready) ===
+* Drupal (PHP) – PostgreSQL: Ja (offiziell)
+
+=== Tier 2 (Mittelstand/Erweitert) ===
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (offiziell)</text>
+      <sha1>4z2do7dfgbofw136zpx8fvdrrc53e74</sha1>
+    </revision>
+    <revision>
+      <id>783</id>
+      <parentid>762</parentid>
+      <timestamp>2025-10-27T05:16:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>783</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="153" sha1="s2ontsv35ym7l8p53fy6ab0uktnzfvm" xml:space="preserve">Diese Systeme dienen primär als Frameworks für Content‑Modelle, APIs und Extensibility.
+
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (offiziell)</text>
+      <sha1>s2ontsv35ym7l8p53fy6ab0uktnzfvm</sha1>
+    </revision>
+    <revision>
+      <id>786</id>
+      <parentid>783</parentid>
+      <timestamp>2025-10-27T09:57:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>786</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="512" sha1="85k56i33kx9s3qh0tryrffe41xelras" xml:space="preserve">Diese Systeme dienen primär als Frameworks für Content‑Modelle, APIs und Extensibility.
+
+== Nach Reifegrad (Tiers) ==
+
+=== Tier 1 (Enterprise-Ready) ===
+* Drupal (PHP) – PostgreSQL: Ja (offiziell)
+* Wagtail (Python/Django) – PostgreSQL: Ja (offiziell)
+=== Tier 2 (Mittelstand/Erweitert) ===
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (über Doctrine)
+* Sulu (PHP) – PostgreSQL: Ja (offiziell)
+* django CMS (Python/Django) – PostgreSQL: Ja (offiziell)</text>
+      <sha1>85k56i33kx9s3qh0tryrffe41xelras</sha1>
+    </revision>
+    <revision>
+      <id>787</id>
+      <parentid>786</parentid>
+      <timestamp>2025-10-27T12:43:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Nach Reifegrad (Tiers) */</comment>
+      <origin>787</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="396" sha1="40w6hx5tusqpem40fi8l7qse3yzcjj3" xml:space="preserve">Diese Systeme dienen primär als Frameworks für Content‑Modelle, APIs und Extensibility.
+
+== Nach Reifegrad (Tiers) ==
+
+=== Tier 1 (Enterprise-Ready) ===
+* Drupal (PHP) – PostgreSQL: Ja (offiziell)
+
+=== Tier 2 (Mittelstand/Erweitert) ===
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (über Doctrine)
+* Sulu (PHP) – PostgreSQL: Ja (offiziell)</text>
+      <sha1>40w6hx5tusqpem40fi8l7qse3yzcjj3</sha1>
+    </revision>
+    <revision>
+      <id>788</id>
+      <parentid>787</parentid>
+      <timestamp>2025-10-27T13:06:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>788</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="303" sha1="4z2do7dfgbofw136zpx8fvdrrc53e74" xml:space="preserve">Diese Systeme dienen primär als Frameworks für Content‑Modelle, APIs und Extensibility.
+
+== Nach Reifegrad (Tiers) ==
+
+=== Tier 1 (Enterprise-Ready) ===
+* Drupal (PHP) – PostgreSQL: Ja (offiziell)
+
+=== Tier 2 (Mittelstand/Erweitert) ===
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (offiziell)</text>
+      <sha1>4z2do7dfgbofw136zpx8fvdrrc53e74</sha1>
+    </revision>
+    <revision>
+      <id>789</id>
+      <parentid>788</parentid>
+      <timestamp>2025-10-27T13:21:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>789</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="512" sha1="85k56i33kx9s3qh0tryrffe41xelras" xml:space="preserve">Diese Systeme dienen primär als Frameworks für Content‑Modelle, APIs und Extensibility.
+
+== Nach Reifegrad (Tiers) ==
+
+=== Tier 1 (Enterprise-Ready) ===
+* Drupal (PHP) – PostgreSQL: Ja (offiziell)
+* Wagtail (Python/Django) – PostgreSQL: Ja (offiziell)
+=== Tier 2 (Mittelstand/Erweitert) ===
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (über Doctrine)
+* Sulu (PHP) – PostgreSQL: Ja (offiziell)
+* django CMS (Python/Django) – PostgreSQL: Ja (offiziell)</text>
+      <sha1>85k56i33kx9s3qh0tryrffe41xelras</sha1>
+    </revision>
+    <revision>
+      <id>790</id>
+      <parentid>789</parentid>
+      <timestamp>2025-10-27T21:48:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>790</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="568" sha1="jffhldewy6cxik3wg86wpqt4sgrmgt1" xml:space="preserve">Diese Systeme dienen primär als Frameworks für Content‑Modelle, APIs und Extensibility.
+
+== Nach Reifegrad (Tiers) ==
+
+=== Tier 1 (Enterprise-Ready) ===
+* Drupal (PHP) – PostgreSQL: Ja (offiziell)
+* Wagtail (Python/Django) – PostgreSQL: Ja (offiziell)
+* TYPO3 (PHP) – PostgreSQL: Ja (über Doctrine DBAL)
+
+=== Tier 2 (Mittelstand/Erweitert) ===
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (über Doctrine)
+* Sulu (PHP) – PostgreSQL: Ja (offiziell)
+* django CMS (Python/Django) – PostgreSQL: Ja (offiziell)</text>
+      <sha1>jffhldewy6cxik3wg86wpqt4sgrmgt1</sha1>
+    </revision>
+    <revision>
+      <id>792</id>
+      <parentid>790</parentid>
+      <timestamp>2025-10-27T22:12:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Nach Reifegrad (Tiers) */</comment>
+      <origin>792</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="514" sha1="8586gip6q53px2crgq5d55btgdfi0tj" xml:space="preserve">Diese Systeme dienen primär als Frameworks für Content‑Modelle, APIs und Extensibility.
+
+== Nach Reifegrad (Tiers) ==
+
+=== Tier 1 (Enterprise-Ready) ===
+* Drupal (PHP) – PostgreSQL: Ja (offiziell)
+* Wagtail (Python/Django) – PostgreSQL: Ja (offiziell)
+
+
+=== Tier 2 (Mittelstand/Erweitert) ===
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (über Doctrine)
+* Sulu (PHP) – PostgreSQL: Ja (offiziell)
+* django CMS (Python/Django) – PostgreSQL: Ja (offiziell)</text>
+      <sha1>8586gip6q53px2crgq5d55btgdfi0tj</sha1>
+    </revision>
+    <revision>
+      <id>796</id>
+      <parentid>792</parentid>
+      <timestamp>2025-10-27T22:35:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>796</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="510" sha1="7fc77avb57alk9x03h1kz27m09b3nn5" xml:space="preserve">Diese Systeme dienen primär als Frameworks für Content‑Modelle, APIs und Extensibility.
+
+== Nach Reifegrad (Tiers) ==
+
+=== Tier 1 (Enterprise-Ready) ===
+* Drupal (PHP) – PostgreSQL: Ja (nativ unterstützt)
+* Wagtail (Python/Django) – PostgreSQL: Ja (nativ unterstützt)
+
+
+=== Tier 2 (Mittelstand/Erweitert) ===
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)
+* Sulu (PHP) – PostgreSQL: Ja (nativ unterstützt)
+* django CMS (Python/Django) – PostgreSQL: Ja (nativ unterstützt)</text>
+      <sha1>7fc77avb57alk9x03h1kz27m09b3nn5</sha1>
+    </revision>
+    <revision>
+      <id>797</id>
+      <parentid>796</parentid>
+      <timestamp>2025-10-28T10:08:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>797</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="816" sha1="onpfr83td6q9l8906ra9kke3bh6ncij" xml:space="preserve">## Reine Content Manage Framework
+
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)
+
+##  CMS mit CMF‑Eigenschaften
+
+* Drupal (PHP) – PostgreSQL: Ja (nativ unterstützt) – CMS mit CMF‑Eigenschaften (Entitäten/Felder, Views, JSON:API/REST)
+* Wagtail (Python/Django) – PostgreSQL: Ja (nativ unterstützt) – CMS, headless‑fähig (StreamField, API)
+* Sulu (PHP/Symfony) – PostgreSQL: Nein (offiziell nicht unterstützt; MySQL/MariaDB) – CMS, headless‑fähig (REST)
+* django CMS (Python/Django) – PostgreSQL: Ja (nativ unterstützt) – CMS mit Plugins/Apphooks
+* TYPO3 (PHP) – PostgreSQL: Ja (nativ unterstützt) – CMS mit Extbase/Fluid (Framework‑Ansatz)
+* Neos (PHP) PostgreSQL: Ja (offiziell unterstützt, über Doctrine ORM) – CMS mit Content‑Repository (Flow/CR)</text>
+      <sha1>onpfr83td6q9l8906ra9kke3bh6ncij</sha1>
+    </revision>
+    <revision>
+      <id>798</id>
+      <parentid>797</parentid>
+      <timestamp>2025-10-28T10:09:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>798</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="829" sha1="l586v2k459bqql198bt8nk5rb4ek7pp" xml:space="preserve">## Reine Content Manage Framework
+
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)
+
+##  CMS mit CMF‑Eigenschaften
+
+* Drupal (PHP) – PostgreSQL: Ja (nativ unterstützt) – CMS mit CMF‑Eigenschaften (Entitäten/Felder, Views, JSON:API/REST)
+* Wagtail (Python/Django) – PostgreSQL: Ja (nativ unterstützt) – CMS, headless‑fähig (StreamField, API)
+* Sulu (PHP/Symfony) – PostgreSQL: Nein (offiziell nicht unterstützt; MySQL/MariaDB) – CMS, headless‑fähig (REST)
+* django CMS (Python/Django) – PostgreSQL: Ja (nativ unterstützt) – CMS mit Plugins/Apphooks
+* TYPO3 (PHP) – PostgreSQL: Ja (nativ unterstützt) – CMS mit Extbase/Fluid (Framework‑Ansatz)
+* Neos (PHP) PostgreSQL: Ja (offiziell unterstützt, über Doctrine ORM) – CMS mit Content‑Repository (Flow/CR)
+* Django Cms</text>
+      <sha1>l586v2k459bqql198bt8nk5rb4ek7pp</sha1>
+    </revision>
+    <revision>
+      <id>799</id>
+      <parentid>798</parentid>
+      <timestamp>2025-10-28T10:18:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>799</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="547" sha1="cis0mv6eiuqjf7tjzp4yxj59hnzf2e2" xml:space="preserve">## Reine Content Manage Framework
+
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)
+
+##  CMS mit CMF‑Eigenschaften
+
+* Drupal (PHP) – PostgreSQL: Ja (nativ unterstützt) – CMS mit CMF‑Eigenschaften (Entitäten/Felder, Views, JSON:API/REST)
+* Wagtail (Python/Django) – PostgreSQL: Ja (nativ unterstützt) – CMS, headless‑fähig (StreamField, API)
+* Sulu (PHP/Symfony) – PostgreSQL: Ja CMS, headless‑fähig (REST)
+* django CMS (Python/Django) – PostgreSQL: Ja (nativ unterstützt) – CMS mit Plugins/Apphooks</text>
+      <sha1>cis0mv6eiuqjf7tjzp4yxj59hnzf2e2</sha1>
+    </revision>
+    <revision>
+      <id>800</id>
+      <parentid>799</parentid>
+      <timestamp>2025-10-28T10:20:27Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>800</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="549" sha1="3kwzqls0fccbvjsu9sp56osmsykxwgx" xml:space="preserve">== Reine Content Manage Framework==
+
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)
+
+==CMS mit CMF‑Eigenschaften==
+
+* Drupal (PHP) – PostgreSQL: Ja (nativ unterstützt) – CMS mit CMF‑Eigenschaften (Entitäten/Felder, Views, JSON:API/REST)
+* Wagtail (Python/Django) – PostgreSQL: Ja (nativ unterstützt) – CMS, headless‑fähig (StreamField, API)
+* Sulu (PHP/Symfony) – PostgreSQL: Ja CMS, headless‑fähig (REST)
+* django CMS (Python/Django) – PostgreSQL: Ja (nativ unterstützt) – CMS mit Plugins/Apphooks</text>
+      <sha1>3kwzqls0fccbvjsu9sp56osmsykxwgx</sha1>
+    </revision>
+    <revision>
+      <id>803</id>
+      <parentid>800</parentid>
+      <timestamp>2025-10-28T21:17:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>803</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1157" sha1="jk2eg9mftfrt03iyxp1obni8mmvt8kn" xml:space="preserve">== Reine Content Manage Framework==
+
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)
+
+==CMS mit CMF‑Eigenschaften==
+
+== CMS mit CMF‑Eigenschaften (PostgreSQL-Status) ==
+* Drupal (PHP) – PostgreSQL: Nativ (offiziell)
+* Wagtail (Python/Django) – PostgreSQL: Nativ (offiziell)
+* django CMS (Python/Django) – PostgreSQL: Nativ (offiziell)
+* TYPO3 (PHP) – PostgreSQL: Nativ (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (offiziell, über Doctrine ORM)
+* Sulu (PHP/Symfony) – PostgreSQL: Ja
+
+== CMS (PostgreSQL-Status) ==
+* MediaWiki (PHP) – PostgreSQL: Nativ (offiziell)
+* OpenCms (Java) – PostgreSQL: Nativ (offiziell)
+* XWiki (Java) – PostgreSQL: Nativ (offiziell)
+
+
+== Kommerzielle Nutzung (ohne Copyleft-Auflagen) ==
+; Permissiv (keine Copyleft-Pflichten; Attribution/Lizenztext beilegen)
+* Orchard Core – Apache-2.0
+* Wagtail – BSD-3
+* django CMS – BSD-3
+* Sulu – MIT
+
+; Copyleft (kommerziell nutzbar, aber mit Auflagen bei Verteilung)
+* Drupal – GPL-2.0+
+* TYPO3 – GPL-2.0+
+* Neos – GPL-3.0+
+* MediaWiki – GPL-2.0+
+* XWiki – LGPL-2.1 (schwaches Copyleft)
+* OpenCms – LGPL-2.1 (schwaches Copyleft)</text>
+      <sha1>jk2eg9mftfrt03iyxp1obni8mmvt8kn</sha1>
+    </revision>
+    <revision>
+      <id>804</id>
+      <parentid>803</parentid>
+      <timestamp>2025-10-28T23:52:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>804</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1106" sha1="1rfnnx7zbdk3nwa4n1tcuhw9wgozchn" xml:space="preserve">== Reine Content Manage Framework==
+
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)
+
+==CMS mit CMF‑Eigenschaften==
+
+== CMS mit CMF‑Eigenschaften (PostgreSQL-Status) ==
+* Drupal (PHP) – PostgreSQL: Nativ (offiziell)
+* Wagtail (Python/Django) – PostgreSQL: Nativ (offiziell)
+* django CMS (Python/Django) – PostgreSQL: Nativ (offiziell)
+* TYPO3 (PHP) – PostgreSQL: Nativ (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (offiziell, über Doctrine ORM)
+* Sulu (PHP/Symfony) – PostgreSQL: Ja
+
+== CMS (PostgreSQL-Status) ==
+* MediaWiki (PHP) – PostgreSQL: Nativ (offiziell)
+* XWiki (Java) – PostgreSQL: Nativ (offiziell)
+
+
+== Kommerzielle Nutzung (ohne Copyleft-Auflagen) ==
+; Permissiv (keine Copyleft-Pflichten; Attribution/Lizenztext beilegen)
+* Orchard Core – Apache-2.0
+* Wagtail – BSD-3
+* django CMS – BSD-3
+* Sulu – MIT
+
+; Copyleft (kommerziell nutzbar, aber mit Auflagen bei Verteilung)
+* Drupal – GPL-2.0+
+* TYPO3 – GPL-2.0+
+* Neos – GPL-3.0+
+* MediaWiki – GPL-2.0+
+* XWiki – LGPL-2.1 (schwaches Copyleft)
+* OpenCms – LGPL-2.1 (schwaches Copyleft)</text>
+      <sha1>1rfnnx7zbdk3nwa4n1tcuhw9wgozchn</sha1>
+    </revision>
+    <revision>
+      <id>805</id>
+      <parentid>804</parentid>
+      <timestamp>2025-10-29T00:35:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>805</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1074" sha1="i4fu3d0erhn0jyz9tyt1ct4ysrotr4o" xml:space="preserve">== Reine Content Manage Framework==
+
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)
+
+
+== CMS mit CMF‑Eigenschaften (PostgreSQL-Status) ==
+* Drupal (PHP) – PostgreSQL: Nativ (offiziell)
+* Wagtail (Python/Django) – PostgreSQL: Nativ (offiziell)
+* django CMS (Python/Django) – PostgreSQL: Nativ (offiziell)
+* TYPO3 (PHP) – PostgreSQL: Nativ (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (offiziell, über Doctrine ORM)
+* Sulu (PHP/Symfony) – PostgreSQL: Ja
+
+== CMS (PostgreSQL-Status) ==
+* MediaWiki (PHP) – PostgreSQL: Nativ (offiziell)
+* XWiki (Java) – PostgreSQL: Nativ (offiziell)
+
+
+== Kommerzielle Nutzung (ohne Copyleft-Auflagen) ==
+; Permissiv (keine Copyleft-Pflichten; Attribution/Lizenztext beilegen)
+* Orchard Core – Apache-2.0
+* Wagtail – BSD-3
+* django CMS – BSD-3
+* Sulu – MIT
+
+; Copyleft (kommerziell nutzbar, aber mit Auflagen bei Verteilung)
+* Drupal – GPL-2.0+
+* TYPO3 – GPL-2.0+
+* Neos – GPL-3.0+
+* MediaWiki – GPL-2.0+
+* XWiki – LGPL-2.1 (schwaches Copyleft)
+* OpenCms – LGPL-2.1 (schwaches Copyleft)</text>
+      <sha1>i4fu3d0erhn0jyz9tyt1ct4ysrotr4o</sha1>
+    </revision>
+    <revision>
+      <id>806</id>
+      <parentid>805</parentid>
+      <timestamp>2025-10-29T00:36:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Kommerzielle Nutzung (ohne Copyleft-Auflagen) */</comment>
+      <origin>806</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1030" sha1="s84h28uokm7tfo7gf2shni8yn794nn3" xml:space="preserve">== Reine Content Manage Framework==
+
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)
+
+
+== CMS mit CMF‑Eigenschaften (PostgreSQL-Status) ==
+* Drupal (PHP) – PostgreSQL: Nativ (offiziell)
+* Wagtail (Python/Django) – PostgreSQL: Nativ (offiziell)
+* django CMS (Python/Django) – PostgreSQL: Nativ (offiziell)
+* TYPO3 (PHP) – PostgreSQL: Nativ (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (offiziell, über Doctrine ORM)
+* Sulu (PHP/Symfony) – PostgreSQL: Ja
+
+== CMS (PostgreSQL-Status) ==
+* MediaWiki (PHP) – PostgreSQL: Nativ (offiziell)
+* XWiki (Java) – PostgreSQL: Nativ (offiziell)
+
+
+== Kommerzielle Nutzung (ohne Copyleft-Auflagen) ==
+; Permissiv (keine Copyleft-Pflichten; Attribution/Lizenztext beilegen)
+* Orchard Core – Apache-2.0
+* Wagtail – BSD-3
+* django CMS – BSD-3
+* Sulu – MIT
+
+; Copyleft (kommerziell nutzbar, aber mit Auflagen bei Verteilung)
+* Drupal – GPL-2.0+
+* TYPO3 – GPL-2.0+
+* Neos – GPL-3.0+
+* MediaWiki – GPL-2.0+
+* XWiki – LGPL-2.1 (schwaches Copyleft)</text>
+      <sha1>s84h28uokm7tfo7gf2shni8yn794nn3</sha1>
+    </revision>
+    <revision>
+      <id>807</id>
+      <parentid>806</parentid>
+      <timestamp>2025-10-29T01:15:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* CMS mit CMF‑Eigenschaften (PostgreSQL-Status) */</comment>
+      <origin>807</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="907" sha1="mhnn2zcfu0y5xe4lmewp2bi85dxlutx" xml:space="preserve">== Reine Content Manage Framework==
+
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)
+
+
+== CMS mit CMF‑Eigenschaften (PostgreSQL-Status) ==
+* Drupal (PHP) – PostgreSQL: Nativ (offiziell)
+* TYPO3 (PHP) – PostgreSQL: Nativ (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (offiziell, über Doctrine ORM)
+* Sulu (PHP/Symfony) – PostgreSQL: Ja
+
+== CMS (PostgreSQL-Status) ==
+* MediaWiki (PHP) – PostgreSQL: Nativ (offiziell)
+* XWiki (Java) – PostgreSQL: Nativ (offiziell)
+
+
+== Kommerzielle Nutzung (ohne Copyleft-Auflagen) ==
+; Permissiv (keine Copyleft-Pflichten; Attribution/Lizenztext beilegen)
+* Orchard Core – Apache-2.0
+* Wagtail – BSD-3
+* django CMS – BSD-3
+* Sulu – MIT
+
+; Copyleft (kommerziell nutzbar, aber mit Auflagen bei Verteilung)
+* Drupal – GPL-2.0+
+* TYPO3 – GPL-2.0+
+* Neos – GPL-3.0+
+* MediaWiki – GPL-2.0+
+* XWiki – LGPL-2.1 (schwaches Copyleft)</text>
+      <sha1>mhnn2zcfu0y5xe4lmewp2bi85dxlutx</sha1>
+    </revision>
+    <revision>
+      <id>808</id>
+      <parentid>807</parentid>
+      <timestamp>2025-10-29T01:15:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Kommerzielle Nutzung (ohne Copyleft-Auflagen) */</comment>
+      <origin>808</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="864" sha1="4rfjmqm6ulszrum8an793qh7iyii3jg" xml:space="preserve">== Reine Content Manage Framework==
+
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)
+
+
+== CMS mit CMF‑Eigenschaften (PostgreSQL-Status) ==
+* Drupal (PHP) – PostgreSQL: Nativ (offiziell)
+* TYPO3 (PHP) – PostgreSQL: Nativ (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (offiziell, über Doctrine ORM)
+* Sulu (PHP/Symfony) – PostgreSQL: Ja
+
+== CMS (PostgreSQL-Status) ==
+* MediaWiki (PHP) – PostgreSQL: Nativ (offiziell)
+* XWiki (Java) – PostgreSQL: Nativ (offiziell)
+
+
+== Kommerzielle Nutzung (ohne Copyleft-Auflagen) ==
+; Permissiv (keine Copyleft-Pflichten; Attribution/Lizenztext beilegen)
+* Orchard Core – Apache-2.0
+* Sulu – MIT
+
+; Copyleft (kommerziell nutzbar, aber mit Auflagen bei Verteilung)
+* Drupal – GPL-2.0+
+* TYPO3 – GPL-2.0+
+* Neos – GPL-3.0+
+* MediaWiki – GPL-2.0+
+* XWiki – LGPL-2.1 (schwaches Copyleft)</text>
+      <sha1>4rfjmqm6ulszrum8an793qh7iyii3jg</sha1>
+    </revision>
+    <revision>
+      <id>810</id>
+      <parentid>808</parentid>
+      <timestamp>2025-10-29T02:48:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>810</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="360" sha1="80zqerj89561lvr9cqv8t6et1w0m4fz" xml:space="preserve">== Reine Content Manage Framework==
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)
+== CMS mit CMF‑Eigenschaften (PostgreSQL-Status) ==
+* Drupal (PHP) – PostgreSQL: Nativ (offiziell)
+* TYPO3 (PHP) – PostgreSQL: Nativ (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (offiziell, über Doctrine ORM)
+* Sulu (PHP/Symfony) – PostgreSQL: Ja</text>
+      <sha1>80zqerj89561lvr9cqv8t6et1w0m4fz</sha1>
+    </revision>
+    <revision>
+      <id>812</id>
+      <parentid>810</parentid>
+      <timestamp>2025-10-29T03:36:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>812</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="374" sha1="av7immkddbj6welmhn62hhu5hnszq6h" xml:space="preserve">== Reine Content Manage Framework==
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)
+== CMS mit CMF‑Eigenschaften (PostgreSQL-Status) ==
+* Drupal (PHP) – PostgreSQL: Nativ (offiziell)
+* [[IDE:TYPO3 TYPO3]] (PHP) – PostgreSQL: Nativ (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (offiziell, über Doctrine ORM)
+* Sulu (PHP/Symfony) – PostgreSQL: Ja</text>
+      <sha1>av7immkddbj6welmhn62hhu5hnszq6h</sha1>
+    </revision>
+    <revision>
+      <id>813</id>
+      <parentid>812</parentid>
+      <timestamp>2025-10-29T03:36:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>813</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="374" sha1="o0ismlp1ffnq9qtmloiz1l65evg98fo" xml:space="preserve">== Reine Content Manage Framework==
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)
+== CMS mit CMF‑Eigenschaften (PostgreSQL-Status) ==
+* Drupal (PHP) – PostgreSQL: Nativ (offiziell)
+* [[IDE:TYPO3|TYPO3]] (PHP) – PostgreSQL: Nativ (offiziell)
+* Neos (PHP) – PostgreSQL: Ja (offiziell, über Doctrine ORM)
+* Sulu (PHP/Symfony) – PostgreSQL: Ja</text>
+      <sha1>o0ismlp1ffnq9qtmloiz1l65evg98fo</sha1>
+    </revision>
+    <revision>
+      <id>814</id>
+      <parentid>813</parentid>
+      <timestamp>2025-10-29T05:42:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>814</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="387" sha1="hllomvnvyr9o5d5fymmkj4fbxfmudpw" xml:space="preserve">== Reine Content Manage Framework==
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)
+== CMS mit CMF‑Eigenschaften (PostgreSQL-Status) ==
+* Drupal (PHP) – PostgreSQL: Nativ (offiziell)
+* [[IDE:TYPO3|TYPO3]] (PHP) – PostgreSQL: Nativ (offiziell)
+* [[IDE:Neos|Neos]] (PHP) – PostgreSQL: Ja (offiziell, über Doctrine ORM)
+* Sulu (PHP/Symfony) – PostgreSQL: Ja</text>
+      <sha1>hllomvnvyr9o5d5fymmkj4fbxfmudpw</sha1>
+    </revision>
+    <revision>
+      <id>829</id>
+      <parentid>814</parentid>
+      <timestamp>2025-11-01T19:41:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>829</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="395" sha1="5cdirhspyrq3abqf9iw3tl1avq09gyd" xml:space="preserve">== Reine Content Manage Framework==
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)
+== CMS mit CMF‑Eigenschaften (PostgreSQL-Status) ==
+* Drupal (PHP) – PostgreSQL: Nativ (offiziell)
+* [[IDE:TYPO3|TYPO3]] (PHP) – PostgreSQL: Nativ (offiziell)
+* [[IDE:Neos|Neos]] (PHP) – PostgreSQL: Ja (offiziell, über Doctrine ORM)
+* [[IDE:Sulu]] (PHP/Symfony) – PostgreSQL: Ja</text>
+      <sha1>5cdirhspyrq3abqf9iw3tl1avq09gyd</sha1>
+    </revision>
+    <revision>
+      <id>831</id>
+      <parentid>829</parentid>
+      <timestamp>2025-11-04T11:23:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* CMS mit CMF‑Eigenschaften (PostgreSQL-Status) */</comment>
+      <origin>831</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="105" sha1="pf6ahkkoyu4jbo8a43xmoiwfp3i5519" xml:space="preserve">== Reine Content Manage Framework==
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)</text>
+      <sha1>pf6ahkkoyu4jbo8a43xmoiwfp3i5519</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>IDE:TYPO3</title>
+    <ns>3008</ns>
+    <id>172</id>
+    <revision>
+      <id>731</id>
+      <timestamp>2025-10-25T20:52:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt;  # TYPO3 13 LTS – NGINX vhost # Datei: /etc/nginx/sites-available/typo3.conf (Symlink nach sites-enabled)  server {     listen 80;     server_name example.com www.example.com;      # Composer-Setup: DocumentRoot zeigt auf das "public" Verzeichnis     root /var/www/typo3/public;     index index.php index.html;     charset utf-8;      client_max_body_size 32m;      # Basis-Security-Header     add_header X-Content-Type-Options nosniff;     add_header…“</comment>
+      <origin>731</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2350" sha1="hl4swatj2yyly1zp7163sst3usjij9r" xml:space="preserve">&lt;pre&gt;
+
+# TYPO3 13 LTS – NGINX vhost
+# Datei: /etc/nginx/sites-available/typo3.conf (Symlink nach sites-enabled)
+
+server {
+    listen 80;
+    server_name example.com www.example.com;
+
+    # Composer-Setup: DocumentRoot zeigt auf das "public" Verzeichnis
+    root /var/www/typo3/public;
+    index index.php index.html;
+    charset utf-8;
+
+    client_max_body_size 32m;
+
+    # Basis-Security-Header
+    add_header X-Content-Type-Options nosniff;
+    add_header X-Frame-Options SAMEORIGIN;
+    add_header Referrer-Policy no-referrer-when-downgrade;
+    add_header X-XSS-Protection "1; mode=block";
+
+    # Front-Controller
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    # TYPO3 Backend: leitet über Front-Controller
+    location ^~ /typo3/ {
+        try_files $uri /index.php$is_args$args;
+    }
+
+    # Statische Assets
+    location ~* \.(?:css|js|gif|ico|jpg|jpeg|png|svg|webp|avif|woff|woff2|ttf|eot)$ {
+        try_files $uri =404;
+        access_log off;
+        expires 7d;
+        add_header Cache-Control "public, immutable";
+    }
+
+    # Favicons / Robots
+    location = /favicon.ico { log_not_found off; access_log off; }
+    location = /robots.txt  { log_not_found off; access_log off; }
+
+    # Versteckte/empfindliche Dateien sperren
+    location ~ /\.(?!well-known) { deny all; }
+    location ~* /(composer\.(json|lock)|package\.json|yarn\.lock|webpack\..*|tsconfig\.json)$ { deny all; }
+    location ~* (?:^|/)(?:LocalConfiguration|AdditionalConfiguration)\.php$ { deny all; }
+    location ~* ^/(?:typo3conf|var|vendor|Build|Tests)(?:/|$) { deny all; }
+
+    # Keine PHP-Ausführung in Upload-/Asset-Ordnern
+    location ~* ^/(?:fileadmin|uploads|typo3temp|typo3conf|storage)/.*\.php$ {
+        deny all;
+    }
+
+    # PHP-FPM
+    location ~ \.php$ {
+        try_files $uri =404;
+        include fastcgi_params;
+        fastcgi_param SCRIPT_FILENAME $realpath_root$fastcgi_script_name;
+        fastcgi_param DOCUMENT_ROOT $realpath_root;
+        fastcgi_param TYPO3_CONTEXT Production;
+        fastcgi_param HTTPS $https if_not_empty;
+        fastcgi_buffers 16 16k;
+        fastcgi_buffer_size 32k;
+        fastcgi_read_timeout 120s;
+        # Pfad ggf. auf die installierte PHP-Version anpassen (8.2/8.3)
+        fastcgi_pass unix:/run/php/php8.2-fpm.sock;
+        fastcgi_index index.php;
+    }
+}
+&lt;/pre&gt;</text>
+      <sha1>hl4swatj2yyly1zp7163sst3usjij9r</sha1>
+    </revision>
+    <revision>
+      <id>732</id>
+      <parentid>731</parentid>
+      <timestamp>2025-10-26T00:04:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>732</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2439" sha1="kqnx5446h0rccqqu0q7z0xj6gq237p4" xml:space="preserve">&lt;pre&gt;
+composer create-project "typo3/cms-base-distribution:^13.4" /var/www/typo3
+&lt;/pre&gt;
+
+&lt;pre&gt;
+
+# TYPO3 13 LTS – NGINX vhost
+# Datei: /etc/nginx/sites-available/typo3.conf (Symlink nach sites-enabled)
+
+server {
+    listen 80;
+    server_name example.com www.example.com;
+
+    # Composer-Setup: DocumentRoot zeigt auf das "public" Verzeichnis
+    root /var/www/typo3/public;
+    index index.php index.html;
+    charset utf-8;
+
+    client_max_body_size 32m;
+
+    # Basis-Security-Header
+    add_header X-Content-Type-Options nosniff;
+    add_header X-Frame-Options SAMEORIGIN;
+    add_header Referrer-Policy no-referrer-when-downgrade;
+    add_header X-XSS-Protection "1; mode=block";
+
+    # Front-Controller
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    # TYPO3 Backend: leitet über Front-Controller
+    location ^~ /typo3/ {
+        try_files $uri /index.php$is_args$args;
+    }
+
+    # Statische Assets
+    location ~* \.(?:css|js|gif|ico|jpg|jpeg|png|svg|webp|avif|woff|woff2|ttf|eot)$ {
+        try_files $uri =404;
+        access_log off;
+        expires 7d;
+        add_header Cache-Control "public, immutable";
+    }
+
+    # Favicons / Robots
+    location = /favicon.ico { log_not_found off; access_log off; }
+    location = /robots.txt  { log_not_found off; access_log off; }
+
+    # Versteckte/empfindliche Dateien sperren
+    location ~ /\.(?!well-known) { deny all; }
+    location ~* /(composer\.(json|lock)|package\.json|yarn\.lock|webpack\..*|tsconfig\.json)$ { deny all; }
+    location ~* (?:^|/)(?:LocalConfiguration|AdditionalConfiguration)\.php$ { deny all; }
+    location ~* ^/(?:typo3conf|var|vendor|Build|Tests)(?:/|$) { deny all; }
+
+    # Keine PHP-Ausführung in Upload-/Asset-Ordnern
+    location ~* ^/(?:fileadmin|uploads|typo3temp|typo3conf|storage)/.*\.php$ {
+        deny all;
+    }
+
+    # PHP-FPM
+    location ~ \.php$ {
+        try_files $uri =404;
+        include fastcgi_params;
+        fastcgi_param SCRIPT_FILENAME $realpath_root$fastcgi_script_name;
+        fastcgi_param DOCUMENT_ROOT $realpath_root;
+        fastcgi_param TYPO3_CONTEXT Production;
+        fastcgi_param HTTPS $https if_not_empty;
+        fastcgi_buffers 16 16k;
+        fastcgi_buffer_size 32k;
+        fastcgi_read_timeout 120s;
+        # Pfad ggf. auf die installierte PHP-Version anpassen (8.2/8.3)
+        fastcgi_pass unix:/run/php/php8.2-fpm.sock;
+        fastcgi_index index.php;
+    }
+}
+&lt;/pre&gt;</text>
+      <sha1>kqnx5446h0rccqqu0q7z0xj6gq237p4</sha1>
+    </revision>
+    <revision>
+      <id>733</id>
+      <parentid>732</parentid>
+      <timestamp>2025-10-26T00:32:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>733</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2412" sha1="px1yjt4n1sziyyn3ob3rgtvoohl7j8f" xml:space="preserve">&lt;pre&gt;
+composer create-project "typo3/cms-base-distribution:^13.4" /var/www/typo3
+&lt;/pre&gt;
+
+&lt;pre&gt;
+
+# TYPO3 13 LTS – NGINX vhost
+# Datei: sudo nano /etc/nginx/conf.d//typo3.conf
+
+server {
+    listen 80;
+    server_name example.com www.example.com;
+
+    # Composer-Setup: DocumentRoot zeigt auf das "public" Verzeichnis
+    root /var/www/typo3/public;
+    index index.php index.html;
+    charset utf-8;
+
+    client_max_body_size 32m;
+
+    # Basis-Security-Header
+    add_header X-Content-Type-Options nosniff;
+    add_header X-Frame-Options SAMEORIGIN;
+    add_header Referrer-Policy no-referrer-when-downgrade;
+    add_header X-XSS-Protection "1; mode=block";
+
+    # Front-Controller
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    # TYPO3 Backend: leitet über Front-Controller
+    location ^~ /typo3/ {
+        try_files $uri /index.php$is_args$args;
+    }
+
+    # Statische Assets
+    location ~* \.(?:css|js|gif|ico|jpg|jpeg|png|svg|webp|avif|woff|woff2|ttf|eot)$ {
+        try_files $uri =404;
+        access_log off;
+        expires 7d;
+        add_header Cache-Control "public, immutable";
+    }
+
+    # Favicons / Robots
+    location = /favicon.ico { log_not_found off; access_log off; }
+    location = /robots.txt  { log_not_found off; access_log off; }
+
+    # Versteckte/empfindliche Dateien sperren
+    location ~ /\.(?!well-known) { deny all; }
+    location ~* /(composer\.(json|lock)|package\.json|yarn\.lock|webpack\..*|tsconfig\.json)$ { deny all; }
+    location ~* (?:^|/)(?:LocalConfiguration|AdditionalConfiguration)\.php$ { deny all; }
+    location ~* ^/(?:typo3conf|var|vendor|Build|Tests)(?:/|$) { deny all; }
+
+    # Keine PHP-Ausführung in Upload-/Asset-Ordnern
+    location ~* ^/(?:fileadmin|uploads|typo3temp|typo3conf|storage)/.*\.php$ {
+        deny all;
+    }
+
+    # PHP-FPM
+    location ~ \.php$ {
+        try_files $uri =404;
+        include fastcgi_params;
+        fastcgi_param SCRIPT_FILENAME $realpath_root$fastcgi_script_name;
+        fastcgi_param DOCUMENT_ROOT $realpath_root;
+        fastcgi_param TYPO3_CONTEXT Production;
+        fastcgi_param HTTPS $https if_not_empty;
+        fastcgi_buffers 16 16k;
+        fastcgi_buffer_size 32k;
+        fastcgi_read_timeout 120s;
+        # Pfad ggf. auf die installierte PHP-Version anpassen (8.2/8.3)
+        fastcgi_pass unix:/run/php/php8.2-fpm.sock;
+        fastcgi_index index.php;
+    }
+}
+&lt;/pre&gt;</text>
+      <sha1>px1yjt4n1sziyyn3ob3rgtvoohl7j8f</sha1>
+    </revision>
+    <revision>
+      <id>734</id>
+      <parentid>733</parentid>
+      <timestamp>2025-10-26T01:27:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>734</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2504" sha1="lcrvrnx4qxn6gtk3bhhpj4flguj9jms" xml:space="preserve">&lt;pre&gt;
+composer create-project "typo3/cms-base-distribution:^13.4" /var/www/typo3
+&lt;/pre&gt;
+
+&lt;pre&gt;
+
+# TYPO3 13 LTS – NGINX vhost
+# Datei: sudo nano /etc/nginx/conf.d//typo3.conf
+
+server {
+    listen 80;
+    server_name example.com www.example.com;
+
+    # Composer-Setup: DocumentRoot zeigt auf das "public" Verzeichnis
+    root /var/www/typo3/public;
+    index index.php index.html;
+    charset utf-8;
+
+    client_max_body_size 32m;
+
+    # Basis-Security-Header
+    add_header X-Content-Type-Options nosniff;
+    add_header X-Frame-Options SAMEORIGIN;
+    add_header Referrer-Policy no-referrer-when-downgrade;
+    add_header X-XSS-Protection "1; mode=block";
+
+    # Front-Controller
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    # TYPO3 Backend: leitet über Front-Controller
+    location ^~ /typo3/ {
+        try_files $uri /index.php$is_args$args;
+    }
+
+    # Statische Assets
+    location ~* \.(?:css|js|gif|ico|jpg|jpeg|png|svg|webp|avif|woff|woff2|ttf|eot)$ {
+        try_files $uri =404;
+        access_log off;
+        expires 7d;
+        add_header Cache-Control "public, immutable";
+    }
+
+    # Favicons / Robots
+    location = /favicon.ico { log_not_found off; access_log off; }
+    location = /robots.txt  { log_not_found off; access_log off; }
+
+    # Versteckte/empfindliche Dateien sperren
+    location ~ /\.(?!well-known) { deny all; }
+    location ~* /(composer\.(json|lock)|package\.json|yarn\.lock|webpack\..*|tsconfig\.json)$ { deny all; }
+    location ~* (?:^|/)(?:LocalConfiguration|AdditionalConfiguration)\.php$ { deny all; }
+    location ~* ^/(?:typo3conf|var|vendor|Build|Tests)(?:/|$) { deny all; }
+
+    # Keine PHP-Ausführung in Upload-/Asset-Ordnern
+    location ~* ^/(?:fileadmin|uploads|typo3temp|typo3conf|storage)/.*\.php$ {
+        deny all;
+    }
+
+    # PHP-FPM
+    location ~ \.php$ {
+        try_files $uri =404;
+        include fastcgi_params;
+        fastcgi_param SCRIPT_FILENAME $realpath_root$fastcgi_script_name;
+        fastcgi_param DOCUMENT_ROOT $realpath_root;
+        fastcgi_param TYPO3_CONTEXT Production;
+        fastcgi_param HTTPS $https if_not_empty;
+        fastcgi_buffers 16 16k;
+        fastcgi_buffer_size 32k;
+        fastcgi_read_timeout 120s;
+        # Pfad ggf. auf die installierte PHP-Version anpassen (8.2/8.3)
+        fastcgi_pass unix:/run/php/php8.2-fpm.sock;
+        fastcgi_index index.php;
+    }
+}
+&lt;/pre&gt;
+
+==Dateirechte==
+
+&lt;pre&gt;
+
+sudo chown -R www-data:www-data var/
+sudo chmod -R 775 var/
+&lt;/pre&gt;</text>
+      <sha1>lcrvrnx4qxn6gtk3bhhpj4flguj9jms</sha1>
+    </revision>
+    <revision>
+      <id>735</id>
+      <parentid>734</parentid>
+      <timestamp>2025-10-26T01:55:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Dateirechte */</comment>
+      <origin>735</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2524" sha1="ofy80gp8vsnoyyt9y93ykshgvob6vk1" xml:space="preserve">&lt;pre&gt;
+composer create-project "typo3/cms-base-distribution:^13.4" /var/www/typo3
+&lt;/pre&gt;
+
+&lt;pre&gt;
+
+# TYPO3 13 LTS – NGINX vhost
+# Datei: sudo nano /etc/nginx/conf.d//typo3.conf
+
+server {
+    listen 80;
+    server_name example.com www.example.com;
+
+    # Composer-Setup: DocumentRoot zeigt auf das "public" Verzeichnis
+    root /var/www/typo3/public;
+    index index.php index.html;
+    charset utf-8;
+
+    client_max_body_size 32m;
+
+    # Basis-Security-Header
+    add_header X-Content-Type-Options nosniff;
+    add_header X-Frame-Options SAMEORIGIN;
+    add_header Referrer-Policy no-referrer-when-downgrade;
+    add_header X-XSS-Protection "1; mode=block";
+
+    # Front-Controller
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    # TYPO3 Backend: leitet über Front-Controller
+    location ^~ /typo3/ {
+        try_files $uri /index.php$is_args$args;
+    }
+
+    # Statische Assets
+    location ~* \.(?:css|js|gif|ico|jpg|jpeg|png|svg|webp|avif|woff|woff2|ttf|eot)$ {
+        try_files $uri =404;
+        access_log off;
+        expires 7d;
+        add_header Cache-Control "public, immutable";
+    }
+
+    # Favicons / Robots
+    location = /favicon.ico { log_not_found off; access_log off; }
+    location = /robots.txt  { log_not_found off; access_log off; }
+
+    # Versteckte/empfindliche Dateien sperren
+    location ~ /\.(?!well-known) { deny all; }
+    location ~* /(composer\.(json|lock)|package\.json|yarn\.lock|webpack\..*|tsconfig\.json)$ { deny all; }
+    location ~* (?:^|/)(?:LocalConfiguration|AdditionalConfiguration)\.php$ { deny all; }
+    location ~* ^/(?:typo3conf|var|vendor|Build|Tests)(?:/|$) { deny all; }
+
+    # Keine PHP-Ausführung in Upload-/Asset-Ordnern
+    location ~* ^/(?:fileadmin|uploads|typo3temp|typo3conf|storage)/.*\.php$ {
+        deny all;
+    }
+
+    # PHP-FPM
+    location ~ \.php$ {
+        try_files $uri =404;
+        include fastcgi_params;
+        fastcgi_param SCRIPT_FILENAME $realpath_root$fastcgi_script_name;
+        fastcgi_param DOCUMENT_ROOT $realpath_root;
+        fastcgi_param TYPO3_CONTEXT Production;
+        fastcgi_param HTTPS $https if_not_empty;
+        fastcgi_buffers 16 16k;
+        fastcgi_buffer_size 32k;
+        fastcgi_read_timeout 120s;
+        # Pfad ggf. auf die installierte PHP-Version anpassen (8.2/8.3)
+        fastcgi_pass unix:/run/php/php8.2-fpm.sock;
+        fastcgi_index index.php;
+    }
+}
+&lt;/pre&gt;
+
+==Dateirechte==
+
+&lt;pre&gt;
+
+sudo chown -R www-data:www-data /var/www/typo3
+sudo chmod -R 775 /var/www/typo3
+&lt;/pre&gt;</text>
+      <sha1>ofy80gp8vsnoyyt9y93ykshgvob6vk1</sha1>
+    </revision>
+    <revision>
+      <id>736</id>
+      <parentid>735</parentid>
+      <timestamp>2025-10-26T02:48:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Dateirechte */</comment>
+      <origin>736</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2648" sha1="lhlshj35jjhxrls8lojk8gokdufyj7g" xml:space="preserve">&lt;pre&gt;
+composer create-project "typo3/cms-base-distribution:^13.4" /var/www/typo3
+&lt;/pre&gt;
+
+&lt;pre&gt;
+
+# TYPO3 13 LTS – NGINX vhost
+# Datei: sudo nano /etc/nginx/conf.d//typo3.conf
+
+server {
+    listen 80;
+    server_name example.com www.example.com;
+
+    # Composer-Setup: DocumentRoot zeigt auf das "public" Verzeichnis
+    root /var/www/typo3/public;
+    index index.php index.html;
+    charset utf-8;
+
+    client_max_body_size 32m;
+
+    # Basis-Security-Header
+    add_header X-Content-Type-Options nosniff;
+    add_header X-Frame-Options SAMEORIGIN;
+    add_header Referrer-Policy no-referrer-when-downgrade;
+    add_header X-XSS-Protection "1; mode=block";
+
+    # Front-Controller
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    # TYPO3 Backend: leitet über Front-Controller
+    location ^~ /typo3/ {
+        try_files $uri /index.php$is_args$args;
+    }
+
+    # Statische Assets
+    location ~* \.(?:css|js|gif|ico|jpg|jpeg|png|svg|webp|avif|woff|woff2|ttf|eot)$ {
+        try_files $uri =404;
+        access_log off;
+        expires 7d;
+        add_header Cache-Control "public, immutable";
+    }
+
+    # Favicons / Robots
+    location = /favicon.ico { log_not_found off; access_log off; }
+    location = /robots.txt  { log_not_found off; access_log off; }
+
+    # Versteckte/empfindliche Dateien sperren
+    location ~ /\.(?!well-known) { deny all; }
+    location ~* /(composer\.(json|lock)|package\.json|yarn\.lock|webpack\..*|tsconfig\.json)$ { deny all; }
+    location ~* (?:^|/)(?:LocalConfiguration|AdditionalConfiguration)\.php$ { deny all; }
+    location ~* ^/(?:typo3conf|var|vendor|Build|Tests)(?:/|$) { deny all; }
+
+    # Keine PHP-Ausführung in Upload-/Asset-Ordnern
+    location ~* ^/(?:fileadmin|uploads|typo3temp|typo3conf|storage)/.*\.php$ {
+        deny all;
+    }
+
+    # PHP-FPM
+    location ~ \.php$ {
+        try_files $uri =404;
+        include fastcgi_params;
+        fastcgi_param SCRIPT_FILENAME $realpath_root$fastcgi_script_name;
+        fastcgi_param DOCUMENT_ROOT $realpath_root;
+        fastcgi_param TYPO3_CONTEXT Production;
+        fastcgi_param HTTPS $https if_not_empty;
+        fastcgi_buffers 16 16k;
+        fastcgi_buffer_size 32k;
+        fastcgi_read_timeout 120s;
+        # Pfad ggf. auf die installierte PHP-Version anpassen (8.2/8.3)
+        fastcgi_pass unix:/run/php/php8.2-fpm.sock;
+        fastcgi_index index.php;
+    }
+}
+&lt;/pre&gt;
+
+==Dateirechte==
+
+&lt;pre&gt;
+
+sudo chown -R www-data:www-data /var/www/typo3
+sudo chmod -R 775 /var/www/typo3
+&lt;/pre&gt;
+sudo chown www-data:www-data /var/www/typo3/public/typo3/install.php
+sudo chmod 644 /var/www/typo3/public/typo3/install.php</text>
+      <sha1>lhlshj35jjhxrls8lojk8gokdufyj7g</sha1>
+    </revision>
+    <revision>
+      <id>737</id>
+      <parentid>736</parentid>
+      <timestamp>2025-10-26T02:58:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>737</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6680" sha1="dwg80ofxta8zcrrfl73yr8t5o90js5h" xml:space="preserve">&lt;pre&gt;
+composer create-project "typo3/cms-base-distribution:^13.4" /var/www/typo3
+&lt;/pre&gt;
+
+&lt;pre&gt;
+
+# TYPO3 13 LTS – NGINX vhost
+# Datei: sudo nano /etc/nginx/conf.d//typo3.conf
+
+
+
+server {
+     listen 80;
+    server_name example.com www.example.com;
+
+    # Composer-Setup: DocumentRoot zeigt auf das "public" Verzeichnis
+    root /var/www/typo3/public;
+    index index.php index.html;
+    charset utf-8;
+
+    client_max_body_size 32m;
+
+    include /etc/nginx/monitoring.conf;
+
+    index index.php index.htm index.html;
+
+    # Disable sendfile as per https://docs.vagrantup.com/v2/synced-folders/virtualbox.html
+    sendfile off;
+    error_log /dev/stdout info;
+    access_log /var/log/nginx/access.log;
+
+    # Security: Content-Security-Policy
+    # =================================
+    #
+    # Add CSP header for possible vulnerable files stored in fileadmin see:
+    # * https://typo3.org/security/advisory/typo3-psa-2019-010
+    # * https://docs.typo3.org/m/typo3/reference-coreapi/master/en-us/Security/GuidelinesAdministrators/ContentSecurityPolicy.html
+    # * https://github.com/TYPO3/TYPO3.CMS/blob/master/typo3/sysext/install/Resources/Private/FolderStructureTemplateFiles/resources-root-htaccess
+
+    # matching requested *.pdf files only (strict rules block Safari showing PDF documents)
+    location ~ /(?:fileadmin|uploads)/.*\.pdf$ {
+        add_header Content-Security-Policy "default-src 'self' 'unsafe-inline'; script-src 'none'; object-src 'self'; plugin-types application/pdf;";
+    }
+
+    # matching anything else, using negative lookbehind pattern
+    location ~ /(?:fileadmin|uploads)/.*(?&lt;!\.pdf)$ {
+        add_header Content-Security-Policy "default-src 'self'; script-src 'none'; style-src 'none'; object-src 'none';";
+
+        # Deliver media files as WebP if available. The file as WebP must be in
+        # the same place (Original: "example.jpg", WebP: "example.jpg.webp").
+        try_files $uri$webp_suffix $uri =404;
+    }
+
+    # TYPO3 11 Frontend URL rewriting support
+    location / {
+        absolute_redirect off;
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    # TYPO3 11 Backend URL rewriting support
+    location = /typo3 {
+        rewrite ^ /typo3/;
+    }
+
+    # check if /typo3/index.php exists
+    set $typo3_index_exists 0;
+    if (-f $document_root/typo3/index.php) {
+        set $typo3_index_exists 1;
+    }
+
+    location /typo3/ {
+        absolute_redirect off;
+        try_files $uri $typo3_index$is_args$args;
+    }
+
+    # pass the PHP scripts to FastCGI server listening on socket
+    location ~ \.php$ {
+        try_files $uri =404;
+        fastcgi_split_path_info ^(.+\.php)(/.+)$;
+        fastcgi_pass unix:/run/php-fpm.sock;
+        fastcgi_buffers 16 16k;
+        fastcgi_buffer_size 32k;
+        fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+        fastcgi_param SCRIPT_NAME $fastcgi_script_name;
+        fastcgi_index index.php;
+        include fastcgi_params;
+        fastcgi_intercept_errors off;
+        # fastcgi_read_timeout should match max_execution_time in php.ini
+        fastcgi_read_timeout 10m;
+        fastcgi_param SERVER_NAME $host;
+        fastcgi_param HTTPS $fcgi_https;
+        # Pass the X-Accel-* headers to facilitate testing.
+        fastcgi_pass_header "X-Accel-Buffering";
+        fastcgi_pass_header "X-Accel-Charset";
+        fastcgi_pass_header "X-Accel-Expires";
+        fastcgi_pass_header "X-Accel-Limit-Rate";
+        fastcgi_pass_header "X-Accel-Redirect";
+    }
+
+    # Compressing resource files will save bandwidth and so improve loading speed especially for users
+    # with slower internet connections. TYPO3 can compress the .js and .css files for you.
+    # *) Set $GLOBALS['TYPO3_CONF_VARS']['BE']['compressionLevel'] = 9 for the Backend
+    # *) Set $GLOBALS['TYPO3_CONF_VARS']['FE']['compressionLevel'] = 9 together with the TypoScript properties
+    #    config.compressJs and config.compressCss for GZIP compression of Frontend JS and CSS files.
+    location ~ \.js\.gzip$ {
+        add_header Content-Encoding gzip;
+        gzip off;
+        types { text/javascript gzip; }
+    }
+    location ~ \.css\.gzip$ {
+        add_header Content-Encoding gzip;
+        gzip off;
+        types { text/css gzip; }
+    }
+
+    # Prevent clients from accessing hidden files (starting with a dot)
+    # This is particularly important if you store .htpasswd files in the site hierarchy
+    # Access to `/.well-known/` is allowed.
+    # https://www.mnot.net/blog/2010/04/07/well-known
+    # https://tools.ietf.org/html/rfc5785
+    location ~* /\.(?!well-known\/) {
+        deny all;
+    }
+
+    # Prevent clients from accessing to backup/config/source files
+    location ~* (?:\.(?:bak|conf|dist|fla|in[ci]|log|psd|sh|sql|sw[op])|~)$ {
+        deny all;
+    }
+
+    location = /favicon.ico {
+        log_not_found off;
+        access_log off;
+    }
+
+    # TYPO3 - Block access to composer files
+    location ~* composer\.(?:json|lock) {
+        deny all;
+    }
+
+    # TYPO3 - Block access to flexform files
+    location ~* flexform[^.]*\.xml {
+        deny all;
+    }
+
+    # TYPO3 - Block access to language files
+    location ~* locallang[^.]*\.(?:xml|xlf)$ {
+        deny all;
+    }
+
+    # TYPO3 - Block access to static typoscript files
+    location ~* ext_conf_template\.txt|ext_typoscript_constants\.(?:txt|typoscript)|ext_typoscript_setup\.(?:txt|typoscript) {
+        deny all;
+    }
+
+    # TYPO3 - Block access to miscellaneous protected files
+    location ~* /.*\.(?:bak|co?nf|cfg|ya?ml|ts|typoscript|dist|fla|in[ci]|log|sh|sql)$ {
+        deny all;
+    }
+
+    # TYPO3 - Block access to recycler and temporary directories
+    location ~ _(?:recycler|temp)_/ {
+        deny all;
+    }
+
+    # TYPO3 - Block access to configuration files stored in fileadmin
+    location ~ fileadmin/(?:templates)/.*\.(?:txt|ts|typoscript)$ {
+        deny all;
+    }
+
+    # TYPO3 - Block access to libaries, source and temporary compiled data
+    location ~ ^(?:vendor|typo3_src|typo3temp/var) {
+        deny all;
+    }
+
+    # TYPO3 - Block access to protected extension directories
+    location ~ (?:typo3conf/ext|typo3/sysext|typo3/ext)/[^/]+/(?:Configuration|Resources/Private|Tests?|Documentation|docs?)/ {
+        deny all;
+    }
+
+    if (!-e $request_filename) {
+        rewrite ^/(.+)\.(\d+)\.(php|js|css|png|jpg|gif|gzip)$ /$1.$3 last;
+    }
+    include /etc/nginx/common.d/*.conf;
+    include /mnt/ddev_config/nginx/*.conf;
+}
+
+==Dateirechte==
+
+&lt;pre&gt;
+
+sudo chown -R www-data:www-data /var/www/typo3
+sudo chmod -R 775 /var/www/typo3
+&lt;/pre&gt;
+sudo chown www-data:www-data /var/www/typo3/public/typo3/install.php
+sudo chmod 644 /var/www/typo3/public/typo3/install.php</text>
+      <sha1>dwg80ofxta8zcrrfl73yr8t5o90js5h</sha1>
+    </revision>
+    <revision>
+      <id>811</id>
+      <parentid>737</parentid>
+      <timestamp>2025-10-29T03:06:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>811</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3145" sha1="bkmcco9awaj4vqfdfodxmh91f9w6l5x" xml:space="preserve">&lt;pre&gt;
+composer create-project "typo3/cms-base-distribution:^13.4" /var/www/typo3
+&lt;/pre&gt;
+
+&lt;pre&gt;
+
+server {
+    listen 80;
+    server_name localhost;
+    root /var/www/typo3/public;
+
+    index index.php index.html;
+
+#    include /etc/nginx/conf.d/nginx.conf;
+
+    location ~ \.js\.gzip$ {
+        add_header Content-Encoding gzip;
+        gzip off;
+        types { text/javascript gzip; }
+    }
+    location ~ \.css\.gzip$ {
+        add_header Content-Encoding gzip;
+        gzip off;
+        types { text/css gzip; }
+    }
+
+    # TYPO3 - Rule for versioned static files, configured through:
+    # - $GLOBALS['TYPO3_CONF_VARS']['BE']['versionNumberInFilename']
+    # - $GLOBALS['TYPO3_CONF_VARS']['FE']['versionNumberInFilename']
+    if (!-e $request_filename) {
+        rewrite ^/(.+)\.(\d+)\.(php|js|css|png|jpg|gif|gzip)$ /$1.$3 last;
+    }
+
+    # TYPO3 - Block access to composer files
+    location ~* composer\.(?:json|lock) {
+        deny all;
+    }
+
+    # TYPO3 - Block access to flexform files
+    location ~* flexform[^.]*\.xml {
+        deny all;
+    }
+
+    # TYPO3 - Block access to language files
+    location ~* locallang[^.]*\.(?:xml|xlf)$ {
+        deny all;
+    }
+
+    # TYPO3 - Block access to static typoscript files
+    location ~* ext_conf_template\.txt|ext_typoscript_constants\.txt|ext_typoscript_setup\.txt {
+        deny all;
+    }
+
+    # TYPO3 - Block access to miscellaneous protected files
+    location ~* /.*\.(?:bak|co?nf|cfg|ya?ml|ts|typoscript|tsconfig|dist|fla|in[ci]|log|sh|sql|sqlite)$ {
+        deny all;
+    }
+
+    # TYPO3 - Block access to recycler and temporary directories
+    location ~ _(?:recycler|temp)_/ {
+        deny all;
+    }
+
+    # TYPO3 - Block access to configuration files stored in fileadmin
+    location ~ fileadmin/(?:templates)/.*\.(?:txt|ts|typoscript)$ {
+        deny all;
+    }
+
+    # TYPO3 - Block access to libraries, source and temporary compiled data
+    location ~ ^(?:vendor|typo3_src|typo3temp/var) {
+        deny all;
+    }
+
+    # TYPO3 - Block access to protected extension directories
+    location ~ (?:typo3conf/ext|typo3/sysext|typo3/ext)/[^/]+/(?:Configuration|Resources/Private|Tests?|Documentation|docs?)/ {
+        deny all;
+    }
+
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    location = /typo3 {
+        rewrite ^ /typo3/;
+    }
+
+    location /typo3/ {
+        absolute_redirect off;
+        try_files $uri /typo3/index.php$is_args$args;
+    }
+
+    location ~ [^/]\.php(/|$) {
+        fastcgi_split_path_info ^(.+?\.php)(/.*)$;
+        if (!-f $document_root$fastcgi_script_name) {
+            return 404;
+        }
+        fastcgi_buffer_size 32k;
+        fastcgi_buffers 8 16k;
+        fastcgi_connect_timeout 240s;
+        fastcgi_read_timeout 240s;
+        fastcgi_send_timeout 240s;
+
+        include              snippets/fastcgi-php.conf;
+        fastcgi_pass         unix:/var/run/php/php8.4-fpm.sock;
+    }
+}
+
+&lt;pre&gt;
+
+sudo chown -R www-data:www-data /var/www/typo3
+sudo chmod -R 775 /var/www/typo3
+&lt;/pre&gt;
+sudo chown www-data:www-data /var/www/typo3/public/typo3/install.php
+sudo chmod 644 /var/www/typo3/public/typo3/install.php</text>
+      <sha1>bkmcco9awaj4vqfdfodxmh91f9w6l5x</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Content Manage System</title>
+    <ns>0</ns>
+    <id>173</id>
+    <revision>
+      <id>744</id>
+      <timestamp>2025-10-26T13:00:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>744</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="610" sha1="rvh08mvdx7dni2sef83wczuq1a3vhjn" xml:space="preserve">Nachfolgend eine kompakte Auflistung verbreiteter CMS-Software und verwandter Tools.
+
+// ...existing code...
+
+== Klassische große Websites (PostgreSQL-fähig) – sortiert ==
+=== Stufe 1 (Enterprise/Sehr groß) ===
+- Drupal (PHP) – PostgreSQL: Ja (offiziell)
+- OpenCms (Java) – PostgreSQL: Ja (offiziell)
+
+=== Stufe 2 (Groß/Komplex) ===
+- Neos CMS (PHP) – PostgreSQL: Ja (über Doctrine, offiziell)
+- Sulu CMS (PHP) – PostgreSQL: Ja (offiziell)
+- Wagtail (Python) – PostgreSQL: Ja (offiziell)
+- django CMS (Python) – PostgreSQL: Ja (offiziell)
+- Orchard Core (.NET) – PostgreSQL: Ja (offiziell)</text>
+      <sha1>rvh08mvdx7dni2sef83wczuq1a3vhjn</sha1>
+    </revision>
+    <revision>
+      <id>745</id>
+      <parentid>744</parentid>
+      <timestamp>2025-10-26T13:01:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>745</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="610" sha1="iqrgkpqba6565aa9meqypm9ok3tfzs7" xml:space="preserve">Nachfolgend eine kompakte Auflistung verbreiteter CMS-Software und verwandter Tools.
+
+// ...existing code...
+
+== Klassische große Websites (PostgreSQL-fähig) – sortiert ==
+=== Stufe 1 (Enterprise/Sehr groß) ===
+* Drupal (PHP) – PostgreSQL: Ja (offiziell)
+* OpenCms (Java) – PostgreSQL: Ja (offiziell)
+
+=== Stufe 2 (Groß/Komplex) ===
+* Neos CMS (PHP) – PostgreSQL: Ja (über Doctrine, offiziell)
+* Sulu CMS (PHP) – PostgreSQL: Ja (offiziell)
+* Wagtail (Python) – PostgreSQL: Ja (offiziell)
+* django CMS (Python) – PostgreSQL: Ja (offiziell)
+* Orchard Core (.NET) – PostgreSQL: Ja (offiziell)</text>
+      <sha1>iqrgkpqba6565aa9meqypm9ok3tfzs7</sha1>
+    </revision>
+    <revision>
+      <id>746</id>
+      <parentid>745</parentid>
+      <timestamp>2025-10-26T13:03:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>746</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="500" sha1="696pckddr48bcz1gxec91s1r6n0m9qw" xml:space="preserve">== Klassische große Websites (PostgreSQL-fähig) – sortiert ==
+=== Stufe 1 (Enterprise/Sehr groß) ===
+* Drupal (PHP) – PostgreSQL: Ja (offiziell)
+* OpenCms (Java) – PostgreSQL: Ja (offiziell)
+
+=== Stufe 2 (Groß/Komplex) ===
+* Neos CMS (PHP) – PostgreSQL: Ja (über Doctrine, offiziell)
+* Sulu CMS (PHP) – PostgreSQL: Ja (offiziell)
+* Wagtail (Python) – PostgreSQL: Ja (offiziell)
+* django CMS (Python) – PostgreSQL: Ja (offiziell)
+* Orchard Core (.NET) – PostgreSQL: Ja (offiziell)</text>
+      <sha1>696pckddr48bcz1gxec91s1r6n0m9qw</sha1>
+    </revision>
+    <revision>
+      <id>761</id>
+      <parentid>746</parentid>
+      <timestamp>2025-10-27T01:12:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>761</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="199" sha1="tjk1n5ly45fyu2y54xcv467g3tb9zjj" xml:space="preserve">== Klassische große Websites (PostgreSQL-fähig) – sortiert ==
+=== Stufe 1 (Enterprise/Sehr groß) ===
+* Drupal (PHP) – PostgreSQL: Ja (offiziell)
+* OpenCms (Java) – PostgreSQL: Ja (offiziell)</text>
+      <sha1>tjk1n5ly45fyu2y54xcv467g3tb9zjj</sha1>
+    </revision>
+    <revision>
+      <id>791</id>
+      <parentid>761</parentid>
+      <timestamp>2025-10-27T22:09:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>791</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="529" sha1="14j4x59t4hpb71fixou6dfkd0b4bxu6" xml:space="preserve">== Klassische große Websites (PostgreSQL-fähig) – sortiert ==
+=== Stufe 1 (Enterprise/Sehr groß) ===
+* Django CMS (Python/Django) – PostgreSQL: Nativ (offiziell)
+* Drupal (PHP) – PostgreSQL: Nativ (offiziell)
+* Joomla (PHP) – PostgreSQL: Nativ (offiziell)
+* Liferay (Java) – PostgreSQL: Nativ (offiziell)
+* MediaWiki (PHP) – PostgreSQL: Nativ (offiziell)
+* OpenCms (Java) – PostgreSQL: Nativ (offiziell)
+* Wagtail (Python/Django) – PostgreSQL: Nativ (offiziell)
+* XWiki (Java) – PostgreSQL: Nativ (offiziell)</text>
+      <sha1>14j4x59t4hpb71fixou6dfkd0b4bxu6</sha1>
+    </revision>
+    <revision>
+      <id>793</id>
+      <parentid>791</parentid>
+      <timestamp>2025-10-27T22:17:13Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>793</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="429" sha1="ppm1smlj6wfnid1fq9h8hsz0xkxci2q" xml:space="preserve">== Klassische große Websites (PostgreSQL-fähig) – sortiert ==
+=== Stufe 1 (Enterprise/Sehr groß) ===
+* Django CMS (Python/Django) – PostgreSQL: Nativ (offiziell)
+* Drupal (PHP) – PostgreSQL: Nativ (offiziell)
+* MediaWiki (PHP) – PostgreSQL: Nativ (offiziell)
+* OpenCms (Java) – PostgreSQL: Nativ (offiziell)
+* Wagtail (Python/Django) – PostgreSQL: Nativ (offiziell)
+* XWiki (Java) – PostgreSQL: Nativ (offiziell)</text>
+      <sha1>ppm1smlj6wfnid1fq9h8hsz0xkxci2q</sha1>
+    </revision>
+    <revision>
+      <id>801</id>
+      <parentid>793</parentid>
+      <timestamp>2025-10-28T10:34:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>801</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="277" sha1="es9khc3noizsbi87veje42iwrlz6vkq" xml:space="preserve">== Klassische große Websites (PostgreSQL-fähig) – sortiert ==
+=== Stufe 1 (Enterprise/Sehr groß) ===
+* Django CMS (Python/Django) – PostgreSQL: Nativ (offiziell)
+* Drupal (PHP) – PostgreSQL: Nativ (offiziell)
+* Wagtail (Python/Django) – PostgreSQL: Nativ (offiziell)</text>
+      <sha1>es9khc3noizsbi87veje42iwrlz6vkq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Microframeworks</title>
+    <ns>0</ns>
+    <id>174</id>
+    <revision>
+      <id>749</id>
+      <timestamp>2025-10-26T13:56:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>749</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1090" sha1="gxh9w2jwt0sgxu1gus8cczw957kislu" xml:space="preserve">// ...existing code...== Beschreibung ==
+Microframeworks sind schlanke Webframeworks mit Fokus auf Routing, Middleware und minimalem Kern. Vorteile: geringe Komplexität, hohe Performance, flexible Architektur. Nachteile: mehr Handarbeit bei Auth, Datenzugriff, Admin-UI und Scaffolding. Besonders geeignet für APIs, Microservices, Edge-/Serverless-Funktionen.
+
+== Microframeworks nach Reifegrad (Tier 1) ==
+* Express (JavaScript/Node.js) – Sehr etabliert, Standard für Node.js-APIs, extrem große Community.
+* Flask (Python) – Klassiker, sehr stabil, riesige Community, viele Erweiterungen.
+* Gin (Go) – Sehr populär und ausgereift im Go-Ökosystem, performant.
+* Fastify (JavaScript/Node.js) – Moderne Alternative zu Express, schnell, wächst stark, stabil.
+* FastAPI (Python) – Modern, schnell wachsend, sehr beliebt für KI und APIs, stabil.
+* Actix Web (Rust) – Führend bei Rust, sehr performant, Community wächst, stabil.
+* Axum (Rust) – Modern, auf Tokio/hyper/tower basierend; typsichere Extractors, ergonomischer Router, hohe Performance, aktiv gepflegt, stabil.</text>
+      <sha1>gxh9w2jwt0sgxu1gus8cczw957kislu</sha1>
+    </revision>
+    <revision>
+      <id>750</id>
+      <parentid>749</parentid>
+      <timestamp>2025-10-26T13:57:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>750</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="728" sha1="9wzbj2xuv26vd1wnjv2den35ob7s0ry" xml:space="preserve">
+== Microframeworks nach Reifegrad (Tier 1) ==
+* Express (JavaScript/Node.js) – Sehr etabliert, Standard für Node.js-APIs, extrem große Community.
+* Flask (Python) – Klassiker, sehr stabil, riesige Community, viele Erweiterungen.
+* Gin (Go) – Sehr populär und ausgereift im Go-Ökosystem, performant.
+* Fastify (JavaScript/Node.js) – Moderne Alternative zu Express, schnell, wächst stark, stabil.
+* FastAPI (Python) – Modern, schnell wachsend, sehr beliebt für KI und APIs, stabil.
+* Actix Web (Rust) – Führend bei Rust, sehr performant, Community wächst, stabil.
+* Axum (Rust) – Modern, auf Tokio/hyper/tower basierend; typsichere Extractors, ergonomischer Router, hohe Performance, aktiv gepflegt, stabil.</text>
+      <sha1>9wzbj2xuv26vd1wnjv2den35ob7s0ry</sha1>
+    </revision>
+    <revision>
+      <id>766</id>
+      <parentid>750</parentid>
+      <timestamp>2025-10-27T01:30:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>766</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="351" sha1="memdc8dgjehzx7gyuwej5bztlksdjb9" xml:space="preserve">== Microframeworks nach Reifegrad (Tier 1) ==
+* Gin (Go) – Sehr populär und ausgereift im Go-Ökosystem, performant.
+* Actix Web (Rust) – Führend bei Rust, sehr performant, Community wächst, stabil.
+* Axum (Rust) – Modern, auf Tokio/hyper/tower basierend; typsichere Extractors, ergonomischer Router, hohe Performance, aktiv gepflegt, stabil.</text>
+      <sha1>memdc8dgjehzx7gyuwej5bztlksdjb9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Backend/API Frameworks</title>
+    <ns>0</ns>
+    <id>175</id>
+    <revision>
+      <id>751</id>
+      <timestamp>2025-10-26T14:05:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>751</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1142" sha1="ndeb6fgfbzj803a463222icwedxy3as" xml:space="preserve">== Reifegrad: Tier 1 ==
+;Kriterien
+: LTS/planbare Releases, breite Produktionseinsätze, starkes Ökosystem, aktive Security-Pflege, gute Dokumentation.
+
+{| class="wikitable sortable"
+! Framework !! Sprache/Runtime !! Lizenz !! LTS/Release-Kadenz !! Ökosystem/Plugins !! Hinweise
+|-
+| Spring Boot || Java/JVM || Apache-2.0 || LTS, 2×/Jahr || Sehr groß || De-facto-Standard im Java-Backend
+|-
+| ASP.NET Core || .NET/C# || MIT || LTS, planbar || Groß || Hohe Performance, erstklassiges Tooling
+|-
+| Express.js || Node.js || MIT || Stabil || Sehr groß || Minimalistisch, breit unterstützt
+|-
+| NestJS || Node.js/TypeScript || MIT || Regelmäßig || Groß || Strukturierte Architektur (auf Express/Fastify)
+|-
+| FastAPI || Python || MIT || Regelmäßig || Groß || OpenAPI-first, async
+|-
+| Django REST Framework || Python || BSD-3 || Stabil || Groß || Ausgereifte Auth/Serialisierung
+|-
+| Laravel || PHP || MIT || LTS, planbar || Sehr groß || Batteries included, API Resources
+
+|-
+| Gin || Go || MIT || Stabil || Mittel || Schnelles HTTP-Framework
+|-
+| Fiber || Go || MIT || Regelmäßig || Mittel || Express-ähnliche API, performant
+|}</text>
+      <sha1>ndeb6fgfbzj803a463222icwedxy3as</sha1>
+    </revision>
+    <revision>
+      <id>763</id>
+      <parentid>751</parentid>
+      <timestamp>2025-10-27T01:18:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>763</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="656" sha1="a0bhwxuhb8ux69pwvl7mb83qxqvmxr7" xml:space="preserve">== Reifegrad: Tier 1 ==
+;Kriterien
+: LTS/planbare Releases, breite Produktionseinsätze, starkes Ökosystem, aktive Security-Pflege, gute Dokumentation.
+
+{| class="wikitable sortable"
+! Framework !! Sprache/Runtime !! Lizenz !! LTS/Release-Kadenz !! Ökosystem/Plugins !! Hinweise
+|-
+| Spring Boot || Java/JVM || Apache-2.0 || LTS, 2×/Jahr || Sehr groß || De-facto-Standard im Java-Backend
+|-
+| ASP.NET Core || .NET/C# || MIT || LTS, planbar || Groß || Hohe Performance, erstklassiges Tooling
+
+|-
+| Gin || Go || MIT || Stabil || Mittel || Schnelles HTTP-Framework
+|-
+| Fiber || Go || MIT || Regelmäßig || Mittel || Express-ähnliche API, performant
+|}</text>
+      <sha1>a0bhwxuhb8ux69pwvl7mb83qxqvmxr7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Static Site Generators</title>
+    <ns>0</ns>
+    <id>176</id>
+    <revision>
+      <id>752</id>
+      <timestamp>2025-10-26T14:16:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>752</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="256" sha1="2z9dfc68kxx5ov1nxedup8mo416jbte" xml:space="preserve">== Reifegrade (Tier 1) für Static Site Generators ==
+Die folgenden SSGs gelten allgemein als "Tier 1" — also reif, produktions-erprobt und geeignet für grosse Projekte:
+
+* Hugo — extrem schnell, sehr gut für sehr grosse Sites mit tausenden Seiten.
+1</text>
+      <sha1>2z9dfc68kxx5ov1nxedup8mo416jbte</sha1>
+    </revision>
+    <revision>
+      <id>753</id>
+      <parentid>752</parentid>
+      <timestamp>2025-10-26T14:16:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>753</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="254" sha1="0p2eyb9njdryxkenluewm5ym3uzndoz" xml:space="preserve">== Reifegrade (Tier 1) für Static Site Generators ==
+Die folgenden SSGs gelten allgemein als "Tier 1" — also reif, produktions-erprobt und geeignet für grosse Projekte:
+
+* Hugo — extrem schnell, sehr gut für sehr grosse Sites mit tausenden Seiten.</text>
+      <sha1>0p2eyb9njdryxkenluewm5ym3uzndoz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Frontend Frameworks</title>
+    <ns>0</ns>
+    <id>177</id>
+    <revision>
+      <id>754</id>
+      <timestamp>2025-10-26T14:24:13Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>754</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="918" sha1="dh3ht6fxombs7a7mb81cme228jpt2e4" xml:space="preserve">== Frontend Frameworks – Reifegrade (nach Tier, Tier 1 zuerst) ==
+
+; Tier-Definition (Kurzfassung)
+* Tier 1: Weit verbreitet, stabil, Langzeitpflege, starkes Ökosystem
+* Tier 2: Reif und produktionsbereit, aber jünger oder mit kleinerem Ökosystem
+* Tier 3: Innovativ/aufstrebend, noch begrenzte Adoption oder junges Ökosystem
+
+{| class="wikitable sortable"
+! Tier !! Framework !! Kategorie !! Erstveröffentlichung !! Governance/Backing !! Release-/LTS-Kadenz !! Kurzbewertung
+|-
+| 1 || React || Bibliothek || 2013 || Meta + Community || regelmäßig || Dominantes Ökosystem, sehr stabil
+|-
+| 1 || Angular || Framework || 2016 || Google || LTS || Enterprise‑fokussiert, integrierter Stack
+|-
+| 1 || Vue.js || Framework || 2014 || Core‑Team + Community || regelmäßig || Reif, breite Adoption
+|-
+| 1 || Next.js || Meta‑Framework (React) || 2016 || Vercel || schnell || Produktionsreif, SSR/ISR/RSC
+
+|}</text>
+      <sha1>dh3ht6fxombs7a7mb81cme228jpt2e4</sha1>
+    </revision>
+    <revision>
+      <id>755</id>
+      <parentid>754</parentid>
+      <timestamp>2025-10-26T14:24:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Frontend Frameworks – Reifegrade (nach Tier, Tier 1 zuerst) */</comment>
+      <origin>755</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="756" sha1="47tacxsrze4nwin2vdk5bno8irccq7p" xml:space="preserve">== Frontend Frameworks – Reifegrade (nach Tier, Tier 1 zuerst) ==
+
+; Tier-Definition (Kurzfassung)
+* Tier 1: Weit verbreitet, stabil, Langzeitpflege, starkes Ökosystem
+
+
+{| class="wikitable sortable"
+! Tier !! Framework !! Kategorie !! Erstveröffentlichung !! Governance/Backing !! Release-/LTS-Kadenz !! Kurzbewertung
+|-
+| 1 || React || Bibliothek || 2013 || Meta + Community || regelmäßig || Dominantes Ökosystem, sehr stabil
+|-
+| 1 || Angular || Framework || 2016 || Google || LTS || Enterprise‑fokussiert, integrierter Stack
+|-
+| 1 || Vue.js || Framework || 2014 || Core‑Team + Community || regelmäßig || Reif, breite Adoption
+|-
+| 1 || Next.js || Meta‑Framework (React) || 2016 || Vercel || schnell || Produktionsreif, SSR/ISR/RSC
+
+|}</text>
+      <sha1>47tacxsrze4nwin2vdk5bno8irccq7p</sha1>
+    </revision>
+    <revision>
+      <id>756</id>
+      <parentid>755</parentid>
+      <timestamp>2025-10-26T14:25:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Frontend Frameworks – Reifegrade (nach Tier, Tier 1 zuerst) */</comment>
+      <origin>756</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="728" sha1="l66461fzdlb41n8i6fyhtv8qqrzaxii" xml:space="preserve">== Frontend Frameworks – Reifegrade ==
+
+; Tier-Definition (Kurzfassung)
+* Tier 1: Weit verbreitet, stabil, Langzeitpflege, starkes Ökosystem
+
+
+{| class="wikitable sortable"
+! Tier !! Framework !! Kategorie !! Erstveröffentlichung !! Governance/Backing !! Release-/LTS-Kadenz !! Kurzbewertung
+|-
+| 1 || React || Bibliothek || 2013 || Meta + Community || regelmäßig || Dominantes Ökosystem, sehr stabil
+|-
+| 1 || Angular || Framework || 2016 || Google || LTS || Enterprise‑fokussiert, integrierter Stack
+|-
+| 1 || Vue.js || Framework || 2014 || Core‑Team + Community || regelmäßig || Reif, breite Adoption
+|-
+| 1 || Next.js || Meta‑Framework (React) || 2016 || Vercel || schnell || Produktionsreif, SSR/ISR/RSC
+
+|}</text>
+      <sha1>l66461fzdlb41n8i6fyhtv8qqrzaxii</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Headless CMS</title>
+    <ns>0</ns>
+    <id>178</id>
+    <revision>
+      <id>757</id>
+      <timestamp>2025-10-26T14:54:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>757</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="214" sha1="898h07nuc5hwvxsi6ilmvfl01qz5a3q" xml:space="preserve">Diese Liste führt Open-Source-Headless-CMS mit nativer PostgreSQL-Unterstützung, nach Programmiersprachen sortiert.
+
+[https://drupal.org Drupal]
+[https://orchardcore.net Orchard Core]
+[https://nextjs.org Next.js]</text>
+      <sha1>898h07nuc5hwvxsi6ilmvfl01qz5a3q</sha1>
+    </revision>
+    <revision>
+      <id>764</id>
+      <parentid>757</parentid>
+      <timestamp>2025-10-27T01:21:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>764</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="220" sha1="en7t2grrhn9ud49tt3d8b8veskki0v4" xml:space="preserve">Diese Liste führt Open-Source-Headless-CMS mit nativer PostgreSQL-Unterstützung, nach Programmiersprachen sortiert.
+
+* [https://drupal.org Drupal]
+* [https://orchardcore.net Orchard Core]
+* [https://nextjs.org Next.js]</text>
+      <sha1>en7t2grrhn9ud49tt3d8b8veskki0v4</sha1>
+    </revision>
+    <revision>
+      <id>784</id>
+      <parentid>764</parentid>
+      <timestamp>2025-10-27T05:17:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>784</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="191" sha1="p0h6ys0ujtwbpjbjgjw3i9k51qbtom5" xml:space="preserve">Diese Liste führt Open-Source-Headless-CMS mit nativer PostgreSQL-Unterstützung, nach Programmiersprachen sortiert.
+
+
+* [https://orchardcore.net Orchard Core]
+* [https://nextjs.org Next.js]</text>
+      <sha1>p0h6ys0ujtwbpjbjgjw3i9k51qbtom5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Fullstack-Webframeworks mit KI-Integration</title>
+    <ns>0</ns>
+    <id>179</id>
+    <revision>
+      <id>759</id>
+      <timestamp>2025-10-26T16:07:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>759</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="549" sha1="nepngp8wx5o4qzp2fmhk713i6p81r56" xml:space="preserve">'''Fullstack-Webframeworks mit KI-Integration''' erleichtern die Entwicklung von Webanwendungen mit Generative AI, RAG und Agenten. Nachfolgend ein kurzer Überblick über gängige Stacks, Muster und Auswahlkriterien.
+
+
+* [[Next.js]] mit Vercel AI SDK oder LangChain.js
+* [[Django]] mit [[Haystack]] oder [[LangChain]]
+* Django + PyTorch / TensorFlow
+* Flask + FastAPI + Hugging Face
+* [[FastAPI]] als KI-Backend, Frontend z.B. mit React oder Vue.js
+; Java/Kotlin
+* [[Spring Boot]] mit [[Spring AI]]
+; .NET
+* [[ASP.NET Core]] mit [[Semantic Kernel]]</text>
+      <sha1>nepngp8wx5o4qzp2fmhk713i6p81r56</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>WebAssembly-Webframeworks</title>
+    <ns>0</ns>
+    <id>180</id>
+    <revision>
+      <id>767</id>
+      <timestamp>2025-10-27T02:27:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>767</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1592" sha1="trwglmwkibjr2t345zipkgmmhuqkbh1" xml:space="preserve">== Tier 1 (Reifegrad: produktionsreif) ==
+Die folgenden WebAssembly-Webframeworks werden als Tier 1 eingestuft.
+
+; Kriterien
+* regelmäßige Releases (letzte 12 Monate)
+* dokumentierte Produktionseinsätze
+* stabile Docs und aktiver Maintainerkreis
+* klare Roadmap und Ökosystem
+
+{| class="wikitable sortable"
+! Framework !! Sprache/Runtime !! Architektur !! Lizenz !! Aktivität/Status !! Hinweise
+|-
+| [https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor Blazor WebAssembly] || C#/.NET || Client-side (WASM), optional Prerender/SSR || MIT || Aktiv, LTS || Weit verbreitetes .NET-WebUI; starke Tooling- und Hosting-Unterstützung.
+|-
+| [https://yew.rs/ Yew] || Rust || Client-side (WASM), SSR-Optionen || MIT/Apache-2.0 || Aktiv || Reifes Komponentenmodell, große Community.
+|-
+| [https://leptos.dev/ Leptos] || Rust || Client-side (WASM) + SSR/Islands || MIT/Apache-2.0 || Aktiv || Reaktives Rendering, sehr gute Performance.
+|-
+| [https://dioxuslabs.com/ Dioxus] || Rust || Client-side (WASM) + SSR + weitere Targets || MIT/Apache-2.0 || Aktiv || Einheitliches UI-Programmierungsmodell (Web, Desktop, Mobile).
+|-
+| [https://platform.uno/ Uno Platform (WebAssembly)] || C#/.NET || Client-side (WASM) || Apache-2.0 || Aktiv || WinUI/UWP-API-kompatibel; Enterprise-Einsatz.
+|-
+| [https://www.qt.io/product/development-tools/wasm Qt for WebAssembly] || C++/Qt || Client-side (WASM) || GPL/LGPL/kommerziell || Aktiv || Qt-Apps im Browser; UI-intensiv geeignet.
+|-
+ [https://emscripten.org/ Emscripten] — Toolchain (MIT); C/C++→WASM, Embind, HTML5-/Canvas/WebGL/WebAudio, Threads.
+
+|}</text>
+      <sha1>trwglmwkibjr2t345zipkgmmhuqkbh1</sha1>
+    </revision>
+    <revision>
+      <id>768</id>
+      <parentid>767</parentid>
+      <timestamp>2025-10-27T02:29:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>768</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1593" sha1="muwd0bc9ozbakgtovgl3p6xdiufhonf" xml:space="preserve">== Tier 1 (Reifegrad: produktionsreif) ==
+Die folgenden WebAssembly-Webframeworks werden als Tier 1 eingestuft.
+
+; Kriterien
+* regelmäßige Releases (letzte 12 Monate)
+* dokumentierte Produktionseinsätze
+* stabile Docs und aktiver Maintainerkreis
+* klare Roadmap und Ökosystem
+
+{| class="wikitable sortable"
+! Framework !! Sprache/Runtime !! Architektur !! Lizenz !! Aktivität/Status !! Hinweise
+|-
+| [https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor Blazor WebAssembly] || C#/.NET || Client-side (WASM), optional Prerender/SSR || MIT || Aktiv, LTS || Weit verbreitetes .NET-WebUI; starke Tooling- und Hosting-Unterstützung.
+|-
+| [https://yew.rs/ Yew] || Rust || Client-side (WASM), SSR-Optionen || MIT/Apache-2.0 || Aktiv || Reifes Komponentenmodell, große Community.
+|-
+| [https://leptos.dev/ Leptos] || Rust || Client-side (WASM) + SSR/Islands || MIT/Apache-2.0 || Aktiv || Reaktives Rendering, sehr gute Performance.
+|-
+| [https://dioxuslabs.com/ Dioxus] || Rust || Client-side (WASM) + SSR + weitere Targets || MIT/Apache-2.0 || Aktiv || Einheitliches UI-Programmierungsmodell (Web, Desktop, Mobile).
+|-
+| [https://platform.uno/ Uno Platform (WebAssembly)] || C#/.NET || Client-side (WASM) || Apache-2.0 || Aktiv || WinUI/UWP-API-kompatibel; Enterprise-Einsatz.
+|-
+| [https://www.qt.io/product/development-tools/wasm Qt for WebAssembly] || C++/Qt || Client-side (WASM) || GPL/LGPL/kommerziell || Aktiv || Qt-Apps im Browser; UI-intensiv geeignet.
+|-
+| [https://emscripten.org/ Emscripten] — Toolchain (MIT); C/C++→WASM, Embind, HTML5-/Canvas/WebGL/WebAudio, Threads.
+
+|}</text>
+      <sha1>muwd0bc9ozbakgtovgl3p6xdiufhonf</sha1>
+    </revision>
+    <revision>
+      <id>769</id>
+      <parentid>768</parentid>
+      <timestamp>2025-10-27T02:35:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>769</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1744" sha1="3yrkpdix0ddv1r4my8w7ym3cvw9htvd" xml:space="preserve">== Tier 1 (Reifegrad: produktionsreif) ==
+Die folgenden WebAssembly-Webframeworks werden als Tier 1 eingestuft.
+
+; Kriterien
+* regelmäßige Releases (letzte 12 Monate)
+* dokumentierte Produktionseinsätze
+* stabile Docs und aktiver Maintainerkreis
+* klare Roadmap und Ökosystem
+
+{| class="wikitable sortable"
+! Framework !! Sprache/Runtime !! Architektur !! Lizenz !! Aktivität/Status !! Hinweise
+|-
+| [https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor Blazor WebAssembly] || C#/.NET || Client-side (WASM), optional Prerender/SSR || MIT || Aktiv, LTS || Weit verbreitetes .NET-WebUI; starke Tooling- und Hosting-Unterstützung.
+|-
+| [https://yew.rs/ Yew] || Rust || Client-side (WASM), SSR-Optionen || MIT/Apache-2.0 || Aktiv || Reifes Komponentenmodell, große Community.
+|-
+| [https://leptos.dev/ Leptos] || Rust || Client-side (WASM) + SSR/Islands || MIT/Apache-2.0 || Aktiv || Reaktives Rendering, sehr gute Performance.
+|-
+| [https://dioxuslabs.com/ Dioxus] || Rust || Client-side (WASM) + SSR + weitere Targets || MIT/Apache-2.0 || Aktiv || Einheitliches UI-Programmierungsmodell (Web, Desktop, Mobile).
+|-
+| [https://platform.uno/ Uno Platform (WebAssembly)] || C#/.NET || Client-side (WASM) || Apache-2.0 || Aktiv || WinUI/UWP-API-kompatibel; Enterprise-Einsatz.
+|-
+| [https://www.qt.io/product/development-tools/wasm Qt for WebAssembly] || C++/Qt || Client-side (WASM) || GPL/LGPL/kommerziell || Aktiv || Qt-Apps im Browser; UI-intensiv geeignet.
+
+|}
+
+== Tooling (für C/C++/Rust → WASM) ==
+* [https://emscripten.org/ Emscripten] — Toolchain (MIT); C/C++→WASM, Embind, HTML5-/Canvas/WebGL/WebAudio, Threads.
+* [https://github.com/leaningtech/cheerp-meta Cheerp] — Apache-2.0; C/C++→WASM/JS mit DOM-/Web-API-Zugriff.</text>
+      <sha1>3yrkpdix0ddv1r4my8w7ym3cvw9htvd</sha1>
+    </revision>
+    <revision>
+      <id>770</id>
+      <parentid>769</parentid>
+      <timestamp>2025-10-27T02:37:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Tooling (für C/C++/Rust → WASM) */</comment>
+      <origin>770</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1632" sha1="csstg3zotrgk0jnv9hosyhbo4q33csf" xml:space="preserve">== Tier 1 (Reifegrad: produktionsreif) ==
+Die folgenden WebAssembly-Webframeworks werden als Tier 1 eingestuft.
+
+; Kriterien
+* regelmäßige Releases (letzte 12 Monate)
+* dokumentierte Produktionseinsätze
+* stabile Docs und aktiver Maintainerkreis
+* klare Roadmap und Ökosystem
+
+{| class="wikitable sortable"
+! Framework !! Sprache/Runtime !! Architektur !! Lizenz !! Aktivität/Status !! Hinweise
+|-
+| [https://dotnet.microsoft.com/apps/aspnet/web-apps/blazor Blazor WebAssembly] || C#/.NET || Client-side (WASM), optional Prerender/SSR || MIT || Aktiv, LTS || Weit verbreitetes .NET-WebUI; starke Tooling- und Hosting-Unterstützung.
+|-
+| [https://yew.rs/ Yew] || Rust || Client-side (WASM), SSR-Optionen || MIT/Apache-2.0 || Aktiv || Reifes Komponentenmodell, große Community.
+|-
+| [https://leptos.dev/ Leptos] || Rust || Client-side (WASM) + SSR/Islands || MIT/Apache-2.0 || Aktiv || Reaktives Rendering, sehr gute Performance.
+|-
+| [https://dioxuslabs.com/ Dioxus] || Rust || Client-side (WASM) + SSR + weitere Targets || MIT/Apache-2.0 || Aktiv || Einheitliches UI-Programmierungsmodell (Web, Desktop, Mobile).
+|-
+| [https://platform.uno/ Uno Platform (WebAssembly)] || C#/.NET || Client-side (WASM) || Apache-2.0 || Aktiv || WinUI/UWP-API-kompatibel; Enterprise-Einsatz.
+|-
+| [https://www.qt.io/product/development-tools/wasm Qt for WebAssembly] || C++/Qt || Client-side (WASM) || GPL/LGPL/kommerziell || Aktiv || Qt-Apps im Browser; UI-intensiv geeignet.
+
+|}
+
+== Tooling (für C/C++/Rust → WASM) ==
+* [https://emscripten.org/ Emscripten] — Toolchain (MIT); C/C++→WASM, Embind, HTML5-/Canvas/WebGL/WebAudio, Threads.</text>
+      <sha1>csstg3zotrgk0jnv9hosyhbo4q33csf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Game Enging</title>
+    <ns>0</ns>
+    <id>181</id>
+    <revision>
+      <id>774</id>
+      <timestamp>2025-10-27T03:22:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>774</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1279" sha1="8okxfv2cdg3jna81pms4b9v909oceda" xml:space="preserve">== Web Game Engines — Reifegrad Tier 1 ==
+Auswahl etablierter Web-Game-Engines (Tier 1) nach Stabilität, Community, regelmäßigen Releases und Produktionsreife.
+
+;Kriterien
+* 5+ Jahre aktive Entwicklung
+* Regelmäßige Releases und Bugfixes
+* Große Community/Ökosystem
+* Nachweislicher Produktionseinsatz
+
+{| class="wikitable sortable"
+! Engine !! 2D/3D !! Lizenz !! Aktivität !! Editor/IDE !! Stärken !! Kostenlos? !! Website/Repo
+|-
+| Phaser 3 || 2D || MIT || aktiv || Phaser Editor 2D (separat) || Schnelles 2D, umfangreiche Plugins || Ja || https://phaser.io
+|-
+| Babylon.js || 3D || Apache-2.0 || aktiv || Babylon.js Editor, Playground || PBR, WebGPU/WebGL, Tooling || Ja || https://www.babylonjs.com
+|-
+| Cocos Creator || 2D/3D || MIT (Core) || aktiv || Integrierter Editor || Editor, Mobile+Web, reiches Ökosystem || Ja || https://www.cocos.com
+|-
+| Godot (HTML5/Web) || 2D/3D || MIT || aktiv || Integrierter Editor || Open Source, WebAssembly-Export || Ja || https://godotengine.org
+|}
+&lt;small&gt;Hinweis: Alle gelisteten Engines sind lizenzkostenfrei nutzbar. PlayCanvas: gehosteter Editor nur für öffentliche Projekte kostenlos; private Projekte erfordern einen kostenpflichtigen Plan. Optionale Assets/Plugins können kostenpflichtig sein (z. B. Spine).&lt;/small&gt;</text>
+      <sha1>8okxfv2cdg3jna81pms4b9v909oceda</sha1>
+    </revision>
+    <revision>
+      <id>775</id>
+      <parentid>774</parentid>
+      <timestamp>2025-10-27T03:32:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>775</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1149" sha1="6mepj962if6ep383q38j8pdru7ubxns" xml:space="preserve">== Web Game Engines — Reifegrad Tier 1 ==
+Auswahl etablierter Web-Game-Engines (Tier 1) nach Stabilität, Community, regelmäßigen Releases und Produktionsreife.
+
+;Kriterien
+* 5+ Jahre aktive Entwicklung
+* Regelmäßige Releases und Bugfixes
+* Große Community/Ökosystem
+* Nachweislicher Produktionseinsatz
+
+{| class="wikitable sortable"
+! Engine !! 2D/3D !! Lizenz !! Aktivität !! Editor/IDE !! Stärken !! Kostenlos? !! Website/Repo
+
+|-
+| Babylon.js || 3D || Apache-2.0 || aktiv || Babylon.js Editor, Playground || PBR, WebGPU/WebGL, Tooling || Ja || https://www.babylonjs.com
+|-
+| Cocos Creator || 2D/3D || MIT (Core) || aktiv || Integrierter Editor || Editor, Mobile+Web, reiches Ökosystem || Ja || https://www.cocos.com
+|-
+| Godot (HTML5/Web) || 2D/3D || MIT || aktiv || Integrierter Editor || Open Source, WebAssembly-Export || Ja || https://godotengine.org
+|}
+&lt;small&gt;Hinweis: Alle gelisteten Engines sind lizenzkostenfrei nutzbar. PlayCanvas: gehosteter Editor nur für öffentliche Projekte kostenlos; private Projekte erfordern einen kostenpflichtigen Plan. Optionale Assets/Plugins können kostenpflichtig sein (z. B. Spine).&lt;/small&gt;</text>
+      <sha1>6mepj962if6ep383q38j8pdru7ubxns</sha1>
+    </revision>
+    <revision>
+      <id>776</id>
+      <parentid>775</parentid>
+      <timestamp>2025-10-27T03:49:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>776</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1002" sha1="lhl4iszjn3hkbtpprennlarhlhl6sup" xml:space="preserve">== Web Game Engines — Reifegrad Tier 1 ==
+Auswahl etablierter Web-Game-Engines (Tier 1) nach Stabilität, Community, regelmäßigen Releases und Produktionsreife.
+
+;Kriterien
+* 5+ Jahre aktive Entwicklung
+* Regelmäßige Releases und Bugfixes
+* Große Community/Ökosystem
+* Nachweislicher Produktionseinsatz
+
+{| class="wikitable sortable"
+! Engine !! 2D/3D !! Lizenz !! Aktivität !! Editor/IDE !! Stärken !! Kostenlos? !! Website/Repo
+|-
+| Phaser 3 || 2D || MIT || aktiv || Phaser Editor 2D (separat) || Schnelles 2D, umfangreiche Plugins || Ja || https://phaser.io
+|-
+| Babylon.js || 3D || Apache-2.0 || aktiv || Babylon.js Editor, Playground || PBR, WebGPU/WebGL, Tooling || Ja || https://www.babylonjs.com
+|-
+| Cocos Creator || 2D/3D || MIT (Core) || aktiv || Integrierter Editor || Editor, Mobile+Web, reiches Ökosystem || Ja || https://www.cocos.com
+|-
+| Godot (HTML5/Web) || 2D/3D || MIT || aktiv || Integrierter Editor || Open Source, WebAssembly-Export || Ja || https://godotengine.org
+|}</text>
+      <sha1>lhl4iszjn3hkbtpprennlarhlhl6sup</sha1>
+    </revision>
+    <revision>
+      <id>785</id>
+      <parentid>776</parentid>
+      <timestamp>2025-10-27T05:56:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>785</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="855" sha1="m5qgmkgfkrqyqmpxtwnggdklce3bvba" xml:space="preserve">== Web Game Engines — Reifegrad Tier 1 ==
+Auswahl etablierter Web-Game-Engines (Tier 1) nach Stabilität, Community, regelmäßigen Releases und Produktionsreife.
+
+;Kriterien
+* 5+ Jahre aktive Entwicklung
+* Regelmäßige Releases und Bugfixes
+* Große Community/Ökosystem
+* Nachweislicher Produktionseinsatz
+
+{| class="wikitable sortable"
+! Engine !! 2D/3D !! Lizenz !! Aktivität !! Editor/IDE !! Stärken !! Kostenlos? !! Website/Repo
+|-
+| Phaser 3 || 2D || MIT || aktiv || Phaser Editor 2D (separat) || Schnelles 2D, umfangreiche Plugins || Ja || https://phaser.io
+|-
+| Babylon.js || 3D || Apache-2.0 || aktiv || Babylon.js Editor, Playground || PBR, WebGPU/WebGL, Tooling || Ja || https://www.babylonjs.com
+|-
+| Godot (HTML5/Web) || 2D/3D || MIT || aktiv || Integrierter Editor || Open Source, WebAssembly-Export || Ja || https://godotengine.org
+|}</text>
+      <sha1>m5qgmkgfkrqyqmpxtwnggdklce3bvba</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Auth-/Identity-Frameworks</title>
+    <ns>0</ns>
+    <id>182</id>
+    <revision>
+      <id>779</id>
+      <timestamp>2025-10-27T04:15:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>779</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1402" sha1="o8r6z4efj70irs8tbhi3ymebca923zu" xml:space="preserve">== Auth-/Identity-Frameworks – Tier 1 (nach Reifegrad) ==
+
+;Kriterien
+: Reifegrad (hoch→niedrig), Open-Source-Status, Kern-Auth, Module/Erweiterungen, Standards
+
+{| class="wikitable sortable"
+! Rang !! Plattform (Stack) !! Reifegrad !! Open Source !! Kern-Auth/Framework !! Wichtige Module/Ökosystem !! Standards/Protokolle
+|-
+| 1 || Spring Boot (Java) || hoch || ja || Spring Security || Spring Authorization Server; Keycloak (extern); OAuth2 Client; SAML2; LDAP || OAuth 2.0, OpenID Connect, SAML 2.0, LDAP, JWT
+|-
+| 2 || ASP.NET Core MVC (.NET) || hoch || ja || ASP.NET Core Identity || OpenIddict; Microsoft.AspNetCore.Authentication.* (OpenIdConnect, JwtBearer, Cookies); externe Logins || OAuth 2.0, OpenID Connect, SAML (via Drittanbieter), LDAP (via Libs), JWT
+|-
+| 3 || Drupal (PHP CMS) || hoch || ja || Core User + Permissions || OpenID Connect; Simple OAuth (OAuth 2.0); SAML SP; LDAP; CAS; TFA/2FA || OAuth 2.0, OpenID Connect, SAML 2.0, LDAP, TOTP
+|-
+| 4 || MediaWiki (PHP Wiki) || mittel–hoch || ja || AuthManager || PluggableAuth; OpenID Connect; OAuth (MWOAuth); LDAPAuthentication2; SimpleSAMLphp-Integration || OAuth 1.0a/2.0, OpenID Connect, SAML 2.0, LDAP
+|}
+
+;Hinweise
+- Alle gelisteten Projekte sind Open Source; Funktionsumfang variiert je nach Modulwahl.
+- Für produktive OIDC/OAuth2-Provider: Spring Authorization Server oder Keycloak (Java), OpenIddict (ASP.NET Core).</text>
+      <sha1>o8r6z4efj70irs8tbhi3ymebca923zu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>UI-/CSS-Frameworks</title>
+    <ns>0</ns>
+    <id>183</id>
+    <revision>
+      <id>780</id>
+      <timestamp>2025-10-27T04:23:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>780</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="272" sha1="9lnypmb52aj54pnbyjxg8poi4780wul" xml:space="preserve">== Tier 1 (Enterprise‑reif) ==
+; Kriterien
+: Aktive Wartung, breite Adoption, klare Versionierung/LTS, gute Barrierefreiheit (A11y), starke Dokumentation, stabiler Release‑Prozess.
+
+; Frameworks
+* Bootstrap — stabil, umfassende Doku, breiter Browser‑Support, A11y.</text>
+      <sha1>9lnypmb52aj54pnbyjxg8poi4780wul</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Benutzervwerwaltung Framework</title>
+    <ns>0</ns>
+    <id>184</id>
+    <revision>
+      <id>781</id>
+      <timestamp>2025-10-27T04:31:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>781</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1459" sha1="lyz4rw65dv3p1282xkd2p19ulhgh8eb" xml:space="preserve">== Überblick ==
+Vergleich von Benutzerverwaltungs-/IAM-Frameworks nach Reifegrad, mit Fokus auf Open Source und Self‑Hosting.
+
+; Bewertungskriterien (Reifegrad)
+* Standards: OIDC/OAuth2, SAML, SCIM, LDAP
+* Sicherheit: MFA/FIDO2, Audit, Hardening, CVE-Reaktionszeit
+* Betrieb: HA/Cluster, Backup/Restore, Upgrades, Observability
+* Funktionsumfang: RBAC/ABAC, Mandanten, Admin-UI, Self‑Service
+* Ökosystem: Dokumentation, Integrationen, Community/Support
+* Architektur: Container/K8s‑Reife, DB‑Support, Skalierung
+
+== Tier 1 – Open Source &amp; Self‑Hosted ==
+{| class="wikitable sortable"
+! Projekt !! Lizenz !! Protokolle !! Kerneigenschaften !! Betrieb/DB
+|-
+| Keycloak || Apache-2.0 || OIDC, OAuth2, SAML || MFA, RBAC, Identity Brokering, Admin‑UI || Container/K8s; Postgres/MySQL
+|-
+| ORY (Hydra/Kratos/Oathkeeper/Keto) || Apache-2.0 || OIDC, OAuth2 (+AuthZ) || Modular (AuthN, AuthZ, Edge), API‑first || K8s‑first; Postgres
+|-
+| ZITADEL || Apache-2.0 || OIDC, OAuth2 || Multi‑Tenant, MFA, Audit, Admin‑UI || K8s; CockroachDB
+|-
+| Gluu Server || AGPL-3.0 || OIDC, OAuth2, SAML, SCIM || UMA, FIDO2, MFA, umfangreiche Integrationen || K8s/Helm; LDAP‑Backends
+|-
+| WSO2 Identity Server || Apache-2.0 || OIDC, OAuth2, SAML, SCIM, XACML || MFA, STS, umfangreiche Enterprise‑Features || Container/K8s; RDBMS
+|-
+| LemonLDAP::NG || GPL-2.0 || OIDC, SAML, CAS || SSO‑Portal, MFA, Reverse‑Proxy‑Integration || Nginx/Apache; SQL/Files
+|}</text>
+      <sha1>lyz4rw65dv3p1282xkd2p19ulhgh8eb</sha1>
+    </revision>
+    <revision>
+      <id>782</id>
+      <parentid>781</parentid>
+      <timestamp>2025-10-27T04:50:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>782</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="797" sha1="9aq66n39xilwakc9fune3dsal2da7vl" xml:space="preserve">== Überblick ==
+Vergleich von Benutzerverwaltungs-/IAM-Frameworks nach Reifegrad, mit Fokus auf Open Source und Self‑Hosting.
+
+; Bewertungskriterien (Reifegrad)
+* Standards: OIDC/OAuth2, SAML, SCIM, LDAP
+* Sicherheit: MFA/FIDO2, Audit, Hardening, CVE-Reaktionszeit
+* Betrieb: HA/Cluster, Backup/Restore, Upgrades, Observability
+* Funktionsumfang: RBAC/ABAC, Mandanten, Admin-UI, Self‑Service
+* Ökosystem: Dokumentation, Integrationen, Community/Support
+* Architektur: Container/K8s‑Reife, DB‑Support, Skalierung
+
+== Tier 1 – Open Source &amp; Self‑Hosted ==
+{| class="wikitable sortable"
+! Projekt !! Lizenz !! Protokolle !! Kerneigenschaften !! Betrieb/DB
+|-
+| Keycloak || Apache-2.0 || OIDC, OAuth2, SAML || MFA, RBAC, Identity Brokering, Admin‑UI || Container/K8s; Postgres/MySQL
+|}</text>
+      <sha1>9aq66n39xilwakc9fune3dsal2da7vl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>IDE:Neos</title>
+    <ns>3008</ns>
+    <id>185</id>
+    <revision>
+      <id>815</id>
+      <timestamp>2025-10-29T05:47:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>815</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="849" sha1="bbz3z4js9yhktcyql60ev1idybrwh7u" xml:space="preserve">== Neos Installation Schritt-für-Schritt Anleitung ==
+
+Diese Anleitung beschreibt die Installation von Neos CMS auf einem Linux-Server mit PostgreSQL.
+
+=== Schritte ===
+&lt;ol&gt;
+&lt;li&gt;Als Benutzer &lt;code&gt;postgres&lt;/code&gt; anmelden:
+&lt;pre&gt;
+sudo -u postgres -i
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;Neue Datenbank für Neos anlegen:
+&lt;pre&gt;
+createdb -E UTF8 -O thorsten neos
+exit
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;Ins Webverzeichnis wechseln und Ordner für Neos erstellen:
+&lt;pre&gt;
+cd /var/www
+sudo mkdir neos
+sudo chmod 777 -R neos
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;Neos mit Composer installieren:
+&lt;pre&gt;
+composer create-project neos/neos-base-distribution:^8.0 neos
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;li&gt;In das Neos-Verzeichnis wechseln und Setup ausführen:
+&lt;pre&gt;
+cd neos
+./flow setup:database
+./flow setup
+&lt;/pre&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+''Hinweis: Die Befehle müssen mit entsprechenden Rechten ausgeführt werden. Composer muss installiert sein.''</text>
+      <sha1>bbz3z4js9yhktcyql60ev1idybrwh7u</sha1>
+    </revision>
+    <revision>
+      <id>816</id>
+      <parentid>815</parentid>
+      <timestamp>2025-10-29T06:29:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>816</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2295" sha1="bc7eqr3hrgqll0fp19vct6nf941j7qt" xml:space="preserve">== Neos Installation Schritt-für-Schritt Anleitung ==
+
+Diese Anleitung beschreibt die Installation von Neos CMS auf einem Linux-Server mit PostgreSQL.
+
+=== Schritte ===
+&lt;ol&gt;
+&lt;li&gt;&lt;b&gt;Als Benutzer &lt;code&gt;postgres&lt;/code&gt; anmelden:&lt;/b&gt;
+&lt;pre&gt;
+sudo -u postgres -i
+&lt;/pre&gt;
+Dadurch wechselst du zum Datenbank-Benutzer &lt;code&gt;postgres&lt;/code&gt;, um Datenbankbefehle auszuführen.
+&lt;/li&gt;
+
+&lt;li&gt;&lt;b&gt;Neue Datenbank für Neos anlegen:&lt;/b&gt;
+&lt;pre&gt;
+createdb -E UTF8 -O thorsten neos
+exit
+&lt;/pre&gt;
+Erstellt eine neue PostgreSQL-Datenbank namens &lt;code&gt;neos&lt;/code&gt; mit UTF8-Kodierung und dem Eigentümer &lt;code&gt;thorsten&lt;/code&gt;. Mit &lt;code&gt;exit&lt;/code&gt; verlässt du den &lt;code&gt;postgres&lt;/code&gt;-Benutzer.
+&lt;/li&gt;
+
+&lt;li&gt;&lt;b&gt;Ins Webverzeichnis wechseln und Ordner für Neos erstellen:&lt;/b&gt;
+&lt;pre&gt;
+cd /var/www
+sudo mkdir neos
+sudo chmod 777 -R neos
+&lt;/pre&gt;
+Wechselt ins Webverzeichnis, erstellt einen Ordner &lt;code&gt;neos&lt;/code&gt; und gibt allen Nutzern Schreibrechte (für Entwicklung geeignet, für Produktion restriktiver setzen).
+&lt;/li&gt;
+
+&lt;li&gt;&lt;b&gt;Neos mit Composer installieren:&lt;/b&gt;
+&lt;pre&gt;
+composer create-project neos/neos-base-distribution:^8.0 neos
+&lt;/pre&gt;
+Lädt die aktuelle Neos-Basisdistribution in den Ordner &lt;code&gt;neos&lt;/code&gt; mit Composer.
+&lt;/li&gt;
+
+&lt;li&gt;&lt;b&gt;In das Neos-Verzeichnis wechseln und Setup ausführen:&lt;/b&gt;
+&lt;pre&gt;
+cd neos
+sudo ./flow setup:database
+./flow doctrine:migrate
+./flow user:create --roles Administrator
+./flow site:create
+./flow kickstart:site Vendor.Site
+./flow site:import --package-key Vendor.Site
+./flow setup
+./flow server:run
+&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;./flow setup:database&lt;/code&gt;: Datenbankverbindung konfigurieren.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;./flow doctrine:migrate&lt;/code&gt;: Datenbankschema anlegen.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;./flow user:create --roles Administrator&lt;/code&gt;: Admin-Benutzer erstellen.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;./flow site:create&lt;/code&gt;: Leeres Site-Paket erstellen.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;./flow kickstart:site Vendor.Site&lt;/code&gt;: Beispiel-Site-Paket generieren.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;./flow site:import --package-key Vendor.Site&lt;/code&gt;: Site-Paket importieren.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;./flow setup&lt;/code&gt;: Neos-Grundsetup ausführen.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;./flow server:run&lt;/code&gt;: Entwicklungsserver starten (http://localhost:8081).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+''Hinweis: Die Befehle müssen mit entsprechenden Rechten ausgeführt werden. Composer muss installiert sein.''</text>
+      <sha1>bc7eqr3hrgqll0fp19vct6nf941j7qt</sha1>
+    </revision>
+    <revision>
+      <id>817</id>
+      <parentid>816</parentid>
+      <timestamp>2025-10-29T08:41:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>817</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4106" sha1="gsg2apb2gsaq8atl3t3dt70yjx865rc" xml:space="preserve">== Neos Installation Schritt-für-Schritt Anleitung ==
+
+Diese Anleitung beschreibt die Installation von Neos CMS auf einem Linux-Server mit PostgreSQL.
+
+=== Schritte ===
+&lt;ol&gt;
+&lt;li&gt;&lt;b&gt;Als Benutzer &lt;code&gt;postgres&lt;/code&gt; anmelden:&lt;/b&gt;
+&lt;pre&gt;
+sudo -u postgres -i
+&lt;/pre&gt;
+Dadurch wechselst du zum Datenbank-Benutzer &lt;code&gt;postgres&lt;/code&gt;, um Datenbankbefehle auszuführen.
+&lt;/li&gt;
+
+&lt;li&gt;&lt;b&gt;Neue Datenbank für Neos anlegen:&lt;/b&gt;
+&lt;pre&gt;
+createdb -E UTF8 -O thorsten neos
+exit
+&lt;/pre&gt;
+Erstellt eine neue PostgreSQL-Datenbank namens &lt;code&gt;neos&lt;/code&gt; mit UTF8-Kodierung und dem Eigentümer &lt;code&gt;thorsten&lt;/code&gt;. Mit &lt;code&gt;exit&lt;/code&gt; verlässt du den &lt;code&gt;postgres&lt;/code&gt;-Benutzer.
+&lt;/li&gt;
+
+&lt;li&gt;&lt;b&gt;Ins Webverzeichnis wechseln und Ordner für Neos erstellen:&lt;/b&gt;
+&lt;pre&gt;
+cd /var/www
+sudo mkdir neos
+sudo chmod 777 -R neos
+&lt;/pre&gt;
+Wechselt ins Webverzeichnis, erstellt einen Ordner &lt;code&gt;neos&lt;/code&gt; und gibt allen Nutzern Schreibrechte (für Entwicklung geeignet, für Produktion restriktiver setzen).
+&lt;/li&gt;
+
+&lt;li&gt;&lt;b&gt;Neos mit Composer installieren:&lt;/b&gt;
+&lt;pre&gt;
+composer create-project neos/neos-base-distribution:^8.0 neos
+&lt;/pre&gt;
+Lädt die aktuelle Neos-Basisdistribution in den Ordner &lt;code&gt;neos&lt;/code&gt; mit Composer.
+&lt;/li&gt;
+
+&lt;li&gt;&lt;b&gt;In das Neos-Verzeichnis wechseln und Setup ausführen:&lt;/b&gt;
+&lt;pre&gt;
+cd neos
+sudo ./flow setup:database
+./flow doctrine:migrate
+./flow user:create --roles Administrator
+./flow site:create
+./flow kickstart:site Vendor.Site
+./flow site:import --package-key Vendor.Site
+./flow setup
+./flow server:run
+&lt;/pre&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;code&gt;./flow setup:database&lt;/code&gt;: Datenbankverbindung konfigurieren.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;./flow doctrine:migrate&lt;/code&gt;: Datenbankschema anlegen.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;./flow user:create --roles Administrator&lt;/code&gt;: Admin-Benutzer erstellen.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;./flow site:create&lt;/code&gt;: Leeres Site-Paket erstellen.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;./flow kickstart:site Vendor.Site&lt;/code&gt;: Beispiel-Site-Paket generieren.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;./flow site:import --package-key Vendor.Site&lt;/code&gt;: Site-Paket importieren.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;./flow setup&lt;/code&gt;: Neos-Grundsetup ausführen.&lt;/li&gt;
+&lt;li&gt;&lt;code&gt;./flow server:run&lt;/code&gt;: Entwicklungsserver starten (http://localhost:8081).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
+
+''Hinweis: Die Befehle müssen mit entsprechenden Rechten ausgeführt werden. Composer muss installiert sein.''
+
+Dauer Lauft
+
+=== Nginx-Konfiguration ===
+
+Um Neos über Nginx bereitzustellen, bearbeite die Konfigurationsdatei:
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/neos.conf
+&lt;/pre&gt;
+Trage dort die passenden Einstellungen für dein Projekt ein.
+
+&lt;pre&gt;
+
+server {
+  listen 80;
+  server_name  daniel.lienert.cc;
+
+  root   /your/htdocs/Neos/Web/;
+  index index.php;
+  
+  location ~ /_Resources/ {
+    access_log off;
+    log_not_found off;
+    expires max;
+
+    if (!-f $request_filename) {
+      rewrite "/_Resources/Persistent/([a-z0-9]{40})/.+\.(.+)" /_Resources/Persistent/$1.$2 break;
+      rewrite "/_Resources/Persistent(?&gt;/[a-z0-9]{5}){8}/([a-f0-9]{40})/.+\.(.+)" /_Resources/Persistent/$1.$2 break;
+    }
+  }
+
+  location / {
+    try_files $uri $uri/ /index.php?$args;
+  }
+
+  # Pass the PHP scripts to FastCGI server listening on 127.0.0.1:9000
+  location ~ \.php$ {
+  include        /etc/nginx/fastcgi_params;
+    try_files      $uri =404;
+    fastcgi_pass         unix:/var/run/php/php8.4-fpm.sock;
+    fastcgi_index  index.php;
+    fastcgi_param  SCRIPT_FILENAME $document_root$fastcgi_script_name;
+    fastcgi_param  PATH_INFO         $fastcgi_path_info;
+    fastcgi_param  FLOW_REWRITEURLS  1;
+    fastcgi_param  FLOW_CONTEXT      Development;
+    fastcgi_param  X-Forwarded-For   $proxy_add_x_forwarded_for;
+    fastcgi_param  X-Forwarded-Port  $proxy_port;
+    fastcgi_param  REMOTE_ADDR       $remote_addr;
+    fastcgi_param  REMOTE_PORT       $remote_port;
+    fastcgi_param  SERVER_ADDR       $server_addr;
+    fastcgi_param  SERVER_NAME       $http_host;
+    fastcgi_split_path_info ^(.+\.php)(.*)$;
+    fastcgi_read_timeout         300;
+    fastcgi_buffer_size          128k;
+    fastcgi_buffers              256 16k;
+    fastcgi_busy_buffers_size    256k;
+    fastcgi_temp_file_write_size 256k;
+  }
+}
+
+
+
+&lt;/pre&gt;</text>
+      <sha1>gsg2apb2gsaq8atl3t3dt70yjx865rc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>IDE:Symfony</title>
+    <ns>3008</ns>
+    <id>186</id>
+    <revision>
+      <id>821</id>
+      <timestamp>2025-10-29T12:49:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* [[Installieren|IDE:Symfony/Installieren]]“</comment>
+      <origin>821</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="43" sha1="8nu71m4ft0pl994peg6v7pvvfe96qrr" xml:space="preserve">* [[Installieren|IDE:Symfony/Installieren]]</text>
+      <sha1>8nu71m4ft0pl994peg6v7pvvfe96qrr</sha1>
+    </revision>
+    <revision>
+      <id>822</id>
+      <parentid>821</parentid>
+      <timestamp>2025-10-29T12:50:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>822</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="43" sha1="15t7x47l754ryg3jfoannjmaex9670x" xml:space="preserve">* [[IDE:Symfony/Installieren|Installieren]]</text>
+      <sha1>15t7x47l754ryg3jfoannjmaex9670x</sha1>
+    </revision>
+    <revision>
+      <id>824</id>
+      <parentid>822</parentid>
+      <timestamp>2025-10-30T22:14:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>824</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="96" sha1="8nt53zu1m3xg7jb422zb37rk3xtw1zo" xml:space="preserve">* [[IDE:Symfony/Installieren|Installieren]]
+* [[IDE:Symfony/Neue Symfony-Anwendungen erstellen]]</text>
+      <sha1>8nt53zu1m3xg7jb422zb37rk3xtw1zo</sha1>
+    </revision>
+    <revision>
+      <id>827</id>
+      <parentid>824</parentid>
+      <timestamp>2025-10-30T22:26:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>827</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="160" sha1="o2192o546n3wpo55rxa2h50fo8q3sd0" xml:space="preserve">* [[IDE:Symfony/Installieren|Installieren]]
+* [[IDE:Symfony/Neue Symfony-Anwendungen erstellen]]
+* [[IDE:Symfony/Einrichten eines bestehenden Symfony-Projekts]]</text>
+      <sha1>o2192o546n3wpo55rxa2h50fo8q3sd0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>IDE:Symfony/Installieren</title>
+    <ns>3008</ns>
+    <id>187</id>
+    <revision>
+      <id>823</id>
+      <timestamp>2025-10-30T16:14:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>823</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="461" sha1="mup3ge9tyw5u4iwp5z430g7aiual2py" xml:space="preserve">==Installieren==
+&lt;pre&gt;
+curl -1sLf 'https://dl.cloudsmith.io/public/symfony/stable/setup.deb.sh' | sudo -E bash
+sudo apt install symfony-cli
+&lt;/pre&gt;
+
+== Neue Symfony-Anwendungen erstellen ==
+Verwenden Sie das mit der Symfony CLI bereitgestellte symfony-Binary, um neue Anwendungen zu erstellen:
+
+===Klassische Website===
+&lt;pre&gt;
+cd $HOME
+symfony new --webapp mein_projekt
+&lt;/pre&gt;
+
+===Microservice===
+&lt;pre&gt;
+cd $HOME
+symfony new --microservice mein_microservice
+&lt;/pre&gt;</text>
+      <sha1>mup3ge9tyw5u4iwp5z430g7aiual2py</sha1>
+    </revision>
+    <revision>
+      <id>826</id>
+      <parentid>823</parentid>
+      <timestamp>2025-10-30T22:15:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Neue Symfony-Anwendungen erstellen */</comment>
+      <origin>826</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="146" sha1="6uucgm67xkc0b60d8qn07h12mb6hdya" xml:space="preserve">==Installieren==
+&lt;pre&gt;
+curl -1sLf 'https://dl.cloudsmith.io/public/symfony/stable/setup.deb.sh' | sudo -E bash
+sudo apt install symfony-cli
+&lt;/pre&gt;</text>
+      <sha1>6uucgm67xkc0b60d8qn07h12mb6hdya</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>IDE:Symfony/Neue Symfony-Anwendungen erstellen</title>
+    <ns>3008</ns>
+    <id>188</id>
+    <revision>
+      <id>825</id>
+      <timestamp>2025-10-30T22:14:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „== Neue Symfony-Anwendungen erstellen == Verwenden Sie das mit der Symfony CLI bereitgestellte symfony-Binary, um neue Anwendungen zu erstellen:  ===Klassische Website=== &lt;pre&gt; cd $HOME symfony new --webapp mein_projekt &lt;/pre&gt;  ===Microservice=== &lt;pre&gt; cd $HOME symfony new --microservice mein_microservice &lt;/pre&gt;“</comment>
+      <origin>825</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="313" sha1="mcnv6ialtnd1nd33kdufn6oa62qgl89" xml:space="preserve">== Neue Symfony-Anwendungen erstellen ==
+Verwenden Sie das mit der Symfony CLI bereitgestellte symfony-Binary, um neue Anwendungen zu erstellen:
+
+===Klassische Website===
+&lt;pre&gt;
+cd $HOME
+symfony new --webapp mein_projekt
+&lt;/pre&gt;
+
+===Microservice===
+&lt;pre&gt;
+cd $HOME
+symfony new --microservice mein_microservice
+&lt;/pre&gt;</text>
+      <sha1>mcnv6ialtnd1nd33kdufn6oa62qgl89</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>IDE:Symfony/Einrichten eines bestehenden Symfony-Projekts</title>
+    <ns>3008</ns>
+    <id>189</id>
+    <revision>
+      <id>828</id>
+      <timestamp>2025-10-30T22:36:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „&lt;pre&gt;  cd projects/ git clone ...   cd my-project/ composer install  php bin/console about  &lt;/pre&gt;“</comment>
+      <origin>828</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="98" sha1="t3in92n5qsqvi0wslxr4t3rir7qpko9" xml:space="preserve">&lt;pre&gt;
+
+cd projects/
+git clone ...
+
+
+cd my-project/
+composer install
+
+php bin/console about
+
+&lt;/pre&gt;</text>
+      <sha1>t3in92n5qsqvi0wslxr4t3rir7qpko9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>IDE:Spring Boot</title>
+    <ns>3008</ns>
+    <id>190</id>
+    <revision>
+      <id>833</id>
+      <timestamp>2025-11-04T13:58:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>833</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3894" sha1="kwu0sfx7wkwaxhkzwqtp9j9vz50lxce" xml:space="preserve">## Eigene Entwicklung eines Content-Management-Systems (CMS) mit Spring Boot
+
+Die Eigenentwicklung eines CMS mit Spring Boot bietet maximale Flexibilität und Anpassbarkeit. Dabei werden die Funktionen und Strukturen individuell nach den Anforderungen des Projekts gestaltet. Typische Schritte und Komponenten sind:
+
+* **Anforderungsanalyse:** Klare Definition der benötigten Funktionen (z. B. Benutzerverwaltung, Rollen, Rechte, Versionierung, Medienverwaltung, Workflows).
+* **Datenmodell:** Entwurf von Entitäten für Inhalte, Benutzer, Rechte, Kategorien usw. Nutzung von JPA/Hibernate für die Persistenz.
+* **Backend-Logik:** Implementierung von REST-APIs mit Spring Boot für CRUD-Operationen, Authentifizierung (Spring Security), Validierung und Business-Logik.
+* **Datei- und Medienmanagement:** Integration von Dateiuploads, Speicherung (z. B. lokal, Cloud, Datenbank) und Zugriffskontrolle.
+* **Frontend:** Entwicklung eines Web-Frontends mit z. B. Thymeleaf, React oder Angular für die Redakteure und Administratoren.
+* **Erweiterbarkeit:** Modularer Aufbau, sodass neue Funktionen (z. B. Plugins, Erweiterungen) einfach ergänzt werden können.
+* **Versionierung und Historie:** Speicherung von Änderungen und Wiederherstellung älterer Versionen.
+* **Workflows:** Abbildung von Freigabeprozessen, z. B. Entwurf, Prüfung, Veröffentlichung.
+* **Sicherheit:** Schutz sensibler Daten, rollenbasierte Zugriffskontrolle, Audit-Logs.
+
+Spring Boot bietet durch seine Komponenten (Spring Data, Spring Security, Spring MVC) eine solide Basis für die Entwicklung eines individuellen CMS. Für spezielle Anforderungen können Frameworks wie Spring Content oder JCR-APIs integriert werden.
+
+## Content-Management-Frameworks und Tools für Spring Boot
+* Spring Initializr
+* JHipster
+* Spring Roo
+* Bootify.io
+* Telosys
+* OpenXava
+* Vaadin
+* Codename One
+* Camunda (Workflow- und Prozessmanagement, kann für CMS-Freigabeprozesse genutzt werden)
+* Activiti (Business Process Management, Integration von Workflows)
+* Keycloak (Identity und Access Management, rollenbasierte Zugriffssteuerung)
+* MapStruct (Mapping von DTOs und Entitäten, nützlich für komplexe CMS-Strukturen)
+* Liquibase/Flyway (Datenbankmigration und Versionierung)
+* Elasticsearch (Suche und Indexierung von Inhalten)
+* MinIO (Objektspeicher für Medien und Dateien)
+* Apache Tika (Extraktion und Analyse von Metadaten aus Dokumenten)
+* GraphQL (Alternative zu REST für flexible Content-Abfragen)
+* Swagger/OpenAPI (Dokumentation und Testen der CMS-APIs)
+
+## Content-Management-Frameworks für Spring Boot (keine fertigen CMS)
+
+* Apache Jackrabbit – Java Content Repository (JCR), bietet eine API zur Verwaltung von Inhalten und kann mit Spring Boot integriert werden
+* ModeShape – Open Source JCR-Implementierung, flexibel für eigene Content-Strukturen
+* Spring Content – Erweiterung für Spring Boot, um eigene Content-Management-Funktionen zu entwickeln (Datei- und Dokumentenmanagement)
+* JCR API (javax.jcr) – Standardisierte Schnittstelle für Content-Repositories, kann in Spring Boot-Projekten verwendet werden
+* Magnolia CMS – Headless CMS mit Java/Spring-Integration (kommerziell, API-basiert)
+* dotCMS – Headless CMS mit Java-Backend, API-Integration möglich
+* CrafterCMS – Open Source Headless CMS, basiert auf Java und Spring
+
+## Beispiel für ein eigenes CMS-Framework mit Spring Boot
+
+Ein eigenes CMS-Framework kann modular aufgebaut werden, z. B.:
+* **Core-Modul:** Basisfunktionen wie Benutzerverwaltung, Rechte, Audit-Logs
+* **Content-Modul:** Verwaltung von Seiten, Artikeln, Medien
+* **Workflow-Modul:** Freigabeprozesse, Versionierung
+* **API-Modul:** REST/GraphQL-Schnittstellen
+* **Frontend-Modul:** Web-UI für Redakteure und Admins
+
+Die Integration von Tools wie Camunda, Elasticsearch oder MinIO erweitert die Funktionalität und Skalierbarkeit eines eigenen CMS-Frameworks.</text>
+      <sha1>kwu0sfx7wkwaxhkzwqtp9j9vz50lxce</sha1>
+    </revision>
+    <revision>
+      <id>834</id>
+      <parentid>833</parentid>
+      <timestamp>2025-11-04T13:59:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>834</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3896" sha1="mgyxuhzurakau7k7c1mswdgtb9s7vg2" xml:space="preserve">== Eigene Entwicklung eines Content-Management-Systems (CMS) mit Spring Boot==
+
+Die Eigenentwicklung eines CMS mit Spring Boot bietet maximale Flexibilität und Anpassbarkeit. Dabei werden die Funktionen und Strukturen individuell nach den Anforderungen des Projekts gestaltet. Typische Schritte und Komponenten sind:
+
+* **Anforderungsanalyse:** Klare Definition der benötigten Funktionen (z. B. Benutzerverwaltung, Rollen, Rechte, Versionierung, Medienverwaltung, Workflows).
+* **Datenmodell:** Entwurf von Entitäten für Inhalte, Benutzer, Rechte, Kategorien usw. Nutzung von JPA/Hibernate für die Persistenz.
+* **Backend-Logik:** Implementierung von REST-APIs mit Spring Boot für CRUD-Operationen, Authentifizierung (Spring Security), Validierung und Business-Logik.
+* **Datei- und Medienmanagement:** Integration von Dateiuploads, Speicherung (z. B. lokal, Cloud, Datenbank) und Zugriffskontrolle.
+* **Frontend:** Entwicklung eines Web-Frontends mit z. B. Thymeleaf, React oder Angular für die Redakteure und Administratoren.
+* **Erweiterbarkeit:** Modularer Aufbau, sodass neue Funktionen (z. B. Plugins, Erweiterungen) einfach ergänzt werden können.
+* **Versionierung und Historie:** Speicherung von Änderungen und Wiederherstellung älterer Versionen.
+* **Workflows:** Abbildung von Freigabeprozessen, z. B. Entwurf, Prüfung, Veröffentlichung.
+* **Sicherheit:** Schutz sensibler Daten, rollenbasierte Zugriffskontrolle, Audit-Logs.
+
+Spring Boot bietet durch seine Komponenten (Spring Data, Spring Security, Spring MVC) eine solide Basis für die Entwicklung eines individuellen CMS. Für spezielle Anforderungen können Frameworks wie Spring Content oder JCR-APIs integriert werden.
+
+## Content-Management-Frameworks und Tools für Spring Boot
+* Spring Initializr
+* JHipster
+* Spring Roo
+* Bootify.io
+* Telosys
+* OpenXava
+* Vaadin
+* Codename One
+* Camunda (Workflow- und Prozessmanagement, kann für CMS-Freigabeprozesse genutzt werden)
+* Activiti (Business Process Management, Integration von Workflows)
+* Keycloak (Identity und Access Management, rollenbasierte Zugriffssteuerung)
+* MapStruct (Mapping von DTOs und Entitäten, nützlich für komplexe CMS-Strukturen)
+* Liquibase/Flyway (Datenbankmigration und Versionierung)
+* Elasticsearch (Suche und Indexierung von Inhalten)
+* MinIO (Objektspeicher für Medien und Dateien)
+* Apache Tika (Extraktion und Analyse von Metadaten aus Dokumenten)
+* GraphQL (Alternative zu REST für flexible Content-Abfragen)
+* Swagger/OpenAPI (Dokumentation und Testen der CMS-APIs)
+
+## Content-Management-Frameworks für Spring Boot (keine fertigen CMS)
+
+* Apache Jackrabbit – Java Content Repository (JCR), bietet eine API zur Verwaltung von Inhalten und kann mit Spring Boot integriert werden
+* ModeShape – Open Source JCR-Implementierung, flexibel für eigene Content-Strukturen
+* Spring Content – Erweiterung für Spring Boot, um eigene Content-Management-Funktionen zu entwickeln (Datei- und Dokumentenmanagement)
+* JCR API (javax.jcr) – Standardisierte Schnittstelle für Content-Repositories, kann in Spring Boot-Projekten verwendet werden
+* Magnolia CMS – Headless CMS mit Java/Spring-Integration (kommerziell, API-basiert)
+* dotCMS – Headless CMS mit Java-Backend, API-Integration möglich
+* CrafterCMS – Open Source Headless CMS, basiert auf Java und Spring
+
+## Beispiel für ein eigenes CMS-Framework mit Spring Boot
+
+Ein eigenes CMS-Framework kann modular aufgebaut werden, z. B.:
+* **Core-Modul:** Basisfunktionen wie Benutzerverwaltung, Rechte, Audit-Logs
+* **Content-Modul:** Verwaltung von Seiten, Artikeln, Medien
+* **Workflow-Modul:** Freigabeprozesse, Versionierung
+* **API-Modul:** REST/GraphQL-Schnittstellen
+* **Frontend-Modul:** Web-UI für Redakteure und Admins
+
+Die Integration von Tools wie Camunda, Elasticsearch oder MinIO erweitert die Funktionalität und Skalierbarkeit eines eigenen CMS-Frameworks.</text>
+      <sha1>mgyxuhzurakau7k7c1mswdgtb9s7vg2</sha1>
+    </revision>
+    <revision>
+      <id>835</id>
+      <parentid>834</parentid>
+      <timestamp>2025-11-04T14:00:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>835</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3900" sha1="64fhh35mqmphkrx1fvvuavwy8hnm5s5" xml:space="preserve">== Eigene Entwicklung eines Content-Management-Systems (CMS) mit Spring Boot==
+
+Die Eigenentwicklung eines CMS mit Spring Boot bietet maximale Flexibilität und Anpassbarkeit. Dabei werden die Funktionen und Strukturen individuell nach den Anforderungen des Projekts gestaltet. Typische Schritte und Komponenten sind:
+
+* **Anforderungsanalyse:** Klare Definition der benötigten Funktionen (z. B. Benutzerverwaltung, Rollen, Rechte, Versionierung, Medienverwaltung, Workflows).
+* **Datenmodell:** Entwurf von Entitäten für Inhalte, Benutzer, Rechte, Kategorien usw. Nutzung von JPA/Hibernate für die Persistenz.
+* **Backend-Logik:** Implementierung von REST-APIs mit Spring Boot für CRUD-Operationen, Authentifizierung (Spring Security), Validierung und Business-Logik.
+* **Datei- und Medienmanagement:** Integration von Dateiuploads, Speicherung (z. B. lokal, Cloud, Datenbank) und Zugriffskontrolle.
+* **Frontend:** Entwicklung eines Web-Frontends mit z. B. Thymeleaf, React oder Angular für die Redakteure und Administratoren.
+* **Erweiterbarkeit:** Modularer Aufbau, sodass neue Funktionen (z. B. Plugins, Erweiterungen) einfach ergänzt werden können.
+* **Versionierung und Historie:** Speicherung von Änderungen und Wiederherstellung älterer Versionen.
+* **Workflows:** Abbildung von Freigabeprozessen, z. B. Entwurf, Prüfung, Veröffentlichung.
+* **Sicherheit:** Schutz sensibler Daten, rollenbasierte Zugriffskontrolle, Audit-Logs.
+
+Spring Boot bietet durch seine Komponenten (Spring Data, Spring Security, Spring MVC) eine solide Basis für die Entwicklung eines individuellen CMS. Für spezielle Anforderungen können Frameworks wie Spring Content oder JCR-APIs integriert werden.
+
+== Content-Management-Frameworks und Tools für Spring Boot==
+* Spring Initializr
+* JHipster
+* Spring Roo
+* Bootify.io
+* Telosys
+* OpenXava
+* Vaadin
+* Codename One
+* Camunda (Workflow- und Prozessmanagement, kann für CMS-Freigabeprozesse genutzt werden)
+* Activiti (Business Process Management, Integration von Workflows)
+* Keycloak (Identity und Access Management, rollenbasierte Zugriffssteuerung)
+* MapStruct (Mapping von DTOs und Entitäten, nützlich für komplexe CMS-Strukturen)
+* Liquibase/Flyway (Datenbankmigration und Versionierung)
+* Elasticsearch (Suche und Indexierung von Inhalten)
+* MinIO (Objektspeicher für Medien und Dateien)
+* Apache Tika (Extraktion und Analyse von Metadaten aus Dokumenten)
+* GraphQL (Alternative zu REST für flexible Content-Abfragen)
+* Swagger/OpenAPI (Dokumentation und Testen der CMS-APIs)
+
+== Content-Management-Frameworks für Spring Boot (keine fertigen CMS)==
+
+* Apache Jackrabbit – Java Content Repository (JCR), bietet eine API zur Verwaltung von Inhalten und kann mit Spring Boot integriert werden
+* ModeShape – Open Source JCR-Implementierung, flexibel für eigene Content-Strukturen
+* Spring Content – Erweiterung für Spring Boot, um eigene Content-Management-Funktionen zu entwickeln (Datei- und Dokumentenmanagement)
+* JCR API (javax.jcr) – Standardisierte Schnittstelle für Content-Repositories, kann in Spring Boot-Projekten verwendet werden
+* Magnolia CMS – Headless CMS mit Java/Spring-Integration (kommerziell, API-basiert)
+* dotCMS – Headless CMS mit Java-Backend, API-Integration möglich
+* CrafterCMS – Open Source Headless CMS, basiert auf Java und Spring
+
+## Beispiel für ein eigenes CMS-Framework mit Spring Boot
+
+Ein eigenes CMS-Framework kann modular aufgebaut werden, z. B.:
+* **Core-Modul:** Basisfunktionen wie Benutzerverwaltung, Rechte, Audit-Logs
+* **Content-Modul:** Verwaltung von Seiten, Artikeln, Medien
+* **Workflow-Modul:** Freigabeprozesse, Versionierung
+* **API-Modul:** REST/GraphQL-Schnittstellen
+* **Frontend-Modul:** Web-UI für Redakteure und Admins
+
+Die Integration von Tools wie Camunda, Elasticsearch oder MinIO erweitert die Funktionalität und Skalierbarkeit eines eigenen CMS-Frameworks.</text>
+      <sha1>64fhh35mqmphkrx1fvvuavwy8hnm5s5</sha1>
+    </revision>
+    <revision>
+      <id>836</id>
+      <parentid>835</parentid>
+      <timestamp>2025-11-04T14:00:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Content-Management-Frameworks für Spring Boot (keine fertigen CMS) */</comment>
+      <origin>836</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3902" sha1="jm9m86jc0vq317ldhwmbsd3u0egvgmw" xml:space="preserve">== Eigene Entwicklung eines Content-Management-Systems (CMS) mit Spring Boot==
+
+Die Eigenentwicklung eines CMS mit Spring Boot bietet maximale Flexibilität und Anpassbarkeit. Dabei werden die Funktionen und Strukturen individuell nach den Anforderungen des Projekts gestaltet. Typische Schritte und Komponenten sind:
+
+* **Anforderungsanalyse:** Klare Definition der benötigten Funktionen (z. B. Benutzerverwaltung, Rollen, Rechte, Versionierung, Medienverwaltung, Workflows).
+* **Datenmodell:** Entwurf von Entitäten für Inhalte, Benutzer, Rechte, Kategorien usw. Nutzung von JPA/Hibernate für die Persistenz.
+* **Backend-Logik:** Implementierung von REST-APIs mit Spring Boot für CRUD-Operationen, Authentifizierung (Spring Security), Validierung und Business-Logik.
+* **Datei- und Medienmanagement:** Integration von Dateiuploads, Speicherung (z. B. lokal, Cloud, Datenbank) und Zugriffskontrolle.
+* **Frontend:** Entwicklung eines Web-Frontends mit z. B. Thymeleaf, React oder Angular für die Redakteure und Administratoren.
+* **Erweiterbarkeit:** Modularer Aufbau, sodass neue Funktionen (z. B. Plugins, Erweiterungen) einfach ergänzt werden können.
+* **Versionierung und Historie:** Speicherung von Änderungen und Wiederherstellung älterer Versionen.
+* **Workflows:** Abbildung von Freigabeprozessen, z. B. Entwurf, Prüfung, Veröffentlichung.
+* **Sicherheit:** Schutz sensibler Daten, rollenbasierte Zugriffskontrolle, Audit-Logs.
+
+Spring Boot bietet durch seine Komponenten (Spring Data, Spring Security, Spring MVC) eine solide Basis für die Entwicklung eines individuellen CMS. Für spezielle Anforderungen können Frameworks wie Spring Content oder JCR-APIs integriert werden.
+
+== Content-Management-Frameworks und Tools für Spring Boot==
+* Spring Initializr
+* JHipster
+* Spring Roo
+* Bootify.io
+* Telosys
+* OpenXava
+* Vaadin
+* Codename One
+* Camunda (Workflow- und Prozessmanagement, kann für CMS-Freigabeprozesse genutzt werden)
+* Activiti (Business Process Management, Integration von Workflows)
+* Keycloak (Identity und Access Management, rollenbasierte Zugriffssteuerung)
+* MapStruct (Mapping von DTOs und Entitäten, nützlich für komplexe CMS-Strukturen)
+* Liquibase/Flyway (Datenbankmigration und Versionierung)
+* Elasticsearch (Suche und Indexierung von Inhalten)
+* MinIO (Objektspeicher für Medien und Dateien)
+* Apache Tika (Extraktion und Analyse von Metadaten aus Dokumenten)
+* GraphQL (Alternative zu REST für flexible Content-Abfragen)
+* Swagger/OpenAPI (Dokumentation und Testen der CMS-APIs)
+
+== Content-Management-Frameworks für Spring Boot (keine fertigen CMS)==
+
+* Apache Jackrabbit – Java Content Repository (JCR), bietet eine API zur Verwaltung von Inhalten und kann mit Spring Boot integriert werden
+* ModeShape – Open Source JCR-Implementierung, flexibel für eigene Content-Strukturen
+* Spring Content – Erweiterung für Spring Boot, um eigene Content-Management-Funktionen zu entwickeln (Datei- und Dokumentenmanagement)
+* JCR API (javax.jcr) – Standardisierte Schnittstelle für Content-Repositories, kann in Spring Boot-Projekten verwendet werden
+* Magnolia CMS – Headless CMS mit Java/Spring-Integration (kommerziell, API-basiert)
+* dotCMS – Headless CMS mit Java-Backend, API-Integration möglich
+* CrafterCMS – Open Source Headless CMS, basiert auf Java und Spring
+
+== Beispiel für ein eigenes CMS-Framework mit Spring Boot==
+
+Ein eigenes CMS-Framework kann modular aufgebaut werden, z. B.:
+* **Core-Modul:** Basisfunktionen wie Benutzerverwaltung, Rechte, Audit-Logs
+* **Content-Modul:** Verwaltung von Seiten, Artikeln, Medien
+* **Workflow-Modul:** Freigabeprozesse, Versionierung
+* **API-Modul:** REST/GraphQL-Schnittstellen
+* **Frontend-Modul:** Web-UI für Redakteure und Admins
+
+Die Integration von Tools wie Camunda, Elasticsearch oder MinIO erweitert die Funktionalität und Skalierbarkeit eines eigenen CMS-Frameworks.</text>
+      <sha1>jm9m86jc0vq317ldhwmbsd3u0egvgmw</sha1>
+    </revision>
+    <revision>
+      <id>837</id>
+      <parentid>836</parentid>
+      <timestamp>2025-11-04T14:02:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Eigene Entwicklung eines Content-Management-Systems (CMS) mit Spring Boot */</comment>
+      <origin>837</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3866" sha1="n2d7i9plrndowvpoz04olpxxyhvv1lp" xml:space="preserve">== Eigene Entwicklung eines Content-Management-Systems (CMS) mit Spring Boot==
+
+Die Eigenentwicklung eines CMS mit Spring Boot bietet maximale Flexibilität und Anpassbarkeit. Dabei werden die Funktionen und Strukturen individuell nach den Anforderungen des Projekts gestaltet. Typische Schritte und Komponenten sind:
+
+* Anforderungsanalyse: Klare Definition der benötigten Funktionen (z. B. Benutzerverwaltung, Rollen, Rechte, Versionierung, Medienverwaltung, Workflows).
+* Datenmodell: Entwurf von Entitäten für Inhalte, Benutzer, Rechte, Kategorien usw. Nutzung von JPA/Hibernate für die Persistenz.
+* Backend-Logik: Implementierung von REST-APIs mit Spring Boot für CRUD-Operationen, Authentifizierung (Spring Security), Validierung und Business-Logik.
+* Datei- und Medienmanagement: Integration von Dateiuploads, Speicherung (z. B. lokal, Cloud, Datenbank) und Zugriffskontrolle.
+* Frontend: Entwicklung eines Web-Frontends mit z. B. Thymeleaf, React oder Angular für die Redakteure und Administratoren.
+* Erweiterbarkeit: Modularer Aufbau, sodass neue Funktionen (z. B. Plugins, Erweiterungen) einfach ergänzt werden können.
+* Versionierung und Historie: Speicherung von Änderungen und Wiederherstellung älterer Versionen.
+* Workflows: Abbildung von Freigabeprozessen, z. B. Entwurf, Prüfung, Veröffentlichung.
+* Sicherheit: Schutz sensibler Daten, rollenbasierte Zugriffskontrolle, Audit-Logs.
+
+Spring Boot bietet durch seine Komponenten (Spring Data, Spring Security, Spring MVC) eine solide Basis für die Entwicklung eines individuellen CMS. Für spezielle Anforderungen können Frameworks wie Spring Content oder JCR-APIs integriert werden.
+
+== Content-Management-Frameworks und Tools für Spring Boot==
+* Spring Initializr
+* JHipster
+* Spring Roo
+* Bootify.io
+* Telosys
+* OpenXava
+* Vaadin
+* Codename One
+* Camunda (Workflow- und Prozessmanagement, kann für CMS-Freigabeprozesse genutzt werden)
+* Activiti (Business Process Management, Integration von Workflows)
+* Keycloak (Identity und Access Management, rollenbasierte Zugriffssteuerung)
+* MapStruct (Mapping von DTOs und Entitäten, nützlich für komplexe CMS-Strukturen)
+* Liquibase/Flyway (Datenbankmigration und Versionierung)
+* Elasticsearch (Suche und Indexierung von Inhalten)
+* MinIO (Objektspeicher für Medien und Dateien)
+* Apache Tika (Extraktion und Analyse von Metadaten aus Dokumenten)
+* GraphQL (Alternative zu REST für flexible Content-Abfragen)
+* Swagger/OpenAPI (Dokumentation und Testen der CMS-APIs)
+
+== Content-Management-Frameworks für Spring Boot (keine fertigen CMS)==
+
+* Apache Jackrabbit – Java Content Repository (JCR), bietet eine API zur Verwaltung von Inhalten und kann mit Spring Boot integriert werden
+* ModeShape – Open Source JCR-Implementierung, flexibel für eigene Content-Strukturen
+* Spring Content – Erweiterung für Spring Boot, um eigene Content-Management-Funktionen zu entwickeln (Datei- und Dokumentenmanagement)
+* JCR API (javax.jcr) – Standardisierte Schnittstelle für Content-Repositories, kann in Spring Boot-Projekten verwendet werden
+* Magnolia CMS – Headless CMS mit Java/Spring-Integration (kommerziell, API-basiert)
+* dotCMS – Headless CMS mit Java-Backend, API-Integration möglich
+* CrafterCMS – Open Source Headless CMS, basiert auf Java und Spring
+
+== Beispiel für ein eigenes CMS-Framework mit Spring Boot==
+
+Ein eigenes CMS-Framework kann modular aufgebaut werden, z. B.:
+* **Core-Modul:** Basisfunktionen wie Benutzerverwaltung, Rechte, Audit-Logs
+* **Content-Modul:** Verwaltung von Seiten, Artikeln, Medien
+* **Workflow-Modul:** Freigabeprozesse, Versionierung
+* **API-Modul:** REST/GraphQL-Schnittstellen
+* **Frontend-Modul:** Web-UI für Redakteure und Admins
+
+Die Integration von Tools wie Camunda, Elasticsearch oder MinIO erweitert die Funktionalität und Skalierbarkeit eines eigenen CMS-Frameworks.</text>
+      <sha1>n2d7i9plrndowvpoz04olpxxyhvv1lp</sha1>
+    </revision>
+    <revision>
+      <id>838</id>
+      <parentid>837</parentid>
+      <timestamp>2025-11-04T14:02:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Beispiel für ein eigenes CMS-Framework mit Spring Boot */</comment>
+      <origin>838</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3846" sha1="3u3epv48eoa7yw7ng16i4q4xfjgjvzc" xml:space="preserve">== Eigene Entwicklung eines Content-Management-Systems (CMS) mit Spring Boot==
+
+Die Eigenentwicklung eines CMS mit Spring Boot bietet maximale Flexibilität und Anpassbarkeit. Dabei werden die Funktionen und Strukturen individuell nach den Anforderungen des Projekts gestaltet. Typische Schritte und Komponenten sind:
+
+* Anforderungsanalyse: Klare Definition der benötigten Funktionen (z. B. Benutzerverwaltung, Rollen, Rechte, Versionierung, Medienverwaltung, Workflows).
+* Datenmodell: Entwurf von Entitäten für Inhalte, Benutzer, Rechte, Kategorien usw. Nutzung von JPA/Hibernate für die Persistenz.
+* Backend-Logik: Implementierung von REST-APIs mit Spring Boot für CRUD-Operationen, Authentifizierung (Spring Security), Validierung und Business-Logik.
+* Datei- und Medienmanagement: Integration von Dateiuploads, Speicherung (z. B. lokal, Cloud, Datenbank) und Zugriffskontrolle.
+* Frontend: Entwicklung eines Web-Frontends mit z. B. Thymeleaf, React oder Angular für die Redakteure und Administratoren.
+* Erweiterbarkeit: Modularer Aufbau, sodass neue Funktionen (z. B. Plugins, Erweiterungen) einfach ergänzt werden können.
+* Versionierung und Historie: Speicherung von Änderungen und Wiederherstellung älterer Versionen.
+* Workflows: Abbildung von Freigabeprozessen, z. B. Entwurf, Prüfung, Veröffentlichung.
+* Sicherheit: Schutz sensibler Daten, rollenbasierte Zugriffskontrolle, Audit-Logs.
+
+Spring Boot bietet durch seine Komponenten (Spring Data, Spring Security, Spring MVC) eine solide Basis für die Entwicklung eines individuellen CMS. Für spezielle Anforderungen können Frameworks wie Spring Content oder JCR-APIs integriert werden.
+
+== Content-Management-Frameworks und Tools für Spring Boot==
+* Spring Initializr
+* JHipster
+* Spring Roo
+* Bootify.io
+* Telosys
+* OpenXava
+* Vaadin
+* Codename One
+* Camunda (Workflow- und Prozessmanagement, kann für CMS-Freigabeprozesse genutzt werden)
+* Activiti (Business Process Management, Integration von Workflows)
+* Keycloak (Identity und Access Management, rollenbasierte Zugriffssteuerung)
+* MapStruct (Mapping von DTOs und Entitäten, nützlich für komplexe CMS-Strukturen)
+* Liquibase/Flyway (Datenbankmigration und Versionierung)
+* Elasticsearch (Suche und Indexierung von Inhalten)
+* MinIO (Objektspeicher für Medien und Dateien)
+* Apache Tika (Extraktion und Analyse von Metadaten aus Dokumenten)
+* GraphQL (Alternative zu REST für flexible Content-Abfragen)
+* Swagger/OpenAPI (Dokumentation und Testen der CMS-APIs)
+
+== Content-Management-Frameworks für Spring Boot (keine fertigen CMS)==
+
+* Apache Jackrabbit – Java Content Repository (JCR), bietet eine API zur Verwaltung von Inhalten und kann mit Spring Boot integriert werden
+* ModeShape – Open Source JCR-Implementierung, flexibel für eigene Content-Strukturen
+* Spring Content – Erweiterung für Spring Boot, um eigene Content-Management-Funktionen zu entwickeln (Datei- und Dokumentenmanagement)
+* JCR API (javax.jcr) – Standardisierte Schnittstelle für Content-Repositories, kann in Spring Boot-Projekten verwendet werden
+* Magnolia CMS – Headless CMS mit Java/Spring-Integration (kommerziell, API-basiert)
+* dotCMS – Headless CMS mit Java-Backend, API-Integration möglich
+* CrafterCMS – Open Source Headless CMS, basiert auf Java und Spring
+
+== Beispiel für ein eigenes CMS-Framework mit Spring Boot==
+
+Ein eigenes CMS-Framework kann modular aufgebaut werden, z. B.:
+* Core-Modul: Basisfunktionen wie Benutzerverwaltung, Rechte, Audit-Logs
+* Content-Modul: Verwaltung von Seiten, Artikeln, Medien
+* Workflow-Modul: Freigabeprozesse, Versionierung
+* API-Modul: REST/GraphQL-Schnittstellen
+* Frontend-Modul: Web-UI für Redakteure und Admins
+
+Die Integration von Tools wie Camunda, Elasticsearch oder MinIO erweitert die Funktionalität und Skalierbarkeit eines eigenen CMS-Frameworks.</text>
+      <sha1>3u3epv48eoa7yw7ng16i4q4xfjgjvzc</sha1>
+    </revision>
+    <revision>
+      <id>839</id>
+      <parentid>838</parentid>
+      <timestamp>2025-11-05T02:22:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>839</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2086" sha1="3eitui1q1zw2osb06blnw6gjs5vpugi" xml:space="preserve">== Eigene Entwicklung eines Content-Management-Systems (CMS) mit Spring Boot==
+
+Die Eigenentwicklung eines CMS mit Spring Boot bietet maximale Flexibilität und Anpassbarkeit. Dabei werden die Funktionen und Strukturen individuell nach den Anforderungen des Projekts gestaltet. Typische Schritte und Komponenten sind:
+
+* Anforderungsanalyse: Klare Definition der benötigten Funktionen (z. B. Benutzerverwaltung, Rollen, Rechte, Versionierung, Medienverwaltung, Workflows).
+* Datenmodell: Entwurf von Entitäten für Inhalte, Benutzer, Rechte, Kategorien usw. Nutzung von JPA/Hibernate für die Persistenz.
+* Backend-Logik: Implementierung von REST-APIs mit Spring Boot für CRUD-Operationen, Authentifizierung (Spring Security), Validierung und Business-Logik.
+* Datei- und Medienmanagement: Integration von Dateiuploads, Speicherung (z. B. lokal, Cloud, Datenbank) und Zugriffskontrolle.
+* Frontend: Entwicklung eines Web-Frontends mit z. B. Thymeleaf, React oder Angular für die Redakteure und Administratoren.
+* Erweiterbarkeit: Modularer Aufbau, sodass neue Funktionen (z. B. Plugins, Erweiterungen) einfach ergänzt werden können.
+* Versionierung und Historie: Speicherung von Änderungen und Wiederherstellung älterer Versionen.
+* Workflows: Abbildung von Freigabeprozessen, z. B. Entwurf, Prüfung, Veröffentlichung.
+* Sicherheit: Schutz sensibler Daten, rollenbasierte Zugriffskontrolle, Audit-Logs.
+
+Spring Boot bietet durch seine Komponenten (Spring Data, Spring Security, Spring MVC) eine solide Basis für die Entwicklung eines individuellen CMS. Für spezielle Anforderungen können Frameworks wie Spring Content oder JCR-APIs integriert werden.
+
+==Hilfreiche Tools und Frameworks für die Entwicklung eines Spring Boot CMS==
+
+* Spring Initializr: Web-basiertes Tool zur schnellen Generierung von Spring Boot-Projekten mit vorkonfigurierten Dependencies und Starter-Paketen.
+* JHipster: Generator-Framework für moderne Web-Anwendungen und Microservices, das Spring Boot mit Frontend-Technologien (Angular, React, Vue.js) kombiniert und umfassende CMS-Features bietet.</text>
+      <sha1>3eitui1q1zw2osb06blnw6gjs5vpugi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>IDE:ASP.NET Core</title>
+    <ns>3008</ns>
+    <id>191</id>
+    <revision>
+      <id>841</id>
+      <timestamp>2025-11-05T02:49:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>841</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1011" sha1="3hy3dce9fnm4ib85yyodjwaex48e9cv" xml:space="preserve">Umbraco – Ein benutzerfreundliches Open-Source-CMS für .NET, das sich durch eine flexible Architektur und eine große Community auszeichnet.
+
+Orchard Core CMS – Ein modulares, modernes Content-Management-System auf Basis von ASP.NET Core, geeignet für Multi-Tenant-Anwendungen und Headless-Architekturen.
+
+Mixcore CMS – Ein leistungsfähiges, modulares CMS für ASP.NET Core, das sich für Enterprise-Anwendungen und individuelle Erweiterungen eignet.
+
+Piranha CMS – Ein leichtgewichtiges, einfach zu bedienendes Headless-CMS für .NET Core, ideal für kleine bis mittlere Webprojekte.
+
+DotNetNuke (DNN) – Ein etabliertes Web-CMS für .NET, das umfangreiche Funktionen für Portale, Community-Websites und Unternehmenslösungen bietet.
+
+EasyContent – Ein einfaches, flexibles CMS für ASP.NET Core, das sich auf die schnelle Erstellung und Verwaltung von Inhalten konzentriert.
+
+Kooboo CMS – Ein vielseitiges CMS für .NET, das Website-Management, E-Commerce und Marketing-Funktionen integriert.</text>
+      <sha1>3hy3dce9fnm4ib85yyodjwaex48e9cv</sha1>
+    </revision>
+    <revision>
+      <id>842</id>
+      <parentid>841</parentid>
+      <timestamp>2025-11-05T14:30:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>842</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="745" sha1="540f3mszhqcjl0znrq6lvfl0qg9kft8" xml:space="preserve">Umbraco – Ein benutzerfreundliches Open-Source-CMS für .NET, das sich durch eine flexible Architektur und eine große Community auszeichnet.
+
+Orchard Core CMS – Ein modulares, modernes Content-Management-System auf Basis von ASP.NET Core, geeignet für Multi-Tenant-Anwendungen und Headless-Architekturen.
+
+Mixcore CMS – Ein leistungsfähiges, modulares CMS für ASP.NET Core, das sich für Enterprise-Anwendungen und individuelle Erweiterungen eignet.
+
+Piranha CMS – Ein leichtgewichtiges, einfach zu bedienendes Headless-CMS für .NET Core, ideal für kleine bis mittlere Webprojekte.
+
+
+==Umbraco==
+&lt;pre&gt;
+dotnet new install Umbraco.Templates
+
+&lt;/pre&gt;
+
+==Orchard Core CMS ==
+
+&lt;pre&gt;
+dotnet new install OrchardCore.ProjectTemplates
+&lt;/pre&gt;</text>
+      <sha1>540f3mszhqcjl0znrq6lvfl0qg9kft8</sha1>
+    </revision>
+    <revision>
+      <id>843</id>
+      <parentid>842</parentid>
+      <timestamp>2025-11-05T15:54:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>843</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="719" sha1="cbie35uxxef15hm5pssspdmimsr05ql" xml:space="preserve">Umbraco – Ein benutzerfreundliches Open-Source-CMS für .NET, das sich durch eine flexible Architektur und eine große Community auszeichnet.
+
+Orchard Core CMS – Ein modulares, modernes Content-Management-System auf Basis von ASP.NET Core, geeignet für Multi-Tenant-Anwendungen und Headless-Architekturen.
+
+Piranha CMS – Ein leichtgewichtiges, einfach zu bedienendes Headless-CMS für .NET Core, ideal für kleine bis mittlere Webprojekte.
+
+
+==Umbraco==
+&lt;pre&gt;
+dotnet new install Umbraco.Templates
+
+&lt;/pre&gt;
+
+==Orchard Core CMS ==
+
+&lt;pre&gt;
+dotnet new install OrchardCore.ProjectTemplates
+&lt;/pre&gt;
+
+==Piranha CMS==
+&lt;pre&gt;
+
+dotnet new install Piranha.Templates
+&lt;/pre&gt;
+
+==Weiter Suchen==
+&lt;pre&gt;
+dotnet new search cms
+
+&lt;/pre&gt;</text>
+      <sha1>cbie35uxxef15hm5pssspdmimsr05ql</sha1>
     </revision>
   </page>
 </mediawiki>
