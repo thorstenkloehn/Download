@@ -1241,6 +1241,37 @@ Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert
 * [[Webframework]]</text>
       <sha1>plffu8vvzhrmb2wfiy1u3a6zde9s6j0</sha1>
     </revision>
+    <revision>
+      <id>876</id>
+      <parentid>714</parentid>
+      <timestamp>2025-11-19T12:45:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>876</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1249" sha1="ptj8caw2h6ngpbcgs634cqvlod9dv2q" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+==Technik==
+* [[Webframework]]</text>
+      <sha1>ptj8caw2h6ngpbcgs634cqvlod9dv2q</sha1>
+    </revision>
   </page>
   <page>
     <title>Server:Hauptseite</title>
@@ -11752,6 +11783,63 @@ Zusammenfassend sucht ASP.NET Core eine View &lt;code&gt;MeineView&lt;/code&gt; 
 * [[Kurse:Alternativen zu Drupal (CMS)]]</text>
       <sha1>t55jgjtyk5iomk0tuyno8zbqrar5nzv</sha1>
     </revision>
+    <revision>
+      <id>863</id>
+      <parentid>391</parentid>
+      <timestamp>2025-11-17T00:37:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>863</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="205" sha1="87w69jvzs1kscpyehem4cuqbl1iwtf7" xml:space="preserve">* [[Kurse:Lerntechnik]]
+* [[Kurse:asp net core Alle Konzept ]]
+* [[Kurse:Cms Webramework in asp net core]]
+* [[Kurse:Asp net core leer]]
+* [[Kurse:Alternativen zu Drupal (CMS)]]
+* [[Kurse:C# Asp Net core]]</text>
+      <sha1>87w69jvzs1kscpyehem4cuqbl1iwtf7</sha1>
+    </revision>
+    <revision>
+      <id>864</id>
+      <parentid>863</parentid>
+      <timestamp>2025-11-17T00:38:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>864</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="210" sha1="a16sl51x6kzf3kitilqyy9rxbvokjwl" xml:space="preserve">* [[Kurse:Lerntechnik]]
+* [[Kurse:asp net core Alle Konzept ]]
+* [[Kurse:Cms Webramework in asp net core]]
+* [[Kurse:Asp net core leer]]
+* [[Kurse:Alternativen zu Drupal (CMS)]]
+* [[Kurse:C-Sharp Asp Net core]]</text>
+      <sha1>a16sl51x6kzf3kitilqyy9rxbvokjwl</sha1>
+    </revision>
+    <revision>
+      <id>869</id>
+      <parentid>864</parentid>
+      <timestamp>2025-11-17T02:44:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>869</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="264" sha1="72qjie0uc5qj0yceti79e7jllmu0nxx" xml:space="preserve">* [[Kurse:Lerntechnik]]
+* [[Kurse:asp net core Alle Konzept ]]
+* [[Kurse:Cms Webramework in asp net core]]
+* [[Kurse:Asp net core leer]]
+* [[Kurse:Alternativen zu Drupal (CMS)]]
+* [[Kurse:Voraussetzungen für ASP.NET Core (C-Sharp) und Spring Boot/Java EE (Java)]]</text>
+      <sha1>72qjie0uc5qj0yceti79e7jllmu0nxx</sha1>
+    </revision>
   </page>
   <page>
     <title>Server:Haupseite</title>
@@ -16061,6 +16149,22 @@ builder.Services.AddControllers(options =&gt; {
       <text bytes="77" sha1="4mlv23dnr4ugslssamfj3d4ulh3m7yr" xml:space="preserve">* [[Ai:Nahtlose Integration von KI und ML in Ihre Projekte]]
 * [[Ai:Modelle]]</text>
       <sha1>4mlv23dnr4ugslssamfj3d4ulh3m7yr</sha1>
+    </revision>
+    <revision>
+      <id>875</id>
+      <parentid>400</parentid>
+      <timestamp>2025-11-18T20:19:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>875</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="92" sha1="52hbm70msutoczc6txnk919xeigsj61" xml:space="preserve">* [[Ai:Nahtlose Integration von KI und ML in Ihre Projekte]]
+* [[Ai:Modelle]]
+* [[Ai:Codex]]</text>
+      <sha1>52hbm70msutoczc6txnk919xeigsj61</sha1>
     </revision>
   </page>
   <page>
@@ -22649,6 +22753,27 @@ exit # Ausloggen
 * [[IDE:Postfix]]
 * [[IDE:asp identity]]</text>
       <sha1>s7qhtizf2a1ggc89uvo1138romu90ca</sha1>
+    </revision>
+    <revision>
+      <id>846</id>
+      <parentid>692</parentid>
+      <timestamp>2025-11-12T02:23:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>846</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="211" sha1="otgs7ofpio2g7dxr1bxfoz3d4syl7ln" xml:space="preserve">* [[IDE:Installieren]]
+* [[IDE:Mediawiki Installieren]]
+* [[IDE:Qgis Installieren]]
+* [[IDE:Asp Net Core]]
+* [[IDE:Anki]]
+* [[IDE:Postfix]]
+* [[IDE:asp identity]]
+* [[IDE:Integrierte Entwicklungsumgebung (IDE)]]</text>
+      <sha1>otgs7ofpio2g7dxr1bxfoz3d4syl7ln</sha1>
     </revision>
   </page>
   <page>
@@ -30074,6 +30199,1543 @@ code --install-extension ms-dotnettools.csdevkit
 code --install-extension AvaloniaTeam.vscode-avalonia
 &lt;/pre&gt;</text>
       <sha1>698mlsitcmaf0g4l0sme7uvj3chqt7u</sha1>
+    </revision>
+    <revision>
+      <id>851</id>
+      <parentid>845</parentid>
+      <timestamp>2025-11-13T13:31:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* dotnet */</comment>
+      <origin>851</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5232" sha1="28ux08kylzid3333c11zvernno65j0o" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.4.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.4.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+ dotnet new install OrchardCore.ProjectTemplates::2.2.0
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+php -r "if (hash_file('sha384', 'composer-setup.php') === 'dac665fdc30fdd8ec78b38b9800061b4150413ff2e3b6f88543c636f7cd84f6db9189d43a81e5503cda447da73c7e5b6') { echo 'Installer verified'.PHP_EOL; } else { echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-26-jdk
+sudo apt install maven 
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.vscode-avalonia
+&lt;/pre&gt;</text>
+      <sha1>28ux08kylzid3333c11zvernno65j0o</sha1>
+    </revision>
+    <revision>
+      <id>852</id>
+      <parentid>851</parentid>
+      <timestamp>2025-11-13T13:35:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Composer Installieren */</comment>
+      <origin>852</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5029" sha1="d4hllkn5ong8cj4503yl76mfibr7si7" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.4.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.4.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+ dotnet new install OrchardCore.ProjectTemplates::2.2.0
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-26-jdk
+sudo apt install maven 
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.vscode-avalonia
+&lt;/pre&gt;</text>
+      <sha1>d4hllkn5ong8cj4503yl76mfibr7si7</sha1>
+    </revision>
+    <revision>
+      <id>861</id>
+      <parentid>852</parentid>
+      <timestamp>2025-11-14T22:19:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Java */</comment>
+      <origin>861</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5081" sha1="6xzjpqhp43nh3onzayfx9lduz7cmtvq" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.4.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.4.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+ dotnet new install OrchardCore.ProjectTemplates::2.2.0
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-26-jdk
+sudo apt install maven 
+sudo snap install intellij-idea-community --classic
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.vscode-avalonia
+&lt;/pre&gt;</text>
+      <sha1>6xzjpqhp43nh3onzayfx9lduz7cmtvq</sha1>
+    </revision>
+    <revision>
+      <id>862</id>
+      <parentid>861</parentid>
+      <timestamp>2025-11-14T22:33:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Installieren */</comment>
+      <origin>862</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5123" sha1="huypff7k2zathe01yeumlut81inpo50" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+ &lt;code&gt;sudo apt-get install neovim&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.4.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.4.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+ dotnet new install OrchardCore.ProjectTemplates::2.2.0
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-26-jdk
+sudo apt install maven 
+sudo snap install intellij-idea-community --classic
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.vscode-avalonia
+&lt;/pre&gt;</text>
+      <sha1>huypff7k2zathe01yeumlut81inpo50</sha1>
+    </revision>
+    <revision>
+      <id>870</id>
+      <parentid>862</parentid>
+      <timestamp>2025-11-17T22:41:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* dotnet */</comment>
+      <origin>870</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5157" sha1="ifkmho0g9y8xqcul52wxpr8j2n9vxev" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+ &lt;code&gt;sudo apt-get install neovim&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.4.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.4.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+ dotnet new install OrchardCore.ProjectTemplates::2.2.0
+sudo snap install rider --classic
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-26-jdk
+sudo apt install maven 
+sudo snap install intellij-idea-community --classic
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.vscode-avalonia
+&lt;/pre&gt;</text>
+      <sha1>ifkmho0g9y8xqcul52wxpr8j2n9vxev</sha1>
+    </revision>
+    <revision>
+      <id>871</id>
+      <parentid>870</parentid>
+      <timestamp>2025-11-17T22:42:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* dotnet */</comment>
+      <origin>871</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5158" sha1="tubcntule761enbpjxcbbmnbcjkmsjt" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+ &lt;code&gt;sudo apt-get install neovim&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.4.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.4.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+ dotnet new install OrchardCore.ProjectTemplates::2.2.0
+ sudo snap install rider --classic
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-26-jdk
+sudo apt install maven 
+sudo snap install intellij-idea-community --classic
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.vscode-avalonia
+&lt;/pre&gt;</text>
+      <sha1>tubcntule761enbpjxcbbmnbcjkmsjt</sha1>
+    </revision>
+    <revision>
+      <id>872</id>
+      <parentid>871</parentid>
+      <timestamp>2025-11-18T00:01:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Java */</comment>
+      <origin>872</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5107" sha1="b6a9cfyq5mjlyvrmrh9b2d6p2vhbkej" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+ &lt;code&gt;sudo apt-get install neovim&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.4.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.4.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+ dotnet new install OrchardCore.ProjectTemplates::2.2.0
+ sudo snap install rider --classic
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-26-jdk
+sudo apt install maven 
+
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.vscode-avalonia
+&lt;/pre&gt;</text>
+      <sha1>b6a9cfyq5mjlyvrmrh9b2d6p2vhbkej</sha1>
+    </revision>
+    <revision>
+      <id>873</id>
+      <parentid>872</parentid>
+      <timestamp>2025-11-18T00:02:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* dotnet */</comment>
+      <origin>873</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5072" sha1="a2p0t5tcmry32o2mq95a1ndc61egmkz" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+ &lt;code&gt;sudo apt-get install neovim&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.4.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.4.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+ dotnet new install OrchardCore.ProjectTemplates::2.2.0
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-26-jdk
+sudo apt install maven 
+
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.vscode-avalonia
+&lt;/pre&gt;</text>
+      <sha1>a2p0t5tcmry32o2mq95a1ndc61egmkz</sha1>
+    </revision>
+    <revision>
+      <id>874</id>
+      <parentid>873</parentid>
+      <timestamp>2025-11-18T04:51:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Java */</comment>
+      <origin>874</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5124" sha1="q4czuyym09im1jxhjyn4sh0qvcp9xsy" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+ &lt;code&gt;sudo apt-get install neovim&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.4.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.4.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+ dotnet new install OrchardCore.ProjectTemplates::2.2.0
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-26-jdk
+sudo apt install maven 
+
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+sudo snap install intellij-idea-community --classic
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.vscode-avalonia
+&lt;/pre&gt;</text>
+      <sha1>q4czuyym09im1jxhjyn4sh0qvcp9xsy</sha1>
     </revision>
   </page>
   <page>
@@ -43615,6 +45277,22 @@ sudo systemctl restart postgresql
 * [[IDE:ASP.NET Core]]</text>
       <sha1>q4ebs79yt81y66wck5u6pbf1roimhjt</sha1>
     </revision>
+    <revision>
+      <id>885</id>
+      <parentid>840</parentid>
+      <timestamp>2025-11-23T20:04:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>885</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="62" sha1="9d57r8dmigbbyukkrwyro6bumbco197" xml:space="preserve">* [[IDE:Spring Boot]]
+* [[IDE:ASP.NET Core]]
+* [[IDE:Symfony]]</text>
+      <sha1>9d57r8dmigbbyukkrwyro6bumbco197</sha1>
+    </revision>
   </page>
   <page>
     <title>Backend Webframework</title>
@@ -46827,6 +48505,20 @@ server {
 * [[IDE:Symfony/Einrichten eines bestehenden Symfony-Projekts]]</text>
       <sha1>o2192o546n3wpo55rxa2h50fo8q3sd0</sha1>
     </revision>
+    <revision>
+      <id>886</id>
+      <parentid>827</parentid>
+      <timestamp>2025-11-23T20:19:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>886</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="43" sha1="15t7x47l754ryg3jfoannjmaex9670x" xml:space="preserve">* [[IDE:Symfony/Installieren|Installieren]]</text>
+      <sha1>15t7x47l754ryg3jfoannjmaex9670x</sha1>
+    </revision>
   </page>
   <page>
     <title>IDE:Symfony/Installieren</title>
@@ -46883,6 +48575,469 @@ curl -1sLf 'https://dl.cloudsmith.io/public/symfony/stable/setup.deb.sh' | sudo 
 sudo apt install symfony-cli
 &lt;/pre&gt;</text>
       <sha1>6uucgm67xkc0b60d8qn07h12mb6hdya</sha1>
+    </revision>
+    <revision>
+      <id>887</id>
+      <parentid>826</parentid>
+      <timestamp>2025-11-23T20:37:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>887</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="805" sha1="9xdwewpthqqibvej5mhmqjgix44umo7" xml:space="preserve">==Voraussetzungen==
+Um Symfony zu installieren, benötigen Sie die folgenden Voraussetzungen:
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Symfony Projekt Erstellen==
+&lt;pre&gt;
+composer create-project symfony/website-skeleton stadtportal 
+&lt;/pre&gt;</text>
+      <sha1>9xdwewpthqqibvej5mhmqjgix44umo7</sha1>
+    </revision>
+    <revision>
+      <id>888</id>
+      <parentid>887</parentid>
+      <timestamp>2025-11-24T01:26:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>888</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3341" sha1="oeoqa2pu4m2hlltj2wo4b1npsrbdnp1" xml:space="preserve">==Voraussetzungen==
+Um Symfony zu installieren, benötigen Sie die folgenden Voraussetzungen:
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Symfony Projekt Erstellen==
+&lt;pre&gt;
+composer create-project symfony/website-skeleton stadtportal 
+&lt;/pre&gt;
+
+==nginx Konfiguration==
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/stadtportal.conf
+&lt;/pre&gt;
+Fügen Sie die folgende Konfiguration ein:
+&lt;pre&gt;
+  
+server {
+    listen 80;
+
+    server_name example.com www.example.com;
+    root /var/www/stadtportal/public;
+
+    location / {
+        # try to serve file directly, fallback to index.php
+        try_files $uri /index.php$is_args$args;
+    }
+
+    # optionally disable falling back to PHP script for the asset directories;
+    # nginx will return a 404 error when files are not found instead of passing the
+    # request to Symfony (improves performance but Symfony's 404 page is not displayed)
+    # location /bundles {
+    #     try_files $uri =404;
+    # }
+
+    location ~ ^/index\.php(/|$) {
+        # when using PHP-FPM as a unix socket
+        fastcgi_pass unix:/var/run/php/php8.4-fpm.sock;
+
+        # when PHP-FPM is configured to use TCP
+        # fastcgi_pass 127.0.0.1:9000;
+
+        fastcgi_split_path_info ^(.+\.php)(/.*)$;
+        include fastcgi_params;
+
+        # optionally set the value of the environment variables used in the application
+        # fastcgi_param APP_ENV prod;
+        # fastcgi_param APP_SECRET &lt;app-secret-id&gt;;
+        # fastcgi_param DATABASE_URL "mysql://db_user:db_pass@host:3306/db_name";
+
+        # When you are using symlinks to link the document root to the
+        # current version of your application, you should pass the real
+        # application path instead of the path to the symlink to PHP
+        # FPM.
+        # Otherwise, PHP's OPcache may not properly detect changes to
+        # your PHP files (see https://github.com/zendtech/ZendOptimizerPlus/issues/126
+        # for more information).
+        # Caveat: When PHP-FPM is hosted on a different machine from nginx
+        #         $realpath_root may not resolve as you expect! In this case try using
+        #         $document_root instead.
+        fastcgi_param SCRIPT_FILENAME $realpath_root$fastcgi_script_name;
+        fastcgi_param DOCUMENT_ROOT $realpath_root;
+        # Prevents URIs that include the front controller. This will 404:
+        # http://example.com/index.php/some-path
+        # Remove the internal directive to allow URIs like this
+        internal;
+    }
+
+    # return 404 for all other php files not matching the front controller
+    # this prevents access to other php files you don't want to be accessible.
+    location ~ \.php$ {
+        return 404;
+    }
+
+    error_log /var/log/nginx/project_error.log;
+    access_log /var/log/nginx/project_access.log;
+}
+
+&lt;/pre&gt;1</text>
+      <sha1>oeoqa2pu4m2hlltj2wo4b1npsrbdnp1</sha1>
+    </revision>
+    <revision>
+      <id>889</id>
+      <parentid>888</parentid>
+      <timestamp>2025-11-24T01:34:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>889</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3333" sha1="i3dyq0qt5lnnjwd9j2paut76o2h9kg6" xml:space="preserve">==Voraussetzungen==
+Um Symfony zu installieren, benötigen Sie die folgenden Voraussetzungen:
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Symfony Projekt Erstellen==
+&lt;pre&gt;
+composer create-project symfony/skeleton stadtportal 
+&lt;/pre&gt;
+
+==nginx Konfiguration==
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/stadtportal.conf
+&lt;/pre&gt;
+Fügen Sie die folgende Konfiguration ein:
+&lt;pre&gt;
+  
+server {
+    listen 80;
+
+    server_name example.com www.example.com;
+    root /var/www/stadtportal/public;
+
+    location / {
+        # try to serve file directly, fallback to index.php
+        try_files $uri /index.php$is_args$args;
+    }
+
+    # optionally disable falling back to PHP script for the asset directories;
+    # nginx will return a 404 error when files are not found instead of passing the
+    # request to Symfony (improves performance but Symfony's 404 page is not displayed)
+    # location /bundles {
+    #     try_files $uri =404;
+    # }
+
+    location ~ ^/index\.php(/|$) {
+        # when using PHP-FPM as a unix socket
+        fastcgi_pass unix:/var/run/php/php8.4-fpm.sock;
+
+        # when PHP-FPM is configured to use TCP
+        # fastcgi_pass 127.0.0.1:9000;
+
+        fastcgi_split_path_info ^(.+\.php)(/.*)$;
+        include fastcgi_params;
+
+        # optionally set the value of the environment variables used in the application
+        # fastcgi_param APP_ENV prod;
+        # fastcgi_param APP_SECRET &lt;app-secret-id&gt;;
+        # fastcgi_param DATABASE_URL "mysql://db_user:db_pass@host:3306/db_name";
+
+        # When you are using symlinks to link the document root to the
+        # current version of your application, you should pass the real
+        # application path instead of the path to the symlink to PHP
+        # FPM.
+        # Otherwise, PHP's OPcache may not properly detect changes to
+        # your PHP files (see https://github.com/zendtech/ZendOptimizerPlus/issues/126
+        # for more information).
+        # Caveat: When PHP-FPM is hosted on a different machine from nginx
+        #         $realpath_root may not resolve as you expect! In this case try using
+        #         $document_root instead.
+        fastcgi_param SCRIPT_FILENAME $realpath_root$fastcgi_script_name;
+        fastcgi_param DOCUMENT_ROOT $realpath_root;
+        # Prevents URIs that include the front controller. This will 404:
+        # http://example.com/index.php/some-path
+        # Remove the internal directive to allow URIs like this
+        internal;
+    }
+
+    # return 404 for all other php files not matching the front controller
+    # this prevents access to other php files you don't want to be accessible.
+    location ~ \.php$ {
+        return 404;
+    }
+
+    error_log /var/log/nginx/project_error.log;
+    access_log /var/log/nginx/project_access.log;
+}
+
+&lt;/pre&gt;1</text>
+      <sha1>i3dyq0qt5lnnjwd9j2paut76o2h9kg6</sha1>
+    </revision>
+    <revision>
+      <id>890</id>
+      <parentid>889</parentid>
+      <timestamp>2025-11-24T03:51:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>890</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3327" sha1="411bvyocxsvs20vjcjoh4gspie15z86" xml:space="preserve">==Voraussetzungen==
+Um Symfony zu installieren, benötigen Sie die folgenden Voraussetzungen:
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Symfony Projekt Erstellen==
+&lt;pre&gt;
+composer create-project symfony/skeleton stadtportal 
+&lt;/pre&gt;
+
+==nginx Konfiguration==
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/stadtportal.conf
+&lt;/pre&gt;
+Fügen Sie die folgende Konfiguration ein:
+&lt;pre&gt;
+  
+server {
+    listen 80;
+
+    server_name stadtportal.localhost;
+    root /var/www/stadtportal/public;
+
+    location / {
+        # try to serve file directly, fallback to index.php
+        try_files $uri /index.php$is_args$args;
+    }
+
+    # optionally disable falling back to PHP script for the asset directories;
+    # nginx will return a 404 error when files are not found instead of passing the
+    # request to Symfony (improves performance but Symfony's 404 page is not displayed)
+    # location /bundles {
+    #     try_files $uri =404;
+    # }
+
+    location ~ ^/index\.php(/|$) {
+        # when using PHP-FPM as a unix socket
+        fastcgi_pass unix:/var/run/php/php8.4-fpm.sock;
+
+        # when PHP-FPM is configured to use TCP
+        # fastcgi_pass 127.0.0.1:9000;
+
+        fastcgi_split_path_info ^(.+\.php)(/.*)$;
+        include fastcgi_params;
+
+        # optionally set the value of the environment variables used in the application
+        # fastcgi_param APP_ENV prod;
+        # fastcgi_param APP_SECRET &lt;app-secret-id&gt;;
+        # fastcgi_param DATABASE_URL "mysql://db_user:db_pass@host:3306/db_name";
+
+        # When you are using symlinks to link the document root to the
+        # current version of your application, you should pass the real
+        # application path instead of the path to the symlink to PHP
+        # FPM.
+        # Otherwise, PHP's OPcache may not properly detect changes to
+        # your PHP files (see https://github.com/zendtech/ZendOptimizerPlus/issues/126
+        # for more information).
+        # Caveat: When PHP-FPM is hosted on a different machine from nginx
+        #         $realpath_root may not resolve as you expect! In this case try using
+        #         $document_root instead.
+        fastcgi_param SCRIPT_FILENAME $realpath_root$fastcgi_script_name;
+        fastcgi_param DOCUMENT_ROOT $realpath_root;
+        # Prevents URIs that include the front controller. This will 404:
+        # http://example.com/index.php/some-path
+        # Remove the internal directive to allow URIs like this
+        internal;
+    }
+
+    # return 404 for all other php files not matching the front controller
+    # this prevents access to other php files you don't want to be accessible.
+    location ~ \.php$ {
+        return 404;
+    }
+
+    error_log /var/log/nginx/project_error.log;
+    access_log /var/log/nginx/project_access.log;
+}
+
+&lt;/pre&gt;1</text>
+      <sha1>411bvyocxsvs20vjcjoh4gspie15z86</sha1>
+    </revision>
+    <revision>
+      <id>891</id>
+      <parentid>890</parentid>
+      <timestamp>2025-11-24T05:13:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Composer Installieren */</comment>
+      <origin>891</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3341" sha1="ezkdo6tzk8q8xzitvsar771p1q8wujg" xml:space="preserve">==Voraussetzungen==
+Um Symfony zu installieren, benötigen Sie die folgenden Voraussetzungen:
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Symfony Projekt Erstellen==
+&lt;pre&gt;
+composer create-project symfony/skeleton stadtportal 
+&lt;/pre&gt;
+
+==nginx Konfiguration==
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/stadtportal.conf
+&lt;/pre&gt;
+Fügen Sie die folgende Konfiguration ein:
+&lt;pre&gt;
+  
+server {
+    listen 80;
+
+    server_name stadtportal.localhost;
+    root /var/www/stadtportal/public;
+
+    location / {
+        # try to serve file directly, fallback to index.php
+        try_files $uri /index.php$is_args$args;
+    }
+
+    # optionally disable falling back to PHP script for the asset directories;
+    # nginx will return a 404 error when files are not found instead of passing the
+    # request to Symfony (improves performance but Symfony's 404 page is not displayed)
+    # location /bundles {
+    #     try_files $uri =404;
+    # }
+
+    location ~ ^/index\.php(/|$) {
+        # when using PHP-FPM as a unix socket
+        fastcgi_pass unix:/var/run/php/php8.4-fpm.sock;
+
+        # when PHP-FPM is configured to use TCP
+        # fastcgi_pass 127.0.0.1:9000;
+
+        fastcgi_split_path_info ^(.+\.php)(/.*)$;
+        include fastcgi_params;
+
+        # optionally set the value of the environment variables used in the application
+        # fastcgi_param APP_ENV prod;
+        # fastcgi_param APP_SECRET &lt;app-secret-id&gt;;
+        # fastcgi_param DATABASE_URL "mysql://db_user:db_pass@host:3306/db_name";
+
+        # When you are using symlinks to link the document root to the
+        # current version of your application, you should pass the real
+        # application path instead of the path to the symlink to PHP
+        # FPM.
+        # Otherwise, PHP's OPcache may not properly detect changes to
+        # your PHP files (see https://github.com/zendtech/ZendOptimizerPlus/issues/126
+        # for more information).
+        # Caveat: When PHP-FPM is hosted on a different machine from nginx
+        #         $realpath_root may not resolve as you expect! In this case try using
+        #         $document_root instead.
+        fastcgi_param SCRIPT_FILENAME $realpath_root$fastcgi_script_name;
+        fastcgi_param DOCUMENT_ROOT $realpath_root;
+        # Prevents URIs that include the front controller. This will 404:
+        # http://example.com/index.php/some-path
+        # Remove the internal directive to allow URIs like this
+        internal;
+    }
+
+    # return 404 for all other php files not matching the front controller
+    # this prevents access to other php files you don't want to be accessible.
+    location ~ \.php$ {
+        return 404;
+    }
+
+    error_log /var/log/nginx/project_error.log;
+    access_log /var/log/nginx/project_access.log;
+}
+
+&lt;/pre&gt;1</text>
+      <sha1>ezkdo6tzk8q8xzitvsar771p1q8wujg</sha1>
     </revision>
   </page>
   <page>
@@ -47510,6 +49665,641 @@ dotnet new search cms
 
 &lt;/pre&gt;</text>
       <sha1>cbie35uxxef15hm5pssspdmimsr05ql</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>IDE:Integrierte Entwicklungsumgebung (IDE)</title>
+    <ns>3008</ns>
+    <id>192</id>
+    <revision>
+      <id>847</id>
+      <timestamp>2025-11-12T02:42:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>847</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="724" sha1="9i7zpcbr0td5y4p9iulbcinit2ssyns" xml:space="preserve">Integrierte Entwicklungsumgebung (IDE)
+
+== Einsatzgebiet ==
+* Visual Studio Code – Vielseitig einsetzbar für Webentwicklung, Skripting, und viele Programmiersprachen durch Erweiterungen.
+* Jetbrains IDE – Spezialisierte IDEs wie IntelliJ IDEA (Java/Kotlin), PyCharm (Python), WebStorm (Webentwicklung), CLion (C/C++).
+* Eclipse – Häufig genutzt für Java-Entwicklung, aber auch für C/C++, PHP und andere Sprachen durch Plugins.
+* Vim/Neovim – Leichtgewichtige Editoren, oft im Terminal verwendet, beliebt bei Systemadministratoren und Entwicklern, die schnelle Navigation bevorzugen.
+* Azure Data Studio – Speziell für Datenbankentwicklung und -verwaltung, insbesondere für Microsoft SQL Server und Azure SQL.</text>
+      <sha1>9i7zpcbr0td5y4p9iulbcinit2ssyns</sha1>
+    </revision>
+    <revision>
+      <id>848</id>
+      <parentid>847</parentid>
+      <timestamp>2025-11-12T16:02:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>848</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="591" sha1="kl1gb7zgdwj0ex9i0jprxeo0egdezu3" xml:space="preserve">Integrierte Entwicklungsumgebung (IDE)
+
+== Einsatzgebiet ==
+* Visual Studio Code – Vielseitig einsetzbar für Webentwicklung, Skripting, und viele Programmiersprachen durch Erweiterungen.
+* Eclipse – Häufig genutzt für Java-Entwicklung, aber auch für C/C++, PHP und andere Sprachen durch Plugins.
+* Vim/Neovim – Leichtgewichtige Editoren, oft im Terminal verwendet, beliebt bei Systemadministratoren und Entwicklern, die schnelle Navigation bevorzugen.
+* Azure Data Studio – Speziell für Datenbankentwicklung und -verwaltung, insbesondere für Microsoft SQL Server und Azure SQL.</text>
+      <sha1>kl1gb7zgdwj0ex9i0jprxeo0egdezu3</sha1>
+    </revision>
+    <revision>
+      <id>849</id>
+      <parentid>848</parentid>
+      <timestamp>2025-11-13T03:56:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>849</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="599" sha1="anzq01lpr0dqahwqu6ljk1vdz2s0vn2" xml:space="preserve">Integrierte Entwicklungsumgebung (IDE)
+
+== Einsatzgebiet ==
+* [[IDE:Visual Studio Code]] – Vielseitig einsetzbar für Webentwicklung, Skripting, und viele Programmiersprachen durch Erweiterungen.
+* Eclipse – Häufig genutzt für Java-Entwicklung, aber auch für C/C++, PHP und andere Sprachen durch Plugins.
+* Vim/Neovim – Leichtgewichtige Editoren, oft im Terminal verwendet, beliebt bei Systemadministratoren und Entwicklern, die schnelle Navigation bevorzugen.
+* Azure Data Studio – Speziell für Datenbankentwicklung und -verwaltung, insbesondere für Microsoft SQL Server und Azure SQL.</text>
+      <sha1>anzq01lpr0dqahwqu6ljk1vdz2s0vn2</sha1>
+    </revision>
+    <revision>
+      <id>853</id>
+      <parentid>849</parentid>
+      <timestamp>2025-11-13T17:46:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>853</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="847" sha1="i3o6cd9clrfadvpb1ijlvacchgn7kk9" xml:space="preserve">Integrierte Entwicklungsumgebung (IDE)
+
+== Einsatzgebiet ==
+* [[IDE:Visual Studio Code]] – Vielseitig einsetzbar für Webentwicklung, Skripting, und viele Programmiersprachen durch Erweiterungen.
+* [[IDE:IntelliJ IDEA Community Edition]] – Besonders beliebt für Java-Entwicklung, unterstützt aber auch viele andere Sprachen wie Kotlin, Groovy, und Scala.
+* [[IDE:Rider]] – Speziell für .NET-Entwicklung, unterstützt C#, F#, und VB.NET.
+* Eclipse – Häufig genutzt für Java-Entwicklung, aber auch für C/C++, PHP und andere Sprachen durch Plugins.
+* Vim/Neovim – Leichtgewichtige Editoren, oft im Terminal verwendet, beliebt bei Systemadministratoren und Entwicklern, die schnelle Navigation bevorzugen.
+* Azure Data Studio – Speziell für Datenbankentwicklung und -verwaltung, insbesondere für Microsoft SQL Server und Azure SQL.</text>
+      <sha1>i3o6cd9clrfadvpb1ijlvacchgn7kk9</sha1>
+    </revision>
+    <revision>
+      <id>855</id>
+      <parentid>853</parentid>
+      <timestamp>2025-11-13T18:16:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>855</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="770" sha1="gi3o6ix9qcwykmbn8rciwfxfl0yphd7" xml:space="preserve">Integrierte Entwicklungsumgebung (IDE)
+
+== Einsatzgebiet ==
+* [[IDE:Visual Studio Code]] – Vielseitig einsetzbar für Webentwicklung, Skripting, und viele Programmiersprachen durch Erweiterungen.
+* [[IDE:IntelliJ IDEA Community Edition]] – Besonders beliebt für Java-Entwicklung, unterstützt aber auch viele andere Sprachen wie Kotlin, Groovy, und Scala.
+* [[IDE:Eclipse]] – Häufig genutzt für Java-Entwicklung, aber auch für C/C++, PHP und andere Sprachen durch Plugins.
+* Vim/Neovim – Leichtgewichtige Editoren, oft im Terminal verwendet, beliebt bei Systemadministratoren und Entwicklern, die schnelle Navigation bevorzugen.
+* Azure Data Studio – Speziell für Datenbankentwicklung und -verwaltung, insbesondere für Microsoft SQL Server und Azure SQL.</text>
+      <sha1>gi3o6ix9qcwykmbn8rciwfxfl0yphd7</sha1>
+    </revision>
+    <revision>
+      <id>856</id>
+      <parentid>855</parentid>
+      <timestamp>2025-11-13T23:54:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>856</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="640" sha1="ojsui7qrxqwkjd9vldddtt43yx93u18" xml:space="preserve">Integrierte Entwicklungsumgebung (IDE)
+
+== Einsatzgebiet ==
+* [[IDE:Visual Studio Code]] – Vielseitig einsetzbar für Webentwicklung, Skripting, und viele Programmiersprachen durch Erweiterungen.
+* [[IDE:IntelliJ IDEA Community Edition]] – Besonders beliebt für Java-Entwicklung, unterstützt aber auch viele andere Sprachen wie Kotlin, Groovy, und Scala.
+* [[IDE:Eclipse]] – Häufig genutzt für Java-Entwicklung, aber auch für C/C++, PHP und andere Sprachen durch Plugins.
+* Vim/Neovim – Leichtgewichtige Editoren, oft im Terminal verwendet, beliebt bei Systemadministratoren und Entwicklern, die schnelle Navigation bevorzugen.</text>
+      <sha1>ojsui7qrxqwkjd9vldddtt43yx93u18</sha1>
+    </revision>
+    <revision>
+      <id>857</id>
+      <parentid>856</parentid>
+      <timestamp>2025-11-13T23:57:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>857</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="648" sha1="nser8bg555rd8d8t88y27mp9sgr7sow" xml:space="preserve">Integrierte Entwicklungsumgebung (IDE)
+
+== Einsatzgebiet ==
+* [[IDE:Visual Studio Code]] – Vielseitig einsetzbar für Webentwicklung, Skripting, und viele Programmiersprachen durch Erweiterungen.
+* [[IDE:IntelliJ IDEA Community Edition]] – Besonders beliebt für Java-Entwicklung, unterstützt aber auch viele andere Sprachen wie Kotlin, Groovy, und Scala.
+* [[IDE:Eclipse]] – Häufig genutzt für Java-Entwicklung, aber auch für C/C++, PHP und andere Sprachen durch Plugins.
+* [[IDE:Vim/Neovim]] – Leichtgewichtige Editoren, oft im Terminal verwendet, beliebt bei Systemadministratoren und Entwicklern, die schnelle Navigation bevorzugen.</text>
+      <sha1>nser8bg555rd8d8t88y27mp9sgr7sow</sha1>
+    </revision>
+    <revision>
+      <id>858</id>
+      <parentid>857</parentid>
+      <timestamp>2025-11-14T12:06:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>858</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="702" sha1="oiji4te7kmloxqhsjcir4k75hde6oyv" xml:space="preserve">Integrierte Entwicklungsumgebung (IDE)
+
+== Einsatzgebiet ==
+* [[IDE:Visual Studio Code]] – Vielseitig einsetzbar für Webentwicklung, Skripting, und viele Programmiersprachen durch Erweiterungen.
+* [[IDE:IntelliJ IDEA Community Edition]] – Besonders beliebt für Java-Entwicklung, unterstützt aber auch viele andere Sprachen wie Kotlin, Groovy, und Scala.
+* [[IDE:Rider]]
+* [[IDE:WebStotm]]
+* [[IDE:DataGrip]]
+* [[IDE:Eclipse]] – Häufig genutzt für Java-Entwicklung, aber auch für C/C++, PHP und andere Sprachen durch Plugins.
+* [[IDE:Vim/Neovim]] – Leichtgewichtige Editoren, oft im Terminal verwendet, beliebt bei Systemadministratoren und Entwicklern, die schnelle Navigation bevorzugen.</text>
+      <sha1>oiji4te7kmloxqhsjcir4k75hde6oyv</sha1>
+    </revision>
+    <revision>
+      <id>859</id>
+      <parentid>858</parentid>
+      <timestamp>2025-11-14T12:07:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>859</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="702" sha1="m3p466nbf3u7ymqyhoy2mpgr5q1bw2t" xml:space="preserve">Integrierte Entwicklungsumgebung (IDE)
+
+== Einsatzgebiet ==
+* [[IDE:Visual Studio Code]] – Vielseitig einsetzbar für Webentwicklung, Skripting, und viele Programmiersprachen durch Erweiterungen.
+* [[IDE:IntelliJ IDEA Community Edition]] – Besonders beliebt für Java-Entwicklung, unterstützt aber auch viele andere Sprachen wie Kotlin, Groovy, und Scala.
+* [[IDE:Rider]]
+* [[IDE:WebStorm]]
+* [[IDE:DataGrip]]
+* [[IDE:Eclipse]] – Häufig genutzt für Java-Entwicklung, aber auch für C/C++, PHP und andere Sprachen durch Plugins.
+* [[IDE:Vim/Neovim]] – Leichtgewichtige Editoren, oft im Terminal verwendet, beliebt bei Systemadministratoren und Entwicklern, die schnelle Navigation bevorzugen.</text>
+      <sha1>m3p466nbf3u7ymqyhoy2mpgr5q1bw2t</sha1>
+    </revision>
+    <revision>
+      <id>860</id>
+      <parentid>859</parentid>
+      <timestamp>2025-11-14T20:14:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>860</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="860" sha1="n231ikko8ljycsotwrirk9zt6by57yo" xml:space="preserve">Integrierte Entwicklungsumgebung (IDE)
+
+'''Wichtige Information:''' Eine integrierte Entwicklungsumgebung (IDE) vereint Werkzeuge wie Editor, Compiler, Debugger und Build-System in einer Anwendung, um die Softwareentwicklung effizienter zu gestalten.
+
+== Einsatzgebiet ==
+* [[IDE:Visual Studio Code]] – Vielseitig einsetzbar für Webentwicklung, Skripting, und viele Programmiersprachen durch Erweiterungen.
+* [[IDE:IntelliJ IDEA Community Edition]] – Besonders beliebt für Java-Entwicklung, unterstützt aber auch viele andere Sprachen wie Kotlin, Groovy, und Scala.
+* [[IDE:Eclipse]] – Häufig genutzt für Java-Entwicklung, aber auch für C/C++, PHP und andere Sprachen durch Plugins.
+* [[IDE:Vim/Neovim]] – Leichtgewichtige Editoren, oft im Terminal verwendet, beliebt bei Systemadministratoren und Entwicklern, die schnelle Navigation bevorzugen.</text>
+      <sha1>n231ikko8ljycsotwrirk9zt6by57yo</sha1>
+    </revision>
+    <revision>
+      <id>883</id>
+      <parentid>860</parentid>
+      <timestamp>2025-11-20T21:08:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>883</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="889" sha1="mj6ob8t45yif31xugf37kgfcir8hzdj" xml:space="preserve">Integrierte Entwicklungsumgebung (IDE)
+
+'''Wichtige Information:''' Eine integrierte Entwicklungsumgebung (IDE) vereint Werkzeuge wie Editor, Compiler, Debugger und Build-System in einer Anwendung, um die Softwareentwicklung effizienter zu gestalten.
+
+== Einsatzgebiet ==
+* [[IDE:Visual Studio Code]] – Vielseitig einsetzbar für Webentwicklung, Skripting, und viele Programmiersprachen durch Erweiterungen.
+* [[IDE:IntelliJ IDEA Community Edition]] – Besonders beliebt für Java-Entwicklung, unterstützt aber auch viele andere Sprachen wie Kotlin, Groovy, und Scala.
+* [[IDE:Eclipse]] – Häufig genutzt für Java-Entwicklung, aber auch für C/C++, PHP und andere Sprachen durch Plugins.
+* [[IDE:Vim/Neovim]] – Leichtgewichtige Editoren, oft im Terminal verwendet, beliebt bei Systemadministratoren und Entwicklern, die schnelle Navigation bevorzugen.
+* [[IDE:Google Antigravity]]</text>
+      <sha1>mj6ob8t45yif31xugf37kgfcir8hzdj</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>IDE:Visual Studio Code</title>
+    <ns>3008</ns>
+    <id>193</id>
+    <revision>
+      <id>850</id>
+      <timestamp>2025-11-13T04:02:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>850</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="931" sha1="qcstd3pph3t4vuwm327gk93bu4dvjm3" xml:space="preserve">==Visual Studio Code==
+===Java EE===
+
+Java EE (Java Platform, Enterprise Edition) ist eine Plattform zur Entwicklung und Ausführung von Unternehmensanwendungen in der Programmiersprache Java. Sie bietet APIs und Laufzeitumgebungen für Webanwendungen, Servlets, EJBs und mehr.
+===Community Server Connector Erweiterung installieren===
+
+# Öffnen Sie Visual Studio Code
+# Klicken Sie auf das Erweiterungs-Symbol in der Seitenleiste (oder drücken Sie {{kbd|Ctrl|Shift|X}})
+# Suchen Sie nach "Community Server Connector"
+# Klicken Sie auf "Installieren"
+===Warum braucht man den Community Server Connector?===
+
+Der Community Server Connector ermöglicht die Verbindung von Visual Studio Code mit verschiedenen Community-Servern (z.B. für Content-Management-Systeme oder Entwicklungsumgebungen). Damit können Sie direkt aus VS Code heraus auf Server-Ressourcen zugreifen, Dateien synchronisieren und Projekte effizienter verwalten.</text>
+      <sha1>qcstd3pph3t4vuwm327gk93bu4dvjm3</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>IDE:IntelliJ IDEA Community Edition</title>
+    <ns>3008</ns>
+    <id>194</id>
+    <revision>
+      <id>854</id>
+      <timestamp>2025-11-13T17:51:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>854</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1497" sha1="0dbvtpdl71clzwqrle1o2q0enlwdvb1" xml:space="preserve">===Tomcat 11 in IntelliJ IDEA Community Edition installieren===
+
+Um Apache Tomcat 11 in IntelliJ IDEA Community Edition zu installieren und zu verwenden, folge diesen Schritten:
+
+# Lade Tomcat 11 von der [offiziellen Apache Tomcat Webseite](https://tomcat.apache.org/) herunter und entpacke das Archiv an einen gewünschten Ort.
+# Öffne IntelliJ IDEA Community Edition.
+# Erstelle ein neues Java-Projekt oder öffne ein bestehendes Projekt.
+# Klicke im Menü auf '''File''' → '''Project Structure''' (oder drücke &lt;kbd&gt;Strg+Alt+Shift+S&lt;/kbd&gt;).
+# Gehe zu '''Libraries''' und füge die Tomcat-Bibliotheken (aus dem entpackten Tomcat-Ordner, z.B. im Verzeichnis `lib`) hinzu, falls dein Projekt diese benötigt.
+# Da die Community Edition keine direkte Unterstützung für Application Server bietet, kannst du Tomcat nicht als "Application Server" konfigurieren. Du kannst aber:
+## Deine Anwendung als WAR-Datei exportieren und im Tomcat-Webapps-Ordner ablegen.
+## Oder Tomcat extern starten und deine Anwendung dort bereitstellen.
+# Starte Tomcat über das Terminal oder die Eingabeaufforderung mit:
+## Unter Windows: 
+    &lt;code&gt;bin\startup.bat&lt;/code&gt;
+## Unter Linux/macOS: 
+    &lt;code&gt;bin/startup.sh&lt;/code&gt;
+# Rufe im Browser [http://localhost:8080](http://localhost:8080) auf, um zu prüfen, ob Tomcat läuft.
+
+'''Hinweis:''' Für eine komfortablere Integration empfiehlt sich die Ultimate Edition von IntelliJ IDEA, da diese eine direkte Unterstützung für Application Server wie Tomcat bietet.</text>
+      <sha1>0dbvtpdl71clzwqrle1o2q0enlwdvb1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Voraussetzungen für ASP.NET Core (C</title>
+    <ns>3002</ns>
+    <id>195</id>
+    <revision>
+      <id>865</id>
+      <timestamp>2025-11-17T02:32:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>865</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1005" sha1="hx23jh58s2pfwyarabjkz1sollguc74" xml:space="preserve">= Voraussetzungen für ASP.NET Core (C#) und Spring Boot/Java EE (Java) =
+== Voraussetzungen für ASP.NET Core MVC mit C# ==
+=== C#-Grundlagen ===
+* Syntax (Variablen, Datentypen, Operatoren)
+* Kontrollstrukturen (if, switch, for, foreach, while)
+* Methoden, Parameter, Rückgabewerte
+* OOP: Klassen, Objekte, Vererbung, Interfaces
+* Fehlerbehandlung (try-catch), using/IDisposable
+* Collections und Generics (Listen, Dictionaries)
+* LINQ-Grundlagen, async/await, Tasks
+* Namespaces, Assemblies, Projektstruktur
+
+
+== Voraussetzungen für Spring Boot und Java EE mit Java ==
+=== Java-Grundlagen ===
+* Sprachsyntax: primitive und Referenztypen, Operatoren
+* Kontrollfluss: Verzweigungen und Schleifen
+* Methoden, Überladung, Rückgabetypen
+* OOP: Klassen, Vererbung, Interfaces, Kapselung
+* Fehlerbehandlung: try-catch-finally, try-with-resources (AutoCloseable)
+* Collections-Framework, Generics, Streams
+* Lambdas und Functional Interfaces
+* Nebenläufigkeit: Threads, Executor-Service, CompletableFuture</text>
+      <sha1>hx23jh58s2pfwyarabjkz1sollguc74</sha1>
+    </revision>
+    <revision>
+      <id>866</id>
+      <parentid>865</parentid>
+      <timestamp>2025-11-17T02:34:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>866</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="932" sha1="mhdqxtcc0fjg5h3xm9hxpsfe7g60qn8" xml:space="preserve">
+== Voraussetzungen für ASP.NET Core MVC mit C# ==
+=== C#-Grundlagen ===
+* Syntax (Variablen, Datentypen, Operatoren)
+* Kontrollstrukturen (if, switch, for, foreach, while)
+* Methoden, Parameter, Rückgabewerte
+* OOP: Klassen, Objekte, Vererbung, Interfaces
+* Fehlerbehandlung (try-catch), using/IDisposable
+* Collections und Generics (Listen, Dictionaries)
+* LINQ-Grundlagen, async/await, Tasks
+* Namespaces, Assemblies, Projektstruktur
+
+
+== Voraussetzungen für Spring Boot und Java EE mit Java ==
+=== Java-Grundlagen ===
+* Sprachsyntax: primitive und Referenztypen, Operatoren
+* Kontrollfluss: Verzweigungen und Schleifen
+* Methoden, Überladung, Rückgabetypen
+* OOP: Klassen, Vererbung, Interfaces, Kapselung
+* Fehlerbehandlung: try-catch-finally, try-with-resources (AutoCloseable)
+* Collections-Framework, Generics, Streams
+* Lambdas und Functional Interfaces
+* Nebenläufigkeit: Threads, Executor-Service, CompletableFuture</text>
+      <sha1>mhdqxtcc0fjg5h3xm9hxpsfe7g60qn8</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Voraussetzungen für ASP.NET Core (C) und Spring Boot/Java EE (Java)</title>
+    <ns>3002</ns>
+    <id>196</id>
+    <revision>
+      <id>867</id>
+      <timestamp>2025-11-17T02:42:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>867</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="931" sha1="559vcvnd44yehves6da7icn6h0704nb" xml:space="preserve">== Voraussetzungen für ASP.NET Core MVC mit C# ==
+=== C#-Grundlagen ===
+* Syntax (Variablen, Datentypen, Operatoren)
+* Kontrollstrukturen (if, switch, for, foreach, while)
+* Methoden, Parameter, Rückgabewerte
+* OOP: Klassen, Objekte, Vererbung, Interfaces
+* Fehlerbehandlung (try-catch), using/IDisposable
+* Collections und Generics (Listen, Dictionaries)
+* LINQ-Grundlagen, async/await, Tasks
+* Namespaces, Assemblies, Projektstruktur
+
+
+== Voraussetzungen für Spring Boot und Java EE mit Java ==
+=== Java-Grundlagen ===
+* Sprachsyntax: primitive und Referenztypen, Operatoren
+* Kontrollfluss: Verzweigungen und Schleifen
+* Methoden, Überladung, Rückgabetypen
+* OOP: Klassen, Vererbung, Interfaces, Kapselung
+* Fehlerbehandlung: try-catch-finally, try-with-resources (AutoCloseable)
+* Collections-Framework, Generics, Streams
+* Lambdas und Functional Interfaces
+* Nebenläufigkeit: Threads, Executor-Service, CompletableFuture</text>
+      <sha1>559vcvnd44yehves6da7icn6h0704nb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Voraussetzungen für ASP.NET Core (C-Sharp) und Spring Boot/Java EE (Java)</title>
+    <ns>3002</ns>
+    <id>197</id>
+    <revision>
+      <id>868</id>
+      <timestamp>2025-11-17T02:43:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>868</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="931" sha1="559vcvnd44yehves6da7icn6h0704nb" xml:space="preserve">== Voraussetzungen für ASP.NET Core MVC mit C# ==
+=== C#-Grundlagen ===
+* Syntax (Variablen, Datentypen, Operatoren)
+* Kontrollstrukturen (if, switch, for, foreach, while)
+* Methoden, Parameter, Rückgabewerte
+* OOP: Klassen, Objekte, Vererbung, Interfaces
+* Fehlerbehandlung (try-catch), using/IDisposable
+* Collections und Generics (Listen, Dictionaries)
+* LINQ-Grundlagen, async/await, Tasks
+* Namespaces, Assemblies, Projektstruktur
+
+
+== Voraussetzungen für Spring Boot und Java EE mit Java ==
+=== Java-Grundlagen ===
+* Sprachsyntax: primitive und Referenztypen, Operatoren
+* Kontrollfluss: Verzweigungen und Schleifen
+* Methoden, Überladung, Rückgabetypen
+* OOP: Klassen, Vererbung, Interfaces, Kapselung
+* Fehlerbehandlung: try-catch-finally, try-with-resources (AutoCloseable)
+* Collections-Framework, Generics, Streams
+* Lambdas und Functional Interfaces
+* Nebenläufigkeit: Threads, Executor-Service, CompletableFuture</text>
+      <sha1>559vcvnd44yehves6da7icn6h0704nb</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ahrensburg Nachrichten Website</title>
+    <ns>0</ns>
+    <id>198</id>
+    <revision>
+      <id>877</id>
+      <timestamp>2025-11-19T13:49:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>877</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="603" sha1="2rjjy06afczhtvsfvruh1hshkos72jo" xml:space="preserve">==Ahrensburg Nachrichten Website==
+==Ahrensburg Nachrichten Website==
+* Ahrensburg‑Portal – Ein lokales Nachrichtenportal mit aktuellen Informationen, Veranstaltungen und Neuigkeiten aus Ahrensburg.
+* ahrensburg.city – Eine Website mit Stadtinformationen, Branchenverzeichnis und lokalen Angeboten für Ahrensburg.
+* ahrensburg.de – Die offizielle Website der Stadt Ahrensburg mit amtlichen Bekanntmachungen, Bürgerservice und Informationen zur Stadtverwaltung.
+* Presseportal – Aktuelle Polizeimeldungen und Blaulichtnachrichten aus Ahrensburg: https://presseportal.de/blaulicht/r/Ahrensburg</text>
+      <sha1>2rjjy06afczhtvsfvruh1hshkos72jo</sha1>
+    </revision>
+    <revision>
+      <id>878</id>
+      <parentid>877</parentid>
+      <timestamp>2025-11-19T13:51:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>878</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="533" sha1="hpsuqano1tew3uo4h8rubrc8gqj9edv" xml:space="preserve">* Ahrensburg‑Portal – Ein lokales Nachrichtenportal mit aktuellen Informationen, Veranstaltungen und Neuigkeiten aus Ahrensburg.
+* ahrensburg.city – Eine Website mit Stadtinformationen, Branchenverzeichnis und lokalen Angeboten für Ahrensburg.
+* ahrensburg.de – Die offizielle Website der Stadt Ahrensburg mit amtlichen Bekanntmachungen, Bürgerservice und Informationen zur Stadtverwaltung.
+* Presseportal – Aktuelle Polizeimeldungen und Blaulichtnachrichten aus Ahrensburg: https://presseportal.de/blaulicht/r/Ahrensburg</text>
+      <sha1>hpsuqano1tew3uo4h8rubrc8gqj9edv</sha1>
+    </revision>
+    <revision>
+      <id>879</id>
+      <parentid>878</parentid>
+      <timestamp>2025-11-19T14:59:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>879</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1536" sha1="7idlvpsien383d2yccix4nad428jwyg" xml:space="preserve">* [https://ahrensburg-portal.de/ ahrensburg-portal.de]  – Ein lokales Nachrichtenportal mit aktuellen Informationen, Veranstaltungen und Neuigkeiten aus Ahrensburg.
+* [https://ahrensburg.city/ ahrensburg.city] – Eine Website mit Stadtinformationen, Branchenverzeichnis und lokalen Angeboten für Ahrensburg.
+* [https://ahrensburg.de/ ahrensburg.de] – Die offizielle Website der Stadt Ahrensburg mit amtlichen Bekanntmachungen, Bürgerservice und Informationen zur Stadtverwaltung.
+* [https://presseportal.de/blaulicht/r/Ahrensburg Presseportal] – Aktuelle Polizeimeldungen und Blaulichtnachrichten aus Ahrensburg.
+* [https://www.ln-online.de/themen/ahrensburg/ LN-Online Ahrensburg] – Lokale Nachrichten und Berichte aus Ahrensburg von den Lübecker Nachrichten.
+* [https://www.shz.de/lokales/ahrensburg SHZ Ahrensburg] – Regionale Nachrichten und Informationen aus Ahrensburg vom Schleswig-Holsteinischen Zeitungsverlag.
+* [https://www.abendblatt.de/schleswig-holstein/stormarn/polizei-ahrensburg-aktuell/   Hamburger Abendblatt Ahrensburg] – Aktuelle Nachrichten und Polizeiberichte aus Ahrensburg vom Hamburger Abendblatt.
+* [https://www.ndr.de/nachrichten/schleswig-holstein/ahrensburg-aktuelle-nachrichten-und-videos,ahrensburg402.html NDR Schleswig-Holstein Ahrensburg] – Nachrichten, Videos und Berichte aus Ahrensburg vom Norddeutschen Rundfunk.
+* [https://www.facebook.com/AhrensburgAktuell/ Ahrensburg Aktuell auf facebook] – Eine Facebook-Seite, die aktuelle Nachrichten und Ereignisse aus Ahrensburg teilt.</text>
+      <sha1>7idlvpsien383d2yccix4nad428jwyg</sha1>
+    </revision>
+    <revision>
+      <id>880</id>
+      <parentid>879</parentid>
+      <timestamp>2025-11-19T15:00:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>880</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1369" sha1="juzygvopuj2w0f8vxckg5wu1uimb336" xml:space="preserve">* [https://ahrensburg-portal.de/ ahrensburg-portal.de]  – Ein lokales Nachrichtenportal mit aktuellen Informationen, Veranstaltungen und Neuigkeiten aus Ahrensburg.
+* [https://ahrensburg.city/ ahrensburg.city] – Eine Website mit Stadtinformationen, Branchenverzeichnis und lokalen Angeboten für Ahrensburg.
+* [https://ahrensburg.de/ ahrensburg.de] – Die offizielle Website der Stadt Ahrensburg mit amtlichen Bekanntmachungen, Bürgerservice und Informationen zur Stadtverwaltung.
+* [https://presseportal.de/blaulicht/r/Ahrensburg Presseportal] – Aktuelle Polizeimeldungen und Blaulichtnachrichten aus Ahrensburg.
+* [https://www.ln-online.de/themen/ahrensburg/ LN-Online Ahrensburg] – Lokale Nachrichten und Berichte aus Ahrensburg von den Lübecker Nachrichten.
+* [https://www.shz.de/lokales/ahrensburg SHZ Ahrensburg] – Regionale Nachrichten und Informationen aus Ahrensburg vom Schleswig-Holsteinischen Zeitungsverlag.
+* [https://www.abendblatt.de/schleswig-holstein/stormarn/polizei-ahrensburg-aktuell/   Hamburger Abendblatt Ahrensburg] – Aktuelle Nachrichten und Polizeiberichte aus Ahrensburg vom Hamburger Abendblatt.
+* [https://www.ndr.de/nachrichten/schleswig-holstein/ahrensburg-aktuelle-nachrichten-und-videos,ahrensburg402.html NDR Schleswig-Holstein Ahrensburg] – Nachrichten, Videos und Berichte aus Ahrensburg vom Norddeutschen Rundfunk.</text>
+      <sha1>juzygvopuj2w0f8vxckg5wu1uimb336</sha1>
+    </revision>
+    <revision>
+      <id>881</id>
+      <parentid>880</parentid>
+      <timestamp>2025-11-19T15:02:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>881</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1373" sha1="celhi5avlpgycqh6ousg3g8efactuee" xml:space="preserve">* [https://ahrensburg-portal.de/ ahrensburg-portal.de]  – Ein lokales Nachrichtenportal mit aktuellen Informationen, Veranstaltungen und Neuigkeiten aus Ahrensburg.
+* [https://www.ahrensburg.city/ ahrensburg.city] – Eine Website mit Stadtinformationen, Branchenverzeichnis und lokalen Angeboten für Ahrensburg.
+* [https://ahrensburg.de/ ahrensburg.de] – Die offizielle Website der Stadt Ahrensburg mit amtlichen Bekanntmachungen, Bürgerservice und Informationen zur Stadtverwaltung.
+* [https://presseportal.de/blaulicht/r/Ahrensburg Presseportal] – Aktuelle Polizeimeldungen und Blaulichtnachrichten aus Ahrensburg.
+* [https://www.ln-online.de/themen/ahrensburg/ LN-Online Ahrensburg] – Lokale Nachrichten und Berichte aus Ahrensburg von den Lübecker Nachrichten.
+* [https://www.shz.de/lokales/ahrensburg SHZ Ahrensburg] – Regionale Nachrichten und Informationen aus Ahrensburg vom Schleswig-Holsteinischen Zeitungsverlag.
+* [https://www.abendblatt.de/schleswig-holstein/stormarn/polizei-ahrensburg-aktuell/   Hamburger Abendblatt Ahrensburg] – Aktuelle Nachrichten und Polizeiberichte aus Ahrensburg vom Hamburger Abendblatt.
+* [https://www.ndr.de/nachrichten/schleswig-holstein/ahrensburg-aktuelle-nachrichten-und-videos,ahrensburg402.html NDR Schleswig-Holstein Ahrensburg] – Nachrichten, Videos und Berichte aus Ahrensburg vom Norddeutschen Rundfunk.</text>
+      <sha1>celhi5avlpgycqh6ousg3g8efactuee</sha1>
+    </revision>
+    <revision>
+      <id>884</id>
+      <parentid>881</parentid>
+      <timestamp>2025-11-21T03:30:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>884</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2264" sha1="ix0t5vkarde0c8ltka040e13e9g4qq9" xml:space="preserve">* [https://ahrensburg-portal.de/ ahrensburg-portal.de]  – Ein lokales Nachrichtenportal mit aktuellen Informationen, Veranstaltungen und Neuigkeiten aus Ahrensburg.
+* [https://www.ahrensburg.city/ ahrensburg.city] – Eine Website mit Stadtinformationen, Branchenverzeichnis und lokalen Angeboten für Ahrensburg.
+* [https://ahrensburg.de/ ahrensburg.de] – Die offizielle Website der Stadt Ahrensburg mit amtlichen Bekanntmachungen, Bürgerservice und Informationen zur Stadtverwaltung.
+* [https://presseportal.de/blaulicht/r/Ahrensburg Presseportal] – Aktuelle Polizeimeldungen und Blaulichtnachrichten aus Ahrensburg.
+* [https://www.ln-online.de/themen/ahrensburg/ LN-Online Ahrensburg] – Lokale Nachrichten und Berichte aus Ahrensburg von den Lübecker Nachrichten.
+* [https://www.shz.de/lokales/ahrensburg SHZ Ahrensburg] – Regionale Nachrichten und Informationen aus Ahrensburg vom Schleswig-Holsteinischen Zeitungsverlag.
+* [https://www.abendblatt.de/schleswig-holstein/stormarn/polizei-ahrensburg-aktuell/   Hamburger Abendblatt Ahrensburg] – Aktuelle Nachrichten und Polizeiberichte aus Ahrensburg vom Hamburger Abendblatt.
+* [https://www.ndr.de/nachrichten/schleswig-holstein/ahrensburg-aktuelle-nachrichten-und-videos,ahrensburg402.html NDR Schleswig-Holstein Ahrensburg] – Nachrichten, Videos und Berichte aus Ahrensburg vom Norddeutschen Rundfunk.
+
+==Suchmaschinen mit KI-Unterstützung==
+* [https://www.google.com Google Ki] – Die weltweit führende Suchmaschine mit KI-gestützten Funktionen für präzisere Suchergebnisse.
+* [https://www.bing.com Bing KI]
+* [https://www.duckduckgo.com DuckDuckGo KI]
+==KI Suchmaschinen==
+* [https://www.perplexity.ai/ Perplexity AI] – Eine KI-gestützte Suchmaschine, die präzise Antworten auf komplexe Fragen liefert.
+* [https://www.you.com/ You.com] – Eine anpassbare Suchmaschine mit KI-Integration für personalisierte Suchergebnisse.
+* [https://www.phind.com/ Phind] – Suchmaschine speziell für Entwickler, nutzt KI zur Beantwortung technischer Fragen.
+==Nachrichten Suchmaschinen==
+* [https://www.google.com/news Google News] – Aggregiert Nachrichten aus verschiedenen Quellen weltweit.
+* [https://www.bing.com/news Bing News] – Bietet aktuelle Nachrichtenartikel und Schlagzeilen.</text>
+      <sha1>ix0t5vkarde0c8ltka040e13e9g4qq9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ai:Codex</title>
+    <ns>3004</ns>
+    <id>199</id>
+    <revision>
+      <id>882</id>
+      <timestamp>2025-11-19T22:20:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>882</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="184" sha1="5i07c4mh48ckqotblsscsqwd8j6crgo" xml:space="preserve">* [https://chat.openai.com/ ChatGPT (OpenAI codex)]
+* [https://github.com/copilot GitHub Copilot]
+* [https://gemini.google.com/ Gemini Code Assist]
+* [https://www.amazon.com/ Amazon Q]</text>
+      <sha1>5i07c4mh48ckqotblsscsqwd8j6crgo</sha1>
     </revision>
   </page>
 </mediawiki>
