@@ -103,6 +103,12 @@ $wgExtraNamespaces[NS_BACKUP] = "Backup";
 $wgExtraNamespaces[NS_BACKUP_TALK] = "Backup_Diskussion";
 $wgVisualEditorAvailableNamespaces[] = NS_BACKUP;
 
+$wgExtraNamespaces[NS_Nachrichten] = "Nachrichten";
+$wgExtraNamespaces[NS_Nachrichten_TALK] = "Nachrichten_Diskussion";
+$wgVisualEditorAvailableNamespaces[] = NS_Nachrichten;
+define("NS_Nachrichten", 3014);
+define("NS_Nachrichten_TALK", 3015);
+
 ```
 
 
