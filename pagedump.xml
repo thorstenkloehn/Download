@@ -38,6 +38,8 @@
       <namespace key="3011" case="first-letter">Builder Diskussion</namespace>
       <namespace key="3012" case="first-letter">Backup</namespace>
       <namespace key="3013" case="first-letter">Backup Diskussion</namespace>
+      <namespace key="3014" case="first-letter">Nachrichten</namespace>
+      <namespace key="3015" case="first-letter">Nachrichten Diskussion</namespace>
     </namespaces>
   </siteinfo>
   <page>
@@ -1271,6 +1273,75 @@ Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert
 ==Technik==
 * [[Webframework]]</text>
       <sha1>ptj8caw2h6ngpbcgs634cqvlod9dv2q</sha1>
+    </revision>
+    <revision>
+      <id>894</id>
+      <parentid>876</parentid>
+      <timestamp>2025-11-30T22:35:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>894</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1301" sha1="emiyz9ualrkfnkr3s7kld8hg3nyh1yd" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+&lt;/DynamicPageList&gt;
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+==Technik==
+* [[Webframework]]</text>
+      <sha1>emiyz9ualrkfnkr3s7kld8hg3nyh1yd</sha1>
+    </revision>
+    <revision>
+      <id>895</id>
+      <parentid>894</parentid>
+      <timestamp>2025-11-30T22:56:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Nachrichten */</comment>
+      <origin>895</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1324" sha1="8jal1zw771tvku8rd1ix57ddvpf3l03" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+==Technik==
+* [[Webframework]]</text>
+      <sha1>8jal1zw771tvku8rd1ix57ddvpf3l03</sha1>
     </revision>
   </page>
   <page>
@@ -11839,6 +11910,68 @@ Zusammenfassend sucht ASP.NET Core eine View &lt;code&gt;MeineView&lt;/code&gt; 
 * [[Kurse:Alternativen zu Drupal (CMS)]]
 * [[Kurse:Voraussetzungen für ASP.NET Core (C-Sharp) und Spring Boot/Java EE (Java)]]</text>
       <sha1>72qjie0uc5qj0yceti79e7jllmu0nxx</sha1>
+    </revision>
+    <revision>
+      <id>930</id>
+      <parentid>869</parentid>
+      <timestamp>2025-12-12T03:14:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>930</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="302" sha1="brhim8kjeyaq5wiz53j5pm19bidmtye" xml:space="preserve">* [[Kurse:Lerntechnik]]
+* [[Kurse:asp net core Alle Konzept ]]
+* [[Kurse:Cms Webramework in asp net core]]
+* [[Kurse:Asp net core leer]]
+* [[Kurse:Alternativen zu Drupal (CMS)]]
+* [[Kurse:Voraussetzungen für ASP.NET Core (C-Sharp) und Spring Boot/Java EE (Java)]]
+* [[Kurse:Java Full Stack Developer]]</text>
+      <sha1>brhim8kjeyaq5wiz53j5pm19bidmtye</sha1>
+    </revision>
+    <revision>
+      <id>934</id>
+      <parentid>930</parentid>
+      <timestamp>2025-12-12T03:35:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>934</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="327" sha1="oep252hclzvvrp0q6oz7erpmgqc35z0" xml:space="preserve">* [[Kurse:Lerntechnik]]
+* [[Kurse:asp net core Alle Konzept ]]
+* [[Kurse:Cms Webramework in asp net core]]
+* [[Kurse:Asp net core leer]]
+* [[Kurse:Alternativen zu Drupal (CMS)]]
+* [[Kurse:Voraussetzungen für ASP.NET Core (C-Sharp) und Spring Boot/Java EE (Java)]]
+* [[Kurse:Java Full Stack Developer]]
+* [[Kurse:Asp Net Core]]</text>
+      <sha1>oep252hclzvvrp0q6oz7erpmgqc35z0</sha1>
+    </revision>
+    <revision>
+      <id>935</id>
+      <parentid>934</parentid>
+      <timestamp>2025-12-12T03:35:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>935</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="348" sha1="59j4zvuplj8w4lt8bba1znvxg3rxuyd" xml:space="preserve">* [[Kurse:Lerntechnik]]
+* [[Kurse:asp net core Alle Konzept ]]
+* [[Kurse:Cms Webramework in asp net core]]
+* [[Kurse:Asp net core leer]]
+* [[Kurse:Alternativen zu Drupal (CMS)]]
+* [[Kurse:Voraussetzungen für ASP.NET Core (C-Sharp) und Spring Boot/Java EE (Java)]]
+* [[Kurse:Java Full Stack Developer]]
+* [[Kurse:Asp Net Core Full Stack Developer]]</text>
+      <sha1>59j4zvuplj8w4lt8bba1znvxg3rxuyd</sha1>
     </revision>
   </page>
   <page>
@@ -31737,6 +31870,1239 @@ code --install-extension AvaloniaTeam.vscode-avalonia
 &lt;/pre&gt;</text>
       <sha1>q4czuyym09im1jxhjyn4sh0qvcp9xsy</sha1>
     </revision>
+    <revision>
+      <id>913</id>
+      <parentid>874</parentid>
+      <timestamp>2025-12-04T23:17:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Golang */</comment>
+      <origin>913</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5124" sha1="ef19ptsg2y7tiloy4clpbr04yb1q5g4" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+ &lt;code&gt;sudo apt-get install neovim&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.5.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.5.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+ dotnet new install OrchardCore.ProjectTemplates::2.2.0
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-26-jdk
+sudo apt install maven 
+
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+sudo snap install intellij-idea-community --classic
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.vscode-avalonia
+&lt;/pre&gt;</text>
+      <sha1>ef19ptsg2y7tiloy4clpbr04yb1q5g4</sha1>
+    </revision>
+    <revision>
+      <id>914</id>
+      <parentid>913</parentid>
+      <timestamp>2025-12-05T00:08:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Java */</comment>
+      <origin>914</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5073" sha1="ptogeusd6drcurhah63bqumf6ijifi8" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+ &lt;code&gt;sudo apt-get install neovim&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.5.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.5.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+ dotnet new install OrchardCore.ProjectTemplates::2.2.0
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-26-jdk
+sudo apt install maven 
+
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+
+&lt;/pre&gt;
+
+== Avalonia Installieren ==
+
+=== Voraussetzungen ===
+Stellen Sie sicher, dass .NET SDK installiert ist (siehe Abschnitt "dotnet").
+
+=== Avalonia Templates installieren ===
+&lt;code&gt;
+dotnet new install Avalonia.Templates
+&lt;/code&gt;
+
+=== Neues Avalonia-Projekt erstellen ===
+&lt;code&gt;
+dotnet new avalonia.app -o MeinAvaloniaApp
+cd MeinAvaloniaApp
+dotnet run
+&lt;/code&gt;
+
+=== Visual Studio Code Extensions ===
+Installieren Sie folgende Erweiterungen für die Entwicklung mit Avalonia:
+&lt;pre&gt;
+code --install-extension ms-dotnettools.csdevkit
+code --install-extension AvaloniaTeam.vscode-avalonia
+&lt;/pre&gt;</text>
+      <sha1>ptogeusd6drcurhah63bqumf6ijifi8</sha1>
+    </revision>
+    <revision>
+      <id>915</id>
+      <parentid>914</parentid>
+      <timestamp>2025-12-05T00:08:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Avalonia Installieren */</comment>
+      <origin>915</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4487" sha1="cp2a3we6j0if79st6msna1adq3w9cz8" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+ &lt;code&gt;sudo apt-get install neovim&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.5.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.5.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+ dotnet new install OrchardCore.ProjectTemplates::2.2.0
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-26-jdk
+sudo apt install maven 
+
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+
+&lt;/pre&gt;</text>
+      <sha1>cp2a3we6j0if79st6msna1adq3w9cz8</sha1>
+    </revision>
+    <revision>
+      <id>919</id>
+      <parentid>915</parentid>
+      <timestamp>2025-12-08T12:50:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* dotnet */</comment>
+      <origin>919</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4522" sha1="cvs6pyp4ffmtec4gs4qwq30i53g87ur" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+ &lt;code&gt;sudo apt-get install neovim&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.5.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.5.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+ dotnet new install OrchardCore.ProjectTemplates::2.2.0
+ sudo snap install rider --classic
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-26-jdk
+sudo apt install maven 
+
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+
+&lt;/pre&gt;</text>
+      <sha1>cvs6pyp4ffmtec4gs4qwq30i53g87ur</sha1>
+    </revision>
+    <revision>
+      <id>920</id>
+      <parentid>919</parentid>
+      <timestamp>2025-12-08T12:54:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Java */</comment>
+      <origin>920</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4563" sha1="qrn4ggxf1v9gf0qr2tnuife29d8fgoy" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+ &lt;code&gt;sudo apt-get install neovim&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.5.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.5.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+ dotnet new install OrchardCore.ProjectTemplates::2.2.0
+ sudo snap install rider --classic
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-26-jdk
+sudo apt install maven 
+
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+sudo snap install intellij-idea --classic
+&lt;/pre&gt;</text>
+      <sha1>qrn4ggxf1v9gf0qr2tnuife29d8fgoy</sha1>
+    </revision>
+    <revision>
+      <id>922</id>
+      <parentid>920</parentid>
+      <timestamp>2025-12-08T13:17:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* dotnet */</comment>
+      <origin>922</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4472" sha1="e21l5awrcfh12ctdbnplbop4fawci7b" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+ &lt;code&gt;sudo apt-get install neovim&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.5.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.5.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-26-jdk
+sudo apt install maven 
+
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+sudo snap install intellij-idea --classic
+&lt;/pre&gt;</text>
+      <sha1>e21l5awrcfh12ctdbnplbop4fawci7b</sha1>
+    </revision>
+    <revision>
+      <id>923</id>
+      <parentid>922</parentid>
+      <timestamp>2025-12-09T03:44:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* dotnet */</comment>
+      <origin>923</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4528" sha1="n6z3o3c2qfey0ggkn7m5havvacqzihh" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+ &lt;code&gt;sudo apt-get install neovim&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.5.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.5.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+ dotnet new install OrchardCore.ProjectTemplates::2.2.0
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-26-jdk
+sudo apt install maven 
+
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+sudo snap install intellij-idea --classic
+&lt;/pre&gt;</text>
+      <sha1>n6z3o3c2qfey0ggkn7m5havvacqzihh</sha1>
+    </revision>
+    <revision>
+      <id>924</id>
+      <parentid>923</parentid>
+      <timestamp>2025-12-09T03:46:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* dotnet */</comment>
+      <origin>924</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4528" sha1="pn7tkww5cg38p5yzhq8dmbxzzehqftm" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ &lt;code&gt;sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev&lt;/code&gt;
+
+== Google Chrome Installieren ==
+ 
+ &lt;code&gt;wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb&lt;/code&gt;
+
+== Git Installieren ==
+ &lt;code&gt;sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"&lt;/code&gt;
+
+== gh Konfigurieren ==
+ &lt;code&gt;gh auth login&lt;/code&gt;
+
+== Nodejs Installieren ==
+ &lt;code&gt;sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".&lt;/code&gt;
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ &lt;code&gt;sudo snap install code --classic&lt;/code&gt;
+ &lt;code&gt;sudo apt-get install neovim&lt;/code&gt;
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ &lt;code&gt;code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio&lt;/code&gt;
+
+== Datenbank ==
+
+=== PostgreSQL ===
+
+==== Installation ====
+ &lt;pre&gt;sudo apt-get install postgresql-all
+  sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit # Ausloggen
+&lt;/pre&gt;
+=== PosgreSQL Version zeigen ===
+ &lt;code&gt;psql --version&lt;/code&gt;
+
+=== Postgis Installation in Ubuntu 23.04 ===
+&lt;pre&gt;
+sudo apt-get install postgis postgresql-16-postgis-3
+sudo -u postgres -i
+psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+exit # Ausloggen
+&lt;/pre&gt;
+
+== C und C++ Installieren ==
+ &lt;code&gt;sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb&lt;/code&gt;
+
+== Python Installieren ==
+ &lt;code&gt;sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python&lt;/code&gt;
+
+== Rust ==
+ &lt;code&gt;curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer&lt;/code&gt;
+
+== Golang ==
+ &lt;code&gt;cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.5.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.5.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc&lt;/code&gt;
+
+== dotnet ==
+ &lt;code&gt;sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung&lt;/code&gt;
+ dotnet new install OrchardCore.ProjectTemplates::2.2.1
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Java==
+&lt;pre&gt;
+sudo apt install openjdk-26-jdk
+sudo apt install maven 
+
+code --install-extension  vscjava.vscode-java-pack
+code --install-extension vmware.vscode-boot-dev-pack
+sudo snap install intellij-idea --classic
+&lt;/pre&gt;</text>
+      <sha1>pn7tkww5cg38p5yzhq8dmbxzzehqftm</sha1>
+    </revision>
   </page>
   <page>
     <title>Verkehrsanbindung</title>
@@ -45060,6 +46426,63 @@ sudo systemctl restart postgresql
 * [[Game Enging]]</text>
       <sha1>4t7zgc5nzbuxubwscdyjxu8vfl3pydo</sha1>
     </revision>
+    <revision>
+      <id>927</id>
+      <parentid>802</parentid>
+      <timestamp>2025-12-11T11:17:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>927</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="441" sha1="k018j5rcxsehq44yyqyed32w2o66csj" xml:space="preserve">* [[Technik]]
+* [[Dependency Injection]]
+* [[Fullstack Frameworks]]
+* [[Meta-Frameworks]]
+* [[Content Management Framework]]
+* [[Microframeworks]]
+* [[Backend/API Frameworks]]
+* [[Frontend Frameworks]]
+* [[Static Site Generators]]
+* [[Headless CMS]]
+* [[Fullstack-Webframeworks mit KI-Integration]]
+* [[WebAssembly-Webframeworks]]
+* [[Auth-/Identity-Frameworks]]
+* [[UI-/CSS-Frameworks]]
+* [[Benutzervwerwaltung Framework]]
+* [[Game Enging]]</text>
+      <sha1>k018j5rcxsehq44yyqyed32w2o66csj</sha1>
+    </revision>
+    <revision>
+      <id>929</id>
+      <parentid>927</parentid>
+      <timestamp>2025-12-11T12:33:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>929</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="414" sha1="pgnpdfexfjrjjjaftwq96w82aym6wfo" xml:space="preserve">* [[Technik]]
+* [[Fullstack Frameworks]]
+* [[Meta-Frameworks]]
+* [[Content Management Framework]]
+* [[Microframeworks]]
+* [[Backend/API Frameworks]]
+* [[Frontend Frameworks]]
+* [[Static Site Generators]]
+* [[Headless CMS]]
+* [[Fullstack-Webframeworks mit KI-Integration]]
+* [[WebAssembly-Webframeworks]]
+* [[Auth-/Identity-Frameworks]]
+* [[UI-/CSS-Frameworks]]
+* [[Benutzervwerwaltung Framework]]
+* [[Game Enging]]</text>
+      <sha1>pgnpdfexfjrjjjaftwq96w82aym6wfo</sha1>
+    </revision>
   </page>
   <page>
     <title>Dependency Injection</title>
@@ -45111,6 +46534,41 @@ sudo systemctl restart postgresql
 * Setter Injection
 * Lose Kopplung: Interfaces</text>
       <sha1>0obce6i6vvzt9qpbud7c36ak2a408lk</sha1>
+    </revision>
+    <revision>
+      <id>917</id>
+      <parentid>844</parentid>
+      <timestamp>2025-12-08T11:39:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>917</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="88" sha1="i9hr24kc58l3am9204arro4hkqg7a9a" xml:space="preserve">* Constructor Injection
+* Setter Injection
+* Lose Kopplung: Interfaces
+* Starke Kopplung</text>
+      <sha1>i9hr24kc58l3am9204arro4hkqg7a9a</sha1>
+    </revision>
+    <revision>
+      <id>918</id>
+      <parentid>917</parentid>
+      <timestamp>2025-12-08T11:42:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>918</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="105" sha1="nyx41hfgxvu0ddr4ql5t83iu9oddso8" xml:space="preserve">* Constructor Injection
+* Setter Injection
+* Field-Based DI
+* Lose Kopplung: Interfaces
+* Starke Kopplung</text>
+      <sha1>nyx41hfgxvu0ddr4ql5t83iu9oddso8</sha1>
     </revision>
   </page>
   <page>
@@ -45292,6 +46750,21 @@ sudo systemctl restart postgresql
 * [[IDE:ASP.NET Core]]
 * [[IDE:Symfony]]</text>
       <sha1>9d57r8dmigbbyukkrwyro6bumbco197</sha1>
+    </revision>
+    <revision>
+      <id>912</id>
+      <parentid>885</parentid>
+      <timestamp>2025-12-04T23:00:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>912</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="44" sha1="q4ebs79yt81y66wck5u6pbf1roimhjt" xml:space="preserve">* [[IDE:Spring Boot]]
+* [[IDE:ASP.NET Core]]</text>
+      <sha1>q4ebs79yt81y66wck5u6pbf1roimhjt</sha1>
     </revision>
   </page>
   <page>
@@ -46282,6 +47755,50 @@ ASP.NET Core:
       <text bytes="105" sha1="pf6ahkkoyu4jbo8a43xmoiwfp3i5519" xml:space="preserve">== Reine Content Manage Framework==
 * Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)</text>
       <sha1>pf6ahkkoyu4jbo8a43xmoiwfp3i5519</sha1>
+    </revision>
+    <revision>
+      <id>903</id>
+      <parentid>831</parentid>
+      <timestamp>2025-12-02T23:18:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>903</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="368" sha1="kbhc4jae1vo9j6elf9w30y4tmb20gt3" xml:space="preserve">== Reine Content Manage Framework==
+==PHP-basierte CMF==
+* Drupal – PostgreSQL: Ja (nativ unterstützt)
+* TYPO3 – PostgreSQL: Ja (nativ unterstützt)
+
+==.NET-basierte CMF==
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)
+==Java-basierte CMF==
+* Liferay – PostgreSQL: Ja (nativ unterstützt)
+* OpenCMS – PostgreSQL: Ja (nativ unterstützt)</text>
+      <sha1>kbhc4jae1vo9j6elf9w30y4tmb20gt3</sha1>
+    </revision>
+    <revision>
+      <id>911</id>
+      <parentid>903</parentid>
+      <timestamp>2025-12-04T12:53:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* PHP-basierte CMF */</comment>
+      <origin>911</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="249" sha1="gjkyahqqiy0qa09waym2sh3sj9f2b71" xml:space="preserve">== Reine Content Manage Framework==
+==.NET-basierte CMF==
+* Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt)
+==Java-basierte CMF==
+* Liferay – PostgreSQL: Ja (nativ unterstützt)
+* OpenCMS – PostgreSQL: Ja (nativ unterstützt)</text>
+      <sha1>gjkyahqqiy0qa09waym2sh3sj9f2b71</sha1>
     </revision>
   </page>
   <page>
@@ -49039,6 +50556,225 @@ server {
 &lt;/pre&gt;1</text>
       <sha1>ezkdo6tzk8q8xzitvsar771p1q8wujg</sha1>
     </revision>
+    <revision>
+      <id>892</id>
+      <parentid>891</parentid>
+      <timestamp>2025-11-25T16:10:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>892</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3340" sha1="23s2y5clkx1rjx7340a0auxxz3qzw1l" xml:space="preserve">==Voraussetzungen==
+Um Symfony zu installieren, benötigen Sie die folgenden Voraussetzungen:
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Symfony Projekt Erstellen==
+&lt;pre&gt;
+composer create-project symfony/skeleton stadtportal 
+&lt;/pre&gt;
+
+==nginx Konfiguration==
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/stadtportal.conf
+&lt;/pre&gt;
+Fügen Sie die folgende Konfiguration ein:
+&lt;pre&gt;
+  
+server {
+    listen 80;
+
+    server_name stadtportal.localhost;
+    root /var/www/stadtportal/public;
+
+    location / {
+        # try to serve file directly, fallback to index.php
+        try_files $uri /index.php$is_args$args;
+    }
+
+    # optionally disable falling back to PHP script for the asset directories;
+    # nginx will return a 404 error when files are not found instead of passing the
+    # request to Symfony (improves performance but Symfony's 404 page is not displayed)
+    # location /bundles {
+    #     try_files $uri =404;
+    # }
+
+    location ~ ^/index\.php(/|$) {
+        # when using PHP-FPM as a unix socket
+        fastcgi_pass unix:/var/run/php/php8.4-fpm.sock;
+
+        # when PHP-FPM is configured to use TCP
+        # fastcgi_pass 127.0.0.1:9000;
+
+        fastcgi_split_path_info ^(.+\.php)(/.*)$;
+        include fastcgi_params;
+
+        # optionally set the value of the environment variables used in the application
+        # fastcgi_param APP_ENV prod;
+        # fastcgi_param APP_SECRET &lt;app-secret-id&gt;;
+        # fastcgi_param DATABASE_URL "mysql://db_user:db_pass@host:3306/db_name";
+
+        # When you are using symlinks to link the document root to the
+        # current version of your application, you should pass the real
+        # application path instead of the path to the symlink to PHP
+        # FPM.
+        # Otherwise, PHP's OPcache may not properly detect changes to
+        # your PHP files (see https://github.com/zendtech/ZendOptimizerPlus/issues/126
+        # for more information).
+        # Caveat: When PHP-FPM is hosted on a different machine from nginx
+        #         $realpath_root may not resolve as you expect! In this case try using
+        #         $document_root instead.
+        fastcgi_param SCRIPT_FILENAME $realpath_root$fastcgi_script_name;
+        fastcgi_param DOCUMENT_ROOT $realpath_root;
+        # Prevents URIs that include the front controller. This will 404:
+        # http://example.com/index.php/some-path
+        # Remove the internal directive to allow URIs like this
+        internal;
+    }
+
+    # return 404 for all other php files not matching the front controller
+    # this prevents access to other php files you don't want to be accessible.
+    location ~ \.php$ {
+        return 404;
+    }
+
+    error_log /var/log/nginx/project_error.log;
+    access_log /var/log/nginx/project_access.log;
+}
+
+&lt;/pre&gt;</text>
+      <sha1>23s2y5clkx1rjx7340a0auxxz3qzw1l</sha1>
+    </revision>
+    <revision>
+      <id>893</id>
+      <parentid>892</parentid>
+      <timestamp>2025-11-29T01:47:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Symfony Projekt Erstellen */</comment>
+      <origin>893</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3391" sha1="g6e7eb3ke1ovoscqhcnr14zpeh2fb2a" xml:space="preserve">==Voraussetzungen==
+Um Symfony zu installieren, benötigen Sie die folgenden Voraussetzungen:
+
+==PHP Installieren==
+&lt;pre&gt;
+sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+&lt;/pre&gt;
+==Composer Installieren==
+&lt;pre&gt;
+php -r "copy('https://getcomposer.org/installer', 'composer-setup.php');"
+echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+php composer-setup.php
+php -r "unlink('composer-setup.php');"
+sudo mv composer.phar /usr/local/bin/composer
+&lt;/pre&gt;
+
+==nginx==
+&lt;pre&gt;
+sudo apt-get install nginx
+sudo rm /etc/nginx/sites-enabled/default
+&lt;/pre&gt;
+==Symfony Projekt Erstellen==
+&lt;pre&gt;
+composer create-project symfony/skeleton:"8.0.x-dev" stadtportal 
+cd stadtportal
+composer require webapp
+&lt;/pre&gt;
+
+==nginx Konfiguration==
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/stadtportal.conf
+&lt;/pre&gt;
+Fügen Sie die folgende Konfiguration ein:
+&lt;pre&gt;
+  
+server {
+    listen 80;
+
+    server_name stadtportal.localhost;
+    root /var/www/stadtportal/public;
+
+    location / {
+        # try to serve file directly, fallback to index.php
+        try_files $uri /index.php$is_args$args;
+    }
+
+    # optionally disable falling back to PHP script for the asset directories;
+    # nginx will return a 404 error when files are not found instead of passing the
+    # request to Symfony (improves performance but Symfony's 404 page is not displayed)
+    # location /bundles {
+    #     try_files $uri =404;
+    # }
+
+    location ~ ^/index\.php(/|$) {
+        # when using PHP-FPM as a unix socket
+        fastcgi_pass unix:/var/run/php/php8.4-fpm.sock;
+
+        # when PHP-FPM is configured to use TCP
+        # fastcgi_pass 127.0.0.1:9000;
+
+        fastcgi_split_path_info ^(.+\.php)(/.*)$;
+        include fastcgi_params;
+
+        # optionally set the value of the environment variables used in the application
+        # fastcgi_param APP_ENV prod;
+        # fastcgi_param APP_SECRET &lt;app-secret-id&gt;;
+        # fastcgi_param DATABASE_URL "mysql://db_user:db_pass@host:3306/db_name";
+
+        # When you are using symlinks to link the document root to the
+        # current version of your application, you should pass the real
+        # application path instead of the path to the symlink to PHP
+        # FPM.
+        # Otherwise, PHP's OPcache may not properly detect changes to
+        # your PHP files (see https://github.com/zendtech/ZendOptimizerPlus/issues/126
+        # for more information).
+        # Caveat: When PHP-FPM is hosted on a different machine from nginx
+        #         $realpath_root may not resolve as you expect! In this case try using
+        #         $document_root instead.
+        fastcgi_param SCRIPT_FILENAME $realpath_root$fastcgi_script_name;
+        fastcgi_param DOCUMENT_ROOT $realpath_root;
+        # Prevents URIs that include the front controller. This will 404:
+        # http://example.com/index.php/some-path
+        # Remove the internal directive to allow URIs like this
+        internal;
+    }
+
+    # return 404 for all other php files not matching the front controller
+    # this prevents access to other php files you don't want to be accessible.
+    location ~ \.php$ {
+        return 404;
+    }
+
+    error_log /var/log/nginx/project_error.log;
+    access_log /var/log/nginx/project_access.log;
+}
+
+&lt;/pre&gt;</text>
+      <sha1>g6e7eb3ke1ovoscqhcnr14zpeh2fb2a</sha1>
+    </revision>
   </page>
   <page>
     <title>IDE:Symfony/Neue Symfony-Anwendungen erstellen</title>
@@ -49665,6 +51401,26 @@ dotnet new search cms
 
 &lt;/pre&gt;</text>
       <sha1>cbie35uxxef15hm5pssspdmimsr05ql</sha1>
+    </revision>
+    <revision>
+      <id>921</id>
+      <parentid>843</parentid>
+      <timestamp>2025-12-08T13:15:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>921</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="174" sha1="idho0yv80daymooix08dv5dpst6q62q" xml:space="preserve">== Asp net core Installieren==
+
+&lt;pre&gt;
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+dotnet aspnet-codegenerator identity -dc ApplicationDbContext
+&lt;/pre&gt;</text>
+      <sha1>idho0yv80daymooix08dv5dpst6q62q</sha1>
     </revision>
   </page>
   <page>
@@ -50300,6 +52056,514 @@ Um Apache Tomcat 11 in IntelliJ IDEA Community Edition zu installieren und zu ve
 * [https://gemini.google.com/ Gemini Code Assist]
 * [https://www.amazon.com/ Amazon Q]</text>
       <sha1>5i07c4mh48ckqotblsscsqwd8j6crgo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nachrichten:27.11.2025 Ladendiebstahl und Widerstand in Ahrensburg am 27.11.2025</title>
+    <ns>3014</ns>
+    <id>201</id>
+    <revision>
+      <id>897</id>
+      <timestamp>2025-11-30T23:03:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>897</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="395" sha1="0vjgzz6ulk5cvlnrvaykpmlgkc8njrv" xml:space="preserve">Am 27.11.2025 ereignete sich gegen 18:00 Uhr in einer Drogerie in Ahrensburg ein Diebstahl. Ein 20-jähriger Mann entnahm Parfüms im Wert von 273,40 Euro und versuchte, das Geschäft zu verlassen. Der Ladendetektiv hielt ihn auf, wobei der Täter erheblichen Widerstand leistete. Die Polizei nahm den Mann vorläufig fest und leitete ein Ermittlungsverfahren wegen räuberischen Diebstahls ein.</text>
+      <sha1>0vjgzz6ulk5cvlnrvaykpmlgkc8njrv</sha1>
+    </revision>
+    <revision>
+      <id>898</id>
+      <parentid>897</parentid>
+      <timestamp>2025-11-30T23:05:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>898</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="420" sha1="7edik0452u9agzjjebr5uj0ge5i9p8u" xml:space="preserve">Am 27.11.2025 ereignete sich gegen 18:00 Uhr in einer Drogerie in Ahrensburg ein Diebstahl. Ein 20-jähriger Mann entnahm Parfüms im Wert von 273,40 Euro und versuchte, das Geschäft zu verlassen. Der Ladendetektiv hielt ihn auf, wobei der Täter erheblichen Widerstand leistete. Die Polizei nahm den Mann vorläufig fest und leitete ein Ermittlungsverfahren wegen räuberischen Diebstahls ein.
+[[Kategorie:27.11.2025]]</text>
+      <sha1>7edik0452u9agzjjebr5uj0ge5i9p8u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:27.11.2025</title>
+    <ns>14</ns>
+    <id>202</id>
+    <revision>
+      <id>899</id>
+      <timestamp>2025-11-30T23:06:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[Kategorie:11.2025]]“</comment>
+      <origin>899</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="dm8nnf6q6bw42469wzemwbhcwar8y6q" xml:space="preserve">[[Kategorie:11.2025]]</text>
+      <sha1>dm8nnf6q6bw42469wzemwbhcwar8y6q</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:11.2025</title>
+    <ns>14</ns>
+    <id>203</id>
+    <revision>
+      <id>900</id>
+      <timestamp>2025-11-30T23:07:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[kategorie:2025]]“</comment>
+      <origin>900</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18" sha1="786nniamf0r1xkke0jvcy1m22ek6x99" xml:space="preserve">[[kategorie:2025]]</text>
+      <sha1>786nniamf0r1xkke0jvcy1m22ek6x99</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:2025</title>
+    <ns>14</ns>
+    <id>204</id>
+    <revision>
+      <id>901</id>
+      <timestamp>2025-11-30T23:08:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[Kategorie:Archiv]]“</comment>
+      <origin>901</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" sha1="qvzpjym9xusz42g215mg93cs9kdfsq9" xml:space="preserve">[[Kategorie:Archiv]]</text>
+      <sha1>qvzpjym9xusz42g215mg93cs9kdfsq9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Archiv</title>
+    <ns>14</ns>
+    <id>205</id>
+    <revision>
+      <id>902</id>
+      <timestamp>2025-11-30T23:08:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Archiv==“</comment>
+      <origin>902</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="10" sha1="rb8i1b3vhs6bmas6lrv2ellnvr76apf" xml:space="preserve">==Archiv==</text>
+      <sha1>rb8i1b3vhs6bmas6lrv2ellnvr76apf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>02.12.2025 Bahnstrecke Lübeck–Hamburg gesperrt</title>
+    <ns>0</ns>
+    <id>206</id>
+    <revision>
+      <id>904</id>
+      <timestamp>2025-12-03T00:46:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>904</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1024" sha1="aec5zd9iqvyl8jojlq06jqzhnqxyefh" xml:space="preserve">Seit 2. Dezember ist die Bahnstrecke zwischen Lübeck und Hamburg wegen Reparaturarbeiten gesperrt. Züge fahren nur bis Ahrensburg (RE 8, RE 80) bzw. Hamburg-Rahlstedt (RB 81). Auch der Fernverkehr ist betroffen. Zwischen Ahrensburg und Hamburg Hbf fahren Ersatzbusse.
+
+Seit 2. Dezember ist die Bahnstrecke zwischen Lübeck und Hamburg wegen Reparaturarbeiten gesperrt. Züge fahren nur bis Ahrensburg (RE 8, RE 80) bzw. Hamburg-Rahlstedt (RB 81). Auch der Fernverkehr ist betroffen. Zwischen Ahrensburg und Hamburg Hbf fahren Ersatzbusse.
+
+== Quellen ==
+
+* [LN-Online: Bahnverkehr zwischen Lübeck und Hamburg eingestellt](https://www.ln-online.de/lokales/luebeck/bahnverkehr-zwischen-luebeck-und-hamburg-eingestellt-KJOMB4ST6VBNZGDNXQSC5ZGJL4.html?utm_source=chatgpt.com)
+* [NDR: Defektes Gleis zwischen Lübeck und Hamburg – fahren keine Züge](https://www.ndr.de/nachrichten/schleswig-holstein/pinneberg_segeberg_stormarn/defektes-gleis-zwischen-luebeck-und-hamburg-fahren-keine-zuege,regionnorderstedtnews-1354.html)</text>
+      <sha1>aec5zd9iqvyl8jojlq06jqzhnqxyefh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nachrichten:Bahnstrecke Lübeck–Hamburg seit 2. Dezember gesperrt</title>
+    <ns>3014</ns>
+    <id>208</id>
+    <revision>
+      <id>906</id>
+      <timestamp>2025-12-03T00:48:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>906</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="811" sha1="akp85dtq4r15njtlwaq8bobbmbz8gli" xml:space="preserve">Seit dem 2. Dezember ist die Bahnstrecke zwischen Lübeck und Hamburg aufgrund von Reparaturarbeiten nicht befahrbar. Die Züge der Linien RE 8 und RE 80 verkehren nur bis Ahrensburg, die RB 81 endet in Hamburg-Rahlstedt. Auch der Fernverkehr ist eingeschränkt. Zwischen Ahrensburg und Hamburg Hauptbahnhof fahren Ersatzbusse.
+
+== Quellen ==
+
+* [LN-Online: Bahnverkehr zwischen Lübeck und Hamburg eingestellt](https://www.ln-online.de/lokales/luebeck/bahnverkehr-zwischen-luebeck-und-hamburg-eingestellt-KJOMB4ST6VBNZGDNXQSC5ZGJL4.html?utm_source=chatgpt.com)
+* [NDR: Defektes Gleis zwischen Lübeck und Hamburg – fahren keine Züge](https://www.ndr.de/nachrichten/schleswig-holstein/pinneberg_segeberg_stormarn/defektes-gleis-zwischen-luebeck-und-hamburg-fahren-keine-zuege,regionnorderstedtnews-1354.html)</text>
+      <sha1>akp85dtq4r15njtlwaq8bobbmbz8gli</sha1>
+    </revision>
+    <revision>
+      <id>907</id>
+      <parentid>906</parentid>
+      <timestamp>2025-12-03T00:51:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>907</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="837" sha1="o9pzumijnguap3qjsmhpphodtqm7ygm" xml:space="preserve">Seit dem 2. Dezember ist die Bahnstrecke zwischen Lübeck und Hamburg aufgrund von Reparaturarbeiten nicht befahrbar. Die Züge der Linien RE 8 und RE 80 verkehren nur bis Ahrensburg, die RB 81 endet in Hamburg-Rahlstedt. Auch der Fernverkehr ist eingeschränkt. Zwischen Ahrensburg und Hamburg Hauptbahnhof fahren Ersatzbusse.
+
+== Quellen ==
+
+* [LN-Online: Bahnverkehr zwischen Lübeck und Hamburg eingestellt](https://www.ln-online.de/lokales/luebeck/bahnverkehr-zwischen-luebeck-und-hamburg-eingestellt-KJOMB4ST6VBNZGDNXQSC5ZGJL4.html?utm_source=chatgpt.com)
+* [NDR: Defektes Gleis zwischen Lübeck und Hamburg – fahren keine Züge](https://www.ndr.de/nachrichten/schleswig-holstein/pinneberg_segeberg_stormarn/defektes-gleis-zwischen-luebeck-und-hamburg-fahren-keine-zuege,regionnorderstedtnews-1354.html)
+
+[[Kategorie:02.12.2025]]</text>
+      <sha1>o9pzumijnguap3qjsmhpphodtqm7ygm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:02.12.2025</title>
+    <ns>14</ns>
+    <id>209</id>
+    <revision>
+      <id>908</id>
+      <timestamp>2025-12-03T00:52:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[kategorie:12.2025]]“</comment>
+      <origin>908</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="aadv0iewncl0zyka9e6taw9ak6mvx01" xml:space="preserve">[[kategorie:12.2025]]</text>
+      <sha1>aadv0iewncl0zyka9e6taw9ak6mvx01</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:12.2025</title>
+    <ns>14</ns>
+    <id>210</id>
+    <revision>
+      <id>909</id>
+      <timestamp>2025-12-03T00:52:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[Kategorie:2025]]“</comment>
+      <origin>909</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18" sha1="jajqh6tn84cf3i0q5ucv4g1dzvq2m35" xml:space="preserve">[[Kategorie:2025]]</text>
+      <sha1>jajqh6tn84cf3i0q5ucv4g1dzvq2m35</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nachrichten:02.12.2025 Polizei sucht Zeugen für Einbrüche in Ahrensburg</title>
+    <ns>3014</ns>
+    <id>211</id>
+    <revision>
+      <id>910</id>
+      <timestamp>2025-12-04T00:29:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>910</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="273" sha1="f0vkipzq4atc17d5thhxu44ieqc71er" xml:space="preserve">In Ahrensburg gab es am 02.12.2025 drei Einbrüche in Einfamilienhäuser. Die Polizei bittet Zeugen aus dem Stadtteil Hagen sowie den Straßen Teich- und Dorfstraße um Hinweise.
+
+==Quelle==
+* https://www.presseportal.de/blaulicht/pm/43735/6171715
+
+[[Kategorie:02.12.2025]]</text>
+      <sha1>f0vkipzq4atc17d5thhxu44ieqc71er</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nachrichten:02.12.2025 Verdacht der Straßenverkehrsgefährdung in AhrensburgPolizei sucht Zeugen und Geschädigte</title>
+    <ns>3014</ns>
+    <id>212</id>
+    <revision>
+      <id>916</id>
+      <timestamp>2025-12-06T01:45:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>916</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="498" sha1="kzfjg6iwqt5rv1pfaxt55z5m5ot8np9" xml:space="preserve">Am 02.12.2025 kam es in Ahrensburg zu einer Straßenverkehrsgefährdung durch einen flüchtenden schwarzen VW Passat mit polnischen Kennzeichen. Der Fahrer missachtete Verkehrsregeln und gefährdete andere Verkehrsteilnehmer. Die Polizei stoppte das Fahrzeug und beschlagnahmte den Führerschein des 26-jährigen Fahrers. Zeugen und mögliche Geschädigte werden gebeten, sich bei der Polizei Ahrensburg zu melden.
+
+* https://www.presseportal.de/blaulicht/pm/43735/6172626
+
+[[Kategorie:02.12.2025]]</text>
+      <sha1>kzfjg6iwqt5rv1pfaxt55z5m5ot8np9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nachrichten:09.12.2025 Polizei fasst mutmaßlichen Fahrraddieb</title>
+    <ns>3014</ns>
+    <id>213</id>
+    <revision>
+      <id>925</id>
+      <timestamp>2025-12-10T04:00:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>925</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="676" sha1="6q5fb7j20isuteq48ohzwl8jk843h62" xml:space="preserve">09.12.2025 | Kreis Stormarn | Ahrensburg
+
+Die Polizei Ahrensburg hat einen 25-jährigen Mann aus Reinfeld festgenommen, der für sechs Fahrraddiebstähle am Bahnhof Ahrensburg seit Oktober 2025 verantwortlich sein soll. Nach intensiven Ermittlungen wurde ein Haftbefehl erwirkt und der Tatverdächtige in Hamburg gefasst. Er wurde dem Haftrichter vorgeführt und in eine Justizvollzugsanstalt gebracht.
+
+Kontakt: Polizeidirektion Ratzeburg, Sandra Kilian, Tel. 04541/809-2011, E-Mail: Presse.Ratzeburg.PD@polizei.landsh.de
+
+==Quellen Angaben==
+* [https://www.presseportal.de/blaulicht/pm/43735/6175829 Pressemitteilung der Polizeidirektion Ratzeburg]
+
+[[Kategorie:09.12.2025]]</text>
+      <sha1>6q5fb7j20isuteq48ohzwl8jk843h62</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:09.12.2025</title>
+    <ns>14</ns>
+    <id>214</id>
+    <revision>
+      <id>926</id>
+      <timestamp>2025-12-10T04:02:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[kategorie:12.2025]]“</comment>
+      <origin>926</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="aadv0iewncl0zyka9e6taw9ak6mvx01" xml:space="preserve">[[kategorie:12.2025]]</text>
+      <sha1>aadv0iewncl0zyka9e6taw9ak6mvx01</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Technik</title>
+    <ns>0</ns>
+    <id>215</id>
+    <revision>
+      <id>928</id>
+      <timestamp>2025-12-11T11:28:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>928</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="142" sha1="89hqxcmlcx86cuy7y91vew15ayeeo4h" xml:space="preserve">* Starke Kopplung
+* Lose Kopplung
+* Dependency Injection
+* IOC Container
+* Application Context
+* Spring Beans
+* Autowiring
+* Component Scanner</text>
+      <sha1>89hqxcmlcx86cuy7y91vew15ayeeo4h</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Java Full Stack Developer</title>
+    <ns>3002</ns>
+    <id>216</id>
+    <revision>
+      <id>931</id>
+      <timestamp>2025-12-12T03:19:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „*   in28Minutes (Ranga Karanam) Master Spring Boot 3 &amp; Spring Framework 6 with Java“</comment>
+      <origin>931</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="83" sha1="83j8zqglxvxqulbpp88scfnc0dhnvg2" xml:space="preserve">*   in28Minutes (Ranga Karanam) Master Spring Boot 3 &amp; Spring Framework 6 with Java</text>
+      <sha1>83j8zqglxvxqulbpp88scfnc0dhnvg2</sha1>
+    </revision>
+    <revision>
+      <id>932</id>
+      <parentid>931</parentid>
+      <timestamp>2025-12-12T03:22:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>932</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="168" sha1="okcjhegqq2mltdyfsojz5wzcjju769j" xml:space="preserve">*   in28Minutes (Ranga Karanam) Master Spring Boot 3 &amp; Spring Framework 6 with Java
+* Chad Darby, Eric Roby Full Stack: React and Java Spring Boot - The Developer Guide</text>
+      <sha1>okcjhegqq2mltdyfsojz5wzcjju769j</sha1>
+    </revision>
+    <revision>
+      <id>933</id>
+      <parentid>932</parentid>
+      <timestamp>2025-12-12T03:23:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>933</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="260" sha1="2u44dtox22sjxopi7htre7t2u1o02mh" xml:space="preserve">*   in28Minutes (Ranga Karanam) Master Spring Boot 3 &amp; Spring Framework 6 with Java
+* Chad Darby, Eric Roby Full Stack: React and Java Spring Boot - The Developer Guide
+* StudyEasy Org, Chaand Sheikh FULL STACK JAVA DEV: JAVA + JSP + SPRING + BOOT + JS + REACT</text>
+      <sha1>2u44dtox22sjxopi7htre7t2u1o02mh</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Asp Net Core Full Stack Developer</title>
+    <ns>3002</ns>
+    <id>217</id>
+    <revision>
+      <id>936</id>
+      <timestamp>2025-12-12T03:41:27Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* Guide (Harsha Vardhan) Asp.Net Core 10 | True Ultimate * Guide 2025 (Bhrugen Patel) .NET Core MVC - The Complete * Denis Panjuta Complete ASP.NET Core 9 course“</comment>
+      <origin>936</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="161" sha1="abwnab1g0m4euydp2epwwuueefuvudi" xml:space="preserve">* Guide (Harsha Vardhan) Asp.Net Core 10 | True Ultimate
+* Guide 2025 (Bhrugen Patel) .NET Core MVC - The Complete
+* Denis Panjuta Complete ASP.NET Core 9 course</text>
+      <sha1>abwnab1g0m4euydp2epwwuueefuvudi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nachrichten:11 Dezember Verkehrsrowdy gefährdet und beleidigt andere Verkehrsteilnehmer - Polizei sucht Zeugen und Geschädigte</title>
+    <ns>3014</ns>
+    <id>218</id>
+    <revision>
+      <id>937</id>
+      <timestamp>2025-12-12T04:58:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>937</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="836" sha1="nprch7chs1zdubpezw1w0psho6wt50h" xml:space="preserve">Am 2. Dezember 2025 wurde eine Autofahrerin in Ahrensburg von einem unbekannten Fahrer eines schwarzen VW Golf beleidigt und durch gefährliche Fahrmanöver gefährdet. Auf dem Supermarktparkplatz Carl-Backhaus-Straße kam es zum Streit, anschließend fuhr der Mann mehrfach riskant, sodass beinahe Unfälle entstanden. Die Polizei bittet Zeugen und weitere Geschädigte, sich unter 04102/809-0 oder ahrensburg.pr@polizei.landsh.de zu melden.
+
+==Quellangabe==
+* [Presseportal: Polizei sucht Zeugen und Geschädigte](https://www.presseportal.de/blaulicht/pm/43735/6177522)
+* [LN-Online: Ahrensburg – Polizei sucht Zeugen und Opfer nach Gefährdung und Beleidigung](https://www.ln-online.de/lokales/stormarn/ahrensburg-polizei-sucht-zeugen-und-opfer-nach-gefaehrdung-und-beleidigung-7RVQKV7XGRFKDOE7GXGKEGQHKM.html?outputType=valid_amp)</text>
+      <sha1>nprch7chs1zdubpezw1w0psho6wt50h</sha1>
+    </revision>
+    <revision>
+      <id>938</id>
+      <parentid>937</parentid>
+      <timestamp>2025-12-12T04:59:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>938</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="836" sha1="3n0b42ikmhkovzgi8rwx7ibo005c9yv" xml:space="preserve">Am 2. Dezember 2025 wurde eine Autofahrerin in Ahrensburg von einem unbekannten Fahrer eines schwarzen VW Golf beleidigt und durch gefährliche Fahrmanöver gefährdet. Auf dem Supermarktparkplatz Carl-Backhaus-Straße kam es zum Streit, anschließend fuhr der Mann mehrfach riskant, sodass beinahe Unfälle entstanden. Die Polizei bittet Zeugen und weitere Geschädigte, sich unter 04102/809-0 oder ahrensburg.pr@polizei.landsh.de zu melden.
+
+==Quellangabe==
+* [https://www.presseportal.de/blaulicht/pm/43735/6177522 Presseportal: Polizei sucht Zeugen und Geschädigte)]
+* [LN-Online: Ahrensburg – Polizei sucht Zeugen und Opfer nach Gefährdung und Beleidigung](https://www.ln-online.de/lokales/stormarn/ahrensburg-polizei-sucht-zeugen-und-opfer-nach-gefaehrdung-und-beleidigung-7RVQKV7XGRFKDOE7GXGKEGQHKM.html?outputType=valid_amp)</text>
+      <sha1>3n0b42ikmhkovzgi8rwx7ibo005c9yv</sha1>
+    </revision>
+    <revision>
+      <id>939</id>
+      <parentid>938</parentid>
+      <timestamp>2025-12-12T05:01:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>939</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="835" sha1="4s78ofm5tjot5b6kj91w1d9vcniexb3" xml:space="preserve">Am 2. Dezember 2025 wurde eine Autofahrerin in Ahrensburg von einem unbekannten Fahrer eines schwarzen VW Golf beleidigt und durch gefährliche Fahrmanöver gefährdet. Auf dem Supermarktparkplatz Carl-Backhaus-Straße kam es zum Streit, anschließend fuhr der Mann mehrfach riskant, sodass beinahe Unfälle entstanden. Die Polizei bittet Zeugen und weitere Geschädigte, sich unter 04102/809-0 oder ahrensburg.pr@polizei.landsh.de zu melden.
+
+==Quellangabe==
+* [https://www.presseportal.de/blaulicht/pm/43735/6177522 Presseportal: Polizei sucht Zeugen und Geschädigte)]
+* [https://www.ln-online.de/lokales/stormarn/ahrensburg-polizei-sucht-zeugen-und-opfer-nach-gefaehrdung-und-beleidigung-7RVQKV7XGRFKDOE7GXGKEGQHKM.html?outputType=valid_amp LN-Online: Ahrensburg – Polizei sucht Zeugen und Opfer nach Gefährdung und Beleidigung]</text>
+      <sha1>4s78ofm5tjot5b6kj91w1d9vcniexb3</sha1>
+    </revision>
+    <revision>
+      <id>940</id>
+      <parentid>939</parentid>
+      <timestamp>2025-12-12T05:02:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>940</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="861" sha1="3o1nw3qz1irt6v2jo8pykz0zrq3rb89" xml:space="preserve">Am 2. Dezember 2025 wurde eine Autofahrerin in Ahrensburg von einem unbekannten Fahrer eines schwarzen VW Golf beleidigt und durch gefährliche Fahrmanöver gefährdet. Auf dem Supermarktparkplatz Carl-Backhaus-Straße kam es zum Streit, anschließend fuhr der Mann mehrfach riskant, sodass beinahe Unfälle entstanden. Die Polizei bittet Zeugen und weitere Geschädigte, sich unter 04102/809-0 oder ahrensburg.pr@polizei.landsh.de zu melden.
+
+==Quellangabe==
+* [https://www.presseportal.de/blaulicht/pm/43735/6177522 Presseportal: Polizei sucht Zeugen und Geschädigte)]
+* [https://www.ln-online.de/lokales/stormarn/ahrensburg-polizei-sucht-zeugen-und-opfer-nach-gefaehrdung-und-beleidigung-7RVQKV7XGRFKDOE7GXGKEGQHKM.html?outputType=valid_amp LN-Online: Ahrensburg – Polizei sucht Zeugen und Opfer nach Gefährdung und Beleidigung]
+
+[[kategorie:11.12.2025]]</text>
+      <sha1>3o1nw3qz1irt6v2jo8pykz0zrq3rb89</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:11.12.2025</title>
+    <ns>14</ns>
+    <id>219</id>
+    <revision>
+      <id>941</id>
+      <timestamp>2025-12-12T05:04:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[Kategorie:12.2025]]“</comment>
+      <origin>941</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="6wqqqtd9lfaln2hsbpx68ran8alpeyx" xml:space="preserve">[[Kategorie:12.2025]]</text>
+      <sha1>6wqqqtd9lfaln2hsbpx68ran8alpeyx</sha1>
     </revision>
   </page>
 </mediawiki>
