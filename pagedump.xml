@@ -1343,6 +1343,543 @@ namespace=Nachrichten
 * [[Webframework]]</text>
       <sha1>8jal1zw771tvku8rd1ix57ddvpf3l03</sha1>
     </revision>
+    <revision>
+      <id>953</id>
+      <parentid>895</parentid>
+      <timestamp>2025-12-16T19:37:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>953</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1332" sha1="1sd5xksyw7h323dpqg3q453eaozuvzr" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=5
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+==Technik==
+* [[Webframework]]</text>
+      <sha1>1sd5xksyw7h323dpqg3q453eaozuvzr</sha1>
+    </revision>
+    <revision>
+      <id>954</id>
+      <parentid>953</parentid>
+      <timestamp>2025-12-16T19:41:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>954</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1333" sha1="nqoeo4jaurjqy9pdepaiuo2gofjpr8a" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+==Technik==
+* [[Webframework]]</text>
+      <sha1>nqoeo4jaurjqy9pdepaiuo2gofjpr8a</sha1>
+    </revision>
+    <revision>
+      <id>956</id>
+      <parentid>954</parentid>
+      <timestamp>2025-12-18T14:52:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>956</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1413" sha1="lshpgqfndho38mv9cg9qhiyb9q6606v" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+==Technik==
+* [[Webframework]]
+&lt;categorytree mode="pages" namespaces="Main Category"&gt;Ahrensburg&lt;/categorytree&gt;</text>
+      <sha1>lshpgqfndho38mv9cg9qhiyb9q6606v</sha1>
+    </revision>
+    <revision>
+      <id>957</id>
+      <parentid>956</parentid>
+      <timestamp>2025-12-18T14:53:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>957</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1404" sha1="2ss2nzr1n3n1tk2ssaq6xxr5ey0i7xc" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+==Technik==
+* [[Webframework]]
+&lt;categorytree mode="pages" namespaces="Main"&gt;Ahrensburg&lt;/categorytree&gt;</text>
+      <sha1>2ss2nzr1n3n1tk2ssaq6xxr5ey0i7xc</sha1>
+    </revision>
+    <revision>
+      <id>958</id>
+      <parentid>957</parentid>
+      <timestamp>2025-12-18T14:54:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>958</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1429" sha1="e0kw9klyfrnejirufoofmqiifywp2qr" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+==Technik==
+* [[Webframework]]
+&lt;categorytree mode="pages" namespaces="Main"&gt;Ahrensburg&lt;/categorytree&gt;
+[[kategorie:Ahrensburg]]</text>
+      <sha1>e0kw9klyfrnejirufoofmqiifywp2qr</sha1>
+    </revision>
+    <revision>
+      <id>959</id>
+      <parentid>958</parentid>
+      <timestamp>2025-12-18T14:54:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>959</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1425" sha1="th0yvn69fhzt5vv8dr3am7dk9rgi3jh" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+==Technik==
+* [[Webframework]]
+&lt;categorytree mode="pages" namespaces=""&gt;Ahrensburg&lt;/categorytree&gt;
+[[kategorie:Ahrensburg]]</text>
+      <sha1>th0yvn69fhzt5vv8dr3am7dk9rgi3jh</sha1>
+    </revision>
+    <revision>
+      <id>960</id>
+      <parentid>959</parentid>
+      <timestamp>2025-12-18T14:54:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Technik */</comment>
+      <origin>960</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1398" sha1="019pfgso17mjmnhp1dosexaad0ts2gt" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+==Technik==
+* [[Webframework]]
+&lt;categorytree Ahrensburg&lt;/categorytree&gt;
+[[kategorie:Ahrensburg]]</text>
+      <sha1>019pfgso17mjmnhp1dosexaad0ts2gt</sha1>
+    </revision>
+    <revision>
+      <id>961</id>
+      <parentid>960</parentid>
+      <timestamp>2025-12-18T14:55:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>961</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1425" sha1="th0yvn69fhzt5vv8dr3am7dk9rgi3jh" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+==Technik==
+* [[Webframework]]
+&lt;categorytree mode="pages" namespaces=""&gt;Ahrensburg&lt;/categorytree&gt;
+[[kategorie:Ahrensburg]]</text>
+      <sha1>th0yvn69fhzt5vv8dr3am7dk9rgi3jh</sha1>
+    </revision>
+    <revision>
+      <id>962</id>
+      <parentid>961</parentid>
+      <timestamp>2025-12-18T14:57:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>962</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1411" sha1="gura4mccrz5hg78dwfctzxcqg78ziwq" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+==Technik==
+* [[Webframework]]
+&lt;categorytree mode="pages"&gt;Ahrensburg&lt;/categorytree&gt;
+[[kategorie:Ahrensburg]]</text>
+      <sha1>gura4mccrz5hg78dwfctzxcqg78ziwq</sha1>
+    </revision>
+    <revision>
+      <id>966</id>
+      <parentid>962</parentid>
+      <timestamp>2025-12-18T15:08:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>966</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1422" sha1="aya9ugj3wo1q2sv2mvquyz9nq03da59" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+==Technik==
+* [[Webframework]]
+&lt;categorytree depth="10" mode="pages"&gt;Ahrensburg&lt;/categorytree&gt;
+[[kategorie:Ahrensburg]]</text>
+      <sha1>aya9ugj3wo1q2sv2mvquyz9nq03da59</sha1>
+    </revision>
+    <revision>
+      <id>970</id>
+      <parentid>966</parentid>
+      <timestamp>2025-12-21T20:33:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>970</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1466" sha1="6836rd4n9df0rahykyud6o5ik3gh2gd" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+==Technik==
+* [[Webframework]]
+&lt;categorytree depth="10" mode="pages"&gt;Ahrensburg&lt;/categorytree&gt;
+[[kategorie:Ahrensburg]]
+
+* [typo3.ahrensburg.city typo3.ahrensburg]</text>
+      <sha1>6836rd4n9df0rahykyud6o5ik3gh2gd</sha1>
+    </revision>
+    <revision>
+      <id>971</id>
+      <parentid>970</parentid>
+      <timestamp>2025-12-22T12:26:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>971</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1457" sha1="c9vomstwx4zi2pcbz817pv5s2fixp36" xml:space="preserve">
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+==Technik==
+* [[Webframework]]
+&lt;categorytree depth="10" mode="pages"&gt;Ahrensburg&lt;/categorytree&gt;
+[[kategorie:Ahrensburg]]
+
+* [typo3.ahrensburg.city typo3.ahrensburg]</text>
+      <sha1>c9vomstwx4zi2pcbz817pv5s2fixp36</sha1>
+    </revision>
+    <revision>
+      <id>972</id>
+      <parentid>971</parentid>
+      <timestamp>2025-12-22T12:30:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>972</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1466" sha1="6836rd4n9df0rahykyud6o5ik3gh2gd" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+==Technik==
+* [[Webframework]]
+&lt;categorytree depth="10" mode="pages"&gt;Ahrensburg&lt;/categorytree&gt;
+[[kategorie:Ahrensburg]]
+
+* [typo3.ahrensburg.city typo3.ahrensburg]</text>
+      <sha1>6836rd4n9df0rahykyud6o5ik3gh2gd</sha1>
+    </revision>
+    <revision>
+      <id>974</id>
+      <parentid>972</parentid>
+      <timestamp>2025-12-23T00:55:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Technik */</comment>
+      <origin>974</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1384" sha1="hkssvjqyylhz9lvhhgk7xyyfregikbx" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+==Technik==
+* [[Webframework]]
+* [https://typo3.ahrensburg.city typo3.ahrensburg]</text>
+      <sha1>hkssvjqyylhz9lvhhgk7xyyfregikbx</sha1>
+    </revision>
   </page>
   <page>
     <title>Server:Hauptseite</title>
@@ -4329,6 +4866,24 @@ Apache restarten
 * [[Geschichte der Stadt Ahrensburg]]
 * [[Geografie]]</text>
       <sha1>8sa5w99m3cbamqbhue0jmf9nma5oeat</sha1>
+    </revision>
+    <revision>
+      <id>964</id>
+      <parentid>97</parentid>
+      <timestamp>2025-12-18T15:00:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>964</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="315" sha1="50maozdrmslge9x7xgaijco10d5wd1x" xml:space="preserve">'''Ahrensburg''' ist eine Stadt im Kreis Stormarn in Schleswig-Holstein, Deutschland. Sie liegt nordöstlich von Hamburg und ist bekannt für ihr Schloss sowie ihre gute Anbindung an die Metropolregion Hamburg.
+* [[Geschichte der Stadt Ahrensburg]]
+* [[Geografie]]
+[[kategorie:Geschichte]]
+[[kategorie:Allgemeines]]</text>
+      <sha1>50maozdrmslge9x7xgaijco10d5wd1x</sha1>
     </revision>
   </page>
   <page>
@@ -11973,6 +12528,29 @@ Zusammenfassend sucht ASP.NET Core eine View &lt;code&gt;MeineView&lt;/code&gt; 
 * [[Kurse:Asp Net Core Full Stack Developer]]</text>
       <sha1>59j4zvuplj8w4lt8bba1znvxg3rxuyd</sha1>
     </revision>
+    <revision>
+      <id>942</id>
+      <parentid>935</parentid>
+      <timestamp>2025-12-16T08:07:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>942</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="392" sha1="nx4shlooc07j5atrberxnkfsarz8knw" xml:space="preserve">* [[Kurse:Lerntechnik]]
+* [[Kurse:asp net core Alle Konzept ]]
+* [[Kurse:Cms Webramework in asp net core]]
+* [[Kurse:Asp net core leer]]
+* [[Kurse:Alternativen zu Drupal (CMS)]]
+* [[Kurse:Voraussetzungen für ASP.NET Core (C-Sharp) und Spring Boot/Java EE (Java)]]
+* [[Kurse:Java Full Stack Developer]]
+* [[Kurse:Asp Net Core Full Stack Developer]]
+* [[Kurse:Java EE]]
+* [[Kurse:Spring boot]]</text>
+      <sha1>nx4shlooc07j5atrberxnkfsarz8knw</sha1>
+    </revision>
   </page>
   <page>
     <title>Server:Haupseite</title>
@@ -12170,6 +12748,49 @@ Zusammenfassend sucht ASP.NET Core eine View &lt;code&gt;MeineView&lt;/code&gt; 
 * [[Server:Postfix]]
 * [[Server:OpenCms]]</text>
       <sha1>027zitk2v183qlhj13adzvtbsk5e0o0</sha1>
+    </revision>
+    <revision>
+      <id>973</id>
+      <parentid>707</parentid>
+      <timestamp>2025-12-22T15:32:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>973</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="193" sha1="gs270smeml6vqaw5270e5th7a2k3iz5" xml:space="preserve">==Server==
+* [[Server:Mieten]]
+* [[Server:Backup]]
+* [[Server:Ubuntu Software Pakete Installieren]]
+* [[Server:KachelServer]]
+* [[Server:Asp Net Core]]
+* [[Server:Postfix]]
+* [[Server:OpenCms]]</text>
+      <sha1>gs270smeml6vqaw5270e5th7a2k3iz5</sha1>
+    </revision>
+    <revision>
+      <id>975</id>
+      <parentid>973</parentid>
+      <timestamp>2025-12-23T01:14:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>975</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="212" sha1="0mk4drjisscwxo49b7tyci0omp293qp" xml:space="preserve">==Server==
+* [[Server:Mieten]]
+* [[Server:Backup]]
+* [[Server:Ubuntu Software Pakete Installieren]]
+* [[Server:KachelServer]]
+* [[Server:Asp Net Core]]
+* [[Server:Postfix]]
+* [[Server:OpenCms]]
+* [[Server:Typo3]]</text>
+      <sha1>0mk4drjisscwxo49b7tyci0omp293qp</sha1>
     </revision>
   </page>
   <page>
@@ -52564,6 +53185,682 @@ Kontakt: Polizeidirektion Ratzeburg, Sandra Kilian, Tel. 04541/809-2011, E-Mail:
       <format>text/x-wiki</format>
       <text bytes="21" sha1="6wqqqtd9lfaln2hsbpx68ran8alpeyx" xml:space="preserve">[[Kategorie:12.2025]]</text>
       <sha1>6wqqqtd9lfaln2hsbpx68ran8alpeyx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Java EE</title>
+    <ns>3002</ns>
+    <id>220</id>
+    <revision>
+      <id>943</id>
+      <timestamp>2025-12-16T08:15:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* T. Buchalka, L. Saeed Java Enterprise Edition 8 for Beginners course * H. Balazs Java EE with Vaadin, JPA, Microservices, Spring and Maven“</comment>
+      <origin>943</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="140" sha1="nwldjahce4a5gnmp7y2w4sspmbq4ihn" xml:space="preserve">* T. Buchalka, L. Saeed Java Enterprise Edition 8 for Beginners course
+* H. Balazs Java EE with Vaadin, JPA, Microservices, Spring and Maven</text>
+      <sha1>nwldjahce4a5gnmp7y2w4sspmbq4ihn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nachrichten:13.12.2025 Überfall in Ahrensburger Mehrfamilienhaus: Zwei Männer verletzt</title>
+    <ns>3014</ns>
+    <id>221</id>
+    <revision>
+      <id>944</id>
+      <timestamp>2025-12-16T09:19:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>944</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="355" sha1="94ncf0rjf5oh4df3wmtnzls3fgz9ula" xml:space="preserve">Zwei Männer wurden in einer Wohnung in der Stormarnstraße von Unbekannten überfallen und verletzt. Die Täter flüchteten mit Taschen in Richtung Ahrensburger Bahnhof. Eine Fahndung blieb erfolglos. Zeugen werden gebeten, sich bei der Polizei zu melden.
+
+==Quellangabe
+* [https://www.presseportal.de/blaulicht/pm/43735/6179763 Artikel bei Presseportal]</text>
+      <sha1>94ncf0rjf5oh4df3wmtnzls3fgz9ula</sha1>
+    </revision>
+    <revision>
+      <id>945</id>
+      <parentid>944</parentid>
+      <timestamp>2025-12-16T09:21:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>945</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="383" sha1="rhtytqenh12vj96k1s9ock7hgn3v7lc" xml:space="preserve">Zwei Männer wurden in einer Wohnung in der Stormarnstraße von Unbekannten überfallen und verletzt. Die Täter flüchteten mit Taschen in Richtung Ahrensburger Bahnhof. Eine Fahndung blieb erfolglos. Zeugen werden gebeten, sich bei der Polizei zu melden.
+
+==Quellangabe==
+* [https://www.presseportal.de/blaulicht/pm/43735/6179763 Artikel bei Presseportal]
+
+[[kategorie:13.12.2025]]</text>
+      <sha1>rhtytqenh12vj96k1s9ock7hgn3v7lc</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:13.12.2025</title>
+    <ns>14</ns>
+    <id>222</id>
+    <revision>
+      <id>946</id>
+      <timestamp>2025-12-16T09:22:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[kategier:12.2025]]“</comment>
+      <origin>946</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" sha1="b2euly790eapkl3ch8tezamd46900ef" xml:space="preserve">[[kategier:12.2025]]</text>
+      <sha1>b2euly790eapkl3ch8tezamd46900ef</sha1>
+    </revision>
+    <revision>
+      <id>947</id>
+      <parentid>946</parentid>
+      <timestamp>2025-12-16T09:22:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>947</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19" sha1="aaz51zvz8exusgeroe8oh24aarq8yk0" xml:space="preserve">[[kategie:12.2025]]</text>
+      <sha1>aaz51zvz8exusgeroe8oh24aarq8yk0</sha1>
+    </revision>
+    <revision>
+      <id>948</id>
+      <parentid>947</parentid>
+      <timestamp>2025-12-16T09:22:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>948</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="tg8u5xrr1c6xkn7heoob2reof2i8ejj" xml:space="preserve">[[kategiere:12.2025]]</text>
+      <sha1>tg8u5xrr1c6xkn7heoob2reof2i8ejj</sha1>
+    </revision>
+    <revision>
+      <id>949</id>
+      <parentid>948</parentid>
+      <timestamp>2025-12-16T09:22:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>949</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="6wqqqtd9lfaln2hsbpx68ran8alpeyx" xml:space="preserve">[[Kategorie:12.2025]]</text>
+      <sha1>6wqqqtd9lfaln2hsbpx68ran8alpeyx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nachrichten:13.12.2025 Streit um Parkplatz eskaliert</title>
+    <ns>3014</ns>
+    <id>223</id>
+    <revision>
+      <id>950</id>
+      <timestamp>2025-12-16T09:37:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>950</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="510" sha1="db1nv5z4wj4ipg7dhopzogxgtenef1h" xml:space="preserve">Am 13.12.2025 kam es gegen 18:20 Uhr in der Manhagener Allee zu einem Streit um einen Parkplatz. Dabei wurde ein Mann von mehreren Unbekannten bewusstlos geschlagen. Die Polizei ermittelt wegen gefährlicher Körperverletzung und bittet um Hinweise unter 04102/809-0 oder Ahrensburg.KPSt@polizei.landsh.de.
+
+==Quellangabe==
+* [https://www.presseportal.de/blaulicht/pm/43735/6179455 Presseportal Artikel] – Offizielle Pressemitteilung der Polizei, veröffentlicht auf dem Presseportal.
+
+[Kategorie:13.12.2025]</text>
+      <sha1>db1nv5z4wj4ipg7dhopzogxgtenef1h</sha1>
+    </revision>
+    <revision>
+      <id>951</id>
+      <parentid>950</parentid>
+      <timestamp>2025-12-16T09:38:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>951</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="510" sha1="lsljfhpx48vy4ca2zgzhtwcp59cza1v" xml:space="preserve">Am 13.12.2025 kam es gegen 18:20 Uhr in der Manhagener Allee zu einem Streit um einen Parkplatz. Dabei wurde ein Mann von mehreren Unbekannten bewusstlos geschlagen. Die Polizei ermittelt wegen gefährlicher Körperverletzung und bittet um Hinweise unter 04102/809-0 oder Ahrensburg.KPSt@polizei.landsh.de.
+
+==Quellangabe==
+* [https://www.presseportal.de/blaulicht/pm/43735/6179455 Presseportal Artikel] – Offizielle Pressemitteilung der Polizei, veröffentlicht auf dem Presseportal.
+
+[kategorie:13.12.2025]</text>
+      <sha1>lsljfhpx48vy4ca2zgzhtwcp59cza1v</sha1>
+    </revision>
+    <revision>
+      <id>952</id>
+      <parentid>951</parentid>
+      <timestamp>2025-12-16T09:38:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>952</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="512" sha1="66jtvha96ww6ia045q87i4qfneslqcv" xml:space="preserve">Am 13.12.2025 kam es gegen 18:20 Uhr in der Manhagener Allee zu einem Streit um einen Parkplatz. Dabei wurde ein Mann von mehreren Unbekannten bewusstlos geschlagen. Die Polizei ermittelt wegen gefährlicher Körperverletzung und bittet um Hinweise unter 04102/809-0 oder Ahrensburg.KPSt@polizei.landsh.de.
+
+==Quellangabe==
+* [https://www.presseportal.de/blaulicht/pm/43735/6179455 Presseportal Artikel] – Offizielle Pressemitteilung der Polizei, veröffentlicht auf dem Presseportal.
+
+[[kategorie:13.12.2025]]</text>
+      <sha1>66jtvha96ww6ia045q87i4qfneslqcv</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse:Spring boot</title>
+    <ns>3002</ns>
+    <id>224</id>
+    <revision>
+      <id>955</id>
+      <timestamp>2025-12-18T03:08:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* Chad Darby Spring Boot 3, Spring 6 &amp; Hibernate for Beginners * Navin Reddy (Telusko) Java Spring Framework, Spring Boot, Spring AI * Ranga Karnam (in28Minutes) Master SB 3 &amp; Spring Framework 6 with Java * John Thompson Spring Boot Microservices Beginner to Guru“</comment>
+      <origin>955</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="263" sha1="1zf8thd01kgc7z56tf773t5xz2fyp5i" xml:space="preserve">* Chad Darby Spring Boot 3, Spring 6 &amp; Hibernate for Beginners
+* Navin Reddy (Telusko) Java Spring Framework, Spring Boot, Spring AI
+* Ranga Karnam (in28Minutes) Master SB 3 &amp; Spring Framework 6 with Java
+* John Thompson Spring Boot Microservices Beginner to Guru</text>
+      <sha1>1zf8thd01kgc7z56tf773t5xz2fyp5i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Ahrensburg</title>
+    <ns>14</ns>
+    <id>225</id>
+    <revision>
+      <id>963</id>
+      <timestamp>2025-12-18T14:58:13Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Hallo“</comment>
+      <origin>963</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5" sha1="ahu6boht5wvhcfo3z6ob77ccec8eqof" xml:space="preserve">Hallo</text>
+      <sha1>ahu6boht5wvhcfo3z6ob77ccec8eqof</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Geschichte</title>
+    <ns>14</ns>
+    <id>226</id>
+    <revision>
+      <id>965</id>
+      <timestamp>2025-12-18T15:00:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[kategorie:Ahrensburg]]“</comment>
+      <origin>965</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" sha1="j2w6a5ws2yby5d1yv6oimsoa5ldv4yo" xml:space="preserve">[[kategorie:Ahrensburg]]</text>
+      <sha1>j2w6a5ws2yby5d1yv6oimsoa5ldv4yo</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Allgemeines</title>
+    <ns>14</ns>
+    <id>227</id>
+    <revision>
+      <id>967</id>
+      <timestamp>2025-12-18T15:16:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[kategorie:ahrensburg]]“</comment>
+      <origin>967</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" sha1="75jyla38eptm03g3n7wk7gnf884j389" xml:space="preserve">[[kategorie:ahrensburg]]</text>
+      <sha1>75jyla38eptm03g3n7wk7gnf884j389</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Nachrichten:18.12.2025 Eckart Boege tritt aus der SPD aus</title>
+    <ns>3014</ns>
+    <id>228</id>
+    <revision>
+      <id>968</id>
+      <timestamp>2025-12-18T20:47:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>968</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="727" sha1="ebw90o77ixqvjygt66sny0dt40zjqc5" xml:space="preserve">Am 18. Dezember 2025 trat Ahrensburgs Bürgermeister Eckart Boege nach 20 Jahren aus der SPD aus. Grund sind Differenzen mit der SPD-Fraktion über den geplanten Schulneubau „Am Heimgarten“. Boege bleibt parteilos Bürgermeister und betont die Überparteilichkeit seines Amtes.
+
+
+==Quellangabe==
+* [https://www.abendblatt.de/schleswig-holstein/stormarn/article410740145/nach-20-jahren-in-der-partei-buergermeister-boege-verlaesst-die-spd.html abendblatt.de]
+* [https://www.shz.de/lokales/bargteheide-ahrensburg/artikel/ahrensburg-buergermeister-eckart-boege-tritt-aus-der-spd-aus-49662702 shz]
+* [https://ahrensburg-portal.de/ahrensburg-eckart-boege-ist-aus-der-spd-ausgetreten/ ahrensburg-portal]
+
+[[kategorie:18.12.2025]]</text>
+      <sha1>ebw90o77ixqvjygt66sny0dt40zjqc5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:18.12.2025</title>
+    <ns>14</ns>
+    <id>229</id>
+    <revision>
+      <id>969</id>
+      <timestamp>2025-12-18T20:48:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[kategorie:12.2025]]“</comment>
+      <origin>969</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="aadv0iewncl0zyka9e6taw9ak6mvx01" xml:space="preserve">[[kategorie:12.2025]]</text>
+      <sha1>aadv0iewncl0zyka9e6taw9ak6mvx01</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Server:Typo3</title>
+    <ns>3000</ns>
+    <id>230</id>
+    <revision>
+      <id>976</id>
+      <timestamp>2025-12-23T01:14:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „= TYPO3 CMS =  Erstelle eine neue SQLite3-Datenbank mit PHP:  &lt;syntaxhighlight lang="bash"&gt; sudo apt-get install php-sqlite3 sudo systemctl restart nginx &lt;/syntaxhighlight&gt;  Oder erstelle eine neue PostgreSQL-Datenbank:  &lt;syntaxhighlight lang="bash"&gt; sudo -u postgres -i createdb -E UTF8 -O thorsten typo3 exit &lt;/syntaxhighlight&gt;  == Herunterladen und Installieren ==  Lade das Repository herunter und installiere die Abhängigkeiten:  &lt;syntaxhighlight lang="…“</comment>
+      <origin>976</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6288" sha1="daxgz11mriamq2tibcytixyemxvxwcg" xml:space="preserve">= TYPO3 CMS =
+
+Erstelle eine neue SQLite3-Datenbank mit PHP:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo apt-get install php-sqlite3
+sudo systemctl restart nginx
+&lt;/syntaxhighlight&gt;
+
+Oder erstelle eine neue PostgreSQL-Datenbank:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten typo3
+exit
+&lt;/syntaxhighlight&gt;
+
+== Herunterladen und Installieren ==
+
+Lade das Repository herunter und installiere die Abhängigkeiten:
+
+&lt;syntaxhighlight lang="bash"&gt;
+git clone https://github.com/thorstenkloehn/typo3.git
+sudo chown -R www-data:www-data /var/www/typo3
+find typo3 -type d -exec chmod 755 {} \;
+find typo3 -type f -exec chmod 644 {} \;
+&lt;/syntaxhighlight&gt;
+
+Erstelle die folgende nginx-Konfigurationsdatei:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo nano /etc/nginx/conf.d/typo3.conf
+&lt;/syntaxhighlight&gt;
+
+Füge folgendes ein:
+&lt;syntaxhighlight lang="nginx"&gt;
+server {
+    listen 80;
+    server_name typo3.localhost;
+    root /var/www/typo3/public;
+
+    index index.php index.html;
+
+#    include /etc/nginx/conf.d/nginx.conf;
+
+    location ~ \.js\.gzip$ {
+        add_header Content-Encoding gzip;
+        gzip off;
+        types { text/javascript gzip; }
+    }
+    location ~ \.css\.gzip$ {
+        add_header Content-Encoding gzip;
+        gzip off;
+        types { text/css gzip; }
+    }
+
+    if (!-e $request_filename) {
+        rewrite ^/(.+)\.(\d+)\.(php|js|css|png|jpg|gif|gzip)$ /$1.$3 last;
+    }
+
+    location ~* composer\.(?:json|lock) {
+        deny all;
+    }
+    location ~* flexform[^.]*\.xml {
+        deny all;
+    }
+    location ~* locallang[^.]*\.(?:xml|xlf)$ {
+        deny all;
+    }
+    location ~* ext_conf_template\.txt|ext_typoscript_constants\.txt|ext_typoscript_setup\.txt {
+        deny all;
+    }
+    location ~* /.*\.(?:bak|co?nf|cfg|ya?ml|ts|typoscript|tsconfig|dist|fla|in[ci]|log|sh|sql|sqlite)$ {
+        deny all;
+    }
+    location ~ _(?:recycler|temp)_/ {
+        deny all;
+    }
+    location ~ fileadmin/(?:templates)/.*\.(?:txt|ts|typoscript)$ {
+        deny all;
+    }
+    location ~ ^(?:vendor|typo3_src|typo3temp/var) {
+        deny all;
+    }
+    location ~ (?:typo3conf/ext|typo3/sysext|typo3/ext)/[^/]+/(?:Configuration|Resources/Private|Tests?|Documentation|docs?)/ {
+        deny all;
+    }
+
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+    location = /typo3 {
+        rewrite ^ /typo3/;
+    }
+    location /typo3/ {
+        absolute_redirect off;
+        try_files $uri /typo3/index.php$is_args$args;
+    }
+    location ~ [^/]\.php(/|$) {
+        fastcgi_split_path_info ^(.+?\.php)(/.*)$;
+        if (!-f $document_root$fastcgi_script_name) {
+            return 404;
+        }
+        fastcgi_buffer_size 32k;
+        fastcgi_buffers 8 16k;
+        fastcgi_connect_timeout 240s;
+        fastcgi_read_timeout 240s;
+        fastcgi_send_timeout 240s;
+
+        include              snippets/fastcgi-php.conf;
+        fastcgi_pass         unix:/var/run/php/php8.4-fpm.sock;
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+== Server übertragen ==
+
+Um die TYPO3-Installation auf einen anderen Server zu übertragen, kannst du folgenden &lt;code&gt;rsync&lt;/code&gt;-Befehl verwenden:
+
+&lt;syntaxhighlight lang="bash"&gt;
+rsync -avz --exclude 'config/' \
+  --exclude '.DS_Store' \
+  --exclude '.idea/' \
+  --exclude 'nbproject/' \
+  --exclude 'var/' \
+  --exclude 'vendor/' \
+  --exclude 'public/' \
+  --exclude '.git/' \
+  --exclude '.gitignore' \
+  /var/www/typo3/ user@server:/var/www/typo3/
+&lt;/syntaxhighlight&gt;
+
+== Composer Ausführen ==
+
+&lt;syntaxhighlight lang="bash"&gt;
+composer install --no-dev --optimize-autoloader
+&lt;/syntaxhighlight&gt;
+
+Passe &lt;code&gt;user@server&lt;/code&gt; entsprechend deiner Zielumgebung an. Weitere Ausschlüsse können je nach Bedarf ergänzt werden, z.B. für temporäre Dateien oder Backups.
+
+Erstelle die folgende nginx-Konfigurationsdatei:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo nano /etc/nginx/conf.d/typo3.conf
+&lt;/syntaxhighlight&gt;
+
+Füge folgendes ein:
+&lt;syntaxhighlight lang="nginx"&gt;
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+    server_name typo3.ahrensburg.city;
+    ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+    server_name typo3.localhost;
+    root /var/www/typo3/public;
+
+    index index.php index.html;
+
+#    include /etc/nginx/conf.d/nginx.conf;
+
+    location ~ \.js\.gzip$ {
+        add_header Content-Encoding gzip;
+        gzip off;
+        types { text/javascript gzip; }
+    }
+    location ~ \.css\.gzip$ {
+        add_header Content-Encoding gzip;
+        gzip off;
+        types { text/css gzip; }
+    }
+
+    if (!-e $request_filename) {
+        rewrite ^/(.+)\.(\d+)\.(php|js|css|png|jpg|gif|gzip)$ /$1.$3 last;
+    }
+
+    location ~* composer\.(?:json|lock) {
+        deny all;
+    }
+    location ~* flexform[^.]*\.xml {
+        deny all;
+    }
+    location ~* locallang[^.]*\.(?:xml|xlf)$ {
+        deny all;
+    }
+    location ~* ext_conf_template\.txt|ext_typoscript_constants\.txt|ext_typoscript_setup\.txt {
+        deny all;
+    }
+    location ~* /.*\.(?:bak|co?nf|cfg|ya?ml|ts|typoscript|tsconfig|dist|fla|in[ci]|log|sh|sql|sqlite)$ {
+        deny all;
+    }
+    location ~ _(?:recycler|temp)_/ {
+        deny all;
+    }
+    location ~ fileadmin/(?:templates)/.*\.(?:txt|ts|typoscript)$ {
+        deny all;
+    }
+    location ~ ^(?:vendor|typo3_src|typo3temp/var) {
+        deny all;
+    }
+    location ~ (?:typo3conf/ext|typo3/sysext|typo3/ext)/[^/]+/(?:Configuration|Resources/Private|Tests?|Documentation|docs?)/ {
+        deny all;
+    }
+
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+    location = /typo3 {
+        rewrite ^ /typo3/;
+    }
+    location /typo3/ {
+        absolute_redirect off;
+        try_files $uri /typo3/index.php$is_args$args;
+    }
+    location ~ [^/]\.php(/|$) {
+        fastcgi_split_path_info ^(.+?\.php)(/.*)$;
+        if (!-f $document_root$fastcgi_script_name) {
+            return 404;
+        }
+        fastcgi_buffer_size 32k;
+        fastcgi_buffers 8 16k;
+        fastcgi_connect_timeout 240s;
+        fastcgi_read_timeout 240s;
+        fastcgi_send_timeout 240s;
+
+        include              snippets/fastcgi-php.conf;
+        fastcgi_pass         unix:/var/run/php/php8.4-fpm.sock;
+    }
+}
+&lt;/syntaxhighlight&gt;</text>
+      <sha1>daxgz11mriamq2tibcytixyemxvxwcg</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Dokument Generator</title>
+    <ns>0</ns>
+    <id>231</id>
+    <revision>
+      <id>977</id>
+      <timestamp>2025-12-23T05:31:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>977</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1592" sha1="oxivwoecp37logek6offieq3uqdrdwe" xml:space="preserve">== Open Source Bereich ==
+=== Docs-as-Code / Statische Generatoren ===
+* Antora – Open Source, speziell für technische Dokumentation; speichert Inhalte als reines Git-Repository, unterstützt Modularisierung und Mehrsprachigkeit
+* MkDocs Material – sehr gut für Markdown-Dokumentationen (einfach, viele Plugins; eher für mittelgroße bis große Projekte)
+* Hugo – gut für große statische Seiten, aber mehr Template-/Build-Aufwand
+* Starlight / Astro – modern für Developer Docs, schnell und flexibel (Ökosystem noch im Aufbau)
+* Astro (mit Docs-Theme)
+=== Webbasierte Wikis ===
+* MediaWiki
+=== Webbasierte Doku-Systeme ===
+* Wiki.js – Open Source, Self-Hosting möglich, unterstützt PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server
+=== Self-Hosting ===
+* Forgejo Pages – Fork von Gitea, bietet ebenfalls Pages-Funktion für statische Seiten
+* SourceHut Pages – minimalistisches Git-Hosting mit statischem Seiten-Hosting
+* Gitea Pages
+* GitLab Pages
+=== Externes Hosting ===
+* GitHub Pages
+* Netlify – einfaches Hosting für statische Seiten, CI/CD integriert
+* Vercel – spezialisiert auf schnelle Deployments, besonders für Next.js und andere moderne Frameworks
+* Read the Docs – speziell für technische Dokumentation, unterstützt Sphinx und MkDocs
+* Cloudflare Pages – schnelles, globales Hosting für statische Seiten, Git-Integration
+=== Git-Hosting Self-Hosting ===
+* Gitea
+* Forgejo – Fork von Gitea, mit ähnlichen Funktionen und aktiver Community
+* GitLab Community Edition – sehr umfangreich, mit integriertem CI/CD, Issue-Tracking, Wiki und mehr</text>
+      <sha1>oxivwoecp37logek6offieq3uqdrdwe</sha1>
+    </revision>
+    <revision>
+      <id>978</id>
+      <parentid>977</parentid>
+      <timestamp>2025-12-23T05:43:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>978</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1394" sha1="thqmycgxzn5q4gdm74ejbntav5bifhv" xml:space="preserve">== Open Source Bereich ==
+=== Docs-as-Code / Statische Generatoren ===
+* Antora – Open Source, speziell für technische Dokumentation; speichert Inhalte als reines Git-Repository, unterstützt Modularisierung und Mehrsprachigkeit
+* MkDocs Material – sehr gut für Markdown-Dokumentationen (einfach, viele Plugins; eher für mittelgroße bis große Projekte)
+* Hugo – gut für große statische Seiten, aber mehr Template-/Build-Aufwand
+* Starlight / Astro – modern für Developer Docs, schnell und flexibel (Ökosystem noch im Aufbau)
+* Astro (mit Docs-Theme)
+=== Webbasierte Wikis ===
+* MediaWiki
+=== Webbasierte Doku-Systeme ===
+* Wiki.js – Open Source, Self-Hosting möglich, unterstützt PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server
+=== Self-Hosting ===
+* Forgejo Pages – Fork von Gitea, bietet ebenfalls Pages-Funktion für statische Seiten
+* GitLab Pages
+=== Externes Hosting ===
+* GitHub Pages
+* Netlify – einfaches Hosting für statische Seiten, CI/CD integriert
+* Vercel – spezialisiert auf schnelle Deployments, besonders für Next.js und andere moderne Frameworks
+* Read the Docs – speziell für technische Dokumentation, unterstützt Sphinx und MkDocs
+* Cloudflare Pages – schnelles, globales Hosting für statische Seiten, Git-Integration
+=== Git-Hosting Self-Hosting ===
+* Gitea
+* Forgejo – Fork von Gitea, mit ähnlichen Funktionen und aktiver Community</text>
+      <sha1>thqmycgxzn5q4gdm74ejbntav5bifhv</sha1>
+    </revision>
+    <revision>
+      <id>979</id>
+      <parentid>978</parentid>
+      <timestamp>2025-12-23T07:38:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>979</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1403" sha1="88h7e4cf2lotj8bof8ltjfg9m6tw7db" xml:space="preserve">== Open Source Bereich ==
+=== Docs-as-Code / Statische Generatoren ===
+* Antora – Open Source, speziell für technische Dokumentation; speichert Inhalte als reines Git-Repository, unterstützt Modularisierung und Mehrsprachigkeit
+* MkDocs Material – sehr gut für Markdown-Dokumentationen (einfach, viele Plugins; eher für mittelgroße bis große Projekte)
+* Hugo – gut für große statische Seiten, aber mehr Template-/Build-Aufwand
+* Starlight / Astro – modern für Developer Docs, schnell und flexibel (Ökosystem noch im Aufbau)
+* Astro (mit Docs-Theme)
+* Statiq
+=== Webbasierte Wikis ===
+* MediaWiki
+=== Webbasierte Doku-Systeme ===
+* Wiki.js – Open Source, Self-Hosting möglich, unterstützt PostgreSQL, MySQL, MariaDB, SQLite, MS SQL Server
+=== Self-Hosting ===
+* Forgejo Pages – Fork von Gitea, bietet ebenfalls Pages-Funktion für statische Seiten
+* GitLab Pages
+=== Externes Hosting ===
+* GitHub Pages
+* Netlify – einfaches Hosting für statische Seiten, CI/CD integriert
+* Vercel – spezialisiert auf schnelle Deployments, besonders für Next.js und andere moderne Frameworks
+* Read the Docs – speziell für technische Dokumentation, unterstützt Sphinx und MkDocs
+* Cloudflare Pages – schnelles, globales Hosting für statische Seiten, Git-Integration
+=== Git-Hosting Self-Hosting ===
+* Gitea
+* Forgejo – Fork von Gitea, mit ähnlichen Funktionen und aktiver Community</text>
+      <sha1>88h7e4cf2lotj8bof8ltjfg9m6tw7db</sha1>
     </revision>
   </page>
 </mediawiki>
