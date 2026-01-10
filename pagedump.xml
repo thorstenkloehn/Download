@@ -1,8 +1,8 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="de">
   <siteinfo>
-    <sitename>ahrensburg.city</sitename>
-    <dbname>mediawiki</dbname>
-    <base>http://localhost/index.php/Hauptseite</base>
+    <sitename>Ahrensburg.city</sitename>
+    <dbname>wiki</dbname>
+    <base>https://ahrensburg.city/Hauptseite</base>
     <generator>MediaWiki 1.45.1</generator>
     <case>first-letter</case>
     <namespaces>
@@ -24,6 +24,12 @@
       <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
       <namespace key="14" case="first-letter">Kategorie</namespace>
       <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="120" case="first-letter">Item</namespace>
+      <namespace key="121" case="first-letter">Item talk</namespace>
+      <namespace key="122" case="first-letter">Property</namespace>
+      <namespace key="123" case="first-letter">Property talk</namespace>
+      <namespace key="3014" case="first-letter">Nachrichten</namespace>
+      <namespace key="3015" case="first-letter">Nachrichten Diskussion</namespace>
     </namespaces>
   </siteinfo>
   <page>
@@ -32,7 +38,7 @@
     <id>1</id>
     <revision>
       <id>1</id>
-      <timestamp>2026-01-03T08:56:27Z</timestamp>
+      <timestamp>2026-01-05T00:44:31Z</timestamp>
       <contributor>
         <username>MediaWiki default</username>
         <id>1</id>
@@ -55,12 +61,35 @@ Hilfe zur Verwendung und Konfiguration der Wiki-Software {{#FORMAL:findest du|fi
     </revision>
     <revision>
       <id>2</id>
-      <parentid>1</parentid>
+      <timestamp>2026-01-03T08:56:27Z</timestamp>
+      <contributor>
+        <username>MediaWiki default</username>
+        <id>1</id>
+      </contributor>
+      <origin>2</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="977" sha1="5g1j0w75zo6wmoxydzpbbfjn5ifd5c8" xml:space="preserve">&lt;strong&gt;MediaWiki wurde installiert.&lt;/strong&gt;
+
+Hilfe zur Verwendung und Konfiguration der Wiki-Software {{#FORMAL:findest du|finden Sie}} im [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Benutzerhandbuch].
+
+== Starthilfen ==
+
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Liste der Konfigurationsparameter]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ Häufige Fragen zu MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Mailingliste zu neuen Versionen von MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources {{#FORMAL:Übersetze|Übersetzen Sie}} MediaWiki {{#FORMAL:für deine|in Ihre}} Sprache]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam {{#FORMAL:Erfahre|Erfahren Sie}}, wie {{#FORMAL:du|Sie}} Spam auf {{#FORMAL:deinem|ihrem}} Wiki bekämpfen {{#FORMAL:kannst|können}}]</text>
+      <sha1>5g1j0w75zo6wmoxydzpbbfjn5ifd5c8</sha1>
+    </revision>
+    <revision>
+      <id>3</id>
+      <parentid>2</parentid>
       <timestamp>2026-01-03T09:08:00Z</timestamp>
       <contributor>
         <ip>127.0.0.1</ip>
       </contributor>
-      <origin>2</origin>
+      <origin>3</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1442" sha1="sncqcefmra9c5w05m05n6wenlipd6u8" xml:space="preserve">__NOTOC__
@@ -91,13 +120,13 @@ count=10
       <sha1>sncqcefmra9c5w05m05n6wenlipd6u8</sha1>
     </revision>
     <revision>
-      <id>3</id>
-      <parentid>2</parentid>
+      <id>4</id>
+      <parentid>3</parentid>
       <timestamp>2026-01-03T09:08:40Z</timestamp>
       <contributor>
         <ip>127.0.0.1</ip>
       </contributor>
-      <origin>3</origin>
+      <origin>4</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1302" sha1="ncmsdo5vu4v71zynak3tz8dqrvytfkw" xml:space="preserve">__NOTOC__
@@ -123,20 +152,433 @@ count=10
 * [[Ahrensburg Nachrichten Website]]</text>
       <sha1>ncmsdo5vu4v71zynak3tz8dqrvytfkw</sha1>
     </revision>
+    <revision>
+      <id>40</id>
+      <parentid>1</parentid>
+      <timestamp>2026-01-05T00:54:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>40</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1302" sha1="ncmsdo5vu4v71zynak3tz8dqrvytfkw" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]</text>
+      <sha1>ncmsdo5vu4v71zynak3tz8dqrvytfkw</sha1>
+    </revision>
+    <revision>
+      <id>47</id>
+      <parentid>40</parentid>
+      <timestamp>2026-01-08T12:35:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>47</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1757" sha1="lovox6c1hwkqqz24lxzpmvuooewesub" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+
+== Karte von Ahrensburg ==
+&lt;mapframe width="600" height="400" zoom="13" latitude="53.675" longitude="10.241"&gt;
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": { "type": "Point", "coordinates": [10.241, 53.675] },
+            "properties": {
+                "title": "Ahrensburg",
+                "description": "Stadtzentrum von Ahrensburg"
+            }
+        }
+    ]
+}
+&lt;/mapframe&gt;</text>
+      <sha1>lovox6c1hwkqqz24lxzpmvuooewesub</sha1>
+    </revision>
+    <revision>
+      <id>48</id>
+      <parentid>47</parentid>
+      <timestamp>2026-01-09T01:26:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>48</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1302" sha1="ncmsdo5vu4v71zynak3tz8dqrvytfkw" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]</text>
+      <sha1>ncmsdo5vu4v71zynak3tz8dqrvytfkw</sha1>
+    </revision>
+    <revision>
+      <id>54</id>
+      <parentid>48</parentid>
+      <timestamp>2026-01-09T11:32:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>54</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1324" sha1="kb0pbnqz68i3m05d51jxu7pzcq9ffjt" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg 
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+
+
+{{#statements:P31}}</text>
+      <sha1>kb0pbnqz68i3m05d51jxu7pzcq9ffjt</sha1>
+    </revision>
+    <revision>
+      <id>55</id>
+      <parentid>54</parentid>
+      <timestamp>2026-01-09T11:36:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Inoffizielle Stadtseite von Ahrensburg – Dokumente */</comment>
+      <origin>55</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1343" sha1="2icz670hg6o7kwww0w608iqb58u3rul" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg
+
+{{#statements:Q2}}
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+
+
+{{#statements:P31}}</text>
+      <sha1>2icz670hg6o7kwww0w608iqb58u3rul</sha1>
+    </revision>
+    <revision>
+      <id>56</id>
+      <parentid>55</parentid>
+      <timestamp>2026-01-09T11:37:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>56</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1342" sha1="lxd38zbo9l8ex84i0jhyih8q4ejkx9g" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg
+
+{{#statements:Q2}}
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+* [[Ahrensburg Nachrichten Website]]
+
+
+{{#statements:P1}}</text>
+      <sha1>lxd38zbo9l8ex84i0jhyih8q4ejkx9g</sha1>
+    </revision>
+    <revision>
+      <id>57</id>
+      <parentid>56</parentid>
+      <timestamp>2026-01-09T11:39:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>57</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1611" sha1="a9nojejru9hmetpa3am2o6a6zcm8442" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg
+
+{{#statements:Q2}}
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+{| class="wikitable"
+|+ Daten über Strehl (automatisch aus Wikibase)
+|-
+! Eigenschaft !! Wert
+|-
+| Land || {{#property:P17|from=Q668614}}
+|-
+| Höhe über Meeresspiegel || {{#property:P2044|from=Q668614}}
+|-
+| Offizielle Website || {{#property:P856|from=Q668614}}
+|}
+
+* [[Ahrensburg Nachrichten Website]]
+
+
+{{#statements:P1}}</text>
+      <sha1>a9nojejru9hmetpa3am2o6a6zcm8442</sha1>
+    </revision>
+    <revision>
+      <id>58</id>
+      <parentid>57</parentid>
+      <timestamp>2026-01-09T11:43:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>58</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1631" sha1="5erammipqyg96tfxbnubds6xoiw4dak" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg
+
+{{#statements:Q2}}
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+{| class="wikitable"
+|+ Daten über Strehl (automatisch aus Wikibase)
+|-
+! Eigenschaft !! Wert
+|-
+| Land || {{#property:P17|from=Q668614}}
+|-
+| Höhe über Meeresspiegel || {{#property:P2044|from=Q668614}}
+|-
+| Offizielle Website || {{#property:P856|from=Q668614}}
+|}
+
+* [[Ahrensburg Nachrichten Website]]
+* [[Item:Q2|Hier geht es zu Restaurant]]</text>
+      <sha1>5erammipqyg96tfxbnubds6xoiw4dak</sha1>
+    </revision>
+    <revision>
+      <id>59</id>
+      <parentid>58</parentid>
+      <timestamp>2026-01-09T12:01:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>59</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1364" sha1="m0onq720mp8sike2hbxz5dkf6xq76es" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg
+
+{{#statements:Q2}}
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+
+
+* [[Ahrensburg Nachrichten Website]]
+* [[Item:Q2|Hier geht es zu Restaurant]]</text>
+      <sha1>m0onq720mp8sike2hbxz5dkf6xq76es</sha1>
+    </revision>
+    <revision>
+      <id>60</id>
+      <parentid>59</parentid>
+      <timestamp>2026-01-09T12:49:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>60</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1323" sha1="1zq0m64dcm4v238ckojx8gdw94kwk5u" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg
+
+{{#statements:Q2}}
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+
+
+* [[Ahrensburg Nachrichten Website]]</text>
+      <sha1>1zq0m64dcm4v238ckojx8gdw94kwk5u</sha1>
+    </revision>
   </page>
   <page>
     <title>Geschichte &amp; Allgemeines</title>
     <ns>0</ns>
     <id>2</id>
     <revision>
-      <id>4</id>
+      <id>5</id>
       <timestamp>2026-01-03T09:13:14Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „'''Ahrensburg''' ist eine Stadt im Kreis Stormarn in Schleswig-Holstein, Deutschland. Sie liegt nordöstlich von Hamburg und ist bekannt für ihr Schloss sowie ihre gute Anbindung an die Metropolregion Hamburg. * [[Geschichte der Stadt Ahrensburg]] * [[Geografie]] [[kategorie:Geschichte]] [[kategorie:Allgemeines]]“</comment>
-      <origin>4</origin>
+      <origin>5</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="315" sha1="50maozdrmslge9x7xgaijco10d5wd1x" xml:space="preserve">'''Ahrensburg''' ist eine Stadt im Kreis Stormarn in Schleswig-Holstein, Deutschland. Sie liegt nordöstlich von Hamburg und ist bekannt für ihr Schloss sowie ihre gute Anbindung an die Metropolregion Hamburg.
@@ -152,14 +594,14 @@ count=10
     <ns>0</ns>
     <id>3</id>
     <revision>
-      <id>5</id>
+      <id>6</id>
       <timestamp>2026-01-03T09:15:03Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „=== Vorgeschichte === ====Steinzeit==== Während der Eiszeit formten Gletscher die Landschaft rund um Ahrensburg. Nach ihrem Rückzug entstanden Hügel, Seen und Moore. Bereits am Ende der Eiszeit lebten Menschen in Ahrensburg. Sie waren von den Wanderungen großer Rentierherden abhängig. Sie jagten Rentiere und sammelten Früchte, um ihren Lebensunterhalt zu sichern und Kleidung herzustellen. Sie stellten Steinwerkzeuge für die Jagd auf Rentierherden h…“</comment>
-      <origin>5</origin>
+      <origin>6</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3242" sha1="gvfzjtj152j7t2xiwxzd49ee5u8gyaw" xml:space="preserve">=== Vorgeschichte ===
@@ -187,14 +629,14 @@ Mit der Säkularisation des Klosters Reinfeld im Jahr 1560 kam Woldenhorn in den
     <ns>0</ns>
     <id>4</id>
     <revision>
-      <id>6</id>
+      <id>7</id>
       <timestamp>2026-01-03T09:17:08Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „ Ahrensburg ist eine Stadt im Kreis Stormarn in Schleswig-Holstein. Sie liegt nordöstlich von Hamburg und hat etwa 34.000 Einwohner. Ahrensburg befindet sich bei 10°14'30" östlicher Länge und 53°40'30" nördlicher Breite.  Ahrensburg liegt etwa 20 km nordöstlich von Hamburg und etwa 30 km südwestlich von Lübeck. Die Stadt liegt am Rand des Hamburger Umlands und grenzt an die Gemeinden Ammersbek, Delingsdorf, Hammoor, Todendorf und Großhansdorf.…“</comment>
-      <origin>6</origin>
+      <origin>7</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1753" sha1="4ceyppup9cv3r0uv7mdwjg8ye8tidzb" xml:space="preserve">
@@ -235,14 +677,14 @@ Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
     <ns>0</ns>
     <id>5</id>
     <revision>
-      <id>7</id>
+      <id>8</id>
       <timestamp>2026-01-03T09:20:07Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „Ahrensburg bietet eine Vielzahl an Sehenswürdigkeiten und kulturellen Angeboten. Besonders bekannt ist das Ahrensburger Schloss, das als Wahrzeichen der Stadt gilt. Darüber hinaus laden Museen, Theater und regelmäßige Veranstaltungen dazu ein, die kulturelle Vielfalt der Stadt zu entdecken. * [[Sehenswürdigkeiten]] * [[Musik und Theater]] * [[Regelmäßige Feste &amp; Veranstaltungen]]“</comment>
-      <origin>7</origin>
+      <origin>8</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="389" sha1="i6xs9fxmvyyvrpv67kpcdyxzdlpmwrg" xml:space="preserve">Ahrensburg bietet eine Vielzahl an Sehenswürdigkeiten und kulturellen Angeboten. Besonders bekannt ist das Ahrensburger Schloss, das als Wahrzeichen der Stadt gilt. Darüber hinaus laden Museen, Theater und regelmäßige Veranstaltungen dazu ein, die kulturelle Vielfalt der Stadt zu entdecken.
@@ -257,14 +699,14 @@ Ahrensburg ist rund 18 % bewaldet. Die größten Waldgebiete sind:
     <ns>0</ns>
     <id>6</id>
     <revision>
-      <id>8</id>
+      <id>9</id>
       <timestamp>2026-01-03T09:21:30Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Sehenswürdigkeiten in Ahrensburg ==  Ahrensburg bietet zahlreiche Sehenswürdigkeiten:  * '''[[Schloss Ahrensburg]]''': Das weiße Renaissanceschloss ist das Wahrzeichen der Stadt und beherbergt ein Museum. * '''[[Schlosskirche Ahrensburg]]''': Historische Kirche aus dem 15. Jahrhundert.“</comment>
-      <origin>8</origin>
+      <origin>9</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="292" sha1="75fh1783pdu3a6csoux2j7u1oftqhmd" xml:space="preserve">== Sehenswürdigkeiten in Ahrensburg ==
@@ -281,14 +723,14 @@ Ahrensburg bietet zahlreiche Sehenswürdigkeiten:
     <ns>0</ns>
     <id>7</id>
     <revision>
-      <id>9</id>
+      <id>10</id>
       <timestamp>2026-01-03T09:22:10Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „Das leuchtend weiße, von einem Wassergraben umgebene Schloss Ahrensburg liegt im südlichen Schleswig-Holstein, nordöstlich von Hamburg und nördlich des Stadtzentrums von Ahrensburg an der Lübecker Straße. Es ist in einen sehr schönen englischen Landschaftspark eingebettet. Das kleine Schloss wird allgemein als Herrenhaus bezeichnet. Früher, in der Renaissancezeit bis zur Weimarer Zeit, lag es inmitten der Ländereien eines adligen Gutes.  Das Schl…“</comment>
-      <origin>9</origin>
+      <origin>10</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="4130" sha1="6inbjpf9gut3zvcbqvb44dplb6syhgk" xml:space="preserve">Das leuchtend weiße, von einem Wassergraben umgebene Schloss Ahrensburg liegt im südlichen Schleswig-Holstein, nordöstlich von Hamburg und nördlich des Stadtzentrums von Ahrensburg an der Lübecker Straße. Es ist in einen sehr schönen englischen Landschaftspark eingebettet.
@@ -334,14 +776,14 @@ Das Schloss Ahrensburg eignet sich ideal für Lesungen, Konzerte, Ausstellungen 
     <ns>0</ns>
     <id>8</id>
     <revision>
-      <id>10</id>
+      <id>11</id>
       <timestamp>2026-01-03T09:23:17Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „'''Die denkmalgeschützte Schlosskapelle Ahrensburg''' befindet sich im Norden von Ahrensburg, Schleswig-Holstein, Deutschland, und ist eine evangelisch-lutherische Kirche direkt gegenüber dem Ahrensburger Schloss. Das Bauwerk im spätgotischen Backsteinstil gilt als herausragendes Beispiel historischer Architektur und verleiht dem Alten Marktplatz besonderen Glanz. Die Kirche zählt zu den ersten Kirchenneubauten nach der Reformationszeit. Ihre Adresse…“</comment>
-      <origin>10</origin>
+      <origin>11</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1775" sha1="ei1o3idotpb8490c7rg0e8dhlgsm1iv" xml:space="preserve">'''Die denkmalgeschützte Schlosskapelle Ahrensburg''' befindet sich im Norden von Ahrensburg, Schleswig-Holstein, Deutschland, und ist eine evangelisch-lutherische Kirche direkt gegenüber dem Ahrensburger Schloss. Das Bauwerk im spätgotischen Backsteinstil gilt als herausragendes Beispiel historischer Architektur und verleiht dem Alten Marktplatz besonderen Glanz. Die Kirche zählt zu den ersten Kirchenneubauten nach der Reformationszeit. Ihre Adresse ist Am Alten Markt 7, 22926 Ahrensburg, Deutschland, und telefonisch ist sie unter +49 4102 52584 erreichbar.
@@ -362,14 +804,14 @@ Die Kirche weist Elemente der Renaissance-Architektur auf und ist besonders für
     <ns>0</ns>
     <id>9</id>
     <revision>
-      <id>11</id>
+      <id>12</id>
       <timestamp>2026-01-03T09:27:48Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „==Alfred-Rust-Saal== Der Alfred-Rust-Saal befindet sich in der Adresse Wulfsdorfer Weg 71, 22926 Ahrensburg. Er ist ein zentraler Ort für Theater, Musik, Events und Vorträge. Der Saal hat 462 Plätze. Die Gesamtfläche beträgt 441m².   * [[Eduard-Söring-Saal]] * [[Kulturzentrum Marstall Ahrensburg]] * [[Kulturbühne Kultavida]] * [[Schloss Ahrensburg]] (Schloss &amp; Schlosspark)“</comment>
-      <origin>11</origin>
+      <origin>12</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="383" sha1="gqkdx9fz7vi1xwi7zjocvg58pa53grq" xml:space="preserve">==Alfred-Rust-Saal==
@@ -383,14 +825,14 @@ Der Alfred-Rust-Saal befindet sich in der Adresse Wulfsdorfer Weg 71, 22926 Ahre
       <sha1>gqkdx9fz7vi1xwi7zjocvg58pa53grq</sha1>
     </revision>
     <revision>
-      <id>12</id>
-      <parentid>11</parentid>
+      <id>13</id>
+      <parentid>12</parentid>
       <timestamp>2026-01-03T09:31:25Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>12</origin>
+      <origin>13</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1198" sha1="6q3pnrrhxilbevxhd6nclejddbougay" xml:space="preserve">==Alfred-Rust-Saal==
@@ -409,14 +851,14 @@ Akkordeon- &amp; Spezialensembles: Konzerte mit Akkordeonorchestern, Spezialense
       <sha1>6q3pnrrhxilbevxhd6nclejddbougay</sha1>
     </revision>
     <revision>
-      <id>13</id>
-      <parentid>12</parentid>
+      <id>14</id>
+      <parentid>13</parentid>
       <timestamp>2026-01-03T09:33:03Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>13</origin>
+      <origin>14</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1198" sha1="opr93euljo0teibinqxk84vsnvw3cfu" xml:space="preserve">==Alfred-Rust-Saal==
@@ -435,15 +877,15 @@ Akkordeon- &amp; Spezialensembles: Konzerte mit Akkordeonorchestern, Spezialense
       <sha1>opr93euljo0teibinqxk84vsnvw3cfu</sha1>
     </revision>
     <revision>
-      <id>14</id>
-      <parentid>13</parentid>
+      <id>15</id>
+      <parentid>14</parentid>
       <timestamp>2026-01-03T09:34:24Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* Kulturzentrum Marstall Ahrensburg */</comment>
-      <origin>14</origin>
+      <origin>15</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1833" sha1="aomnztgxpve5kakcco7bpr8z7dp2gww" xml:space="preserve">==Alfred-Rust-Saal==
@@ -468,15 +910,15 @@ Galerie im Marstall: Hier befindet sich eine Galerie für zeitgenössische Kunst
       <sha1>aomnztgxpve5kakcco7bpr8z7dp2gww</sha1>
     </revision>
     <revision>
-      <id>15</id>
-      <parentid>14</parentid>
+      <id>16</id>
+      <parentid>15</parentid>
       <timestamp>2026-01-03T09:35:27Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* Kulturzentrum Marstall Ahrensburg */</comment>
-      <origin>15</origin>
+      <origin>16</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1833" sha1="ie7v32g46izl175jqv2x973x3rz6kz5" xml:space="preserve">==Alfred-Rust-Saal==
@@ -501,15 +943,15 @@ Galerie im Marstall: Hier befindet sich eine Galerie für zeitgenössische Kunst
       <sha1>ie7v32g46izl175jqv2x973x3rz6kz5</sha1>
     </revision>
     <revision>
-      <id>16</id>
-      <parentid>15</parentid>
+      <id>17</id>
+      <parentid>16</parentid>
       <timestamp>2026-01-03T09:36:31Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* Kulturbühne Kultavida */</comment>
-      <origin>16</origin>
+      <origin>17</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2355" sha1="nvhgyejlc620gmlvmbu61sybs21w6he" xml:space="preserve">==Alfred-Rust-Saal==
@@ -535,15 +977,15 @@ Die Kulturbühne Kultavida in Ahrensburg wurde von Oliver Arndt ins Leben gerufe
       <sha1>nvhgyejlc620gmlvmbu61sybs21w6he</sha1>
     </revision>
     <revision>
-      <id>17</id>
-      <parentid>16</parentid>
+      <id>18</id>
+      <parentid>17</parentid>
       <timestamp>2026-01-03T09:36:46Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* =Schloss Ahrensburg]] (Schloss &amp; Schlosspark) */</comment>
-      <origin>17</origin>
+      <origin>18</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2354" sha1="j9nj43r5z2vqqj7k56eqvx1h2ue45m2" xml:space="preserve">==Alfred-Rust-Saal==
@@ -569,14 +1011,14 @@ Die Kulturbühne Kultavida in Ahrensburg wurde von Oliver Arndt ins Leben gerufe
       <sha1>j9nj43r5z2vqqj7k56eqvx1h2ue45m2</sha1>
     </revision>
     <revision>
-      <id>18</id>
-      <parentid>17</parentid>
+      <id>19</id>
+      <parentid>18</parentid>
       <timestamp>2026-01-03T09:37:22Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>18</origin>
+      <origin>19</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2350" sha1="kyzso516f77o32voxt07xe6ry7i1arz" xml:space="preserve">==Alfred-Rust-Saal==
@@ -607,13 +1049,13 @@ Die Kulturbühne Kultavida in Ahrensburg wurde von Oliver Arndt ins Leben gerufe
     <ns>0</ns>
     <id>10</id>
     <revision>
-      <id>19</id>
+      <id>20</id>
       <timestamp>2026-01-03T20:54:41Z</timestamp>
       <contributor>
         <ip>127.0.0.1</ip>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „==Ahrensburger Stadtfest== Das Ahrensburger Stadtfest ist ein dreitägiges Volksfest, das jährlich am zweiten Juniwochenende im Zentrum von Ahrensburg stattfindet. Veranstalter ist das Ahrensburger Stadtforum (der Verein der Kaufleute und Gewerbetreibenden), unterstützt von der Stadt Ahrensburg. Veranstaltungsorte: Große Straße, Hagener Allee, Rondell, Manhagener Allee, Hamburger Straße. ==Kultur4Ort== Kultur4Ort in Ahrensburg ist eine offene und kos…“</comment>
-      <origin>19</origin>
+      <origin>20</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1555" sha1="avp4heyz6ikc6lphg4k508ea79tmt3a" xml:space="preserve">==Ahrensburger Stadtfest==
@@ -634,13 +1076,13 @@ Ein Veranstaltungsklassiker des Ahrensburger Stadtforums: Kostenloser Eintritt z
     <ns>0</ns>
     <id>11</id>
     <revision>
-      <id>20</id>
+      <id>21</id>
       <timestamp>2026-01-03T21:05:21Z</timestamp>
       <contributor>
         <ip>127.0.0.1</ip>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „* [[Die Stadtteile im Porträt]] * [[Vereinsleben]] * [[Wochenmarkt]] * [[Gastronomie-Führer]] * [[Einkaufen in Ahrensburg]] * [[Kirchen und religiöse Gemeinschaften]] * [[Seniorentreff]] * [[Gesundheit]] * [[Familie &amp; Bildung]]“</comment>
-      <origin>20</origin>
+      <origin>21</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="230" sha1="ciia0xkecdv87gbs0ydu6w09ged3qwr" xml:space="preserve">* [[Die Stadtteile im Porträt]]
@@ -660,13 +1102,13 @@ Ein Veranstaltungsklassiker des Ahrensburger Stadtforums: Kostenloser Eintritt z
     <ns>0</ns>
     <id>12</id>
     <revision>
-      <id>21</id>
+      <id>22</id>
       <timestamp>2026-01-03T21:05:51Z</timestamp>
       <contributor>
         <ip>127.0.0.1</ip>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „Die Stadtteile im Porträt in Ahrensburg:   * '''Ahrensburg (Zentrum)''': Das Zentrum ist das historische und kommerzielle Herz der Stadt. Hier befinden sich das bekannte Schloss Ahrensburg, die Fußgängerzone mit zahlreichen Geschäften, das Rathaus sowie zentrale Haltestellen für U- und S-Bahn. Das Zentrum ist geprägt von einer Mischung aus Altbauten, modernen Gebäuden und vielfältigen Einkaufsmöglichkeiten. * '''Ahrensfelde''': Ursprünglich ein…“</comment>
-      <origin>21</origin>
+      <origin>22</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2306" sha1="2uuyt1ld8ewlzy4e2zdo5xzqj5pid09" xml:space="preserve">Die Stadtteile im Porträt in Ahrensburg: 
@@ -687,13 +1129,13 @@ Ein Veranstaltungsklassiker des Ahrensburger Stadtforums: Kostenloser Eintritt z
     <ns>0</ns>
     <id>13</id>
     <revision>
-      <id>22</id>
+      <id>23</id>
       <timestamp>2026-01-03T21:06:27Z</timestamp>
       <contributor>
         <ip>127.0.0.1</ip>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „Das Vereinsleben in Ahrensburg bietet zahlreiche Möglichkeiten, sich zu treffen und gemeinsam die Freizeit zu gestalten. In Ahrensburg gibt es verschiedene Vereine, darunter Sportvereine, Kulturvereine sowie Gemeinschafts- und Ehrenamtsvereine.  ==Sportvereine== * Ahrensburger TSV von 1874 e.V. – Der größte Sportverein im Kreis Stormarn mit etwa 4.000 Mitgliedern. Er bietet 25 Abteilungen, darunter Turnen, Fußball, Handball, Schwimmen, Tennis, Tisch…“</comment>
-      <origin>22</origin>
+      <origin>23</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1910" sha1="mr1uekgo12vbhwhs8615ugpgkmpdy80" xml:space="preserve">Das Vereinsleben in Ahrensburg bietet zahlreiche Möglichkeiten, sich zu treffen und gemeinsam die Freizeit zu gestalten. In Ahrensburg gibt es verschiedene Vereine, darunter Sportvereine, Kulturvereine sowie Gemeinschafts- und Ehrenamtsvereine.
@@ -717,13 +1159,13 @@ Ein Veranstaltungsklassiker des Ahrensburger Stadtforums: Kostenloser Eintritt z
     <ns>0</ns>
     <id>14</id>
     <revision>
-      <id>23</id>
+      <id>24</id>
       <timestamp>2026-01-03T21:07:23Z</timestamp>
       <contributor>
         <ip>127.0.0.1</ip>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „Der Wochenmarkt in Ahrensburg findet jeden Mittwoch und Samstag von 07:00 Uhr bis 13:00 Uhr auf dem Marktplatz vor dem Rathaus, Manfred-Samusch-Straße 5, 22926 Ahrensburg, statt. Bis zu 60 Stände bieten dort ihre Waren an. Er bietet eine Vielzahl frischer Lebensmittel, darunter Obst, Gemüse, Fleisch, Fisch und Backwaren. Viele Stände werden von lokalen Bauern und Produzenten betrieben, die ihre Waren direkt an die Kundinnen und Kunden verkaufen.“</comment>
-      <origin>23</origin>
+      <origin>24</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="454" sha1="0cvr3xyuu967vndnhdalrh2wgoiaqb1" xml:space="preserve">Der Wochenmarkt in Ahrensburg findet jeden Mittwoch und Samstag von 07:00 Uhr bis 13:00 Uhr auf dem Marktplatz vor dem Rathaus, Manfred-Samusch-Straße 5, 22926 Ahrensburg, statt. Bis zu 60 Stände bieten dort ihre Waren an.
@@ -736,13 +1178,13 @@ Er bietet eine Vielzahl frischer Lebensmittel, darunter Obst, Gemüse, Fleisch, 
     <ns>0</ns>
     <id>15</id>
     <revision>
-      <id>24</id>
+      <id>25</id>
       <timestamp>2026-01-03T21:08:33Z</timestamp>
       <contributor>
         <ip>127.0.0.1</ip>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „Gastronomie-Führer in Ahrensburg. Hier finden Sie bekannte Restaurants.  * [https://www.block-house.de/restaurants/ahrensburg/grosse-strasse/ BLOCK HOUSE Ahrensburg]: Beliebtes Steakhouse direkt in der Innenstadt mit durchgehend warmer Küche und großer Terrasse.Ideal für Familienessen, saftige Steaks und entspannte Atmosphäre. Adresse: Große Str. 13, 22926 Ahrensburg, Telefon: 04102 54314.  * [https://restaurantstrehl.de/ Restaurant Strehl]: Familie…“</comment>
-      <origin>24</origin>
+      <origin>25</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1190" sha1="p6rqzfwojh4d2n6wulq7uol98pu9kgr" xml:space="preserve">Gastronomie-Führer in Ahrensburg. Hier finden Sie bekannte Restaurants.
@@ -760,13 +1202,13 @@ Er bietet eine Vielzahl frischer Lebensmittel, darunter Obst, Gemüse, Fleisch, 
     <ns>0</ns>
     <id>16</id>
     <revision>
-      <id>25</id>
+      <id>26</id>
       <timestamp>2026-01-03T21:09:17Z</timestamp>
       <contributor>
         <ip>127.0.0.1</ip>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „Einkaufen in Ahrensburg  * City Center Ahrensburg: Zentrales Shopping-Zentrum mit überdachtem Ambiente. Mehrere Mode-, Elektronik- und Drogeriegeschäfte sowie Gastronomie (Café, Döner, Burger, Feinkost). Etwa 175 Parkplätze, geöffnet Mo–Sa 10–19 Uhr. * Kaufhaus Nessler: Inhabergeführtes Traditionskaufhaus seit 1930 mit großer Markenvielfalt (Mode, Haushalt, Sport, Schreibwaren, Elektronik, Kosmetik u.v.m.). Öffnungszeiten: Mo–Fr 9:30–18:3…“</comment>
-      <origin>25</origin>
+      <origin>26</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="671" sha1="dkkv9gymhpjgxmrvb9f3f96tldfls2t" xml:space="preserve">Einkaufen in Ahrensburg
@@ -782,13 +1224,13 @@ Er bietet eine Vielzahl frischer Lebensmittel, darunter Obst, Gemüse, Fleisch, 
     <ns>0</ns>
     <id>17</id>
     <revision>
-      <id>26</id>
+      <id>27</id>
       <timestamp>2026-01-03T21:10:50Z</timestamp>
       <contributor>
         <ip>127.0.0.1</ip>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „==Evangelisch-Lutherisch== Die evangelisch-lutherische Kirche ist eine der größten christlichen Konfessionen und geht auf die Reformation Martin Luthers im 16. Jahrhundert zurück. Sie betont die Rechtfertigung des Menschen allein durch den Glauben, die Bedeutung der Bibel als höchste Glaubensquelle und die Verwaltung der Sakramente (Taufe und Abendmahl). In Deutschland ist sie in zahlreichen Landeskirchen organisiert und prägt das religiöse Leben vi…“</comment>
-      <origin>26</origin>
+      <origin>27</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="4096" sha1="77xg9ax01dbnwd8m24le4x9gw4hhmru" xml:space="preserve">==Evangelisch-Lutherisch==
@@ -817,13 +1259,13 @@ Die jüdische Religion, das Judentum, ist eine der ältesten monotheistischen We
     <ns>0</ns>
     <id>18</id>
     <revision>
-      <id>27</id>
+      <id>28</id>
       <timestamp>2026-01-03T21:20:16Z</timestamp>
       <contributor>
         <ip>127.0.0.1</ip>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „* Das ProgrammCafé im Peter-Rantzau-Haus findet an jedem ersten Montag im Monat ab etwa 15 Uhr im Peter-Rantzau-Haus, Manfred-Samusch-Straße 9, Ahrensburg, statt und bietet Kaffee, Kuchen sowie nette Gespräche mit anderen Senior:innen in gemütlicher Runde. Veranstaltet wird es von der AWO Ahrensburg. Weitere Informationen finden Sie auf der Website: ahrensburg.drk-stormarn.de. * Senioren-Treff (AWO Ahrensburg): findet regelmäßig statt, zum Beispiel…“</comment>
-      <origin>27</origin>
+      <origin>28</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1356" sha1="ggmzbzhatkypeulzdsa15yxpsbkcplp" xml:space="preserve">* Das ProgrammCafé im Peter-Rantzau-Haus findet an jedem ersten Montag im Monat ab etwa 15 Uhr im Peter-Rantzau-Haus, Manfred-Samusch-Straße 9, Ahrensburg, statt und bietet Kaffee, Kuchen sowie nette Gespräche mit anderen Senior:innen in gemütlicher Runde. Veranstaltet wird es von der AWO Ahrensburg. Weitere Informationen finden Sie auf der Website: ahrensburg.drk-stormarn.de.
@@ -839,13 +1281,13 @@ Die jüdische Religion, das Judentum, ist eine der ältesten monotheistischen We
     <ns>0</ns>
     <id>19</id>
     <revision>
-      <id>28</id>
+      <id>29</id>
       <timestamp>2026-01-03T21:24:25Z</timestamp>
       <contributor>
         <ip>127.0.0.1</ip>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „==Großes Gesundheitszentrum Ahrensburg== Das große Gesundheitszentrum Ahrensburg in der Hamburger Straße 23 vereint Haus- und Fachärzte wie Onkologie, Innere Medizin, Radiologie, Orthopädie, HNO, Neurologie, Psychiatrie, Urologie und Nuklearmedizin unter einem Dach. Direkt angeschlossen sind zudem eine Apotheke, eine Hörgeräteakustik und eine Physiotherapie. Alle Fachbereiche sind zentral und mit kurzen Wegen erreichbar.  ==Internistische &amp; hausär…“</comment>
-      <origin>28</origin>
+      <origin>29</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1823" sha1="gftj3oujhwuimxdjc39opo1znt1fj1m" xml:space="preserve">==Großes Gesundheitszentrum Ahrensburg==
@@ -879,14 +1321,14 @@ Das große Gesundheitszentrum Ahrensburg in der Hamburger Straße 23 vereint Hau
     <ns>0</ns>
     <id>20</id>
     <revision>
-      <id>29</id>
+      <id>30</id>
       <timestamp>2026-01-03T21:26:26Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Kindertagesstätten und Offene Ganztagsschulen (OGS) == * '''Kita Helgolandring (DRK)''': Bietet qualifizierte Kinderbetreuung ab dem Krippenalter mit vielfältigen Spiel-, Lern- und Bewegungsangeboten. * '''Kita Stadtzwerge (Elbkinder)''': Betreut Kinder im Alter von 8 Wochen bis 6 Jahren und ist ganzjährig, auch während der Schulferien, geöffnet. * '''OGS Am Aalfang (WABE e.V.)''': Organisiert die Ganztagsbetreuung für Grundschulkinder mit Angebo…“</comment>
-      <origin>29</origin>
+      <origin>30</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3016" sha1="pwk238ph7q5w2d77s5u4tea26exjr5w" xml:space="preserve">== Kindertagesstätten und Offene Ganztagsschulen (OGS) ==
@@ -929,14 +1371,14 @@ Ahrensburg verfügt über ein umfassendes Bildungs- und Betreuungsnetzwerk für 
     <ns>0</ns>
     <id>21</id>
     <revision>
-      <id>30</id>
+      <id>31</id>
       <timestamp>2026-01-03T21:36:29Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „* [[Naherholungsgebiete]] * [[Wander- und Radwege]] * Spielplätze * Sportstätten * Ausflugsziele“</comment>
-      <origin>30</origin>
+      <origin>31</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="98" sha1="ccv8x198a00p1t9o2iugg1qwzc6cdem" xml:space="preserve">* [[Naherholungsgebiete]]
@@ -952,14 +1394,14 @@ Ahrensburg verfügt über ein umfassendes Bildungs- und Betreuungsnetzwerk für 
     <ns>0</ns>
     <id>22</id>
     <revision>
-      <id>31</id>
+      <id>32</id>
       <timestamp>2026-01-03T21:36:52Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „==Naturschutz &amp; Natur erleben== * '''Stellmoor–Ahrensburger Tunneltal''': Ein großflächiges Naturschutzgebiet (ca. 339 ha) südlich von Ahrensburg. Die Landschaft ist geprägt von Mooren, Teichen sowie Bruchwäldern und eignet sich ideal zum Wandern und zur Vogelbeobachtung. * '''Heidkoppelmoor und Umgebung''': Ein Niedermoor-Biotop nordöstlich von Ahrensburg mit Wiesen und Moorflächen. Es beheimatet seltene Pflanzen- und Tierarten wie Orchideen und…“</comment>
-      <origin>31</origin>
+      <origin>32</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="811" sha1="rn7w0pytmhl824dj81i1qvur5udgjpw" xml:space="preserve">==Naturschutz &amp; Natur erleben==
@@ -977,14 +1419,14 @@ Ahrensburg verfügt über ein umfassendes Bildungs- und Betreuungsnetzwerk für 
     <ns>0</ns>
     <id>23</id>
     <revision>
-      <id>32</id>
+      <id>33</id>
       <timestamp>2026-01-03T21:41:49Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „* [[Verkehrsanbindung]] * [[Wichtige Unternehmen &amp; Arbeitgeber]] * [[Gewerbegebiete]] * [[Stadtverwaltung]] * [[Freiwillige Feuerwehr Ahrensburg]]“</comment>
-      <origin>32</origin>
+      <origin>33</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="146" sha1="k2wlsn22ju6lq43qpmof4iy2hudo6di" xml:space="preserve">* [[Verkehrsanbindung]]
@@ -1000,14 +1442,14 @@ Ahrensburg verfügt über ein umfassendes Bildungs- und Betreuungsnetzwerk für 
     <ns>0</ns>
     <id>24</id>
     <revision>
-      <id>33</id>
+      <id>34</id>
       <timestamp>2026-01-03T21:45:17Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „Verkehrsanbindung in Ahrensburg == Bahn &amp; Regionalverkehr == Der Bahnhof Ahrensburg (AAHR) liegt an der Lübeck–Hamburg-Strecke, ist ein wichtiger Verkehrsknotenpunkt mit vier Gleisen, Park+Ride-Funktion sowie zusätzlichem Haltepunkt Ahrensburg-Gartenholz (bedient von RB 81) und wird regelmäßig von den Linien RE 8 (stündlich nach Lübeck) und RB 81 (halbstündlich nach Bargteheide, stündlich weiter nach Bad Oldesloe, zu Verstärkerzeiten nach Hambu…“</comment>
-      <origin>33</origin>
+      <origin>34</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1221" sha1="bl61p475x1yc1oampd3az2z2ai8ebqo" xml:space="preserve">Verkehrsanbindung in Ahrensburg
@@ -1030,14 +1472,14 @@ Ahrensburg ist über die südöstlich verlaufende A1 (Vogelfluglinie) mit eigene
     <ns>0</ns>
     <id>25</id>
     <revision>
-      <id>34</id>
+      <id>35</id>
       <timestamp>2026-01-03T21:46:09Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „==Wichtige Unternehmen &amp; Arbeitgeber in Ahrensburg==  Ahrensburg ist ein bedeutender Wirtschaftsstandort in Schleswig-Holstein und beheimatet zahlreiche namhafte Unternehmen aus verschiedenen Branchen. Hier finden Sie eine Übersicht wichtiger Arbeitgeber, die die Wirtschaft der Region prägen:  * '''Acer Computer GmbH (IT/Hardware)''' – Umsatz ca. 686 Mio. € (2018), etwa 250 Mitarbeitende; Teil des internationalen Acer-Konzerns aus Taiwan. * '''GHD G…“</comment>
-      <origin>34</origin>
+      <origin>35</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2015" sha1="ey0bpetawpf3reu2al5lex5vk6d9oe2" xml:space="preserve">==Wichtige Unternehmen &amp; Arbeitgeber in Ahrensburg==
@@ -1062,14 +1504,14 @@ Diese Unternehmen bieten attraktive Arbeitsplätze und vielfältige Karrieremög
     <ns>0</ns>
     <id>26</id>
     <revision>
-      <id>35</id>
+      <id>36</id>
       <timestamp>2026-01-03T21:47:27Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „Ahrensburg verfügt über drei große Gewerbegebiete, die sich durch ihre verkehrsgünstige Lage und hervorragende Anbindung an Autobahn, Bahn und die Hamburger Infrastruktur auszeichnen.  ==Gewerbegebiete in Ahrensburg==  ===Gewerbegebiet Nord=== Das '''Gewerbegebiet Nord''' ist mit einer Fläche von rund 214 Hektar das größte Gewerbegebiet Ahrensburgs. Es bietet: * Exzellente Verkehrsanbindung an die Autobahnen A1 und A21 * Moderne Infrastruktur für…“</comment>
-      <origin>35</origin>
+      <origin>36</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1344" sha1="apwk12x0372y68e93xaamf20m5t5289" xml:space="preserve">Ahrensburg verfügt über drei große Gewerbegebiete, die sich durch ihre verkehrsgünstige Lage und hervorragende Anbindung an Autobahn, Bahn und die Hamburger Infrastruktur auszeichnen.
@@ -1102,14 +1544,14 @@ Das '''Gewerbegebiet West''' erstreckt sich entlang der Bogenstraße und zeichne
     <ns>0</ns>
     <id>27</id>
     <revision>
-      <id>36</id>
+      <id>37</id>
       <timestamp>2026-01-03T21:48:27Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Stadtverwaltung Ahrensburg – Kontakt, Öffnungszeiten und Services ==  Die Stadtverwaltung Ahrensburg bietet Bürgerinnen und Bürgern umfassende Dienstleistungen und Informationen.  === Kontaktdaten === * '''Adresse:''' Manfred-Samusch-Straße 5, 22926 Ahrensburg * '''Telefon:''' 04102 77-0 (Zentrale) * '''Fax:''' 04102 77-232 * '''E-Mail:''' rathaus@ahrensburg.de * '''Webseite:''' [https://www.ahrensburg.de ahrensburg.de] * Die Behördennummer 115…“</comment>
-      <origin>36</origin>
+      <origin>37</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1950" sha1="lpdcen2bxqqpkebv6jk3kjzt86a3ysk" xml:space="preserve">== Stadtverwaltung Ahrensburg – Kontakt, Öffnungszeiten und Services ==
@@ -1158,13 +1600,13 @@ Viele Anliegen können bequem über das [https://ahrensburg.buergerportal.sh Bü
     <ns>0</ns>
     <id>28</id>
     <revision>
-      <id>37</id>
+      <id>38</id>
       <timestamp>2026-01-04T12:01:55Z</timestamp>
       <contributor>
         <ip>127.0.0.1</ip>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „* [https://ahrensburg-portal.de/ ahrensburg-portal.de]  – Ein lokales Nachrichtenportal mit aktuellen Informationen, Veranstaltungen und Neuigkeiten aus Ahrensburg. * [https://www.ahrensburg.city/ ahrensburg.city] – Eine Website mit Stadtinformationen, Branchenverzeichnis und lokalen Angeboten für Ahrensburg. * [https://ahrensburg.de/ ahrensburg.de] – Die offizielle Website der Stadt Ahrensburg mit amtlichen Bekanntmachungen, Bürgerservice und Inf…“</comment>
-      <origin>37</origin>
+      <origin>38</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2264" sha1="ix0t5vkarde0c8ltka040e13e9g4qq9" xml:space="preserve">* [https://ahrensburg-portal.de/ ahrensburg-portal.de]  – Ein lokales Nachrichtenportal mit aktuellen Informationen, Veranstaltungen und Neuigkeiten aus Ahrensburg.
@@ -1195,14 +1637,14 @@ Viele Anliegen können bequem über das [https://ahrensburg.buergerportal.sh Bü
     <ns>4</ns>
     <id>29</id>
     <revision>
-      <id>38</id>
+      <id>39</id>
       <timestamp>2026-01-04T14:15:35Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:  * Thorsten Klöhn * Gerhardstraße 2 * 22926 Ahrensburg * Telefon: 04102-2 17 40 07 * e-Mail: thorstenkloehn@gmail.com  &lt;span id="ihre-betroffenenrechte"&gt;&lt;/span&gt; == Ihre Betroffenenrechte ==  Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können Sie jederzeit folgende Rechte ausüben:  * Auskunft über Ihre bei uns ges…“</comment>
-      <origin>38</origin>
+      <origin>39</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="5074" sha1="9bzk3a7y9uynfn6xooeid5ogsi436pp" xml:space="preserve">Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:
@@ -1282,6 +1724,229 @@ Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder 
 
 ''Die Datenschutzerklärung wurde mit dem'' [https://www.activemind.de/datenschutz/datenschutzhinweis-generator/ ''Datenschutzerklärungs-Generator der activeMind AG erstellt''] *(Version 2018-09-24).c</text>
       <sha1>9bzk3a7y9uynfn6xooeid5ogsi436pp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Ahrensburg.city:Impressum</title>
+    <ns>4</ns>
+    <id>30</id>
+    <revision>
+      <id>41</id>
+      <timestamp>2026-01-07T02:29:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Angaben gemäß § 5 TMG  * Thorsten Klöhn * Gerhardstraße 2 * 22926 Ahrensburg  &lt;span id="vertreten-durch"&gt;&lt;/span&gt; == Vertreten durch: ==  Thorsten Klöhn  &lt;span id="kontakt"&gt;&lt;/span&gt; == Kontakt: ==  * Telefon: 04102-2 17 40 07&lt;br /&gt;  * E-Mail: thorstenkloehn@gmail.com  &lt;span id="haftungsausschluss"&gt;&lt;/span&gt; == Haftungsausschluss: ==  &lt;span id="haftung-für-inhalte"&gt;&lt;/span&gt; === Haftung für Inhalte ===  Die Inhalte unserer Seiten wurden mit größter Sor…“</comment>
+      <origin>41</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3757" sha1="6znqq26rxwf6p9wwazjb3vkwila13wf" xml:space="preserve">Angaben gemäß § 5 TMG
+
+* Thorsten Klöhn
+* Gerhardstraße 2
+* 22926 Ahrensburg
+
+&lt;span id="vertreten-durch"&gt;&lt;/span&gt;
+== Vertreten durch: ==
+
+Thorsten Klöhn
+
+&lt;span id="kontakt"&gt;&lt;/span&gt;
+== Kontakt: ==
+
+* Telefon: 04102-2 17 40 07&lt;br /&gt;
+
+* E-Mail: thorstenkloehn@gmail.com
+
+&lt;span id="haftungsausschluss"&gt;&lt;/span&gt;
+== Haftungsausschluss: ==
+
+&lt;span id="haftung-für-inhalte"&gt;&lt;/span&gt;
+=== Haftung für Inhalte ===
+
+Die Inhalte unserer Seiten wurden mit größter Sorgfalt erstellt. Für die Richtigkeit, Vollständigkeit und Aktualität der Inhalte können wir jedoch keine Gewähr übernehmen. Als Diensteanbieter sind wir gemäß § 7 Abs.1 TMG für eigene Inhalte auf diesen Seiten nach den allgemeinen Gesetzen verantwortlich. Nach §§ 8 bis 10 TMG sind wir als Diensteanbieter jedoch nicht verpflichtet, übermittelte oder gespeicherte fremde Informationen zu überwachen oder nach Umständen zu forschen, die auf eine rechtswidrige Tätigkeit hinweisen. Verpflichtungen zur Entfernung oder Sperrung der Nutzung von Informationen nach den allgemeinen Gesetzen bleiben hiervon unberührt. Eine diesbezügliche Haftung ist jedoch erst ab dem Zeitpunkt der Kenntnis einer konkreten Rechtsverletzung möglich. Bei Bekanntwerden von entsprechenden Rechtsverletzungen werden wir diese Inhalte umgehend entfernen. ### Haftung für Links Unser Angebot enthält Links zu externen Webseiten Dritter, auf deren Inhalte wir keinen Einfluss haben. Deshalb können wir für diese fremden Inhalte auch keine Gewähr übernehmen. Für die Inhalte der verlinkten Seiten ist stets der jeweilige Anbieter oder Betreiber der Seiten verantwortlich. Die verlinkten Seiten wurden zum Zeitpunkt der Verlinkung auf mögliche Rechtsverstöße überprüft. Rechtswidrige Inhalte waren zum Zeitpunkt der Verlinkung nicht erkennbar. Eine permanente inhaltliche Kontrolle der verlinkten Seiten ist jedoch ohne konkrete Anhaltspunkte einer Rechtsverletzung nicht zumutbar. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Links umgehend entfernen.&lt;br /&gt;
+===Urheberrecht===
+
+Dieses Werk ist lizenziert unter einer [http://creativecommons.org/licenses/by/4.0/ Creative Commons Namensnennung 4.0 International Lizenz].Soweit die Inhalte auf dieser Seite nicht vom Betreiber erstellt wurden, werden die Urheberrechte Dritter beachtet. Insbesondere werden Inhalte Dritter als solche gekennzeichnet. Sollten Sie trotzdem auf eine Urheberrechtsverletzung aufmerksam werden, bitten wir um einen entsprechenden Hinweis. Bei Bekanntwerden von Rechtsverletzungen werden wir derartige Inhalte umgehend entfernen.
+
+===Datenschutz=== 
+Die Nutzung unserer Webseite ist in der Regel ohne Angabe personenbezogener Daten möglich. Soweit auf unseren Seiten personenbezogene Daten (beispielsweise Name, Anschrift oder eMail-Adressen) erhoben werden, erfolgt dies, soweit möglich, stets auf freiwilliger Basis. Diese Daten werden ohne Ihre ausdrückliche Zustimmung nicht an Dritte weitergegeben.&lt;br /&gt;
+Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen kann. Ein lückenloser Schutz der Daten vor dem Zugriff durch Dritte ist nicht möglich. Der Nutzung von im Rahmen der Impressumspflicht veröffentlichten Kontaktdaten durch Dritte zur Übersendung von nicht ausdrücklich angeforderter Werbung und Informationsmaterialien wird hiermit ausdrücklich widersprochen. Die Betreiber der Seiten behalten sich ausdrücklich rechtliche Schritte im Falle der unverlangten Zusendung von Werbeinformationen, etwa durch Spam-Mails, vor.&lt;br /&gt;
+
+
+Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanzlei Hasselbach, Rechtsanwälte für Arbeitsrecht und Familienrecht](https://www.kanzlei-hasselbach</text>
+      <sha1>6znqq26rxwf6p9wwazjb3vkwila13wf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Property:P1</title>
+    <ns>122</ns>
+    <id>31</id>
+    <revision>
+      <id>42</id>
+      <timestamp>2026-01-08T00:15:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbeditentity-create:2|de */ Name</comment>
+      <origin>42</origin>
+      <model>wikibase-property</model>
+      <format>application/json</format>
+      <text bytes="141" sha1="bja7ityr2cy51lxofbkxjwtnixkwtes" xml:space="preserve">{"type":"property","datatype":"string","id":"P1","labels":{"de":{"language":"de","value":"Name"}},"descriptions":[],"aliases":[],"claims":[]}</text>
+      <sha1>bja7ityr2cy51lxofbkxjwtnixkwtes</sha1>
+    </revision>
+    <revision>
+      <id>43</id>
+      <parentid>42</parentid>
+      <timestamp>2026-01-08T00:16:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P1]]: Thorsten Klöhb</comment>
+      <origin>43</origin>
+      <model>wikibase-property</model>
+      <format>application/json</format>
+      <text bytes="389" sha1="n973c3qf43gtb0gecw21ykj8tkr1h6x" xml:space="preserve">{"type":"property","datatype":"string","id":"P1","labels":{"de":{"language":"de","value":"Name"}},"descriptions":[],"aliases":[],"claims":{"P1":[{"mainsnak":{"snaktype":"value","property":"P1","hash":"b89a23920eaf16092ddae81760cabfeaf595b1f1","datavalue":{"value":"Thorsten Kl\u00f6hb","type":"string"}},"type":"statement","id":"P1$b1a94fba-4385-fd95-2d4f-fa19214b92cf","rank":"normal"}]}}</text>
+      <sha1>n973c3qf43gtb0gecw21ykj8tkr1h6x</sha1>
+    </revision>
+    <revision>
+      <id>44</id>
+      <parentid>43</parentid>
+      <timestamp>2026-01-08T00:16:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbsetclaim-update:2||1 */ [[Property:P1]]: Thorsten Klöhn</comment>
+      <origin>44</origin>
+      <model>wikibase-property</model>
+      <format>application/json</format>
+      <text bytes="389" sha1="osd3bx2abfp51ceniftqc56sj90seur" xml:space="preserve">{"type":"property","datatype":"string","id":"P1","labels":{"de":{"language":"de","value":"Name"}},"descriptions":[],"aliases":[],"claims":{"P1":[{"mainsnak":{"snaktype":"value","property":"P1","hash":"2be9ed6e2983fdd45265331100635b2423d58455","datavalue":{"value":"Thorsten Kl\u00f6hn","type":"string"}},"type":"statement","id":"P1$b1a94fba-4385-fd95-2d4f-fa19214b92cf","rank":"normal"}]}}</text>
+      <sha1>osd3bx2abfp51ceniftqc56sj90seur</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Item:Q1</title>
+    <ns>120</ns>
+    <id>32</id>
+    <revision>
+      <id>45</id>
+      <timestamp>2026-01-08T00:17:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbeditentity-create:2|de */ Start, Start1</comment>
+      <origin>45</origin>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="172" sha1="qin5ce0a6a5ly3ee41zz3j0tuvlk6c9" xml:space="preserve">{"type":"item","id":"Q1","labels":{"de":{"language":"de","value":"Start"}},"descriptions":{"de":{"language":"de","value":"Start1"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>qin5ce0a6a5ly3ee41zz3j0tuvlk6c9</sha1>
+    </revision>
+    <revision>
+      <id>46</id>
+      <parentid>45</parentid>
+      <timestamp>2026-01-08T00:18:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P1]]: Thorsten Klöhn</comment>
+      <origin>46</origin>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="420" sha1="2lc7ousdsss3fw9ogk3bx0ks3sq5jpt" xml:space="preserve">{"type":"item","id":"Q1","labels":{"de":{"language":"de","value":"Start"}},"descriptions":{"de":{"language":"de","value":"Start1"}},"aliases":[],"claims":{"P1":[{"mainsnak":{"snaktype":"value","property":"P1","hash":"2be9ed6e2983fdd45265331100635b2423d58455","datavalue":{"value":"Thorsten Kl\u00f6hn","type":"string"}},"type":"statement","id":"Q1$ec5c5b79-4c80-62c2-a0cb-1f3acd5d60f1","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>2lc7ousdsss3fw9ogk3bx0ks3sq5jpt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Property:P2</title>
+    <ns>122</ns>
+    <id>33</id>
+    <revision>
+      <id>49</id>
+      <timestamp>2026-01-09T11:02:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbeditentity-create:2|de */ Küche</comment>
+      <origin>49</origin>
+      <model>wikibase-property</model>
+      <format>application/json</format>
+      <text bytes="147" sha1="d7ukngpa7dbhnc52w9u60lcs0ma8u6u" xml:space="preserve">{"type":"property","datatype":"string","id":"P2","labels":{"de":{"language":"de","value":"K\u00fcche"}},"descriptions":[],"aliases":[],"claims":[]}</text>
+      <sha1>d7ukngpa7dbhnc52w9u60lcs0ma8u6u</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Item:Q2</title>
+    <ns>120</ns>
+    <id>34</id>
+    <revision>
+      <id>50</id>
+      <timestamp>2026-01-09T11:06:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbeditentity-create:2|de */ Strehl, Strehl gg</comment>
+      <origin>50</origin>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="176" sha1="fqppoyr1858tf28rw9znfv26jik052u" xml:space="preserve">{"type":"item","id":"Q2","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Strehl gg"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>fqppoyr1858tf28rw9znfv26jik052u</sha1>
+    </revision>
+    <revision>
+      <id>52</id>
+      <parentid>50</parentid>
+      <timestamp>2026-01-09T11:13:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P3]]: Reeshoop 50</comment>
+      <origin>52</origin>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="416" sha1="0dlo5biifnk06r5pys2p0dhsxx7pdz6" xml:space="preserve">{"type":"item","id":"Q2","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Strehl gg"}},"aliases":[],"claims":{"P3":[{"mainsnak":{"snaktype":"value","property":"P3","hash":"af4394cb6b1bf03b8c24427483a4a1b250589ad2","datavalue":{"value":"Reeshoop 50","type":"string"}},"type":"statement","id":"Q2$73653c1c-42a8-a1d4-ccd6-8202d5d2e910","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>0dlo5biifnk06r5pys2p0dhsxx7pdz6</sha1>
+    </revision>
+    <revision>
+      <id>53</id>
+      <parentid>52</parentid>
+      <timestamp>2026-01-09T11:20:13Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P2]]: Deutsch</comment>
+      <origin>53</origin>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="653" sha1="5deo1p2u0iexg2uhww7ubt3ip4dddo1" xml:space="preserve">{"type":"item","id":"Q2","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Strehl gg"}},"aliases":[],"claims":{"P3":[{"mainsnak":{"snaktype":"value","property":"P3","hash":"af4394cb6b1bf03b8c24427483a4a1b250589ad2","datavalue":{"value":"Reeshoop 50","type":"string"}},"type":"statement","id":"Q2$73653c1c-42a8-a1d4-ccd6-8202d5d2e910","rank":"normal"}],"P2":[{"mainsnak":{"snaktype":"value","property":"P2","hash":"888d192f7319c83a5523e0fea3c2f7cb02be9c17","datavalue":{"value":"Deutsch","type":"string"}},"type":"statement","id":"Q2$6be5dfcb-4b1e-f95d-d859-0d4697e78a2e","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>5deo1p2u0iexg2uhww7ubt3ip4dddo1</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Property:P3</title>
+    <ns>122</ns>
+    <id>35</id>
+    <revision>
+      <id>51</id>
+      <timestamp>2026-01-09T11:09:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbeditentity-create:2|de */ Adresse</comment>
+      <origin>51</origin>
+      <model>wikibase-property</model>
+      <format>application/json</format>
+      <text bytes="144" sha1="huunn5n9wvbeyzvy08exilityklu1ga" xml:space="preserve">{"type":"property","datatype":"string","id":"P3","labels":{"de":{"language":"de","value":"Adresse"}},"descriptions":[],"aliases":[],"claims":[]}</text>
+      <sha1>huunn5n9wvbeyzvy08exilityklu1ga</sha1>
     </revision>
   </page>
 </mediawiki>
