@@ -1949,4 +1949,57 @@ Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanz
       <sha1>huunn5n9wvbeyzvy08exilityklu1ga</sha1>
     </revision>
   </page>
+  <page>
+    <title>Property:P4</title>
+    <ns>122</ns>
+    <id>36</id>
+    <revision>
+      <id>61</id>
+      <timestamp>2026-01-10T14:10:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbeditentity-create:2|de */ Vorname</comment>
+      <origin>61</origin>
+      <model>wikibase-property</model>
+      <format>application/json</format>
+      <text bytes="144" sha1="o352d13xpvb3udtmlrz5s71azx56aii" xml:space="preserve">{"type":"property","datatype":"string","id":"P4","labels":{"de":{"language":"de","value":"Vorname"}},"descriptions":[],"aliases":[],"claims":[]}</text>
+      <sha1>o352d13xpvb3udtmlrz5s71azx56aii</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Item:Q3</title>
+    <ns>120</ns>
+    <id>37</id>
+    <revision>
+      <id>62</id>
+      <timestamp>2026-01-10T14:12:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbeditentity-create:2|de */ Strehl, Restaurant</comment>
+      <origin>62</origin>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="177" sha1="144b4sshpioz2gwm1z0z7nqptqvzt9v" xml:space="preserve">{"type":"item","id":"Q3","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Restaurant"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>144b4sshpioz2gwm1z0z7nqptqvzt9v</sha1>
+    </revision>
+    <revision>
+      <id>63</id>
+      <parentid>62</parentid>
+      <timestamp>2026-01-10T14:12:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P4]]: Thorsten</comment>
+      <origin>63</origin>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="414" sha1="ebvf6f9w66ko7i0hitmcppc13nsekuw" xml:space="preserve">{"type":"item","id":"Q3","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Restaurant"}},"aliases":[],"claims":{"P4":[{"mainsnak":{"snaktype":"value","property":"P4","hash":"02a85b70739bd83f8a72fd8222b7c4773ee8b36d","datavalue":{"value":"Thorsten","type":"string"}},"type":"statement","id":"Q3$bb7359a9-4dc9-1dbd-866e-adf12f8e20cd","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>ebvf6f9w66ko7i0hitmcppc13nsekuw</sha1>
+    </revision>
+  </page>
 </mediawiki>

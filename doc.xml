@@ -2720,6 +2720,60 @@ Folgende KI-Modell-Anbieter bieten Erweiterungen für Visual Studio Code an:
 * **AI Assistant by JetBrains** – KI-basierte Unterstützung in JetBrains-Entwicklungsumgebungen.</text>
       <sha1>1pkbb1tcmmbm5gc9wqh1a7d5ap1v1zo</sha1>
     </revision>
+    <revision>
+      <id>81</id>
+      <parentid>61</parentid>
+      <timestamp>2026-01-10T04:27:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>81</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1991" sha1="o0xdyz599m924c1d77e4qc8t9b8lucr" xml:space="preserve">== KI-basierte IDEs ==
+* '''Cursor''' – Ein auf Visual Studio Code basierender Editor, der KI-Funktionen (wie GPT-4 und Claude) nativ integriert, um Code-Vorschläge und Refactorings direkt im Workflow anzubieten.
+* '''Google Project IDX''' – Eine Cloud-basierte Entwicklungsumgebung von Google, die Gemini nutzt, um den gesamten Software-Lebenszyklus durch KI zu unterstützen.
+* '''Visual Studio Code''' – Ein flexibler, plattformübergreifender Editor von Microsoft, der durch sein umfangreiches Extension-Ökosystem zur leistungsstarken KI-Entwicklungsumgebung wird.
+* '''Windsurf''' – Die "Agentic IDE" von Codeium, die durch tiefes Verständnis der gesamten Codebase komplexe Programmieraufgaben autonom ausführen kann.
+* '''Google Antigravity''' – Experimentelles KI-Tool von Google für innovative Programmierfunktionen.
+== KI-Erweiterungen für Visual Studio Code ==
+* '''Amazon Q Developer''' (ehem. CodeWhisperer) – KI-Unterstützung von AWS für Code-Vervollständigung, Debugging und automatisierte Sicherheitsüberprüfungen.
+* '''Claude Code''' – Ermöglicht die Nutzung der fortschrittlichen Claude-Modelle von Anthropic direkt in der Entwicklungsumgebung für präzise Code-Analysen.
+* '''Codeium''' – Ein schneller KI-Coding-Assistent, der eine leistungsstarke kostenlose Version für Einzelentwickler und Unterstützung für über 70 Sprachen bietet.
+* '''Gemini Code Assist''' – Googles KI-gestützte Hilfe zur effizienten Erstellung, Testung und Dokumentation von Quellcode.
+* '''GitHub Copilot''' – Der marktführende KI-Begleiter von GitHub und OpenAI, der kontextsensitive Code-Vervollständigung und Chat-Unterstützung bietet.
+* '''OpenAI Codex''' – Die technologische Basis für viele Coding-Assistenten, spezialisiert auf die Übersetzung von natürlicher Sprache in Programmcode.
+* '''Snyk Code''' – Ein spezialisiertes Tool für "Security-first" Programmierung, das Sicherheitsrisiken mittels KI bereits während des Schreibens erkennt.</text>
+      <sha1>o0xdyz599m924c1d77e4qc8t9b8lucr</sha1>
+    </revision>
+    <revision>
+      <id>82</id>
+      <parentid>81</parentid>
+      <timestamp>2026-01-10T06:22:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>82</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1556" sha1="pngx3xog2c34e5sa620qujjyhf75awa" xml:space="preserve">== KI-basierte IDEs ==
+* '''Visual Studio Code''' – Ein flexibler, plattformübergreifender Editor von Microsoft, der durch sein umfangreiches Extension-Ökosystem zur leistungsstarken KI-Entwicklungsumgebung wird.
+* '''Google Antigravity''' – Experimentelles KI-Tool von Google für innovative Programmierfunktionen.
+* '''Windsurf''' – Eine KI-basierte Entwicklungsumgebung, die kollaboratives Programmieren und intelligente Code-Vorschläge unterstützt.
+* '''Cursor''' – Ein moderner KI-Code-Editor, der auf Effizienz und nahtlose Integration von KI-gestützten Funktionen ausgelegt ist.
+
+== KI-Erweiterungen für Visual Studio Code ==
+* '''Gemini Code Assist''' – Googles KI-gestützte Hilfe zur effizienten Erstellung, Testung und Dokumentation von Quellcode.
+* '''GitHub Copilot''' – Der marktführende KI-Begleiter von GitHub und OpenAI, der kontextsensitive Code-Vervollständigung und Chat-Unterstützung bietet.
+* '''OpenAI Codex''' – Die technologische Basis für viele Coding-Assistenten, spezialisiert auf die Übersetzung von natürlicher Sprache in Programmcode.
+* '''AI Assistant by JetBrains''' – KI-gestützter Assistent von JetBrains für intelligente Code-Vorschläge, Refactoring und Unterstützung direkt in JetBrains- und VS Code-Umgebungen.
+* '''Snyk Code''' – Automatisierte Sicherheitsanalyse und Schwachstellenprüfung direkt beim Programmieren.
+* '''Amazon Q Developer''' (ehem. CodeWhisperer) – KI-Unterstützung von AWS für Code-Vervollständigung, Debugging und automatisierte Sicherheitsüberprüfungen.</text>
+      <sha1>pngx3xog2c34e5sa620qujjyhf75awa</sha1>
+    </revision>
   </page>
   <page>
     <title>CMS</title>
@@ -3573,6 +3627,387 @@ Folgende KI-Modell-Anbieter bieten Erweiterungen für Visual Studio Code an:
 |}</text>
       <sha1>q9o6d9nxxc0pd70qqw2la907a7zonga</sha1>
     </revision>
+    <revision>
+      <id>83</id>
+      <parentid>72</parentid>
+      <timestamp>2026-01-10T06:24:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>83</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1825" sha1="1yq4u7req5i1swdnx83jsen2ojniq7h" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Drupal|Drupal]]
+| PHP
+| Sehr flexibel, skalierbar, für große und komplexe Websites; gute RDF-Unterstützung, geeignet für Wissensbasen
+|}
+== 2. Static Site Generatoren ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Hugo]]
+| Go
+| Sehr schnell, für große statische Websites
+|-
+| Eleventy
+| JavaScript
+| Flexibel, einfach, für große statische Websites
+|}
+===Static Site Generatoren mit RDF/Wikibase-Unterstützung===
+{| class="wikitable"
+! Name
+! Sprache
+! RDF/Wikibase-Integration
+! Hinweise
+|-
+| '''Eleventy (11ty)'''
+| JavaScript
+| Sehr flexibel: Mit Node.js-Skripten (z.B. &lt;code&gt;n3&lt;/code&gt;, &lt;code&gt;rdf-ext&lt;/code&gt;, &lt;code&gt;rdflib&lt;/code&gt;) oder über Wikibase-APIs/SPARQL nutzbar
+| Ideal für individuelle Datenpipelines
+|-
+| '''Astro'''
+| JavaScript/TypeScript
+| Unterstützt Datenquellen beim Build; kann mit JS/TS-Skripten RDF- oder Wikibase-Daten als Markdown/HTML ausgeben
+| Modern und sehr flexibel
+|-
+| '''Gatsby'''
+| JavaScript
+| Integration über GraphQL-Plugins und eigene Node.js-Skripte möglich; RDF/Wikibase-Daten in Seiten einbindbar
+| Gut für große Websites, viele verfügbare Plugins
+|}
+
+== 3. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+
+|}
+
+
+
+== 4. Dokumentationsgeneratoren (Doc Generator) ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| Antora
+| JavaScript
+| Für sehr große, modulare und versionierte Entwicklerdokus
+|-
+| MkDocs
+| Python
+| Einfach, schnell, für große technische Dokumentationen
+|-
+| Sphinx
+| Python
+| Sehr mächtig, für große, strukturierte Dokus (z.B. Python)
+|-
+| Docusaurus
+| JavaScript
+| Moderne Entwicklerdokus, Versionierung, React-basiert
+|}</text>
+      <sha1>1yq4u7req5i1swdnx83jsen2ojniq7h</sha1>
+    </revision>
+    <revision>
+      <id>84</id>
+      <parentid>83</parentid>
+      <timestamp>2026-01-10T06:25:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* 2. Static Site Generatoren */</comment>
+      <origin>84</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1830" sha1="7wzkirc7650wcnjov0noah3zu6gje19" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Drupal|Drupal]]
+| PHP
+| Sehr flexibel, skalierbar, für große und komplexe Websites; gute RDF-Unterstützung, geeignet für Wissensbasen
+|}
+== 2. Static Site Generatoren ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Hugo|Hugo]]
+| Go
+| Sehr schnell, für große statische Websites
+|-
+| Eleventy
+| JavaScript
+| Flexibel, einfach, für große statische Websites
+|}
+===Static Site Generatoren mit RDF/Wikibase-Unterstützung===
+{| class="wikitable"
+! Name
+! Sprache
+! RDF/Wikibase-Integration
+! Hinweise
+|-
+| '''Eleventy (11ty)'''
+| JavaScript
+| Sehr flexibel: Mit Node.js-Skripten (z.B. &lt;code&gt;n3&lt;/code&gt;, &lt;code&gt;rdf-ext&lt;/code&gt;, &lt;code&gt;rdflib&lt;/code&gt;) oder über Wikibase-APIs/SPARQL nutzbar
+| Ideal für individuelle Datenpipelines
+|-
+| '''Astro'''
+| JavaScript/TypeScript
+| Unterstützt Datenquellen beim Build; kann mit JS/TS-Skripten RDF- oder Wikibase-Daten als Markdown/HTML ausgeben
+| Modern und sehr flexibel
+|-
+| '''Gatsby'''
+| JavaScript
+| Integration über GraphQL-Plugins und eigene Node.js-Skripte möglich; RDF/Wikibase-Daten in Seiten einbindbar
+| Gut für große Websites, viele verfügbare Plugins
+|}
+
+== 3. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+
+|}
+
+
+
+== 4. Dokumentationsgeneratoren (Doc Generator) ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| Antora
+| JavaScript
+| Für sehr große, modulare und versionierte Entwicklerdokus
+|-
+| MkDocs
+| Python
+| Einfach, schnell, für große technische Dokumentationen
+|-
+| Sphinx
+| Python
+| Sehr mächtig, für große, strukturierte Dokus (z.B. Python)
+|-
+| Docusaurus
+| JavaScript
+| Moderne Entwicklerdokus, Versionierung, React-basiert
+|}</text>
+      <sha1>7wzkirc7650wcnjov0noah3zu6gje19</sha1>
+    </revision>
+    <revision>
+      <id>86</id>
+      <parentid>84</parentid>
+      <timestamp>2026-01-10T06:40:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* 2. Static Site Generatoren */</comment>
+      <origin>86</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1752" sha1="cq4pnxsymnleu92vt5z25lmitv26d4y" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Drupal|Drupal]]
+| PHP
+| Sehr flexibel, skalierbar, für große und komplexe Websites; gute RDF-Unterstützung, geeignet für Wissensbasen
+|}
+== 2. Static Site Generatoren ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Hugo|Hugo]]
+| Go
+| Sehr schnell, für große statische Websites
+
+|}
+===Static Site Generatoren mit RDF/Wikibase-Unterstützung===
+{| class="wikitable"
+! Name
+! Sprache
+! RDF/Wikibase-Integration
+! Hinweise
+|-
+| '''Eleventy (11ty)'''
+| JavaScript
+| Sehr flexibel: Mit Node.js-Skripten (z.B. &lt;code&gt;n3&lt;/code&gt;, &lt;code&gt;rdf-ext&lt;/code&gt;, &lt;code&gt;rdflib&lt;/code&gt;) oder über Wikibase-APIs/SPARQL nutzbar
+| Ideal für individuelle Datenpipelines
+|-
+| '''Astro'''
+| JavaScript/TypeScript
+| Unterstützt Datenquellen beim Build; kann mit JS/TS-Skripten RDF- oder Wikibase-Daten als Markdown/HTML ausgeben
+| Modern und sehr flexibel
+|-
+| '''Gatsby'''
+| JavaScript
+| Integration über GraphQL-Plugins und eigene Node.js-Skripte möglich; RDF/Wikibase-Daten in Seiten einbindbar
+| Gut für große Websites, viele verfügbare Plugins
+|}
+
+== 3. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+
+|}
+
+
+
+== 4. Dokumentationsgeneratoren (Doc Generator) ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| Antora
+| JavaScript
+| Für sehr große, modulare und versionierte Entwicklerdokus
+|-
+| MkDocs
+| Python
+| Einfach, schnell, für große technische Dokumentationen
+|-
+| Sphinx
+| Python
+| Sehr mächtig, für große, strukturierte Dokus (z.B. Python)
+|-
+| Docusaurus
+| JavaScript
+| Moderne Entwicklerdokus, Versionierung, React-basiert
+|}</text>
+      <sha1>cq4pnxsymnleu92vt5z25lmitv26d4y</sha1>
+    </revision>
+    <revision>
+      <id>88</id>
+      <parentid>86</parentid>
+      <timestamp>2026-01-10T14:28:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Static Site Generatoren mit RDF/Wikibase-Unterstützung */</comment>
+      <origin>88</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1776" sha1="qeifsshujpjae3bht4x7ayx069zdjwe" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Drupal|Drupal]]
+| PHP
+| Sehr flexibel, skalierbar, für große und komplexe Websites; gute RDF-Unterstützung, geeignet für Wissensbasen
+|}
+== 2. Static Site Generatoren ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Hugo|Hugo]]
+| Go
+| Sehr schnell, für große statische Websites
+
+|}
+===Static Site Generatoren mit RDF/Wikibase-Unterstützung===
+{| class="wikitable"
+! Name
+! Sprache
+! RDF/Wikibase-Integration
+! Hinweise
+|-
+| '''[[CMS/Eleventy (11ty)|Eleventy (11ty)]]'''
+| JavaScript
+| Sehr flexibel: Mit Node.js-Skripten (z.B. &lt;code&gt;n3&lt;/code&gt;, &lt;code&gt;rdf-ext&lt;/code&gt;, &lt;code&gt;rdflib&lt;/code&gt;) oder über Wikibase-APIs/SPARQL nutzbar
+| Ideal für individuelle Datenpipelines
+|-
+| '''Astro'''
+| JavaScript/TypeScript
+| Unterstützt Datenquellen beim Build; kann mit JS/TS-Skripten RDF- oder Wikibase-Daten als Markdown/HTML ausgeben
+| Modern und sehr flexibel
+|-
+| '''Gatsby'''
+| JavaScript
+| Integration über GraphQL-Plugins und eigene Node.js-Skripte möglich; RDF/Wikibase-Daten in Seiten einbindbar
+| Gut für große Websites, viele verfügbare Plugins
+|}
+
+== 3. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+
+|}
+
+
+
+== 4. Dokumentationsgeneratoren (Doc Generator) ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| Antora
+| JavaScript
+| Für sehr große, modulare und versionierte Entwicklerdokus
+|-
+| MkDocs
+| Python
+| Einfach, schnell, für große technische Dokumentationen
+|-
+| Sphinx
+| Python
+| Sehr mächtig, für große, strukturierte Dokus (z.B. Python)
+|-
+| Docusaurus
+| JavaScript
+| Moderne Entwicklerdokus, Versionierung, React-basiert
+|}</text>
+      <sha1>qeifsshujpjae3bht4x7ayx069zdjwe</sha1>
+    </revision>
   </page>
   <page>
     <title>CMS/Drupal</title>
@@ -4068,6 +4503,100 @@ Folge diesen Schritten, um Drupal auf deinem lokalen Rechner zu installieren:
 # Öffne deinen Browser und rufe die folgende Adresse auf:
     http://localhost</text>
       <sha1>0d5uodjmngnqqctp164lwa8h7kbtg8e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>CMS/Hugo</title>
+    <ns>0</ns>
+    <id>40</id>
+    <revision>
+      <id>85</id>
+      <timestamp>2026-01-10T06:39:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>85</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="565" sha1="r36eatou7c0sl5mgvmmfnoh6xlq54eb" xml:space="preserve">== Hugo ==
+'''Hugo''' ist ein extrem schneller Static Site Generator (SSG). Er wandelt Markdown-Inhalte und Templates vorab in statische HTML-Dateien um, statt Seiten dynamisch bei jedem Aufruf zu generieren.
+
+* '''Performance:''' In Go geschrieben, extrem kurze Build-Zeiten.
+* '''Sicherheit:''' Keine Datenbank oder Server-Logik (PHP) nötig.
+* '''Hosting:''' Einfacher Betrieb auf jedem Webserver oder CDNs.
+* '''Git:''' Ideal für Versionskontrolle, da alles textbasiert ist.
+
+==Installation==
+===Linux===
+
+```bash
+go install github.com/gohugoio/hugo@latest
+```</text>
+      <sha1>r36eatou7c0sl5mgvmmfnoh6xlq54eb</sha1>
+    </revision>
+    <revision>
+      <id>87</id>
+      <parentid>85</parentid>
+      <timestamp>2026-01-10T09:23:27Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>87</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="839" sha1="fuj4q5lqk4pxv80tyd14j24xnssnd0n" xml:space="preserve">== Hugo ==
+'''Hugo''' ist ein extrem schneller Static Site Generator (SSG). Er wandelt Markdown-Inhalte und Templates vorab in statische HTML-Dateien um, statt Seiten dynamisch bei jedem Aufruf zu generieren.
+
+* '''Performance:''' In Go geschrieben, extrem kurze Build-Zeiten.
+* '''Sicherheit:''' Keine Datenbank oder Server-Logik (PHP) nötig.
+* '''Hosting:''' Einfacher Betrieb auf jedem Webserver oder CDNs.
+* '''Git:''' Ideal für Versionskontrolle, da alles textbasiert ist.
+
+==Installation==
+===Linux===
+go install github.com/gohugoio/hugo@latest
+====Standard edition====
+go install github.com/gohugoio/hugo@latest
+
+====Extended edition====
+CGO_ENABLED=1 go install -tags extended github.com/gohugoio/hugo@latest
+
+====Extended edition with deploy====
+CGO_ENABLED=1 go install -tags extended,withdeploy github.com/gohugoio/hugo@latest</text>
+      <sha1>fuj4q5lqk4pxv80tyd14j24xnssnd0n</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>CMS/Eleventy (11ty)</title>
+    <ns>0</ns>
+    <id>41</id>
+    <revision>
+      <id>89</id>
+      <timestamp>2026-01-10T14:46:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>89</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="359" sha1="2dq8lkovuded1j9ymvpwjytztgqqsav" xml:space="preserve">==Eleventy (11ty)==
+Eleventy (11ty) ist ein flexibler statischer Website-Generator für Node.js, der für seine hohe Performance, Unterstützung zahlreicher Template-Sprachen und den Verzicht auf erzwungene clientseitige JavaScript-Frameworks bekannt ist.
+
+===Installation===
+&lt;pre&gt;
+npm install -g @11ty/eleventy   
+&lt;/pre&gt;
+===Anwendung===
+&lt;pre&gt;
+eleventy
+&lt;/pre&gt;</text>
+      <sha1>2dq8lkovuded1j9ymvpwjytztgqqsav</sha1>
     </revision>
   </page>
 </mediawiki>
