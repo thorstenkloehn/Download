@@ -2,7 +2,7 @@
   <siteinfo>
     <sitename>Ahrensburg.city</sitename>
     <dbname>wiki</dbname>
-    <base>https://ahrensburg.city/Hauptseite</base>
+    <base>https://www.ahrensburg.city/Hauptseite</base>
     <generator>MediaWiki 1.45.1</generator>
     <case>first-letter</case>
     <namespaces>
@@ -564,6 +564,338 @@ count=10
 
 * [[Ahrensburg Nachrichten Website]]</text>
       <sha1>1zq0m64dcm4v238ckojx8gdw94kwk5u</sha1>
+    </revision>
+    <revision>
+      <id>72</id>
+      <parentid>60</parentid>
+      <timestamp>2026-01-12T05:31:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>72</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1687" sha1="tpfp3zapjvzzwv7pvn0ykn6cocy6lm8" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg
+&lt;mapframe width="400" height="300" zoom="13" latitude="53.6761" longitude="10.2410" align="right"&gt;
+{
+  "type": "Feature",
+  "properties": {
+    "marker-symbol": "city",
+    "marker-color": "3366cc",
+    "title": "Ahrensburg",
+    "description": "Die Schlossstadt in Schleswig-Holstein"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [10.2410, 53.6761]
+  }
+}
+&lt;/mapframe&gt;
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+
+
+* [[Ahrensburg Nachrichten Website]]</text>
+      <sha1>tpfp3zapjvzzwv7pvn0ykn6cocy6lm8</sha1>
+    </revision>
+    <revision>
+      <id>73</id>
+      <parentid>72</parentid>
+      <timestamp>2026-01-12T05:49:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>73</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1826" sha1="dsbzx9w34ebmodkqrmujl2nrrbcf9s5" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg
+&lt;mapframe width="500" height="400" zoom="12" latitude="53.6761" longitude="10.2410" align="center"&gt;
+{
+  "type": "Feature",
+  "properties": {
+    "stroke": "#ff0000",
+    "stroke-width": 2,
+    "fill": "#ff0000",
+    "fill-opacity": 0.2,
+    "title": "Stadtgebiet Ahrensburg"
+  },
+  "geometry": {
+    "type": "Polygon",
+    "coordinates": [
+      [
+        [10.18, 53.66],
+        [10.22, 53.71],
+        [10.28, 53.70],
+        [10.30, 53.66],
+        [10.25, 53.63],
+        [10.18, 53.66]
+      ]
+    ]
+  }
+}
+&lt;/mapframe&gt;
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+
+
+* [[Ahrensburg Nachrichten Website]]</text>
+      <sha1>dsbzx9w34ebmodkqrmujl2nrrbcf9s5</sha1>
+    </revision>
+    <revision>
+      <id>74</id>
+      <parentid>73</parentid>
+      <timestamp>2026-01-12T06:12:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>74</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1405" sha1="aas5ujsldlgcqqo0tqajk3xce11ki2r" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg
+&lt;mapframe width="500" height="400" zoom="14" latitude="53.6761" longitude="10.2410" align="center" /&gt;
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+
+
+* [[Ahrensburg Nachrichten Website]]</text>
+      <sha1>aas5ujsldlgcqqo0tqajk3xce11ki2r</sha1>
+    </revision>
+    <revision>
+      <id>75</id>
+      <parentid>74</parentid>
+      <timestamp>2026-01-12T06:22:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Inoffizielle Stadtseite von Ahrensburg – Dokumente */</comment>
+      <origin>75</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1684" sha1="hx824jcw36h5n8onu4a9qgb48xknajk" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg
+&lt;mapframe width="400" height="300" zoom="12" latitude="53.6761" longitude="10.2410" align="center"&gt;
+{
+  "type": "Feature",
+  "properties": {
+    "marker-symbol": "city",
+    "marker-color": "0055aa",
+    "title": "Ahrensburg",
+    "description": "Schlossstadt in Schleswig-Holstein"
+  },
+  "geometry": {
+    "type": "Point",
+    "coordinates": [10.2410, 53.6761]
+  }
+}
+&lt;/mapframe&gt;
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+
+
+* [[Ahrensburg Nachrichten Website]]</text>
+      <sha1>hx824jcw36h5n8onu4a9qgb48xknajk</sha1>
+    </revision>
+    <revision>
+      <id>76</id>
+      <parentid>75</parentid>
+      <timestamp>2026-01-12T07:11:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Inoffizielle Stadtseite von Ahrensburg – Dokumente */</comment>
+      <origin>76</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1592" sha1="646hl9rw1svqnede87zba5tmb7g068w" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg
+&lt;mapframe width="400" height="300" zoom="12" latitude="53.6747" longitude="10.2411"&gt;
+{
+  "type": "ExternalData",
+  "service": "geoshape",
+  "ids": "Q497510",
+  "properties": {
+    "stroke": "#ff0000",
+    "stroke-width": 2,
+    "fill": "#ff0000",
+    "fill-opacity": 0.1
+  }
+}
+&lt;/mapframe&gt;
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+
+
+* [[Ahrensburg Nachrichten Website]]</text>
+      <sha1>646hl9rw1svqnede87zba5tmb7g068w</sha1>
+    </revision>
+    <revision>
+      <id>77</id>
+      <parentid>76</parentid>
+      <timestamp>2026-01-12T07:13:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>77</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1571" sha1="0by6vxklc92kl387friqt7h4gwpdok2" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg
+&lt;mapframe width="400" height="300" zoom="12" latitude="53.6747" longitude="10.2411"&gt;
+{
+  "type": "Feature",
+  "geometry": { "type": "Point", "coordinates": [10.2411, 53.6747] },
+  "properties": {
+    "title": "Ahrensburg",
+    "marker-symbol": "city"
+  }
+}
+&lt;/mapframe&gt;
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+
+
+* [[Ahrensburg Nachrichten Website]]</text>
+      <sha1>0by6vxklc92kl387friqt7h4gwpdok2</sha1>
+    </revision>
+    <revision>
+      <id>78</id>
+      <parentid>77</parentid>
+      <timestamp>2026-01-12T07:17:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>78</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1385" sha1="rxxkfj8rfd2q3q9ntze7j4g6k58nlku" xml:space="preserve">__NOTOC__
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg
+&lt;mapframe width="300" height="200" zoom="13" latitude="53.67" longitude="10.24" /&gt;
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+
+
+* [[Ahrensburg Nachrichten Website]]</text>
+      <sha1>rxxkfj8rfd2q3q9ntze7j4g6k58nlku</sha1>
     </revision>
   </page>
   <page>
@@ -1882,55 +2214,6 @@ Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanz
     </revision>
   </page>
   <page>
-    <title>Item:Q2</title>
-    <ns>120</ns>
-    <id>34</id>
-    <revision>
-      <id>50</id>
-      <timestamp>2026-01-09T11:06:55Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbeditentity-create:2|de */ Strehl, Strehl gg</comment>
-      <origin>50</origin>
-      <model>wikibase-item</model>
-      <format>application/json</format>
-      <text bytes="176" sha1="fqppoyr1858tf28rw9znfv26jik052u" xml:space="preserve">{"type":"item","id":"Q2","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Strehl gg"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
-      <sha1>fqppoyr1858tf28rw9znfv26jik052u</sha1>
-    </revision>
-    <revision>
-      <id>52</id>
-      <parentid>50</parentid>
-      <timestamp>2026-01-09T11:13:02Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbsetclaim-create:2||1 */ [[Property:P3]]: Reeshoop 50</comment>
-      <origin>52</origin>
-      <model>wikibase-item</model>
-      <format>application/json</format>
-      <text bytes="416" sha1="0dlo5biifnk06r5pys2p0dhsxx7pdz6" xml:space="preserve">{"type":"item","id":"Q2","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Strehl gg"}},"aliases":[],"claims":{"P3":[{"mainsnak":{"snaktype":"value","property":"P3","hash":"af4394cb6b1bf03b8c24427483a4a1b250589ad2","datavalue":{"value":"Reeshoop 50","type":"string"}},"type":"statement","id":"Q2$73653c1c-42a8-a1d4-ccd6-8202d5d2e910","rank":"normal"}]},"sitelinks":[]}</text>
-      <sha1>0dlo5biifnk06r5pys2p0dhsxx7pdz6</sha1>
-    </revision>
-    <revision>
-      <id>53</id>
-      <parentid>52</parentid>
-      <timestamp>2026-01-09T11:20:13Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbsetclaim-create:2||1 */ [[Property:P2]]: Deutsch</comment>
-      <origin>53</origin>
-      <model>wikibase-item</model>
-      <format>application/json</format>
-      <text bytes="653" sha1="5deo1p2u0iexg2uhww7ubt3ip4dddo1" xml:space="preserve">{"type":"item","id":"Q2","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Strehl gg"}},"aliases":[],"claims":{"P3":[{"mainsnak":{"snaktype":"value","property":"P3","hash":"af4394cb6b1bf03b8c24427483a4a1b250589ad2","datavalue":{"value":"Reeshoop 50","type":"string"}},"type":"statement","id":"Q2$73653c1c-42a8-a1d4-ccd6-8202d5d2e910","rank":"normal"}],"P2":[{"mainsnak":{"snaktype":"value","property":"P2","hash":"888d192f7319c83a5523e0fea3c2f7cb02be9c17","datavalue":{"value":"Deutsch","type":"string"}},"type":"statement","id":"Q2$6be5dfcb-4b1e-f95d-d859-0d4697e78a2e","rank":"normal"}]},"sitelinks":[]}</text>
-      <sha1>5deo1p2u0iexg2uhww7ubt3ip4dddo1</sha1>
-    </revision>
-  </page>
-  <page>
     <title>Property:P3</title>
     <ns>122</ns>
     <id>35</id>
@@ -2000,6 +2283,161 @@ Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanz
       <format>application/json</format>
       <text bytes="414" sha1="ebvf6f9w66ko7i0hitmcppc13nsekuw" xml:space="preserve">{"type":"item","id":"Q3","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Restaurant"}},"aliases":[],"claims":{"P4":[{"mainsnak":{"snaktype":"value","property":"P4","hash":"02a85b70739bd83f8a72fd8222b7c4773ee8b36d","datavalue":{"value":"Thorsten","type":"string"}},"type":"statement","id":"Q3$bb7359a9-4dc9-1dbd-866e-adf12f8e20cd","rank":"normal"}]},"sitelinks":[]}</text>
       <sha1>ebvf6f9w66ko7i0hitmcppc13nsekuw</sha1>
+    </revision>
+    <revision>
+      <id>67</id>
+      <parentid>63</parentid>
+      <timestamp>2026-01-11T23:01:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbremoveclaims-remove:1| */ [[Property:P4]]: Thorsten</comment>
+      <origin>67</origin>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="177" sha1="144b4sshpioz2gwm1z0z7nqptqvzt9v" xml:space="preserve">{"type":"item","id":"Q3","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Restaurant"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>144b4sshpioz2gwm1z0z7nqptqvzt9v</sha1>
+    </revision>
+    <revision>
+      <id>68</id>
+      <parentid>67</parentid>
+      <timestamp>2026-01-11T23:03:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P5]]: [[Item:Q3]]</comment>
+      <origin>68</origin>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="462" sha1="sl41zn94xl045s90rc2049u4jh3483v" xml:space="preserve">{"type":"item","id":"Q3","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Restaurant"}},"aliases":[],"claims":{"P5":[{"mainsnak":{"snaktype":"value","property":"P5","hash":"67300d518d33d08d1856eee91256d4c03c0a53d7","datavalue":{"value":{"entity-type":"item","numeric-id":3,"id":"Q3"},"type":"wikibase-entityid"}},"type":"statement","id":"Q3$7bd4a336-461d-303d-91b5-141226c804a9","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>sl41zn94xl045s90rc2049u4jh3483v</sha1>
+    </revision>
+    <revision>
+      <id>70</id>
+      <parentid>68</parentid>
+      <timestamp>2026-01-11T23:15:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P6]]: [[Item:Q4]]</comment>
+      <origin>70</origin>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="748" sha1="4rp66uynodsgo62vvcxbmr15ghq5cqz" xml:space="preserve">{"type":"item","id":"Q3","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Restaurant"}},"aliases":[],"claims":{"P5":[{"mainsnak":{"snaktype":"value","property":"P5","hash":"67300d518d33d08d1856eee91256d4c03c0a53d7","datavalue":{"value":{"entity-type":"item","numeric-id":3,"id":"Q3"},"type":"wikibase-entityid"}},"type":"statement","id":"Q3$7bd4a336-461d-303d-91b5-141226c804a9","rank":"normal"}],"P6":[{"mainsnak":{"snaktype":"value","property":"P6","hash":"7d915bfe178137b727c89aedc21b9470aa87b484","datavalue":{"value":{"entity-type":"item","numeric-id":4,"id":"Q4"},"type":"wikibase-entityid"}},"type":"statement","id":"Q3$d7c8ad7c-47bc-755c-3f55-84bc466a3618","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>4rp66uynodsgo62vvcxbmr15ghq5cqz</sha1>
+    </revision>
+    <revision>
+      <id>71</id>
+      <parentid>70</parentid>
+      <timestamp>2026-01-11T23:25:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbsetclaim-create:2||1 */ [[Property:P3]]: Reeshoop, 50,Ahrensburg</comment>
+      <origin>71</origin>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="1001" sha1="jgy2mqxp5lita0maygdtjhxw3ew1a5i" xml:space="preserve">{"type":"item","id":"Q3","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Restaurant"}},"aliases":[],"claims":{"P5":[{"mainsnak":{"snaktype":"value","property":"P5","hash":"67300d518d33d08d1856eee91256d4c03c0a53d7","datavalue":{"value":{"entity-type":"item","numeric-id":3,"id":"Q3"},"type":"wikibase-entityid"}},"type":"statement","id":"Q3$7bd4a336-461d-303d-91b5-141226c804a9","rank":"normal"}],"P6":[{"mainsnak":{"snaktype":"value","property":"P6","hash":"7d915bfe178137b727c89aedc21b9470aa87b484","datavalue":{"value":{"entity-type":"item","numeric-id":4,"id":"Q4"},"type":"wikibase-entityid"}},"type":"statement","id":"Q3$d7c8ad7c-47bc-755c-3f55-84bc466a3618","rank":"normal"}],"P3":[{"mainsnak":{"snaktype":"value","property":"P3","hash":"893191d60a92b6f03a500de7fc63a20aea2469cd","datavalue":{"value":"Reeshoop, 50,Ahrensburg","type":"string"}},"type":"statement","id":"Q3$ec278ef8-4883-3485-aa50-3f03ceaa636b","rank":"normal"}]},"sitelinks":[]}</text>
+      <sha1>jgy2mqxp5lita0maygdtjhxw3ew1a5i</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Property:P5</title>
+    <ns>122</ns>
+    <id>38</id>
+    <revision>
+      <id>64</id>
+      <timestamp>2026-01-11T22:45:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbeditentity-create:2|de */ RestaurantName</comment>
+      <origin>64</origin>
+      <model>wikibase-property</model>
+      <format>application/json</format>
+      <text bytes="158" sha1="k0wv0dzu3ljsztc60ya5izg92pihx48" xml:space="preserve">{"type":"property","datatype":"wikibase-item","id":"P5","labels":{"de":{"language":"de","value":"RestaurantName"}},"descriptions":[],"aliases":[],"claims":[]}</text>
+      <sha1>k0wv0dzu3ljsztc60ya5izg92pihx48</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Property:P6</title>
+    <ns>122</ns>
+    <id>39</id>
+    <revision>
+      <id>65</id>
+      <timestamp>2026-01-11T22:49:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbeditentity-create:2|de */ Küche_Nationale</comment>
+      <origin>65</origin>
+      <model>wikibase-property</model>
+      <format>application/json</format>
+      <text bytes="164" sha1="lku6zk7nhmte1lzt7p7elza5tmmko17" xml:space="preserve">{"type":"property","datatype":"wikibase-item","id":"P6","labels":{"de":{"language":"de","value":"K\u00fcche_Nationale"}},"descriptions":[],"aliases":[],"claims":[]}</text>
+      <sha1>lku6zk7nhmte1lzt7p7elza5tmmko17</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Property:P7</title>
+    <ns>122</ns>
+    <id>40</id>
+    <revision>
+      <id>66</id>
+      <timestamp>2026-01-11T22:50:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbeditentity-create:2|de */ Webseite</comment>
+      <origin>66</origin>
+      <model>wikibase-property</model>
+      <format>application/json</format>
+      <text bytes="142" sha1="4g4vu46t9hcflvxig0qogx9svknajd2" xml:space="preserve">{"type":"property","datatype":"url","id":"P7","labels":{"de":{"language":"de","value":"Webseite"}},"descriptions":[],"aliases":[],"claims":[]}</text>
+      <sha1>4g4vu46t9hcflvxig0qogx9svknajd2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Item:Q4</title>
+    <ns>120</ns>
+    <id>41</id>
+    <revision>
+      <id>69</id>
+      <timestamp>2026-01-11T23:14:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* wbeditentity-create:2|de */ Deutsche Küche, Restaurant_Angabe</comment>
+      <origin>69</origin>
+      <model>wikibase-item</model>
+      <format>application/json</format>
+      <text bytes="197" sha1="oiup51luwpdnlay69vzzay43f3b0awk" xml:space="preserve">{"type":"item","id":"Q4","labels":{"de":{"language":"de","value":"Deutsche K\u00fcche"}},"descriptions":{"de":{"language":"de","value":"Restaurant_Angabe"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
+      <sha1>oiup51luwpdnlay69vzzay43f3b0awk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>MediaWiki:Kartographer-attribution</title>
+    <ns>8</ns>
+    <id>42</id>
+    <revision>
+      <id>79</id>
+      <timestamp>2026-01-12T07:25:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ahrensburg.city | Kartendaten © [https://www.openstreetmap.org/copyright OpenStreetMap-Autoren]“</comment>
+      <origin>79</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="96" sha1="09fcg5jfd9zfekp0fyk7u3zx9txrrab" xml:space="preserve">ahrensburg.city | Kartendaten © [https://www.openstreetmap.org/copyright OpenStreetMap-Autoren]</text>
+      <sha1>09fcg5jfd9zfekp0fyk7u3zx9txrrab</sha1>
     </revision>
   </page>
 </mediawiki>

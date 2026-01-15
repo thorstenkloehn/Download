@@ -277,6 +277,191 @@ Herzlich willkommen! Diese Seite dient als zentrale Anlaufstelle für Dokumentat
 * [[Weiter Tools]] — Nützliche Werkzeuge und Hilfsmittel</text>
       <sha1>lb58906taf2zdsbxbcrlhpyh2ibkxzc</sha1>
     </revision>
+    <revision>
+      <id>126</id>
+      <parentid>70</parentid>
+      <timestamp>2026-01-14T18:39:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>126</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1034" sha1="jgja06cl5s6nux1la5exatdulqqo8ln" xml:space="preserve">== Willkommen auf meiner Wissensdatenbank ==
+
+Herzlich willkommen! Diese Seite dient als zentrale Anlaufstelle für Dokumentationen und Informationen zu meinen Projekten. Hier finden sich Details zu Implementierungen mit **Drupal**, **Typo3**, **MediaWiki** sowie meiner lokalen **XWiki**-Instanz.
+
+=== Themenübersicht ===
+
+==== Content Management &amp; Web ====
+* [[CMS]] — Übersicht der Content-Management-Systeme
+* [[Web-Frameworks]] — Frameworks und Web-Technologien
+
+==== Entwicklung &amp; KI-Integration ====
+* [[AI]] — Grundlagen und Projekte im Bereich Künstliche Intelligenz
+* [[KI-IDE]] — KI-gestützte Entwicklungsumgebungen
+* [[IDE]] — Konfiguration und Nutzung von Entwicklungsumgebungen
+
+==== Infrastruktur &amp; Sicherheit ====
+* [[Server]] — Serverkonfiguration und Administration
+* [[Schwachstellen]] — Sicherheitsanalysen und Best Practices
+* [[DNS|DNS Domaine Verwalten]] — Artikel zur Verwaltung von DNS-Domains
+
+==== Sonstiges ====
+* [[Weitere Tools]] — Nützliche Werkzeuge und Hilfsmittel
+* [[Postfix]]</text>
+      <sha1>jgja06cl5s6nux1la5exatdulqqo8ln</sha1>
+    </revision>
+    <revision>
+      <id>127</id>
+      <parentid>126</parentid>
+      <timestamp>2026-01-14T18:41:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Willkommen auf meiner Wissensdatenbank */</comment>
+      <origin>127</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1033" sha1="oqjm7hx5f5huixiwym33kp100dn8jsx" xml:space="preserve">== Willkommen auf meiner Wissensdatenbank ==
+
+Herzlich willkommen! Diese Seite dient als zentrale Anlaufstelle für Dokumentationen und Informationen zu meinen Projekten. Hier finden sich Details zu Implementierungen mit **Drupal**, **Typo3**, **MediaWiki** sowie meiner lokalen **XWiki**-Instanz.
+
+=== Themenübersicht ===
+
+==== Content Management &amp; Web ====
+* [[CMS]] — Übersicht der Content-Management-Systeme
+* [[WebFrameworks]] — Frameworks und Web-Technologien
+
+==== Entwicklung &amp; KI-Integration ====
+* [[AI]] — Grundlagen und Projekte im Bereich Künstliche Intelligenz
+* [[KI-IDE]] — KI-gestützte Entwicklungsumgebungen
+* [[IDE]] — Konfiguration und Nutzung von Entwicklungsumgebungen
+
+==== Infrastruktur &amp; Sicherheit ====
+* [[Server]] — Serverkonfiguration und Administration
+* [[Schwachstellen]] — Sicherheitsanalysen und Best Practices
+* [[DNS|DNS Domaine Verwalten]] — Artikel zur Verwaltung von DNS-Domains
+
+==== Sonstiges ====
+* [[Weitere Tools]] — Nützliche Werkzeuge und Hilfsmittel
+* [[Postfix]]</text>
+      <sha1>oqjm7hx5f5huixiwym33kp100dn8jsx</sha1>
+    </revision>
+    <revision>
+      <id>128</id>
+      <parentid>127</parentid>
+      <timestamp>2026-01-14T18:41:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Willkommen auf meiner Wissensdatenbank */</comment>
+      <origin>128</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1033" sha1="f5vesq4hwc8uiz98cfnym366vjkyrex" xml:space="preserve">== Willkommen auf meiner Wissensdatenbank ==
+
+Herzlich willkommen! Diese Seite dient als zentrale Anlaufstelle für Dokumentationen und Informationen zu meinen Projekten. Hier finden sich Details zu Implementierungen mit **Drupal**, **Typo3**, **MediaWiki** sowie meiner lokalen **XWiki**-Instanz.
+
+=== Themenübersicht ===
+
+==== Content Management &amp; Web ====
+* [[CMS]] — Übersicht der Content-Management-Systeme
+* [[Webframeworks]] — Frameworks und Web-Technologien
+
+==== Entwicklung &amp; KI-Integration ====
+* [[AI]] — Grundlagen und Projekte im Bereich Künstliche Intelligenz
+* [[KI-IDE]] — KI-gestützte Entwicklungsumgebungen
+* [[IDE]] — Konfiguration und Nutzung von Entwicklungsumgebungen
+
+==== Infrastruktur &amp; Sicherheit ====
+* [[Server]] — Serverkonfiguration und Administration
+* [[Schwachstellen]] — Sicherheitsanalysen und Best Practices
+* [[DNS|DNS Domaine Verwalten]] — Artikel zur Verwaltung von DNS-Domains
+
+==== Sonstiges ====
+* [[Weitere Tools]] — Nützliche Werkzeuge und Hilfsmittel
+* [[Postfix]]</text>
+      <sha1>f5vesq4hwc8uiz98cfnym366vjkyrex</sha1>
+    </revision>
+    <revision>
+      <id>129</id>
+      <parentid>128</parentid>
+      <timestamp>2026-01-14T18:44:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>129</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1047" sha1="qo0nk2afdnarv55t6z1cjwdvo7i05o5" xml:space="preserve">== Willkommen auf meiner Wissensdatenbank ==
+
+Herzlich willkommen! Diese Seite dient als zentrale Anlaufstelle für Dokumentationen und Informationen zu meinen Projekten. Hier finden sich Details zu Implementierungen mit **Drupal**, **Typo3**, **MediaWiki** sowie meiner lokalen **XWiki**-Instanz.
+
+=== Themenübersicht ===
+
+==== Content Management &amp; Web ====
+* [[CMS]] — Übersicht der Content-Management-Systeme
+* [[Webframeworks|
+Webframework]] — Frameworks und Web-Technologien
+
+==== Entwicklung &amp; KI-Integration ====
+* [[AI]] — Grundlagen und Projekte im Bereich Künstliche Intelligenz
+* [[KI-IDE]] — KI-gestützte Entwicklungsumgebungen
+* [[IDE]] — Konfiguration und Nutzung von Entwicklungsumgebungen
+
+==== Infrastruktur &amp; Sicherheit ====
+* [[Server]] — Serverkonfiguration und Administration
+* [[Schwachstellen]] — Sicherheitsanalysen und Best Practices
+* [[DNS|DNS Domaine Verwalten]] — Artikel zur Verwaltung von DNS-Domains
+
+==== Sonstiges ====
+* [[Weitere Tools]] — Nützliche Werkzeuge und Hilfsmittel
+* [[Postfix]]</text>
+      <sha1>qo0nk2afdnarv55t6z1cjwdvo7i05o5</sha1>
+    </revision>
+    <revision>
+      <id>130</id>
+      <parentid>129</parentid>
+      <timestamp>2026-01-14T18:44:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>130</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1046" sha1="2h491fzpgsnhh7egu9m45uxiy9p23mc" xml:space="preserve">== Willkommen auf meiner Wissensdatenbank ==
+
+Herzlich willkommen! Diese Seite dient als zentrale Anlaufstelle für Dokumentationen und Informationen zu meinen Projekten. Hier finden sich Details zu Implementierungen mit **Drupal**, **Typo3**, **MediaWiki** sowie meiner lokalen **XWiki**-Instanz.
+
+=== Themenübersicht ===
+
+==== Content Management &amp; Web ====
+* [[CMS]] — Übersicht der Content-Management-Systeme
+* [[Webframework|
+Webframework]] — Frameworks und Web-Technologien
+
+==== Entwicklung &amp; KI-Integration ====
+* [[AI]] — Grundlagen und Projekte im Bereich Künstliche Intelligenz
+* [[KI-IDE]] — KI-gestützte Entwicklungsumgebungen
+* [[IDE]] — Konfiguration und Nutzung von Entwicklungsumgebungen
+
+==== Infrastruktur &amp; Sicherheit ====
+* [[Server]] — Serverkonfiguration und Administration
+* [[Schwachstellen]] — Sicherheitsanalysen und Best Practices
+* [[DNS|DNS Domaine Verwalten]] — Artikel zur Verwaltung von DNS-Domains
+
+==== Sonstiges ====
+* [[Weitere Tools]] — Nützliche Werkzeuge und Hilfsmittel
+* [[Postfix]]</text>
+      <sha1>2h491fzpgsnhh7egu9m45uxiy9p23mc</sha1>
+    </revision>
   </page>
   <page>
     <title>AI</title>
@@ -662,6 +847,22 @@ Amazon Q</text>
 * [https://gemini.google.com/ Gemini Code Assist]
 * [https://www.amazon.com/ Amazon Q]</text>
       <sha1>5i07c4mh48ckqotblsscsqwd8j6crgo</sha1>
+    </revision>
+    <revision>
+      <id>125</id>
+      <parentid>32</parentid>
+      <timestamp>2026-01-14T18:26:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>125</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="147" sha1="atkxhw6vgwqavxl93f2r1wcxrqfwviw" xml:space="preserve">* [https://chat.openai.com/ ChatGPT (OpenAI codex)]
+* [https://github.com/copilot GitHub Copilot]
+* [https://gemini.google.com/ Gemini Code Assist]</text>
+      <sha1>atkxhw6vgwqavxl93f2r1wcxrqfwviw</sha1>
     </revision>
   </page>
   <page>
@@ -2774,6 +2975,114 @@ Folgende KI-Modell-Anbieter bieten Erweiterungen für Visual Studio Code an:
 * '''Amazon Q Developer''' (ehem. CodeWhisperer) – KI-Unterstützung von AWS für Code-Vervollständigung, Debugging und automatisierte Sicherheitsüberprüfungen.</text>
       <sha1>pngx3xog2c34e5sa620qujjyhf75awa</sha1>
     </revision>
+    <revision>
+      <id>93</id>
+      <parentid>82</parentid>
+      <timestamp>2026-01-12T02:23:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>93</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1415" sha1="62o3suigkrb3gaqvxb3y4hwqr51qbk6" xml:space="preserve">== KI-basierte IDEs ==
+* '''Visual Studio Code''' – Ein flexibler, plattformübergreifender Editor von Microsoft, der durch sein umfangreiches Extension-Ökosystem zur leistungsstarken KI-Entwicklungsumgebung wird.
+* '''Google Antigravity''' – Experimentelles KI-Tool von Google für innovative Programmierfunktionen.
+* '''Cursor''' – Ein moderner KI-Code-Editor, der auf Effizienz und nahtlose Integration von KI-gestützten Funktionen ausgelegt ist.
+
+== KI-Erweiterungen für Visual Studio Code ==
+* '''Gemini Code Assist''' – Googles KI-gestützte Hilfe zur effizienten Erstellung, Testung und Dokumentation von Quellcode.
+* '''GitHub Copilot''' – Der marktführende KI-Begleiter von GitHub und OpenAI, der kontextsensitive Code-Vervollständigung und Chat-Unterstützung bietet.
+* '''OpenAI Codex''' – Die technologische Basis für viele Coding-Assistenten, spezialisiert auf die Übersetzung von natürlicher Sprache in Programmcode.
+* '''AI Assistant by JetBrains''' – KI-gestützter Assistent von JetBrains für intelligente Code-Vorschläge, Refactoring und Unterstützung direkt in JetBrains- und VS Code-Umgebungen.
+* '''Snyk Code''' – Automatisierte Sicherheitsanalyse und Schwachstellenprüfung direkt beim Programmieren.
+* '''Amazon Q Developer''' (ehem. CodeWhisperer) – KI-Unterstützung von AWS für Code-Vervollständigung, Debugging und automatisierte Sicherheitsüberprüfungen.</text>
+      <sha1>62o3suigkrb3gaqvxb3y4hwqr51qbk6</sha1>
+    </revision>
+    <revision>
+      <id>94</id>
+      <parentid>93</parentid>
+      <timestamp>2026-01-12T02:40:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>94</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1279" sha1="qivgbdqvknygq2omqgf269qiif674xq" xml:space="preserve">== KI-basierte IDEs ==
+* '''Visual Studio Code''' – Ein flexibler, plattformübergreifender Editor von Microsoft, der durch sein umfangreiches Extension-Ökosystem zur leistungsstarken KI-Entwicklungsumgebung wird.
+* '''Google Antigravity''' – Experimentelles KI-Tool von Google für innovative Programmierfunktionen.
+
+== KI-Erweiterungen für Visual Studio Code ==
+* '''Gemini Code Assist''' – Googles KI-gestützte Hilfe zur effizienten Erstellung, Testung und Dokumentation von Quellcode.
+* '''GitHub Copilot''' – Der marktführende KI-Begleiter von GitHub und OpenAI, der kontextsensitive Code-Vervollständigung und Chat-Unterstützung bietet.
+* '''OpenAI Codex''' – Die technologische Basis für viele Coding-Assistenten, spezialisiert auf die Übersetzung von natürlicher Sprache in Programmcode.
+* '''AI Assistant by JetBrains''' – KI-gestützter Assistent von JetBrains für intelligente Code-Vorschläge, Refactoring und Unterstützung direkt in JetBrains- und VS Code-Umgebungen.
+* '''Snyk Code''' – Automatisierte Sicherheitsanalyse und Schwachstellenprüfung direkt beim Programmieren.
+* '''Amazon Q Developer''' (ehem. CodeWhisperer) – KI-Unterstützung von AWS für Code-Vervollständigung, Debugging und automatisierte Sicherheitsüberprüfungen.</text>
+      <sha1>qivgbdqvknygq2omqgf269qiif674xq</sha1>
+    </revision>
+    <revision>
+      <id>95</id>
+      <parentid>94</parentid>
+      <timestamp>2026-01-12T11:42:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>95</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1451" sha1="i11iruj2v6e4np550ekhyymchii9roe" xml:space="preserve">== KI-basierte IDEs ==
+* '''Visual Studio Code''' – Ein flexibler, plattformübergreifender Editor von Microsoft, der durch sein umfangreiches Extension-Ökosystem zur leistungsstarken KI-Entwicklungsumgebung wird.
+* '''Google Antigravity''' – Experimentelles KI-Tool von Google für innovative Programmierfunktionen.
+
+== KI-Erweiterungen für Visual Studio Code ==
+* '''Gemini Code Assist''' – Googles KI-gestützte Hilfe zur effizienten Erstellung, Testung und Dokumentation von Quellcode.
+* '''GitHub Copilot''' – Der marktführende KI-Begleiter von GitHub und OpenAI, der kontextsensitive Code-Vervollständigung und Chat-Unterstützung bietet.
+* '''OpenAI Codex''' – Die technologische Basis für viele Coding-Assistenten, spezialisiert auf die Übersetzung von natürlicher Sprache in Programmcode.
+* '''AI Assistant by JetBrains''' – KI-gestützter Assistent von JetBrains für intelligente Code-Vorschläge, Refactoring und Unterstützung direkt in JetBrains- und VS Code-Umgebungen.
+* '''Snyk Code''' – Automatisierte Sicherheitsanalyse und Schwachstellenprüfung direkt beim Programmieren.
+* '''Amazon Q Developer''' (ehem. CodeWhisperer) – KI-Unterstützung von AWS für Code-Vervollständigung, Debugging und automatisierte Sicherheitsüberprüfungen.
+==Schnellstart==
+&lt;pre&gt;
+code --profile "Gemini Code Assist" --install-extension Google.geminicodeassist
+code --profile "Codex – OpenAI" --install-extension openai.chatgpt</text>
+      <sha1>i11iruj2v6e4np550ekhyymchii9roe</sha1>
+    </revision>
+    <revision>
+      <id>96</id>
+      <parentid>95</parentid>
+      <timestamp>2026-01-12T13:29:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Schnellstart */</comment>
+      <origin>96</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1554" sha1="333eob8wv5560bviw92icl9ngqc56jf" xml:space="preserve">== KI-basierte IDEs ==
+* '''Visual Studio Code''' – Ein flexibler, plattformübergreifender Editor von Microsoft, der durch sein umfangreiches Extension-Ökosystem zur leistungsstarken KI-Entwicklungsumgebung wird.
+* '''Google Antigravity''' – Experimentelles KI-Tool von Google für innovative Programmierfunktionen.
+
+== KI-Erweiterungen für Visual Studio Code ==
+* '''Gemini Code Assist''' – Googles KI-gestützte Hilfe zur effizienten Erstellung, Testung und Dokumentation von Quellcode.
+* '''GitHub Copilot''' – Der marktführende KI-Begleiter von GitHub und OpenAI, der kontextsensitive Code-Vervollständigung und Chat-Unterstützung bietet.
+* '''OpenAI Codex''' – Die technologische Basis für viele Coding-Assistenten, spezialisiert auf die Übersetzung von natürlicher Sprache in Programmcode.
+* '''AI Assistant by JetBrains''' – KI-gestützter Assistent von JetBrains für intelligente Code-Vorschläge, Refactoring und Unterstützung direkt in JetBrains- und VS Code-Umgebungen.
+* '''Snyk Code''' – Automatisierte Sicherheitsanalyse und Schwachstellenprüfung direkt beim Programmieren.
+* '''Amazon Q Developer''' (ehem. CodeWhisperer) – KI-Unterstützung von AWS für Code-Vervollständigung, Debugging und automatisierte Sicherheitsüberprüfungen.
+==Schnellstart==
+&lt;pre&gt;
+code --profile "Gemini Code Assist" --install-extension Google.geminicodeassist
+code --profile "Codex – OpenAI" --install-extension openai.chatgpt
+code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrains-ai-assistant
+&lt;/pre&gt;</text>
+      <sha1>333eob8wv5560bviw92icl9ngqc56jf</sha1>
+    </revision>
   </page>
   <page>
     <title>CMS</title>
@@ -4008,6 +4317,952 @@ Folgende KI-Modell-Anbieter bieten Erweiterungen für Visual Studio Code an:
 |}</text>
       <sha1>qeifsshujpjae3bht4x7ayx069zdjwe</sha1>
     </revision>
+    <revision>
+      <id>90</id>
+      <parentid>88</parentid>
+      <timestamp>2026-01-11T22:05:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>90</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2310" sha1="ipyqtcv862qd0ufb2qgqxqhdfyucb4b" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Drupal|Drupal]]
+| PHP
+| Sehr flexibel, skalierbar, für große und komplexe Websites; gute RDF-Unterstützung, geeignet für Wissensbasen
+|-
+| [[CMS/Typo3|Typo3]]
+| PHP
+| Leistungsstarkes Enterprise-CMS, sehr flexibel, für mittlere bis sehr große Websites geeignet
+|}
+== 2. Static Site Generatoren ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Hugo|Hugo]]
+| Go
+| Sehr schnell, für große statische Websites
+|-
+| [[CMS/Zola|Zola]]
+| Rust
+| Einfach zu bedienen, sehr schnell, unterstützt Markdown und flexible Templates
+|}
+===Static Site Generatoren mit RDF/Wikibase-Unterstützung===
+{| class="wikitable"
+! Name
+! Sprache
+! RDF/Wikibase-Integration
+! Hinweise
+|-
+| '''[[CMS/Eleventy (11ty)|Eleventy (11ty)]]'''
+| JavaScript
+| Sehr flexibel: Mit Node.js-Skripten (z.B. &lt;code&gt;n3&lt;/code&gt;, &lt;code&gt;rdf-ext&lt;/code&gt;, &lt;code&gt;rdflib&lt;/code&gt;) oder über Wikibase-APIs/SPARQL nutzbar
+| Ideal für individuelle Datenpipelines
+|-
+| '''Astro'''
+| JavaScript/TypeScript
+| Unterstützt Datenquellen beim Build; kann mit JS/TS-Skripten RDF- oder Wikibase-Daten als Markdown/HTML ausgeben
+| Modern und sehr flexibel
+|-
+| '''Gatsby'''
+| JavaScript
+| Integration über GraphQL-Plugins und eigene Node.js-Skripte möglich; RDF/Wikibase-Daten in Seiten einbindbar
+| Gut für große Websites, viele verfügbare Plugins
+|-
+| '''Next.js'''
+| JavaScript/TypeScript
+| Integration über API-Routen, eigene Node.js-Skripte oder externe Bibliotheken (z.B. &lt;code&gt;n3&lt;/code&gt;, &lt;code&gt;rdf-ext&lt;/code&gt;); Daten können beim Build oder zur Laufzeit eingebunden werden
+| Sehr flexibel, für große und dynamische Websites geeignet
+|}
+
+== 3. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+
+|}
+
+
+
+== 4. Dokumentationsgeneratoren (Doc Generator) ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| Antora
+| JavaScript
+| Für sehr große, modulare und versionierte Entwicklerdokus
+|-
+| MkDocs
+| Python
+| Einfach, schnell, für große technische Dokumentationen
+|-
+| Sphinx
+| Python
+| Sehr mächtig, für große, strukturierte Dokus (z.B. Python)
+|-
+| Docusaurus
+| JavaScript
+| Moderne Entwicklerdokus, Versionierung, React-basiert
+|}</text>
+      <sha1>ipyqtcv862qd0ufb2qgqxqhdfyucb4b</sha1>
+    </revision>
+    <revision>
+      <id>91</id>
+      <parentid>90</parentid>
+      <timestamp>2026-01-11T22:26:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>91</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2429" sha1="i0yz892nv74xtmq9c67r534znjovo46" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Drupal|Drupal]]
+| PHP
+| Sehr flexibel, skalierbar, für große und komplexe Websites; gute RDF-Unterstützung, geeignet für Wissensbasen
+|-
+| [[CMS/Typo3|Typo3]]
+| PHP
+| Leistungsstarkes Enterprise-CMS, sehr flexibel, für mittlere bis sehr große Websites geeignet
+|}
+== 2. Static Site Generatoren ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Hugo|Hugo]]
+| Go
+| Sehr schnell, für große statische Websites
+|-
+| [[CMS/Zola|Zola]]
+| Rust
+| Einfach zu bedienen, sehr schnell, unterstützt Markdown und flexible Templates
+|}
+===Static Site Generatoren mit RDF/Wikibase-Unterstützung===
+{| class="wikitable"
+! Name
+! Sprache
+! RDF/Wikibase-Integration
+! Hinweise
+|-
+| '''[[CMS/Eleventy (11ty)|Eleventy (11ty)]]'''
+| JavaScript
+| Sehr flexibel: Mit Node.js-Skripten (z.B. &lt;code&gt;n3&lt;/code&gt;, &lt;code&gt;rdf-ext&lt;/code&gt;, &lt;code&gt;rdflib&lt;/code&gt;) oder über Wikibase-APIs/SPARQL nutzbar
+| Ideal für individuelle Datenpipelines
+|-
+| '''Astro'''
+| JavaScript/TypeScript
+| Unterstützt Datenquellen beim Build; kann mit JS/TS-Skripten RDF- oder Wikibase-Daten als Markdown/HTML ausgeben
+| Modern und sehr flexibel
+|-
+| '''Gatsby'''
+| JavaScript
+| Integration über GraphQL-Plugins und eigene Node.js-Skripte möglich; RDF/Wikibase-Daten in Seiten einbindbar
+| Gut für große Websites, viele verfügbare Plugins
+|-
+| '''Next.js'''
+| JavaScript/TypeScript
+| Integration über API-Routen, eigene Node.js-Skripte oder externe Bibliotheken (z.B. &lt;code&gt;n3&lt;/code&gt;, &lt;code&gt;rdf-ext&lt;/code&gt;); Daten können beim Build oder zur Laufzeit eingebunden werden
+| Sehr flexibel, für große und dynamische Websites geeignet
+|}
+
+== 3. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| XWiki
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|}
+
+
+
+== 4. Dokumentationsgeneratoren (Doc Generator) ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| Antora
+| JavaScript
+| Für sehr große, modulare und versionierte Entwicklerdokus
+|-
+| MkDocs
+| Python
+| Einfach, schnell, für große technische Dokumentationen
+|-
+| Sphinx
+| Python
+| Sehr mächtig, für große, strukturierte Dokus (z.B. Python)
+|-
+| Docusaurus
+| JavaScript
+| Moderne Entwicklerdokus, Versionierung, React-basiert
+|}</text>
+      <sha1>i0yz892nv74xtmq9c67r534znjovo46</sha1>
+    </revision>
+    <revision>
+      <id>92</id>
+      <parentid>91</parentid>
+      <timestamp>2026-01-12T00:32:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>92</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2717" sha1="nntejeuet44g83lpkcbkk6olfjo85co" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Drupal|Drupal]]
+| PHP
+| Sehr flexibel, skalierbar, für große und komplexe Websites; gute RDF-Unterstützung, geeignet für Wissensbasen
+|-
+| [[CMS/Typo3|Typo3]]
+| PHP
+| Leistungsstarkes Enterprise-CMS, sehr flexibel, für mittlere bis sehr große Websites geeignet
+|}
+== 2. Static Site Generatoren ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Hugo|Hugo]]
+| Go
+| Sehr schnell, für große statische Websites
+|-
+| [[CMS/Zola|Zola]]
+| Rust
+| Einfach zu bedienen, sehr schnell, unterstützt Markdown und flexible Templates
+|}
+===Static Site Generatoren mit RDF/Wikibase-Unterstützung===
+{| class="wikitable"
+! Name
+! Sprache
+! RDF/Wikibase-Integration
+! Hinweise
+|-
+| '''[[CMS/Eleventy (11ty)|Eleventy (11ty)]]'''
+| JavaScript
+| Sehr flexibel: Mit Node.js-Skripten (z.B. &lt;code&gt;n3&lt;/code&gt;, &lt;code&gt;rdf-ext&lt;/code&gt;, &lt;code&gt;rdflib&lt;/code&gt;) oder über Wikibase-APIs/SPARQL nutzbar
+| Ideal für individuelle Datenpipelines
+|-
+| '''Astro'''
+| JavaScript/TypeScript
+| Unterstützt Datenquellen beim Build; kann mit JS/TS-Skripten RDF- oder Wikibase-Daten als Markdown/HTML ausgeben
+| Modern und sehr flexibel
+|-
+| '''Gatsby'''
+| JavaScript
+| Integration über GraphQL-Plugins und eigene Node.js-Skripte möglich; RDF/Wikibase-Daten in Seiten einbindbar
+| Gut für große Websites, viele verfügbare Plugins
+|-
+| '''Next.js'''
+| JavaScript/TypeScript
+| Integration über API-Routen, eigene Node.js-Skripte oder externe Bibliotheken (z.B. &lt;code&gt;n3&lt;/code&gt;, &lt;code&gt;rdf-ext&lt;/code&gt;); Daten können beim Build oder zur Laufzeit eingebunden werden
+| Sehr flexibel, für große und dynamische Websites geeignet
+|}
+
+== 3. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| XWiki
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|-
+| BookStack
+| PHP
+| Einfach zu bedienen, für Dokumentationen und Wissensmanagement, unterstützt Hierarchien (Bücher/Kapitel/Seiten)
+|-
+| Wiki.js
+| JavaScript/Node.js
+| Modernes, flexibles Wiki-System, unterstützt verschiedene Authentifizierungen und Datenquellen, Markdown-basiert
+|}
+
+
+
+== 4. Dokumentationsgeneratoren (Doc Generator) ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| Antora
+| JavaScript
+| Für sehr große, modulare und versionierte Entwicklerdokus
+|-
+| MkDocs
+| Python
+| Einfach, schnell, für große technische Dokumentationen
+|-
+| Sphinx
+| Python
+| Sehr mächtig, für große, strukturierte Dokus (z.B. Python)
+|-
+| Docusaurus
+| JavaScript
+| Moderne Entwicklerdokus, Versionierung, React-basiert
+|}</text>
+      <sha1>nntejeuet44g83lpkcbkk6olfjo85co</sha1>
+    </revision>
+    <revision>
+      <id>99</id>
+      <parentid>92</parentid>
+      <timestamp>2026-01-13T04:07:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* 3. Wiki-Systeme */</comment>
+      <origin>99</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2427" sha1="6terrnbescz1l60sqikulnc2bcngrpu" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Drupal|Drupal]]
+| PHP
+| Sehr flexibel, skalierbar, für große und komplexe Websites; gute RDF-Unterstützung, geeignet für Wissensbasen
+|-
+| [[CMS/Typo3|Typo3]]
+| PHP
+| Leistungsstarkes Enterprise-CMS, sehr flexibel, für mittlere bis sehr große Websites geeignet
+|}
+== 2. Static Site Generatoren ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Hugo|Hugo]]
+| Go
+| Sehr schnell, für große statische Websites
+|-
+| [[CMS/Zola|Zola]]
+| Rust
+| Einfach zu bedienen, sehr schnell, unterstützt Markdown und flexible Templates
+|}
+===Static Site Generatoren mit RDF/Wikibase-Unterstützung===
+{| class="wikitable"
+! Name
+! Sprache
+! RDF/Wikibase-Integration
+! Hinweise
+|-
+| '''[[CMS/Eleventy (11ty)|Eleventy (11ty)]]'''
+| JavaScript
+| Sehr flexibel: Mit Node.js-Skripten (z.B. &lt;code&gt;n3&lt;/code&gt;, &lt;code&gt;rdf-ext&lt;/code&gt;, &lt;code&gt;rdflib&lt;/code&gt;) oder über Wikibase-APIs/SPARQL nutzbar
+| Ideal für individuelle Datenpipelines
+|-
+| '''Astro'''
+| JavaScript/TypeScript
+| Unterstützt Datenquellen beim Build; kann mit JS/TS-Skripten RDF- oder Wikibase-Daten als Markdown/HTML ausgeben
+| Modern und sehr flexibel
+|-
+| '''Gatsby'''
+| JavaScript
+| Integration über GraphQL-Plugins und eigene Node.js-Skripte möglich; RDF/Wikibase-Daten in Seiten einbindbar
+| Gut für große Websites, viele verfügbare Plugins
+|-
+| '''Next.js'''
+| JavaScript/TypeScript
+| Integration über API-Routen, eigene Node.js-Skripte oder externe Bibliotheken (z.B. &lt;code&gt;n3&lt;/code&gt;, &lt;code&gt;rdf-ext&lt;/code&gt;); Daten können beim Build oder zur Laufzeit eingebunden werden
+| Sehr flexibel, für große und dynamische Websites geeignet
+|}
+
+== 3. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| XWiki
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|}
+
+== 4. Dokumentationsgeneratoren (Doc Generator) ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| Antora
+| JavaScript
+| Für sehr große, modulare und versionierte Entwicklerdokus
+|-
+| MkDocs
+| Python
+| Einfach, schnell, für große technische Dokumentationen
+|-
+| Sphinx
+| Python
+| Sehr mächtig, für große, strukturierte Dokus (z.B. Python)
+|-
+| Docusaurus
+| JavaScript
+| Moderne Entwicklerdokus, Versionierung, React-basiert
+|}</text>
+      <sha1>6terrnbescz1l60sqikulnc2bcngrpu</sha1>
+    </revision>
+    <revision>
+      <id>108</id>
+      <parentid>99</parentid>
+      <timestamp>2026-01-13T04:56:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>108</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="641" sha1="0f0txyjmq0uazn0d1s0nzgm596o8u3q" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Drupal|Drupal]]
+| PHP
+| Sehr flexibel, skalierbar, für große und komplexe Websites; gute RDF-Unterstützung, geeignet für Wissensbasen
+|-
+| [[CMS/Typo3|Typo3]]
+| PHP
+| Leistungsstarkes Enterprise-CMS, sehr flexibel, für mittlere bis sehr große Websites geeignet
+|}
+
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| XWiki
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|}</text>
+      <sha1>0f0txyjmq0uazn0d1s0nzgm596o8u3q</sha1>
+    </revision>
+    <revision>
+      <id>109</id>
+      <parentid>108</parentid>
+      <timestamp>2026-01-13T06:55:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>109</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="265" sha1="k1xl59e9mlrskmeq2w6dp4g1llsvxta" xml:space="preserve">
+
+== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| XWiki
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|}</text>
+      <sha1>k1xl59e9mlrskmeq2w6dp4g1llsvxta</sha1>
+    </revision>
+    <revision>
+      <id>110</id>
+      <parentid>109</parentid>
+      <timestamp>2026-01-13T10:20:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>110</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="406" sha1="l29bkc2nfkqsdjs4oq5ymqdn1s5pfyl" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| XWiki
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| Erste-Wiki
+| Asp Net Core MVC
+| Meine Erste Wiki
+
+
+|}</text>
+      <sha1>l29bkc2nfkqsdjs4oq5ymqdn1s5pfyl</sha1>
+    </revision>
+    <revision>
+      <id>111</id>
+      <parentid>110</parentid>
+      <timestamp>2026-01-13T10:21:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* 2. Wiki-Eigenbau-System */</comment>
+      <origin>111</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="404" sha1="2e5q063ho6wz5jhkyqui7rym9d3udgu" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| XWiki
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| Erste-Wiki
+| Asp Net Core MVC
+| Meine Erste Wiki
+|}</text>
+      <sha1>2e5q063ho6wz5jhkyqui7rym9d3udgu</sha1>
+    </revision>
+    <revision>
+      <id>112</id>
+      <parentid>111</parentid>
+      <timestamp>2026-01-13T10:23:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>112</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="423" sha1="366nms02zkpp0mr1etk33k76h5for11" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| XWiki
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Erste-Wiki|Erste-Wiki]]
+| Asp Net Core MVC
+| Meine Erste Wiki
+|}</text>
+      <sha1>366nms02zkpp0mr1etk33k76h5for11</sha1>
+    </revision>
+    <revision>
+      <id>113</id>
+      <parentid>112</parentid>
+      <timestamp>2026-01-13T10:24:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* 2. Wiki-Eigenbau-System */</comment>
+      <origin>113</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="422" sha1="9bzb2g1nvk3vhuxf7wp3zacjb0wh3zs" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| XWiki
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Erste-Wiki|Erste-Wiki]]
+| Asp Net Core MVC
+| Mein erste Wiki
+|}</text>
+      <sha1>9bzb2g1nvk3vhuxf7wp3zacjb0wh3zs</sha1>
+    </revision>
+    <revision>
+      <id>114</id>
+      <parentid>113</parentid>
+      <timestamp>2026-01-13T10:34:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>114</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="404" sha1="6lo9lme3crg7oa9wg4h1pa5l44awn2l" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| XWiki
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| Erste-Wiki
+| Asp Net Core MVC
+| Mein erstes Wiki
+|}</text>
+      <sha1>6lo9lme3crg7oa9wg4h1pa5l44awn2l</sha1>
+    </revision>
+    <revision>
+      <id>115</id>
+      <parentid>114</parentid>
+      <timestamp>2026-01-13T10:48:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>115</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="424" sha1="of6m74yvwzxjs10axhrg1xhehbpkh6v" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| XWiki
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Erstes-Wiki|Erste-Wiki]]
+| Asp Net Core MVC
+| Mein erstes Wiki
+|}</text>
+      <sha1>of6m74yvwzxjs10axhrg1xhehbpkh6v</sha1>
+    </revision>
+    <revision>
+      <id>116</id>
+      <parentid>115</parentid>
+      <timestamp>2026-01-13T10:48:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* 2. Wiki-Eigenbau-System */</comment>
+      <origin>116</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="425" sha1="s1pha892bpwgyvzwtr66obrld859i59" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| XWiki
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| Asp Net Core MVC
+| Mein erstes Wiki
+|}</text>
+      <sha1>s1pha892bpwgyvzwtr66obrld859i59</sha1>
+    </revision>
+    <revision>
+      <id>119</id>
+      <parentid>116</parentid>
+      <timestamp>2026-01-13T22:39:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>119</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="494" sha1="s139bv7t9jfz3c86hdqurjzl19htudc" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| XWiki
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [[https://erstes-wiki-doc.ahrensburg.city/|Dokumente]]
+|}</text>
+      <sha1>s139bv7t9jfz3c86hdqurjzl19htudc</sha1>
+    </revision>
+    <revision>
+      <id>120</id>
+      <parentid>119</parentid>
+      <timestamp>2026-01-13T22:40:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>120</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="491" sha1="f67ik2h7tigaqvqgvju391pczj7e3t4" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| XWiki
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+|}</text>
+      <sha1>f67ik2h7tigaqvqgvju391pczj7e3t4</sha1>
+    </revision>
+    <revision>
+      <id>132</id>
+      <parentid>120</parentid>
+      <timestamp>2026-01-15T05:31:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>132</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="495" sha1="ku54hkhe1imxd77v8f5iopgq0w77b2e" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| [[XWiki]]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+|}</text>
+      <sha1>ku54hkhe1imxd77v8f5iopgq0w77b2e</sha1>
+    </revision>
+    <revision>
+      <id>133</id>
+      <parentid>132</parentid>
+      <timestamp>2026-01-15T05:36:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>133</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="505" sha1="hvnw1gemt8d7ktviilyy3zaf81j4c3l" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| MediaWiki
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| [[CMS/XWiki|XWiki]]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+|}</text>
+      <sha1>hvnw1gemt8d7ktviilyy3zaf81j4c3l</sha1>
+    </revision>
   </page>
   <page>
     <title>CMS/Drupal</title>
@@ -4597,6 +5852,1513 @@ npm install -g @11ty/eleventy
 eleventy
 &lt;/pre&gt;</text>
       <sha1>2dq8lkovuded1j9ymvpwjytztgqqsav</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>CMS/Typo3</title>
+    <ns>0</ns>
+    <id>42</id>
+    <revision>
+      <id>97</id>
+      <timestamp>2026-01-13T04:00:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ == Voraussetzungen für die Installation von Typo3 auf Ubuntu ==  === 1. PHP und benötigte Erweiterungen installieren === Führen Sie folgenden Befehl aus, um PHP und alle benötigten Erweiterungen zu installieren:  sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y  === 1.1. PostgreSQL PHP-Treiber installiere…“</comment>
+      <origin>97</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1504" sha1="dto33swksqjc5rwcc72w2zmyopzr2y1" xml:space="preserve">
+== Voraussetzungen für die Installation von Typo3 auf Ubuntu ==
+
+=== 1. PHP und benötigte Erweiterungen installieren ===
+Führen Sie folgenden Befehl aus, um PHP und alle benötigten Erweiterungen zu installieren:
+ sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+
+=== 1.1. PostgreSQL PHP-Treiber installieren ===
+Um Drupal mit einer PostgreSQL-Datenbank zu verwenden, muss der passende PHP-Treiber installiert sein. Installieren Sie den Treiber mit folgendem Befehl:
+ sudo -u postgres -i
+ createdb -E UTF8 -O thorsten drupal
+ exit ''# Ausloggen''
+ sudo apt-get install php-pgsql
+
+=== 1.2. SQLite3 PHP-Treiber installieren ===
+Um Drupal mit einer SQLite3-Datenbank zu verwenden, muss der passende PHP-Treiber installiert sein. Installieren Sie den Treiber mit folgendem Befehl:
+ sudo apt-get update
+ sudo apt-get install php-sqlite3
+
+=== 2. Composer installieren ===
+Composer ist ein Paketmanager für PHP. Installieren Sie Composer mit diesen Befehlen:
+ php -r "copy('&lt;nowiki&gt;https://getcomposer.org/installer'&lt;/nowiki&gt;, 'composer-setup.php');"
+ php composer-setup.php
+ php -r "unlink('composer-setup.php');"
+ sudo mv composer.phar /usr/local/bin/composer
+
+=== 3. Nginx Webserver installieren ===
+Installieren Sie Nginx mit folgendem Befehl:
+ sudo apt-get install nginx
+Entfernen Sie die Standardkonfiguration:
+ sudo rm /etc/nginx/sites-enabled/default</text>
+      <sha1>dto33swksqjc5rwcc72w2zmyopzr2y1</sha1>
+    </revision>
+    <revision>
+      <id>98</id>
+      <parentid>97</parentid>
+      <timestamp>2026-01-13T04:03:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* 1.1. PostgreSQL PHP-Treiber installieren */</comment>
+      <origin>98</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1502" sha1="mmagfjgod40andd42zmecoe3ma04xfp" xml:space="preserve">
+== Voraussetzungen für die Installation von Typo3 auf Ubuntu ==
+
+=== 1. PHP und benötigte Erweiterungen installieren ===
+Führen Sie folgenden Befehl aus, um PHP und alle benötigten Erweiterungen zu installieren:
+ sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+
+=== 1.1. PostgreSQL PHP-Treiber installieren ===
+Um Typo3 mit einer PostgreSQL-Datenbank zu verwenden, muss der passende PHP-Treiber installiert sein. Installieren Sie den Treiber mit folgendem Befehl:
+ sudo -u postgres -i
+ createdb -E UTF8 -O thorsten typo3
+ exit ''# Ausloggen''
+ sudo apt-get install php-pgsql
+
+=== 1.2. SQLite3 PHP-Treiber installieren ===
+Um Drupal mit einer SQLite3-Datenbank zu verwenden, muss der passende PHP-Treiber installiert sein. Installieren Sie den Treiber mit folgendem Befehl:
+ sudo apt-get update
+ sudo apt-get install php-sqlite3
+
+=== 2. Composer installieren ===
+Composer ist ein Paketmanager für PHP. Installieren Sie Composer mit diesen Befehlen:
+ php -r "copy('&lt;nowiki&gt;https://getcomposer.org/installer'&lt;/nowiki&gt;, 'composer-setup.php');"
+ php composer-setup.php
+ php -r "unlink('composer-setup.php');"
+ sudo mv composer.phar /usr/local/bin/composer
+
+=== 3. Nginx Webserver installieren ===
+Installieren Sie Nginx mit folgendem Befehl:
+ sudo apt-get install nginx
+Entfernen Sie die Standardkonfiguration:
+ sudo rm /etc/nginx/sites-enabled/default</text>
+      <sha1>mmagfjgod40andd42zmecoe3ma04xfp</sha1>
+    </revision>
+    <revision>
+      <id>100</id>
+      <parentid>98</parentid>
+      <timestamp>2026-01-13T04:25:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>100</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1543" sha1="6fuedookr88usox5xosy673o0ocek5j" xml:space="preserve">* [[CMS/Typo3/Installieren|Installieren]]
+== Voraussetzungen für die Installation von Typo3 auf Ubuntu ==
+
+=== 1. PHP und benötigte Erweiterungen installieren ===
+Führen Sie folgenden Befehl aus, um PHP und alle benötigten Erweiterungen zu installieren:
+ sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+
+=== 1.1. PostgreSQL PHP-Treiber installieren ===
+Um Typo3 mit einer PostgreSQL-Datenbank zu verwenden, muss der passende PHP-Treiber installiert sein. Installieren Sie den Treiber mit folgendem Befehl:
+ sudo -u postgres -i
+ createdb -E UTF8 -O thorsten typo3
+ exit ''# Ausloggen''
+ sudo apt-get install php-pgsql
+
+=== 1.2. SQLite3 PHP-Treiber installieren ===
+Um Drupal mit einer SQLite3-Datenbank zu verwenden, muss der passende PHP-Treiber installiert sein. Installieren Sie den Treiber mit folgendem Befehl:
+ sudo apt-get update
+ sudo apt-get install php-sqlite3
+
+=== 2. Composer installieren ===
+Composer ist ein Paketmanager für PHP. Installieren Sie Composer mit diesen Befehlen:
+ php -r "copy('&lt;nowiki&gt;https://getcomposer.org/installer'&lt;/nowiki&gt;, 'composer-setup.php');"
+ php composer-setup.php
+ php -r "unlink('composer-setup.php');"
+ sudo mv composer.phar /usr/local/bin/composer
+
+=== 3. Nginx Webserver installieren ===
+Installieren Sie Nginx mit folgendem Befehl:
+ sudo apt-get install nginx
+Entfernen Sie die Standardkonfiguration:
+ sudo rm /etc/nginx/sites-enabled/default</text>
+      <sha1>6fuedookr88usox5xosy673o0ocek5j</sha1>
+    </revision>
+    <revision>
+      <id>101</id>
+      <parentid>100</parentid>
+      <timestamp>2026-01-13T04:26:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>101</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1549" sha1="6adzsgjbs0nit9zleoyaxj73adoan2e" xml:space="preserve">* [[CMS/Typo3/Voraussetzungen|Voraussetzungen]]
+== Voraussetzungen für die Installation von Typo3 auf Ubuntu ==
+
+=== 1. PHP und benötigte Erweiterungen installieren ===
+Führen Sie folgenden Befehl aus, um PHP und alle benötigten Erweiterungen zu installieren:
+ sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+
+=== 1.1. PostgreSQL PHP-Treiber installieren ===
+Um Typo3 mit einer PostgreSQL-Datenbank zu verwenden, muss der passende PHP-Treiber installiert sein. Installieren Sie den Treiber mit folgendem Befehl:
+ sudo -u postgres -i
+ createdb -E UTF8 -O thorsten typo3
+ exit ''# Ausloggen''
+ sudo apt-get install php-pgsql
+
+=== 1.2. SQLite3 PHP-Treiber installieren ===
+Um Drupal mit einer SQLite3-Datenbank zu verwenden, muss der passende PHP-Treiber installiert sein. Installieren Sie den Treiber mit folgendem Befehl:
+ sudo apt-get update
+ sudo apt-get install php-sqlite3
+
+=== 2. Composer installieren ===
+Composer ist ein Paketmanager für PHP. Installieren Sie Composer mit diesen Befehlen:
+ php -r "copy('&lt;nowiki&gt;https://getcomposer.org/installer'&lt;/nowiki&gt;, 'composer-setup.php');"
+ php composer-setup.php
+ php -r "unlink('composer-setup.php');"
+ sudo mv composer.phar /usr/local/bin/composer
+
+=== 3. Nginx Webserver installieren ===
+Installieren Sie Nginx mit folgendem Befehl:
+ sudo apt-get install nginx
+Entfernen Sie die Standardkonfiguration:
+ sudo rm /etc/nginx/sites-enabled/default</text>
+      <sha1>6adzsgjbs0nit9zleoyaxj73adoan2e</sha1>
+    </revision>
+    <revision>
+      <id>103</id>
+      <parentid>101</parentid>
+      <timestamp>2026-01-13T04:26:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Der Seiteninhalt wurde durch einen anderen Text ersetzt: „* [[CMS/Typo3/Voraussetzungen|Voraussetzungen]] == Voraussetzungen für die Installation von Typo3 auf Ubuntu ==“</comment>
+      <origin>103</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="112" sha1="9xu0v2zhrx2kek8td5yczknhh7j8hzp" xml:space="preserve">* [[CMS/Typo3/Voraussetzungen|Voraussetzungen]]
+== Voraussetzungen für die Installation von Typo3 auf Ubuntu ==</text>
+      <sha1>9xu0v2zhrx2kek8td5yczknhh7j8hzp</sha1>
+    </revision>
+    <revision>
+      <id>104</id>
+      <parentid>103</parentid>
+      <timestamp>2026-01-13T04:27:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>104</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="47" sha1="4g83efbseqhdiv5ujk6pm6lk0ju5l2u" xml:space="preserve">* [[CMS/Typo3/Voraussetzungen|Voraussetzungen]]</text>
+      <sha1>4g83efbseqhdiv5ujk6pm6lk0ju5l2u</sha1>
+    </revision>
+    <revision>
+      <id>105</id>
+      <parentid>104</parentid>
+      <timestamp>2026-01-13T04:39:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>105</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="305" sha1="p53kxvnv4xi3e58uouwwb2s1sq68eb9" xml:space="preserve">'''Typo3''' ist ein leistungsfähiges, flexibles und quelloffenes Content-Management-System (CMS), das sich besonders für mittlere bis große Websites eignet. Es bietet umfangreiche Funktionen zur Verwaltung von Inhalten, Benutzerrechten und Erweiterungen.
+* [[CMS/Typo3/Voraussetzungen|Voraussetzungen]]</text>
+      <sha1>p53kxvnv4xi3e58uouwwb2s1sq68eb9</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>CMS/Typo3/Voraussetzungen</title>
+    <ns>0</ns>
+    <id>43</id>
+    <revision>
+      <id>102</id>
+      <timestamp>2026-01-13T04:26:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „== Voraussetzungen für die Installation von Typo3 auf Ubuntu ==  === 1. PHP und benötigte Erweiterungen installieren === Führen Sie folgenden Befehl aus, um PHP und alle benötigten Erweiterungen zu installieren:  sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y  === 1.1. PostgreSQL PHP-Treiber installieren…“</comment>
+      <origin>102</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1501" sha1="580q8m2cv6om4fyeirgotw7m9jhal7o" xml:space="preserve">== Voraussetzungen für die Installation von Typo3 auf Ubuntu ==
+
+=== 1. PHP und benötigte Erweiterungen installieren ===
+Führen Sie folgenden Befehl aus, um PHP und alle benötigten Erweiterungen zu installieren:
+ sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+
+=== 1.1. PostgreSQL PHP-Treiber installieren ===
+Um Typo3 mit einer PostgreSQL-Datenbank zu verwenden, muss der passende PHP-Treiber installiert sein. Installieren Sie den Treiber mit folgendem Befehl:
+ sudo -u postgres -i
+ createdb -E UTF8 -O thorsten typo3
+ exit ''# Ausloggen''
+ sudo apt-get install php-pgsql
+
+=== 1.2. SQLite3 PHP-Treiber installieren ===
+Um Drupal mit einer SQLite3-Datenbank zu verwenden, muss der passende PHP-Treiber installiert sein. Installieren Sie den Treiber mit folgendem Befehl:
+ sudo apt-get update
+ sudo apt-get install php-sqlite3
+
+=== 2. Composer installieren ===
+Composer ist ein Paketmanager für PHP. Installieren Sie Composer mit diesen Befehlen:
+ php -r "copy('&lt;nowiki&gt;https://getcomposer.org/installer'&lt;/nowiki&gt;, 'composer-setup.php');"
+ php composer-setup.php
+ php -r "unlink('composer-setup.php');"
+ sudo mv composer.phar /usr/local/bin/composer
+
+=== 3. Nginx Webserver installieren ===
+Installieren Sie Nginx mit folgendem Befehl:
+ sudo apt-get install nginx
+Entfernen Sie die Standardkonfiguration:
+ sudo rm /etc/nginx/sites-enabled/default</text>
+      <sha1>580q8m2cv6om4fyeirgotw7m9jhal7o</sha1>
+    </revision>
+    <revision>
+      <id>106</id>
+      <parentid>102</parentid>
+      <timestamp>2026-01-13T04:43:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>106</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1531" sha1="aqus082bvv7bn5v3zv20pk53u6qsgp2" xml:space="preserve">== Voraussetzungen für die Installation von Typo3 auf Ubuntu ==
+
+=== 1. PHP und benötigte Erweiterungen installieren ===
+Führen Sie folgenden Befehl aus, um PHP und alle benötigten Erweiterungen zu installieren:
+ sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+
+=== 1.1. PostgreSQL PHP-Treiber installieren ===
+Um Typo3 mit einer PostgreSQL-Datenbank zu verwenden, muss der passende PHP-Treiber installiert sein. Installieren Sie den Treiber mit folgendem Befehl:
+ sudo -u postgres -i
+ createdb -E UTF8 -O thorsten typo3
+ exit ''# Ausloggen''
+ sudo apt-get install php-pgsql
+
+=== 1.2. SQLite3 PHP-Treiber installieren ===
+Um Drupal mit einer SQLite3-Datenbank zu verwenden, muss der passende PHP-Treiber installiert sein. Installieren Sie den Treiber mit folgendem Befehl:
+ sudo apt-get update
+ sudo apt-get install php-sqlite3
+
+=== 2. Composer installieren ===
+Composer ist ein Paketmanager für PHP. Installieren Sie Composer mit diesen Befehlen:
+ php -r "copy('&lt;nowiki&gt;https://getcomposer.org/installer'&lt;/nowiki&gt;, 'composer-setup.php');"
+ php composer-setup.php
+ php -r "unlink('composer-setup.php');"
+ sudo mv composer.phar /usr/local/bin/composer
+
+=== 3. Nginx Webserver installieren ===
+Installieren Sie Nginx mit folgendem Befehl:
+ sudo apt-get install nginx
+Entfernen Sie die Standardkonfiguration:
+ sudo rm /etc/nginx/sites-enabled/default
+
+=== 4. Nginx Konfigration===</text>
+      <sha1>aqus082bvv7bn5v3zv20pk53u6qsgp2</sha1>
+    </revision>
+    <revision>
+      <id>107</id>
+      <parentid>106</parentid>
+      <timestamp>2026-01-13T04:52:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>107</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4546" sha1="0k0nudbh1eszn68jju3tm6tj3l09ygi" xml:space="preserve">== Voraussetzungen für die Installation von Typo3 auf Ubuntu ==
+
+=== 1. PHP und benötigte Erweiterungen installieren ===
+Führen Sie folgenden Befehl aus, um PHP und alle benötigten Erweiterungen zu installieren:
+ sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+
+=== 1.1. PostgreSQL PHP-Treiber installieren ===
+Um Typo3 mit einer PostgreSQL-Datenbank zu verwenden, muss der passende PHP-Treiber installiert sein. Installieren Sie den Treiber mit folgendem Befehl:
+ sudo -u postgres -i
+ createdb -E UTF8 -O thorsten typo3
+ exit ''# Ausloggen''
+ sudo apt-get install php-pgsql
+
+=== 1.2. SQLite3 PHP-Treiber installieren ===
+Um Drupal mit einer SQLite3-Datenbank zu verwenden, muss der passende PHP-Treiber installiert sein. Installieren Sie den Treiber mit folgendem Befehl:
+ sudo apt-get update
+ sudo apt-get install php-sqlite3
+
+=== 2. Composer installieren ===
+Composer ist ein Paketmanager für PHP. Installieren Sie Composer mit diesen Befehlen:
+ php -r "copy('&lt;nowiki&gt;https://getcomposer.org/installer'&lt;/nowiki&gt;, 'composer-setup.php');"
+ php composer-setup.php
+ php -r "unlink('composer-setup.php');"
+ sudo mv composer.phar /usr/local/bin/composer
+
+=== 3. Nginx Webserver installieren ===
+Installieren Sie Nginx mit folgendem Befehl:
+ sudo apt-get install nginx
+Entfernen Sie die Standardkonfiguration:
+ sudo rm /etc/nginx/sites-enabled/default
+
+=== 4. Nginx Konfigration===
+
+Erstellen Sie eine neue Nginx-Konfigurationsdatei für Ihre Typo3-Installation:
+ sudo nano /etc/nginx/conf.d/typo3.conf
+Fügen Sie die folgende Konfiguration ein:
+&lt;pre&gt;
+
+server {
+    listen 80;
+    server_name typo3.localhost;
+    root /var/www/typo3/public;
+
+    index index.php index.html;
+
+#    include /etc/nginx/conf.d/nginx.conf;
+
+    location ~ \.js\.gzip$ {
+        add_header Content-Encoding gzip;
+        gzip off;
+        types { text/javascript gzip; }
+    }
+    location ~ \.css\.gzip$ {
+        add_header Content-Encoding gzip;
+        gzip off;
+        types { text/css gzip; }
+    }
+
+    # TYPO3 - Rule for versioned static files, configured through:
+    # - $GLOBALS['TYPO3_CONF_VARS']['BE']['versionNumberInFilename']
+    # - $GLOBALS['TYPO3_CONF_VARS']['FE']['versionNumberInFilename']
+    if (!-e $request_filename) {
+        rewrite ^/(.+)\.(\d+)\.(php|js|css|png|jpg|gif|gzip)$ /$1.$3 last;
+    }
+
+    # TYPO3 - Block access to composer files
+    location ~* composer\.(?:json|lock) {
+        deny all;
+    }
+
+    # TYPO3 - Block access to flexform files
+    location ~* flexform[^.]*\.xml {
+        deny all;
+    }
+
+    # TYPO3 - Block access to language files
+    location ~* locallang[^.]*\.(?:xml|xlf)$ {
+        deny all;
+    }
+
+    # TYPO3 - Block access to static typoscript files
+    location ~* ext_conf_template\.txt|ext_typoscript_constants\.txt|ext_typoscript_setup\.txt {
+        deny all;
+    }
+
+    # TYPO3 - Block access to miscellaneous protected files
+    location ~* /.*\.(?:bak|co?nf|cfg|ya?ml|ts|typoscript|tsconfig|dist|fla|in[ci]|log|sh|sql|sqlite)$ {
+        deny all;
+    }
+
+    # TYPO3 - Block access to recycler and temporary directories
+    location ~ _(?:recycler|temp)_/ {
+        deny all;
+    }
+
+    # TYPO3 - Block access to configuration files stored in fileadmin
+    location ~ fileadmin/(?:templates)/.*\.(?:txt|ts|typoscript)$ {
+        deny all;
+    }
+
+    # TYPO3 - Block access to libraries, source and temporary compiled data
+    location ~ ^(?:vendor|typo3_src|typo3temp/var) {
+        deny all;
+    }
+
+    # TYPO3 - Block access to protected extension directories
+    location ~ (?:typo3conf/ext|typo3/sysext|typo3/ext)/[^/]+/(?:Configuration|Resources/Private|Tests?|Documentation|docs?)/ {
+        deny all;
+    }
+
+    location / {
+        try_files $uri $uri/ /index.php$is_args$args;
+    }
+
+    location = /typo3 {
+        rewrite ^ /typo3/;
+    }
+
+    location /typo3/ {
+        absolute_redirect off;
+        try_files $uri /typo3/index.php$is_args$args;
+    }
+
+    location ~ [^/]\.php(/|$) {
+        fastcgi_split_path_info ^(.+?\.php)(/.*)$;
+        if (!-f $document_root$fastcgi_script_name) {
+            return 404;
+        }
+        fastcgi_buffer_size 32k;
+        fastcgi_buffers 8 16k;
+        fastcgi_connect_timeout 240s;
+        fastcgi_read_timeout 240s;
+        fastcgi_send_timeout 240s;
+
+        include              snippets/fastcgi-php.conf;
+        fastcgi_pass         unix:/var/run/php/php8.4-fpm.sock;
+    }
+}
+&lt;/pre&gt;</text>
+      <sha1>0k0nudbh1eszn68jju3tm6tj3l09ygi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>CMS/Erstes-Wiki</title>
+    <ns>0</ns>
+    <id>44</id>
+    <revision>
+      <id>117</id>
+      <timestamp>2026-01-13T11:43:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>117</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1844" sha1="az1dv0f7em2759aikiba9g3bdt0ly9d" xml:space="preserve">Das Vorhaben, ein eigenes CMS auf Basis von ASP.NET Core MVC zu entwickeln, das sich an etablierten Systemen wie MediaWiki, TYPO3, Drupal, XWiki, wiki.js oder Bookstack orientiert, ist anspruchsvoll, aber ein hervorragendes Projekt. ASP.NET Core eignet sich aufgrund seiner Performance und modularen Architektur ideal dafür.
+
+==Das Kernkonzept: Trennung von Inhalten und Darstellung==
+
+
+
+Das System trennt – wie auch andere bekannte Content-Management-Systeme (CMS) – die Inhalte (Texte) von der Darstellung (Layout, Design, Templates). Dadurch können Inhalte unabhängig vom Aussehen gepflegt und wiederverwendet werden.
+
+Datenspeicherung: Markdown-Inhalte sollen in der Datenbank gespeichert und in einem anderen Feld sofort als HTML gerendert werden (EF Core).
+
+Verarbeitung: Ein Service, der Markdown in HTML umwandelt (z. B. mit der Bibliothek Markdig).
+
+Rendering: ASP.NET Core MVC-Views, die das generierte HTML in ein Layout einbetten.
+==Die technische Architektur (Schritt für Schritt)==
+===Routing &amp; Dynamische Seiten===
+
+Dein CMS kennt die URLs nicht im Voraus. Du brauchst einen Catch-all Route Handler, der alle Anfragen außer statischen Dateien abfängt.
+====Catch-all Route ====
+
+In ASP.NET Core MVC bezeichnet eine "Catch-all Route" eine Routing-Regel, die alle Anfragen abfängt, die nicht explizit durch andere Routen definiert sind. Sie wird häufig verwendet, um dynamische Seiten oder ein CMS zu realisieren, bei dem die URLs nicht im Voraus bekannt sind.
+
+Beispiel in C#:
+
+&lt;pre&gt;
+app.MapControllerRoute(
+    name: "cms",
+    pattern: "{*slug}",
+    defaults: new { controller = "Page", action = "Index" });
+&lt;/pre&gt;
+
+Hierbei fängt die Route alle Pfade ab ("{*slug}") und leitet sie an den Controller "Page" und die Action "Index" weiter. So können beliebige URLs verarbeitet werden, z.B. für Wiki- oder CMS-Seiten.</text>
+      <sha1>az1dv0f7em2759aikiba9g3bdt0ly9d</sha1>
+    </revision>
+    <revision>
+      <id>118</id>
+      <parentid>117</parentid>
+      <timestamp>2026-01-13T12:11:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>118</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2610" sha1="t84152b9hssdez318llv27b3hj81v9r" xml:space="preserve">Das Vorhaben, ein eigenes CMS auf Basis von ASP.NET Core MVC zu entwickeln, das sich an etablierten Systemen wie MediaWiki, TYPO3, Drupal, XWiki, wiki.js oder Bookstack orientiert, ist anspruchsvoll, aber ein hervorragendes Projekt. ASP.NET Core eignet sich aufgrund seiner Performance und modularen Architektur ideal dafür.
+
+==Das Kernkonzept: Trennung von Inhalten und Darstellung==
+
+
+
+Das System trennt – wie auch andere bekannte Content-Management-Systeme (CMS) – die Inhalte (Texte) von der Darstellung (Layout, Design, Templates). Dadurch können Inhalte unabhängig vom Aussehen gepflegt und wiederverwendet werden.
+
+Datenspeicherung: Markdown-Inhalte sollen in der Datenbank gespeichert und in einem anderen Feld sofort als HTML gerendert werden (EF Core).
+
+Verarbeitung: Ein Service, der Markdown in HTML umwandelt (z. B. mit der Bibliothek Markdig).
+
+Rendering: ASP.NET Core MVC-Views, die das generierte HTML in ein Layout einbetten.
+==Die technische Architektur (Schritt für Schritt)==
+===Routing &amp; Dynamische Seiten===
+
+Dein CMS kennt die URLs nicht im Voraus. Du brauchst einen Catch-all Route Handler, der alle Anfragen außer statischen Dateien abfängt.
+====Catch-all Route ====
+
+In ASP.NET Core MVC bezeichnet eine "Catch-all Route" eine Routing-Regel, die alle Anfragen abfängt, die nicht explizit durch andere Routen definiert sind. Sie wird häufig verwendet, um dynamische Seiten oder ein CMS zu realisieren, bei dem die URLs nicht im Voraus bekannt sind.
+
+Beispiel in C#:
+
+&lt;pre&gt;
+app.MapControllerRoute(
+    name: "cms",
+    pattern: "{*slug}",
+    defaults: new { controller = "Page", action = "Index" });
+&lt;/pre&gt;
+
+Hierbei fängt die Route alle Pfade ab ("{*slug}") und leitet sie an den Controller "Page" und die Action "Index" weiter. So können beliebige URLs verarbeitet werden, z.B. für Wiki- oder CMS-Seiten.
+
+
+===Controller===
+
+
+&lt;pre&gt;
+using Microsoft.AspNetCore.Mvc;
+
+public class PageController : Controller
+{
+    public IActionResult Index(string slug)
+    {
+        if (string.IsNullOrEmpty(slug))
+        {
+            ViewBag.Title = "Startseite";
+            ViewBag.Content = "Willkommen auf der Startseite!";
+        }
+        else
+        {
+            // Slug in Segmente (Unterseiten) aufteilen
+            var segmente = slug.Split('/', StringSplitOptions.RemoveEmptyEntries);
+
+            // Beispiel: Titel aus letztem Segment, Pfad anzeigen
+            ViewBag.Title = segmente.Last();
+            ViewBag.Path = string.Join(" → ", segmente);
+            ViewBag.Content = $"Inhalt für die Seite: {slug}";
+        }
+
+        return View();
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>t84152b9hssdez318llv27b3hj81v9r</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>DNS</title>
+    <ns>0</ns>
+    <id>45</id>
+    <revision>
+      <id>121</id>
+      <timestamp>2026-01-14T13:29:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>121</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1978" sha1="oltoghn50798bwa3imzqy08yup90uoi" xml:space="preserve">==A-Record: Verweist eine Domain==
+Ein A-Record (Address Record) ordnet einen Domainnamen einer IPv4-Adresse zu. Damit wird festgelegt, auf welchen Server eine Domain zeigt.
+
+'''Beispiel:'''
+&lt;syntaxhighlight lang="text"&gt;
+example.de  A  93.184.216.34
+&lt;/syntaxhighlight&gt;
+
+==AAAA-Record: Verweist auf eine IPv6-Adresse==
+Ein AAAA-Record funktioniert wie ein A-Record, weist aber einer Domain eine IPv6-Adresse zu.
+
+'''Beispiel: '''
+&lt;syntaxhighlight lang="text"&gt;
+example.de  AAAA  2606:2800:220:1:248:1893:25c8:1946
+&lt;/syntaxhighlight&gt;
+
+==CNAME-Record: Alias für eine andere Domain==
+Ein CNAME-Record (Canonical Name Record) legt fest, dass eine Domain ein Alias für eine andere Domain ist. So kann z.B. www.example.com auf example.com verweisen.
+
+'''Beispiel für GitHub Pages:'''
+&lt;syntaxhighlight lang="text"&gt;
+www.example.de  CNAME  username.github.io.
+&lt;/syntaxhighlight&gt;
+
+'''Beispiel für Codeberg Pages:'''
+&lt;syntaxhighlight lang="text"&gt;
+www.example.de  CNAME  username.codeberg.page.
+&lt;/syntaxhighlight&gt;
+
+==MX-Record: Zuständig für E-Mail-Routing.==
+Ein MX-Record (Mail Exchange Record) gibt an, welcher Mailserver für den Empfang von E-Mails einer Domain zuständig ist.
+
+'''Beispiel:'''
+&lt;syntaxhighlight lang="text"&gt;
+example.de  MX  10 mail.example.de.
+&lt;/syntaxhighlight&gt;
+
+'''Beispiel Otto Server:'''
+&lt;syntaxhighlight lang="text"&gt;
+otto.de  MX  10 mail.otto.de.
+&lt;/syntaxhighlight&gt;
+
+==TXT-Record: Für beliebige Textinformationen==
+Ein TXT-Record speichert beliebige Textinformationen zu einer Domain, z.B. für SPF, DKIM oder andere Verifizierungen.
+
+'''Beispiel für SPF: '''
+&lt;syntaxhighlight lang="text"&gt;
+example.de  TXT  "v=spf1 include:_spf.example.com ~all"
+&lt;/syntaxhighlight&gt;
+
+'''Beispiel für DKIM: '''
+&lt;syntaxhighlight lang="text"&gt;
+dkim._domainkey.example.de  TXT  "v=DKIM1; k=rsa; p=MIGfMA0G..."
+&lt;/syntaxhighlight&gt;
+
+'''Beispiel für Google Site Verification: '''
+&lt;syntaxhighlight lang="text"&gt;
+example.de  TXT  "google-site-verification=abc123xyz"
+&lt;/syntaxhighlight&gt;</text>
+      <sha1>oltoghn50798bwa3imzqy08yup90uoi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Postfix</title>
+    <ns>0</ns>
+    <id>46</id>
+    <revision>
+      <id>122</id>
+      <timestamp>2026-01-14T14:22:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „== Mailserver Setup Guide ==  === 0. Installation der Basis-Pakete &amp; Firewall === System aktualisieren und Postfix sowie Hilfswerkzeuge installieren:  &lt;syntaxhighlight lang="bash"&gt; sudo apt update sudo apt install -y postfix mailutils libsasl2-2 libsasl2-modules opendkim opendkim-tools  # Firewall-Regeln für Mail-Verkehr anpassen (UFW) sudo ufw allow Postfix sudo ufw allow "Postfix SMTPS" sudo ufw allow "Postfix Submission" &lt;/syntaxhighlight&gt;  === 1. Pos…“</comment>
+      <origin>122</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2048" sha1="mi7enlt7sgi0czusfo3zu7au6puhkaa" xml:space="preserve">== Mailserver Setup Guide ==
+
+=== 0. Installation der Basis-Pakete &amp; Firewall ===
+System aktualisieren und Postfix sowie Hilfswerkzeuge installieren:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo apt update
+sudo apt install -y postfix mailutils libsasl2-2 libsasl2-modules opendkim opendkim-tools
+
+# Firewall-Regeln für Mail-Verkehr anpassen (UFW)
+sudo ufw allow Postfix
+sudo ufw allow "Postfix SMTPS"
+sudo ufw allow "Postfix Submission"
+&lt;/syntaxhighlight&gt;
+
+=== 1. Postfix SSL/TLS Konfiguration (main.cf) ===
+Konfiguration der Zertifikatspfade und TLS-Einstellungen:
+sudo nano etc/postfix/main.cf 
+
+&lt;syntaxhighlight lang="bash"&gt;
+postconf -e "smtpd_tls_cert_file=/etc/letsencrypt/live/mail.deinedomain.de/fullchain.pem"
+postconf -e "smtpd_tls_key_file=/etc/letsencrypt/live/mail.deinedomain.de/privkey.pem"
+postconf -e "smtpd_use_tls=yes"
+postconf -e "smtpd_tls_security_level=may"
+postconf -e "smtp_tls_security_level=may"
+postconf -e "smtpd_tls_auth_only=yes"
+systemctl restart postfix
+&lt;/syntaxhighlight&gt;
+
+=== 2. DNS Einstellungen für Google/Gmail Akzeptanz ===
+Diese Einträge müssen im DNS-Panel deines Domain-Anbieters gesetzt werden:
+
+{| class="wikitable"
+! Typ !! Host !! Wert !! Beschreibung
+|-
+| '''A''' || &lt;code&gt;mail&lt;/code&gt; || &lt;code&gt;&lt;DEINE_SERVER_IP&gt;&lt;/code&gt; || Host-Eintrag für den Mailserver
+|-
+| '''MX''' || &lt;code&gt;@&lt;/code&gt; || &lt;code&gt;10 mail.deinedomain.de.&lt;/code&gt; || Mail Exchange Record
+|-
+| '''TXT''' || &lt;code&gt;@&lt;/code&gt; || &lt;code&gt;v=spf1 mx a -all&lt;/code&gt; || '''SPF''': Verhindert Spoofing
+|-
+| '''TXT''' || &lt;code&gt;mail._domainkey&lt;/code&gt; || &lt;code&gt;v=DKIM1; k=rsa; p=&lt;DEIN_PUBLIC_KEY&gt;&lt;/code&gt; || '''DKIM''': Signiert E-Mails
+|-
+| '''TXT''' || &lt;code&gt;_dmarc&lt;/code&gt; || &lt;code&gt;v=DMARC1; p=quarantine; adkim=s; aspf=s&lt;/code&gt; || '''DMARC''': Richtlinie für Prüfungsfehler
+|-
+| '''PTR''' || (Reverse DNS) || &lt;code&gt;mail.deinedomain.de.&lt;/code&gt; || Muss vom Hoster gesetzt werden
+|}
+
+=== 3. Postfix Neustart ===
+Nachdem alle Konfigurationen abgeschlossen sind, den Dienst neu starten:
+
+&lt;syntaxhighlight lang="bash"&gt;
+systemctl restart postfix
+&lt;/syntaxhighlight&gt;</text>
+      <sha1>mi7enlt7sgi0czusfo3zu7au6puhkaa</sha1>
+    </revision>
+    <revision>
+      <id>123</id>
+      <parentid>122</parentid>
+      <timestamp>2026-01-14T15:37:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>123</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2456" sha1="eqwy77dnxur6xlvzc7rcr58o02x5apw" xml:space="preserve">== Mailserver Setup Guide ==
+
+=== 0. Installation der Basis-Pakete &amp; Firewall ===
+System aktualisieren und Postfix sowie Hilfswerkzeuge installieren:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo apt update
+sudo apt install -y postfix mailutils libsasl2-2 libsasl2-modules opendkim opendkim-tools
+
+# Firewall-Regeln für Mail-Verkehr anpassen (UFW)
+sudo ufw allow Postfix
+sudo ufw allow "Postfix SMTPS"
+sudo ufw allow "Postfix Submission"
+&lt;/syntaxhighlight&gt;
+
+=== 1. Postfix SSL/TLS Konfiguration (main.cf) ===
+Konfiguration der Zertifikatspfade und TLS-Einstellungen:
+sudo nano etc/postfix/main.cf 
+
+&lt;syntaxhighlight lang="bash"&gt;
+postconf -e "smtpd_tls_cert_file=/etc/letsencrypt/live/mail.deinedomain.de/fullchain.pem"
+postconf -e "smtpd_tls_key_file=/etc/letsencrypt/live/mail.deinedomain.de/privkey.pem"
+postconf -e "smtpd_use_tls=yes"
+postconf -e "smtpd_tls_security_level=may"
+postconf -e "smtp_tls_security_level=may"
+postconf -e "smtpd_tls_auth_only=yes"
+systemctl restart postfix
+&lt;/syntaxhighlight&gt;
+
+=== 2. DNS Einstellungen für Google/Gmail Akzeptanz ===
+Diese Einträge müssen im DNS-Panel deines Domain-Anbieters gesetzt werden:
+
+{| class="wikitable"
+! Typ !! Host !! Wert !! Beschreibung
+|-
+| '''A''' || &lt;code&gt;mail&lt;/code&gt; || &lt;code&gt;&lt;DEINE_SERVER_IP&gt;&lt;/code&gt; || Host-Eintrag für den Mailserver
+|-
+| '''MX''' || &lt;code&gt;@&lt;/code&gt; || &lt;code&gt;10 mail.deinedomain.de.&lt;/code&gt; || Mail Exchange Record
+|-
+| '''TXT''' || &lt;code&gt;@&lt;/code&gt; || &lt;code&gt;v=spf1 mx a -all&lt;/code&gt; || '''SPF''': Verhindert Spoofing
+|-
+| '''TXT''' || &lt;code&gt;mail._domainkey&lt;/code&gt; || &lt;code&gt;v=DKIM1; k=rsa; p=&lt;DEIN_PUBLIC_KEY&gt;&lt;/code&gt; || '''DKIM''': Signiert E-Mails
+|-
+| '''TXT''' || &lt;code&gt;_dmarc&lt;/code&gt; || &lt;code&gt;v=DMARC1; p=quarantine; adkim=s; aspf=s&lt;/code&gt; || '''DMARC''': Richtlinie für Prüfungsfehler
+|}
+
+===PTR===
+====bero-host.de====
+Melde dich im Kundenportal von bero-host.de an und gehe oben auf "Meine Produkte". Klicke darauf, um die Produktübersicht zu öffnen. Suche in der Mitte der Seite den Bereich "Verwaltung" und wähle ihn aus. Navigiere anschließend zum Menüpunkt "Netzwerk". Dort findest du eine Übersicht aller IP-Adressen deiner Server. Suche die gewünschte IP-Adresse heraus und ändere den rDNS- (Reverse-DNS-) Eintrag auf deine gewünschte Domain, z. B. &lt;code&gt;mail.deinedomain.de&lt;/code&gt;.
+=== 3. Postfix Neustart ===
+Nachdem alle Konfigurationen abgeschlossen sind, den Dienst neu starten:
+
+&lt;syntaxhighlight lang="bash"&gt;
+systemctl restart postfix
+&lt;/syntaxhighlight&gt;</text>
+      <sha1>eqwy77dnxur6xlvzc7rcr58o02x5apw</sha1>
+    </revision>
+    <revision>
+      <id>124</id>
+      <parentid>123</parentid>
+      <timestamp>2026-01-14T15:47:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>124</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2899" sha1="suo0zmi3gdx72bplsecjx4niqy7sh95" xml:space="preserve">== Mailserver Setup Guide ==
+
+=== 0. Installation der Basis-Pakete &amp; Firewall ===
+System aktualisieren und Postfix sowie Hilfswerkzeuge installieren:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo apt update
+sudo apt install -y postfix mailutils libsasl2-2 libsasl2-modules opendkim opendkim-tools
+
+# Firewall-Regeln für Mail-Verkehr anpassen (UFW)
+sudo ufw allow Postfix
+sudo ufw allow "Postfix SMTPS"
+sudo ufw allow "Postfix Submission"
+&lt;/syntaxhighlight&gt;
+
+=== 1. Postfix SSL/TLS Konfiguration (main.cf) ===
+Konfiguration der Zertifikatspfade und TLS-Einstellungen:
+sudo nano etc/postfix/main.cf 
+
+&lt;syntaxhighlight lang="bash"&gt;
+postconf -e "smtpd_tls_cert_file=/etc/letsencrypt/live/mail.deinedomain.de/fullchain.pem"
+postconf -e "smtpd_tls_key_file=/etc/letsencrypt/live/mail.deinedomain.de/privkey.pem"
+postconf -e "smtpd_use_tls=yes"
+postconf -e "smtpd_tls_security_level=may"
+postconf -e "smtp_tls_security_level=may"
+postconf -e "smtpd_tls_auth_only=yes"
+systemctl restart postfix
+&lt;/syntaxhighlight&gt;
+
+=== 2. DNS Einstellungen für Google/Gmail Akzeptanz ===
+Diese Einträge müssen im DNS-Panel deines Domain-Anbieters gesetzt werden:
+
+{| class="wikitable"
+! Typ !! Host !! Wert !! Beschreibung
+|-
+| '''A''' || &lt;code&gt;mail&lt;/code&gt; || &lt;code&gt;&lt;DEINE_SERVER_IP&gt;&lt;/code&gt; || Host-Eintrag für den Mailserver
+|-
+| '''MX''' || &lt;code&gt;@&lt;/code&gt; || &lt;code&gt;10 mail.deinedomain.de.&lt;/code&gt; || Mail Exchange Record
+|-
+| '''TXT''' || &lt;code&gt;@&lt;/code&gt; || &lt;code&gt;v=spf1 mx a -all&lt;/code&gt; || '''SPF''': Verhindert Spoofing
+|-
+| '''TXT''' || &lt;code&gt;mail._domainkey&lt;/code&gt; || &lt;code&gt;v=DKIM1; k=rsa; p=&lt;DEIN_PUBLIC_KEY&gt;&lt;/code&gt; || '''DKIM''': Signiert E-Mails
+|-
+| '''TXT''' || &lt;code&gt;_dmarc&lt;/code&gt; || &lt;code&gt;v=DMARC1; p=quarantine; adkim=s; aspf=s&lt;/code&gt; || '''DMARC''': Richtlinie für Prüfungsfehler
+|}
+
+===PTR===
+
+Jeder Anbieter handhabt das leider anders.
+====bero-host.de====
+Melde dich im Kundenportal von bero-host.de an und gehe oben auf "Meine Produkte". Klicke darauf, um die Produktübersicht zu öffnen. Suche in der Mitte der Seite den Bereich "Verwaltung" und wähle ihn aus. Navigiere anschließend zum Menüpunkt "Netzwerk". Dort findest du eine Übersicht aller IP-Adressen deiner Server. Suche die gewünschte IP-Adresse heraus und ändere den rDNS- (Reverse-DNS-) Eintrag auf deine gewünschte Domain, z. B. &lt;code&gt;mail.deinedomain.de&lt;/code&gt;.
+
+=== 3. Postfix Neustart ===
+Nachdem alle Konfigurationen abgeschlossen sind, den Dienst neu starten:
+
+&lt;syntaxhighlight lang="bash"&gt;
+systemctl restart postfix
+&lt;/syntaxhighlight&gt;
+
+===Jetzt genau Überprüfen===
+
+===Mit Postmaster Tools von Google===
+
+Die Google Postmaster Tools sind ein kostenloses Analysewerkzeug von Google, mit dem Administratoren die Zustellbarkeit und Reputation ihrer E-Mails überwachen können. Sie helfen dabei, Probleme mit der Zustellung an Gmail-Adressen zu erkennen und zu beheben.
+
+Hier ist der Link: [https://postmaster.google.com/ Postmaster]</text>
+      <sha1>suo0zmi3gdx72bplsecjx4niqy7sh95</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Weitere Tools</title>
+    <ns>0</ns>
+    <id>47</id>
+    <revision>
+      <id>131</id>
+      <timestamp>2026-01-14T19:01:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>131</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="820" sha1="8uqsdgm9q3xgv7804im9m3askw1z4r5" xml:space="preserve">==Ghosttext Visual Studio Code==
+
+GhostText ist eine Erweiterung, mit der du Texte in deinem Browser direkt in Visual Studio Code bearbeiten kannst. Änderungen werden in Echtzeit synchronisiert.
+
+===Installation===
+# Installiere die GhostText-Erweiterung in Visual Studio Code (über den Extensions Marketplace).
+# Installiere die passende GhostText-Browsererweiterung (für Chrome, Firefox oder Edge).
+# Öffne die gewünschte Webseite und aktiviere GhostText im Browser.
+# Visual Studio Code öffnet automatisch ein neues Fenster, in dem du das Texteingabefeld der Webseite bearbeiten kannst.
+
+===Vorteile===
+* Komfortables Editieren von Webformularen mit allen Features von VS Code
+* Echtzeit-Synchronisation zwischen Browser und Editor
+
+Weitere Infos: [https://ghosttext.fregante.com/ Offizielle GhostText-Webseite]</text>
+      <sha1>8uqsdgm9q3xgv7804im9m3askw1z4r5</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>XWiki</title>
+    <ns>0</ns>
+    <id>48</id>
+    <revision>
+      <id>134</id>
+      <timestamp>2026-01-15T06:01:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>134</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1557" sha1="ctaxxo7edqh7q6wtf2a1xg9cmq4z0wz" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+
+Gehe auf dem Bildschirm auf der linken Seite auf das Terminal und klicke darauf, falls du es dort angedockt hast.
+Alternativ klicke auf das Ubuntu-Logo, öffne das Fenster, gib oben in der Suchleiste "Terminal" ein und klicke darauf.
+
+Öffne das Terminal (du benötigst Root-Rechte, sonst funktioniert es nicht).
+Gib Folgendes ein, um das System zu aktualisieren:
+&lt;pre&gt;
+sudo apt update # Aktualisiert die Paketlisten
+sudo apt upgrade # Installiert verfügbare Updates
+```
+Gib Folgendes ein, um die Datenbank PostgreSQL einzurichten:
+```
+sudo apt-get install postgresql-all # Installiert alle PostgreSQL-Pakete # Dieser Befehl installiert alle Pakete, die mit PostgreSQL zusammenhängen. Dadurch wird sichergestellt, dass die Datenbank und alle notwendigen Tools auf deinem System verfügbar sind.
+
+sudo -u postgres -i #  # Mit diesem Befehl wechselst du zum Benutzer 'postgres', der für die Verwaltung der PostgreSQL-Datenbank zuständig ist.
+
+createuser thorsten # Erstellt einen neuen Datenbank-Benutzer mit dem Namen 'thorsten'.
+
+createdb -E UTF8 -O thorsten thorsten # Erstellt eine neue Datenbank namens 'thorsten' mit UTF8-Kodierung und setzt 'thorsten' als Eigentümer.
+
+psql -c "\\password thorsten" # Setzt ein Passwort für den Benutzer 'thorsten'.
+
+psql -c "ALTER USER dein_benutzername CREATEDB;" # Gibt dem Benutzer 'dein_benutzername' das Recht, neue Datenbanken zu erstellen.
+
+exit # Beendet die Sitzung als Benutzer 'postgres' und kehrt zum vorherigen Benutzer zurück.
+&lt;/pre&gt;</text>
+      <sha1>ctaxxo7edqh7q6wtf2a1xg9cmq4z0wz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>CMS/XWiki</title>
+    <ns>0</ns>
+    <id>49</id>
+    <revision>
+      <id>135</id>
+      <timestamp>2026-01-15T06:02:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>135</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1557" sha1="ctaxxo7edqh7q6wtf2a1xg9cmq4z0wz" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+
+Gehe auf dem Bildschirm auf der linken Seite auf das Terminal und klicke darauf, falls du es dort angedockt hast.
+Alternativ klicke auf das Ubuntu-Logo, öffne das Fenster, gib oben in der Suchleiste "Terminal" ein und klicke darauf.
+
+Öffne das Terminal (du benötigst Root-Rechte, sonst funktioniert es nicht).
+Gib Folgendes ein, um das System zu aktualisieren:
+&lt;pre&gt;
+sudo apt update # Aktualisiert die Paketlisten
+sudo apt upgrade # Installiert verfügbare Updates
+```
+Gib Folgendes ein, um die Datenbank PostgreSQL einzurichten:
+```
+sudo apt-get install postgresql-all # Installiert alle PostgreSQL-Pakete # Dieser Befehl installiert alle Pakete, die mit PostgreSQL zusammenhängen. Dadurch wird sichergestellt, dass die Datenbank und alle notwendigen Tools auf deinem System verfügbar sind.
+
+sudo -u postgres -i #  # Mit diesem Befehl wechselst du zum Benutzer 'postgres', der für die Verwaltung der PostgreSQL-Datenbank zuständig ist.
+
+createuser thorsten # Erstellt einen neuen Datenbank-Benutzer mit dem Namen 'thorsten'.
+
+createdb -E UTF8 -O thorsten thorsten # Erstellt eine neue Datenbank namens 'thorsten' mit UTF8-Kodierung und setzt 'thorsten' als Eigentümer.
+
+psql -c "\\password thorsten" # Setzt ein Passwort für den Benutzer 'thorsten'.
+
+psql -c "ALTER USER dein_benutzername CREATEDB;" # Gibt dem Benutzer 'dein_benutzername' das Recht, neue Datenbanken zu erstellen.
+
+exit # Beendet die Sitzung als Benutzer 'postgres' und kehrt zum vorherigen Benutzer zurück.
+&lt;/pre&gt;</text>
+      <sha1>ctaxxo7edqh7q6wtf2a1xg9cmq4z0wz</sha1>
+    </revision>
+    <revision>
+      <id>136</id>
+      <parentid>135</parentid>
+      <timestamp>2026-01-15T09:11:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>136</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3900" sha1="6wela3h6d14357ui8aa29lzt6ymxnv3" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+
+Gehe auf dem Bildschirm auf der linken Seite auf das Terminal und klicke darauf, falls du es dort angedockt hast.
+Alternativ klicke auf das Ubuntu-Logo, öffne das Fenster, gib oben in der Suchleiste "Terminal" ein und klicke darauf.
+
+Öffne das Terminal (du benötigst Root-Rechte, sonst funktioniert es nicht).
+Gib Folgendes ein, um das System zu aktualisieren:
+&lt;pre&gt;
+sudo apt update # Aktualisiert die Paketlisten
+sudo apt upgrade # Installiert verfügbare Updates
+```
+Gib Folgendes ein, um die Datenbank PostgreSQL einzurichten:
+```
+sudo apt-get install postgresql-all # Installiert alle PostgreSQL-Pakete # Dieser Befehl installiert alle Pakete, die mit PostgreSQL zusammenhängen. Dadurch wird sichergestellt, dass die Datenbank und alle notwendigen Tools auf deinem System verfügbar sind.
+
+sudo -u postgres -i #   Mit diesem Befehl wechselst du zum Benutzer 'postgres', der für die Verwaltung der PostgreSQL-Datenbank zuständig ist.
+
+createuser thorsten # Erstellt einen neuen Datenbank-Benutzer mit dem Namen 'thorsten'.
+
+createdb -E UTF8 -O thorsten thorsten # Erstellt eine neue Datenbank namens 'thorsten' mit UTF8-Kodierung und setzt 'thorsten' als Eigentümer.
+
+psql -c "\\password thorsten" # Setzt ein Passwort für den Benutzer 'thorsten'.
+
+psql -c "ALTER USER dein_benutzername CREATEDB;" # Gibt dem Benutzer 'dein_benutzername' das Recht, neue Datenbanken zu erstellen.
+
+exit # Beendet die Sitzung als Benutzer 'postgres' und kehrt zum vorherigen Benutzer zurück.
+
+
+&lt;/pre&gt;
+
+In Kurzformat
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+sudo apt-get install postgresql-all
+sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit
+&lt;/pre&gt;
+===Java und XWIKI===
+&lt;pre&gt;
+
+sudo apt-cache search openjdk # Suchen Java Version
+sudo apt-get install openjdk-26-jdk  # Nur ein Beispiel: OpenJDK Development Kit (JDK)
+sudo wget https://maven.xwiki.org/xwiki-keyring.gpg -O /usr/share/keyrings/xwiki-keyring.gpg
+sudo wget "https://maven.xwiki.org/stable/xwiki-stable.list" -O /etc/apt/sources.list.d/xwiki-stable.list
+sudo apt-get update
+Sudo apt-get install xwiki-tomcat10-pgsql 
+&lt;/pre&gt;
+
+==Produktionsserver==
+Alles wie oben, nur jetzt alle wichtigen Freigaben setzen und geschützte Ports sperren.
+===ufw Installieren===
+
+'''ufw''' (Uncomplicated Firewall) ist ein einfach zu bedienendes Frontend für die Verwaltung einer Firewall unter Linux. Es hilft dabei, Netzwerkzugriffe zu erlauben oder zu blockieren und so das System abzusichern.
+
+&lt;pre&gt;
+sudo apt-get install ufw
+&lt;/pre&gt;
+Beispiel
+&lt;pre&gt;
+# Ports 22 (SSH), 80 (HTTP) und 443 (HTTPS) freigeben
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+# Ports 3000, 8080 und 8081 sperren
+sudo ufw deny 3000
+sudo ufw deny 8080
+sudo ufw deny 8081
+
+# ufw aktivieren
+sudo ufw enable
+
+# ufw Status anzeigen
+sudo ufw status
+&lt;/pre&gt;
+
+===Passwort-Datei erstellen für nginx erstellen===
+Zuerst erstellst du eine verschlüsselte Passwort-Datei. Dafür benötigst du die apache2-utils.
+====Tools installieren====
+&lt;pre&gt;
+sudo apt update
+sudo apt install apache2-utils
+&lt;/pre&gt;
+====Datei erstellen====
+&lt;pre&gt;
+sudo htpasswd -c /etc/nginx/.htpasswd thorsten
+&lt;/pre&gt;
+===Nginx datei ändern====
+&lt;pre&gt;
+
+
+ location ^~ /xwiki {
+        auth_basic "Restricted Access";
+        auth_basic_user_file /etc/nginx/.htpasswd;
+       # If path starts with /xwiki - then redirect to backend: XWiki application in Tomcat
+       # Read more about proxy_pass: http://nginx.org/en/docs/http/ngx_http_proxy_module.html#proxy_pass
+       proxy_pass http://localhost:8081;
+       proxy_set_header        X-Real-IP $remote_addr;
+       proxy_set_header        X-Forwarded-For $proxy_add_x_forwarded_for;
+       proxy_set_header        Host $http_host;
+       proxy_set_header        X-Forwarded-Proto $scheme;
+    }
+&lt;/pre&gt;</text>
+      <sha1>6wela3h6d14357ui8aa29lzt6ymxnv3</sha1>
+    </revision>
+    <revision>
+      <id>137</id>
+      <parentid>136</parentid>
+      <timestamp>2026-01-15T11:20:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>137</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3653" sha1="06r9n1ov13k6wbriqcxu2ju2j742axk" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+
+Gehe auf dem Bildschirm auf der linken Seite auf das Terminal und klicke darauf, falls du es dort angedockt hast.
+Alternativ klicke auf das Ubuntu-Logo, öffne das Fenster, gib oben in der Suchleiste "Terminal" ein und klicke darauf.
+
+Öffne das Terminal (du benötigst Root-Rechte, sonst funktioniert es nicht).
+Gib Folgendes ein, um das System zu aktualisieren:
+&lt;pre&gt;
+sudo apt update # Aktualisiert die Paketlisten
+sudo apt upgrade # Installiert verfügbare Updates
+```
+Gib Folgendes ein, um die Datenbank PostgreSQL einzurichten:
+```
+sudo apt-get install postgresql-all # Installiert alle PostgreSQL-Pakete # Dieser Befehl installiert alle Pakete, die mit PostgreSQL zusammenhängen. Dadurch wird sichergestellt, dass die Datenbank und alle notwendigen Tools auf deinem System verfügbar sind.
+
+sudo -u postgres -i #   Mit diesem Befehl wechselst du zum Benutzer 'postgres', der für die Verwaltung der PostgreSQL-Datenbank zuständig ist.
+
+createuser thorsten # Erstellt einen neuen Datenbank-Benutzer mit dem Namen 'thorsten'.
+
+createdb -E UTF8 -O thorsten thorsten # Erstellt eine neue Datenbank namens 'thorsten' mit UTF8-Kodierung und setzt 'thorsten' als Eigentümer.
+
+psql -c "\\password thorsten" # Setzt ein Passwort für den Benutzer 'thorsten'.
+
+psql -c "ALTER USER dein_benutzername CREATEDB;" # Gibt dem Benutzer 'dein_benutzername' das Recht, neue Datenbanken zu erstellen.
+
+exit # Beendet die Sitzung als Benutzer 'postgres' und kehrt zum vorherigen Benutzer zurück.
+
+
+&lt;/pre&gt;
+
+In Kurzformat
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+sudo apt-get install postgresql-all
+sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit
+&lt;/pre&gt;
+===Java und XWIKI===
+&lt;pre&gt;
+
+sudo apt-cache search openjdk # Suchen Java Version
+sudo apt-get install openjdk-26-jdk  # Nur ein Beispiel: OpenJDK Development Kit (JDK)
+sudo wget https://maven.xwiki.org/xwiki-keyring.gpg -O /usr/share/keyrings/xwiki-keyring.gpg
+sudo wget "https://maven.xwiki.org/stable/xwiki-stable.list" -O /etc/apt/sources.list.d/xwiki-stable.list
+sudo apt-get update
+Sudo apt-get install xwiki-tomcat10-pgsql 
+&lt;/pre&gt;
+
+==Produktionsserver==
+Alles wie oben, nur jetzt alle wichtigen Freigaben setzen und geschützte Ports sperren.
+===ufw Installieren===
+
+'''ufw''' (Uncomplicated Firewall) ist ein einfach zu bedienendes Frontend für die Verwaltung einer Firewall unter Linux. Es hilft dabei, Netzwerkzugriffe zu erlauben oder zu blockieren und so das System abzusichern.
+
+&lt;pre&gt;
+sudo apt-get install ufw
+&lt;/pre&gt;
+Beispiel
+&lt;pre&gt;
+# Ports 22 (SSH), 80 (HTTP) und 443 (HTTPS) freigeben
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+# Ports 3000, 8080 und 8081 sperren
+sudo ufw deny 3000
+sudo ufw deny 8080
+sudo ufw deny 8081
+
+# ufw aktivieren
+sudo ufw enable
+
+# ufw Status anzeigen
+sudo ufw status
+&lt;/pre&gt;
+
+===Passwort-Datei erstellen für nginx erstellen===
+Zuerst erstellst du eine verschlüsselte Passwort-Datei. Dafür benötigst du die apache2-utils.
+====Tools installieren====
+&lt;pre&gt;
+sudo apt update
+sudo apt install apache2-utils
+&lt;/pre&gt;
+====Datei erstellen====
+&lt;pre&gt;
+sudo htpasswd -c /etc/nginx/.htpasswd thorsten
+&lt;/pre&gt;
+===Nginx datei ändern====
+&lt;pre&gt;
+
+
+ location ^~ /xwiki {
+   auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+
+    proxy_pass http://localhost:8081/;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header Host $http_host;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    }
+&lt;/pre&gt;</text>
+      <sha1>06r9n1ov13k6wbriqcxu2ju2j742axk</sha1>
+    </revision>
+    <revision>
+      <id>138</id>
+      <parentid>137</parentid>
+      <timestamp>2026-01-15T11:33:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>138</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3536" sha1="0kmnoefln7h86wyh3xdo02h30tcaztl" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+
+Gehe auf dem Bildschirm auf der linken Seite auf das Terminal und klicke darauf, falls du es dort angedockt hast.
+Alternativ klicke auf das Ubuntu-Logo, öffne das Fenster, gib oben in der Suchleiste "Terminal" ein und klicke darauf.
+
+Öffne das Terminal (du benötigst Root-Rechte, sonst funktioniert es nicht).
+Gib Folgendes ein, um das System zu aktualisieren:
+&lt;pre&gt;
+sudo apt update # Aktualisiert die Paketlisten
+sudo apt upgrade # Installiert verfügbare Updates
+```
+Gib Folgendes ein, um die Datenbank PostgreSQL einzurichten:
+```
+sudo apt-get install postgresql-all # Installiert alle PostgreSQL-Pakete # Dieser Befehl installiert alle Pakete, die mit PostgreSQL zusammenhängen. Dadurch wird sichergestellt, dass die Datenbank und alle notwendigen Tools auf deinem System verfügbar sind.
+
+sudo -u postgres -i #   Mit diesem Befehl wechselst du zum Benutzer 'postgres', der für die Verwaltung der PostgreSQL-Datenbank zuständig ist.
+
+createuser thorsten # Erstellt einen neuen Datenbank-Benutzer mit dem Namen 'thorsten'.
+
+createdb -E UTF8 -O thorsten thorsten # Erstellt eine neue Datenbank namens 'thorsten' mit UTF8-Kodierung und setzt 'thorsten' als Eigentümer.
+
+psql -c "\\password thorsten" # Setzt ein Passwort für den Benutzer 'thorsten'.
+
+psql -c "ALTER USER dein_benutzername CREATEDB;" # Gibt dem Benutzer 'dein_benutzername' das Recht, neue Datenbanken zu erstellen.
+
+exit # Beendet die Sitzung als Benutzer 'postgres' und kehrt zum vorherigen Benutzer zurück.
+
+
+&lt;/pre&gt;
+
+In Kurzformat
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+sudo apt-get install postgresql-all
+sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit
+&lt;/pre&gt;
+===Java und XWIKI===
+&lt;pre&gt;
+
+sudo apt-cache search openjdk # Suchen Java Version
+sudo apt-get install openjdk-26-jdk  # Nur ein Beispiel: OpenJDK Development Kit (JDK)
+sudo wget https://maven.xwiki.org/xwiki-keyring.gpg -O /usr/share/keyrings/xwiki-keyring.gpg
+sudo wget "https://maven.xwiki.org/stable/xwiki-stable.list" -O /etc/apt/sources.list.d/xwiki-stable.list
+sudo apt-get update
+Sudo apt-get install xwiki-tomcat10-pgsql 
+&lt;/pre&gt;
+
+==Produktionsserver==
+Alles wie oben, nur jetzt alle wichtigen Freigaben setzen und geschützte Ports sperren.
+===ufw Installieren===
+
+'''ufw''' (Uncomplicated Firewall) ist ein einfach zu bedienendes Frontend für die Verwaltung einer Firewall unter Linux. Es hilft dabei, Netzwerkzugriffe zu erlauben oder zu blockieren und so das System abzusichern.
+
+&lt;pre&gt;
+sudo apt-get install ufw
+&lt;/pre&gt;
+Beispiel
+&lt;pre&gt;
+# Ports 22 (SSH), 80 (HTTP) und 443 (HTTPS) freigeben
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+# Ports 3000, 8080 und 8081 sperren
+sudo ufw deny 3000
+sudo ufw deny 8080
+sudo ufw deny 8081
+
+# ufw aktivieren
+sudo ufw enable
+
+# ufw Status anzeigen
+sudo ufw status
+&lt;/pre&gt;
+
+===Passwort-Datei erstellen für nginx erstellen===
+Zuerst erstellst du eine verschlüsselte Passwort-Datei. Dafür benötigst du die apache2-utils.
+====Tools installieren====
+&lt;pre&gt;
+sudo apt update
+sudo apt install apache2-utils
+&lt;/pre&gt;
+====Datei erstellen====
+&lt;pre&gt;
+sudo htpasswd -c /etc/nginx/.htpasswd thorsten
+&lt;/pre&gt;
+===Nginx datei ändern====
+&lt;pre&gt;
+
+location /xwiki {
+    auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+
+    proxy_pass http://localhost:8080/xwiki;
+    proxy_set_header Host $host;
+    proxy_set_header X-Real-IP $remote_addr;
+    }
+&lt;/pre&gt;</text>
+      <sha1>0kmnoefln7h86wyh3xdo02h30tcaztl</sha1>
+    </revision>
+    <revision>
+      <id>139</id>
+      <parentid>138</parentid>
+      <timestamp>2026-01-15T11:37:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>139</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3530" sha1="9grpf73ov4fjdgrzt8t6wmkrgpapb9w" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+
+Gehe auf dem Bildschirm auf der linken Seite auf das Terminal und klicke darauf, falls du es dort angedockt hast.
+Alternativ klicke auf das Ubuntu-Logo, öffne das Fenster, gib oben in der Suchleiste "Terminal" ein und klicke darauf.
+
+Öffne das Terminal (du benötigst Root-Rechte, sonst funktioniert es nicht).
+Gib Folgendes ein, um das System zu aktualisieren:
+&lt;pre&gt;
+sudo apt update # Aktualisiert die Paketlisten
+sudo apt upgrade # Installiert verfügbare Updates
+```
+Gib Folgendes ein, um die Datenbank PostgreSQL einzurichten:
+```
+sudo apt-get install postgresql-all # Installiert alle PostgreSQL-Pakete # Dieser Befehl installiert alle Pakete, die mit PostgreSQL zusammenhängen. Dadurch wird sichergestellt, dass die Datenbank und alle notwendigen Tools auf deinem System verfügbar sind.
+
+sudo -u postgres -i #   Mit diesem Befehl wechselst du zum Benutzer 'postgres', der für die Verwaltung der PostgreSQL-Datenbank zuständig ist.
+
+createuser thorsten # Erstellt einen neuen Datenbank-Benutzer mit dem Namen 'thorsten'.
+
+createdb -E UTF8 -O thorsten thorsten # Erstellt eine neue Datenbank namens 'thorsten' mit UTF8-Kodierung und setzt 'thorsten' als Eigentümer.
+
+psql -c "\\password thorsten" # Setzt ein Passwort für den Benutzer 'thorsten'.
+
+psql -c "ALTER USER dein_benutzername CREATEDB;" # Gibt dem Benutzer 'dein_benutzername' das Recht, neue Datenbanken zu erstellen.
+
+exit # Beendet die Sitzung als Benutzer 'postgres' und kehrt zum vorherigen Benutzer zurück.
+
+
+&lt;/pre&gt;
+
+In Kurzformat
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+sudo apt-get install postgresql-all
+sudo -u postgres -i
+createuser thorsten
+createdb -E UTF8 -O thorsten thorsten
+psql -c "\\password thorsten"
+psql -c "ALTER USER dein_benutzername CREATEDB;"
+exit
+&lt;/pre&gt;
+===Java und XWIKI===
+&lt;pre&gt;
+
+sudo apt-cache search openjdk # Suchen Java Version
+sudo apt-get install openjdk-26-jdk  # Nur ein Beispiel: OpenJDK Development Kit (JDK)
+sudo wget https://maven.xwiki.org/xwiki-keyring.gpg -O /usr/share/keyrings/xwiki-keyring.gpg
+sudo wget "https://maven.xwiki.org/stable/xwiki-stable.list" -O /etc/apt/sources.list.d/xwiki-stable.list
+sudo apt-get update
+Sudo apt-get install xwiki-tomcat10-pgsql 
+&lt;/pre&gt;
+
+==Produktionsserver==
+Alles wie oben, nur jetzt alle wichtigen Freigaben setzen und geschützte Ports sperren.
+===ufw Installieren===
+
+'''ufw''' (Uncomplicated Firewall) ist ein einfach zu bedienendes Frontend für die Verwaltung einer Firewall unter Linux. Es hilft dabei, Netzwerkzugriffe zu erlauben oder zu blockieren und so das System abzusichern.
+
+&lt;pre&gt;
+sudo apt-get install ufw
+&lt;/pre&gt;
+Beispiel
+&lt;pre&gt;
+# Ports 22 (SSH), 80 (HTTP) und 443 (HTTPS) freigeben
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+# Ports 3000, 8080 und 8081 sperren
+sudo ufw deny 3000
+sudo ufw deny 8080
+sudo ufw deny 8081
+
+# ufw aktivieren
+sudo ufw enable
+
+# ufw Status anzeigen
+sudo ufw status
+&lt;/pre&gt;
+
+===Passwort-Datei erstellen für nginx erstellen===
+Zuerst erstellst du eine verschlüsselte Passwort-Datei. Dafür benötigst du die apache2-utils.
+====Tools installieren====
+&lt;pre&gt;
+sudo apt update
+sudo apt install apache2-utils
+&lt;/pre&gt;
+====Datei erstellen====
+&lt;pre&gt;
+sudo htpasswd -c /etc/nginx/.htpasswd thorsten
+&lt;/pre&gt;
+===Nginx datei ändern====
+&lt;pre&gt;
+
+location /xwiki {
+    auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+
+    proxy_pass http://localhost:8080;
+    proxy_set_header Host $host;
+    proxy_set_header X-Real-IP $remote_addr;
+    }
+&lt;/pre&gt;</text>
+      <sha1>9grpf73ov4fjdgrzt8t6wmkrgpapb9w</sha1>
     </revision>
   </page>
 </mediawiki>
