@@ -462,6 +462,43 @@ Webframework]] — Frameworks und Web-Technologien
 * [[Postfix]]</text>
       <sha1>2h491fzpgsnhh7egu9m45uxiy9p23mc</sha1>
     </revision>
+    <revision>
+      <id>165</id>
+      <parentid>130</parentid>
+      <timestamp>2026-01-17T07:16:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>165</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1064" sha1="jr2mvwe3b1dnpsbhv8wskcpr26yzg69" xml:space="preserve">== Willkommen auf meiner Wissensdatenbank ==
+
+Herzlich willkommen! Diese Seite dient als zentrale Anlaufstelle für Dokumentationen und Informationen zu meinen Projekten. Hier finden sich Details zu Implementierungen mit **Drupal**, **Typo3**, **MediaWiki** sowie meiner lokalen **XWiki**-Instanz.
+
+=== Themenübersicht ===
+
+==== Content Management &amp; Web ====
+* [[CMS]] — Übersicht der Content-Management-Systeme
+* [[Webframework|
+Webframework]] — Frameworks und Web-Technologien
+
+==== Entwicklung &amp; KI-Integration ====
+* [[AI]] — Grundlagen und Projekte im Bereich Künstliche Intelligenz
+* [[KI-IDE]] — KI-gestützte Entwicklungsumgebungen
+* [[IDE]] — Konfiguration und Nutzung von Entwicklungsumgebungen
+
+==== Infrastruktur &amp; Sicherheit ====
+* [[Server]] — Serverkonfiguration und Administration
+* [[Schwachstellen]] — Sicherheitsanalysen und Best Practices
+* [[DNS|DNS Domaine Verwalten]] — Artikel zur Verwaltung von DNS-Domains
+
+==== Sonstiges ====
+* [[Weitere Tools]] — Nützliche Werkzeuge und Hilfsmittel
+* [[Postfix]] - [[Lerntechnik]]</text>
+      <sha1>jr2mvwe3b1dnpsbhv8wskcpr26yzg69</sha1>
+    </revision>
   </page>
   <page>
     <title>AI</title>
@@ -5263,6 +5300,859 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
 |}</text>
       <sha1>hvnw1gemt8d7ktviilyy3zaf81j4c3l</sha1>
     </revision>
+    <revision>
+      <id>145</id>
+      <parentid>133</parentid>
+      <timestamp>2026-01-17T01:40:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* 1. Wiki-Systeme */</comment>
+      <origin>145</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="509" sha1="p2gvj5eystb4its1f8llwk3livyym1s" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[MediaWiki]]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| [[CMS/XWiki|XWiki]]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+|}</text>
+      <sha1>p2gvj5eystb4its1f8llwk3livyym1s</sha1>
+    </revision>
+    <revision>
+      <id>146</id>
+      <parentid>145</parentid>
+      <timestamp>2026-01-17T01:42:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>146</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="513" sha1="gy6uem0etwf7oytwngqzqvxkzqolztz" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/MediaWiki]]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| [[CMS/XWiki|XWiki]]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+|}</text>
+      <sha1>gy6uem0etwf7oytwngqzqvxkzqolztz</sha1>
+    </revision>
+    <revision>
+      <id>147</id>
+      <parentid>146</parentid>
+      <timestamp>2026-01-17T01:43:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>147</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="523" sha1="2brjhhxx0onswua0qnbs9drltxag1se" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+|-
+| [[CMS/MediaWiki|Mediawiki]]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+|-
+| [[CMS/XWiki|XWiki]]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+|}</text>
+      <sha1>2brjhhxx0onswua0qnbs9drltxag1se</sha1>
+    </revision>
+    <revision>
+      <id>154</id>
+      <parentid>147</parentid>
+      <timestamp>2026-01-17T03:39:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>154</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="840" sha1="jd04aw2v7j7jh7ubgrmkmzj8p7dyq5n" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Freigabe
+|-
+| [[CMS/MediaWiki|Mediawiki]]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| ja
+|-
+| [[CMS/XWiki|XWiki]]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| nein
+|-
+| [[CMS/BookStack|BookStack]]
+| PHP, Laravel
+| Benutzerfreundlich, für Dokumentation und Wissensmanagement, unterstützt Markdown
+| nein
+|-
+| [[CMS/Wiki.js|Wiki.js]]
+| Node.js
+| Moderne Oberfläche, unterstützt verschiedene Authentifizierungen und Datenbanken, flexibel erweiterbar
+| nein
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+|}</text>
+      <sha1>jd04aw2v7j7jh7ubgrmkmzj8p7dyq5n</sha1>
+    </revision>
+    <revision>
+      <id>155</id>
+      <parentid>154</parentid>
+      <timestamp>2026-01-17T03:45:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>155</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="925" sha1="2keqegcjzvw9onmjs8dtatxjm7snjwq" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Freigabe
+! Doc
+|-
+| [https:://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| ja
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| nein
+| [[CMS/XWiki|XWiki]]
+|-
+| [[CMS/BookStack|BookStack]]
+| PHP, Laravel
+| Benutzerfreundlich, für Dokumentation und Wissensmanagement, unterstützt Markdown
+| nein
+|-
+| [[CMS/Wiki.js|Wiki.js]]
+| Node.js
+| Moderne Oberfläche, unterstützt verschiedene Authentifizierungen und Datenbanken, flexibel erweiterbar
+| nein
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+|}</text>
+      <sha1>2keqegcjzvw9onmjs8dtatxjm7snjwq</sha1>
+    </revision>
+    <revision>
+      <id>156</id>
+      <parentid>155</parentid>
+      <timestamp>2026-01-17T03:46:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>156</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="924" sha1="tw0p7tb7utlhacctylu9d8kfnq694ej" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Freigabe
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| ja
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| nein
+| [[CMS/XWiki|XWiki]]
+|-
+| [[CMS/BookStack|BookStack]]
+| PHP, Laravel
+| Benutzerfreundlich, für Dokumentation und Wissensmanagement, unterstützt Markdown
+| nein
+|-
+| [[CMS/Wiki.js|Wiki.js]]
+| Node.js
+| Moderne Oberfläche, unterstützt verschiedene Authentifizierungen und Datenbanken, flexibel erweiterbar
+| nein
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+|}</text>
+      <sha1>tw0p7tb7utlhacctylu9d8kfnq694ej</sha1>
+    </revision>
+    <revision>
+      <id>167</id>
+      <parentid>156</parentid>
+      <timestamp>2026-01-17T08:36:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>167</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="784" sha1="fcs4qysoqvdx7glup9e0e7lbei9jx7v" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Freigabe
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| ja
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| nein
+| [[CMS/XWiki|XWiki]]
+
+|-
+| [[CMS/Wiki.js|Wiki.js]]
+| Node.js
+| Moderne Oberfläche, unterstützt verschiedene Authentifizierungen und Datenbanken, flexibel erweiterbar
+| nein
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+|}</text>
+      <sha1>fcs4qysoqvdx7glup9e0e7lbei9jx7v</sha1>
+    </revision>
+    <revision>
+      <id>168</id>
+      <parentid>167</parentid>
+      <timestamp>2026-01-17T09:09:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>168</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="630" sha1="n9tm4mxyozmtvbfz30y18t500n7dlkc" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Freigabe
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| ja
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| nein
+| [[CMS/XWiki|XWiki]]
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+|}</text>
+      <sha1>n9tm4mxyozmtvbfz30y18t500n7dlkc</sha1>
+    </revision>
+    <revision>
+      <id>170</id>
+      <parentid>168</parentid>
+      <timestamp>2026-01-17T10:25:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>170</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="607" sha1="7bk17g79xsjv47sjqehgr0m2dqh81bk" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+|}</text>
+      <sha1>7bk17g79xsjv47sjqehgr0m2dqh81bk</sha1>
+    </revision>
+    <revision>
+      <id>171</id>
+      <parentid>170</parentid>
+      <timestamp>2026-01-17T11:02:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>171</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="784" sha1="fcs4qysoqvdx7glup9e0e7lbei9jx7v" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Freigabe
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| ja
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| nein
+| [[CMS/XWiki|XWiki]]
+
+|-
+| [[CMS/Wiki.js|Wiki.js]]
+| Node.js
+| Moderne Oberfläche, unterstützt verschiedene Authentifizierungen und Datenbanken, flexibel erweiterbar
+| nein
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+|}</text>
+      <sha1>fcs4qysoqvdx7glup9e0e7lbei9jx7v</sha1>
+    </revision>
+    <revision>
+      <id>172</id>
+      <parentid>171</parentid>
+      <timestamp>2026-01-17T11:02:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>172</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="782" sha1="1lb2g4du4ejrwjcxsox4yszw36y7l3m" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Freigabe
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| ja
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| Ja
+| [[CMS/XWiki|XWiki]]
+
+|-
+| [[CMS/Wiki.js|Wiki.js]]
+| Node.js
+| Moderne Oberfläche, unterstützt verschiedene Authentifizierungen und Datenbanken, flexibel erweiterbar
+| nein
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+|}</text>
+      <sha1>1lb2g4du4ejrwjcxsox4yszw36y7l3m</sha1>
+    </revision>
+    <revision>
+      <id>173</id>
+      <parentid>172</parentid>
+      <timestamp>2026-01-17T11:27:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>173</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="785" sha1="r7iefzspz6rx6bwza9sds6qcaqaoewe" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Freigabe
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| ja
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| Ja
+| [[CMS/XWiki|XWiki]]
+
+|-
+| 
+| Node.js
+| Moderne Oberfläche, unterstützt verschiedene Authentifizierungen und Datenbanken, flexibel erweiterbar
+| nein
+| [[CMS/Wiki.js|Wiki.js]]
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+|}</text>
+      <sha1>r7iefzspz6rx6bwza9sds6qcaqaoewe</sha1>
+    </revision>
+    <revision>
+      <id>179</id>
+      <parentid>173</parentid>
+      <timestamp>2026-01-17T14:23:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>179</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="618" sha1="p8lpfqylfimw15ipcd7z4vhlhf873wv" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Freigabe
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+|}</text>
+      <sha1>p8lpfqylfimw15ipcd7z4vhlhf873wv</sha1>
+    </revision>
+    <revision>
+      <id>180</id>
+      <parentid>179</parentid>
+      <timestamp>2026-01-17T14:23:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>180</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="607" sha1="7bk17g79xsjv47sjqehgr0m2dqh81bk" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| [[CMS/Erstes-Wiki|Erstes-Wiki]]
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+|}</text>
+      <sha1>7bk17g79xsjv47sjqehgr0m2dqh81bk</sha1>
+    </revision>
+    <revision>
+      <id>181</id>
+      <parentid>180</parentid>
+      <timestamp>2026-01-17T14:24:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>181</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="576" sha1="dm58m2uclsi6rytdpsqmjjz67q0xlgs" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+|}</text>
+      <sha1>dm58m2uclsi6rytdpsqmjjz67q0xlgs</sha1>
+    </revision>
+    <revision>
+      <id>182</id>
+      <parentid>181</parentid>
+      <timestamp>2026-01-17T17:54:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>182</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="612" sha1="fenqi5pp7u49jnz1y86gr5m7dd2uakb" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc]]
+|}</text>
+      <sha1>fenqi5pp7u49jnz1y86gr5m7dd2uakb</sha1>
+    </revision>
+    <revision>
+      <id>183</id>
+      <parentid>182</parentid>
+      <timestamp>2026-01-17T17:55:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>183</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="617" sha1="7vtm5jqg27z82qz22dc77u8m5vm8oy5" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc|Kurs]]
+|}</text>
+      <sha1>7vtm5jqg27z82qz22dc77u8m5vm8oy5</sha1>
+    </revision>
+    <revision>
+      <id>184</id>
+      <parentid>183</parentid>
+      <timestamp>2026-01-17T17:57:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>184</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="622" sha1="qr2usndohndo5f8ie4trfjmy7th9odl" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}</text>
+      <sha1>qr2usndohndo5f8ie4trfjmy7th9odl</sha1>
+    </revision>
   </page>
   <page>
     <title>CMS/Drupal</title>
@@ -7359,6 +8249,3150 @@ location /xwiki {
     }
 &lt;/pre&gt;</text>
       <sha1>9grpf73ov4fjdgrzt8t6wmkrgpapb9w</sha1>
+    </revision>
+    <revision>
+      <id>140</id>
+      <parentid>139</parentid>
+      <timestamp>2026-01-16T02:40:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>140</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3825" sha1="f4yyh3pymtyxdm2fsrtxxxhcotpd9r0" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+
+Gehe auf dem Bildschirm auf der linken Seite auf das Terminal und klicke darauf, falls du es dort angedockt hast.
+Alternativ klicke auf das Ubuntu-Logo, öffne das Fenster, gib oben in der Suchleiste "Terminal" ein und klicke darauf.
+
+Öffne das Terminal (du benötigst Root-Rechte, sonst funktioniert es nicht).
+Gib Folgendes ein, um das System zu aktualisieren:
+&lt;pre&gt;
+sudo apt update # Aktualisiert die Paketlisten
+sudo apt upgrade # Installiert verfügbare Updates
+```
+Gib Folgendes ein, um die Datenbank PostgreSQL einzurichten:
+```
+sudo apt-get install postgresql-all # Installiert alle PostgreSQL-Pakete # Dieser Befehl installiert alle Pakete, die mit PostgreSQL zusammenhängen. Dadurch wird sichergestellt, dass die Datenbank und alle notwendigen Tools auf deinem System verfügbar sind.
+
+sudo -u postgres -i #   Mit diesem Befehl wechselst du zum Benutzer 'postgres', der für die Verwaltung der PostgreSQL-Datenbank zuständig ist.
+
+createuser thorsten # Erstellt einen neuen Datenbank-Benutzer mit dem Namen 'thorsten'.
+
+createdb -E UTF8 -O thorsten thorsten # Erstellt eine neue Datenbank namens 'thorsten' mit UTF8-Kodierung und setzt 'thorsten' als Eigentümer.
+
+psql -c "\\password thorsten" # Setzt ein Passwort für den Benutzer 'thorsten'.
+
+psql -c "ALTER USER dein_benutzername CREATEDB;" # Gibt dem Benutzer 'dein_benutzername' das Recht, neue Datenbanken zu erstellen.
+
+exit # Beendet die Sitzung als Benutzer 'postgres' und kehrt zum vorherigen Benutzer zurück.
+
+
+&lt;/pre&gt;
+
+In Kurzformat
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+sudo apt-get install postgresql-all
+sudo -u postgres -i
+createuser xwiki
+createdb -E UTF8 -O xwiki xwiki
+psql -c "\password xwiki"
+psql -c "ALTER USER xwiki CREATEDB;"
+exit
+&lt;/pre&gt;
+===Java und XWIKI===
+&lt;pre&gt;
+
+sudo apt-cache search openjdk # Suchen Java Version
+sudo apt-get install openjdk-26-jdk  # Nur ein Beispiel: OpenJDK Development Kit (JDK)
+sudo wget https://maven.xwiki.org/xwiki-keyring.gpg -O /usr/share/keyrings/xwiki-keyring.gpg
+sudo wget "https://maven.xwiki.org/stable/xwiki-stable.list" -O /etc/apt/sources.list.d/xwiki-stable.list
+sudo apt-get update
+sudo apt-get install xwiki-tomcat10-pgsql
+
+&lt;/pre&gt;
+
+==Produktionsserver==
+Alles wie oben, nur jetzt alle wichtigen Freigaben setzen und geschützte Ports sperren.
+===ufw Installieren===
+
+'''ufw''' (Uncomplicated Firewall) ist ein einfach zu bedienendes Frontend für die Verwaltung einer Firewall unter Linux. Es hilft dabei, Netzwerkzugriffe zu erlauben oder zu blockieren und so das System abzusichern.
+
+&lt;pre&gt;
+sudo apt-get install ufw
+&lt;/pre&gt;
+Beispiel
+&lt;pre&gt;
+# Ports 22 (SSH), 80 (HTTP) und 443 (HTTPS) freigeben
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+# Ports 3000, 8080 und 8081 sperren
+sudo ufw deny 3000
+sudo ufw deny 8080
+sudo ufw deny 8081
+
+# ufw aktivieren
+sudo ufw enable
+
+# ufw Status anzeigen
+sudo ufw status
+&lt;/pre&gt;
+
+===Passwort-Datei erstellen für nginx erstellen===
+Zuerst erstellst du eine verschlüsselte Passwort-Datei. Dafür benötigst du die apache2-utils.
+====Tools installieren====
+&lt;pre&gt;
+sudo apt update
+sudo apt install apache2-utils
+&lt;/pre&gt;
+====Datei erstellen====
+&lt;pre&gt;
+sudo htpasswd -c /etc/nginx/.htpasswd thorsten
+&lt;/pre&gt;
+===Nginx datei ändern====
+&lt;pre&gt;
+
+
+ location ^~ /xwiki {
+   auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+
+    proxy_pass http://localhost:8081/;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header Host $http_host;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    }
+&lt;/pre&gt;
+
+==Xwiki Löschen==
+&lt;pre&gt;
+sudo apt-get purge "xwiki*"
+sudo apt-get autoremove --purge
+sudo rm -rf /var/lib/xwiki
+sudo rm -rf /etc/xwiki
+sudo -u postgres -i
+dropdb xwiki
+dropuser xwiki
+exit
+
+&lt;/pre&gt;</text>
+      <sha1>f4yyh3pymtyxdm2fsrtxxxhcotpd9r0</sha1>
+    </revision>
+    <revision>
+      <id>141</id>
+      <parentid>140</parentid>
+      <timestamp>2026-01-16T02:47:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>141</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3689" sha1="127lmyy6t5r1ffb73ccnvg9yk21aci5" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+
+Gehe auf dem Bildschirm auf der linken Seite auf das Terminal und klicke darauf, falls du es dort angedockt hast.
+Alternativ klicke auf das Ubuntu-Logo, öffne das Fenster, gib oben in der Suchleiste "Terminal" ein und klicke darauf.
+
+Öffne das Terminal (du benötigst Root-Rechte, sonst funktioniert es nicht).
+Gib Folgendes ein, um das System zu aktualisieren:
+&lt;pre&gt;
+sudo apt update # Aktualisiert die Paketlisten
+sudo apt upgrade # Installiert verfügbare Updates
+```
+Gib Folgendes ein, um die Datenbank PostgreSQL einzurichten:
+```
+sudo apt-get install postgresql-all # Installiert alle PostgreSQL-Pakete # Dieser Befehl installiert alle Pakete, die mit PostgreSQL zusammenhängen. Dadurch wird sichergestellt, dass die Datenbank und alle notwendigen Tools auf deinem System verfügbar sind.
+
+sudo -u postgres -i #   Mit diesem Befehl wechselst du zum Benutzer 'postgres', der für die Verwaltung der PostgreSQL-Datenbank zuständig ist.
+
+createuser thorsten # Erstellt einen neuen Datenbank-Benutzer mit dem Namen 'thorsten'.
+
+createdb -E UTF8 -O thorsten thorsten # Erstellt eine neue Datenbank namens 'thorsten' mit UTF8-Kodierung und setzt 'thorsten' als Eigentümer.
+
+psql -c "\\password thorsten" # Setzt ein Passwort für den Benutzer 'thorsten'.
+
+psql -c "ALTER USER dein_benutzername CREATEDB;" # Gibt dem Benutzer 'dein_benutzername' das Recht, neue Datenbanken zu erstellen.
+
+exit # Beendet die Sitzung als Benutzer 'postgres' und kehrt zum vorherigen Benutzer zurück.
+
+
+&lt;/pre&gt;
+
+In Kurzformat
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+sudo apt-get install postgresql-all
+&lt;/pre&gt;
+===Java und XWIKI===
+&lt;pre&gt;
+
+sudo apt-cache search openjdk # Suchen Java Version
+sudo apt-get install openjdk-26-jdk  # Nur ein Beispiel: OpenJDK Development Kit (JDK)
+sudo wget https://maven.xwiki.org/xwiki-keyring.gpg -O /usr/share/keyrings/xwiki-keyring.gpg
+sudo wget "https://maven.xwiki.org/stable/xwiki-stable.list" -O /etc/apt/sources.list.d/xwiki-stable.list
+sudo apt-get update
+sudo apt-get install xwiki-tomcat10-pgsql
+
+&lt;/pre&gt;
+
+==Produktionsserver==
+Alles wie oben, nur jetzt alle wichtigen Freigaben setzen und geschützte Ports sperren.
+===ufw Installieren===
+
+'''ufw''' (Uncomplicated Firewall) ist ein einfach zu bedienendes Frontend für die Verwaltung einer Firewall unter Linux. Es hilft dabei, Netzwerkzugriffe zu erlauben oder zu blockieren und so das System abzusichern.
+
+&lt;pre&gt;
+sudo apt-get install ufw
+&lt;/pre&gt;
+Beispiel
+&lt;pre&gt;
+# Ports 22 (SSH), 80 (HTTP) und 443 (HTTPS) freigeben
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+# Ports 3000, 8080 und 8081 sperren
+sudo ufw deny 3000
+sudo ufw deny 8080
+sudo ufw deny 8081
+
+# ufw aktivieren
+sudo ufw enable
+
+# ufw Status anzeigen
+sudo ufw status
+&lt;/pre&gt;
+
+===Passwort-Datei erstellen für nginx erstellen===
+Zuerst erstellst du eine verschlüsselte Passwort-Datei. Dafür benötigst du die apache2-utils.
+====Tools installieren====
+&lt;pre&gt;
+sudo apt update
+sudo apt install apache2-utils
+&lt;/pre&gt;
+====Datei erstellen====
+&lt;pre&gt;
+sudo htpasswd -c /etc/nginx/.htpasswd thorsten
+&lt;/pre&gt;
+====Nginx datei ändern====
+&lt;pre&gt;
+
+
+ location ^~ /xwiki {
+   auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+
+    proxy_pass http://localhost:8081/;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header Host $http_host;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    }
+&lt;/pre&gt;
+
+==Xwiki Löschen==
+&lt;pre&gt;
+sudo apt-get purge "xwiki*"
+sudo apt-get autoremove --purge
+sudo rm -rf /var/lib/xwiki
+sudo rm -rf /etc/xwiki
+sudo -u postgres -i
+dropdb xwiki
+dropuser xwiki
+exit
+
+&lt;/pre&gt;</text>
+      <sha1>127lmyy6t5r1ffb73ccnvg9yk21aci5</sha1>
+    </revision>
+    <revision>
+      <id>142</id>
+      <parentid>141</parentid>
+      <timestamp>2026-01-16T04:24:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>142</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3988" sha1="9j3vvxkvl2oxbliq9g1ijgwg7zdf9zj" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+
+Gehe auf dem Bildschirm auf der linken Seite auf das Terminal und klicke darauf, falls du es dort angedockt hast.
+Alternativ klicke auf das Ubuntu-Logo, öffne das Fenster, gib oben in der Suchleiste "Terminal" ein und klicke darauf.
+
+Öffne das Terminal (du benötigst Root-Rechte, sonst funktioniert es nicht).
+Gib Folgendes ein, um das System zu aktualisieren:
+&lt;pre&gt;
+sudo apt update # Aktualisiert die Paketlisten
+sudo apt upgrade # Installiert verfügbare Updates
+```
+Gib Folgendes ein, um die Datenbank PostgreSQL einzurichten:
+```
+sudo apt-get install postgresql-all # Installiert alle PostgreSQL-Pakete # Dieser Befehl installiert alle Pakete, die mit PostgreSQL zusammenhängen. Dadurch wird sichergestellt, dass die Datenbank und alle notwendigen Tools auf deinem System verfügbar sind.
+
+sudo -u postgres -i #   Mit diesem Befehl wechselst du zum Benutzer 'postgres', der für die Verwaltung der PostgreSQL-Datenbank zuständig ist.
+
+createuser thorsten # Erstellt einen neuen Datenbank-Benutzer mit dem Namen 'thorsten'.
+
+createdb -E UTF8 -O thorsten thorsten # Erstellt eine neue Datenbank namens 'thorsten' mit UTF8-Kodierung und setzt 'thorsten' als Eigentümer.
+
+psql -c "\\password thorsten" # Setzt ein Passwort für den Benutzer 'thorsten'.
+
+psql -c "ALTER USER dein_benutzername CREATEDB;" # Gibt dem Benutzer 'dein_benutzername' das Recht, neue Datenbanken zu erstellen.
+
+exit # Beendet die Sitzung als Benutzer 'postgres' und kehrt zum vorherigen Benutzer zurück.
+
+
+&lt;/pre&gt;
+
+In Kurzformat
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+sudo apt-get install postgresql-all
+&lt;/pre&gt;
+===Java und XWIKI===
+&lt;pre&gt;
+
+sudo apt-cache search openjdk # Suchen Java Version
+sudo apt-get install openjdk-26-jdk  # Nur ein Beispiel: OpenJDK Development Kit (JDK)
+sudo wget https://maven.xwiki.org/xwiki-keyring.gpg -O /usr/share/keyrings/xwiki-keyring.gpg
+sudo wget "https://maven.xwiki.org/stable/xwiki-stable.list" -O /etc/apt/sources.list.d/xwiki-stable.list
+sudo apt-get update
+sudo apt-get install xwiki-tomcat10-pgsql
+
+&lt;/pre&gt;
+
+==Produktionsserver==
+Alles wie oben, nur jetzt alle wichtigen Freigaben setzen und geschützte Ports sperren.
+===ufw Installieren===
+
+'''ufw''' (Uncomplicated Firewall) ist ein einfach zu bedienendes Frontend für die Verwaltung einer Firewall unter Linux. Es hilft dabei, Netzwerkzugriffe zu erlauben oder zu blockieren und so das System abzusichern.
+
+&lt;pre&gt;
+sudo apt-get install ufw
+&lt;/pre&gt;
+Beispiel
+&lt;pre&gt;
+# Ports 22 (SSH), 80 (HTTP) und 443 (HTTPS) freigeben
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+# Ports 3000, 8080 und 8081 sperren
+sudo ufw deny 3000
+sudo ufw deny 8080
+sudo ufw deny 8081
+
+# ufw aktivieren
+sudo ufw enable
+
+# ufw Status anzeigen
+sudo ufw status
+&lt;/pre&gt;
+
+===Passwort-Datei erstellen für nginx erstellen===
+Zuerst erstellst du eine verschlüsselte Passwort-Datei. Dafür benötigst du die apache2-utils.
+====Tools installieren====
+&lt;pre&gt;
+sudo apt update
+sudo apt install apache2-utils
+&lt;/pre&gt;
+====Datei erstellen====
+&lt;pre&gt;
+sudo htpasswd -c /etc/nginx/.htpasswd thorsten
+&lt;/pre&gt;
+====Nginx datei ändern====
+&lt;pre&gt;
+
+
+ location ^~ /xwiki {
+   auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+
+    proxy_pass http://localhost:8081/;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header Host $http_host;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    }
+&lt;/pre&gt;
+
+==Xwiki Löschen==
+&lt;pre&gt;
+sudo apt-get purge "xwiki*"
+sudo apt-get autoremove --purge
+sudo rm -rf /var/lib/xwiki
+sudo rm -rf /etc/xwiki
+sudo -u postgres -i
+dropdb xwiki
+dropuser xwiki
+exit
+
+&lt;/pre&gt;
+
+==XWiki Backup==
+&lt;pre&gt;
+
+# Datenbank sichern
+sudo -u postgres pg_dump xwiki &gt; xwiki_db_backup.sql
+# Datenbank wiederherstellen
+# sudo -u postgres psql xwiki &lt; xwiki_db_backup.sql
+
+
+# Dateisystem und Konfiguration sichern
+sudo tar -cvzf xwiki_files_backup.tar.gz /var/lib/xwiki /etc/xwiki
+
+
+
+
+&lt;/pre&gt;</text>
+      <sha1>9j3vvxkvl2oxbliq9g1ijgwg7zdf9zj</sha1>
+    </revision>
+    <revision>
+      <id>143</id>
+      <parentid>142</parentid>
+      <timestamp>2026-01-16T04:26:11Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* XWiki Backup */</comment>
+      <origin>143</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3987" sha1="pucjptbh6es5zcarv15a3syolm46jyk" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+
+Gehe auf dem Bildschirm auf der linken Seite auf das Terminal und klicke darauf, falls du es dort angedockt hast.
+Alternativ klicke auf das Ubuntu-Logo, öffne das Fenster, gib oben in der Suchleiste "Terminal" ein und klicke darauf.
+
+Öffne das Terminal (du benötigst Root-Rechte, sonst funktioniert es nicht).
+Gib Folgendes ein, um das System zu aktualisieren:
+&lt;pre&gt;
+sudo apt update # Aktualisiert die Paketlisten
+sudo apt upgrade # Installiert verfügbare Updates
+```
+Gib Folgendes ein, um die Datenbank PostgreSQL einzurichten:
+```
+sudo apt-get install postgresql-all # Installiert alle PostgreSQL-Pakete # Dieser Befehl installiert alle Pakete, die mit PostgreSQL zusammenhängen. Dadurch wird sichergestellt, dass die Datenbank und alle notwendigen Tools auf deinem System verfügbar sind.
+
+sudo -u postgres -i #   Mit diesem Befehl wechselst du zum Benutzer 'postgres', der für die Verwaltung der PostgreSQL-Datenbank zuständig ist.
+
+createuser thorsten # Erstellt einen neuen Datenbank-Benutzer mit dem Namen 'thorsten'.
+
+createdb -E UTF8 -O thorsten thorsten # Erstellt eine neue Datenbank namens 'thorsten' mit UTF8-Kodierung und setzt 'thorsten' als Eigentümer.
+
+psql -c "\\password thorsten" # Setzt ein Passwort für den Benutzer 'thorsten'.
+
+psql -c "ALTER USER dein_benutzername CREATEDB;" # Gibt dem Benutzer 'dein_benutzername' das Recht, neue Datenbanken zu erstellen.
+
+exit # Beendet die Sitzung als Benutzer 'postgres' und kehrt zum vorherigen Benutzer zurück.
+
+
+&lt;/pre&gt;
+
+In Kurzformat
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+sudo apt-get install postgresql-all
+&lt;/pre&gt;
+===Java und XWIKI===
+&lt;pre&gt;
+
+sudo apt-cache search openjdk # Suchen Java Version
+sudo apt-get install openjdk-26-jdk  # Nur ein Beispiel: OpenJDK Development Kit (JDK)
+sudo wget https://maven.xwiki.org/xwiki-keyring.gpg -O /usr/share/keyrings/xwiki-keyring.gpg
+sudo wget "https://maven.xwiki.org/stable/xwiki-stable.list" -O /etc/apt/sources.list.d/xwiki-stable.list
+sudo apt-get update
+sudo apt-get install xwiki-tomcat10-pgsql
+
+&lt;/pre&gt;
+
+==Produktionsserver==
+Alles wie oben, nur jetzt alle wichtigen Freigaben setzen und geschützte Ports sperren.
+===ufw Installieren===
+
+'''ufw''' (Uncomplicated Firewall) ist ein einfach zu bedienendes Frontend für die Verwaltung einer Firewall unter Linux. Es hilft dabei, Netzwerkzugriffe zu erlauben oder zu blockieren und so das System abzusichern.
+
+&lt;pre&gt;
+sudo apt-get install ufw
+&lt;/pre&gt;
+Beispiel
+&lt;pre&gt;
+# Ports 22 (SSH), 80 (HTTP) und 443 (HTTPS) freigeben
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+# Ports 3000, 8080 und 8081 sperren
+sudo ufw deny 3000
+sudo ufw deny 8080
+sudo ufw deny 8081
+
+# ufw aktivieren
+sudo ufw enable
+
+# ufw Status anzeigen
+sudo ufw status
+&lt;/pre&gt;
+
+===Passwort-Datei erstellen für nginx erstellen===
+Zuerst erstellst du eine verschlüsselte Passwort-Datei. Dafür benötigst du die apache2-utils.
+====Tools installieren====
+&lt;pre&gt;
+sudo apt update
+sudo apt install apache2-utils
+&lt;/pre&gt;
+====Datei erstellen====
+&lt;pre&gt;
+sudo htpasswd -c /etc/nginx/.htpasswd thorsten
+&lt;/pre&gt;
+====Nginx datei ändern====
+&lt;pre&gt;
+
+
+ location ^~ /xwiki {
+   auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+
+    proxy_pass http://localhost:8081/;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header Host $http_host;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    }
+&lt;/pre&gt;
+
+==Xwiki Löschen==
+&lt;pre&gt;
+sudo apt-get purge "xwiki*"
+sudo apt-get autoremove --purge
+sudo rm -rf /var/lib/xwiki
+sudo rm -rf /etc/xwiki
+sudo -u postgres -i
+dropdb xwiki
+dropuser xwiki
+exit
+
+&lt;/pre&gt;
+
+==XWiki Backup==
+&lt;pre&gt;
+
+# Datenbank sichern
+sudo -u postgres pg_dump xwiki &gt; xwiki_db_backup.sql
+# Datenbank wiederherstellen
+ sudo -u postgres psql xwiki &lt; xwiki_db_backup.sql
+
+
+# Dateisystem und Konfiguration sichern
+sudo tar -cvzf xwiki_files_backup.tar.gz /var/lib/xwiki /etc/xwiki
+
+
+
+
+&lt;/pre&gt;</text>
+      <sha1>pucjptbh6es5zcarv15a3syolm46jyk</sha1>
+    </revision>
+    <revision>
+      <id>144</id>
+      <parentid>143</parentid>
+      <timestamp>2026-01-16T04:35:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>144</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4183" sha1="oopgiigbjkj608au19e6p5npx8m4pwj" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+
+Gehe auf dem Bildschirm auf der linken Seite auf das Terminal und klicke darauf, falls du es dort angedockt hast.
+Alternativ klicke auf das Ubuntu-Logo, öffne das Fenster, gib oben in der Suchleiste "Terminal" ein und klicke darauf.
+
+Öffne das Terminal (du benötigst Root-Rechte, sonst funktioniert es nicht).
+Gib Folgendes ein, um das System zu aktualisieren:
+&lt;pre&gt;
+sudo apt update # Aktualisiert die Paketlisten
+sudo apt upgrade # Installiert verfügbare Updates
+```
+Gib Folgendes ein, um die Datenbank PostgreSQL einzurichten:
+```
+sudo apt-get install postgresql-all # Installiert alle PostgreSQL-Pakete # Dieser Befehl installiert alle Pakete, die mit PostgreSQL zusammenhängen. Dadurch wird sichergestellt, dass die Datenbank und alle notwendigen Tools auf deinem System verfügbar sind.
+
+sudo -u postgres -i #   Mit diesem Befehl wechselst du zum Benutzer 'postgres', der für die Verwaltung der PostgreSQL-Datenbank zuständig ist.
+
+createuser thorsten # Erstellt einen neuen Datenbank-Benutzer mit dem Namen 'thorsten'.
+
+createdb -E UTF8 -O thorsten thorsten # Erstellt eine neue Datenbank namens 'thorsten' mit UTF8-Kodierung und setzt 'thorsten' als Eigentümer.
+
+psql -c "\\password thorsten" # Setzt ein Passwort für den Benutzer 'thorsten'.
+
+psql -c "ALTER USER dein_benutzername CREATEDB;" # Gibt dem Benutzer 'dein_benutzername' das Recht, neue Datenbanken zu erstellen.
+
+exit # Beendet die Sitzung als Benutzer 'postgres' und kehrt zum vorherigen Benutzer zurück.
+
+
+&lt;/pre&gt;
+
+In Kurzformat
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+sudo apt-get install postgresql-all
+&lt;/pre&gt;
+===Java und XWIKI===
+&lt;pre&gt;
+
+sudo apt-cache search openjdk # Suchen Java Version
+sudo apt-get install openjdk-26-jdk  # Nur ein Beispiel: OpenJDK Development Kit (JDK)
+sudo wget https://maven.xwiki.org/xwiki-keyring.gpg -O /usr/share/keyrings/xwiki-keyring.gpg
+sudo wget "https://maven.xwiki.org/stable/xwiki-stable.list" -O /etc/apt/sources.list.d/xwiki-stable.list
+sudo apt-get update
+sudo apt-get install xwiki-tomcat10-pgsql
+
+&lt;/pre&gt;
+
+==Produktionsserver==
+Alles wie oben, nur jetzt alle wichtigen Freigaben setzen und geschützte Ports sperren.
+===ufw Installieren===
+
+'''ufw''' (Uncomplicated Firewall) ist ein einfach zu bedienendes Frontend für die Verwaltung einer Firewall unter Linux. Es hilft dabei, Netzwerkzugriffe zu erlauben oder zu blockieren und so das System abzusichern.
+
+&lt;pre&gt;
+sudo apt-get install ufw
+&lt;/pre&gt;
+Beispiel
+&lt;pre&gt;
+# Ports 22 (SSH), 80 (HTTP) und 443 (HTTPS) freigeben
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+# Ports 3000, 8080 und 8081 sperren
+sudo ufw deny 3000
+sudo ufw deny 8080
+sudo ufw deny 8081
+
+# ufw aktivieren
+sudo ufw enable
+
+# ufw Status anzeigen
+sudo ufw status
+&lt;/pre&gt;
+
+===Passwort-Datei erstellen für nginx erstellen===
+Zuerst erstellst du eine verschlüsselte Passwort-Datei. Dafür benötigst du die apache2-utils.
+====Tools installieren====
+&lt;pre&gt;
+sudo apt update
+sudo apt install apache2-utils
+&lt;/pre&gt;
+====Datei erstellen====
+&lt;pre&gt;
+sudo htpasswd -c /etc/nginx/.htpasswd thorsten
+&lt;/pre&gt;
+====Nginx datei ändern====
+&lt;pre&gt;
+
+
+ location ^~ /xwiki {
+   auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+
+    proxy_pass http://localhost:8081/;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header Host $http_host;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    }
+&lt;/pre&gt;
+
+==Xwiki Löschen==
+&lt;pre&gt;
+sudo apt-get purge "xwiki*"
+sudo apt-get autoremove --purge
+sudo rm -rf /var/lib/xwiki
+sudo rm -rf /etc/xwiki
+sudo -u postgres -i
+dropdb xwiki
+dropuser xwiki
+exit
+
+&lt;/pre&gt;
+
+==XWiki Backup==
+&lt;pre&gt;
+
+# Datenbank sichern
+sudo -u postgres pg_dump xwiki &gt; xwiki_db_backup.sql
+# Datenbank wiederherstellen
+# sudo -u postgres psql xwiki &lt; xwiki_db_backup.sql
+
+
+# Dateisystem und Konfiguration sichern
+sudo tar -cvzf xwiki_files_backup.tar.gz /var/lib/xwiki
+
+Zusatz-Check: Vergiss nicht, dir eine Kopie deiner Konfigurationsdateien aus /etc/xwiki/ zu sichern (besonders hibernate.cfg.xml und xwiki.properties), damit du im Notfall weißt, wie alles eingestellt war.
+
+
+&lt;/pre&gt;</text>
+      <sha1>oopgiigbjkj608au19e6p5npx8m4pwj</sha1>
+    </revision>
+    <revision>
+      <id>169</id>
+      <parentid>144</parentid>
+      <timestamp>2026-01-17T09:11:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Ubuntu Rechner */</comment>
+      <origin>169</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2695" sha1="1x5w35ob7xusjw5t97bxjc31ibvnt7i" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+&lt;/pre&gt;
+
+In Kurzformat
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+sudo apt-get install postgresql-all
+&lt;/pre&gt;
+
+===Java und XWIKI===
+&lt;pre&gt;
+
+sudo apt-cache search openjdk # Suchen Java Version
+sudo apt-get install openjdk-26-jdk  # Nur ein Beispiel: OpenJDK Development Kit (JDK)
+sudo wget https://maven.xwiki.org/xwiki-keyring.gpg -O /usr/share/keyrings/xwiki-keyring.gpg
+sudo wget "https://maven.xwiki.org/stable/xwiki-stable.list" -O /etc/apt/sources.list.d/xwiki-stable.list
+sudo apt-get update
+sudo apt-get install xwiki-tomcat10-pgsql
+
+&lt;/pre&gt;
+
+==Produktionsserver==
+Alles wie oben, nur jetzt alle wichtigen Freigaben setzen und geschützte Ports sperren.
+===ufw Installieren===
+
+'''ufw''' (Uncomplicated Firewall) ist ein einfach zu bedienendes Frontend für die Verwaltung einer Firewall unter Linux. Es hilft dabei, Netzwerkzugriffe zu erlauben oder zu blockieren und so das System abzusichern.
+
+&lt;pre&gt;
+sudo apt-get install ufw
+&lt;/pre&gt;
+Beispiel
+&lt;pre&gt;
+# Ports 22 (SSH), 80 (HTTP) und 443 (HTTPS) freigeben
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+# Ports 3000, 8080 und 8081 sperren
+sudo ufw deny 3000
+sudo ufw deny 8080
+sudo ufw deny 8081
+
+# ufw aktivieren
+sudo ufw enable
+
+# ufw Status anzeigen
+sudo ufw status
+&lt;/pre&gt;
+
+===Passwort-Datei erstellen für nginx erstellen===
+Zuerst erstellst du eine verschlüsselte Passwort-Datei. Dafür benötigst du die apache2-utils.
+====Tools installieren====
+&lt;pre&gt;
+sudo apt update
+sudo apt install apache2-utils
+&lt;/pre&gt;
+====Datei erstellen====
+&lt;pre&gt;
+sudo htpasswd -c /etc/nginx/.htpasswd thorsten
+&lt;/pre&gt;
+====Nginx datei ändern====
+&lt;pre&gt;
+
+
+ location ^~ /xwiki {
+   auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+
+    proxy_pass http://localhost:8081/;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header Host $http_host;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    }
+&lt;/pre&gt;
+
+==Xwiki Löschen==
+&lt;pre&gt;
+sudo apt-get purge "xwiki*"
+sudo apt-get autoremove --purge
+sudo rm -rf /var/lib/xwiki
+sudo rm -rf /etc/xwiki
+sudo -u postgres -i
+dropdb xwiki
+dropuser xwiki
+exit
+
+&lt;/pre&gt;
+
+==XWiki Backup==
+&lt;pre&gt;
+
+# Datenbank sichern
+sudo -u postgres pg_dump xwiki &gt; xwiki_db_backup.sql
+# Datenbank wiederherstellen
+# sudo -u postgres psql xwiki &lt; xwiki_db_backup.sql
+
+
+# Dateisystem und Konfiguration sichern
+sudo tar -cvzf xwiki_files_backup.tar.gz /var/lib/xwiki
+
+Zusatz-Check: Vergiss nicht, dir eine Kopie deiner Konfigurationsdateien aus /etc/xwiki/ zu sichern (besonders hibernate.cfg.xml und xwiki.properties), damit du im Notfall weißt, wie alles eingestellt war.
+
+
+&lt;/pre&gt;</text>
+      <sha1>1x5w35ob7xusjw5t97bxjc31ibvnt7i</sha1>
+    </revision>
+    <revision>
+      <id>190</id>
+      <parentid>169</parentid>
+      <timestamp>2026-01-18T06:24:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>190</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2752" sha1="n0q5h7ccy979v7db4xxiqyfkg782504" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+&lt;/pre&gt;
+
+In Kurzformat
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+sudo apt-get install postgresql-all
+&lt;/pre&gt;
+
+===Java und XWIKI===
+&lt;pre&gt;
+
+sudo apt-cache search openjdk # Suchen Java Version
+sudo apt-get install openjdk-26-jdk  # Nur ein Beispiel: OpenJDK Development Kit (JDK)
+sudo wget https://maven.xwiki.org/xwiki-keyring.gpg -O /usr/share/keyrings/xwiki-keyring.gpg
+sudo wget "https://maven.xwiki.org/stable/xwiki-stable.list" -O /etc/apt/sources.list.d/xwiki-stable.list
+sudo apt-get update
+sudo apt-get install xwiki-tomcat10-pgsql
+
+&lt;/pre&gt;
+
+==Produktionsserver==
+Alles wie oben, nur jetzt alle wichtigen Freigaben setzen und geschützte Ports sperren.
+===ufw Installieren===
+
+'''ufw''' (Uncomplicated Firewall) ist ein einfach zu bedienendes Frontend für die Verwaltung einer Firewall unter Linux. Es hilft dabei, Netzwerkzugriffe zu erlauben oder zu blockieren und so das System abzusichern.
+
+&lt;pre&gt;
+sudo apt-get install ufw
+&lt;/pre&gt;
+Beispiel
+&lt;pre&gt;
+# Ports 22 (SSH), 80 (HTTP) und 443 (HTTPS) freigeben
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+# Ports 3000, 8080 und 8081 sperren
+sudo ufw deny 3000
+sudo ufw deny 8080
+sudo ufw deny 8081
+
+# ufw aktivieren
+sudo ufw enable
+
+# ufw Status anzeigen
+sudo ufw status
+&lt;/pre&gt;
+==xwiki.cfg==
+&lt;pre&gt;
+sudo nano /etc/xwiki/xwiki.cfg
+&lt;/pre&gt;
+Geben Sie Folgendes ein
+&lt;pre&gt;
+xwiki.setup.skip=1
+xwiki.superadminpassword
+&lt;/pre&gt;
+===Passwort-Datei erstellen für nginx erstellen===
+Zuerst erstellst du eine verschlüsselte Passwort-Datei. Dafür benötigst du die apache2-utils.
+====Tools installieren====
+&lt;pre&gt;
+sudo apt update
+sudo apt install apache2-utils
+&lt;/pre&gt;
+====Datei erstellen====
+&lt;pre&gt;
+sudo htpasswd -c /etc/nginx/.htpasswd thorsten
+&lt;/pre&gt;
+====Nginx datei ändern====
+&lt;pre&gt;
+
+
+ location ^~ /xwiki {
+
+
+    proxy_pass http://localhost:8081/;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header Host $http_host;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    }
+&lt;/pre&gt;
+
+==Xwiki Löschen==
+&lt;pre&gt;
+sudo apt-get purge "xwiki*"
+sudo apt-get autoremove --purge
+sudo rm -rf /var/lib/xwiki
+sudo rm -rf /etc/xwiki
+sudo -u postgres -i
+dropdb xwiki
+dropuser xwiki
+exit
+
+&lt;/pre&gt;
+
+==XWiki Backup==
+&lt;pre&gt;
+
+# Datenbank sichern
+sudo -u postgres pg_dump xwiki &gt; xwiki_db_backup.sql
+# Datenbank wiederherstellen
+# sudo -u postgres psql xwiki &lt; xwiki_db_backup.sql
+
+
+# Dateisystem und Konfiguration sichern
+sudo tar -cvzf xwiki_files_backup.tar.gz /var/lib/xwiki
+
+Zusatz-Check: Vergiss nicht, dir eine Kopie deiner Konfigurationsdateien aus /etc/xwiki/ zu sichern (besonders hibernate.cfg.xml und xwiki.properties), damit du im Notfall weißt, wie alles eingestellt war.
+
+
+&lt;/pre&gt;</text>
+      <sha1>n0q5h7ccy979v7db4xxiqyfkg782504</sha1>
+    </revision>
+    <revision>
+      <id>191</id>
+      <parentid>190</parentid>
+      <timestamp>2026-01-18T07:03:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>191</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2758" sha1="3gsu4zhg1pr6dxbulxxhx04cidbz9wm" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+&lt;/pre&gt;
+
+In Kurzformat
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+sudo apt-get install postgresql-all
+&lt;/pre&gt;
+
+===Java und XWIKI===
+&lt;pre&gt;
+
+sudo apt-cache search openjdk # Suchen Java Version
+sudo apt-get install openjdk-26-jdk  # Nur ein Beispiel: OpenJDK Development Kit (JDK)
+sudo wget https://maven.xwiki.org/xwiki-keyring.gpg -O /usr/share/keyrings/xwiki-keyring.gpg
+sudo wget "https://maven.xwiki.org/stable/xwiki-stable.list" -O /etc/apt/sources.list.d/xwiki-stable.list
+sudo apt-get update
+sudo apt-get install xwiki-tomcat10-pgsql
+
+&lt;/pre&gt;
+
+==Produktionsserver==
+Alles wie oben, nur jetzt alle wichtigen Freigaben setzen und geschützte Ports sperren.
+===ufw Installieren===
+
+'''ufw''' (Uncomplicated Firewall) ist ein einfach zu bedienendes Frontend für die Verwaltung einer Firewall unter Linux. Es hilft dabei, Netzwerkzugriffe zu erlauben oder zu blockieren und so das System abzusichern.
+
+&lt;pre&gt;
+sudo apt-get install ufw
+&lt;/pre&gt;
+Beispiel
+&lt;pre&gt;
+# Ports 22 (SSH), 80 (HTTP) und 443 (HTTPS) freigeben
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+# Ports 3000, 8080 und 8081 sperren
+sudo ufw deny 3000
+sudo ufw deny 8080
+sudo ufw deny 8081
+
+# ufw aktivieren
+sudo ufw enable
+
+# ufw Status anzeigen
+sudo ufw status
+&lt;/pre&gt;
+==xwiki.cfg==
+&lt;pre&gt;
+sudo nano /etc/xwiki/xwiki.cfg
+&lt;/pre&gt;
+Geben Sie Folgendes ein
+&lt;pre&gt;
+xwiki.url.protocol=https
+xwiki.superadminpassword
+&lt;/pre&gt;
+===Passwort-Datei erstellen für nginx erstellen===
+Zuerst erstellst du eine verschlüsselte Passwort-Datei. Dafür benötigst du die apache2-utils.
+====Tools installieren====
+&lt;pre&gt;
+sudo apt update
+sudo apt install apache2-utils
+&lt;/pre&gt;
+====Datei erstellen====
+&lt;pre&gt;
+sudo htpasswd -c /etc/nginx/.htpasswd thorsten
+&lt;/pre&gt;
+====Nginx datei ändern====
+&lt;pre&gt;
+
+
+ location ^~ /xwiki {
+
+
+    proxy_pass http://localhost:8081/;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header Host $http_host;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    }
+&lt;/pre&gt;
+
+==Xwiki Löschen==
+&lt;pre&gt;
+sudo apt-get purge "xwiki*"
+sudo apt-get autoremove --purge
+sudo rm -rf /var/lib/xwiki
+sudo rm -rf /etc/xwiki
+sudo -u postgres -i
+dropdb xwiki
+dropuser xwiki
+exit
+
+&lt;/pre&gt;
+
+==XWiki Backup==
+&lt;pre&gt;
+
+# Datenbank sichern
+sudo -u postgres pg_dump xwiki &gt; xwiki_db_backup.sql
+# Datenbank wiederherstellen
+# sudo -u postgres psql xwiki &lt; xwiki_db_backup.sql
+
+
+# Dateisystem und Konfiguration sichern
+sudo tar -cvzf xwiki_files_backup.tar.gz /var/lib/xwiki
+
+Zusatz-Check: Vergiss nicht, dir eine Kopie deiner Konfigurationsdateien aus /etc/xwiki/ zu sichern (besonders hibernate.cfg.xml und xwiki.properties), damit du im Notfall weißt, wie alles eingestellt war.
+
+
+&lt;/pre&gt;</text>
+      <sha1>3gsu4zhg1pr6dxbulxxhx04cidbz9wm</sha1>
+    </revision>
+    <revision>
+      <id>192</id>
+      <parentid>191</parentid>
+      <timestamp>2026-01-18T08:48:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>192</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2812" sha1="300bcr16y9b9u8sxs7f4ca9g91qz3v6" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+&lt;/pre&gt;
+
+In Kurzformat
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+sudo apt-get install postgresql-all
+&lt;/pre&gt;
+
+===Java und XWIKI===
+&lt;pre&gt;
+
+sudo apt-cache search openjdk # Suchen Java Version
+sudo apt-get install openjdk-26-jdk  # Nur ein Beispiel: OpenJDK Development Kit (JDK)
+sudo wget https://maven.xwiki.org/xwiki-keyring.gpg -O /usr/share/keyrings/xwiki-keyring.gpg
+sudo wget "https://maven.xwiki.org/stable/xwiki-stable.list" -O /etc/apt/sources.list.d/xwiki-stable.list
+sudo apt-get update
+sudo apt-get install xwiki-tomcat10-pgsql
+
+&lt;/pre&gt;
+
+==Produktionsserver==
+Alles wie oben, nur jetzt alle wichtigen Freigaben setzen und geschützte Ports sperren.
+===ufw Installieren===
+
+'''ufw''' (Uncomplicated Firewall) ist ein einfach zu bedienendes Frontend für die Verwaltung einer Firewall unter Linux. Es hilft dabei, Netzwerkzugriffe zu erlauben oder zu blockieren und so das System abzusichern.
+
+&lt;pre&gt;
+sudo apt-get install ufw
+&lt;/pre&gt;
+Beispiel
+&lt;pre&gt;
+# Ports 22 (SSH), 80 (HTTP) und 443 (HTTPS) freigeben
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+# Ports 3000, 8080 und 8081 sperren
+sudo ufw deny 3000
+sudo ufw deny 8080
+sudo ufw deny 8081
+
+# ufw aktivieren
+sudo ufw enable
+
+# ufw Status anzeigen
+sudo ufw status
+&lt;/pre&gt;
+==xwiki.cfg==
+&lt;pre&gt;
+sudo nano /etc/xwiki/xwiki.cfg
+&lt;/pre&gt;
+Geben Sie Folgendes ein
+&lt;pre&gt;
+xwiki.url.protocol=https
+&lt;/pre&gt;
+===Passwort-Datei erstellen für nginx erstellen===
+Zuerst erstellst du eine verschlüsselte Passwort-Datei. Dafür benötigst du die apache2-utils.
+====Tools installieren====
+&lt;pre&gt;
+sudo apt update
+sudo apt install apache2-utils
+&lt;/pre&gt;
+====Datei erstellen====
+&lt;pre&gt;
+sudo htpasswd -c /etc/nginx/.htpasswd thorsten
+&lt;/pre&gt;
+====Nginx datei ändern====
+&lt;pre&gt;
+
+
+ location ^~ /xwiki {
+ auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+
+    proxy_pass http://localhost:8081/;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header Host $http_host;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    }
+&lt;/pre&gt;
+
+==Xwiki Löschen==
+&lt;pre&gt;
+sudo apt-get purge "xwiki*"
+sudo apt-get autoremove --purge
+sudo rm -rf /var/lib/xwiki
+sudo rm -rf /etc/xwiki
+sudo -u postgres -i
+dropdb xwiki
+dropuser xwiki
+exit
+
+&lt;/pre&gt;
+
+==XWiki Backup==
+&lt;pre&gt;
+
+# Datenbank sichern
+sudo -u postgres pg_dump xwiki &gt; xwiki_db_backup.sql
+# Datenbank wiederherstellen
+# sudo -u postgres psql xwiki &lt; xwiki_db_backup.sql
+
+
+# Dateisystem und Konfiguration sichern
+sudo tar -cvzf xwiki_files_backup.tar.gz /var/lib/xwiki
+
+Zusatz-Check: Vergiss nicht, dir eine Kopie deiner Konfigurationsdateien aus /etc/xwiki/ zu sichern (besonders hibernate.cfg.xml und xwiki.properties), damit du im Notfall weißt, wie alles eingestellt war.
+
+
+&lt;/pre&gt;</text>
+      <sha1>300bcr16y9b9u8sxs7f4ca9g91qz3v6</sha1>
+    </revision>
+    <revision>
+      <id>193</id>
+      <parentid>192</parentid>
+      <timestamp>2026-01-18T09:45:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* xwiki.cfg */</comment>
+      <origin>193</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2835" sha1="4uvjnanqatqumfca1epphblwl01b771" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+&lt;/pre&gt;
+
+In Kurzformat
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+sudo apt-get install postgresql-all
+&lt;/pre&gt;
+
+===Java und XWIKI===
+&lt;pre&gt;
+
+sudo apt-cache search openjdk # Suchen Java Version
+sudo apt-get install openjdk-26-jdk  # Nur ein Beispiel: OpenJDK Development Kit (JDK)
+sudo wget https://maven.xwiki.org/xwiki-keyring.gpg -O /usr/share/keyrings/xwiki-keyring.gpg
+sudo wget "https://maven.xwiki.org/stable/xwiki-stable.list" -O /etc/apt/sources.list.d/xwiki-stable.list
+sudo apt-get update
+sudo apt-get install xwiki-tomcat10-pgsql
+
+&lt;/pre&gt;
+
+==Produktionsserver==
+Alles wie oben, nur jetzt alle wichtigen Freigaben setzen und geschützte Ports sperren.
+===ufw Installieren===
+
+'''ufw''' (Uncomplicated Firewall) ist ein einfach zu bedienendes Frontend für die Verwaltung einer Firewall unter Linux. Es hilft dabei, Netzwerkzugriffe zu erlauben oder zu blockieren und so das System abzusichern.
+
+&lt;pre&gt;
+sudo apt-get install ufw
+&lt;/pre&gt;
+Beispiel
+&lt;pre&gt;
+# Ports 22 (SSH), 80 (HTTP) und 443 (HTTPS) freigeben
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+# Ports 3000, 8080 und 8081 sperren
+sudo ufw deny 3000
+sudo ufw deny 8080
+sudo ufw deny 8081
+
+# ufw aktivieren
+sudo ufw enable
+
+# ufw Status anzeigen
+sudo ufw status
+&lt;/pre&gt;
+==xwiki.cfg==
+&lt;pre&gt;
+sudo nano /etc/xwiki/xwiki.cfg
+&lt;/pre&gt;
+Geben Sie Folgendes ein
+&lt;pre&gt;
+xwiki.url.protocol=https
+xwiki.initialized=true
+&lt;/pre&gt;
+===Passwort-Datei erstellen für nginx erstellen===
+Zuerst erstellst du eine verschlüsselte Passwort-Datei. Dafür benötigst du die apache2-utils.
+====Tools installieren====
+&lt;pre&gt;
+sudo apt update
+sudo apt install apache2-utils
+&lt;/pre&gt;
+====Datei erstellen====
+&lt;pre&gt;
+sudo htpasswd -c /etc/nginx/.htpasswd thorsten
+&lt;/pre&gt;
+====Nginx datei ändern====
+&lt;pre&gt;
+
+
+ location ^~ /xwiki {
+ auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+
+    proxy_pass http://localhost:8081/;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header Host $http_host;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    }
+&lt;/pre&gt;
+
+==Xwiki Löschen==
+&lt;pre&gt;
+sudo apt-get purge "xwiki*"
+sudo apt-get autoremove --purge
+sudo rm -rf /var/lib/xwiki
+sudo rm -rf /etc/xwiki
+sudo -u postgres -i
+dropdb xwiki
+dropuser xwiki
+exit
+
+&lt;/pre&gt;
+
+==XWiki Backup==
+&lt;pre&gt;
+
+# Datenbank sichern
+sudo -u postgres pg_dump xwiki &gt; xwiki_db_backup.sql
+# Datenbank wiederherstellen
+# sudo -u postgres psql xwiki &lt; xwiki_db_backup.sql
+
+
+# Dateisystem und Konfiguration sichern
+sudo tar -cvzf xwiki_files_backup.tar.gz /var/lib/xwiki
+
+Zusatz-Check: Vergiss nicht, dir eine Kopie deiner Konfigurationsdateien aus /etc/xwiki/ zu sichern (besonders hibernate.cfg.xml und xwiki.properties), damit du im Notfall weißt, wie alles eingestellt war.
+
+
+&lt;/pre&gt;</text>
+      <sha1>4uvjnanqatqumfca1epphblwl01b771</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>CMS/MediaWiki</title>
+    <ns>0</ns>
+    <id>50</id>
+    <revision>
+      <id>148</id>
+      <timestamp>2026-01-17T01:43:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ == Postgres Datenbank erstellen ==  &lt;code&gt;sudo -u postgres -i  createdb -E UTF8 -O thorsten mediawiki  psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten    exit&lt;/code&gt;  == PHP installieren ==  &lt;code&gt;sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip php-intl -y&lt;/code&gt;  == Mediawiki installieren ==  &lt;code&gt;cd /var/www  sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawi…“</comment>
+      <origin>148</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1053" sha1="9rr1kowfgc8q675s6zxm7u74g8gg1n5" xml:space="preserve">
+== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten mediawiki
+ psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten
+ 
+ exit&lt;/code&gt;
+
+== PHP installieren ==
+ &lt;code&gt;sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip php-intl -y&lt;/code&gt;
+
+== Mediawiki installieren ==
+ &lt;code&gt;cd /var/www
+ sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawiki/core.git&lt;/nowiki&gt; mediawiki
+ sudo cd mediawiki
+ sudo git tag -l | sort -V
+ sudo git checkout 1.41.0
+ sudo git submodule update --init --recursive
+ sudo chown -R www-data:www-data /var/www/mediawiki
+ sudo chmod -R 755 /var/www/mediawiki&lt;/code&gt;
+ 
+Hochladen der Konfiguration
+ &lt;code&gt;sudo scp /home/thorsten/Downloads/LocalSettings.php thorsten@ahrensburg.city:/var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+== Lesbare URLs konfiguriern in mediawiki ==
+ &lt;code&gt;sudo nano /var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+ &lt;code&gt;$wgScriptPath = "";
+ $wgArticlePath = "/$1";
+ $wgUsePathInfo = true;&lt;/code&gt;</text>
+      <sha1>9rr1kowfgc8q675s6zxm7u74g8gg1n5</sha1>
+    </revision>
+    <revision>
+      <id>149</id>
+      <parentid>148</parentid>
+      <timestamp>2026-01-17T01:45:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>149</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1611" sha1="lxes7y6macx2qh7sxneypunv7ol4q3o" xml:space="preserve">
+== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten mediawiki
+ psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten
+ 
+ exit&lt;/code&gt;
+
+== PHP installieren ==
+ &lt;code&gt;sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip php-intl -y&lt;/code&gt;
+
+== Mediawiki installieren ==
+ &lt;code&gt;cd /var/www
+ sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawiki/core.git&lt;/nowiki&gt; mediawiki
+ sudo cd mediawiki
+ sudo git tag -l | sort -V
+ sudo git checkout 1.41.0
+ sudo git submodule update --init --recursive
+ sudo chown -R www-data:www-data /var/www/mediawiki
+ sudo chmod -R 755 /var/www/mediawiki&lt;/code&gt;
+ 
+Hochladen der Konfiguration
+ &lt;code&gt;sudo scp /home/thorsten/Downloads/LocalSettings.php thorsten@ahrensburg.city:/var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+== Lesbare URLs konfiguriern in mediawiki ==
+ &lt;code&gt;sudo nano /var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+ &lt;code&gt;$wgScriptPath = "";
+ $wgArticlePath = "/$1";
+ $wgUsePathInfo = true;&lt;/code&gt;
+
+
+== Backup erstellen ==
+ &lt;code&gt;cd /home/thorsten
+ gh repo clone thorstenkloehn/Download
+ sudo chmod 777 -R Download
+ cd /home/thorsten/Download
+ sudo rm /home/thorsten/Download/pagedump.xml
+ sudo rm /home/thorsten/Download/doc.xml
+ ssh thorsten@ahrensburg.city "php /var/www/mediawiki/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/pagedump.xml
+ ssh thorsten@ahrensburg.city "php /var/www/docs/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/doc.xml
+ git add pagedump.xml
+ git add doc.xml
+ git commit -m "Backup"
+ git push&lt;/code&gt;</text>
+      <sha1>lxes7y6macx2qh7sxneypunv7ol4q3o</sha1>
+    </revision>
+    <revision>
+      <id>150</id>
+      <parentid>149</parentid>
+      <timestamp>2026-01-17T01:46:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>150</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1610" sha1="jlsczybyx5lxee7lafdj1lyp3f7xtge" xml:space="preserve">== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten mediawiki
+ psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten
+ 
+ exit&lt;/code&gt;
+
+== PHP installieren ==
+ &lt;code&gt;sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip php-intl -y&lt;/code&gt;
+
+== Mediawiki installieren ==
+ &lt;code&gt;cd /var/www
+ sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawiki/core.git&lt;/nowiki&gt; mediawiki
+ sudo cd mediawiki
+ sudo git tag -l | sort -V
+ sudo git checkout 1.41.0
+ sudo git submodule update --init --recursive
+ sudo chown -R www-data:www-data /var/www/mediawiki
+ sudo chmod -R 755 /var/www/mediawiki&lt;/code&gt;
+ 
+Hochladen der Konfiguration
+ &lt;code&gt;sudo scp /home/thorsten/Downloads/LocalSettings.php thorsten@ahrensburg.city:/var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+== Lesbare URLs konfiguriern in mediawiki ==
+ &lt;code&gt;sudo nano /var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+ &lt;code&gt;$wgScriptPath = "";
+ $wgArticlePath = "/$1";
+ $wgUsePathInfo = true;&lt;/code&gt;
+
+
+== Backup erstellen ==
+ &lt;code&gt;cd /home/thorsten
+ gh repo clone thorstenkloehn/Download
+ sudo chmod 777 -R Download
+ cd /home/thorsten/Download
+ sudo rm /home/thorsten/Download/pagedump.xml
+ sudo rm /home/thorsten/Download/doc.xml
+ ssh thorsten@ahrensburg.city "php /var/www/mediawiki/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/pagedump.xml
+ ssh thorsten@ahrensburg.city "php /var/www/docs/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/doc.xml
+ git add pagedump.xml
+ git add doc.xml
+ git commit -m "Backup"
+ git push&lt;/code&gt;</text>
+      <sha1>jlsczybyx5lxee7lafdj1lyp3f7xtge</sha1>
+    </revision>
+    <revision>
+      <id>151</id>
+      <parentid>150</parentid>
+      <timestamp>2026-01-17T01:49:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>151</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1632" sha1="bc7cx0ht22i1onavdd8wsa9niuu269q" xml:space="preserve">== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten mediawiki
+ psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten
+ 
+ exit&lt;/code&gt;
+
+== PHP installieren ==
+ &lt;code&gt;sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip php-intl -y&lt;/code&gt;
+
+== Mediawiki installieren ==
+ &lt;code&gt;cd /var/www
+ sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawiki/core.git&lt;/nowiki&gt; mediawiki
+ sudo cd mediawiki
+ sudo git tag -l | sort -V
+ sudo git checkout 1.41.0
+ sudo git submodule update --init --recursive
+ sudo chown -R www-data:www-data /var/www/mediawiki
+ sudo chmod -R 755 /var/www/mediawiki&lt;/code&gt;
+ 
+Hochladen der Konfiguration
+ &lt;code&gt;sudo scp /home/thorsten/Downloads/LocalSettings.php thorsten@ahrensburg.city:/var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+== Lesbare URLs konfiguriern in mediawiki ==
+ &lt;code&gt;sudo nano /var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+ &lt;code&gt;$wgScriptPath = "";
+ $wgArticlePath = "/$1";
+ $wgUsePathInfo = true;&lt;/code&gt;
+
+
+== Backup erstellen ==
+ &lt;code&gt;cd /home/thorsten
+ gh repo clone thorstenkloehn/Download
+ sudo chmod 777 -R Download
+ cd /home/thorsten/Download
+ sudo rm /home/thorsten/Download/pagedump.xml
+ sudo rm /home/thorsten/Download/doc.xml
+ ssh thorsten@ahrensburg.city "php /var/www/mediawiki/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/pagedump.xml
+ ssh thorsten@ahrensburg.city "php /var/www/docs/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/doc.xml
+ git add pagedump.xml
+ git add doc.xml
+ git commit -m "Backup"
+ git push&lt;/code&gt;
+
+==Wiederherstellen==</text>
+      <sha1>bc7cx0ht22i1onavdd8wsa9niuu269q</sha1>
+    </revision>
+    <revision>
+      <id>152</id>
+      <parentid>151</parentid>
+      <timestamp>2026-01-17T01:52:13Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Wiederherstellen */</comment>
+      <origin>152</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1883" sha1="qwa2l52b0gv1bxiz1vf7mz08wt6bdaz" xml:space="preserve">== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten mediawiki
+ psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten
+ 
+ exit&lt;/code&gt;
+
+== PHP installieren ==
+ &lt;code&gt;sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip php-intl -y&lt;/code&gt;
+
+== Mediawiki installieren ==
+ &lt;code&gt;cd /var/www
+ sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawiki/core.git&lt;/nowiki&gt; mediawiki
+ sudo cd mediawiki
+ sudo git tag -l | sort -V
+ sudo git checkout 1.41.0
+ sudo git submodule update --init --recursive
+ sudo chown -R www-data:www-data /var/www/mediawiki
+ sudo chmod -R 755 /var/www/mediawiki&lt;/code&gt;
+ 
+Hochladen der Konfiguration
+ &lt;code&gt;sudo scp /home/thorsten/Downloads/LocalSettings.php thorsten@ahrensburg.city:/var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+== Lesbare URLs konfiguriern in mediawiki ==
+ &lt;code&gt;sudo nano /var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+ &lt;code&gt;$wgScriptPath = "";
+ $wgArticlePath = "/$1";
+ $wgUsePathInfo = true;&lt;/code&gt;
+
+
+== Backup erstellen ==
+ &lt;code&gt;cd /home/thorsten
+ gh repo clone thorstenkloehn/Download
+ sudo chmod 777 -R Download
+ cd /home/thorsten/Download
+ sudo rm /home/thorsten/Download/pagedump.xml
+ sudo rm /home/thorsten/Download/doc.xml
+ ssh thorsten@ahrensburg.city "php /var/www/mediawiki/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/pagedump.xml
+ ssh thorsten@ahrensburg.city "php /var/www/docs/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/doc.xml
+ git add pagedump.xml
+ git add doc.xml
+ git commit -m "Backup"
+ git push&lt;/code&gt;
+
+==Wiederherstellen==
+
+
+= MediaWiki-Dump importieren =
+ &lt;code&gt;php /var/www/mediawiki/maintenance/run.php importDump.php &lt; pagedump.xml
+ php /var/www/mediawiki/maintenance/run.php rebuildrecentchanges.php
+ php /var/www/mediawiki/maintenance/run.php initSiteStats.php&lt;/code&gt;</text>
+      <sha1>qwa2l52b0gv1bxiz1vf7mz08wt6bdaz</sha1>
+    </revision>
+    <revision>
+      <id>153</id>
+      <parentid>152</parentid>
+      <timestamp>2026-01-17T01:52:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* MediaWiki-Dump importieren */</comment>
+      <origin>153</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1887" sha1="23bn1pfqt8tkoy4h2pmvn9z7cqbln74" xml:space="preserve">== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten mediawiki
+ psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten
+ 
+ exit&lt;/code&gt;
+
+== PHP installieren ==
+ &lt;code&gt;sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip php-intl -y&lt;/code&gt;
+
+== Mediawiki installieren ==
+ &lt;code&gt;cd /var/www
+ sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawiki/core.git&lt;/nowiki&gt; mediawiki
+ sudo cd mediawiki
+ sudo git tag -l | sort -V
+ sudo git checkout 1.41.0
+ sudo git submodule update --init --recursive
+ sudo chown -R www-data:www-data /var/www/mediawiki
+ sudo chmod -R 755 /var/www/mediawiki&lt;/code&gt;
+ 
+Hochladen der Konfiguration
+ &lt;code&gt;sudo scp /home/thorsten/Downloads/LocalSettings.php thorsten@ahrensburg.city:/var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+== Lesbare URLs konfiguriern in mediawiki ==
+ &lt;code&gt;sudo nano /var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+ &lt;code&gt;$wgScriptPath = "";
+ $wgArticlePath = "/$1";
+ $wgUsePathInfo = true;&lt;/code&gt;
+
+
+== Backup erstellen ==
+ &lt;code&gt;cd /home/thorsten
+ gh repo clone thorstenkloehn/Download
+ sudo chmod 777 -R Download
+ cd /home/thorsten/Download
+ sudo rm /home/thorsten/Download/pagedump.xml
+ sudo rm /home/thorsten/Download/doc.xml
+ ssh thorsten@ahrensburg.city "php /var/www/mediawiki/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/pagedump.xml
+ ssh thorsten@ahrensburg.city "php /var/www/docs/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/doc.xml
+ git add pagedump.xml
+ git add doc.xml
+ git commit -m "Backup"
+ git push&lt;/code&gt;
+
+==Wiederherstellen==
+
+
+=== MediaWiki-Dump importieren ===
+ &lt;code&gt;php /var/www/mediawiki/maintenance/run.php importDump.php &lt; pagedump.xml
+ php /var/www/mediawiki/maintenance/run.php rebuildrecentchanges.php
+ php /var/www/mediawiki/maintenance/run.php initSiteStats.php&lt;/code&gt;</text>
+      <sha1>23bn1pfqt8tkoy4h2pmvn9z7cqbln74</sha1>
+    </revision>
+    <revision>
+      <id>157</id>
+      <parentid>153</parentid>
+      <timestamp>2026-01-17T04:57:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>157</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2415" sha1="op35pp4ygs7yc7cv5j2qeetvy7lzsbr" xml:space="preserve">== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten mediawiki
+ psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten
+ 
+ exit&lt;/code&gt;
+
+== PHP installieren ==
+ &lt;code&gt;sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip php-intl -y&lt;/code&gt;
+
+== Mediawiki installieren ==
+ &lt;code&gt;cd /var/www
+ sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawiki/core.git&lt;/nowiki&gt; mediawiki
+ sudo cd mediawiki
+ sudo git tag -l | sort -V
+ sudo git checkout 1.41.0
+ sudo git submodule update --init --recursive
+ sudo chown -R www-data:www-data /var/www/mediawiki
+ sudo chmod -R 755 /var/www/mediawiki&lt;/code&gt;
+ 
+Hochladen der Konfiguration
+ &lt;code&gt;sudo scp /home/thorsten/Downloads/LocalSettings.php thorsten@ahrensburg.city:/var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+== Lesbare URLs konfiguriern in mediawiki ==
+ &lt;code&gt;sudo nano /var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+ &lt;code&gt;$wgScriptPath = "";
+ $wgArticlePath = "/$1";
+ $wgUsePathInfo = true;&lt;/code&gt;
+
+
+== Backup erstellen ==
+ &lt;code&gt;cd /home/thorsten
+ gh repo clone thorstenkloehn/Download
+ sudo chmod 777 -R Download
+ cd /home/thorsten/Download
+ sudo rm /home/thorsten/Download/pagedump.xml
+ sudo rm /home/thorsten/Download/doc.xml
+ ssh thorsten@ahrensburg.city "php /var/www/mediawiki/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/pagedump.xml
+ ssh thorsten@ahrensburg.city "php /var/www/docs/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/doc.xml
+ git add pagedump.xml
+ git add doc.xml
+ git commit -m "Backup"
+ git push&lt;/code&gt;
+
+==Wiederherstellen==
+
+
+=== MediaWiki-Dump importieren ===
+ &lt;code&gt;php /var/www/mediawiki/maintenance/run.php importDump.php &lt; pagedump.xml
+ php /var/www/mediawiki/maintenance/run.php rebuildrecentchanges.php
+ php /var/www/mediawiki/maintenance/run.php initSiteStats.php&lt;/code&gt;
+
+ ==Entwicklungsumgebung lokal einrichten==
+
+ Erstelle eine Datei /etc/nginx/conf.d/mediawiki.conf mit folgendem Inhalt:
+ &lt;pre&gt;
+ server {
+  listen 80;
+    listen [::]:80;
+    server_name localhost;
+    root /var/www/mediawiki;
+    index index.php index.html index.htm;
+
+ location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\.ht {
+
+           deny all;
+    }
+
+}
+&lt;/pre&gt;</text>
+      <sha1>op35pp4ygs7yc7cv5j2qeetvy7lzsbr</sha1>
+    </revision>
+    <revision>
+      <id>158</id>
+      <parentid>157</parentid>
+      <timestamp>2026-01-17T04:59:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>158</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2422" sha1="sk13y5vwpoafp89mmr5zu3kvl5kwhw1" xml:space="preserve">== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten mediawiki
+ psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten
+ 
+ exit&lt;/code&gt;
+
+== PHP installieren ==
+ &lt;code&gt;sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip php-intl -y&lt;/code&gt;
+
+== Mediawiki installieren ==
+ &lt;code&gt;cd /var/www
+ sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawiki/core.git&lt;/nowiki&gt; mediawiki
+ sudo cd mediawiki
+ sudo git tag -l | sort -V
+ sudo git checkout 1.41.0
+ sudo git submodule update --init --recursive
+ sudo chown -R www-data:www-data /var/www/mediawiki
+ sudo chmod -R 755 /var/www/mediawiki&lt;/code&gt;
+ 
+Hochladen der Konfiguration
+ &lt;code&gt;sudo scp /home/thorsten/Downloads/LocalSettings.php thorsten@ahrensburg.city:/var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+== Lesbare URLs konfiguriern in mediawiki ==
+ &lt;code&gt;sudo nano /var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+ &lt;code&gt;$wgScriptPath = "";
+ $wgArticlePath = "/$1";
+ $wgUsePathInfo = true;&lt;/code&gt;
+
+
+== Backup erstellen ==
+ &lt;code&gt;cd /home/thorsten
+ gh repo clone thorstenkloehn/Download
+ sudo chmod 777 -R Download
+ cd /home/thorsten/Download
+ sudo rm /home/thorsten/Download/pagedump.xml
+ sudo rm /home/thorsten/Download/doc.xml
+ ssh thorsten@ahrensburg.city "php /var/www/mediawiki/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/pagedump.xml
+ ssh thorsten@ahrensburg.city "php /var/www/docs/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/doc.xml
+ git add pagedump.xml
+ git add doc.xml
+ git commit -m "Backup"
+ git push&lt;/code&gt;
+
+==Wiederherstellen==
+
+
+=== MediaWiki-Dump importieren ===
+ &lt;code&gt;php /var/www/mediawiki/maintenance/run.php importDump.php &lt; pagedump.xml
+ php /var/www/mediawiki/maintenance/run.php rebuildrecentchanges.php
+ php /var/www/mediawiki/maintenance/run.php initSiteStats.php&lt;/code&gt;
+&lt;/code&gt;
+ ==Entwicklungsumgebung lokal einrichten==
+
+ Erstelle eine Datei /etc/nginx/conf.d/mediawiki.conf mit folgendem Inhalt:
+ &lt;pre&gt;
+ server {
+  listen 80;
+    listen [::]:80;
+    server_name localhost;
+    root /var/www/mediawiki;
+    index index.php index.html index.htm;
+
+ location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\.ht {
+
+           deny all;
+    }
+
+}
+&lt;/pre&gt;</text>
+      <sha1>sk13y5vwpoafp89mmr5zu3kvl5kwhw1</sha1>
+    </revision>
+    <revision>
+      <id>159</id>
+      <parentid>158</parentid>
+      <timestamp>2026-01-17T04:59:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Wiederherstellen */</comment>
+      <origin>159</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2420" sha1="48tgi1c5zbb9tbpcq4xfwea5p9vvisg" xml:space="preserve">== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten mediawiki
+ psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten
+ 
+ exit&lt;/code&gt;
+
+== PHP installieren ==
+ &lt;code&gt;sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip php-intl -y&lt;/code&gt;
+
+== Mediawiki installieren ==
+ &lt;code&gt;cd /var/www
+ sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawiki/core.git&lt;/nowiki&gt; mediawiki
+ sudo cd mediawiki
+ sudo git tag -l | sort -V
+ sudo git checkout 1.41.0
+ sudo git submodule update --init --recursive
+ sudo chown -R www-data:www-data /var/www/mediawiki
+ sudo chmod -R 755 /var/www/mediawiki&lt;/code&gt;
+ 
+Hochladen der Konfiguration
+ &lt;code&gt;sudo scp /home/thorsten/Downloads/LocalSettings.php thorsten@ahrensburg.city:/var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+== Lesbare URLs konfiguriern in mediawiki ==
+ &lt;code&gt;sudo nano /var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+ &lt;code&gt;$wgScriptPath = "";
+ $wgArticlePath = "/$1";
+ $wgUsePathInfo = true;&lt;/code&gt;
+
+
+== Backup erstellen ==
+ &lt;code&gt;cd /home/thorsten
+ gh repo clone thorstenkloehn/Download
+ sudo chmod 777 -R Download
+ cd /home/thorsten/Download
+ sudo rm /home/thorsten/Download/pagedump.xml
+ sudo rm /home/thorsten/Download/doc.xml
+ ssh thorsten@ahrensburg.city "php /var/www/mediawiki/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/pagedump.xml
+ ssh thorsten@ahrensburg.city "php /var/www/docs/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/doc.xml
+ git add pagedump.xml
+ git add doc.xml
+ git commit -m "Backup"
+ git push&lt;/code&gt;
+
+==Wiederherstellen==
+
+
+=== MediaWiki-Dump importieren ===
+ &lt;pre&gt;php /var/www/mediawiki/maintenance/run.php importDump.php &lt; pagedump.xml
+ php /var/www/mediawiki/maintenance/run.php rebuildrecentchanges.php
+ php /var/www/mediawiki/maintenance/run.php initSiteStats.php&lt;/code&gt;
+&lt;/pre&gt;
+ ==Entwicklungsumgebung lokal einrichten==
+
+ Erstelle eine Datei /etc/nginx/conf.d/mediawiki.conf mit folgendem Inhalt:
+ &lt;pre&gt;
+ server {
+  listen 80;
+    listen [::]:80;
+    server_name localhost;
+    root /var/www/mediawiki;
+    index index.php index.html index.htm;
+
+ location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\.ht {
+
+           deny all;
+    }
+
+}
+&lt;/pre&gt;</text>
+      <sha1>48tgi1c5zbb9tbpcq4xfwea5p9vvisg</sha1>
+    </revision>
+    <revision>
+      <id>160</id>
+      <parentid>159</parentid>
+      <timestamp>2026-01-17T05:00:31Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* MediaWiki-Dump importieren */</comment>
+      <origin>160</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2420" sha1="066wouujdkb0z4nf22sry8a9j2jjycf" xml:space="preserve">== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten mediawiki
+ psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten
+ 
+ exit&lt;/code&gt;
+
+== PHP installieren ==
+ &lt;code&gt;sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip php-intl -y&lt;/code&gt;
+
+== Mediawiki installieren ==
+ &lt;code&gt;cd /var/www
+ sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawiki/core.git&lt;/nowiki&gt; mediawiki
+ sudo cd mediawiki
+ sudo git tag -l | sort -V
+ sudo git checkout 1.41.0
+ sudo git submodule update --init --recursive
+ sudo chown -R www-data:www-data /var/www/mediawiki
+ sudo chmod -R 755 /var/www/mediawiki&lt;/code&gt;
+ 
+Hochladen der Konfiguration
+ &lt;code&gt;sudo scp /home/thorsten/Downloads/LocalSettings.php thorsten@ahrensburg.city:/var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+== Lesbare URLs konfiguriern in mediawiki ==
+ &lt;code&gt;sudo nano /var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+ &lt;code&gt;$wgScriptPath = "";
+ $wgArticlePath = "/$1";
+ $wgUsePathInfo = true;&lt;/code&gt;
+
+
+== Backup erstellen ==
+ &lt;code&gt;cd /home/thorsten
+ gh repo clone thorstenkloehn/Download
+ sudo chmod 777 -R Download
+ cd /home/thorsten/Download
+ sudo rm /home/thorsten/Download/pagedump.xml
+ sudo rm /home/thorsten/Download/doc.xml
+ ssh thorsten@ahrensburg.city "php /var/www/mediawiki/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/pagedump.xml
+ ssh thorsten@ahrensburg.city "php /var/www/docs/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/doc.xml
+ git add pagedump.xml
+ git add doc.xml
+ git commit -m "Backup"
+ git push&lt;/code&gt;
+
+==Wiederherstellen==
+
+
+=== MediaWiki-Dump importieren ===
+&lt;pre&gt;
+php /var/www/mediawiki/maintenance/run.php importDump.php &lt; pagedump.xml
+ php /var/www/mediawiki/maintenance/run.php rebuildrecentchanges.php
+ php /var/www/mediawiki/maintenance/run.php initSiteStats.php&lt;/code&gt;
+&lt;/pre&gt;
+ ==Entwicklungsumgebung lokal einrichten==
+
+ Erstelle eine Datei /etc/nginx/conf.d/mediawiki.conf mit folgendem Inhalt:
+ &lt;pre&gt;
+ server {
+  listen 80;
+    listen [::]:80;
+    server_name localhost;
+    root /var/www/mediawiki;
+    index index.php index.html index.htm;
+
+ location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\.ht {
+
+           deny all;
+    }
+
+}
+&lt;/pre&gt;</text>
+      <sha1>066wouujdkb0z4nf22sry8a9j2jjycf</sha1>
+    </revision>
+    <revision>
+      <id>161</id>
+      <parentid>160</parentid>
+      <timestamp>2026-01-17T05:00:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* MediaWiki-Dump importieren */</comment>
+      <origin>161</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2416" sha1="0fwcf39omrz9d7qj89mu7mm33hvllm8" xml:space="preserve">== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten mediawiki
+ psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten
+ 
+ exit&lt;/code&gt;
+
+== PHP installieren ==
+ &lt;code&gt;sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip php-intl -y&lt;/code&gt;
+
+== Mediawiki installieren ==
+ &lt;code&gt;cd /var/www
+ sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawiki/core.git&lt;/nowiki&gt; mediawiki
+ sudo cd mediawiki
+ sudo git tag -l | sort -V
+ sudo git checkout 1.41.0
+ sudo git submodule update --init --recursive
+ sudo chown -R www-data:www-data /var/www/mediawiki
+ sudo chmod -R 755 /var/www/mediawiki&lt;/code&gt;
+ 
+Hochladen der Konfiguration
+ &lt;code&gt;sudo scp /home/thorsten/Downloads/LocalSettings.php thorsten@ahrensburg.city:/var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+== Lesbare URLs konfiguriern in mediawiki ==
+ &lt;code&gt;sudo nano /var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+ &lt;code&gt;$wgScriptPath = "";
+ $wgArticlePath = "/$1";
+ $wgUsePathInfo = true;&lt;/code&gt;
+
+
+== Backup erstellen ==
+ &lt;code&gt;cd /home/thorsten
+ gh repo clone thorstenkloehn/Download
+ sudo chmod 777 -R Download
+ cd /home/thorsten/Download
+ sudo rm /home/thorsten/Download/pagedump.xml
+ sudo rm /home/thorsten/Download/doc.xml
+ ssh thorsten@ahrensburg.city "php /var/www/mediawiki/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/pagedump.xml
+ ssh thorsten@ahrensburg.city "php /var/www/docs/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/doc.xml
+ git add pagedump.xml
+ git add doc.xml
+ git commit -m "Backup"
+ git push&lt;/code&gt;
+
+==Wiederherstellen==
+
+
+=== MediaWiki-Dump importieren ===
+&lt;pre&gt;
+php /var/www/mediawiki/maintenance/run.php importDump.php &lt; pagedump.xml
+ php /var/www/mediawiki/maintenance/run.php rebuildrecentchanges.php
+ php /var/www/mediawiki/maintenance/run.php initSiteStats.php&lt;/code&gt;
+&lt;/pre&gt;
+ Entwicklungsumgebung lokal einrichten
+
+ Erstelle eine Datei /etc/nginx/conf.d/mediawiki.conf mit folgendem Inhalt:
+ &lt;pre&gt;
+ server {
+  listen 80;
+    listen [::]:80;
+    server_name localhost;
+    root /var/www/mediawiki;
+    index index.php index.html index.htm;
+
+ location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\.ht {
+
+           deny all;
+    }
+
+}
+&lt;/pre&gt;</text>
+      <sha1>0fwcf39omrz9d7qj89mu7mm33hvllm8</sha1>
+    </revision>
+    <revision>
+      <id>162</id>
+      <parentid>161</parentid>
+      <timestamp>2026-01-17T05:02:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* MediaWiki-Dump importieren */</comment>
+      <origin>162</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2419" sha1="rm4gzui9uvsdvy5bdzmr4suta1in7c6" xml:space="preserve">== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten mediawiki
+ psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten
+ 
+ exit&lt;/code&gt;
+
+== PHP installieren ==
+ &lt;code&gt;sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip php-intl -y&lt;/code&gt;
+
+== Mediawiki installieren ==
+ &lt;code&gt;cd /var/www
+ sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawiki/core.git&lt;/nowiki&gt; mediawiki
+ sudo cd mediawiki
+ sudo git tag -l | sort -V
+ sudo git checkout 1.41.0
+ sudo git submodule update --init --recursive
+ sudo chown -R www-data:www-data /var/www/mediawiki
+ sudo chmod -R 755 /var/www/mediawiki&lt;/code&gt;
+ 
+Hochladen der Konfiguration
+ &lt;code&gt;sudo scp /home/thorsten/Downloads/LocalSettings.php thorsten@ahrensburg.city:/var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+== Lesbare URLs konfiguriern in mediawiki ==
+ &lt;code&gt;sudo nano /var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+ &lt;code&gt;$wgScriptPath = "";
+ $wgArticlePath = "/$1";
+ $wgUsePathInfo = true;&lt;/code&gt;
+
+
+== Backup erstellen ==
+ &lt;code&gt;cd /home/thorsten
+ gh repo clone thorstenkloehn/Download
+ sudo chmod 777 -R Download
+ cd /home/thorsten/Download
+ sudo rm /home/thorsten/Download/pagedump.xml
+ sudo rm /home/thorsten/Download/doc.xml
+ ssh thorsten@ahrensburg.city "php /var/www/mediawiki/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/pagedump.xml
+ ssh thorsten@ahrensburg.city "php /var/www/docs/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/doc.xml
+ git add pagedump.xml
+ git add doc.xml
+ git commit -m "Backup"
+ git push&lt;/code&gt;
+
+==Wiederherstellen==
+
+
+=== MediaWiki-Dump importieren ===
+&lt;pre&gt;
+php /var/www/mediawiki/maintenance/run.php importDump.php &lt; pagedump.xml
+ php /var/www/mediawiki/maintenance/run.php rebuildrecentchanges.php
+ php /var/www/mediawiki/maintenance/run.php initSiteStats.php&lt;/code&gt;
+&lt;/pre&gt;
+==Entwicklungsumgebung lokal einrichten==
+
+ Erstelle eine Datei /etc/nginx/conf.d/mediawiki.conf mit folgendem Inhalt:
+ &lt;pre&gt;
+ server {
+  listen 80;
+    listen [::]:80;
+    server_name localhost;
+    root /var/www/mediawiki;
+    index index.php index.html index.htm;
+
+ location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\.ht {
+
+           deny all;
+    }
+
+}
+&lt;/pre&gt;</text>
+      <sha1>rm4gzui9uvsdvy5bdzmr4suta1in7c6</sha1>
+    </revision>
+    <revision>
+      <id>163</id>
+      <parentid>162</parentid>
+      <timestamp>2026-01-17T05:02:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Entwicklungsumgebung lokal einrichten */</comment>
+      <origin>163</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2418" sha1="b8ok8slnyw75odyxt3dcr0pvn5gmkn3" xml:space="preserve">== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten mediawiki
+ psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten
+ 
+ exit&lt;/code&gt;
+
+== PHP installieren ==
+ &lt;code&gt;sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip php-intl -y&lt;/code&gt;
+
+== Mediawiki installieren ==
+ &lt;code&gt;cd /var/www
+ sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawiki/core.git&lt;/nowiki&gt; mediawiki
+ sudo cd mediawiki
+ sudo git tag -l | sort -V
+ sudo git checkout 1.41.0
+ sudo git submodule update --init --recursive
+ sudo chown -R www-data:www-data /var/www/mediawiki
+ sudo chmod -R 755 /var/www/mediawiki&lt;/code&gt;
+ 
+Hochladen der Konfiguration
+ &lt;code&gt;sudo scp /home/thorsten/Downloads/LocalSettings.php thorsten@ahrensburg.city:/var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+== Lesbare URLs konfiguriern in mediawiki ==
+ &lt;code&gt;sudo nano /var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+ &lt;code&gt;$wgScriptPath = "";
+ $wgArticlePath = "/$1";
+ $wgUsePathInfo = true;&lt;/code&gt;
+
+
+== Backup erstellen ==
+ &lt;code&gt;cd /home/thorsten
+ gh repo clone thorstenkloehn/Download
+ sudo chmod 777 -R Download
+ cd /home/thorsten/Download
+ sudo rm /home/thorsten/Download/pagedump.xml
+ sudo rm /home/thorsten/Download/doc.xml
+ ssh thorsten@ahrensburg.city "php /var/www/mediawiki/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/pagedump.xml
+ ssh thorsten@ahrensburg.city "php /var/www/docs/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/doc.xml
+ git add pagedump.xml
+ git add doc.xml
+ git commit -m "Backup"
+ git push&lt;/code&gt;
+
+==Wiederherstellen==
+
+
+=== MediaWiki-Dump importieren ===
+&lt;pre&gt;
+php /var/www/mediawiki/maintenance/run.php importDump.php &lt; pagedump.xml
+ php /var/www/mediawiki/maintenance/run.php rebuildrecentchanges.php
+ php /var/www/mediawiki/maintenance/run.php initSiteStats.php&lt;/code&gt;
+&lt;/pre&gt;
+==Entwicklungsumgebung lokal einrichten==
+
+Erstelle eine Datei /etc/nginx/conf.d/mediawiki.conf mit folgendem Inhalt:
+ &lt;pre&gt;
+ server {
+  listen 80;
+    listen [::]:80;
+    server_name localhost;
+    root /var/www/mediawiki;
+    index index.php index.html index.htm;
+
+ location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\.ht {
+
+           deny all;
+    }
+
+}
+&lt;/pre&gt;</text>
+      <sha1>b8ok8slnyw75odyxt3dcr0pvn5gmkn3</sha1>
+    </revision>
+    <revision>
+      <id>164</id>
+      <parentid>163</parentid>
+      <timestamp>2026-01-17T05:54:17Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* MediaWiki-Dump importieren */</comment>
+      <origin>164</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2412" sha1="k84zg9dvha115v81mpicmb7q1a35sq0" xml:space="preserve">== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten mediawiki
+ psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten
+ 
+ exit&lt;/code&gt;
+
+== PHP installieren ==
+ &lt;code&gt;sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip php-intl -y&lt;/code&gt;
+
+== Mediawiki installieren ==
+ &lt;code&gt;cd /var/www
+ sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawiki/core.git&lt;/nowiki&gt; mediawiki
+ sudo cd mediawiki
+ sudo git tag -l | sort -V
+ sudo git checkout 1.41.0
+ sudo git submodule update --init --recursive
+ sudo chown -R www-data:www-data /var/www/mediawiki
+ sudo chmod -R 755 /var/www/mediawiki&lt;/code&gt;
+ 
+Hochladen der Konfiguration
+ &lt;code&gt;sudo scp /home/thorsten/Downloads/LocalSettings.php thorsten@ahrensburg.city:/var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+== Lesbare URLs konfiguriern in mediawiki ==
+ &lt;code&gt;sudo nano /var/www/mediawiki/LocalSettings.php&lt;/code&gt;
+
+ &lt;code&gt;$wgScriptPath = "";
+ $wgArticlePath = "/$1";
+ $wgUsePathInfo = true;&lt;/code&gt;
+
+
+== Backup erstellen ==
+ &lt;code&gt;cd /home/thorsten
+ gh repo clone thorstenkloehn/Download
+ sudo chmod 777 -R Download
+ cd /home/thorsten/Download
+ sudo rm /home/thorsten/Download/pagedump.xml
+ sudo rm /home/thorsten/Download/doc.xml
+ ssh thorsten@ahrensburg.city "php /var/www/mediawiki/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/pagedump.xml
+ ssh thorsten@ahrensburg.city "php /var/www/docs/maintenance/dumpBackup.php --full" &gt; /home/thorsten/Download/doc.xml
+ git add pagedump.xml
+ git add doc.xml
+ git commit -m "Backup"
+ git push&lt;/code&gt;
+
+==Wiederherstellen==
+
+
+=== MediaWiki-Dump importieren ===
+&lt;pre&gt;
+php /var/www/mediawiki/maintenance/run.php importDump.php &lt; pagedump.xml
+ php /var/www/mediawiki/maintenance/run.php rebuildrecentchanges.php
+ php /var/www/mediawiki/maintenance/run.php initSiteStats.php
+&lt;/pre&gt;
+
+==Entwicklungsumgebung lokal einrichten==
+
+Erstelle eine Datei /etc/nginx/conf.d/mediawiki.conf mit folgendem Inhalt:
+ &lt;pre&gt;
+ server {
+  listen 80;
+    listen [::]:80;
+    server_name localhost;
+    root /var/www/mediawiki;
+    index index.php index.html index.htm;
+
+ location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\.ht {
+
+           deny all;
+    }
+
+}
+&lt;/pre&gt;</text>
+      <sha1>k84zg9dvha115v81mpicmb7q1a35sq0</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Lerntechnik</title>
+    <ns>0</ns>
+    <id>51</id>
+    <revision>
+      <id>166</id>
+      <timestamp>2026-01-17T08:02:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „==Die besten modernen Lernmethoden für das Lernen von Programmiersprachen==  Effektives Programmierenlernen kombiniert praktische Übung, kognitive Strategien und soziale Formate. Die folgenden Ansätze lassen sich flexibel mischen und iterativ anwenden.  ===Praktische Ansätze=== * '''Projektbasiertes Lernen''': Eigene Mini‑Projekte (z.B. To‑Do‑App, CLI‑Tool, kleines Spiel) liefern schnellen Praxisbezug und fördern Transfer. * '''Coding-Challen…“</comment>
+      <origin>166</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2681" sha1="2ro89rslphv3ficylkdg5hw0fca90bu" xml:space="preserve">==Die besten modernen Lernmethoden für das Lernen von Programmiersprachen==
+
+Effektives Programmierenlernen kombiniert praktische Übung, kognitive Strategien und soziale Formate. Die folgenden Ansätze lassen sich flexibel mischen und iterativ anwenden.
+
+===Praktische Ansätze===
+* '''Projektbasiertes Lernen''': Eigene Mini‑Projekte (z.B. To‑Do‑App, CLI‑Tool, kleines Spiel) liefern schnellen Praxisbezug und fördern Transfer.
+* '''Coding-Challenges und Online-Plattformen''': Regelmäßiges Lösen von Aufgaben auf [[LeetCode]], [[HackerRank]] oder [[Codewars]] festigt Syntax und Problemlösungsfähigkeiten.
+* '''Pair Programming''': Abwechselndes „Driver/Navigator“-Arbeiten erhöht Code‑Qualität und Wissenstransfer.
+* '''Katas und Refactoring''': Wiederholtes Lösen kleiner Aufgaben schärft Automatisierung und sauberes Design.
+* '''Open-Source-Beiträge''': Kleine PRs an Einsteigerfreundlichen Repos zeigen reale Standards und Workflows.
+
+===Kognitive Methoden===
+* '''Active Recall (Aktives Erinnern)''': Wissen aktiv abrufen (Kurztests, Karteikarten) statt nur erneut lesen.
+* '''Spaced Repetition (Verteiltes Wiederholen)''': Inhalte in wachsenden Intervallen wiederholen (z.B. mit Anki).
+* '''Interleaving (Vermischtes Lernen)''': Themen und Aufgabentypen mischen, um flexible Kompetenz aufzubauen.
+* '''Feynman-Technik''': Konzepte einfach erklären und Lücken gezielt schließen.
+* '''Deliberate Practice (Bewusstes Üben)''': Eng umrissene Schwächen (z.B. Rekursion, Tests) mit Feedback trainieren.
+* '''Testing-Effekt''': Häufige Selbsttests statt passiver Wiederholung erhöhen Behaltensleistung.
+
+===Soziale und strukturierte Ansätze===
+* '''Peer Learning''': Lernen in Tandems/Gruppe; gegenseitige Reviews, gemeinsame Retrospektiven.
+* '''Micro-Learning''': Kurze, fokussierte Einheiten (15–30 Min.) mit klarem Ziel.
+* '''Gamification''': Badges, Levels, Streaks zur Motivationsstütze.
+* '''Mentoring/Code-Reviews''': Gezieltes Feedback beschleunigt Lernkurven und Qualitätsverständnis.
+
+===Alternative Lernstrategien===
+* '''Top-Down-Lernen''': Vom Ziel/Prototyp ausgehend nur die nötigen Details vertiefen.
+* '''REPL-basiertes Lernen''': Sofortiges Feedback durch REPL/Notebooks (z.B. Python, Node.js, Clojure).
+* '''Learning in Public''': Notizen/Projekte öffentlich dokumentieren (Blog, GitHub), um Feedback zu erhalten.
+
+===Praktische Umsetzung (Kurzleitfaden)===
+# Konkretes Wochenziel definieren (Feature/Kata).
+# Täglich 30–60 Min. Praxis + 10–15 Min. Active Recall/Spaced Repetition.
+# Wöchentlich 1 Code-Review/Pair-Session einplanen.
+# Mini‑Retro durchführen: Was hat funktioniert? Was nächste Woche ändern?</text>
+      <sha1>2ro89rslphv3ficylkdg5hw0fca90bu</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>CMS/Wiki.js</title>
+    <ns>0</ns>
+    <id>52</id>
+    <revision>
+      <id>174</id>
+      <timestamp>2026-01-17T12:07:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>174</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="783" sha1="ppja8p73w8oq9cg1m691zdm5ef8wwuv" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
+
+== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten wikijs
+ psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+ exit&lt;/code&gt;
+
+== Wiki.js Installieren==
+===Herunterladen===
+Lade die neueste Version von Wiki.js von der offiziellen Website herunter:
+mkdir /wikijsdownload
+cd /wikijsdownload
+wget https://github.com/Requarks/wiki/releases/latest/download/wiki-js.tar.gz
+mkdir /wiki
+tar xzf wiki-js.tar.gz -C /wiki
+cd /wiki
+mv config.sample.yml config.yml
+&lt;/code&gt;</text>
+      <sha1>ppja8p73w8oq9cg1m691zdm5ef8wwuv</sha1>
+    </revision>
+    <revision>
+      <id>175</id>
+      <parentid>174</parentid>
+      <timestamp>2026-01-17T12:09:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>175</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="788" sha1="chbp7wvdn40fsewsj5fe7bmzghn5en4" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
+
+== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten wikijs
+ psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+ exit&lt;/code&gt;
+
+== Wiki.js Installieren==
+===Herunterladen===
+Lade die neueste Version von Wiki.js von der offiziellen Website herunter:
+&lt;pre&gt;
+mkdir /wikijsdownload
+cd /wikijsdownload
+wget https://github.com/Requarks/wiki/releases/latest/download/wiki-js.tar.gz
+mkdir /wiki
+tar xzf wiki-js.tar.gz -C /wiki
+cd /wiki
+mv config.sample.yml config.yml
+&lt;/pre&gt;</text>
+      <sha1>chbp7wvdn40fsewsj5fe7bmzghn5en4</sha1>
+    </revision>
+    <revision>
+      <id>176</id>
+      <parentid>175</parentid>
+      <timestamp>2026-01-17T12:48:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>176</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1842" sha1="sjhxpnl04j1wdlay4f4u9jae6dviddk" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
+
+== Postgres Datenbank erstellen ==
+ &lt;code&gt;sudo -u postgres -i
+ createdb -E UTF8 -O thorsten wikijs
+ psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+ exit&lt;/code&gt;
+
+== Wiki.js Installieren==
+===Herunterladen===
+Lade die neueste Version von Wiki.js von der offiziellen Website herunter:
+&lt;pre&gt;
+mkdir /wikijsdownload
+cd /wikijsdownload
+wget https://github.com/Requarks/wiki/releases/latest/download/wiki-js.tar.gz
+mkdir /wiki
+tar xzf wiki-js.tar.gz -C /wiki
+cd /wiki
+mv config.sample.yml config.yml
+nano config.yml
+node server
+&lt;/pre&gt;
+== Als Dienst ausführen ==
+
+Es gibt verschiedene Möglichkeiten, Wiki.js als Hintergrunddienst auszuführen. In dieser Anleitung konzentrieren wir uns auf systemd, da es in nahezu allen Linux-Distributionen verfügbar ist.
+
+=== Systemd Service erstellen ===
+
+Erstelle eine neue Datei mit dem Namen &lt;code&gt;wiki.service&lt;/code&gt; im Verzeichnis &lt;code&gt;/etc/systemd/system&lt;/code&gt;:
+
+&lt;pre&gt;
+sudo nano /etc/systemd/system/wiki.service
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein (passe ggf. die Pfade und den Benutzer an):
+
+&lt;pre&gt;
+[Unit]
+Description=Wiki.js
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/node server
+Restart=always
+# Consider creating a dedicated user for Wiki.js here:
+User=nobody
+Environment=NODE_ENV=production
+WorkingDirectory=/wiki
+
+[Install]
+WantedBy=multi-user.target
+&lt;/pre&gt;
+
+Speichere die Datei und lade systemd neu:
+
+&lt;pre&gt;
+sudo systemctl daemon-reload
+sudo systemctl enable wiki
+sudo systemctl start wiki
+&lt;/pre&gt;
+
+Mit &lt;code&gt;sudo systemctl status wiki&lt;/code&gt; kannst du den Status des Dienstes überprüfen.</text>
+      <sha1>sjhxpnl04j1wdlay4f4u9jae6dviddk</sha1>
+    </revision>
+    <revision>
+      <id>177</id>
+      <parentid>176</parentid>
+      <timestamp>2026-01-17T13:53:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>177</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2626" sha1="tt5ira0ndvshbohhxbc8x7gk7gk7iep" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
+
+== Postgres-Datenbank erstellen ==
+&lt;code&gt;sudo -u postgres -i
+createdb -E UTF8 -O thorsten wikijs
+psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+exit&lt;/code&gt;
+
+== Wiki.js installieren ==
+=== Herunterladen ===
+Lade die neueste Version von Wiki.js von der offiziellen Website herunter:
+&lt;pre&gt;
+sudo apt-get install nodejs  # sonst läuft Wiki.js nicht
+mkdir /wikijsdownload
+cd /wikijsdownload
+wget https://github.com/Requarks/wiki/releases/latest/download/wiki-js.tar.gz
+mkdir /wiki
+tar xzf wiki-js.tar.gz -C /wiki
+cd /wiki
+mv config.sample.yml config.yml
+nano config.yml
+node server
+&lt;/pre&gt;
+
+== Als Dienst ausführen ==
+
+Es gibt verschiedene Möglichkeiten, Wiki.js als Hintergrunddienst auszuführen. In dieser Anleitung konzentrieren wir uns auf systemd, da es in nahezu allen Linux-Distributionen verfügbar ist.
+
+=== Systemd-Service erstellen ===
+
+Erstelle eine neue Datei mit dem Namen &lt;code&gt;wiki.service&lt;/code&gt; im Verzeichnis &lt;code&gt;/etc/systemd/system&lt;/code&gt;:
+
+&lt;pre&gt;
+sudo nano /etc/systemd/system/wiki.service
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein (passe ggf. die Pfade und den Benutzer an):
+
+&lt;pre&gt;
+[Unit]
+Description=Wiki.js
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/node server
+Restart=always
+# Es wird empfohlen, einen eigenen Benutzer für Wiki.js anzulegen:
+User=nobody
+Environment=NODE_ENV=production
+WorkingDirectory=/wiki
+[Install]
+WantedBy=multi-user.target
+&lt;/pre&gt;
+
+Speichere die Datei und lade systemd neu:
+
+&lt;pre&gt;
+sudo systemctl daemon-reload
+sudo systemctl enable wiki
+sudo systemctl start wiki
+&lt;/pre&gt;
+
+Mit &lt;code&gt;sudo systemctl status wiki&lt;/code&gt; kannst du den Status des Dienstes überprüfen.
+
+== Produktionsserver nginx einrichten ==
+&lt;pre&gt;
+nano /etc/nginx/conf.d/wiki.conf
+&lt;/pre&gt;
+
+Gib Folgendes ein 
+
+&lt;pre&gt;
+server {
+listen 443 ssl http2;
+listen [::]:443 ssl http2;
+server_name wiki.ahrensburg.city;
+ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+
+    location / {
+     auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+        proxy_pass http://localhost:3001;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>tt5ira0ndvshbohhxbc8x7gk7gk7iep</sha1>
+    </revision>
+    <revision>
+      <id>178</id>
+      <parentid>177</parentid>
+      <timestamp>2026-01-17T13:54:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>178</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2626" sha1="d3ogv3uv96f5lgf1ppb5rzsts3nowph" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
+
+== Postgres-Datenbank erstellen ==
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten wikijs
+psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+exit
+&lt;/pre&gt;
+
+== Wiki.js installieren ==
+=== Herunterladen ===
+Lade die neueste Version von Wiki.js von der offiziellen Website herunter:
+&lt;pre&gt;
+sudo apt-get install nodejs  # sonst läuft Wiki.js nicht
+mkdir /wikijsdownload
+cd /wikijsdownload
+wget https://github.com/Requarks/wiki/releases/latest/download/wiki-js.tar.gz
+mkdir /wiki
+tar xzf wiki-js.tar.gz -C /wiki
+cd /wiki
+mv config.sample.yml config.yml
+nano config.yml
+node server
+&lt;/pre&gt;
+
+== Als Dienst ausführen ==
+
+Es gibt verschiedene Möglichkeiten, Wiki.js als Hintergrunddienst auszuführen. In dieser Anleitung konzentrieren wir uns auf systemd, da es in nahezu allen Linux-Distributionen verfügbar ist.
+
+=== Systemd-Service erstellen ===
+
+Erstelle eine neue Datei mit dem Namen &lt;code&gt;wiki.service&lt;/code&gt; im Verzeichnis &lt;code&gt;/etc/systemd/system&lt;/code&gt;:
+
+&lt;pre&gt;
+sudo nano /etc/systemd/system/wiki.service
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein (passe ggf. die Pfade und den Benutzer an):
+
+&lt;pre&gt;
+[Unit]
+Description=Wiki.js
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/node server
+Restart=always
+# Es wird empfohlen, einen eigenen Benutzer für Wiki.js anzulegen:
+User=nobody
+Environment=NODE_ENV=production
+WorkingDirectory=/wiki
+[Install]
+WantedBy=multi-user.target
+&lt;/pre&gt;
+
+Speichere die Datei und lade systemd neu:
+
+&lt;pre&gt;
+sudo systemctl daemon-reload
+sudo systemctl enable wiki
+sudo systemctl start wiki
+&lt;/pre&gt;
+
+Mit &lt;code&gt;sudo systemctl status wiki&lt;/code&gt; kannst du den Status des Dienstes überprüfen.
+
+== Produktionsserver nginx einrichten ==
+&lt;pre&gt;
+nano /etc/nginx/conf.d/wiki.conf
+&lt;/pre&gt;
+
+Gib Folgendes ein 
+
+&lt;pre&gt;
+server {
+listen 443 ssl http2;
+listen [::]:443 ssl http2;
+server_name wiki.ahrensburg.city;
+ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+
+    location / {
+     auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+        proxy_pass http://localhost:3001;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>d3ogv3uv96f5lgf1ppb5rzsts3nowph</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse/Asp net core mvc/wiki</title>
+    <ns>0</ns>
+    <id>53</id>
+    <revision>
+      <id>185</id>
+      <timestamp>2026-01-17T18:06:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>185</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1725" sha1="lf0xpp9rajhs8dyxtavyfertm1kj3fd" xml:space="preserve">= Lernpfad und Roadmap: Eigenes Wiki-System mit ASP.NET Core MVC =
+
+== Einleitung ==
+In diesem Lernpfad erfährst du, wie du mit ASP.NET Core MVC ein eigenes Wiki-System entwickelst, ähnlich wie XWiki oder MediaWiki.
+
+== 1. [[Kurse/Asp net core mvc/wiki/Grundlagen von ASP.NET Core MVC|Grundlagen von ASP.NET Core MVC]] ==
+* Einführung in ASP.NET Core und MVC-Architektur
+* Einrichtung der Entwicklungsumgebung (Visual Studio, .NET SDK)
+* Erstellen eines neuen ASP.NET Core MVC-Projekts
+
+== 2. Datenmodellierung ==
+* Entwurf der Datenbankstruktur (z.B. Seiten, Versionen, Benutzer)
+* Verwendung von Entity Framework Core für ORM
+* Migrationen und Datenbankinitialisierung
+
+== 3. Benutzerverwaltung ==
+* Registrierung und Login mit ASP.NET Identity
+* Rollen und Berechtigungen (z.B. Bearbeiten, Löschen, Admin)
+
+== 4. Wiki-Seiten-Funktionalität ==
+* CRUD-Operationen für Wiki-Seiten (Erstellen, Lesen, Bearbeiten, Löschen)
+* Versionierung von Seiten (Änderungshistorie)
+* WYSIWYG-Editor oder Markdown-Unterstützung
+
+== 5. Navigation und Suche ==
+* Inhaltsverzeichnis und Seitenhierarchie
+* Suchfunktion für Wiki-Seiten
+
+== 6. Zusätzliche Features ==
+* Dateiuploads (z.B. Bilder, Dokumente)
+* Kommentare und Diskussionen
+* Benachrichtigungen bei Änderungen
+
+== 7. Sicherheit und Bereitstellung ==
+* Authentifizierung und Autorisierung absichern
+* Deployment auf einen Webserver oder in die Cloud
+
+== 8. Inspiration durch XWiki und MediaWiki ==
+* Analyse von Features dieser Systeme
+* Übernahme und Anpassung nützlicher Funktionen
+
+== Ressourcen ==
+
+== Nächste Schritte ==
+Beginne mit den Grundlagen und arbeite dich Schritt für Schritt durch die Roadmap. Viel Erfolg beim Entwickeln deines eigenen Wiki-Systems!</text>
+      <sha1>lf0xpp9rajhs8dyxtavyfertm1kj3fd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kurse/Asp net core mvc/wiki/Grundlagen von ASP.NET Core MVC</title>
+    <ns>0</ns>
+    <id>54</id>
+    <revision>
+      <id>186</id>
+      <timestamp>2026-01-17T18:54:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>186</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2735" sha1="or5jtb950h62g16z7b4lrur1lmcuogm" xml:space="preserve">==Einführung in ASP.NET Core und MVC-Architektur==
+
+'''ASP.NET Core MVC''' ist ein modernes, plattformübergreifendes Web-Framework von Microsoft, das auf dem Model-View-Controller (MVC)-Architekturprinzip basiert. Es ermöglicht die Entwicklung dynamischer Webanwendungen und APIs mit einer klaren Trennung von Datenmodell, Benutzeroberfläche und Steuerungslogik. ASP.NET Core MVC ist Teil von ASP.NET Core und bietet Vorteile wie hohe Performance, Modularität, Testbarkeit und Unterstützung für Dependency Injection.
+
+==Model-View-Controller (MVC)==
+Das '''Model-View-Controller (MVC)'''-Muster ist ein Architekturprinzip, das die Anwendung in drei Hauptkomponenten unterteilt:
+
+* '''Model''': Repräsentiert die Daten und die Geschäftslogik der Anwendung. Es verwaltet den Zustand, verarbeitet Daten und führt Berechnungen oder Validierungen durch. Das Model ist unabhängig von der Benutzeroberfläche und stellt Methoden bereit, um Daten zu lesen oder zu ändern.
+* '''View''': Stellt die Benutzeroberfläche dar und zeigt die vom Model bereitgestellten Daten an. Die View ist für die Darstellung und das Layout verantwortlich, enthält aber keine Logik zur Verarbeitung von Benutzereingaben oder zur Datenmanipulation.
+* '''Controller''': Verarbeitet Benutzereingaben, steuert den Ablauf der Anwendung und vermittelt zwischen Model und View. Der Controller nimmt Anfragen entgegen, ruft die entsprechenden Methoden im Model auf und entscheidet, welche View angezeigt werden soll.
+* '''Services''': In ASP.NET Core MVC werden häufig zusätzliche Services verwendet, um wiederverwendbare Funktionen wie Datenzugriff, Authentifizierung oder Logging bereitzustellen. Diese Services werden über Dependency Injection in Controller oder andere Komponenten eingebunden.
+
+==Einrichtung der Entwicklungsumgebung (Visual Studio Code, .NET SDK)==
+===Visual Studio Code===
+====Ubuntu Rechner====
+&lt;pre&gt;
+sudo snap install code --classic
+&lt;/pre&gt;
+===Dotnet Core===
+====Ubuntu Rechner====
+&lt;pre&gt;
+sudo apt-get update # Aktualisiert die Paketliste
+sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+dotnet tool install --global dotnet-ef
+dotnet tool install --global dotnet-aspnet-codegenerator
+dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+source ~/.bashrc  # Aktualisierung der .bashrc
+code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung
+&lt;/pre&gt;
+===Datenbank Einrichten===
+====Ubuntu Rechner====
+==Erstellen eines neuen ASP.NET Core MVC-Projekts==</text>
+      <sha1>or5jtb950h62g16z7b4lrur1lmcuogm</sha1>
+    </revision>
+    <revision>
+      <id>187</id>
+      <parentid>186</parentid>
+      <timestamp>2026-01-17T19:35:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>187</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2868" sha1="243m12il1v7qo5wdhfk9lam1ldyfaxr" xml:space="preserve">==Einführung in ASP.NET Core und MVC-Architektur==
+
+'''ASP.NET Core MVC''' ist ein modernes, plattformübergreifendes Web-Framework von Microsoft, das auf dem Model-View-Controller (MVC)-Architekturprinzip basiert. Es ermöglicht die Entwicklung dynamischer Webanwendungen und APIs mit einer klaren Trennung von Datenmodell, Benutzeroberfläche und Steuerungslogik. ASP.NET Core MVC ist Teil von ASP.NET Core und bietet Vorteile wie hohe Performance, Modularität, Testbarkeit und Unterstützung für Dependency Injection.
+
+==Model-View-Controller (MVC)==
+Das '''Model-View-Controller (MVC)'''-Muster ist ein Architekturprinzip, das die Anwendung in drei Hauptkomponenten unterteilt:
+
+* '''Model''': Repräsentiert die Daten und die Geschäftslogik der Anwendung. Es verwaltet den Zustand, verarbeitet Daten und führt Berechnungen oder Validierungen durch. Das Model ist unabhängig von der Benutzeroberfläche und stellt Methoden bereit, um Daten zu lesen oder zu ändern.
+* '''View''': Stellt die Benutzeroberfläche dar und zeigt die vom Model bereitgestellten Daten an. Die View ist für die Darstellung und das Layout verantwortlich, enthält aber keine Logik zur Verarbeitung von Benutzereingaben oder zur Datenmanipulation.
+* '''Controller''': Verarbeitet Benutzereingaben, steuert den Ablauf der Anwendung und vermittelt zwischen Model und View. Der Controller nimmt Anfragen entgegen, ruft die entsprechenden Methoden im Model auf und entscheidet, welche View angezeigt werden soll.
+* '''Services''': In ASP.NET Core MVC werden häufig zusätzliche Services verwendet, um wiederverwendbare Funktionen wie Datenzugriff, Authentifizierung oder Logging bereitzustellen. Diese Services werden über Dependency Injection in Controller oder andere Komponenten eingebunden.
+
+==Einrichtung der Entwicklungsumgebung (Visual Studio Code, .NET SDK)==
+===Visual Studio Code===
+====Ubuntu Rechner====
+&lt;pre&gt;
+sudo snap install code --classic
+&lt;/pre&gt;
+===Dotnet Core===
+====Ubuntu Rechner====
+&lt;pre&gt;
+sudo apt-get update # Aktualisiert die Paketliste
+sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+dotnet tool install --global dotnet-ef
+dotnet tool install --global dotnet-aspnet-codegenerator
+dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+source ~/.bashrc  # Aktualisierung der .bashrc
+code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung
+&lt;/pre&gt;
+===Datenbank Einrichten===
+====Ubuntu Rechner====
+==Erstellen eines neuen ASP.NET Core MVC-Projekts==
+&lt;pre&gt;
+dotnet new -mvc -auth idenvi -o start
+&lt;/pre&gt;
+
+dotnet new mvc --auth Individual -o Erstes-Wiki
+cd Erstes-Wiki
+docfx init
+&lt;/pre&gt;</text>
+      <sha1>243m12il1v7qo5wdhfk9lam1ldyfaxr</sha1>
+    </revision>
+    <revision>
+      <id>188</id>
+      <parentid>187</parentid>
+      <timestamp>2026-01-17T19:36:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>188</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2824" sha1="84bzbiu5h31r8f3jm8m41f3y1msf5rt" xml:space="preserve">==Einführung in ASP.NET Core und MVC-Architektur==
+
+'''ASP.NET Core MVC''' ist ein modernes, plattformübergreifendes Web-Framework von Microsoft, das auf dem Model-View-Controller (MVC)-Architekturprinzip basiert. Es ermöglicht die Entwicklung dynamischer Webanwendungen und APIs mit einer klaren Trennung von Datenmodell, Benutzeroberfläche und Steuerungslogik. ASP.NET Core MVC ist Teil von ASP.NET Core und bietet Vorteile wie hohe Performance, Modularität, Testbarkeit und Unterstützung für Dependency Injection.
+
+==Model-View-Controller (MVC)==
+Das '''Model-View-Controller (MVC)'''-Muster ist ein Architekturprinzip, das die Anwendung in drei Hauptkomponenten unterteilt:
+
+* '''Model''': Repräsentiert die Daten und die Geschäftslogik der Anwendung. Es verwaltet den Zustand, verarbeitet Daten und führt Berechnungen oder Validierungen durch. Das Model ist unabhängig von der Benutzeroberfläche und stellt Methoden bereit, um Daten zu lesen oder zu ändern.
+* '''View''': Stellt die Benutzeroberfläche dar und zeigt die vom Model bereitgestellten Daten an. Die View ist für die Darstellung und das Layout verantwortlich, enthält aber keine Logik zur Verarbeitung von Benutzereingaben oder zur Datenmanipulation.
+* '''Controller''': Verarbeitet Benutzereingaben, steuert den Ablauf der Anwendung und vermittelt zwischen Model und View. Der Controller nimmt Anfragen entgegen, ruft die entsprechenden Methoden im Model auf und entscheidet, welche View angezeigt werden soll.
+* '''Services''': In ASP.NET Core MVC werden häufig zusätzliche Services verwendet, um wiederverwendbare Funktionen wie Datenzugriff, Authentifizierung oder Logging bereitzustellen. Diese Services werden über Dependency Injection in Controller oder andere Komponenten eingebunden.
+
+==Einrichtung der Entwicklungsumgebung (Visual Studio Code, .NET SDK)==
+===Visual Studio Code===
+====Ubuntu Rechner====
+&lt;pre&gt;
+sudo snap install code --classic
+&lt;/pre&gt;
+===Dotnet Core===
+====Ubuntu Rechner====
+&lt;pre&gt;
+sudo apt-get update # Aktualisiert die Paketliste
+sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+dotnet tool install --global dotnet-ef
+dotnet tool install --global dotnet-aspnet-codegenerator
+dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+source ~/.bashrc  # Aktualisierung der .bashrc
+code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung
+&lt;/pre&gt;
+===Datenbank Einrichten===
+====Ubuntu Rechner====
+==Erstellen eines neuen ASP.NET Core MVC-Projekts==
+&lt;pre&gt;
+
+
+dotnet new mvc --auth Individual -o Erstes-Wiki
+cd Erstes-Wiki
+docfx init
+&lt;/pre&gt;</text>
+      <sha1>84bzbiu5h31r8f3jm8m41f3y1msf5rt</sha1>
+    </revision>
+    <revision>
+      <id>189</id>
+      <parentid>188</parentid>
+      <timestamp>2026-01-17T19:51:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>189</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2852" sha1="2pz13ldodeika8z9rj6e29fz4nzp2ds" xml:space="preserve">==Einführung in ASP.NET Core und MVC-Architektur==
+
+'''ASP.NET Core MVC''' ist ein modernes, plattformübergreifendes Web-Framework von Microsoft, das auf dem Model-View-Controller (MVC)-Architekturprinzip basiert. Es ermöglicht die Entwicklung dynamischer Webanwendungen und APIs mit einer klaren Trennung von Datenmodell, Benutzeroberfläche und Steuerungslogik. ASP.NET Core MVC ist Teil von ASP.NET Core und bietet Vorteile wie hohe Performance, Modularität, Testbarkeit und Unterstützung für Dependency Injection.
+
+==Model-View-Controller (MVC)==
+Das '''Model-View-Controller (MVC)'''-Muster ist ein Architekturprinzip, das die Anwendung in drei Hauptkomponenten unterteilt:
+
+* '''Model''': Repräsentiert die Daten und die Geschäftslogik der Anwendung. Es verwaltet den Zustand, verarbeitet Daten und führt Berechnungen oder Validierungen durch. Das Model ist unabhängig von der Benutzeroberfläche und stellt Methoden bereit, um Daten zu lesen oder zu ändern.
+* '''View''': Stellt die Benutzeroberfläche dar und zeigt die vom Model bereitgestellten Daten an. Die View ist für die Darstellung und das Layout verantwortlich, enthält aber keine Logik zur Verarbeitung von Benutzereingaben oder zur Datenmanipulation.
+* '''Controller''': Verarbeitet Benutzereingaben, steuert den Ablauf der Anwendung und vermittelt zwischen Model und View. Der Controller nimmt Anfragen entgegen, ruft die entsprechenden Methoden im Model auf und entscheidet, welche View angezeigt werden soll.
+* '''Services''': In ASP.NET Core MVC werden häufig zusätzliche Services verwendet, um wiederverwendbare Funktionen wie Datenzugriff, Authentifizierung oder Logging bereitzustellen. Diese Services werden über Dependency Injection in Controller oder andere Komponenten eingebunden.
+
+==Einrichtung der Entwicklungsumgebung (Visual Studio Code, .NET SDK)==
+===Visual Studio Code===
+====Ubuntu Rechner====
+&lt;pre&gt;
+sudo snap install code --classic
+&lt;/pre&gt;
+===Dotnet Core===
+====Ubuntu Rechner====
+&lt;pre&gt;
+sudo apt-get update # Aktualisiert die Paketliste
+sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+dotnet tool install --global dotnet-ef
+dotnet tool install --global dotnet-aspnet-codegenerator
+dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+source ~/.bashrc  # Aktualisierung der .bashrc
+code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung
+dotnet tool update -g docfx
+&lt;/pre&gt;
+===Datenbank Einrichten===
+====Ubuntu Rechner====
+==Erstellen eines neuen ASP.NET Core MVC-Projekts==
+&lt;pre&gt;
+
+
+dotnet new mvc --auth Individual -o Erstes-Wiki
+cd Erstes-Wiki
+docfx init
+&lt;/pre&gt;</text>
+      <sha1>2pz13ldodeika8z9rj6e29fz4nzp2ds</sha1>
     </revision>
   </page>
 </mediawiki>
