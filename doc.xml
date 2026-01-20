@@ -1,8 +1,8 @@
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="de">
   <siteinfo>
     <sitename>ahrensburg.city</sitename>
-    <dbname>doc</dbname>
-    <base>https://doc.ahrensburg.city/Hauptseite</base>
+    <dbname>docs</dbname>
+    <base>https://docs.ahrensburg.city/Hauptseite</base>
     <generator>MediaWiki 1.45.1</generator>
     <case>first-letter</case>
     <namespaces>
@@ -32,7 +32,7 @@
     <id>1</id>
     <revision>
       <id>1</id>
-      <timestamp>2026-01-06T22:14:20Z</timestamp>
+      <timestamp>2026-01-18T18:19:43Z</timestamp>
       <contributor>
         <username>MediaWiki default</username>
         <id>1</id>
@@ -55,28 +55,51 @@ Hilfe zur Verwendung und Konfiguration der Wiki-Software {{#FORMAL:findest du|fi
     </revision>
     <revision>
       <id>2</id>
-      <parentid>1</parentid>
+      <timestamp>2026-01-06T22:14:20Z</timestamp>
+      <contributor>
+        <username>MediaWiki default</username>
+        <id>1</id>
+      </contributor>
+      <origin>2</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="977" sha1="5g1j0w75zo6wmoxydzpbbfjn5ifd5c8" xml:space="preserve">&lt;strong&gt;MediaWiki wurde installiert.&lt;/strong&gt;
+
+Hilfe zur Verwendung und Konfiguration der Wiki-Software {{#FORMAL:findest du|finden Sie}} im [https://www.mediawiki.org/wiki/Special:MyLanguage/Help:Contents Benutzerhandbuch].
+
+== Starthilfen ==
+
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Liste der Konfigurationsparameter]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ Häufige Fragen zu MediaWiki]
+* [https://lists.wikimedia.org/postorius/lists/mediawiki-announce.lists.wikimedia.org/ Mailingliste zu neuen Versionen von MediaWiki]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources {{#FORMAL:Übersetze|Übersetzen Sie}} MediaWiki {{#FORMAL:für deine|in Ihre}} Sprache]
+* [https://www.mediawiki.org/wiki/Special:MyLanguage/Manual:Combating_spam {{#FORMAL:Erfahre|Erfahren Sie}}, wie {{#FORMAL:du|Sie}} Spam auf {{#FORMAL:deinem|ihrem}} Wiki bekämpfen {{#FORMAL:kannst|können}}]</text>
+      <sha1>5g1j0w75zo6wmoxydzpbbfjn5ifd5c8</sha1>
+    </revision>
+    <revision>
+      <id>3</id>
+      <parentid>2</parentid>
       <timestamp>2026-01-06T22:39:43Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Der Seiteninhalt wurde durch einen anderen Text ersetzt: „*[[AI]]“</comment>
-      <origin>2</origin>
+      <origin>3</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="7" sha1="lku082a2kzad5u9o1nozehclrol9f3h" xml:space="preserve">*[[AI]]</text>
       <sha1>lku082a2kzad5u9o1nozehclrol9f3h</sha1>
     </revision>
     <revision>
-      <id>10</id>
-      <parentid>2</parentid>
+      <id>4</id>
+      <parentid>3</parentid>
       <timestamp>2026-01-06T22:57:55Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>10</origin>
+      <origin>4</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="15" sha1="2lz10heakcki3zbs3jid05i88co7b4p" xml:space="preserve">*[[AI]]
@@ -84,14 +107,14 @@ Hilfe zur Verwendung und Konfiguration der Wiki-Software {{#FORMAL:findest du|fi
       <sha1>2lz10heakcki3zbs3jid05i88co7b4p</sha1>
     </revision>
     <revision>
-      <id>11</id>
-      <parentid>10</parentid>
+      <id>5</id>
+      <parentid>4</parentid>
       <timestamp>2026-01-06T22:59:12Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>11</origin>
+      <origin>5</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="16" sha1="4wnlhddiu43ekzkv8ynmmkwr9nhp2ul" xml:space="preserve">*[[AI]]
@@ -99,14 +122,14 @@ Hilfe zur Verwendung und Konfiguration der Wiki-Software {{#FORMAL:findest du|fi
       <sha1>4wnlhddiu43ekzkv8ynmmkwr9nhp2ul</sha1>
     </revision>
     <revision>
-      <id>13</id>
-      <parentid>11</parentid>
+      <id>6</id>
+      <parentid>5</parentid>
       <timestamp>2026-01-06T23:43:38Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>13</origin>
+      <origin>6</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="36" sha1="hfzsbooq4uxkgvakfuyefzm7p5yg6b4" xml:space="preserve">*[[AI]]
@@ -115,14 +138,14 @@ Hilfe zur Verwendung und Konfiguration der Wiki-Software {{#FORMAL:findest du|fi
       <sha1>hfzsbooq4uxkgvakfuyefzm7p5yg6b4</sha1>
     </revision>
     <revision>
-      <id>18</id>
-      <parentid>13</parentid>
+      <id>7</id>
+      <parentid>6</parentid>
       <timestamp>2026-01-07T00:01:43Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>18</origin>
+      <origin>7</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="48" sha1="hnoyki9f5m0bh1v5y32lfbuq7v9pi53" xml:space="preserve">*[[AI]]
@@ -132,14 +155,14 @@ Hilfe zur Verwendung und Konfiguration der Wiki-Software {{#FORMAL:findest du|fi
       <sha1>hnoyki9f5m0bh1v5y32lfbuq7v9pi53</sha1>
     </revision>
     <revision>
-      <id>35</id>
-      <parentid>18</parentid>
+      <id>8</id>
+      <parentid>7</parentid>
       <timestamp>2026-01-07T00:40:21Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>35</origin>
+      <origin>8</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="66" sha1="ln52rd3nrnl1twyjszf5bqdv6y4kfw6" xml:space="preserve">*[[AI]]
@@ -150,14 +173,14 @@ Hilfe zur Verwendung und Konfiguration der Wiki-Software {{#FORMAL:findest du|fi
       <sha1>ln52rd3nrnl1twyjszf5bqdv6y4kfw6</sha1>
     </revision>
     <revision>
-      <id>56</id>
-      <parentid>35</parentid>
+      <id>9</id>
+      <parentid>8</parentid>
       <timestamp>2026-01-08T23:45:29Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>56</origin>
+      <origin>9</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="84" sha1="0cfc6y6qtubuem1ocovltjrhbwfto7o" xml:space="preserve">*[[AI]]
@@ -169,15 +192,15 @@ Hilfe zur Verwendung und Konfiguration der Wiki-Software {{#FORMAL:findest du|fi
       <sha1>0cfc6y6qtubuem1ocovltjrhbwfto7o</sha1>
     </revision>
     <revision>
-      <id>58</id>
-      <parentid>56</parentid>
+      <id>10</id>
+      <parentid>9</parentid>
       <timestamp>2026-01-09T01:32:17Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>58</origin>
+      <origin>10</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="234" sha1="hzsj7agkxh8vg8t8j001yp6rkgi7td6" xml:space="preserve">==Willkommen auf meiner Hauptseite==
@@ -193,15 +216,15 @@ Ihr findet alle Informationen zu meinen Projekten über Drupal, Typo3, MediaWiki
       <sha1>hzsj7agkxh8vg8t8j001yp6rkgi7td6</sha1>
     </revision>
     <revision>
-      <id>59</id>
-      <parentid>58</parentid>
+      <id>11</id>
+      <parentid>10</parentid>
       <timestamp>2026-01-09T02:49:26Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>59</origin>
+      <origin>11</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="246" sha1="g0xbdwjlaxyf43zn067va0vxvpf7k7j" xml:space="preserve">==Willkommen auf meiner Hauptseite==
@@ -218,14 +241,14 @@ Ihr findet alle Informationen zu meinen Projekten über Drupal, Typo3, MediaWiki
       <sha1>g0xbdwjlaxyf43zn067va0vxvpf7k7j</sha1>
     </revision>
     <revision>
-      <id>62</id>
-      <parentid>59</parentid>
+      <id>12</id>
+      <parentid>11</parentid>
       <timestamp>2026-01-09T10:00:36Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>62</origin>
+      <origin>12</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="255" sha1="0t2gpu0bqtfxwigypc08ecox09nrf8k" xml:space="preserve">==Willkommen auf meiner Hauptseite==
@@ -243,15 +266,15 @@ Ihr findet alle Informationen zu meinen Projekten über Drupal, Typo3, MediaWiki
       <sha1>0t2gpu0bqtfxwigypc08ecox09nrf8k</sha1>
     </revision>
     <revision>
-      <id>70</id>
-      <parentid>62</parentid>
+      <id>13</id>
+      <parentid>12</parentid>
       <timestamp>2026-01-10T00:19:47Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>70</origin>
+      <origin>13</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="942" sha1="lb58906taf2zdsbxbcrlhpyh2ibkxzc" xml:space="preserve">== Willkommen auf meiner Wissensdatenbank ==
@@ -278,15 +301,15 @@ Herzlich willkommen! Diese Seite dient als zentrale Anlaufstelle für Dokumentat
       <sha1>lb58906taf2zdsbxbcrlhpyh2ibkxzc</sha1>
     </revision>
     <revision>
-      <id>126</id>
-      <parentid>70</parentid>
+      <id>14</id>
+      <parentid>13</parentid>
       <timestamp>2026-01-14T18:39:20Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>126</origin>
+      <origin>14</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1034" sha1="jgja06cl5s6nux1la5exatdulqqo8ln" xml:space="preserve">== Willkommen auf meiner Wissensdatenbank ==
@@ -315,15 +338,15 @@ Herzlich willkommen! Diese Seite dient als zentrale Anlaufstelle für Dokumentat
       <sha1>jgja06cl5s6nux1la5exatdulqqo8ln</sha1>
     </revision>
     <revision>
-      <id>127</id>
-      <parentid>126</parentid>
+      <id>15</id>
+      <parentid>14</parentid>
       <timestamp>2026-01-14T18:41:36Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* Willkommen auf meiner Wissensdatenbank */</comment>
-      <origin>127</origin>
+      <origin>15</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1033" sha1="oqjm7hx5f5huixiwym33kp100dn8jsx" xml:space="preserve">== Willkommen auf meiner Wissensdatenbank ==
@@ -352,15 +375,15 @@ Herzlich willkommen! Diese Seite dient als zentrale Anlaufstelle für Dokumentat
       <sha1>oqjm7hx5f5huixiwym33kp100dn8jsx</sha1>
     </revision>
     <revision>
-      <id>128</id>
-      <parentid>127</parentid>
+      <id>16</id>
+      <parentid>15</parentid>
       <timestamp>2026-01-14T18:41:50Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* Willkommen auf meiner Wissensdatenbank */</comment>
-      <origin>128</origin>
+      <origin>16</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1033" sha1="f5vesq4hwc8uiz98cfnym366vjkyrex" xml:space="preserve">== Willkommen auf meiner Wissensdatenbank ==
@@ -389,14 +412,14 @@ Herzlich willkommen! Diese Seite dient als zentrale Anlaufstelle für Dokumentat
       <sha1>f5vesq4hwc8uiz98cfnym366vjkyrex</sha1>
     </revision>
     <revision>
-      <id>129</id>
-      <parentid>128</parentid>
+      <id>17</id>
+      <parentid>16</parentid>
       <timestamp>2026-01-14T18:44:34Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>129</origin>
+      <origin>17</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1047" sha1="qo0nk2afdnarv55t6z1cjwdvo7i05o5" xml:space="preserve">== Willkommen auf meiner Wissensdatenbank ==
@@ -426,14 +449,14 @@ Webframework]] — Frameworks und Web-Technologien
       <sha1>qo0nk2afdnarv55t6z1cjwdvo7i05o5</sha1>
     </revision>
     <revision>
-      <id>130</id>
-      <parentid>129</parentid>
+      <id>18</id>
+      <parentid>17</parentid>
       <timestamp>2026-01-14T18:44:54Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>130</origin>
+      <origin>18</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1046" sha1="2h491fzpgsnhh7egu9m45uxiy9p23mc" xml:space="preserve">== Willkommen auf meiner Wissensdatenbank ==
@@ -463,14 +486,51 @@ Webframework]] — Frameworks und Web-Technologien
       <sha1>2h491fzpgsnhh7egu9m45uxiy9p23mc</sha1>
     </revision>
     <revision>
-      <id>165</id>
-      <parentid>130</parentid>
+      <id>19</id>
+      <parentid>18</parentid>
       <timestamp>2026-01-17T07:16:17Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>165</origin>
+      <origin>19</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1064" sha1="jr2mvwe3b1dnpsbhv8wskcpr26yzg69" xml:space="preserve">== Willkommen auf meiner Wissensdatenbank ==
+
+Herzlich willkommen! Diese Seite dient als zentrale Anlaufstelle für Dokumentationen und Informationen zu meinen Projekten. Hier finden sich Details zu Implementierungen mit **Drupal**, **Typo3**, **MediaWiki** sowie meiner lokalen **XWiki**-Instanz.
+
+=== Themenübersicht ===
+
+==== Content Management &amp; Web ====
+* [[CMS]] — Übersicht der Content-Management-Systeme
+* [[Webframework|
+Webframework]] — Frameworks und Web-Technologien
+
+==== Entwicklung &amp; KI-Integration ====
+* [[AI]] — Grundlagen und Projekte im Bereich Künstliche Intelligenz
+* [[KI-IDE]] — KI-gestützte Entwicklungsumgebungen
+* [[IDE]] — Konfiguration und Nutzung von Entwicklungsumgebungen
+
+==== Infrastruktur &amp; Sicherheit ====
+* [[Server]] — Serverkonfiguration und Administration
+* [[Schwachstellen]] — Sicherheitsanalysen und Best Practices
+* [[DNS|DNS Domaine Verwalten]] — Artikel zur Verwaltung von DNS-Domains
+
+==== Sonstiges ====
+* [[Weitere Tools]] — Nützliche Werkzeuge und Hilfsmittel
+* [[Postfix]] - [[Lerntechnik]]</text>
+      <sha1>jr2mvwe3b1dnpsbhv8wskcpr26yzg69</sha1>
+    </revision>
+    <revision>
+      <id>195</id>
+      <parentid>1</parentid>
+      <timestamp>2026-01-18T18:31:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>195</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1064" sha1="jr2mvwe3b1dnpsbhv8wskcpr26yzg69" xml:space="preserve">== Willkommen auf meiner Wissensdatenbank ==
@@ -505,14 +565,14 @@ Webframework]] — Frameworks und Web-Technologien
     <ns>0</ns>
     <id>2</id>
     <revision>
-      <id>3</id>
+      <id>20</id>
       <timestamp>2026-01-06T22:41:12Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „* [[Ai/Nahtlose Integration von KI und ML in Ihre Projekte]] – Erfahren Sie, wie Sie künstliche Intelligenz und maschinelles Lernen effizient in bestehende oder neue Projekte einbinden können, inklusive Best Practices und Tools. * [[Ai/Modelle]] – Übersicht über verschiedene KI-Modelle, deren Anwendungsbereiche, Trainingsmethoden und Auswahlkriterien für spezifische Aufgaben. * [[Ai/Codex]] – Informationen zum Einsatz von Codex und ähnlichen K…“</comment>
-      <origin>3</origin>
+      <origin>20</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="574" sha1="050oz4rlv0jh005v981pnjsymxrtzu1" xml:space="preserve">* [[Ai/Nahtlose Integration von KI und ML in Ihre Projekte]] – Erfahren Sie, wie Sie künstliche Intelligenz und maschinelles Lernen effizient in bestehende oder neue Projekte einbinden können, inklusive Best Practices und Tools.
@@ -526,14 +586,14 @@ Webframework]] — Frameworks und Web-Technologien
     <ns>0</ns>
     <id>3</id>
     <revision>
-      <id>4</id>
+      <id>21</id>
       <timestamp>2026-01-06T22:42:34Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Anwendungsentwicklungs-Frameworks für LLMs == Diese Frameworks erleichtern die Integration und Nutzung von Large Language Models (LLMs) in verschiedene Anwendungen. === LangChain === **Beschreibung:** LangChain ist ein Framework, das die Entwicklung von Anwendungen, die durch Sprachmodelle unterstützt werden, vereinfacht. Es bietet Tools für Kettenbildung (Chaining), Agentenentwicklung und Datenaugmentation, um komplexe LLM-basierte Workflows zu ers…“</comment>
-      <origin>4</origin>
+      <origin>21</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="11580" sha1="5djkmvjax7lc27318kgoa9tquk06k0f" xml:space="preserve">== Anwendungsentwicklungs-Frameworks für LLMs ==
@@ -606,14 +666,14 @@ Beschreibung: GGML (auch in Verbindung mit GGUF verwendet) ist ein C-Bibliothek 
       <sha1>5djkmvjax7lc27318kgoa9tquk06k0f</sha1>
     </revision>
     <revision>
-      <id>34</id>
-      <parentid>4</parentid>
+      <id>22</id>
+      <parentid>21</parentid>
       <timestamp>2026-01-07T00:36:45Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>34</origin>
+      <origin>22</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="11760" sha1="4veao5wh3r5kto7x3lvcm8fi5tootwr" xml:space="preserve">
@@ -726,14 +786,14 @@ Beschreibung: GGML (auch in Verbindung mit GGUF verwendet) ist ein C-Bibliothek 
     <ns>0</ns>
     <id>4</id>
     <revision>
-      <id>5</id>
+      <id>23</id>
       <timestamp>2026-01-06T22:46:06Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „* **GPT-5 mini** – Kompaktes Sprachmodell der GPT-5-Reihe, optimiert für schnelle und ressourcenschonende Textgenerierung. Einsatz: Mobile Anwendungen, einfache Chatbots, schnelle Textklassifikation. * **GPT-5** – Modernes Sprachmodell der GPT-5-Reihe, entwickelt für höchste Genauigkeit, Kontextverständnis und Vielseitigkeit. Einsatz: Komplexe Dialogsysteme, kreative Textgenerierung, automatisierte Analyse, Forschung. * **GPT-4.1** – Fortschritt…“</comment>
-      <origin>5</origin>
+      <origin>23</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3769" sha1="0db9r7clmnji3mf7op7njyxqte1bxqx" xml:space="preserve">* **GPT-5 mini** – Kompaktes Sprachmodell der GPT-5-Reihe, optimiert für schnelle und ressourcenschonende Textgenerierung. Einsatz: Mobile Anwendungen, einfache Chatbots, schnelle Textklassifikation.
@@ -761,14 +821,14 @@ Anwendungen</text>
       <sha1>0db9r7clmnji3mf7op7njyxqte1bxqx</sha1>
     </revision>
     <revision>
-      <id>33</id>
-      <parentid>5</parentid>
+      <id>24</id>
+      <parentid>23</parentid>
       <timestamp>2026-01-07T00:34:31Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>33</origin>
+      <origin>24</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3796" sha1="17yu78jfatcmqustswaixf31c14b0eo" xml:space="preserve">* '''GPT-5 mini''' – Kompaktes Sprachmodell der GPT-5-Reihe, optimiert für schnelle und ressourcenschonende Textgenerierung. Einsatz: Mobile Anwendungen, einfache Chatbots, schnelle Textklassifikation.
@@ -801,14 +861,14 @@ Anwendungen</text>
     <ns>0</ns>
     <id>5</id>
     <revision>
-      <id>6</id>
+      <id>25</id>
       <timestamp>2026-01-06T22:52:36Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „* [[ChatGPT (OpenAI codex)&gt;&gt;url:https://chat.openai.com/]] * [[GitHub Copilot&gt;&gt;url:https://github.com/copilot]] * [[Gemini Code Assist&gt;&gt;url:https://gemini.google.com/]] * [[Amazon Q&gt;&gt;url:https://www.amazon.com/]]“</comment>
-      <origin>6</origin>
+      <origin>25</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="212" sha1="hxbl4ng6jhbnsej7bkemyrha4skaz8f" xml:space="preserve">* [[ChatGPT (OpenAI codex)&gt;&gt;url:https://chat.openai.com/]]
@@ -818,14 +878,14 @@ Anwendungen</text>
       <sha1>hxbl4ng6jhbnsej7bkemyrha4skaz8f</sha1>
     </revision>
     <revision>
-      <id>7</id>
-      <parentid>6</parentid>
+      <id>26</id>
+      <parentid>25</parentid>
       <timestamp>2026-01-06T22:53:29Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>7</origin>
+      <origin>26</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="65" sha1="mh72tvp1y1qx3cmfqbcscxi3iv90yhl" xml:space="preserve">ChatGPT (OpenAI codex)
@@ -835,14 +895,14 @@ Amazon Q</text>
       <sha1>mh72tvp1y1qx3cmfqbcscxi3iv90yhl</sha1>
     </revision>
     <revision>
-      <id>8</id>
-      <parentid>7</parentid>
+      <id>27</id>
+      <parentid>26</parentid>
       <timestamp>2026-01-06T22:53:45Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>8</origin>
+      <origin>27</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="73" sha1="p1qih35ycv78u9wtkyfoz24485qoiv1" xml:space="preserve">* ChatGPT (OpenAI codex)
@@ -852,14 +912,14 @@ Amazon Q</text>
       <sha1>p1qih35ycv78u9wtkyfoz24485qoiv1</sha1>
     </revision>
     <revision>
-      <id>9</id>
-      <parentid>8</parentid>
+      <id>28</id>
+      <parentid>27</parentid>
       <timestamp>2026-01-06T22:54:27Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>9</origin>
+      <origin>28</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="77" sha1="qo0h7660acx80tmud7c8ymqq1a5z4d2" xml:space="preserve">** ChatGPT (OpenAI codex)
@@ -869,14 +929,14 @@ Amazon Q</text>
       <sha1>qo0h7660acx80tmud7c8ymqq1a5z4d2</sha1>
     </revision>
     <revision>
-      <id>32</id>
-      <parentid>9</parentid>
+      <id>29</id>
+      <parentid>28</parentid>
       <timestamp>2026-01-07T00:33:06Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>32</origin>
+      <origin>29</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="184" sha1="5i07c4mh48ckqotblsscsqwd8j6crgo" xml:space="preserve">* [https://chat.openai.com/ ChatGPT (OpenAI codex)]
@@ -886,14 +946,14 @@ Amazon Q</text>
       <sha1>5i07c4mh48ckqotblsscsqwd8j6crgo</sha1>
     </revision>
     <revision>
-      <id>125</id>
-      <parentid>32</parentid>
+      <id>30</id>
+      <parentid>29</parentid>
       <timestamp>2026-01-14T18:26:36Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>125</origin>
+      <origin>30</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="147" sha1="atkxhw6vgwqavxl93f2r1wcxrqfwviw" xml:space="preserve">* [https://chat.openai.com/ ChatGPT (OpenAI codex)]
@@ -907,14 +967,14 @@ Amazon Q</text>
     <ns>0</ns>
     <id>6</id>
     <revision>
-      <id>12</id>
+      <id>31</id>
       <timestamp>2026-01-06T23:00:02Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „ == Aktualisieren ==  * Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop * Führen Sie folgenden Befehl aus,um System zu aktualisieren.   sudo apt-get update   sudo apt-get upgrade  sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev  == Google Chrome Installieren ==  wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;  sudo dpkg -i google-chrome-stable_current_amd64.deb  == Git Ins…“</comment>
-      <origin>12</origin>
+      <origin>31</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="4278" sha1="jvpjccmdv3f47jo35s8z0op7rh8se4q" xml:space="preserve">
@@ -1050,14 +1110,14 @@ In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle
     <ns>0</ns>
     <id>7</id>
     <revision>
-      <id>14</id>
+      <id>32</id>
       <timestamp>2026-01-06T23:47:00Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Schwachstellen == === Sprachmodell === * [https://airiskdatabase.com/ AI Risk Database] – Eine Datenbank mit Risiken und Schwachstellen im Bereich Künstliche Intelligenz. * [[GitHub CVE &amp; Security Advisories&gt;&gt;url:https://github.com/advisories]] – Offizielle Sicherheitswarnungen und CVE-Meldungen von GitHub für Open-Source-Projekte. * [[MITRE CVE Database&gt;&gt;url:https://cve.mitre.org/]] – Zentrale Datenbank für öffentlich bekannte Schwachstellen…“</comment>
-      <origin>14</origin>
+      <origin>32</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2205" sha1="99jwjlg9d4m7jnef8atf6j46t1w7jgq" xml:space="preserve">== Schwachstellen ==
@@ -1078,14 +1138,14 @@ In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle
       <sha1>99jwjlg9d4m7jnef8atf6j46t1w7jgq</sha1>
     </revision>
     <revision>
-      <id>15</id>
-      <parentid>14</parentid>
+      <id>33</id>
+      <parentid>32</parentid>
       <timestamp>2026-01-06T23:47:57Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>15</origin>
+      <origin>33</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2198" sha1="6lqmycqss5v5zmbel30a8h15undnh6r" xml:space="preserve">== Schwachstellen ==
@@ -1106,14 +1166,14 @@ In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle
       <sha1>6lqmycqss5v5zmbel30a8h15undnh6r</sha1>
     </revision>
     <revision>
-      <id>16</id>
-      <parentid>15</parentid>
+      <id>34</id>
+      <parentid>33</parentid>
       <timestamp>2026-01-06T23:50:00Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>16</origin>
+      <origin>34</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2191" sha1="tgetfog257m5yrm9jejkjzl3uw0iv9l" xml:space="preserve">== Schwachstellen ==
@@ -1134,14 +1194,14 @@ In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle
       <sha1>tgetfog257m5yrm9jejkjzl3uw0iv9l</sha1>
     </revision>
     <revision>
-      <id>17</id>
-      <parentid>16</parentid>
+      <id>35</id>
+      <parentid>34</parentid>
       <timestamp>2026-01-06T23:59:09Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>17</origin>
+      <origin>35</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2102" sha1="0lxh86d6aids7b7svnu0hfet6c2wavn" xml:space="preserve">
@@ -1167,14 +1227,14 @@ In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle
     <ns>0</ns>
     <id>8</id>
     <revision>
-      <id>19</id>
+      <id>36</id>
       <timestamp>2026-01-07T00:11:35Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „ * [[Server/Mieten]] * [[Server/Ubuntu Software Pakete Installieren]] * [[Server/KachelServer]] * [[Server/Apache Port ändern&gt;&gt;Server:Apache Port ändern]] * [[Server/SS]] * [[Server/Nginx Einstellung]] * [[Server/Mediawiki Installieren]]“</comment>
-      <origin>19</origin>
+      <origin>36</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="239" sha1="q64zg12895ldf0he3wzs1qja5j8lefg" xml:space="preserve">
@@ -1188,14 +1248,14 @@ In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle
       <sha1>q64zg12895ldf0he3wzs1qja5j8lefg</sha1>
     </revision>
     <revision>
-      <id>20</id>
-      <parentid>19</parentid>
+      <id>37</id>
+      <parentid>36</parentid>
       <timestamp>2026-01-07T00:12:21Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>20</origin>
+      <origin>37</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="211" sha1="fw10iz54r9l1n2lkgdb1n72uy3sur9k" xml:space="preserve">
@@ -1209,14 +1269,14 @@ In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle
       <sha1>fw10iz54r9l1n2lkgdb1n72uy3sur9k</sha1>
     </revision>
     <revision>
-      <id>21</id>
-      <parentid>20</parentid>
+      <id>38</id>
+      <parentid>37</parentid>
       <timestamp>2026-01-07T00:12:52Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>21</origin>
+      <origin>38</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="212" sha1="1kawmihsg8s8o078oqb1ttt10khmlcw" xml:space="preserve">
@@ -1230,14 +1290,14 @@ In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle
       <sha1>1kawmihsg8s8o078oqb1ttt10khmlcw</sha1>
     </revision>
     <revision>
-      <id>25</id>
-      <parentid>21</parentid>
+      <id>39</id>
+      <parentid>38</parentid>
       <timestamp>2026-01-07T00:18:10Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>25</origin>
+      <origin>39</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="231" sha1="mw4ho229k3ioj644fgr03t24ejel5dy" xml:space="preserve">* [[Server/Mieten]]
@@ -1251,14 +1311,14 @@ In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle
       <sha1>mw4ho229k3ioj644fgr03t24ejel5dy</sha1>
     </revision>
     <revision>
-      <id>31</id>
-      <parentid>25</parentid>
+      <id>40</id>
+      <parentid>39</parentid>
       <timestamp>2026-01-07T00:29:06Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>31</origin>
+      <origin>40</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="195" sha1="sal0is9b41eubzr5pq9dk13rbt9l870" xml:space="preserve">* [[Server/Mieten]]
@@ -1276,14 +1336,14 @@ In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle
     <ns>0</ns>
     <id>9</id>
     <revision>
-      <id>22</id>
+      <id>41</id>
       <timestamp>2026-01-07T00:13:58Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „==KVM Server Mieten== KVM Server sind virtuelle Server, die auf einem dedizierten Server laufen. KVM steht für Kernel-based Virtual Machine und ist eine Open-Source-Virtualisierungstechnologie, die es ermöglicht, mehrere virtuelle Maschinen auf einem einzigen physischen Server auszuführen. KVM-Server bieten eine hohe Leistung und Flexibilität und sind eine kostengünstige Lösung für Unternehmen, die eine skalierbare und zuverlässige Hosting-Lösung…“</comment>
-      <origin>22</origin>
+      <origin>41</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="9022" sha1="kcp2mypsyowi8zo63xauw4xbjc96e5t" xml:space="preserve">==KVM Server Mieten==
@@ -1399,14 +1459,14 @@ Die Systemanforderungen für ein Webframework hängen von der Art des Webframewo
     <ns>0</ns>
     <id>10</id>
     <revision>
-      <id>23</id>
+      <id>42</id>
       <timestamp>2026-01-07T00:14:51Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „==Server Backup Anbieter in Deutschland==  Es gibt mehrere günstige Backup-Server-Anbieter in Deutschland. Hier sind einige Beispiele:  * Hetzner Storage Box – Bietet verschiedene Speichergrößen, schnelle Anbindung und einfache Verwaltung. * Netcup Storage Server – Flexible Tarife, gute Anbindung innerhalb Deutschlands, günstige Preise. * Contabo Storage VPS – Große Speicherkapazitäten, günstige Preise, verschiedene Standorte verfügbar.  ==G…“</comment>
-      <origin>23</origin>
+      <origin>42</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="5453" sha1="j73mhot7hp9yq9h5h6mncb7f7jacmax" xml:space="preserve">==Server Backup Anbieter in Deutschland==
@@ -1557,14 +1617,14 @@ Es gibt verschiedene Anbieter, bei denen Sie Git-Repositories hosten können. Zu
       <sha1>j73mhot7hp9yq9h5h6mncb7f7jacmax</sha1>
     </revision>
     <revision>
-      <id>24</id>
-      <parentid>23</parentid>
+      <id>43</id>
+      <parentid>42</parentid>
       <timestamp>2026-01-07T00:16:49Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>24</origin>
+      <origin>43</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1718" sha1="s5owpraguf8u3y69rl3sgp60s92m2da" xml:space="preserve">== System aktualisieren und upgraden ==
@@ -1624,14 +1684,14 @@ sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlr
     <ns>0</ns>
     <id>11</id>
     <revision>
-      <id>26</id>
+      <id>44</id>
       <timestamp>2026-01-07T00:18:45Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „==Server Backup Anbieter in Deutschland==  Es gibt mehrere günstige Backup-Server-Anbieter in Deutschland. Hier sind einige Beispiele:  * Hetzner Storage Box – Bietet verschiedene Speichergrößen, schnelle Anbindung und einfache Verwaltung. * Netcup Storage Server – Flexible Tarife, gute Anbindung innerhalb Deutschlands, günstige Preise. * Contabo Storage VPS – Große Speicherkapazitäten, günstige Preise, verschiedene Standorte verfügbar.  ==G…“</comment>
-      <origin>26</origin>
+      <origin>44</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="5453" sha1="j73mhot7hp9yq9h5h6mncb7f7jacmax" xml:space="preserve">==Server Backup Anbieter in Deutschland==
@@ -1787,14 +1847,14 @@ Es gibt verschiedene Anbieter, bei denen Sie Git-Repositories hosten können. Zu
     <ns>0</ns>
     <id>12</id>
     <revision>
-      <id>27</id>
+      <id>45</id>
       <timestamp>2026-01-07T00:20:10Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Ubuntu 24.04 LTS Installation == Diese Seite beschreibt, wie man alle notwendige Software installiert, einrichtet und konfiguriert, um einen eigenen Kachelserver zu betreiben. Diese Schritt-für-Schritt-Anleitung wurde für Ubuntu Linux 24.04 (Noble Numbat) geschrieben und im April 2024 getestet.  == Softwareinstallation == Der OSM-Kachelserver-Stack ist eine Sammlung von Programmen und Bibliotheken, die zusammenarbeiten, um einen Kachelserver zu erste…“</comment>
-      <origin>27</origin>
+      <origin>45</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="13461" sha1="r8k4yfantqpjh5zjew2crnvwztprdfk" xml:space="preserve">== Ubuntu 24.04 LTS Installation ==
@@ -1949,14 +2009,14 @@ Jetzt, da wir "renderd" gesagt haben, wie es auf Kachelrendering-Anfragen reagie
     <ns>0</ns>
     <id>13</id>
     <revision>
-      <id>28</id>
+      <id>46</id>
       <timestamp>2026-01-07T00:20:59Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „&lt;code&gt;sudo nano /etc/apache2/ports.conf&lt;/code&gt; Ändern Sie den Port von 80 auf 8080  &lt;code&gt;Listen 8080&lt;/code&gt; Apache restarten  &lt;code&gt;sudo systemctl restart apache2“</comment>
-      <origin>28</origin>
+      <origin>46</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="164" sha1="gr15p2kx141yv2lfpir3ww6jvq5etiv" xml:space="preserve">&lt;code&gt;sudo nano /etc/apache2/ports.conf&lt;/code&gt;
@@ -1972,14 +2032,14 @@ Apache restarten
     <ns>0</ns>
     <id>14</id>
     <revision>
-      <id>29</id>
+      <id>47</id>
       <timestamp>2026-01-07T00:23:59Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „ Die folgenden Befehle richten die Umgebung für die Nutzung von Certbot mit Nginx auf einem Linux-System ein:  # sudo apt install snapd Installiert den Snap-Daemon, der benötigt wird, um Snap-Pakete (wie Certbot) zu installieren. # sudo apt-get install nginx Installiert den Nginx-Webserver. # sudo rm /etc/nginx/sites-enabled/default Entfernt die Standardkonfiguration von Nginx, um Konflikte mit eigenen Einstellungen zu vermeiden. # sudo systemctl stop n…“</comment>
-      <origin>29</origin>
+      <origin>47</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2218" sha1="rcnos4q57nt0u50kwte1blxbmw5tj6e" xml:space="preserve">
@@ -2021,14 +2081,14 @@ Weitere Informationen: [Let's Encrypt Wildcard-Zertifikate](&lt;nowiki&gt;https:
     <ns>0</ns>
     <id>15</id>
     <revision>
-      <id>30</id>
+      <id>48</id>
       <timestamp>2026-01-07T00:27:21Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „ == Erstellen Sie eine neue Konfigurationsdatei == Um eine neue Konfigurationsdatei für Nginx zu erstellen, öffnen Sie ein Terminal und geben Sie folgenden Befehl ein:   sudo nano /etc/nginx/conf.d/start.conf  Dies öffnet den Texteditor `nano` mit Root-Rechten und erstellt (oder bearbeitet) die Datei `start.conf` im Verzeichnis `/etc/nginx/conf.d/`. In dieser Datei können Sie Ihre gewünschten Nginx-Konfigurationen eintragen. Nach dem Bearbeiten spei…“</comment>
-      <origin>30</origin>
+      <origin>48</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2054" sha1="qwcezjfscwoxswgqnpqs7befc9z4siy" xml:space="preserve">
@@ -2134,14 +2194,14 @@ Prüfen Sie mit sudo nginx -t immer zuerst, ob die Konfiguration fehlerfrei ist.
     <ns>0</ns>
     <id>16</id>
     <revision>
-      <id>36</id>
+      <id>49</id>
       <timestamp>2026-01-07T00:43:54Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „* [[Webframework/Technik]] * [[Webframework/Fullstack Frameworks]] * [[Webframework/Meta-Frameworks]] * [[Webframework/Content Management Framework]] * [[Webframework/Microframeworks]] * [[Webframework/Backend API Frameworks]] * [[Webframework/Frontend Frameworks]] * [[Webframework/Static Site Generators]] * [[Webframework/Headless CMS]] * [[Webframework/Fullstack-Webframeworks mit KI-Integration]] * [[Webframework/WebAssembly-Webframeworks]] * Webframe…“</comment>
-      <origin>36</origin>
+      <origin>49</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="611" sha1="bdzpntfms0px0mfopei0u2gctpdfws4" xml:space="preserve">* [[Webframework/Technik]]
@@ -2162,15 +2222,15 @@ Prüfen Sie mit sudo nginx -t immer zuerst, ob die Konfiguration fehlerfrei ist.
       <sha1>bdzpntfms0px0mfopei0u2gctpdfws4</sha1>
     </revision>
     <revision>
-      <id>71</id>
-      <parentid>36</parentid>
+      <id>50</id>
+      <parentid>49</parentid>
       <timestamp>2026-01-10T00:40:55Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>71</origin>
+      <origin>50</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1837" sha1="ti3nlax1pm0o8malv4gs20fp40wwc3d" xml:space="preserve">== ASP.NET Core ==
@@ -2204,14 +2264,14 @@ Jakarta EE ist ein Satz von Spezifikationen für die Entwicklung von Unternehmen
     <ns>0</ns>
     <id>17</id>
     <revision>
-      <id>37</id>
+      <id>51</id>
       <timestamp>2026-01-07T00:45:09Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „* Starke Kopplung * Lose Kopplung * Dependency Injection * IOC Container * Application Context * Spring Beans * Autowiring * Component Scanner“</comment>
-      <origin>37</origin>
+      <origin>51</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="142" sha1="89hqxcmlcx86cuy7y91vew15ayeeo4h" xml:space="preserve">* Starke Kopplung
@@ -2230,14 +2290,14 @@ Jakarta EE ist ein Satz von Spezifikationen für die Entwicklung von Unternehmen
     <ns>0</ns>
     <id>18</id>
     <revision>
-      <id>38</id>
+      <id>52</id>
       <timestamp>2026-01-07T00:46:51Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „==Spring Boot== === Eigene Entwicklung eines Content-Management-Systems (CMS) mit Spring Boot===  Die Eigenentwicklung eines CMS mit Spring Boot bietet maximale Flexibilität und Anpassbarkeit. Dabei werden die Funktionen und Strukturen individuell nach den Anforderungen des Projekts gestaltet. Typische Schritte und Komponenten sind:  * Anforderungsanalyse: Klare Definition der benötigten Funktionen (z. B. Benutzerverwaltung, Rollen, Rechte, Versionierun…“</comment>
-      <origin>38</origin>
+      <origin>52</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2106" sha1="c6xrwf8yrhnw38urigq8k59g6tzcja8" xml:space="preserve">==Spring Boot==
@@ -2264,14 +2324,14 @@ Spring Boot bietet durch seine Komponenten (Spring Data, Spring Security, Spring
       <sha1>c6xrwf8yrhnw38urigq8k59g6tzcja8</sha1>
     </revision>
     <revision>
-      <id>39</id>
-      <parentid>38</parentid>
+      <id>53</id>
+      <parentid>52</parentid>
       <timestamp>2026-01-07T00:47:42Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>39</origin>
+      <origin>53</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2281" sha1="9efhq1ygo618n3cigbymplmnzaa0mor" xml:space="preserve">==Spring Boot==
@@ -2309,14 +2369,14 @@ dotnet aspnet-codegenerator identity -dc ApplicationDbContext
     <ns>0</ns>
     <id>19</id>
     <revision>
-      <id>40</id>
+      <id>54</id>
       <timestamp>2026-01-07T00:48:45Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „=== Tier 1 – Sehr reif / Mainstream === * Next.js – sehr große Adoption, stabil, reiches Ökosystem“</comment>
-      <origin>40</origin>
+      <origin>54</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="104" sha1="cjt4ei4frwcivfbs23z4h34wlw7vnbk" xml:space="preserve">=== Tier 1 – Sehr reif / Mainstream ===
@@ -2329,14 +2389,14 @@ dotnet aspnet-codegenerator identity -dc ApplicationDbContext
     <ns>0</ns>
     <id>20</id>
     <revision>
-      <id>41</id>
+      <id>55</id>
       <timestamp>2026-01-07T00:49:16Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Reine Content Manage Framework== ==.NET-basierte CMF== * Orchard Core (ASP.NET Core) – PostgreSQL: Ja (nativ unterstützt) ==Java-basierte CMF== * Liferay – PostgreSQL: Ja (nativ unterstützt) * OpenCMS – PostgreSQL: Ja (nativ unterstützt)“</comment>
-      <origin>41</origin>
+      <origin>55</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="249" sha1="gjkyahqqiy0qa09waym2sh3sj9f2b71" xml:space="preserve">== Reine Content Manage Framework==
@@ -2353,14 +2413,14 @@ dotnet aspnet-codegenerator identity -dc ApplicationDbContext
     <ns>0</ns>
     <id>21</id>
     <revision>
-      <id>42</id>
+      <id>56</id>
       <timestamp>2026-01-07T00:49:49Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Microframeworks nach Reifegrad (Tier 1) == * Gin (Go) – Sehr populär und ausgereift im Go-Ökosystem, performant. * Actix Web (Rust) – Führend bei Rust, sehr performant, Community wächst, stabil. * Axum (Rust) – Modern, auf Tokio/hyper/tower basierend; typsichere Extractors, ergonomischer Router, hohe Performance, aktiv gepflegt, stabil.“</comment>
-      <origin>42</origin>
+      <origin>56</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="351" sha1="memdc8dgjehzx7gyuwej5bztlksdjb9" xml:space="preserve">== Microframeworks nach Reifegrad (Tier 1) ==
@@ -2375,14 +2435,14 @@ dotnet aspnet-codegenerator identity -dc ApplicationDbContext
     <ns>0</ns>
     <id>22</id>
     <revision>
-      <id>43</id>
+      <id>57</id>
       <timestamp>2026-01-07T00:50:18Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Reifegrad: Tier 1 == ;Kriterien : LTS/planbare Releases, breite Produktionseinsätze, starkes Ökosystem, aktive Security-Pflege, gute Dokumentation.  {| class="wikitable sortable" ! Framework !! Sprache/Runtime !! Lizenz !! LTS/Release-Kadenz !! Ökosystem/Plugins !! Hinweise |- | Spring Boot || Java/JVM || Apache-2.0 || LTS, 2×/Jahr || Sehr groß || De-facto-Standard im Java-Backend |- | ASP.NET Core || .NET/C# || MIT || LTS, planbar || Groß || Hoh…“</comment>
-      <origin>43</origin>
+      <origin>57</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="656" sha1="a0bhwxuhb8ux69pwvl7mb83qxqvmxr7" xml:space="preserve">== Reifegrad: Tier 1 ==
@@ -2409,14 +2469,14 @@ dotnet aspnet-codegenerator identity -dc ApplicationDbContext
     <ns>0</ns>
     <id>23</id>
     <revision>
-      <id>44</id>
+      <id>58</id>
       <timestamp>2026-01-07T00:50:56Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Frontend Frameworks – Reifegrade ==  ; Tier-Definition (Kurzfassung) * Tier 1: Weit verbreitet, stabil, Langzeitpflege, starkes Ökosystem   {| class="wikitable sortable" ! Tier !! Framework !! Kategorie !! Erstveröffentlichung !! Governance/Backing !! Release-/LTS-Kadenz !! Kurzbewertung |- | 1 || React || Bibliothek || 2013 || Meta + Community || regelmäßig || Dominantes Ökosystem, sehr stabil |- | 1 || Angular || Framework || 2016 || Google |…“</comment>
-      <origin>44</origin>
+      <origin>58</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="728" sha1="l66461fzdlb41n8i6fyhtv8qqrzaxii" xml:space="preserve">== Frontend Frameworks – Reifegrade ==
@@ -2445,14 +2505,14 @@ dotnet aspnet-codegenerator identity -dc ApplicationDbContext
     <ns>0</ns>
     <id>24</id>
     <revision>
-      <id>45</id>
+      <id>59</id>
       <timestamp>2026-01-07T00:51:32Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Reifegrade (Tier 1) für Static Site Generators == Die folgenden SSGs gelten allgemein als "Tier 1" — also reif, produktions-erprobt und geeignet für grosse Projekte:  * Hugo — extrem schnell, sehr gut für sehr grosse Sites mit tausenden Seiten.“</comment>
-      <origin>45</origin>
+      <origin>59</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="254" sha1="0p2eyb9njdryxkenluewm5ym3uzndoz" xml:space="preserve">== Reifegrade (Tier 1) für Static Site Generators ==
@@ -2467,14 +2527,14 @@ Die folgenden SSGs gelten allgemein als "Tier 1" — also reif, produktions-erpr
     <ns>0</ns>
     <id>25</id>
     <revision>
-      <id>46</id>
+      <id>60</id>
       <timestamp>2026-01-07T00:52:07Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „Diese Liste führt Open-Source-Headless-CMS mit nativer PostgreSQL-Unterstützung, nach Programmiersprachen sortiert.   * [https://orchardcore.net Orchard Core] * [https://nextjs.org Next.js]“</comment>
-      <origin>46</origin>
+      <origin>60</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="191" sha1="p0h6ys0ujtwbpjbjgjw3i9k51qbtom5" xml:space="preserve">Diese Liste führt Open-Source-Headless-CMS mit nativer PostgreSQL-Unterstützung, nach Programmiersprachen sortiert.
@@ -2490,14 +2550,14 @@ Die folgenden SSGs gelten allgemein als "Tier 1" — also reif, produktions-erpr
     <ns>0</ns>
     <id>26</id>
     <revision>
-      <id>47</id>
+      <id>61</id>
       <timestamp>2026-01-07T00:52:42Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „'''Fullstack-Webframeworks mit KI-Integration''' erleichtern die Entwicklung von Webanwendungen mit Generative AI, RAG und Agenten. Nachfolgend ein kurzer Überblick über gängige Stacks, Muster und Auswahlkriterien.   * [[Next.js]] mit Vercel AI SDK oder LangChain.js * [[Django]] mit [[Haystack]] oder [[LangChain]] * Django + PyTorch / TensorFlow * Flask + FastAPI + Hugging Face * [[FastAPI]] als KI-Backend, Frontend z.B. mit React oder Vue.js ; Java/Ko…“</comment>
-      <origin>47</origin>
+      <origin>61</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="549" sha1="nepngp8wx5o4qzp2fmhk713i6p81r56" xml:space="preserve">'''Fullstack-Webframeworks mit KI-Integration''' erleichtern die Entwicklung von Webanwendungen mit Generative AI, RAG und Agenten. Nachfolgend ein kurzer Überblick über gängige Stacks, Muster und Auswahlkriterien.
@@ -2520,14 +2580,14 @@ Die folgenden SSGs gelten allgemein als "Tier 1" — also reif, produktions-erpr
     <ns>0</ns>
     <id>27</id>
     <revision>
-      <id>48</id>
+      <id>62</id>
       <timestamp>2026-01-07T00:53:28Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Tier 1 (Reifegrad: produktionsreif) == Die folgenden WebAssembly-Webframeworks werden als Tier 1 eingestuft.  ; Kriterien * regelmäßige Releases (letzte 12 Monate) * dokumentierte Produktionseinsätze * stabile Docs und aktiver Maintainerkreis * klare Roadmap und Ökosystem  {| class="wikitable sortable" ! Framework !! Sprache/Runtime !! Architektur !! Lizenz !! Aktivität/Status !! Hinweise |- | [https://dotnet.microsoft.com/apps/aspnet/web-apps/bla…“</comment>
-      <origin>48</origin>
+      <origin>62</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1632" sha1="csstg3zotrgk0jnv9hosyhbo4q33csf" xml:space="preserve">== Tier 1 (Reifegrad: produktionsreif) ==
@@ -2566,14 +2626,14 @@ Die folgenden WebAssembly-Webframeworks werden als Tier 1 eingestuft.
     <ns>0</ns>
     <id>28</id>
     <revision>
-      <id>49</id>
+      <id>63</id>
       <timestamp>2026-01-07T00:54:10Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Tier 1 (Reifegrad: produktionsreif) == Die folgenden WebAssembly-Webframeworks werden als Tier 1 eingestuft.  ; Kriterien * regelmäßige Releases (letzte 12 Monate) * dokumentierte Produktionseinsätze * stabile Docs und aktiver Maintainerkreis * klare Roadmap und Ökosystem  {| class="wikitable sortable" ! Framework !! Sprache/Runtime !! Architektur !! Lizenz !! Aktivität/Status !! Hinweise |- | [https://dotnet.microsoft.com/apps/aspnet/web-apps/bla…“</comment>
-      <origin>49</origin>
+      <origin>63</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1632" sha1="csstg3zotrgk0jnv9hosyhbo4q33csf" xml:space="preserve">== Tier 1 (Reifegrad: produktionsreif) ==
@@ -2607,14 +2667,14 @@ Die folgenden WebAssembly-Webframeworks werden als Tier 1 eingestuft.
       <sha1>csstg3zotrgk0jnv9hosyhbo4q33csf</sha1>
     </revision>
     <revision>
-      <id>50</id>
-      <parentid>49</parentid>
+      <id>64</id>
+      <parentid>63</parentid>
       <timestamp>2026-01-07T00:54:38Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>50</origin>
+      <origin>64</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1402" sha1="o8r6z4efj70irs8tbhi3ymebca923zu" xml:space="preserve">== Auth-/Identity-Frameworks – Tier 1 (nach Reifegrad) ==
@@ -2645,14 +2705,14 @@ Die folgenden WebAssembly-Webframeworks werden als Tier 1 eingestuft.
     <ns>0</ns>
     <id>29</id>
     <revision>
-      <id>51</id>
+      <id>65</id>
       <timestamp>2026-01-07T00:55:43Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Tier 1 (Enterprise‑reif) == ; Kriterien : Aktive Wartung, breite Adoption, klare Versionierung/LTS, gute Barrierefreiheit (A11y), starke Dokumentation, stabiler Release‑Prozess.  ; Frameworks * Bootstrap — stabil, umfassende Doku, breiter Browser‑Support, A11y.“</comment>
-      <origin>51</origin>
+      <origin>65</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="272" sha1="9lnypmb52aj54pnbyjxg8poi4780wul" xml:space="preserve">== Tier 1 (Enterprise‑reif) ==
@@ -2669,14 +2729,14 @@ Die folgenden WebAssembly-Webframeworks werden als Tier 1 eingestuft.
     <ns>0</ns>
     <id>30</id>
     <revision>
-      <id>52</id>
+      <id>66</id>
       <timestamp>2026-01-07T00:56:49Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Überblick == Vergleich von Benutzerverwaltungs-/IAM-Frameworks nach Reifegrad, mit Fokus auf Open Source und Self‑Hosting.  ; Bewertungskriterien (Reifegrad) * Standards: OIDC/OAuth2, SAML, SCIM, LDAP * Sicherheit: MFA/FIDO2, Audit, Hardening, CVE-Reaktionszeit * Betrieb: HA/Cluster, Backup/Restore, Upgrades, Observability * Funktionsumfang: RBAC/ABAC, Mandanten, Admin-UI, Self‑Service * Ökosystem: Dokumentation, Integrationen, Community/Support…“</comment>
-      <origin>52</origin>
+      <origin>66</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="797" sha1="9aq66n39xilwakc9fune3dsal2da7vl" xml:space="preserve">== Überblick ==
@@ -2704,14 +2764,14 @@ Vergleich von Benutzerverwaltungs-/IAM-Frameworks nach Reifegrad, mit Fokus auf 
     <ns>0</ns>
     <id>31</id>
     <revision>
-      <id>53</id>
+      <id>67</id>
       <timestamp>2026-01-07T00:58:50Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Web Game Engines — Reifegrad Tier 1 == Auswahl etablierter Web-Game-Engines (Tier 1) nach Stabilität, Community, regelmäßigen Releases und Produktionsreife.  ;Kriterien * 5+ Jahre aktive Entwicklung * Regelmäßige Releases und Bugfixes * Große Community/Ökosystem * Nachweislicher Produktionseinsatz  {| class="wikitable sortable" ! Engine !! 2D/3D !! Lizenz !! Aktivität !! Editor/IDE !! Stärken !! Kostenlos? !! Website/Repo |- | Phaser 3 || 2D…“</comment>
-      <origin>53</origin>
+      <origin>67</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="855" sha1="m5qgmkgfkrqyqmpxtwnggdklce3bvba" xml:space="preserve">== Web Game Engines — Reifegrad Tier 1 ==
@@ -2740,14 +2800,14 @@ Auswahl etablierter Web-Game-Engines (Tier 1) nach Stabilität, Community, regel
     <ns>4</ns>
     <id>32</id>
     <revision>
-      <id>54</id>
+      <id>68</id>
       <timestamp>2026-01-07T02:34:23Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:  * Thorsten Klöhn * Gerhardstraße 2 * 22926 Ahrensburg * Telefon: 04102-2 17 40 07 * e-Mail: thorstenkloehn@gmail.com  &lt;span id="ihre-betroffenenrechte"&gt;&lt;/span&gt; == Ihre Betroffenenrechte ==  Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können Sie jederzeit folgende Rechte ausüben:  * Auskunft über Ihre bei uns ges…“</comment>
-      <origin>54</origin>
+      <origin>68</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="5074" sha1="9bzk3a7y9uynfn6xooeid5ogsi436pp" xml:space="preserve">Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:
@@ -2834,14 +2894,14 @@ Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder 
     <ns>4</ns>
     <id>33</id>
     <revision>
-      <id>55</id>
+      <id>69</id>
       <timestamp>2026-01-07T02:37:20Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „Angaben gemäß § 5 TMG  * Thorsten Klöhn * Gerhardstraße 2 * 22926 Ahrensburg  &lt;span id="vertreten-durch"&gt;&lt;/span&gt; == Vertreten durch: ==  Thorsten Klöhn  &lt;span id="kontakt"&gt;&lt;/span&gt; == Kontakt: ==  * Telefon: 04102-2 17 40 07&lt;br /&gt;  * E-Mail: thorstenkloehn@gmail.com  &lt;span id="haftungsausschluss"&gt;&lt;/span&gt; == Haftungsausschluss: ==  &lt;span id="haftung-für-inhalte"&gt;&lt;/span&gt; === Haftung für Inhalte ===  Die Inhalte unserer Seiten wurden mit größter Sor…“</comment>
-      <origin>55</origin>
+      <origin>69</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3757" sha1="6znqq26rxwf6p9wwazjb3vkwila13wf" xml:space="preserve">Angaben gemäß § 5 TMG
@@ -2887,14 +2947,14 @@ Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanz
     <ns>0</ns>
     <id>34</id>
     <revision>
-      <id>57</id>
+      <id>70</id>
       <timestamp>2026-01-08T23:47:52Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „==ghosttext==“</comment>
-      <origin>57</origin>
+      <origin>70</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="13" sha1="2j5skuhww404nn87ldgllnatbqgr82l" xml:space="preserve">==ghosttext==</text>
@@ -2906,14 +2966,14 @@ Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanz
     <ns>0</ns>
     <id>35</id>
     <revision>
-      <id>60</id>
+      <id>71</id>
       <timestamp>2026-01-09T03:10:28Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>60</origin>
+      <origin>71</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="117" sha1="6xrp7jc08z55534sarnhwywxk9kypnq" xml:space="preserve">* Cursor
@@ -2927,15 +2987,15 @@ Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanz
       <sha1>6xrp7jc08z55534sarnhwywxk9kypnq</sha1>
     </revision>
     <revision>
-      <id>61</id>
-      <parentid>60</parentid>
+      <id>72</id>
+      <parentid>71</parentid>
       <timestamp>2026-01-09T04:44:24Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>61</origin>
+      <origin>72</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1606" sha1="1pkbb1tcmmbm5gc9wqh1a7d5ap1v1zo" xml:space="preserve">==KI IDE==
@@ -2959,15 +3019,15 @@ Folgende KI-Modell-Anbieter bieten Erweiterungen für Visual Studio Code an:
       <sha1>1pkbb1tcmmbm5gc9wqh1a7d5ap1v1zo</sha1>
     </revision>
     <revision>
-      <id>81</id>
-      <parentid>61</parentid>
+      <id>73</id>
+      <parentid>72</parentid>
       <timestamp>2026-01-10T04:27:23Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>81</origin>
+      <origin>73</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1991" sha1="o0xdyz599m924c1d77e4qc8t9b8lucr" xml:space="preserve">== KI-basierte IDEs ==
@@ -2987,14 +3047,14 @@ Folgende KI-Modell-Anbieter bieten Erweiterungen für Visual Studio Code an:
       <sha1>o0xdyz599m924c1d77e4qc8t9b8lucr</sha1>
     </revision>
     <revision>
-      <id>82</id>
-      <parentid>81</parentid>
+      <id>74</id>
+      <parentid>73</parentid>
       <timestamp>2026-01-10T06:22:22Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>82</origin>
+      <origin>74</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1556" sha1="pngx3xog2c34e5sa620qujjyhf75awa" xml:space="preserve">== KI-basierte IDEs ==
@@ -3013,14 +3073,14 @@ Folgende KI-Modell-Anbieter bieten Erweiterungen für Visual Studio Code an:
       <sha1>pngx3xog2c34e5sa620qujjyhf75awa</sha1>
     </revision>
     <revision>
-      <id>93</id>
-      <parentid>82</parentid>
+      <id>75</id>
+      <parentid>74</parentid>
       <timestamp>2026-01-12T02:23:01Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>93</origin>
+      <origin>75</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1415" sha1="62o3suigkrb3gaqvxb3y4hwqr51qbk6" xml:space="preserve">== KI-basierte IDEs ==
@@ -3038,14 +3098,14 @@ Folgende KI-Modell-Anbieter bieten Erweiterungen für Visual Studio Code an:
       <sha1>62o3suigkrb3gaqvxb3y4hwqr51qbk6</sha1>
     </revision>
     <revision>
-      <id>94</id>
-      <parentid>93</parentid>
+      <id>76</id>
+      <parentid>75</parentid>
       <timestamp>2026-01-12T02:40:52Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>94</origin>
+      <origin>76</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1279" sha1="qivgbdqvknygq2omqgf269qiif674xq" xml:space="preserve">== KI-basierte IDEs ==
@@ -3062,14 +3122,14 @@ Folgende KI-Modell-Anbieter bieten Erweiterungen für Visual Studio Code an:
       <sha1>qivgbdqvknygq2omqgf269qiif674xq</sha1>
     </revision>
     <revision>
-      <id>95</id>
-      <parentid>94</parentid>
+      <id>77</id>
+      <parentid>76</parentid>
       <timestamp>2026-01-12T11:42:55Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>95</origin>
+      <origin>77</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1451" sha1="i11iruj2v6e4np550ekhyymchii9roe" xml:space="preserve">== KI-basierte IDEs ==
@@ -3090,15 +3150,15 @@ code --profile "Codex – OpenAI" --install-extension openai.chatgpt</text>
       <sha1>i11iruj2v6e4np550ekhyymchii9roe</sha1>
     </revision>
     <revision>
-      <id>96</id>
-      <parentid>95</parentid>
+      <id>78</id>
+      <parentid>77</parentid>
       <timestamp>2026-01-12T13:29:05Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* Schnellstart */</comment>
-      <origin>96</origin>
+      <origin>78</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1554" sha1="333eob8wv5560bviw92icl9ngqc56jf" xml:space="preserve">== KI-basierte IDEs ==
@@ -3126,14 +3186,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
     <ns>0</ns>
     <id>36</id>
     <revision>
-      <id>63</id>
+      <id>79</id>
       <timestamp>2026-01-09T10:01:17Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Sehr große CMS (Enterprise/Professionell) ==  {| class="wikitable" ! Name ! Kategorie ! Anwendung/Einsatzbereich |- | Drupal | CMS | Komplexe, skalierbare Webseiten, Portale, Communities, Unternehmen |- | TYPO3 | CMS | Unternehmenswebseiten, Intranet, Enterprise-Lösungen |- | Orchard CMS | CMS | Modulare, skalierbare Webanwendungen und Portale auf .NET-Basis, Enterprise-Lösungen |- | OpenCMS | CMS | Unternehmensportale, Intranet, komplexe Webseiten,…“</comment>
-      <origin>63</origin>
+      <origin>79</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1345" sha1="9mh6kw2a062eitp9xrolcvc498dqi7d" xml:space="preserve">== Sehr große CMS (Enterprise/Professionell) ==
@@ -3226,14 +3286,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>9mh6kw2a062eitp9xrolcvc498dqi7d</sha1>
     </revision>
     <revision>
-      <id>64</id>
-      <parentid>63</parentid>
+      <id>80</id>
+      <parentid>79</parentid>
       <timestamp>2026-01-09T10:40:34Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>64</origin>
+      <origin>80</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1664" sha1="0e596xnclr0hro6eosx85purrnprt9r" xml:space="preserve">= 1. Content Management Systeme (CMS) ==
@@ -3340,15 +3400,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>0e596xnclr0hro6eosx85purrnprt9r</sha1>
     </revision>
     <revision>
-      <id>65</id>
-      <parentid>64</parentid>
+      <id>81</id>
+      <parentid>80</parentid>
       <timestamp>2026-01-09T10:40:54Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* 1. Content Management Systeme (CMS) = */</comment>
-      <origin>65</origin>
+      <origin>81</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1665" sha1="k8lbfonocjswoe6fxomjr4r4x1m4e8z" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
@@ -3455,15 +3515,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>k8lbfonocjswoe6fxomjr4r4x1m4e8z</sha1>
     </revision>
     <revision>
-      <id>66</id>
-      <parentid>65</parentid>
+      <id>82</id>
+      <parentid>81</parentid>
       <timestamp>2026-01-09T23:27:53Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>66</origin>
+      <origin>82</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1495" sha1="qpoe02sin2njdwozxyojrz4a9qffcse" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
@@ -3557,15 +3617,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>qpoe02sin2njdwozxyojrz4a9qffcse</sha1>
     </revision>
     <revision>
-      <id>67</id>
-      <parentid>66</parentid>
+      <id>83</id>
+      <parentid>82</parentid>
       <timestamp>2026-01-09T23:28:40Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>67</origin>
+      <origin>83</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1497" sha1="bsmkp4t2n0aqvzvat2d1783htumhjix" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
@@ -3659,14 +3719,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>bsmkp4t2n0aqvzvat2d1783htumhjix</sha1>
     </revision>
     <revision>
-      <id>68</id>
-      <parentid>67</parentid>
+      <id>84</id>
+      <parentid>83</parentid>
       <timestamp>2026-01-09T23:43:35Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>68</origin>
+      <origin>84</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2245" sha1="29pb8yjabjex2bja962gmv2lqhuwqxu" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
@@ -3782,14 +3842,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>29pb8yjabjex2bja962gmv2lqhuwqxu</sha1>
     </revision>
     <revision>
-      <id>69</id>
-      <parentid>68</parentid>
+      <id>85</id>
+      <parentid>84</parentid>
       <timestamp>2026-01-10T00:00:46Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>69</origin>
+      <origin>85</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1802" sha1="j679n13xp9l4pjfssflgyras27q7sdl" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
@@ -3878,14 +3938,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>j679n13xp9l4pjfssflgyras27q7sdl</sha1>
     </revision>
     <revision>
-      <id>72</id>
-      <parentid>69</parentid>
+      <id>86</id>
+      <parentid>85</parentid>
       <timestamp>2026-01-10T01:57:02Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>72</origin>
+      <origin>86</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1817" sha1="q9o6d9nxxc0pd70qqw2la907a7zonga" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
@@ -3974,14 +4034,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>q9o6d9nxxc0pd70qqw2la907a7zonga</sha1>
     </revision>
     <revision>
-      <id>83</id>
-      <parentid>72</parentid>
+      <id>87</id>
+      <parentid>86</parentid>
       <timestamp>2026-01-10T06:24:19Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>83</origin>
+      <origin>87</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1825" sha1="1yq4u7req5i1swdnx83jsen2ojniq7h" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
@@ -4070,15 +4130,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>1yq4u7req5i1swdnx83jsen2ojniq7h</sha1>
     </revision>
     <revision>
-      <id>84</id>
-      <parentid>83</parentid>
+      <id>88</id>
+      <parentid>87</parentid>
       <timestamp>2026-01-10T06:25:07Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* 2. Static Site Generatoren */</comment>
-      <origin>84</origin>
+      <origin>88</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1830" sha1="7wzkirc7650wcnjov0noah3zu6gje19" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
@@ -4167,15 +4227,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>7wzkirc7650wcnjov0noah3zu6gje19</sha1>
     </revision>
     <revision>
-      <id>86</id>
-      <parentid>84</parentid>
+      <id>89</id>
+      <parentid>88</parentid>
       <timestamp>2026-01-10T06:40:23Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* 2. Static Site Generatoren */</comment>
-      <origin>86</origin>
+      <origin>89</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1752" sha1="cq4pnxsymnleu92vt5z25lmitv26d4y" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
@@ -4261,15 +4321,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>cq4pnxsymnleu92vt5z25lmitv26d4y</sha1>
     </revision>
     <revision>
-      <id>88</id>
-      <parentid>86</parentid>
+      <id>90</id>
+      <parentid>89</parentid>
       <timestamp>2026-01-10T14:28:32Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* Static Site Generatoren mit RDF/Wikibase-Unterstützung */</comment>
-      <origin>88</origin>
+      <origin>90</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1776" sha1="qeifsshujpjae3bht4x7ayx069zdjwe" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
@@ -4355,15 +4415,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>qeifsshujpjae3bht4x7ayx069zdjwe</sha1>
     </revision>
     <revision>
-      <id>90</id>
-      <parentid>88</parentid>
+      <id>91</id>
+      <parentid>90</parentid>
       <timestamp>2026-01-11T22:05:11Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>90</origin>
+      <origin>91</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2310" sha1="ipyqtcv862qd0ufb2qgqxqhdfyucb4b" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
@@ -4461,15 +4521,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>ipyqtcv862qd0ufb2qgqxqhdfyucb4b</sha1>
     </revision>
     <revision>
-      <id>91</id>
-      <parentid>90</parentid>
+      <id>92</id>
+      <parentid>91</parentid>
       <timestamp>2026-01-11T22:26:32Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>91</origin>
+      <origin>92</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2429" sha1="i0yz892nv74xtmq9c67r534znjovo46" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
@@ -4570,15 +4630,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>i0yz892nv74xtmq9c67r534znjovo46</sha1>
     </revision>
     <revision>
-      <id>92</id>
-      <parentid>91</parentid>
+      <id>93</id>
+      <parentid>92</parentid>
       <timestamp>2026-01-12T00:32:16Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>92</origin>
+      <origin>93</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2717" sha1="nntejeuet44g83lpkcbkk6olfjo85co" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
@@ -4687,15 +4747,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>nntejeuet44g83lpkcbkk6olfjo85co</sha1>
     </revision>
     <revision>
-      <id>99</id>
-      <parentid>92</parentid>
+      <id>94</id>
+      <parentid>93</parentid>
       <timestamp>2026-01-13T04:07:46Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* 3. Wiki-Systeme */</comment>
-      <origin>99</origin>
+      <origin>94</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2427" sha1="6terrnbescz1l60sqikulnc2bcngrpu" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
@@ -4794,15 +4854,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>6terrnbescz1l60sqikulnc2bcngrpu</sha1>
     </revision>
     <revision>
-      <id>108</id>
-      <parentid>99</parentid>
+      <id>95</id>
+      <parentid>94</parentid>
       <timestamp>2026-01-13T04:56:28Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>108</origin>
+      <origin>95</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="641" sha1="0f0txyjmq0uazn0d1s0nzgm596o8u3q" xml:space="preserve">== 1. Content Management Systeme (CMS) ==
@@ -4838,14 +4898,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>0f0txyjmq0uazn0d1s0nzgm596o8u3q</sha1>
     </revision>
     <revision>
-      <id>109</id>
-      <parentid>108</parentid>
+      <id>96</id>
+      <parentid>95</parentid>
       <timestamp>2026-01-13T06:55:26Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>109</origin>
+      <origin>96</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="265" sha1="k1xl59e9mlrskmeq2w6dp4g1llsvxta" xml:space="preserve">
@@ -4867,15 +4927,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>k1xl59e9mlrskmeq2w6dp4g1llsvxta</sha1>
     </revision>
     <revision>
-      <id>110</id>
-      <parentid>109</parentid>
+      <id>97</id>
+      <parentid>96</parentid>
       <timestamp>2026-01-13T10:20:46Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>110</origin>
+      <origin>97</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="406" sha1="l29bkc2nfkqsdjs4oq5ymqdn1s5pfyl" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -4908,15 +4968,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>l29bkc2nfkqsdjs4oq5ymqdn1s5pfyl</sha1>
     </revision>
     <revision>
-      <id>111</id>
-      <parentid>110</parentid>
+      <id>98</id>
+      <parentid>97</parentid>
       <timestamp>2026-01-13T10:21:39Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* 2. Wiki-Eigenbau-System */</comment>
-      <origin>111</origin>
+      <origin>98</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="404" sha1="2e5q063ho6wz5jhkyqui7rym9d3udgu" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -4947,14 +5007,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>2e5q063ho6wz5jhkyqui7rym9d3udgu</sha1>
     </revision>
     <revision>
-      <id>112</id>
-      <parentid>111</parentid>
+      <id>99</id>
+      <parentid>98</parentid>
       <timestamp>2026-01-13T10:23:29Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>112</origin>
+      <origin>99</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="423" sha1="366nms02zkpp0mr1etk33k76h5for11" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -4985,15 +5045,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>366nms02zkpp0mr1etk33k76h5for11</sha1>
     </revision>
     <revision>
-      <id>113</id>
-      <parentid>112</parentid>
+      <id>100</id>
+      <parentid>99</parentid>
       <timestamp>2026-01-13T10:24:10Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* 2. Wiki-Eigenbau-System */</comment>
-      <origin>113</origin>
+      <origin>100</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="422" sha1="9bzb2g1nvk3vhuxf7wp3zacjb0wh3zs" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5024,15 +5084,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>9bzb2g1nvk3vhuxf7wp3zacjb0wh3zs</sha1>
     </revision>
     <revision>
-      <id>114</id>
-      <parentid>113</parentid>
+      <id>101</id>
+      <parentid>100</parentid>
       <timestamp>2026-01-13T10:34:35Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>114</origin>
+      <origin>101</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="404" sha1="6lo9lme3crg7oa9wg4h1pa5l44awn2l" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5063,14 +5123,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>6lo9lme3crg7oa9wg4h1pa5l44awn2l</sha1>
     </revision>
     <revision>
-      <id>115</id>
-      <parentid>114</parentid>
+      <id>102</id>
+      <parentid>101</parentid>
       <timestamp>2026-01-13T10:48:15Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>115</origin>
+      <origin>102</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="424" sha1="of6m74yvwzxjs10axhrg1xhehbpkh6v" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5101,15 +5161,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>of6m74yvwzxjs10axhrg1xhehbpkh6v</sha1>
     </revision>
     <revision>
-      <id>116</id>
-      <parentid>115</parentid>
+      <id>103</id>
+      <parentid>102</parentid>
       <timestamp>2026-01-13T10:48:43Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* 2. Wiki-Eigenbau-System */</comment>
-      <origin>116</origin>
+      <origin>103</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="425" sha1="s1pha892bpwgyvzwtr66obrld859i59" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5140,15 +5200,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>s1pha892bpwgyvzwtr66obrld859i59</sha1>
     </revision>
     <revision>
-      <id>119</id>
-      <parentid>116</parentid>
+      <id>104</id>
+      <parentid>103</parentid>
       <timestamp>2026-01-13T22:39:12Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>119</origin>
+      <origin>104</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="494" sha1="s139bv7t9jfz3c86hdqurjzl19htudc" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5181,14 +5241,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>s139bv7t9jfz3c86hdqurjzl19htudc</sha1>
     </revision>
     <revision>
-      <id>120</id>
-      <parentid>119</parentid>
+      <id>105</id>
+      <parentid>104</parentid>
       <timestamp>2026-01-13T22:40:16Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>120</origin>
+      <origin>105</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="491" sha1="f67ik2h7tigaqvqgvju391pczj7e3t4" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5221,14 +5281,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>f67ik2h7tigaqvqgvju391pczj7e3t4</sha1>
     </revision>
     <revision>
-      <id>132</id>
-      <parentid>120</parentid>
+      <id>106</id>
+      <parentid>105</parentid>
       <timestamp>2026-01-15T05:31:35Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>132</origin>
+      <origin>106</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="495" sha1="ku54hkhe1imxd77v8f5iopgq0w77b2e" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5261,14 +5321,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>ku54hkhe1imxd77v8f5iopgq0w77b2e</sha1>
     </revision>
     <revision>
-      <id>133</id>
-      <parentid>132</parentid>
+      <id>107</id>
+      <parentid>106</parentid>
       <timestamp>2026-01-15T05:36:21Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>133</origin>
+      <origin>107</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="505" sha1="hvnw1gemt8d7ktviilyy3zaf81j4c3l" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5301,15 +5361,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>hvnw1gemt8d7ktviilyy3zaf81j4c3l</sha1>
     </revision>
     <revision>
-      <id>145</id>
-      <parentid>133</parentid>
+      <id>108</id>
+      <parentid>107</parentid>
       <timestamp>2026-01-17T01:40:03Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* 1. Wiki-Systeme */</comment>
-      <origin>145</origin>
+      <origin>108</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="509" sha1="p2gvj5eystb4its1f8llwk3livyym1s" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5342,14 +5402,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>p2gvj5eystb4its1f8llwk3livyym1s</sha1>
     </revision>
     <revision>
-      <id>146</id>
-      <parentid>145</parentid>
+      <id>109</id>
+      <parentid>108</parentid>
       <timestamp>2026-01-17T01:42:49Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>146</origin>
+      <origin>109</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="513" sha1="gy6uem0etwf7oytwngqzqvxkzqolztz" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5382,14 +5442,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>gy6uem0etwf7oytwngqzqvxkzqolztz</sha1>
     </revision>
     <revision>
-      <id>147</id>
-      <parentid>146</parentid>
+      <id>110</id>
+      <parentid>109</parentid>
       <timestamp>2026-01-17T01:43:12Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>147</origin>
+      <origin>110</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="523" sha1="2brjhhxx0onswua0qnbs9drltxag1se" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5422,15 +5482,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>2brjhhxx0onswua0qnbs9drltxag1se</sha1>
     </revision>
     <revision>
-      <id>154</id>
-      <parentid>147</parentid>
+      <id>111</id>
+      <parentid>110</parentid>
       <timestamp>2026-01-17T03:39:45Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>154</origin>
+      <origin>111</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="840" sha1="jd04aw2v7j7jh7ubgrmkmzj8p7dyq5n" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5476,15 +5536,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>jd04aw2v7j7jh7ubgrmkmzj8p7dyq5n</sha1>
     </revision>
     <revision>
-      <id>155</id>
-      <parentid>154</parentid>
+      <id>112</id>
+      <parentid>111</parentid>
       <timestamp>2026-01-17T03:45:06Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>155</origin>
+      <origin>112</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="925" sha1="2keqegcjzvw9onmjs8dtatxjm7snjwq" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5533,15 +5593,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>2keqegcjzvw9onmjs8dtatxjm7snjwq</sha1>
     </revision>
     <revision>
-      <id>156</id>
-      <parentid>155</parentid>
+      <id>113</id>
+      <parentid>112</parentid>
       <timestamp>2026-01-17T03:46:47Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>156</origin>
+      <origin>113</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="924" sha1="tw0p7tb7utlhacctylu9d8kfnq694ej" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5590,14 +5650,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>tw0p7tb7utlhacctylu9d8kfnq694ej</sha1>
     </revision>
     <revision>
-      <id>167</id>
-      <parentid>156</parentid>
+      <id>114</id>
+      <parentid>113</parentid>
       <timestamp>2026-01-17T08:36:44Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>167</origin>
+      <origin>114</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="784" sha1="fcs4qysoqvdx7glup9e0e7lbei9jx7v" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5642,14 +5702,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>fcs4qysoqvdx7glup9e0e7lbei9jx7v</sha1>
     </revision>
     <revision>
-      <id>168</id>
-      <parentid>167</parentid>
+      <id>115</id>
+      <parentid>114</parentid>
       <timestamp>2026-01-17T09:09:33Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>168</origin>
+      <origin>115</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="630" sha1="n9tm4mxyozmtvbfz30y18t500n7dlkc" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5688,14 +5748,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>n9tm4mxyozmtvbfz30y18t500n7dlkc</sha1>
     </revision>
     <revision>
-      <id>170</id>
-      <parentid>168</parentid>
+      <id>116</id>
+      <parentid>115</parentid>
       <timestamp>2026-01-17T10:25:01Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>170</origin>
+      <origin>116</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="607" sha1="7bk17g79xsjv47sjqehgr0m2dqh81bk" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5731,14 +5791,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>7bk17g79xsjv47sjqehgr0m2dqh81bk</sha1>
     </revision>
     <revision>
-      <id>171</id>
-      <parentid>170</parentid>
+      <id>117</id>
+      <parentid>116</parentid>
       <timestamp>2026-01-17T11:02:05Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>171</origin>
+      <origin>117</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="784" sha1="fcs4qysoqvdx7glup9e0e7lbei9jx7v" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5783,14 +5843,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>fcs4qysoqvdx7glup9e0e7lbei9jx7v</sha1>
     </revision>
     <revision>
-      <id>172</id>
-      <parentid>171</parentid>
+      <id>118</id>
+      <parentid>117</parentid>
       <timestamp>2026-01-17T11:02:21Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>172</origin>
+      <origin>118</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="782" sha1="1lb2g4du4ejrwjcxsox4yszw36y7l3m" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5835,15 +5895,15 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>1lb2g4du4ejrwjcxsox4yszw36y7l3m</sha1>
     </revision>
     <revision>
-      <id>173</id>
-      <parentid>172</parentid>
+      <id>119</id>
+      <parentid>118</parentid>
       <timestamp>2026-01-17T11:27:54Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>173</origin>
+      <origin>119</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="785" sha1="r7iefzspz6rx6bwza9sds6qcaqaoewe" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5889,14 +5949,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>r7iefzspz6rx6bwza9sds6qcaqaoewe</sha1>
     </revision>
     <revision>
-      <id>179</id>
-      <parentid>173</parentid>
+      <id>120</id>
+      <parentid>119</parentid>
       <timestamp>2026-01-17T14:23:20Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>179</origin>
+      <origin>120</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="618" sha1="p8lpfqylfimw15ipcd7z4vhlhf873wv" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5933,14 +5993,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>p8lpfqylfimw15ipcd7z4vhlhf873wv</sha1>
     </revision>
     <revision>
-      <id>180</id>
-      <parentid>179</parentid>
+      <id>121</id>
+      <parentid>120</parentid>
       <timestamp>2026-01-17T14:23:48Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>180</origin>
+      <origin>121</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="607" sha1="7bk17g79xsjv47sjqehgr0m2dqh81bk" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -5976,14 +6036,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>7bk17g79xsjv47sjqehgr0m2dqh81bk</sha1>
     </revision>
     <revision>
-      <id>181</id>
-      <parentid>180</parentid>
+      <id>122</id>
+      <parentid>121</parentid>
       <timestamp>2026-01-17T14:24:35Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>181</origin>
+      <origin>122</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="576" sha1="dm58m2uclsi6rytdpsqmjjz67q0xlgs" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -6019,14 +6079,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>dm58m2uclsi6rytdpsqmjjz67q0xlgs</sha1>
     </revision>
     <revision>
-      <id>182</id>
-      <parentid>181</parentid>
+      <id>123</id>
+      <parentid>122</parentid>
       <timestamp>2026-01-17T17:54:47Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>182</origin>
+      <origin>123</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="612" sha1="fenqi5pp7u49jnz1y86gr5m7dd2uakb" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -6064,14 +6124,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>fenqi5pp7u49jnz1y86gr5m7dd2uakb</sha1>
     </revision>
     <revision>
-      <id>183</id>
-      <parentid>182</parentid>
+      <id>124</id>
+      <parentid>123</parentid>
       <timestamp>2026-01-17T17:55:26Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>183</origin>
+      <origin>124</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="617" sha1="7vtm5jqg27z82qz22dc77u8m5vm8oy5" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -6109,14 +6169,14 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
       <sha1>7vtm5jqg27z82qz22dc77u8m5vm8oy5</sha1>
     </revision>
     <revision>
-      <id>184</id>
-      <parentid>183</parentid>
+      <id>125</id>
+      <parentid>124</parentid>
       <timestamp>2026-01-17T17:57:04Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>184</origin>
+      <origin>125</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="622" sha1="qr2usndohndo5f8ie4trfjmy7th9odl" xml:space="preserve">== 1. Wiki-Systeme ==
@@ -6153,20 +6213,79 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
 |}</text>
       <sha1>qr2usndohndo5f8ie4trfjmy7th9odl</sha1>
     </revision>
+    <revision>
+      <id>196</id>
+      <parentid>125</parentid>
+      <timestamp>2026-01-18T19:01:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>196</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="822" sha1="ezt3k1hvl48k19ne6c08vngx8ge0rh3" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 3. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://moodle.org Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}</text>
+      <sha1>ezt3k1hvl48k19ne6c08vngx8ge0rh3</sha1>
+    </revision>
   </page>
   <page>
     <title>CMS/Drupal</title>
     <ns>0</ns>
     <id>37</id>
     <revision>
-      <id>73</id>
+      <id>126</id>
       <timestamp>2026-01-10T02:01:48Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>73</origin>
+      <origin>126</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="349" sha1="4hyzd83guchc66zgy6m4f911vgo4u92" xml:space="preserve">== Was ist Drupal? ==
@@ -6175,14 +6294,14 @@ Drupal ist ein leistungsstarkes, quelloffenes Content-Management-System (CMS), d
       <sha1>4hyzd83guchc66zgy6m4f911vgo4u92</sha1>
     </revision>
     <revision>
-      <id>74</id>
-      <parentid>73</parentid>
+      <id>127</id>
+      <parentid>126</parentid>
       <timestamp>2026-01-10T02:02:55Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>74</origin>
+      <origin>127</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="363" sha1="biij1ovca6o7h4f8yc2pm49oeyyfgvg" xml:space="preserve">== Was ist Drupal? ==
@@ -6191,15 +6310,15 @@ Drupal ist ein leistungsstarkes, quelloffenes Content-Management-System (CMS), d
       <sha1>biij1ovca6o7h4f8yc2pm49oeyyfgvg</sha1>
     </revision>
     <revision>
-      <id>75</id>
-      <parentid>74</parentid>
+      <id>128</id>
+      <parentid>127</parentid>
       <timestamp>2026-01-10T02:05:43Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>75</origin>
+      <origin>128</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="406" sha1="gdf4c0la4uz14qqga3wz6w2l9f20s3g" xml:space="preserve">== Was ist Drupal? ==
@@ -6209,15 +6328,15 @@ Drupal ist ein leistungsstarkes, quelloffenes Content-Management-System (CMS), d
       <sha1>gdf4c0la4uz14qqga3wz6w2l9f20s3g</sha1>
     </revision>
     <revision>
-      <id>76</id>
-      <parentid>75</parentid>
+      <id>129</id>
+      <parentid>128</parentid>
       <timestamp>2026-01-10T02:07:12Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>76</origin>
+      <origin>129</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="408" sha1="bvzi90xj6exk6huet1cxoiycsr4adnw" xml:space="preserve">== Was ist Drupal? ==
@@ -6232,14 +6351,14 @@ Drupal ist ein leistungsstarkes, quelloffenes Content-Management-System (CMS), d
     <ns>0</ns>
     <id>38</id>
     <revision>
-      <id>77</id>
+      <id>130</id>
       <timestamp>2026-01-10T02:16:19Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>77</origin>
+      <origin>130</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3947" sha1="ab2drg4r6yeotp1gns77dqtl0ev1c0l" xml:space="preserve">== Voraussetzungen für die Installation von Drupal auf Ubuntu ==
@@ -6360,15 +6479,15 @@ sudo systemctl restart nginx
       <sha1>ab2drg4r6yeotp1gns77dqtl0ev1c0l</sha1>
     </revision>
     <revision>
-      <id>78</id>
-      <parentid>77</parentid>
+      <id>131</id>
+      <parentid>130</parentid>
       <timestamp>2026-01-10T02:18:07Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* 4. Beispielkonfiguration für Nginx */</comment>
-      <origin>78</origin>
+      <origin>131</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3938" sha1="i1a8fh3qw9fmep1l0pqabljjffxfl7o" xml:space="preserve">== Voraussetzungen für die Installation von Drupal auf Ubuntu ==
@@ -6489,14 +6608,14 @@ sudo systemctl restart nginx
       <sha1>i1a8fh3qw9fmep1l0pqabljjffxfl7o</sha1>
     </revision>
     <revision>
-      <id>79</id>
-      <parentid>78</parentid>
+      <id>132</id>
+      <parentid>131</parentid>
       <timestamp>2026-01-10T02:18:40Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>79</origin>
+      <origin>132</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3867" sha1="gz3k9gop6tpck9xe37vcmw4vhhed16p" xml:space="preserve">== Voraussetzungen für die Installation von Drupal auf Ubuntu ==
@@ -6621,14 +6740,14 @@ sudo systemctl restart nginx
     <ns>0</ns>
     <id>39</id>
     <revision>
-      <id>80</id>
+      <id>133</id>
       <timestamp>2026-01-10T02:49:16Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>80</origin>
+      <origin>133</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="602" sha1="0d5uodjmngnqqctp164lwa8h7kbtg8e" xml:space="preserve">== Drupal Installation ==
@@ -6655,14 +6774,14 @@ Folge diesen Schritten, um Drupal auf deinem lokalen Rechner zu installieren:
     <ns>0</ns>
     <id>40</id>
     <revision>
-      <id>85</id>
+      <id>134</id>
       <timestamp>2026-01-10T06:39:11Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>85</origin>
+      <origin>134</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="565" sha1="r36eatou7c0sl5mgvmmfnoh6xlq54eb" xml:space="preserve">== Hugo ==
@@ -6682,15 +6801,15 @@ go install github.com/gohugoio/hugo@latest
       <sha1>r36eatou7c0sl5mgvmmfnoh6xlq54eb</sha1>
     </revision>
     <revision>
-      <id>87</id>
-      <parentid>85</parentid>
+      <id>135</id>
+      <parentid>134</parentid>
       <timestamp>2026-01-10T09:23:27Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>87</origin>
+      <origin>135</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="839" sha1="fuj4q5lqk4pxv80tyd14j24xnssnd0n" xml:space="preserve">== Hugo ==
@@ -6720,14 +6839,14 @@ CGO_ENABLED=1 go install -tags extended,withdeploy github.com/gohugoio/hugo@late
     <ns>0</ns>
     <id>41</id>
     <revision>
-      <id>89</id>
+      <id>136</id>
       <timestamp>2026-01-10T14:46:20Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>89</origin>
+      <origin>136</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="359" sha1="2dq8lkovuded1j9ymvpwjytztgqqsav" xml:space="preserve">==Eleventy (11ty)==
@@ -6749,14 +6868,14 @@ eleventy
     <ns>0</ns>
     <id>42</id>
     <revision>
-      <id>97</id>
+      <id>137</id>
       <timestamp>2026-01-13T04:00:47Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „ == Voraussetzungen für die Installation von Typo3 auf Ubuntu ==  === 1. PHP und benötigte Erweiterungen installieren === Führen Sie folgenden Befehl aus, um PHP und alle benötigten Erweiterungen zu installieren:  sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y  === 1.1. PostgreSQL PHP-Treiber installiere…“</comment>
-      <origin>97</origin>
+      <origin>137</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1504" sha1="dto33swksqjc5rwcc72w2zmyopzr2y1" xml:space="preserve">
@@ -6793,15 +6912,15 @@ Entfernen Sie die Standardkonfiguration:
       <sha1>dto33swksqjc5rwcc72w2zmyopzr2y1</sha1>
     </revision>
     <revision>
-      <id>98</id>
-      <parentid>97</parentid>
+      <id>138</id>
+      <parentid>137</parentid>
       <timestamp>2026-01-13T04:03:24Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* 1.1. PostgreSQL PHP-Treiber installieren */</comment>
-      <origin>98</origin>
+      <origin>138</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1502" sha1="mmagfjgod40andd42zmecoe3ma04xfp" xml:space="preserve">
@@ -6838,14 +6957,14 @@ Entfernen Sie die Standardkonfiguration:
       <sha1>mmagfjgod40andd42zmecoe3ma04xfp</sha1>
     </revision>
     <revision>
-      <id>100</id>
-      <parentid>98</parentid>
+      <id>139</id>
+      <parentid>138</parentid>
       <timestamp>2026-01-13T04:25:31Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>100</origin>
+      <origin>139</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1543" sha1="6fuedookr88usox5xosy673o0ocek5j" xml:space="preserve">* [[CMS/Typo3/Installieren|Installieren]]
@@ -6882,14 +7001,14 @@ Entfernen Sie die Standardkonfiguration:
       <sha1>6fuedookr88usox5xosy673o0ocek5j</sha1>
     </revision>
     <revision>
-      <id>101</id>
-      <parentid>100</parentid>
+      <id>140</id>
+      <parentid>139</parentid>
       <timestamp>2026-01-13T04:26:09Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>101</origin>
+      <origin>140</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1549" sha1="6adzsgjbs0nit9zleoyaxj73adoan2e" xml:space="preserve">* [[CMS/Typo3/Voraussetzungen|Voraussetzungen]]
@@ -6926,15 +7045,15 @@ Entfernen Sie die Standardkonfiguration:
       <sha1>6adzsgjbs0nit9zleoyaxj73adoan2e</sha1>
     </revision>
     <revision>
-      <id>103</id>
-      <parentid>101</parentid>
+      <id>141</id>
+      <parentid>140</parentid>
       <timestamp>2026-01-13T04:26:49Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Der Seiteninhalt wurde durch einen anderen Text ersetzt: „* [[CMS/Typo3/Voraussetzungen|Voraussetzungen]] == Voraussetzungen für die Installation von Typo3 auf Ubuntu ==“</comment>
-      <origin>103</origin>
+      <origin>141</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="112" sha1="9xu0v2zhrx2kek8td5yczknhh7j8hzp" xml:space="preserve">* [[CMS/Typo3/Voraussetzungen|Voraussetzungen]]
@@ -6942,29 +7061,29 @@ Entfernen Sie die Standardkonfiguration:
       <sha1>9xu0v2zhrx2kek8td5yczknhh7j8hzp</sha1>
     </revision>
     <revision>
-      <id>104</id>
-      <parentid>103</parentid>
+      <id>142</id>
+      <parentid>141</parentid>
       <timestamp>2026-01-13T04:27:02Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>104</origin>
+      <origin>142</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="47" sha1="4g83efbseqhdiv5ujk6pm6lk0ju5l2u" xml:space="preserve">* [[CMS/Typo3/Voraussetzungen|Voraussetzungen]]</text>
       <sha1>4g83efbseqhdiv5ujk6pm6lk0ju5l2u</sha1>
     </revision>
     <revision>
-      <id>105</id>
-      <parentid>104</parentid>
+      <id>143</id>
+      <parentid>142</parentid>
       <timestamp>2026-01-13T04:39:50Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>105</origin>
+      <origin>143</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="305" sha1="p53kxvnv4xi3e58uouwwb2s1sq68eb9" xml:space="preserve">'''Typo3''' ist ein leistungsfähiges, flexibles und quelloffenes Content-Management-System (CMS), das sich besonders für mittlere bis große Websites eignet. Es bietet umfangreiche Funktionen zur Verwaltung von Inhalten, Benutzerrechten und Erweiterungen.
@@ -6977,14 +7096,14 @@ Entfernen Sie die Standardkonfiguration:
     <ns>0</ns>
     <id>43</id>
     <revision>
-      <id>102</id>
+      <id>144</id>
       <timestamp>2026-01-13T04:26:32Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Voraussetzungen für die Installation von Typo3 auf Ubuntu ==  === 1. PHP und benötigte Erweiterungen installieren === Führen Sie folgenden Befehl aus, um PHP und alle benötigten Erweiterungen zu installieren:  sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y  === 1.1. PostgreSQL PHP-Treiber installieren…“</comment>
-      <origin>102</origin>
+      <origin>144</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1501" sha1="580q8m2cv6om4fyeirgotw7m9jhal7o" xml:space="preserve">== Voraussetzungen für die Installation von Typo3 auf Ubuntu ==
@@ -7020,14 +7139,14 @@ Entfernen Sie die Standardkonfiguration:
       <sha1>580q8m2cv6om4fyeirgotw7m9jhal7o</sha1>
     </revision>
     <revision>
-      <id>106</id>
-      <parentid>102</parentid>
+      <id>145</id>
+      <parentid>144</parentid>
       <timestamp>2026-01-13T04:43:29Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>106</origin>
+      <origin>145</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1531" sha1="aqus082bvv7bn5v3zv20pk53u6qsgp2" xml:space="preserve">== Voraussetzungen für die Installation von Typo3 auf Ubuntu ==
@@ -7065,15 +7184,15 @@ Entfernen Sie die Standardkonfiguration:
       <sha1>aqus082bvv7bn5v3zv20pk53u6qsgp2</sha1>
     </revision>
     <revision>
-      <id>107</id>
-      <parentid>106</parentid>
+      <id>146</id>
+      <parentid>145</parentid>
       <timestamp>2026-01-13T04:52:09Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>107</origin>
+      <origin>146</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="4546" sha1="0k0nudbh1eszn68jju3tm6tj3l09ygi" xml:space="preserve">== Voraussetzungen für die Installation von Typo3 auf Ubuntu ==
@@ -7223,14 +7342,14 @@ server {
     <ns>0</ns>
     <id>44</id>
     <revision>
-      <id>117</id>
+      <id>147</id>
       <timestamp>2026-01-13T11:43:53Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>117</origin>
+      <origin>147</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1844" sha1="az1dv0f7em2759aikiba9g3bdt0ly9d" xml:space="preserve">Das Vorhaben, ein eigenes CMS auf Basis von ASP.NET Core MVC zu entwickeln, das sich an etablierten Systemen wie MediaWiki, TYPO3, Drupal, XWiki, wiki.js oder Bookstack orientiert, ist anspruchsvoll, aber ein hervorragendes Projekt. ASP.NET Core eignet sich aufgrund seiner Performance und modularen Architektur ideal dafür.
@@ -7267,15 +7386,15 @@ Hierbei fängt die Route alle Pfade ab ("{*slug}") und leitet sie an den Control
       <sha1>az1dv0f7em2759aikiba9g3bdt0ly9d</sha1>
     </revision>
     <revision>
-      <id>118</id>
-      <parentid>117</parentid>
+      <id>148</id>
+      <parentid>147</parentid>
       <timestamp>2026-01-13T12:11:33Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>118</origin>
+      <origin>148</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2610" sha1="t84152b9hssdez318llv27b3hj81v9r" xml:space="preserve">Das Vorhaben, ein eigenes CMS auf Basis von ASP.NET Core MVC zu entwickeln, das sich an etablierten Systemen wie MediaWiki, TYPO3, Drupal, XWiki, wiki.js oder Bookstack orientiert, ist anspruchsvoll, aber ein hervorragendes Projekt. ASP.NET Core eignet sich aufgrund seiner Performance und modularen Architektur ideal dafür.
@@ -7350,14 +7469,14 @@ public class PageController : Controller
     <ns>0</ns>
     <id>45</id>
     <revision>
-      <id>121</id>
+      <id>149</id>
       <timestamp>2026-01-14T13:29:29Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>121</origin>
+      <origin>149</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1978" sha1="oltoghn50798bwa3imzqy08yup90uoi" xml:space="preserve">==A-Record: Verweist eine Domain==
@@ -7427,14 +7546,14 @@ example.de  TXT  "google-site-verification=abc123xyz"
     <ns>0</ns>
     <id>46</id>
     <revision>
-      <id>122</id>
+      <id>150</id>
       <timestamp>2026-01-14T14:22:16Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „== Mailserver Setup Guide ==  === 0. Installation der Basis-Pakete &amp; Firewall === System aktualisieren und Postfix sowie Hilfswerkzeuge installieren:  &lt;syntaxhighlight lang="bash"&gt; sudo apt update sudo apt install -y postfix mailutils libsasl2-2 libsasl2-modules opendkim opendkim-tools  # Firewall-Regeln für Mail-Verkehr anpassen (UFW) sudo ufw allow Postfix sudo ufw allow "Postfix SMTPS" sudo ufw allow "Postfix Submission" &lt;/syntaxhighlight&gt;  === 1. Pos…“</comment>
-      <origin>122</origin>
+      <origin>150</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2048" sha1="mi7enlt7sgi0czusfo3zu7au6puhkaa" xml:space="preserve">== Mailserver Setup Guide ==
@@ -7494,15 +7613,15 @@ systemctl restart postfix
       <sha1>mi7enlt7sgi0czusfo3zu7au6puhkaa</sha1>
     </revision>
     <revision>
-      <id>123</id>
-      <parentid>122</parentid>
+      <id>151</id>
+      <parentid>150</parentid>
       <timestamp>2026-01-14T15:37:31Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>123</origin>
+      <origin>151</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2456" sha1="eqwy77dnxur6xlvzc7rcr58o02x5apw" xml:space="preserve">== Mailserver Setup Guide ==
@@ -7563,15 +7682,15 @@ systemctl restart postfix
       <sha1>eqwy77dnxur6xlvzc7rcr58o02x5apw</sha1>
     </revision>
     <revision>
-      <id>124</id>
-      <parentid>123</parentid>
+      <id>152</id>
+      <parentid>151</parentid>
       <timestamp>2026-01-14T15:47:50Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>124</origin>
+      <origin>152</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2899" sha1="suo0zmi3gdx72bplsecjx4niqy7sh95" xml:space="preserve">== Mailserver Setup Guide ==
@@ -7648,14 +7767,14 @@ Hier ist der Link: [https://postmaster.google.com/ Postmaster]</text>
     <ns>0</ns>
     <id>47</id>
     <revision>
-      <id>131</id>
+      <id>153</id>
       <timestamp>2026-01-14T19:01:06Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>131</origin>
+      <origin>153</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="820" sha1="8uqsdgm9q3xgv7804im9m3askw1z4r5" xml:space="preserve">==Ghosttext Visual Studio Code==
@@ -7681,14 +7800,14 @@ Weitere Infos: [https://ghosttext.fregante.com/ Offizielle GhostText-Webseite]</
     <ns>0</ns>
     <id>48</id>
     <revision>
-      <id>134</id>
+      <id>154</id>
       <timestamp>2026-01-15T06:01:23Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>134</origin>
+      <origin>154</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1557" sha1="ctaxxo7edqh7q6wtf2a1xg9cmq4z0wz" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
@@ -7727,14 +7846,14 @@ exit # Beendet die Sitzung als Benutzer 'postgres' und kehrt zum vorherigen Benu
     <ns>0</ns>
     <id>49</id>
     <revision>
-      <id>135</id>
+      <id>155</id>
       <timestamp>2026-01-15T06:02:11Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>135</origin>
+      <origin>155</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1557" sha1="ctaxxo7edqh7q6wtf2a1xg9cmq4z0wz" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
@@ -7768,15 +7887,15 @@ exit # Beendet die Sitzung als Benutzer 'postgres' und kehrt zum vorherigen Benu
       <sha1>ctaxxo7edqh7q6wtf2a1xg9cmq4z0wz</sha1>
     </revision>
     <revision>
-      <id>136</id>
-      <parentid>135</parentid>
+      <id>156</id>
+      <parentid>155</parentid>
       <timestamp>2026-01-15T09:11:21Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>136</origin>
+      <origin>156</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3900" sha1="6wela3h6d14357ui8aa29lzt6ymxnv3" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
@@ -7891,15 +8010,15 @@ sudo htpasswd -c /etc/nginx/.htpasswd thorsten
       <sha1>6wela3h6d14357ui8aa29lzt6ymxnv3</sha1>
     </revision>
     <revision>
-      <id>137</id>
-      <parentid>136</parentid>
+      <id>157</id>
+      <parentid>156</parentid>
       <timestamp>2026-01-15T11:20:39Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>137</origin>
+      <origin>157</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3653" sha1="06r9n1ov13k6wbriqcxu2ju2j742axk" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
@@ -8013,15 +8132,15 @@ sudo htpasswd -c /etc/nginx/.htpasswd thorsten
       <sha1>06r9n1ov13k6wbriqcxu2ju2j742axk</sha1>
     </revision>
     <revision>
-      <id>138</id>
-      <parentid>137</parentid>
+      <id>158</id>
+      <parentid>157</parentid>
       <timestamp>2026-01-15T11:33:26Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>138</origin>
+      <origin>158</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3536" sha1="0kmnoefln7h86wyh3xdo02h30tcaztl" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
@@ -8132,15 +8251,15 @@ location /xwiki {
       <sha1>0kmnoefln7h86wyh3xdo02h30tcaztl</sha1>
     </revision>
     <revision>
-      <id>139</id>
-      <parentid>138</parentid>
+      <id>159</id>
+      <parentid>158</parentid>
       <timestamp>2026-01-15T11:37:16Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>139</origin>
+      <origin>159</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3530" sha1="9grpf73ov4fjdgrzt8t6wmkrgpapb9w" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
@@ -8251,15 +8370,15 @@ location /xwiki {
       <sha1>9grpf73ov4fjdgrzt8t6wmkrgpapb9w</sha1>
     </revision>
     <revision>
-      <id>140</id>
-      <parentid>139</parentid>
+      <id>160</id>
+      <parentid>159</parentid>
       <timestamp>2026-01-16T02:40:58Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>140</origin>
+      <origin>160</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3825" sha1="f4yyh3pymtyxdm2fsrtxxxhcotpd9r0" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
@@ -8387,15 +8506,15 @@ exit
       <sha1>f4yyh3pymtyxdm2fsrtxxxhcotpd9r0</sha1>
     </revision>
     <revision>
-      <id>141</id>
-      <parentid>140</parentid>
+      <id>161</id>
+      <parentid>160</parentid>
       <timestamp>2026-01-16T02:47:18Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>141</origin>
+      <origin>161</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3689" sha1="127lmyy6t5r1ffb73ccnvg9yk21aci5" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
@@ -8517,15 +8636,15 @@ exit
       <sha1>127lmyy6t5r1ffb73ccnvg9yk21aci5</sha1>
     </revision>
     <revision>
-      <id>142</id>
-      <parentid>141</parentid>
+      <id>162</id>
+      <parentid>161</parentid>
       <timestamp>2026-01-16T04:24:37Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>142</origin>
+      <origin>162</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3988" sha1="9j3vvxkvl2oxbliq9g1ijgwg7zdf9zj" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
@@ -8664,15 +8783,15 @@ sudo tar -cvzf xwiki_files_backup.tar.gz /var/lib/xwiki /etc/xwiki
       <sha1>9j3vvxkvl2oxbliq9g1ijgwg7zdf9zj</sha1>
     </revision>
     <revision>
-      <id>143</id>
-      <parentid>142</parentid>
+      <id>163</id>
+      <parentid>162</parentid>
       <timestamp>2026-01-16T04:26:11Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* XWiki Backup */</comment>
-      <origin>143</origin>
+      <origin>163</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="3987" sha1="pucjptbh6es5zcarv15a3syolm46jyk" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
@@ -8811,15 +8930,15 @@ sudo tar -cvzf xwiki_files_backup.tar.gz /var/lib/xwiki /etc/xwiki
       <sha1>pucjptbh6es5zcarv15a3syolm46jyk</sha1>
     </revision>
     <revision>
-      <id>144</id>
-      <parentid>143</parentid>
+      <id>164</id>
+      <parentid>163</parentid>
       <timestamp>2026-01-16T04:35:28Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>144</origin>
+      <origin>164</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="4183" sha1="oopgiigbjkj608au19e6p5npx8m4pwj" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
@@ -8958,15 +9077,15 @@ Zusatz-Check: Vergiss nicht, dir eine Kopie deiner Konfigurationsdateien aus /et
       <sha1>oopgiigbjkj608au19e6p5npx8m4pwj</sha1>
     </revision>
     <revision>
-      <id>169</id>
-      <parentid>144</parentid>
+      <id>165</id>
+      <parentid>164</parentid>
       <timestamp>2026-01-17T09:11:57Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* Ubuntu Rechner */</comment>
-      <origin>169</origin>
+      <origin>165</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2695" sha1="1x5w35ob7xusjw5t97bxjc31ibvnt7i" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
@@ -9079,15 +9198,15 @@ Zusatz-Check: Vergiss nicht, dir eine Kopie deiner Konfigurationsdateien aus /et
       <sha1>1x5w35ob7xusjw5t97bxjc31ibvnt7i</sha1>
     </revision>
     <revision>
-      <id>190</id>
-      <parentid>169</parentid>
+      <id>166</id>
+      <parentid>165</parentid>
       <timestamp>2026-01-18T06:24:36Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>190</origin>
+      <origin>166</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2752" sha1="n0q5h7ccy979v7db4xxiqyfkg782504" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
@@ -9207,15 +9326,15 @@ Zusatz-Check: Vergiss nicht, dir eine Kopie deiner Konfigurationsdateien aus /et
       <sha1>n0q5h7ccy979v7db4xxiqyfkg782504</sha1>
     </revision>
     <revision>
-      <id>191</id>
-      <parentid>190</parentid>
+      <id>167</id>
+      <parentid>166</parentid>
       <timestamp>2026-01-18T07:03:06Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>191</origin>
+      <origin>167</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2758" sha1="3gsu4zhg1pr6dxbulxxhx04cidbz9wm" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
@@ -9335,15 +9454,15 @@ Zusatz-Check: Vergiss nicht, dir eine Kopie deiner Konfigurationsdateien aus /et
       <sha1>3gsu4zhg1pr6dxbulxxhx04cidbz9wm</sha1>
     </revision>
     <revision>
-      <id>192</id>
-      <parentid>191</parentid>
+      <id>168</id>
+      <parentid>167</parentid>
       <timestamp>2026-01-18T08:48:16Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>192</origin>
+      <origin>168</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2812" sha1="300bcr16y9b9u8sxs7f4ca9g91qz3v6" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
@@ -9463,15 +9582,15 @@ Zusatz-Check: Vergiss nicht, dir eine Kopie deiner Konfigurationsdateien aus /et
       <sha1>300bcr16y9b9u8sxs7f4ca9g91qz3v6</sha1>
     </revision>
     <revision>
-      <id>193</id>
-      <parentid>192</parentid>
+      <id>169</id>
+      <parentid>168</parentid>
       <timestamp>2026-01-18T09:45:47Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* xwiki.cfg */</comment>
-      <origin>193</origin>
+      <origin>169</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2835" sha1="4uvjnanqatqumfca1epphblwl01b771" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
@@ -9591,20 +9710,495 @@ Zusatz-Check: Vergiss nicht, dir eine Kopie deiner Konfigurationsdateien aus /et
 &lt;/pre&gt;</text>
       <sha1>4uvjnanqatqumfca1epphblwl01b771</sha1>
     </revision>
+    <revision>
+      <id>200</id>
+      <parentid>169</parentid>
+      <timestamp>2026-01-19T01:09:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>200</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2801" sha1="po506wnk2mv90pmoxg3jdz6aoj9v6p7" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+&lt;/pre&gt;
+
+In Kurzformat
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+sudo apt-get install postgresql-all
+&lt;/pre&gt;
+
+===Java und XWIKI===
+&lt;pre&gt;
+
+sudo apt-cache search openjdk # Suchen Java Version
+sudo apt-get install openjdk-26-jdk  # Nur ein Beispiel: OpenJDK Development Kit (JDK)
+sudo wget https://maven.xwiki.org/xwiki-keyring.gpg -O /usr/share/keyrings/xwiki-keyring.gpg
+sudo wget "https://maven.xwiki.org/stable/xwiki-stable.list" -O /etc/apt/sources.list.d/xwiki-stable.list
+sudo apt-get update
+sudo apt-get install xwiki-tomcat10-pgsql
+
+&lt;/pre&gt;
+
+==Produktionsserver==
+Alles wie oben, nur jetzt alle wichtigen Freigaben setzen und geschützte Ports sperren.
+===ufw Installieren===
+
+'''ufw''' (Uncomplicated Firewall) ist ein einfach zu bedienendes Frontend für die Verwaltung einer Firewall unter Linux. Es hilft dabei, Netzwerkzugriffe zu erlauben oder zu blockieren und so das System abzusichern.
+
+&lt;pre&gt;
+sudo apt-get install ufw
+&lt;/pre&gt;
+Beispiel
+&lt;pre&gt;
+# Ports 22 (SSH), 80 (HTTP) und 443 (HTTPS) freigeben
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+# Ports 3000, 8080 und 8081 sperren
+sudo ufw deny 3000
+sudo ufw deny 8080
+sudo ufw deny 8081
+
+# ufw aktivieren
+sudo ufw enable
+
+# ufw Status anzeigen
+sudo ufw status
+&lt;/pre&gt;
+
+====Nginx datei ändern====
+&lt;pre&gt;
+
+
+ location ^~ /xwiki {
+    proxy_pass http://localhost:8081/;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header Host $http_host;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    }
+&lt;/pre&gt;
+
+==Xwiki Löschen==
+&lt;pre&gt;
+sudo apt-get purge "xwiki*"
+sudo apt-get autoremove --purge
+sudo rm -rf /var/lib/xwiki
+sudo rm -rf /etc/xwiki
+sudo -u postgres -i
+dropdb xwiki
+dropuser xwiki
+exit
+
+&lt;/pre&gt;
+
+==XWiki Backup==
+&lt;pre&gt;
+
+# Datenbank sichern
+pg_dump -U xwiki -h localhost xwiki &gt; xwiki_backup.sql
+# Dateisystem und Konfiguration sichern
+sudo tar -cvzf xwiki_files_backup.tar.gz /var/lib/xwiki
+
+Zusatz-Check: Vergiss nicht, dir eine Kopie deiner Konfigurationsdateien aus /etc/xwiki/ zu sichern (besonders hibernate.cfg.xml und xwiki.properties), damit du im Notfall weißt, wie alles eingestellt war.
+==XWIKI Wiederherstellen==
+&lt;pre&gt;
+===Datenbank Wiederherstellen===
+sudo -u postgres -i
+createuser xwiki
+createdb -E UTF8 -O xwiki xwiki
+psql -c "\password xwiki"
+psql -c "ALTER USER xwiki CREATEDB;"
+exit
+psql -U xwiki -h localhost -d xwiki -f xwiki_db_backup.sql
+&lt;/pre&gt;
+===Dateisystem und Konfiguration Wiederherstellen===
+&lt;pre&gt;
+sudo tar -xvzf xwiki_files_backup.tar.gz -C /var/lib/xwiki
+&lt;/pre&gt;
+==Siehe auch==
+besonders hibernate.cfg.xml und xwiki.properties), damit du im Notfall weißt, wie alles eingestellt war.
+* https://www.xwiki.org/xwiki/bin/view/Documentation/AdminGuide/Installation/Postgr</text>
+      <sha1>po506wnk2mv90pmoxg3jdz6aoj9v6p7</sha1>
+    </revision>
+    <revision>
+      <id>201</id>
+      <parentid>200</parentid>
+      <timestamp>2026-01-19T01:11:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>201</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2801" sha1="jhxicface3jzlw6xt3it89f2p7fr5ff" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+&lt;/pre&gt;
+
+In Kurzformat
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+sudo apt-get install postgresql-all
+&lt;/pre&gt;
+
+===Java und XWIKI===
+&lt;pre&gt;
+
+sudo apt-cache search openjdk # Suchen Java Version
+sudo apt-get install openjdk-26-jdk  # Nur ein Beispiel: OpenJDK Development Kit (JDK)
+sudo wget https://maven.xwiki.org/xwiki-keyring.gpg -O /usr/share/keyrings/xwiki-keyring.gpg
+sudo wget "https://maven.xwiki.org/stable/xwiki-stable.list" -O /etc/apt/sources.list.d/xwiki-stable.list
+sudo apt-get update
+sudo apt-get install xwiki-tomcat10-pgsql
+
+&lt;/pre&gt;
+
+==Produktionsserver==
+Alles wie oben, nur jetzt alle wichtigen Freigaben setzen und geschützte Ports sperren.
+===ufw Installieren===
+
+'''ufw''' (Uncomplicated Firewall) ist ein einfach zu bedienendes Frontend für die Verwaltung einer Firewall unter Linux. Es hilft dabei, Netzwerkzugriffe zu erlauben oder zu blockieren und so das System abzusichern.
+
+&lt;pre&gt;
+sudo apt-get install ufw
+&lt;/pre&gt;
+Beispiel
+&lt;pre&gt;
+# Ports 22 (SSH), 80 (HTTP) und 443 (HTTPS) freigeben
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+# Ports 3000, 8080 und 8081 sperren
+sudo ufw deny 3000
+sudo ufw deny 8080
+sudo ufw deny 8081
+
+# ufw aktivieren
+sudo ufw enable
+
+# ufw Status anzeigen
+sudo ufw status
+&lt;/pre&gt;
+
+====Nginx datei ändern====
+&lt;pre&gt;
+
+
+ location ^~ /xwiki {
+    proxy_pass http://localhost:8081/;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header Host $http_host;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    }
+&lt;/pre&gt;
+
+==Xwiki Löschen==
+&lt;pre&gt;
+sudo apt-get purge "xwiki*"
+sudo apt-get autoremove --purge
+sudo rm -rf /var/lib/xwiki
+sudo rm -rf /etc/xwiki
+sudo -u postgres -i
+dropdb xwiki
+dropuser xwiki
+exit
+
+&lt;/pre&gt;
+
+==XWiki Backup==
+&lt;pre&gt;
+
+# Datenbank sichern
+pg_dump -U xwiki -h localhost xwiki &gt; xwiki_backup.sql
+# Dateisystem und Konfiguration sichern
+sudo tar -cvzf xwiki_files_backup.tar.gz /var/lib/xwiki
+
+Zusatz-Check: Vergiss nicht, dir eine Kopie deiner Konfigurationsdateien aus /etc/xwiki/ zu sichern (besonders hibernate.cfg.xml und xwiki.properties), damit du im Notfall weißt, wie alles eingestellt war.
+==XWIKI Wiederherstellen==
+===Datenbank Wiederherstellen===
+&lt;pre&gt;
+sudo -u postgres -i
+createuser xwiki
+createdb -E UTF8 -O xwiki xwiki
+psql -c "\password xwiki"
+psql -c "ALTER USER xwiki CREATEDB;"
+exit
+psql -U xwiki -h localhost -d xwiki -f xwiki_db_backup.sql
+&lt;/pre&gt;
+===Dateisystem und Konfiguration Wiederherstellen===
+&lt;pre&gt;
+sudo tar -xvzf xwiki_files_backup.tar.gz -C /var/lib/xwiki
+&lt;/pre&gt;
+==Siehe auch==
+besonders hibernate.cfg.xml und xwiki.properties), damit du im Notfall weißt, wie alles eingestellt war.
+* https://www.xwiki.org/xwiki/bin/view/Documentation/AdminGuide/Installation/Postgr</text>
+      <sha1>jhxicface3jzlw6xt3it89f2p7fr5ff</sha1>
+    </revision>
+    <revision>
+      <id>202</id>
+      <parentid>201</parentid>
+      <timestamp>2026-01-19T01:17:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* XWiki Backup */</comment>
+      <origin>202</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2808" sha1="rs57kbdiaus9unihprsmka155e3l261" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+&lt;/pre&gt;
+
+In Kurzformat
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+sudo apt-get install postgresql-all
+&lt;/pre&gt;
+
+===Java und XWIKI===
+&lt;pre&gt;
+
+sudo apt-cache search openjdk # Suchen Java Version
+sudo apt-get install openjdk-26-jdk  # Nur ein Beispiel: OpenJDK Development Kit (JDK)
+sudo wget https://maven.xwiki.org/xwiki-keyring.gpg -O /usr/share/keyrings/xwiki-keyring.gpg
+sudo wget "https://maven.xwiki.org/stable/xwiki-stable.list" -O /etc/apt/sources.list.d/xwiki-stable.list
+sudo apt-get update
+sudo apt-get install xwiki-tomcat10-pgsql
+
+&lt;/pre&gt;
+
+==Produktionsserver==
+Alles wie oben, nur jetzt alle wichtigen Freigaben setzen und geschützte Ports sperren.
+===ufw Installieren===
+
+'''ufw''' (Uncomplicated Firewall) ist ein einfach zu bedienendes Frontend für die Verwaltung einer Firewall unter Linux. Es hilft dabei, Netzwerkzugriffe zu erlauben oder zu blockieren und so das System abzusichern.
+
+&lt;pre&gt;
+sudo apt-get install ufw
+&lt;/pre&gt;
+Beispiel
+&lt;pre&gt;
+# Ports 22 (SSH), 80 (HTTP) und 443 (HTTPS) freigeben
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+# Ports 3000, 8080 und 8081 sperren
+sudo ufw deny 3000
+sudo ufw deny 8080
+sudo ufw deny 8081
+
+# ufw aktivieren
+sudo ufw enable
+
+# ufw Status anzeigen
+sudo ufw status
+&lt;/pre&gt;
+
+====Nginx datei ändern====
+&lt;pre&gt;
+
+
+ location ^~ /xwiki {
+    proxy_pass http://localhost:8081/;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header Host $http_host;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    }
+&lt;/pre&gt;
+
+==Xwiki Löschen==
+&lt;pre&gt;
+sudo apt-get purge "xwiki*"
+sudo apt-get autoremove --purge
+sudo rm -rf /var/lib/xwiki
+sudo rm -rf /etc/xwiki
+sudo -u postgres -i
+dropdb xwiki
+dropuser xwiki
+exit
+
+&lt;/pre&gt;
+
+==XWiki Backup==
+&lt;pre&gt;
+
+# Datenbank sichern
+pg_dump -U xwiki -h localhost xwiki &gt; xwiki_backup.sql
+# Dateisystem und Konfiguration sichern
+sudo tar -cvzf xwiki_files_backup.tar.gz /var/lib/xwiki
+&lt;/pre&gt;
+Zusatz-Check: Vergiss nicht, dir eine Kopie deiner Konfigurationsdateien aus /etc/xwiki/ zu sichern (besonders hibernate.cfg.xml und xwiki.properties), damit du im Notfall weißt, wie alles eingestellt war.
+==XWIKI Wiederherstellen==
+===Datenbank Wiederherstellen===
+&lt;pre&gt;
+sudo -u postgres -i
+createuser xwiki
+createdb -E UTF8 -O xwiki xwiki
+psql -c "\password xwiki"
+psql -c "ALTER USER xwiki CREATEDB;"
+exit
+psql -U xwiki -h localhost -d xwiki -f xwiki_db_backup.sql
+&lt;/pre&gt;
+===Dateisystem und Konfiguration Wiederherstellen===
+&lt;pre&gt;
+sudo tar -xvzf xwiki_files_backup.tar.gz -C /var/lib/xwiki
+&lt;/pre&gt;
+
+==Siehe auch==
+besonders hibernate.cfg.xml und xwiki.properties), damit du im Notfall weißt, wie alles eingestellt war.
+* https://www.xwiki.org/xwiki/bin/view/Documentation/AdminGuide/Installation/Postgr</text>
+      <sha1>rs57kbdiaus9unihprsmka155e3l261</sha1>
+    </revision>
+    <revision>
+      <id>203</id>
+      <parentid>202</parentid>
+      <timestamp>2026-01-19T01:18:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* XWiki Backup */</comment>
+      <origin>203</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2809" sha1="bet4hvczfhoz620bkdkvw762ckdbaff" xml:space="preserve">==XWiki Installieren Entwickler Rechner==
+===Ubuntu Rechner===
+&lt;/pre&gt;
+
+In Kurzformat
+&lt;pre&gt;
+sudo apt update
+sudo apt upgrade
+sudo apt-get install postgresql-all
+&lt;/pre&gt;
+
+===Java und XWIKI===
+&lt;pre&gt;
+
+sudo apt-cache search openjdk # Suchen Java Version
+sudo apt-get install openjdk-26-jdk  # Nur ein Beispiel: OpenJDK Development Kit (JDK)
+sudo wget https://maven.xwiki.org/xwiki-keyring.gpg -O /usr/share/keyrings/xwiki-keyring.gpg
+sudo wget "https://maven.xwiki.org/stable/xwiki-stable.list" -O /etc/apt/sources.list.d/xwiki-stable.list
+sudo apt-get update
+sudo apt-get install xwiki-tomcat10-pgsql
+
+&lt;/pre&gt;
+
+==Produktionsserver==
+Alles wie oben, nur jetzt alle wichtigen Freigaben setzen und geschützte Ports sperren.
+===ufw Installieren===
+
+'''ufw''' (Uncomplicated Firewall) ist ein einfach zu bedienendes Frontend für die Verwaltung einer Firewall unter Linux. Es hilft dabei, Netzwerkzugriffe zu erlauben oder zu blockieren und so das System abzusichern.
+
+&lt;pre&gt;
+sudo apt-get install ufw
+&lt;/pre&gt;
+Beispiel
+&lt;pre&gt;
+# Ports 22 (SSH), 80 (HTTP) und 443 (HTTPS) freigeben
+sudo ufw allow 22
+sudo ufw allow 80
+sudo ufw allow 443
+
+# Ports 3000, 8080 und 8081 sperren
+sudo ufw deny 3000
+sudo ufw deny 8080
+sudo ufw deny 8081
+
+# ufw aktivieren
+sudo ufw enable
+
+# ufw Status anzeigen
+sudo ufw status
+&lt;/pre&gt;
+
+====Nginx datei ändern====
+&lt;pre&gt;
+
+
+ location ^~ /xwiki {
+    proxy_pass http://localhost:8081/;
+    proxy_set_header X-Real-IP $remote_addr;
+    proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+    proxy_set_header Host $http_host;
+    proxy_set_header X-Forwarded-Proto $scheme;
+    }
+&lt;/pre&gt;
+
+==Xwiki Löschen==
+&lt;pre&gt;
+sudo apt-get purge "xwiki*"
+sudo apt-get autoremove --purge
+sudo rm -rf /var/lib/xwiki
+sudo rm -rf /etc/xwiki
+sudo -u postgres -i
+dropdb xwiki
+dropuser xwiki
+exit
+
+&lt;/pre&gt;
+
+==XWiki Backup==
+&lt;pre&gt;
+
+# Datenbank sichern
+pg_dump -U xwiki -h localhost xwiki &gt; xwiki_backup.sql
+# Dateisystem und Konfiguration sichern
+sudo tar -cvzf xwiki_files_backup.tar.gz /var/lib/xwiki
+&lt;/pre&gt;
+Zusatz-Check: Vergiss nicht, dir eine Kopie deiner Konfigurationsdateien aus /etc/xwiki/ zu sichern (besonders hibernate.cfg.xml und xwiki.properties), damit du im Notfall weißt, wie alles eingestellt war.
+
+==XWIKI Wiederherstellen==
+===Datenbank Wiederherstellen===
+&lt;pre&gt;
+sudo -u postgres -i
+createuser xwiki
+createdb -E UTF8 -O xwiki xwiki
+psql -c "\password xwiki"
+psql -c "ALTER USER xwiki CREATEDB;"
+exit
+psql -U xwiki -h localhost -d xwiki -f xwiki_db_backup.sql
+&lt;/pre&gt;
+===Dateisystem und Konfiguration Wiederherstellen===
+&lt;pre&gt;
+sudo tar -xvzf xwiki_files_backup.tar.gz -C /var/lib/xwiki
+&lt;/pre&gt;
+
+==Siehe auch==
+besonders hibernate.cfg.xml und xwiki.properties), damit du im Notfall weißt, wie alles eingestellt war.
+* https://www.xwiki.org/xwiki/bin/view/Documentation/AdminGuide/Installation/Postgr</text>
+      <sha1>bet4hvczfhoz620bkdkvw762ckdbaff</sha1>
+    </revision>
   </page>
   <page>
     <title>CMS/MediaWiki</title>
     <ns>0</ns>
     <id>50</id>
     <revision>
-      <id>148</id>
+      <id>170</id>
       <timestamp>2026-01-17T01:43:46Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „ == Postgres Datenbank erstellen ==  &lt;code&gt;sudo -u postgres -i  createdb -E UTF8 -O thorsten mediawiki  psql -d mediawiki -c "GRANT ALL PRIVILEGES ON DATABASE mediawiki TO thorsten    exit&lt;/code&gt;  == PHP installieren ==  &lt;code&gt;sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-xmlrpc php-zip php-intl -y&lt;/code&gt;  == Mediawiki installieren ==  &lt;code&gt;cd /var/www  sudo git clone &lt;nowiki&gt;https://gerrit.wikimedia.org/r/mediawi…“</comment>
-      <origin>148</origin>
+      <origin>170</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1053" sha1="9rr1kowfgc8q675s6zxm7u74g8gg1n5" xml:space="preserve">
@@ -9640,14 +10234,14 @@ Hochladen der Konfiguration
       <sha1>9rr1kowfgc8q675s6zxm7u74g8gg1n5</sha1>
     </revision>
     <revision>
-      <id>149</id>
-      <parentid>148</parentid>
+      <id>171</id>
+      <parentid>170</parentid>
       <timestamp>2026-01-17T01:45:34Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>149</origin>
+      <origin>171</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1611" sha1="lxes7y6macx2qh7sxneypunv7ol4q3o" xml:space="preserve">
@@ -9698,14 +10292,14 @@ Hochladen der Konfiguration
       <sha1>lxes7y6macx2qh7sxneypunv7ol4q3o</sha1>
     </revision>
     <revision>
-      <id>150</id>
-      <parentid>149</parentid>
+      <id>172</id>
+      <parentid>171</parentid>
       <timestamp>2026-01-17T01:46:33Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>150</origin>
+      <origin>172</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1610" sha1="jlsczybyx5lxee7lafdj1lyp3f7xtge" xml:space="preserve">== Postgres Datenbank erstellen ==
@@ -9755,14 +10349,14 @@ Hochladen der Konfiguration
       <sha1>jlsczybyx5lxee7lafdj1lyp3f7xtge</sha1>
     </revision>
     <revision>
-      <id>151</id>
-      <parentid>150</parentid>
+      <id>173</id>
+      <parentid>172</parentid>
       <timestamp>2026-01-17T01:49:18Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>151</origin>
+      <origin>173</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1632" sha1="bc7cx0ht22i1onavdd8wsa9niuu269q" xml:space="preserve">== Postgres Datenbank erstellen ==
@@ -9814,15 +10408,15 @@ Hochladen der Konfiguration
       <sha1>bc7cx0ht22i1onavdd8wsa9niuu269q</sha1>
     </revision>
     <revision>
-      <id>152</id>
-      <parentid>151</parentid>
+      <id>174</id>
+      <parentid>173</parentid>
       <timestamp>2026-01-17T01:52:13Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* Wiederherstellen */</comment>
-      <origin>152</origin>
+      <origin>174</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1883" sha1="qwa2l52b0gv1bxiz1vf7mz08wt6bdaz" xml:space="preserve">== Postgres Datenbank erstellen ==
@@ -9880,15 +10474,15 @@ Hochladen der Konfiguration
       <sha1>qwa2l52b0gv1bxiz1vf7mz08wt6bdaz</sha1>
     </revision>
     <revision>
-      <id>153</id>
-      <parentid>152</parentid>
+      <id>175</id>
+      <parentid>174</parentid>
       <timestamp>2026-01-17T01:52:52Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* MediaWiki-Dump importieren */</comment>
-      <origin>153</origin>
+      <origin>175</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1887" sha1="23bn1pfqt8tkoy4h2pmvn9z7cqbln74" xml:space="preserve">== Postgres Datenbank erstellen ==
@@ -9946,15 +10540,15 @@ Hochladen der Konfiguration
       <sha1>23bn1pfqt8tkoy4h2pmvn9z7cqbln74</sha1>
     </revision>
     <revision>
-      <id>157</id>
-      <parentid>153</parentid>
+      <id>176</id>
+      <parentid>175</parentid>
       <timestamp>2026-01-17T04:57:49Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>157</origin>
+      <origin>176</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2415" sha1="op35pp4ygs7yc7cv5j2qeetvy7lzsbr" xml:space="preserve">== Postgres Datenbank erstellen ==
@@ -10039,14 +10633,14 @@ Hochladen der Konfiguration
       <sha1>op35pp4ygs7yc7cv5j2qeetvy7lzsbr</sha1>
     </revision>
     <revision>
-      <id>158</id>
-      <parentid>157</parentid>
+      <id>177</id>
+      <parentid>176</parentid>
       <timestamp>2026-01-17T04:59:09Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>158</origin>
+      <origin>177</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2422" sha1="sk13y5vwpoafp89mmr5zu3kvl5kwhw1" xml:space="preserve">== Postgres Datenbank erstellen ==
@@ -10131,15 +10725,15 @@ Hochladen der Konfiguration
       <sha1>sk13y5vwpoafp89mmr5zu3kvl5kwhw1</sha1>
     </revision>
     <revision>
-      <id>159</id>
-      <parentid>158</parentid>
+      <id>178</id>
+      <parentid>177</parentid>
       <timestamp>2026-01-17T04:59:49Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* Wiederherstellen */</comment>
-      <origin>159</origin>
+      <origin>178</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2420" sha1="48tgi1c5zbb9tbpcq4xfwea5p9vvisg" xml:space="preserve">== Postgres Datenbank erstellen ==
@@ -10224,15 +10818,15 @@ Hochladen der Konfiguration
       <sha1>48tgi1c5zbb9tbpcq4xfwea5p9vvisg</sha1>
     </revision>
     <revision>
-      <id>160</id>
-      <parentid>159</parentid>
+      <id>179</id>
+      <parentid>178</parentid>
       <timestamp>2026-01-17T05:00:31Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* MediaWiki-Dump importieren */</comment>
-      <origin>160</origin>
+      <origin>179</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2420" sha1="066wouujdkb0z4nf22sry8a9j2jjycf" xml:space="preserve">== Postgres Datenbank erstellen ==
@@ -10318,15 +10912,15 @@ php /var/www/mediawiki/maintenance/run.php importDump.php &lt; pagedump.xml
       <sha1>066wouujdkb0z4nf22sry8a9j2jjycf</sha1>
     </revision>
     <revision>
-      <id>161</id>
-      <parentid>160</parentid>
+      <id>180</id>
+      <parentid>179</parentid>
       <timestamp>2026-01-17T05:00:57Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* MediaWiki-Dump importieren */</comment>
-      <origin>161</origin>
+      <origin>180</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2416" sha1="0fwcf39omrz9d7qj89mu7mm33hvllm8" xml:space="preserve">== Postgres Datenbank erstellen ==
@@ -10412,15 +11006,15 @@ php /var/www/mediawiki/maintenance/run.php importDump.php &lt; pagedump.xml
       <sha1>0fwcf39omrz9d7qj89mu7mm33hvllm8</sha1>
     </revision>
     <revision>
-      <id>162</id>
-      <parentid>161</parentid>
+      <id>181</id>
+      <parentid>180</parentid>
       <timestamp>2026-01-17T05:02:06Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* MediaWiki-Dump importieren */</comment>
-      <origin>162</origin>
+      <origin>181</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2419" sha1="rm4gzui9uvsdvy5bdzmr4suta1in7c6" xml:space="preserve">== Postgres Datenbank erstellen ==
@@ -10506,15 +11100,15 @@ php /var/www/mediawiki/maintenance/run.php importDump.php &lt; pagedump.xml
       <sha1>rm4gzui9uvsdvy5bdzmr4suta1in7c6</sha1>
     </revision>
     <revision>
-      <id>163</id>
-      <parentid>162</parentid>
+      <id>182</id>
+      <parentid>181</parentid>
       <timestamp>2026-01-17T05:02:32Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* Entwicklungsumgebung lokal einrichten */</comment>
-      <origin>163</origin>
+      <origin>182</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2418" sha1="b8ok8slnyw75odyxt3dcr0pvn5gmkn3" xml:space="preserve">== Postgres Datenbank erstellen ==
@@ -10600,15 +11194,15 @@ Erstelle eine Datei /etc/nginx/conf.d/mediawiki.conf mit folgendem Inhalt:
       <sha1>b8ok8slnyw75odyxt3dcr0pvn5gmkn3</sha1>
     </revision>
     <revision>
-      <id>164</id>
-      <parentid>163</parentid>
+      <id>183</id>
+      <parentid>182</parentid>
       <timestamp>2026-01-17T05:54:17Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>/* MediaWiki-Dump importieren */</comment>
-      <origin>164</origin>
+      <origin>183</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2412" sha1="k84zg9dvha115v81mpicmb7q1a35sq0" xml:space="preserve">== Postgres Datenbank erstellen ==
@@ -10700,14 +11294,14 @@ Erstelle eine Datei /etc/nginx/conf.d/mediawiki.conf mit folgendem Inhalt:
     <ns>0</ns>
     <id>51</id>
     <revision>
-      <id>166</id>
+      <id>184</id>
       <timestamp>2026-01-17T08:02:51Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>Die Seite wurde neu angelegt: „==Die besten modernen Lernmethoden für das Lernen von Programmiersprachen==  Effektives Programmierenlernen kombiniert praktische Übung, kognitive Strategien und soziale Formate. Die folgenden Ansätze lassen sich flexibel mischen und iterativ anwenden.  ===Praktische Ansätze=== * '''Projektbasiertes Lernen''': Eigene Mini‑Projekte (z.B. To‑Do‑App, CLI‑Tool, kleines Spiel) liefern schnellen Praxisbezug und fördern Transfer. * '''Coding-Challen…“</comment>
-      <origin>166</origin>
+      <origin>184</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2681" sha1="2ro89rslphv3ficylkdg5hw0fca90bu" xml:space="preserve">==Die besten modernen Lernmethoden für das Lernen von Programmiersprachen==
@@ -10753,14 +11347,14 @@ Effektives Programmierenlernen kombiniert praktische Übung, kognitive Strategie
     <ns>0</ns>
     <id>52</id>
     <revision>
-      <id>174</id>
+      <id>185</id>
       <timestamp>2026-01-17T12:07:30Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>174</origin>
+      <origin>185</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="783" sha1="ppja8p73w8oq9cg1m691zdm5ef8wwuv" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
@@ -10785,15 +11379,15 @@ mv config.sample.yml config.yml
       <sha1>ppja8p73w8oq9cg1m691zdm5ef8wwuv</sha1>
     </revision>
     <revision>
-      <id>175</id>
-      <parentid>174</parentid>
+      <id>186</id>
+      <parentid>185</parentid>
       <timestamp>2026-01-17T12:09:02Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>175</origin>
+      <origin>186</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="788" sha1="chbp7wvdn40fsewsj5fe7bmzghn5en4" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
@@ -10819,15 +11413,15 @@ mv config.sample.yml config.yml
       <sha1>chbp7wvdn40fsewsj5fe7bmzghn5en4</sha1>
     </revision>
     <revision>
-      <id>176</id>
-      <parentid>175</parentid>
+      <id>187</id>
+      <parentid>186</parentid>
       <timestamp>2026-01-17T12:48:12Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>176</origin>
+      <origin>187</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1842" sha1="sjhxpnl04j1wdlay4f4u9jae6dviddk" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
@@ -10896,15 +11490,15 @@ Mit &lt;code&gt;sudo systemctl status wiki&lt;/code&gt; kannst du den Status des
       <sha1>sjhxpnl04j1wdlay4f4u9jae6dviddk</sha1>
     </revision>
     <revision>
-      <id>177</id>
-      <parentid>176</parentid>
+      <id>188</id>
+      <parentid>187</parentid>
       <timestamp>2026-01-17T13:53:00Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>177</origin>
+      <origin>188</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2626" sha1="tt5ira0ndvshbohhxbc8x7gk7gk7iep" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
@@ -11002,14 +11596,14 @@ ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
       <sha1>tt5ira0ndvshbohhxbc8x7gk7gk7iep</sha1>
     </revision>
     <revision>
-      <id>178</id>
-      <parentid>177</parentid>
+      <id>189</id>
+      <parentid>188</parentid>
       <timestamp>2026-01-17T13:54:28Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
-      <origin>178</origin>
+      <origin>189</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2626" sha1="d3ogv3uv96f5lgf1ppb5rzsts3nowph" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
@@ -11114,14 +11708,14 @@ ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
     <ns>0</ns>
     <id>53</id>
     <revision>
-      <id>185</id>
+      <id>190</id>
       <timestamp>2026-01-17T18:06:28Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>185</origin>
+      <origin>190</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="1725" sha1="lf0xpp9rajhs8dyxtavyfertm1kj3fd" xml:space="preserve">= Lernpfad und Roadmap: Eigenes Wiki-System mit ASP.NET Core MVC =
@@ -11177,14 +11771,14 @@ Beginne mit den Grundlagen und arbeite dich Schritt für Schritt durch die Roadm
     <ns>0</ns>
     <id>54</id>
     <revision>
-      <id>186</id>
+      <id>191</id>
       <timestamp>2026-01-17T18:54:40Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>186</origin>
+      <origin>191</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2735" sha1="or5jtb950h62g16z7b4lrur1lmcuogm" xml:space="preserve">==Einführung in ASP.NET Core und MVC-Architektur==
@@ -11225,15 +11819,15 @@ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Er
       <sha1>or5jtb950h62g16z7b4lrur1lmcuogm</sha1>
     </revision>
     <revision>
-      <id>187</id>
-      <parentid>186</parentid>
+      <id>192</id>
+      <parentid>191</parentid>
       <timestamp>2026-01-17T19:35:53Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>187</origin>
+      <origin>192</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2868" sha1="243m12il1v7qo5wdhfk9lam1ldyfaxr" xml:space="preserve">==Einführung in ASP.NET Core und MVC-Architektur==
@@ -11282,15 +11876,15 @@ docfx init
       <sha1>243m12il1v7qo5wdhfk9lam1ldyfaxr</sha1>
     </revision>
     <revision>
-      <id>188</id>
-      <parentid>187</parentid>
+      <id>193</id>
+      <parentid>192</parentid>
       <timestamp>2026-01-17T19:36:14Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>188</origin>
+      <origin>193</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2824" sha1="84bzbiu5h31r8f3jm8m41f3y1msf5rt" xml:space="preserve">==Einführung in ASP.NET Core und MVC-Architektur==
@@ -11338,15 +11932,15 @@ docfx init
       <sha1>84bzbiu5h31r8f3jm8m41f3y1msf5rt</sha1>
     </revision>
     <revision>
-      <id>189</id>
-      <parentid>188</parentid>
+      <id>194</id>
+      <parentid>193</parentid>
       <timestamp>2026-01-17T19:51:10Z</timestamp>
       <contributor>
         <username>Thorsten</username>
         <id>2</id>
       </contributor>
       <comment>// via Wikitext Extension for VSCode</comment>
-      <origin>189</origin>
+      <origin>194</origin>
       <model>wikitext</model>
       <format>text/x-wiki</format>
       <text bytes="2852" sha1="2pz13ldodeika8z9rj6e29fz4nzp2ds" xml:space="preserve">==Einführung in ASP.NET Core und MVC-Architektur==
@@ -11393,6 +11987,339 @@ cd Erstes-Wiki
 docfx init
 &lt;/pre&gt;</text>
       <sha1>2pz13ldodeika8z9rj6e29fz4nzp2ds</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>LMS/Moodle</title>
+    <ns>0</ns>
+    <id>55</id>
+    <revision>
+      <id>197</id>
+      <timestamp>2026-01-18T19:26:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „= Deployment-Skript: Rsync für Moodle == Ersten Mal Installation von Moodle auf einem Produktionsserver. Der folgende `rsync`-Befehl wird verwendet, um eine Moodle-Installation von einem lokalen Server auf einen Produktionsserver zu übertragen. Dabei werden sensible und unnötige Dateien ausgeschlossen:  &lt;syntaxhighlight lang="bash"&gt; rsync -avz --dry-run   rsync -avz --delete \     --perms --times \     --exclude '.git/' \     --exclude '.gitignore' \…“</comment>
+      <origin>197</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2433" sha1="hh3z1y5559v5c4jl40lxo94stazog19" xml:space="preserve">= Deployment-Skript: Rsync für Moodle ==
+Ersten Mal Installation von Moodle auf einem Produktionsserver.
+Der folgende `rsync`-Befehl wird verwendet, um eine Moodle-Installation von einem lokalen Server auf einen Produktionsserver zu übertragen. Dabei werden sensible und unnötige Dateien ausgeschlossen:
+
+&lt;syntaxhighlight lang="bash"&gt;
+rsync -avz --dry-run
+
+
+rsync -avz --delete \
+    --perms --times \
+    --exclude '.git/' \
+    --exclude '.gitignore' \
+    --exclude 'config.php' \
+    --exclude 'cache/' \
+    --exclude 'localcache/' \
+    --exclude 'muc/' \
+    --exclude 'sessions/' \
+    /var/www/moodle/ \
+    user@prod:/var/www/moodle/
+
+
+&lt;/syntaxhighlight&gt;
+
+== nginx-Konfiguration für Moodle ==
+Die folgende Konfiguration für den Nginx-Webserver ist für die Bereitstellung von Moodle
+&lt;pre&gt;
+sudo systemctl stop nginx
+sudo certbot certonly --standalone -d lernen.ahrensburg.city
+&lt;/pre&gt;
+&lt;pre&gt;
+Moodle Einstellungen für Nginx auf dem Server Rechner
+Ein Beispiel für eine einfache Nginx-Konfiguration für Moodle auf einem Server Rechner:
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/moodle.conf
+&lt;/pre&gt;
+
+&lt;pre&gt;
+server {
+    listen 443 ssl;
+    server_name  lernen.ahrensburg.city;
+    root /var/www/moodle/moodle;
+    index index.php index.html index.htm;
+    ssl_certificate /etc/letsencrypt/live/lernen.ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/lernen.ahrensburg.city/privkey.pem;
+
+  location / {
+    try_files $uri $uri/ =404;
+  }
+
+  location ~ [^/]\.php(/|$) {
+    fastcgi_split_path_info ^(.+\.php)(/.+)$;
+    fastcgi_pass unix:/run/php/php8.4-fpm.sock;
+    fastcgi_index index.php;
+    include fastcgi_params;
+    fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+    fastcgi_param PATH_INFO $fastcgi_path_info;
+  }
+
+  location ~* \.(js|css|png|jpg|jpeg|gif|ico)$ {
+    expires max;
+    log_not_found off;
+  }
+}
+&lt;/pre&gt;
+
+== Moodledata-Verzeichnis erstellen ==
+
+Das Verzeichnis `moodledata` ist für Moodle zwingend erforderlich und sollte außerhalb des Webroots liegen. Erstellen Sie das Verzeichnis und passen Sie die Berechtigungen an:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo mkdir -p /var/www/moodle/moodledata
+sudo chown -R www-data:www-data /var/www/moodle/moodledata
+sudo chmod -R 770 /var/www/moodle/moodledata
+&lt;/syntaxhighlight&gt;
+
+Achten Sie darauf, dass das Verzeichnis nicht über den Webserver erreichbar ist, um die Sicherheit Ihrer Moodle-Installation zu gewährleisten.</text>
+      <sha1>hh3z1y5559v5c4jl40lxo94stazog19</sha1>
+    </revision>
+    <revision>
+      <id>198</id>
+      <parentid>197</parentid>
+      <timestamp>2026-01-18T19:30:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>198</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3535" sha1="pgb46j6waqmf95ixfafgqqysb4uigw8" xml:space="preserve">= Deployment-Skript: Rsync für Moodle ==
+Ersten Mal Installation von Moodle auf einem Produktionsserver.
+Der folgende `rsync`-Befehl wird verwendet, um eine Moodle-Installation von einem lokalen Server auf einen Produktionsserver zu übertragen. Dabei werden sensible und unnötige Dateien ausgeschlossen:
+
+&lt;syntaxhighlight lang="bash"&gt;
+rsync -avz --dry-run
+
+
+rsync -avz --delete \
+    --perms --times \
+    --exclude '.git/' \
+    --exclude '.gitignore' \
+    --exclude 'config.php' \
+    --exclude 'cache/' \
+    --exclude 'localcache/' \
+    --exclude 'muc/' \
+    --exclude 'sessions/' \
+    /var/www/moodle/ \
+    user@prod:/var/www/moodle/
+
+
+&lt;/syntaxhighlight&gt;
+
+== nginx-Konfiguration für Moodle ==
+Die folgende Konfiguration für den Nginx-Webserver ist für die Bereitstellung von Moodle
+&lt;pre&gt;
+sudo systemctl stop nginx
+sudo certbot certonly --standalone -d lernen.ahrensburg.city
+&lt;/pre&gt;
+&lt;pre&gt;
+Moodle Einstellungen für Nginx auf dem Server Rechner
+Ein Beispiel für eine einfache Nginx-Konfiguration für Moodle auf einem Server Rechner:
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/moodle.conf
+&lt;/pre&gt;
+
+&lt;pre&gt;
+server {
+    listen 443 ssl;
+    server_name  lernen.ahrensburg.city;
+    root /var/www/moodle/moodle;
+    index index.php index.html index.htm;
+    ssl_certificate /etc/letsencrypt/live/lernen.ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/lernen.ahrensburg.city/privkey.pem;
+
+  location / {
+    try_files $uri $uri/ =404;
+  }
+
+  location ~ [^/]\.php(/|$) {
+    fastcgi_split_path_info ^(.+\.php)(/.+)$;
+    fastcgi_pass unix:/run/php/php8.4-fpm.sock;
+    fastcgi_index index.php;
+    include fastcgi_params;
+    fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+    fastcgi_param PATH_INFO $fastcgi_path_info;
+  }
+
+  location ~* \.(js|css|png|jpg|jpeg|gif|ico)$ {
+    expires max;
+    log_not_found off;
+  }
+}
+&lt;/pre&gt;
+
+== Moodledata-Verzeichnis erstellen ==
+
+Das Verzeichnis `moodledata` ist für Moodle zwingend erforderlich und sollte außerhalb des Webroots liegen. Erstellen Sie das Verzeichnis und passen Sie die Berechtigungen an:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo mkdir -p /var/www/moodle/moodledata
+sudo chown -R www-data:www-data /var/www/moodle/moodledata
+sudo chmod -R 770 /var/www/moodle/moodledata
+&lt;/syntaxhighlight&gt;
+
+Achten Sie darauf, dass das Verzeichnis nicht über den Webserver erreichbar ist, um die Sicherheit Ihrer Moodle-Installation zu gewährleisten.
+
+
+
+==PHP und erforderliche Erweiterungen installieren==
+==moodledata-Verzeichnis erstellen und Berechtigungen setzen==
+Erstelle das Verzeichnis für moodledata und setze die passenden Rechte:
+&lt;pre&gt;
+sudo mkdir /var/www/moodledata
+sudo chown -R www-data:www-data /var/www/moodledata
+sudo chmod 770 -R /var/www/moodledata
+&lt;/pre&gt;
+Das Verzeichnis &lt;code&gt;moodledata&lt;/code&gt; sollte sich außerhalb des Webroots befinden und für den Webserver-Benutzer (z.B. &lt;code&gt;www-data&lt;/code&gt;) beschreibbar sein.
+==PHP-FPM Einstellungen anpassen==
+Öffne die Konfigurationsdatei für PHP-FPM, um Einstellungen wie z.B. die maximale Dateigröße für Uploads oder die Speicherlimits zu ändern:
+&lt;pre&gt;
+sudo nano /etc/php/8.4/fpm/php.ini
+&lt;/pre&gt;
+Empfohlene Einstellungen für Moodle:
+&lt;pre&gt;
+; Mit Strg+W (bzw. Ctrl+W) kannst du im Editor nach allen Werten suchen, um die Einstellung schnell zu finden.
+max_input_vars = 5000
+upload_max_filesize = 100M
+post_max_size = 100M
+max_execution_time = 300
+memory_limit = 512M
+&lt;/pre&gt;
+Starte PHP-FPM neu, damit die Änderungen wirksam werden:
+&lt;pre&gt;
+sudo systemctl restart php8.4-fpm
+&lt;/pre&gt;</text>
+      <sha1>pgb46j6waqmf95ixfafgqqysb4uigw8</sha1>
+    </revision>
+    <revision>
+      <id>199</id>
+      <parentid>198</parentid>
+      <timestamp>2026-01-18T19:30:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Deployment-Skript: Rsync für Moodle = */</comment>
+      <origin>199</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3536" sha1="leedgwlu31ifq0x6j1o5hn47iafi360" xml:space="preserve">== Deployment-Skript: Rsync für Moodle ==
+Ersten Mal Installation von Moodle auf einem Produktionsserver.
+Der folgende `rsync`-Befehl wird verwendet, um eine Moodle-Installation von einem lokalen Server auf einen Produktionsserver zu übertragen. Dabei werden sensible und unnötige Dateien ausgeschlossen:
+
+&lt;syntaxhighlight lang="bash"&gt;
+rsync -avz --dry-run
+
+
+rsync -avz --delete \
+    --perms --times \
+    --exclude '.git/' \
+    --exclude '.gitignore' \
+    --exclude 'config.php' \
+    --exclude 'cache/' \
+    --exclude 'localcache/' \
+    --exclude 'muc/' \
+    --exclude 'sessions/' \
+    /var/www/moodle/ \
+    user@prod:/var/www/moodle/
+
+
+&lt;/syntaxhighlight&gt;
+
+== nginx-Konfiguration für Moodle ==
+Die folgende Konfiguration für den Nginx-Webserver ist für die Bereitstellung von Moodle
+&lt;pre&gt;
+sudo systemctl stop nginx
+sudo certbot certonly --standalone -d lernen.ahrensburg.city
+&lt;/pre&gt;
+&lt;pre&gt;
+Moodle Einstellungen für Nginx auf dem Server Rechner
+Ein Beispiel für eine einfache Nginx-Konfiguration für Moodle auf einem Server Rechner:
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/moodle.conf
+&lt;/pre&gt;
+
+&lt;pre&gt;
+server {
+    listen 443 ssl;
+    server_name  lernen.ahrensburg.city;
+    root /var/www/moodle/moodle;
+    index index.php index.html index.htm;
+    ssl_certificate /etc/letsencrypt/live/lernen.ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/lernen.ahrensburg.city/privkey.pem;
+
+  location / {
+    try_files $uri $uri/ =404;
+  }
+
+  location ~ [^/]\.php(/|$) {
+    fastcgi_split_path_info ^(.+\.php)(/.+)$;
+    fastcgi_pass unix:/run/php/php8.4-fpm.sock;
+    fastcgi_index index.php;
+    include fastcgi_params;
+    fastcgi_param SCRIPT_FILENAME $document_root$fastcgi_script_name;
+    fastcgi_param PATH_INFO $fastcgi_path_info;
+  }
+
+  location ~* \.(js|css|png|jpg|jpeg|gif|ico)$ {
+    expires max;
+    log_not_found off;
+  }
+}
+&lt;/pre&gt;
+
+== Moodledata-Verzeichnis erstellen ==
+
+Das Verzeichnis `moodledata` ist für Moodle zwingend erforderlich und sollte außerhalb des Webroots liegen. Erstellen Sie das Verzeichnis und passen Sie die Berechtigungen an:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo mkdir -p /var/www/moodle/moodledata
+sudo chown -R www-data:www-data /var/www/moodle/moodledata
+sudo chmod -R 770 /var/www/moodle/moodledata
+&lt;/syntaxhighlight&gt;
+
+Achten Sie darauf, dass das Verzeichnis nicht über den Webserver erreichbar ist, um die Sicherheit Ihrer Moodle-Installation zu gewährleisten.
+
+
+
+==PHP und erforderliche Erweiterungen installieren==
+==moodledata-Verzeichnis erstellen und Berechtigungen setzen==
+Erstelle das Verzeichnis für moodledata und setze die passenden Rechte:
+&lt;pre&gt;
+sudo mkdir /var/www/moodledata
+sudo chown -R www-data:www-data /var/www/moodledata
+sudo chmod 770 -R /var/www/moodledata
+&lt;/pre&gt;
+Das Verzeichnis &lt;code&gt;moodledata&lt;/code&gt; sollte sich außerhalb des Webroots befinden und für den Webserver-Benutzer (z.B. &lt;code&gt;www-data&lt;/code&gt;) beschreibbar sein.
+==PHP-FPM Einstellungen anpassen==
+Öffne die Konfigurationsdatei für PHP-FPM, um Einstellungen wie z.B. die maximale Dateigröße für Uploads oder die Speicherlimits zu ändern:
+&lt;pre&gt;
+sudo nano /etc/php/8.4/fpm/php.ini
+&lt;/pre&gt;
+Empfohlene Einstellungen für Moodle:
+&lt;pre&gt;
+; Mit Strg+W (bzw. Ctrl+W) kannst du im Editor nach allen Werten suchen, um die Einstellung schnell zu finden.
+max_input_vars = 5000
+upload_max_filesize = 100M
+post_max_size = 100M
+max_execution_time = 300
+memory_limit = 512M
+&lt;/pre&gt;
+Starte PHP-FPM neu, damit die Änderungen wirksam werden:
+&lt;pre&gt;
+sudo systemctl restart php8.4-fpm
+&lt;/pre&gt;</text>
+      <sha1>leedgwlu31ifq0x6j1o5hn47iafi360</sha1>
     </revision>
   </page>
 </mediawiki>
