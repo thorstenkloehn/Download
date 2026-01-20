@@ -27,6 +27,7 @@ Installationsanleitung: (Hinweis: Installationsanleitung fehlt im Originaltext)
 `sudo chown \-R www-data:www-data /var/www/mediawiki`    
 `sudo chmod \-R 755 /var/www/mediawiki`
 ```
+start
 
 ## LocalSettings
 
