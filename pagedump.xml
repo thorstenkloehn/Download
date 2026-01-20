@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='UTF-8'?>
 <mediawiki xmlns="http://www.mediawiki.org/xml/export-0.11/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.mediawiki.org/xml/export-0.11/ http://www.mediawiki.org/xml/export-0.11.xsd" version="0.11" xml:lang="de">
   <siteinfo>
     <sitename>Ahrensburg.city</sitename>
@@ -24,10 +25,6 @@
       <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
       <namespace key="14" case="first-letter">Kategorie</namespace>
       <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
-      <namespace key="120" case="first-letter">Item</namespace>
-      <namespace key="121" case="first-letter">Item talk</namespace>
-      <namespace key="122" case="first-letter">Property</namespace>
-      <namespace key="123" case="first-letter">Property talk</namespace>
       <namespace key="3014" case="first-letter">Nachrichten</namespace>
       <namespace key="3015" case="first-letter">Nachrichten Diskussion</namespace>
     </namespaces>
@@ -306,7 +303,7 @@ count=10
 * [[Ahrensburg Nachrichten Website]]
 
 
-{{#statements:P31}}</text>
+</text>
       <sha1>kb0pbnqz68i3m05d51jxu7pzcq9ffjt</sha1>
     </revision>
     <revision>
@@ -325,7 +322,7 @@ count=10
 == Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
 Dokumentensammlung: Texte über Ahrensburg
 
-{{#statements:Q2}}
+
 
 == Eine Wissensdatenbank über Ahrensburg ==
 Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
@@ -346,7 +343,7 @@ count=10
 * [[Ahrensburg Nachrichten Website]]
 
 
-{{#statements:P31}}</text>
+</text>
       <sha1>2icz670hg6o7kwww0w608iqb58u3rul</sha1>
     </revision>
     <revision>
@@ -364,7 +361,7 @@ count=10
 == Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
 Dokumentensammlung: Texte über Ahrensburg
 
-{{#statements:Q2}}
+
 
 == Eine Wissensdatenbank über Ahrensburg ==
 Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
@@ -385,7 +382,7 @@ count=10
 * [[Ahrensburg Nachrichten Website]]
 
 
-{{#statements:P1}}</text>
+</text>
       <sha1>lxd38zbo9l8ex84i0jhyih8q4ejkx9g</sha1>
     </revision>
     <revision>
@@ -403,7 +400,7 @@ count=10
 == Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
 Dokumentensammlung: Texte über Ahrensburg
 
-{{#statements:Q2}}
+
 
 == Eine Wissensdatenbank über Ahrensburg ==
 Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
@@ -426,17 +423,17 @@ count=10
 |-
 ! Eigenschaft !! Wert
 |-
-| Land || {{#property:P17|from=Q668614}}
+| Land || 
 |-
-| Höhe über Meeresspiegel || {{#property:P2044|from=Q668614}}
+| Höhe über Meeresspiegel || 
 |-
-| Offizielle Website || {{#property:P856|from=Q668614}}
+| Offizielle Website || 
 |}
 
 * [[Ahrensburg Nachrichten Website]]
 
 
-{{#statements:P1}}</text>
+</text>
       <sha1>a9nojejru9hmetpa3am2o6a6zcm8442</sha1>
     </revision>
     <revision>
@@ -454,7 +451,7 @@ count=10
 == Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
 Dokumentensammlung: Texte über Ahrensburg
 
-{{#statements:Q2}}
+
 
 == Eine Wissensdatenbank über Ahrensburg ==
 Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
@@ -477,15 +474,15 @@ count=10
 |-
 ! Eigenschaft !! Wert
 |-
-| Land || {{#property:P17|from=Q668614}}
+| Land || 
 |-
-| Höhe über Meeresspiegel || {{#property:P2044|from=Q668614}}
+| Höhe über Meeresspiegel || 
 |-
-| Offizielle Website || {{#property:P856|from=Q668614}}
+| Offizielle Website || 
 |}
 
 * [[Ahrensburg Nachrichten Website]]
-* [[Item:Q2|Hier geht es zu Restaurant]]</text>
+* Hier geht es zu Restaurant</text>
       <sha1>5erammipqyg96tfxbnubds6xoiw4dak</sha1>
     </revision>
     <revision>
@@ -503,7 +500,7 @@ count=10
 == Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
 Dokumentensammlung: Texte über Ahrensburg
 
-{{#statements:Q2}}
+
 
 == Eine Wissensdatenbank über Ahrensburg ==
 Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
@@ -524,7 +521,7 @@ count=10
 
 
 * [[Ahrensburg Nachrichten Website]]
-* [[Item:Q2|Hier geht es zu Restaurant]]</text>
+* Hier geht es zu Restaurant</text>
       <sha1>m0onq720mp8sike2hbxz5dkf6xq76es</sha1>
     </revision>
     <revision>
@@ -542,7 +539,7 @@ count=10
 == Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
 Dokumentensammlung: Texte über Ahrensburg
 
-{{#statements:Q2}}
+
 
 == Eine Wissensdatenbank über Ahrensburg ==
 Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
@@ -2109,316 +2106,6 @@ Wir weisen darauf hin, dass die Datenübertragung im Internet (z.B. bei der Komm
 
 Impressum vom [https://www.impressum-generator.de Impressum Generator] der [Kanzlei Hasselbach, Rechtsanwälte für Arbeitsrecht und Familienrecht](https://www.kanzlei-hasselbach</text>
       <sha1>6znqq26rxwf6p9wwazjb3vkwila13wf</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>Property:P1</title>
-    <ns>122</ns>
-    <id>31</id>
-    <revision>
-      <id>42</id>
-      <timestamp>2026-01-08T00:15:38Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbeditentity-create:2|de */ Name</comment>
-      <origin>42</origin>
-      <model>wikibase-property</model>
-      <format>application/json</format>
-      <text bytes="141" sha1="bja7ityr2cy51lxofbkxjwtnixkwtes" xml:space="preserve">{"type":"property","datatype":"string","id":"P1","labels":{"de":{"language":"de","value":"Name"}},"descriptions":[],"aliases":[],"claims":[]}</text>
-      <sha1>bja7ityr2cy51lxofbkxjwtnixkwtes</sha1>
-    </revision>
-    <revision>
-      <id>43</id>
-      <parentid>42</parentid>
-      <timestamp>2026-01-08T00:16:38Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbsetclaim-create:2||1 */ [[Property:P1]]: Thorsten Klöhb</comment>
-      <origin>43</origin>
-      <model>wikibase-property</model>
-      <format>application/json</format>
-      <text bytes="389" sha1="n973c3qf43gtb0gecw21ykj8tkr1h6x" xml:space="preserve">{"type":"property","datatype":"string","id":"P1","labels":{"de":{"language":"de","value":"Name"}},"descriptions":[],"aliases":[],"claims":{"P1":[{"mainsnak":{"snaktype":"value","property":"P1","hash":"b89a23920eaf16092ddae81760cabfeaf595b1f1","datavalue":{"value":"Thorsten Kl\u00f6hb","type":"string"}},"type":"statement","id":"P1$b1a94fba-4385-fd95-2d4f-fa19214b92cf","rank":"normal"}]}}</text>
-      <sha1>n973c3qf43gtb0gecw21ykj8tkr1h6x</sha1>
-    </revision>
-    <revision>
-      <id>44</id>
-      <parentid>43</parentid>
-      <timestamp>2026-01-08T00:16:49Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbsetclaim-update:2||1 */ [[Property:P1]]: Thorsten Klöhn</comment>
-      <origin>44</origin>
-      <model>wikibase-property</model>
-      <format>application/json</format>
-      <text bytes="389" sha1="osd3bx2abfp51ceniftqc56sj90seur" xml:space="preserve">{"type":"property","datatype":"string","id":"P1","labels":{"de":{"language":"de","value":"Name"}},"descriptions":[],"aliases":[],"claims":{"P1":[{"mainsnak":{"snaktype":"value","property":"P1","hash":"2be9ed6e2983fdd45265331100635b2423d58455","datavalue":{"value":"Thorsten Kl\u00f6hn","type":"string"}},"type":"statement","id":"P1$b1a94fba-4385-fd95-2d4f-fa19214b92cf","rank":"normal"}]}}</text>
-      <sha1>osd3bx2abfp51ceniftqc56sj90seur</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>Item:Q1</title>
-    <ns>120</ns>
-    <id>32</id>
-    <revision>
-      <id>45</id>
-      <timestamp>2026-01-08T00:17:36Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbeditentity-create:2|de */ Start, Start1</comment>
-      <origin>45</origin>
-      <model>wikibase-item</model>
-      <format>application/json</format>
-      <text bytes="172" sha1="qin5ce0a6a5ly3ee41zz3j0tuvlk6c9" xml:space="preserve">{"type":"item","id":"Q1","labels":{"de":{"language":"de","value":"Start"}},"descriptions":{"de":{"language":"de","value":"Start1"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
-      <sha1>qin5ce0a6a5ly3ee41zz3j0tuvlk6c9</sha1>
-    </revision>
-    <revision>
-      <id>46</id>
-      <parentid>45</parentid>
-      <timestamp>2026-01-08T00:18:19Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbsetclaim-create:2||1 */ [[Property:P1]]: Thorsten Klöhn</comment>
-      <origin>46</origin>
-      <model>wikibase-item</model>
-      <format>application/json</format>
-      <text bytes="420" sha1="2lc7ousdsss3fw9ogk3bx0ks3sq5jpt" xml:space="preserve">{"type":"item","id":"Q1","labels":{"de":{"language":"de","value":"Start"}},"descriptions":{"de":{"language":"de","value":"Start1"}},"aliases":[],"claims":{"P1":[{"mainsnak":{"snaktype":"value","property":"P1","hash":"2be9ed6e2983fdd45265331100635b2423d58455","datavalue":{"value":"Thorsten Kl\u00f6hn","type":"string"}},"type":"statement","id":"Q1$ec5c5b79-4c80-62c2-a0cb-1f3acd5d60f1","rank":"normal"}]},"sitelinks":[]}</text>
-      <sha1>2lc7ousdsss3fw9ogk3bx0ks3sq5jpt</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>Property:P2</title>
-    <ns>122</ns>
-    <id>33</id>
-    <revision>
-      <id>49</id>
-      <timestamp>2026-01-09T11:02:24Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbeditentity-create:2|de */ Küche</comment>
-      <origin>49</origin>
-      <model>wikibase-property</model>
-      <format>application/json</format>
-      <text bytes="147" sha1="d7ukngpa7dbhnc52w9u60lcs0ma8u6u" xml:space="preserve">{"type":"property","datatype":"string","id":"P2","labels":{"de":{"language":"de","value":"K\u00fcche"}},"descriptions":[],"aliases":[],"claims":[]}</text>
-      <sha1>d7ukngpa7dbhnc52w9u60lcs0ma8u6u</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>Property:P3</title>
-    <ns>122</ns>
-    <id>35</id>
-    <revision>
-      <id>51</id>
-      <timestamp>2026-01-09T11:09:38Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbeditentity-create:2|de */ Adresse</comment>
-      <origin>51</origin>
-      <model>wikibase-property</model>
-      <format>application/json</format>
-      <text bytes="144" sha1="huunn5n9wvbeyzvy08exilityklu1ga" xml:space="preserve">{"type":"property","datatype":"string","id":"P3","labels":{"de":{"language":"de","value":"Adresse"}},"descriptions":[],"aliases":[],"claims":[]}</text>
-      <sha1>huunn5n9wvbeyzvy08exilityklu1ga</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>Property:P4</title>
-    <ns>122</ns>
-    <id>36</id>
-    <revision>
-      <id>61</id>
-      <timestamp>2026-01-10T14:10:53Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbeditentity-create:2|de */ Vorname</comment>
-      <origin>61</origin>
-      <model>wikibase-property</model>
-      <format>application/json</format>
-      <text bytes="144" sha1="o352d13xpvb3udtmlrz5s71azx56aii" xml:space="preserve">{"type":"property","datatype":"string","id":"P4","labels":{"de":{"language":"de","value":"Vorname"}},"descriptions":[],"aliases":[],"claims":[]}</text>
-      <sha1>o352d13xpvb3udtmlrz5s71azx56aii</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>Item:Q3</title>
-    <ns>120</ns>
-    <id>37</id>
-    <revision>
-      <id>62</id>
-      <timestamp>2026-01-10T14:12:02Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbeditentity-create:2|de */ Strehl, Restaurant</comment>
-      <origin>62</origin>
-      <model>wikibase-item</model>
-      <format>application/json</format>
-      <text bytes="177" sha1="144b4sshpioz2gwm1z0z7nqptqvzt9v" xml:space="preserve">{"type":"item","id":"Q3","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Restaurant"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
-      <sha1>144b4sshpioz2gwm1z0z7nqptqvzt9v</sha1>
-    </revision>
-    <revision>
-      <id>63</id>
-      <parentid>62</parentid>
-      <timestamp>2026-01-10T14:12:36Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbsetclaim-create:2||1 */ [[Property:P4]]: Thorsten</comment>
-      <origin>63</origin>
-      <model>wikibase-item</model>
-      <format>application/json</format>
-      <text bytes="414" sha1="ebvf6f9w66ko7i0hitmcppc13nsekuw" xml:space="preserve">{"type":"item","id":"Q3","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Restaurant"}},"aliases":[],"claims":{"P4":[{"mainsnak":{"snaktype":"value","property":"P4","hash":"02a85b70739bd83f8a72fd8222b7c4773ee8b36d","datavalue":{"value":"Thorsten","type":"string"}},"type":"statement","id":"Q3$bb7359a9-4dc9-1dbd-866e-adf12f8e20cd","rank":"normal"}]},"sitelinks":[]}</text>
-      <sha1>ebvf6f9w66ko7i0hitmcppc13nsekuw</sha1>
-    </revision>
-    <revision>
-      <id>67</id>
-      <parentid>63</parentid>
-      <timestamp>2026-01-11T23:01:56Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbremoveclaims-remove:1| */ [[Property:P4]]: Thorsten</comment>
-      <origin>67</origin>
-      <model>wikibase-item</model>
-      <format>application/json</format>
-      <text bytes="177" sha1="144b4sshpioz2gwm1z0z7nqptqvzt9v" xml:space="preserve">{"type":"item","id":"Q3","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Restaurant"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
-      <sha1>144b4sshpioz2gwm1z0z7nqptqvzt9v</sha1>
-    </revision>
-    <revision>
-      <id>68</id>
-      <parentid>67</parentid>
-      <timestamp>2026-01-11T23:03:00Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbsetclaim-create:2||1 */ [[Property:P5]]: [[Item:Q3]]</comment>
-      <origin>68</origin>
-      <model>wikibase-item</model>
-      <format>application/json</format>
-      <text bytes="462" sha1="sl41zn94xl045s90rc2049u4jh3483v" xml:space="preserve">{"type":"item","id":"Q3","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Restaurant"}},"aliases":[],"claims":{"P5":[{"mainsnak":{"snaktype":"value","property":"P5","hash":"67300d518d33d08d1856eee91256d4c03c0a53d7","datavalue":{"value":{"entity-type":"item","numeric-id":3,"id":"Q3"},"type":"wikibase-entityid"}},"type":"statement","id":"Q3$7bd4a336-461d-303d-91b5-141226c804a9","rank":"normal"}]},"sitelinks":[]}</text>
-      <sha1>sl41zn94xl045s90rc2049u4jh3483v</sha1>
-    </revision>
-    <revision>
-      <id>70</id>
-      <parentid>68</parentid>
-      <timestamp>2026-01-11T23:15:30Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbsetclaim-create:2||1 */ [[Property:P6]]: [[Item:Q4]]</comment>
-      <origin>70</origin>
-      <model>wikibase-item</model>
-      <format>application/json</format>
-      <text bytes="748" sha1="4rp66uynodsgo62vvcxbmr15ghq5cqz" xml:space="preserve">{"type":"item","id":"Q3","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Restaurant"}},"aliases":[],"claims":{"P5":[{"mainsnak":{"snaktype":"value","property":"P5","hash":"67300d518d33d08d1856eee91256d4c03c0a53d7","datavalue":{"value":{"entity-type":"item","numeric-id":3,"id":"Q3"},"type":"wikibase-entityid"}},"type":"statement","id":"Q3$7bd4a336-461d-303d-91b5-141226c804a9","rank":"normal"}],"P6":[{"mainsnak":{"snaktype":"value","property":"P6","hash":"7d915bfe178137b727c89aedc21b9470aa87b484","datavalue":{"value":{"entity-type":"item","numeric-id":4,"id":"Q4"},"type":"wikibase-entityid"}},"type":"statement","id":"Q3$d7c8ad7c-47bc-755c-3f55-84bc466a3618","rank":"normal"}]},"sitelinks":[]}</text>
-      <sha1>4rp66uynodsgo62vvcxbmr15ghq5cqz</sha1>
-    </revision>
-    <revision>
-      <id>71</id>
-      <parentid>70</parentid>
-      <timestamp>2026-01-11T23:25:21Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbsetclaim-create:2||1 */ [[Property:P3]]: Reeshoop, 50,Ahrensburg</comment>
-      <origin>71</origin>
-      <model>wikibase-item</model>
-      <format>application/json</format>
-      <text bytes="1001" sha1="jgy2mqxp5lita0maygdtjhxw3ew1a5i" xml:space="preserve">{"type":"item","id":"Q3","labels":{"de":{"language":"de","value":"Strehl"}},"descriptions":{"de":{"language":"de","value":"Restaurant"}},"aliases":[],"claims":{"P5":[{"mainsnak":{"snaktype":"value","property":"P5","hash":"67300d518d33d08d1856eee91256d4c03c0a53d7","datavalue":{"value":{"entity-type":"item","numeric-id":3,"id":"Q3"},"type":"wikibase-entityid"}},"type":"statement","id":"Q3$7bd4a336-461d-303d-91b5-141226c804a9","rank":"normal"}],"P6":[{"mainsnak":{"snaktype":"value","property":"P6","hash":"7d915bfe178137b727c89aedc21b9470aa87b484","datavalue":{"value":{"entity-type":"item","numeric-id":4,"id":"Q4"},"type":"wikibase-entityid"}},"type":"statement","id":"Q3$d7c8ad7c-47bc-755c-3f55-84bc466a3618","rank":"normal"}],"P3":[{"mainsnak":{"snaktype":"value","property":"P3","hash":"893191d60a92b6f03a500de7fc63a20aea2469cd","datavalue":{"value":"Reeshoop, 50,Ahrensburg","type":"string"}},"type":"statement","id":"Q3$ec278ef8-4883-3485-aa50-3f03ceaa636b","rank":"normal"}]},"sitelinks":[]}</text>
-      <sha1>jgy2mqxp5lita0maygdtjhxw3ew1a5i</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>Property:P5</title>
-    <ns>122</ns>
-    <id>38</id>
-    <revision>
-      <id>64</id>
-      <timestamp>2026-01-11T22:45:22Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbeditentity-create:2|de */ RestaurantName</comment>
-      <origin>64</origin>
-      <model>wikibase-property</model>
-      <format>application/json</format>
-      <text bytes="158" sha1="k0wv0dzu3ljsztc60ya5izg92pihx48" xml:space="preserve">{"type":"property","datatype":"wikibase-item","id":"P5","labels":{"de":{"language":"de","value":"RestaurantName"}},"descriptions":[],"aliases":[],"claims":[]}</text>
-      <sha1>k0wv0dzu3ljsztc60ya5izg92pihx48</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>Property:P6</title>
-    <ns>122</ns>
-    <id>39</id>
-    <revision>
-      <id>65</id>
-      <timestamp>2026-01-11T22:49:30Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbeditentity-create:2|de */ Küche_Nationale</comment>
-      <origin>65</origin>
-      <model>wikibase-property</model>
-      <format>application/json</format>
-      <text bytes="164" sha1="lku6zk7nhmte1lzt7p7elza5tmmko17" xml:space="preserve">{"type":"property","datatype":"wikibase-item","id":"P6","labels":{"de":{"language":"de","value":"K\u00fcche_Nationale"}},"descriptions":[],"aliases":[],"claims":[]}</text>
-      <sha1>lku6zk7nhmte1lzt7p7elza5tmmko17</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>Property:P7</title>
-    <ns>122</ns>
-    <id>40</id>
-    <revision>
-      <id>66</id>
-      <timestamp>2026-01-11T22:50:38Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbeditentity-create:2|de */ Webseite</comment>
-      <origin>66</origin>
-      <model>wikibase-property</model>
-      <format>application/json</format>
-      <text bytes="142" sha1="4g4vu46t9hcflvxig0qogx9svknajd2" xml:space="preserve">{"type":"property","datatype":"url","id":"P7","labels":{"de":{"language":"de","value":"Webseite"}},"descriptions":[],"aliases":[],"claims":[]}</text>
-      <sha1>4g4vu46t9hcflvxig0qogx9svknajd2</sha1>
-    </revision>
-  </page>
-  <page>
-    <title>Item:Q4</title>
-    <ns>120</ns>
-    <id>41</id>
-    <revision>
-      <id>69</id>
-      <timestamp>2026-01-11T23:14:22Z</timestamp>
-      <contributor>
-        <username>Thorsten</username>
-        <id>2</id>
-      </contributor>
-      <comment>/* wbeditentity-create:2|de */ Deutsche Küche, Restaurant_Angabe</comment>
-      <origin>69</origin>
-      <model>wikibase-item</model>
-      <format>application/json</format>
-      <text bytes="197" sha1="oiup51luwpdnlay69vzzay43f3b0awk" xml:space="preserve">{"type":"item","id":"Q4","labels":{"de":{"language":"de","value":"Deutsche K\u00fcche"}},"descriptions":{"de":{"language":"de","value":"Restaurant_Angabe"}},"aliases":[],"claims":[],"sitelinks":[]}</text>
-      <sha1>oiup51luwpdnlay69vzzay43f3b0awk</sha1>
     </revision>
   </page>
   <page>
