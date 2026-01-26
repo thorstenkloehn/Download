@@ -1104,6 +1104,167 @@ In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle
  code --install-extension vmware.vscode-boot-dev-pack</text>
       <sha1>jvpjccmdv3f47jo35s8z0op7rh8se4q</sha1>
     </revision>
+    <revision>
+      <id>213</id>
+      <parentid>31</parentid>
+      <timestamp>2026-01-26T04:55:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>213</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4994" sha1="2gngwj8qrfafs9stg84swxjgi05lkj4" xml:space="preserve">== Aktualisieren ==
+
+* Öffne Sie das Terminal und auf ihrem Ubuntu-Desktop
+* Führen Sie folgenden Befehl aus,um System zu aktualisieren.
+
+ sudo apt-get update 
+ sudo apt-get upgrade
+ sudo apt install libsecret-1-0 libsecret-tools libsecret-1-dev libglib2.0-dev
+
+== Google Chrome Installieren ==
+ wget &lt;nowiki&gt;https://dl.google.com/linux/direct/google-chrome-stable_current_amd64.deb&lt;/nowiki&gt;
+ sudo dpkg -i google-chrome-stable_current_amd64.deb
+
+== Git Installieren ==
+ sudo apt-get install git  gh
+ git config --global user.email "you@example.com"
+ git config --global user.name "Your Name"
+
+== gh Konfigurieren ==
+ gh auth login
+
+== Nodejs Installieren ==
+ sudo apt-get install curl
+ curl -o- &lt;nowiki&gt;https://raw.githubusercontent.com/nvm-sh/nvm/v0.40.1/install.sh&lt;/nowiki&gt; | bash
+ source ~/.bashrc
+ nvm install 22
+ # Verify the Node.js version:
+ node -v # Should print "v22.12.0".
+ nvm current # Should print "v22.12.0".
+ # Verify npm version:
+ npm -v # Should print "10.9.0".
+
+== Visual Studio Code ==
+
+=== Installieren ===
+ sudo snap install code --classic
+ sudo apt-get install neovim
+
+=== Pflugin ===
+In Visual Studio Code, öffnen Sie das Terminal und führen Sie folgende Befehle aus.
+ code --install-extension GitHub.copilot
+ code --install-extension RoweWilsonFrederiskHolme.wikitext
+ code --install-extension ms-windows-ai-studio.windows-ai-studio
+
+== Datenbank ==
+===MSQL 8.0===
+==== Installation (Ubuntu) ====
+ sudo apt-get update
+ sudo apt-get install mysql-server
+==== Absichern (Root Passwort, entfernte Benutzer, etc.) ====
+ sudo mysql_secure_installation
+
+==== Login als root (Ubuntu auth_socket) ====
+ sudo mysql
+
+==== Root Passwort-Login aktivieren (optional) ====
+ALTER USER 'root'@'localhost' IDENTIFIED BY 'DEIN_STARKES_PASSWORT';
+FLUSH PRIVILEGES;
+
+==== Benutzer + Datenbank anlegen ====
+ CREATE DATABASE thorsten CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+ CREATE USER 'thorsten'@'localhost' IDENTIFIED BY 'DEIN_STARKES_PASSWORT';
+ GRANT ALL PRIVILEGES ON thorsten.* TO 'thorsten'@'localhost';
+ FLUSH PRIVILEGES;
+
+==== Version anzeigen ====
+ SELECT VERSION();
+
+
+=== PostgreSQL ===
+
+==== Installation ====
+ sudo apt-get install postgresql-all
+   sudo -u postgres -i
+ createuser thorsten
+ createdb -E UTF8 -O thorsten thorsten
+ psql -c "\password thorsten"
+ psql -c "ALTER USER dein_benutzername CREATEDB;"
+ exit # Ausloggen
+
+=== PosgreSQL Version zeigen ===
+ psql --version
+
+=== Postgis Installation in Ubuntu 23.04 ===
+ sudo apt-get install postgis postgresql-16-postgis-3
+ sudo -u postgres -i
+ psql -d thorsten -c "CREATE EXTENSION postgis;" # Erweiterung hinzufügen
+ psql -d thorsten -c "CREATE EXTENSION postgis_topology;"
+ exit # Ausloggen
+
+== C und C++ Installieren ==
+ sudo apt  install curl 
+ sudo apt install build-essential
+ code --install-extension  ms-vscode.cpptools-extension-pack
+ sudo apt-get install cmake
+ sudo apt-get install gdb
+
+== Python Installieren ==
+ sudo apt install python3 python3-pip python3-venv  python-is-python3
+ code --install-extension  ms-python.python
+
+== Rust ==
+ curl --proto '=https' --tlsv1.2 -sSf &lt;nowiki&gt;https://sh.rustup.rs&lt;/nowiki&gt; | sh
+ code --install-extension rust-lang.rust-analyzer
+
+== Golang ==
+ cd $HOME
+ wget &lt;nowiki&gt;https://go.dev/dl/go1.25.5.linux-amd64.tar.gz&lt;/nowiki&gt;
+ sudo tar -C /usr/local -xzf go1.25.5.linux-amd64.tar.gz
+ echo 'export PATH=$PATH:/usr/local/go/bin' &gt;&gt; ~/.bashrc
+ echo 'export GOPATH=$HOME/go' &gt;&gt; ~/.bashrc
+ echo 'export PATH=$PATH:$GOPATH/bin' &gt;&gt; ~/.bashrc
+ source ~/.bashrc
+
+== dotnet ==
+ sudo apt-get update # Aktualisiert die Paketliste
+ sudo apt-get install -y dotnet-sdk-10.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-9.0 # Installation des .NET SDK
+ sudo apt-get install -y dotnet-sdk-8.0 # Installation des .NET SDK
+ dotnet tool install --global dotnet-ef
+ dotnet tool install --global dotnet-aspnet-codegenerator
+ dotnet tool install -g Microsoft.Web.LibraryManager.Cli
+ echo 'export PATH=$HOME/.dotnet/tools:$PATH' &gt;&gt; ~/.bashrc # Hinzufügen des Pfads zum .bashrc
+ source ~/.bashrc  # Aktualisierung der .bashrc
+ code --install-extension ms-dotnettools.csdevkit # Installiert die C# Dev Kit Erweiterung
+ dotnet new install OrchardCore.ProjectTemplates::2.2.1
+
+== PHP Installieren ==
+ sudo apt install php-fpm php-pgsql php-xml php-curl php-gd php-mbstring php-xmlrpc php-zip php-intl php-json php-cli php-common php-apcu php-bcmath php-soap php-ldap php-imagick php-zip php-gmp -y
+
+== Composer Installieren ==
+ php -r "copy('&lt;nowiki&gt;https://getcomposer.org/installer'&lt;/nowiki&gt;, 'composer-setup.php');"
+ echo 'Installer corrupt'.PHP_EOL; unlink('composer-setup.php'); exit(1); }"
+ php composer-setup.php
+ php -r "unlink('composer-setup.php');"
+ sudo mv composer.phar /usr/local/bin/composer
+
+== nginx ==
+ sudo apt-get install nginx
+ sudo rm /etc/nginx/sites-enabled/default
+
+== Java ==
+ sudo apt install openjdk-26-jdk
+ sudo apt install maven 
+ 
+ code --install-extension  vscjava.vscode-java-pack
+ code --install-extension vmware.vscode-boot-dev-pack</text>
+      <sha1>2gngwj8qrfafs9stg84swxjgi05lkj4</sha1>
+    </revision>
   </page>
   <page>
     <title>Schwachstellen</title>
@@ -6272,6 +6433,148 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
 |}</text>
       <sha1>ezt3k1hvl48k19ne6c08vngx8ge0rh3</sha1>
     </revision>
+    <revision>
+      <id>204</id>
+      <parentid>196</parentid>
+      <timestamp>2026-01-21T17:54:43Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>204</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="834" sha1="5x2b55geqe03fbfifcyrw4sx9e8rs9z" xml:space="preserve">== 1. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|}
+
+== 2. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 3. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}</text>
+      <sha1>5x2b55geqe03fbfifcyrw4sx9e8rs9z</sha1>
+    </revision>
+    <revision>
+      <id>212</id>
+      <parentid>204</parentid>
+      <timestamp>2026-01-26T04:25:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>212</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1518" sha1="027sdtnvrdj4vg6s1kq2zfxfyk8kahp" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|}
+
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://www.bookstackapp.com BookStack]
+| PHP (Laravel)
+| Einfaches Wiki-/Dokumentationssystem mit Büchern, Kapiteln und Seiten; geeignet für interne Dokumentation und Teams
+| [[CMS/BookStack|BookStack]]
+|-
+| [https://js.wiki Wiki.js]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}</text>
+      <sha1>027sdtnvrdj4vg6s1kq2zfxfyk8kahp</sha1>
+    </revision>
   </page>
   <page>
     <title>CMS/Drupal</title>
@@ -6344,6 +6647,101 @@ Drupal ist ein leistungsstarkes, quelloffenes Content-Management-System (CMS), d
 * [[CMS/Drupal/Voraussetzungen|Voraussetzungen]]
 * [[CMS/Drupal/Installation|Installation]]</text>
       <sha1>bvzi90xj6exk6huet1cxoiycsr4adnw</sha1>
+    </revision>
+    <revision>
+      <id>205</id>
+      <parentid>129</parentid>
+      <timestamp>2026-01-22T07:19:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>205</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="452" sha1="tfw93ryabux0elnwf50chvltqrjjbtu" xml:space="preserve">== Was ist Drupal? ==
+Drupal ist ein leistungsstarkes, quelloffenes Content-Management-System (CMS), das auf PHP basiert. Es zeichnet sich durch seine modulare Architektur, hohe Sicherheitsstandards und eine große Entwickler-Community aus, wodurch es sich besonders für komplexe und skalierbare Webprojekte eignet.
+* [[CMS/Drupal/Voraussetzungen|Voraussetzungen]]
+* [[CMS/Drupal/Installation|Installation]]
+* [[CMS/Drupal/Profil-Installer|Installer]]</text>
+      <sha1>tfw93ryabux0elnwf50chvltqrjjbtu</sha1>
+    </revision>
+    <revision>
+      <id>206</id>
+      <parentid>205</parentid>
+      <timestamp>2026-01-22T07:21:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>206</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="459" sha1="elagb3z571aukw6h9m1nsd2u926p7de" xml:space="preserve">== Was ist Drupal? ==
+Drupal ist ein leistungsstarkes, quelloffenes Content-Management-System (CMS), das auf PHP basiert. Es zeichnet sich durch seine modulare Architektur, hohe Sicherheitsstandards und eine große Entwickler-Community aus, wodurch es sich besonders für komplexe und skalierbare Webprojekte eignet.
+* [[CMS/Drupal/Voraussetzungen|Voraussetzungen]]
+* [[CMS/Drupal/Installation|Installation]]
+* [[CMS/Drupal/Profil-Installer|Profil Installer]]</text>
+      <sha1>elagb3z571aukw6h9m1nsd2u926p7de</sha1>
+    </revision>
+    <revision>
+      <id>209</id>
+      <parentid>206</parentid>
+      <timestamp>2026-01-23T07:07:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>209</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="519" sha1="cw2a2quvfarkcyr5fxqbgb726jiev56" xml:space="preserve">== Was ist Drupal? ==
+Drupal ist ein leistungsstarkes, quelloffenes Content-Management-System (CMS), das auf PHP basiert. Es zeichnet sich durch seine modulare Architektur, hohe Sicherheitsstandards und eine große Entwickler-Community aus, wodurch es sich besonders für komplexe und skalierbare Webprojekte eignet.
+* [[CMS/Drupal/Voraussetzungen|Voraussetzungen]]
+* [[CMS/Drupal/Installation|Installation]]
+* [[CMS/Drupal/Profil-Installer|Profil Installer]]
+* [[CMS/Drupal/Recipes|Drupal Recipes]]                   &lt;</text>
+      <sha1>cw2a2quvfarkcyr5fxqbgb726jiev56</sha1>
+    </revision>
+    <revision>
+      <id>210</id>
+      <parentid>209</parentid>
+      <timestamp>2026-01-23T07:07:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>210</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="499" sha1="e1px9v76i93giyniksehnduiii2huz7" xml:space="preserve">== Was ist Drupal? ==
+Drupal ist ein leistungsstarkes, quelloffenes Content-Management-System (CMS), das auf PHP basiert. Es zeichnet sich durch seine modulare Architektur, hohe Sicherheitsstandards und eine große Entwickler-Community aus, wodurch es sich besonders für komplexe und skalierbare Webprojekte eignet.
+* [[CMS/Drupal/Voraussetzungen|Voraussetzungen]]
+* [[CMS/Drupal/Installation|Installation]]
+* [[CMS/Drupal/Profil-Installer|Profil Installer]]
+* [[CMS/Drupal/Recipes|Drupal Recipes]]</text>
+      <sha1>e1px9v76i93giyniksehnduiii2huz7</sha1>
+    </revision>
+    <revision>
+      <id>211</id>
+      <parentid>210</parentid>
+      <timestamp>2026-01-23T07:13:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>211</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="492" sha1="oiffoepxrv9xn98qdcjtffqssd9kfum" xml:space="preserve">== Was ist Drupal? ==
+Drupal ist ein leistungsstarkes, quelloffenes Content-Management-System (CMS), das auf PHP basiert. Es zeichnet sich durch seine modulare Architektur, hohe Sicherheitsstandards und eine große Entwickler-Community aus, wodurch es sich besonders für komplexe und skalierbare Webprojekte eignet.
+* [[CMS/Drupal/Voraussetzungen|Voraussetzungen]]
+* [[CMS/Drupal/Installation|Installation]]
+* [[CMS/Drupal/Profil-Installer|Profil Installer]]
+* [[CMS/Drupal/Recipes|Recipes]]</text>
+      <sha1>oiffoepxrv9xn98qdcjtffqssd9kfum</sha1>
     </revision>
   </page>
   <page>
@@ -12320,6 +12718,240 @@ Starte PHP-FPM neu, damit die Änderungen wirksam werden:
 sudo systemctl restart php8.4-fpm
 &lt;/pre&gt;</text>
       <sha1>leedgwlu31ifq0x6j1o5hn47iafi360</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>CMS/Drupal/Profil-Installer</title>
+    <ns>0</ns>
+    <id>56</id>
+    <revision>
+      <id>207</id>
+      <timestamp>2026-01-22T08:10:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>207</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="793" sha1="l59sprsv4lcaswg7zxov753fijfl5u9" xml:space="preserve">==Profil-Installer==
+In Drupal bezeichnet ein Installationsprofil, das die Standardkonfiguration, Module und Einstellungen für eine neue Drupal-Website vorgibt. Es ermöglicht die automatisierte Einrichtung spezifischer Funktionen und Designs während der Installation. Profil-Installer werden häufig genutzt, um vorkonfigurierte Distributionen oder spezielle Anwendungsfälle (z. B. Intranet, E-Commerce) bereitzustellen.
+===Erstellen ein Profil-Installer===
+```
+vendor/bin/drush config:export --destination=/web/profil/installiere
+# Entfernt alle Zeilen, die mit uuid: beginnen
+find . -type f -name "*.yml" -exec sed -i '/^uuid: /d' {} +
+
+# Entfernt den _core-Block (die Zeile selbst und die darauffolgende Zeile mit dem Hash)
+find . -type f -name "*.yml" -exec sed -i '/^_core:/,+1d' {} +</text>
+      <sha1>l59sprsv4lcaswg7zxov753fijfl5u9</sha1>
+    </revision>
+    <revision>
+      <id>208</id>
+      <parentid>207</parentid>
+      <timestamp>2026-01-22T09:28:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>208</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1457" sha1="fenl3t793ob6p3myb1e4n7h1zm1pw45" xml:space="preserve">==Profil-Installer==
+In Drupal bezeichnet ein Installationsprofil, das die Standardkonfiguration, Module und Einstellungen für eine neue Drupal-Website vorgibt. Es ermöglicht die automatisierte Einrichtung spezifischer Funktionen und Designs während der Installation. Profil-Installer werden häufig genutzt, um vorkonfigurierte Distributionen oder spezielle Anwendungsfälle (z. B. Intranet, E-Commerce) bereitzustellen.
+===Erstellen ein Profil-Installer===
+Ein zentrales Element eines Profil-Installers ist die Datei &lt;code&gt;stadtportal.info.yml&lt;/code&gt;. Diese Datei beschreibt das Installationsprofil und enthält wichtige Metadaten wie Name, Beschreibung, Typ und abhängige Module. Ohne diese Datei erkennt Drupal das Profil nicht und kann es während der Installation nicht auswählen. Ein Beispiel für eine solche Datei:
+sudo nano /var/www/drupal/web/profiles/stadtportal/stadtportal.info.yml&lt;pre&gt;
+name: Stadtportal
+type: profile
+description: 'Installationsprofil für das Stadtportal.'
+core_version_requirement: ^11
+dependencies:
+    - drupal:views
+    - drupal:field
+&lt;/pre&gt;
+&lt;pre&gt;
+vendor/bin/drush config:export --destination=/var/www/drupal/web/profiles/stadtportal/config/install
+# Entfernt alle Zeilen, die mit uuid: beginnen
+find . -type f -name "*.yml" -exec sed -i '/^uuid: /d' {} +
+
+# Entfernt den _core-Block (die Zeile selbst und die darauffolgende Zeile mit dem Hash)
+find . -type f -name "*.yml" -exec sed -i '/^_core:/,+1d' {} +
+
+&lt;/pre&gt;</text>
+      <sha1>fenl3t793ob6p3myb1e4n7h1zm1pw45</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>CMS/BookStack</title>
+    <ns>0</ns>
+    <id>57</id>
+    <revision>
+      <id>214</id>
+      <timestamp>2026-01-26T09:58:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>214</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1463" sha1="gtzghkevvtcwesmu6tvyy9bhp9tsh3b" xml:space="preserve">==Entwicklung Server==
+&lt;pre&gt;
+sudo apt-get install php-mysql
+&lt;/pre&gt;
+
+
+===Mysql Datenbank Einrichten===
+&lt;pre&gt;
+sudo mysql
+CREATE DATABASE bookstack CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+CREATE USER 'thorsten'@'localhost' IDENTIFIED BY 'DEIN_STARKES_PASSWORT';
+GRANT ALL PRIVILEGES ON bookstack.* TO 'thorsten'@'localhost';
+FLUSH PRIVILEGES;
+&lt;/pre&gt;
+
+===BookStack herunterladen===
+&lt;pre&gt;
+sudo git clone https://source.bookstackapp.com/bookstack.git --branch release --single-branch bookstack
+cd bookstack
+sudo composer install --no-dev
+sudo cp .env.example .env
+&lt;/pre&gt;
+===Konfiguration von BookStack===
+&lt;pre&gt;
+sudo nano .env
+&lt;/pre&gt;
+
+===Dateiberechtigungen setzen===
+&lt;pre&gt;
+sudo chmod 777 -R storage
+sudo chmod 777 -R bootstrap/cache
+sudo chmod 777 -R public/uploads
+sudo chown -R www-data:www-data storage bootstrap/cache
+&lt;/pre&gt;
+===Artisan Nutzen===
+&lt;pre&gt;
+php artisan key:generate --force --no-interaction
+php artisan migrate --force --no-interaction
+&lt;/pre&gt;
+
+===Ngings Einstellung===
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/bookstack.conf
+&lt;/pre&gt;
+Geben Sie Folgendes in die Datei `/etc/nginx/conf.d/bookstack.conf` ein:
+
+
+&lt;pre&gt;
+
+server {
+  listen 80;
+  listen [::]:80;
+
+  server_name bookstack.localhost;
+
+  root /var/www/bookstack/public;
+  index index.php index.html;
+
+  location / {
+    try_files $uri $uri/ /index.php?$query_string;
+  }
+  
+  location ~ \.php$ {
+    include snippets/fastcgi-php.conf;
+    fastcgi_pass unix:/run/php/php8.4-fpm.sock;
+  }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>gtzghkevvtcwesmu6tvyy9bhp9tsh3b</sha1>
+    </revision>
+    <revision>
+      <id>215</id>
+      <parentid>214</parentid>
+      <timestamp>2026-01-26T10:04:39Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Ngings Einstellung */</comment>
+      <origin>215</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1462" sha1="pupj0m83c6hvaodi8gc0xjoqgz1uggd" xml:space="preserve">==Entwicklung Server==
+&lt;pre&gt;
+sudo apt-get install php-mysql
+&lt;/pre&gt;
+
+
+===Mysql Datenbank Einrichten===
+&lt;pre&gt;
+sudo mysql
+CREATE DATABASE bookstack CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+CREATE USER 'thorsten'@'localhost' IDENTIFIED BY 'DEIN_STARKES_PASSWORT';
+GRANT ALL PRIVILEGES ON bookstack.* TO 'thorsten'@'localhost';
+FLUSH PRIVILEGES;
+&lt;/pre&gt;
+
+===BookStack herunterladen===
+&lt;pre&gt;
+sudo git clone https://source.bookstackapp.com/bookstack.git --branch release --single-branch bookstack
+cd bookstack
+sudo composer install --no-dev
+sudo cp .env.example .env
+&lt;/pre&gt;
+===Konfiguration von BookStack===
+&lt;pre&gt;
+sudo nano .env
+&lt;/pre&gt;
+
+===Dateiberechtigungen setzen===
+&lt;pre&gt;
+sudo chmod 777 -R storage
+sudo chmod 777 -R bootstrap/cache
+sudo chmod 777 -R public/uploads
+sudo chown -R www-data:www-data storage bootstrap/cache
+&lt;/pre&gt;
+===Artisan Nutzen===
+&lt;pre&gt;
+php artisan key:generate --force --no-interaction
+php artisan migrate --force --no-interaction
+&lt;/pre&gt;
+
+===Nginx Einstellung===
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/bookstack.conf
+&lt;/pre&gt;
+Geben Sie Folgendes in die Datei `/etc/nginx/conf.d/bookstack.conf` ein:
+
+
+&lt;pre&gt;
+
+server {
+  listen 80;
+  listen [::]:80;
+
+  server_name bookstack.localhost;
+
+  root /var/www/bookstack/public;
+  index index.php index.html;
+
+  location / {
+    try_files $uri $uri/ /index.php?$query_string;
+  }
+  
+  location ~ \.php$ {
+    include snippets/fastcgi-php.conf;
+    fastcgi_pass unix:/run/php/php8.4-fpm.sock;
+  }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>pupj0m83c6hvaodi8gc0xjoqgz1uggd</sha1>
     </revision>
   </page>
 </mediawiki>
