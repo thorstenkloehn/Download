@@ -2419,6 +2419,234 @@ Jakarta EE ist ein Satz von Spezifikationen für die Entwicklung von Unternehmen
 * '''Persistenz:''' Standardisierter Datenzugriff über die Jakarta Persistence API (JPA).</text>
       <sha1>ti3nlax1pm0o8malv4gs20fp40wwc3d</sha1>
     </revision>
+    <revision>
+      <id>220</id>
+      <parentid>50</parentid>
+      <timestamp>2026-01-27T00:19:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>220</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1170" sha1="e6i1gbx5fhj30qimodrceurcwkyhpor" xml:space="preserve">== ASP.NET Core ==
+ASP.NET Core ist ein Open-Source-, plattformübergreifendes Framework von Microsoft zur Erstellung moderner, cloudbasierter Internetanwendungen.
+
+* '''Plattformunabhängigkeit:''' Läuft auf Windows, macOS und Linux.
+* '''Performance:''' Gehört zu den schnellsten Web-Frameworks in Benchmarks (z. B. TechEmpower).
+* '''Middleware-Pipeline:''' Modularer Aufbau des HTTP-Anforderungsverarbeitungsprozesses.
+* '''Integrierte Dependency Injection:''' Von Haus aus unterstützte Entkopplung von Komponenten.
+
+== Spring Boot ==
+Spring Boot ist eine Erweiterung des Spring-Frameworks für Java, die darauf abzielt, den Konfigurationsaufwand für produktionsreife Anwendungen zu minimieren ("Convention over Configuration").
+
+* '''Auto-Configuration:''' Automatische Einrichtung von Spring-Modulen basierend auf den vorhandenen JAR-Abhängigkeiten.
+* '''Eingebettete Server:''' Direkte Ausführung als JAR mit integriertem Tomcat, Jetty oder Undertow.
+* '''Starters:''' Vordefinierte Abhängigkeitsbündel (z. B. `spring-boot-starter-web`) zur Vereinfachung des Builds.
+* '''Actuator:''' Integrierte Endpunkte zur Überwachung und Verwaltung der Applikation.</text>
+      <sha1>e6i1gbx5fhj30qimodrceurcwkyhpor</sha1>
+    </revision>
+    <revision>
+      <id>221</id>
+      <parentid>220</parentid>
+      <timestamp>2026-01-27T01:40:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>221</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2549" sha1="ejyz3my89n669uktlsfao7acgfe7ax3" xml:space="preserve">== ASP.NET Core ==
+ASP.NET Core ist ein Open-Source-, plattformübergreifendes Framework von Microsoft zur Erstellung moderner, cloudbasierter Internetanwendungen.
+
+* '''Plattformunabhängigkeit:''' Läuft auf Windows, macOS und Linux.
+* '''Performance:''' Gehört zu den schnellsten Web-Frameworks in Benchmarks (z. B. TechEmpower).
+* '''Middleware-Pipeline:''' Modularer Aufbau des HTTP-Anforderungsverarbeitungsprozesses.
+* '''Integrierte Dependency Injection:''' Von Haus aus unterstützte Entkopplung von Komponenten.
+
+== Spring Boot ==
+Spring Boot ist eine Erweiterung des Spring-Frameworks für Java, die darauf abzielt, den Konfigurationsaufwand für produktionsreife Anwendungen zu minimieren ("Convention over Configuration").
+
+* '''Auto-Configuration:''' Automatische Einrichtung von Spring-Modulen basierend auf den vorhandenen JAR-Abhängigkeiten.
+* '''Eingebettete Server:''' Direkte Ausführung als JAR mit integriertem Tomcat, Jetty oder Undertow.
+* '''Starters:''' Vordefinierte Abhängigkeitsbündel (z. B. `spring-boot-starter-web`) zur Vereinfachung des Builds.
+* '''Actuator:''' Integrierte Endpunkte zur Überwachung und Verwaltung der Applikation.
+
+==Laravel==
+Laravel ist ein populäres PHP-Webframework, das für seine elegante Syntax und Entwicklerfreundlichkeit bekannt ist.
+
+* '''Eloquent ORM:''' Leistungsfähiges, objektorientiertes Datenbank-ORM für einfache Datenbankabfragen.
+* '''Blade-Templating:''' Integriertes, leichtgewichtiges Template-System für die Trennung von Logik und Darstellung.
+* '''Routing:''' Intuitives Routing-System zur Definition von Webrouten und RESTful-APIs.
+* '''Migrationen &amp; Seeder:''' Werkzeuge zur Verwaltung und Initialisierung von Datenbankschemata.
+* '''Ökosystem:''' Umfangreiche Sammlung offizieller Pakete (z. B. Horizon, Passport, Sanctum) zur Erweiterung von Funktionalitäten.
+==Symfony==
+Symfony ist ein flexibles, komponentenbasiertes PHP-Framework, das für die Entwicklung komplexer und skalierbarer Webanwendungen eingesetzt wird.
+
+* '''Komponentenarchitektur:''' Wiederverwendbare, unabhängige PHP-Komponenten (z. B. Routing, Event Dispatcher, Console).
+* '''Bundles:''' Modularisierung von Funktionalitäten durch Bundles, die einfach integriert werden können.
+* '''Twig-Templating:''' Leistungsfähiges, sicheres und schnelles Template-System.
+* '''Konfigurierbarkeit:''' Unterstützung verschiedener Konfigurationsformate (YAML, XML, PHP, Annotations).
+* '''Community &amp; Ökosystem:''' Große Community und zahlreiche Erweiterungen (z. B. API Platform, EasyAdmin).</text>
+      <sha1>ejyz3my89n669uktlsfao7acgfe7ax3</sha1>
+    </revision>
+    <revision>
+      <id>222</id>
+      <parentid>221</parentid>
+      <timestamp>2026-01-27T02:47:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>222</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3181" sha1="jpqcg0l9k8rmtrwpqypi7kltmgn9tmw" xml:space="preserve">== ASP.NET Core ==
+ASP.NET Core ist ein Open-Source-, plattformübergreifendes Framework von Microsoft zur Erstellung moderner, cloudbasierter Internetanwendungen.
+
+* '''Plattformunabhängigkeit:''' Läuft auf Windows, macOS und Linux.
+* '''Performance:''' Gehört zu den schnellsten Web-Frameworks in Benchmarks (z. B. TechEmpower).
+* '''Middleware-Pipeline:''' Modularer Aufbau des HTTP-Anforderungsverarbeitungsprozesses.
+* '''Integrierte Dependency Injection:''' Von Haus aus unterstützte Entkopplung von Komponenten.
+
+== Spring Boot ==
+Spring Boot ist eine Erweiterung des Spring-Frameworks für Java, die darauf abzielt, den Konfigurationsaufwand für produktionsreife Anwendungen zu minimieren ("Convention over Configuration").
+
+* '''Auto-Configuration:''' Automatische Einrichtung von Spring-Modulen basierend auf den vorhandenen JAR-Abhängigkeiten.
+* '''Eingebettete Server:''' Direkte Ausführung als JAR mit integriertem Tomcat, Jetty oder Undertow.
+* '''Starters:''' Vordefinierte Abhängigkeitsbündel (z. B. `spring-boot-starter-web`) zur Vereinfachung des Builds.
+* '''Actuator:''' Integrierte Endpunkte zur Überwachung und Verwaltung der Applikation.
+
+==Laravel==
+Laravel ist ein populäres PHP-Webframework, das für seine elegante Syntax und Entwicklerfreundlichkeit bekannt ist.
+
+* '''Eloquent ORM:''' Leistungsfähiges, objektorientiertes Datenbank-ORM für einfache Datenbankabfragen.
+* '''Blade-Templating:''' Integriertes, leichtgewichtiges Template-System für die Trennung von Logik und Darstellung.
+* '''Routing:''' Intuitives Routing-System zur Definition von Webrouten und RESTful-APIs.
+* '''Migrationen &amp; Seeder:''' Werkzeuge zur Verwaltung und Initialisierung von Datenbankschemata.
+* '''Ökosystem:''' Umfangreiche Sammlung offizieller Pakete (z. B. Horizon, Passport, Sanctum) zur Erweiterung von Funktionalitäten.
+==Symfony==
+Symfony ist ein flexibles, komponentenbasiertes PHP-Framework, das für die Entwicklung komplexer und skalierbarer Webanwendungen eingesetzt wird.
+
+* '''Komponentenarchitektur:''' Wiederverwendbare, unabhängige PHP-Komponenten (z. B. Routing, Event Dispatcher, Console).
+* '''Bundles:''' Modularisierung von Funktionalitäten durch Bundles, die einfach integriert werden können.
+* '''Twig-Templating:''' Leistungsfähiges, sicheres und schnelles Template-System.
+* '''Konfigurierbarkeit:''' Unterstützung verschiedener Konfigurationsformate (YAML, XML, PHP, Annotations).
+* '''Community &amp; Ökosystem:''' Große Community und zahlreiche Erweiterungen (z. B. API Platform, EasyAdmin).
+==Django==
+Django ist ein leistungsfähiges Python-Webframework, das auf schnelle Entwicklung und sauberes, pragmatisches Design abzielt.
+
+* '''ORM:''' Integriertes objekt-relationales Mapping für einfache Datenbankoperationen.
+* '''Admin-Interface:''' Automatisch generiertes Backend zur Verwaltung von Datenmodellen.
+* '''URL-Routing:''' Flexibles und deklaratives System zur Definition von URLs und Views.
+* '''Sicherheit:''' Eingebaute Schutzmechanismen gegen häufige Web-Sicherheitslücken (z. B. CSRF, XSS, SQL-Injection).
+* '''Modularität:''' Wiederverwendbare Apps und umfangreiches Ökosystem von Drittanbieter-Paketen.</text>
+      <sha1>jpqcg0l9k8rmtrwpqypi7kltmgn9tmw</sha1>
+    </revision>
+    <revision>
+      <id>223</id>
+      <parentid>222</parentid>
+      <timestamp>2026-01-27T03:04:19Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>223</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2549" sha1="ejyz3my89n669uktlsfao7acgfe7ax3" xml:space="preserve">== ASP.NET Core ==
+ASP.NET Core ist ein Open-Source-, plattformübergreifendes Framework von Microsoft zur Erstellung moderner, cloudbasierter Internetanwendungen.
+
+* '''Plattformunabhängigkeit:''' Läuft auf Windows, macOS und Linux.
+* '''Performance:''' Gehört zu den schnellsten Web-Frameworks in Benchmarks (z. B. TechEmpower).
+* '''Middleware-Pipeline:''' Modularer Aufbau des HTTP-Anforderungsverarbeitungsprozesses.
+* '''Integrierte Dependency Injection:''' Von Haus aus unterstützte Entkopplung von Komponenten.
+
+== Spring Boot ==
+Spring Boot ist eine Erweiterung des Spring-Frameworks für Java, die darauf abzielt, den Konfigurationsaufwand für produktionsreife Anwendungen zu minimieren ("Convention over Configuration").
+
+* '''Auto-Configuration:''' Automatische Einrichtung von Spring-Modulen basierend auf den vorhandenen JAR-Abhängigkeiten.
+* '''Eingebettete Server:''' Direkte Ausführung als JAR mit integriertem Tomcat, Jetty oder Undertow.
+* '''Starters:''' Vordefinierte Abhängigkeitsbündel (z. B. `spring-boot-starter-web`) zur Vereinfachung des Builds.
+* '''Actuator:''' Integrierte Endpunkte zur Überwachung und Verwaltung der Applikation.
+
+==Laravel==
+Laravel ist ein populäres PHP-Webframework, das für seine elegante Syntax und Entwicklerfreundlichkeit bekannt ist.
+
+* '''Eloquent ORM:''' Leistungsfähiges, objektorientiertes Datenbank-ORM für einfache Datenbankabfragen.
+* '''Blade-Templating:''' Integriertes, leichtgewichtiges Template-System für die Trennung von Logik und Darstellung.
+* '''Routing:''' Intuitives Routing-System zur Definition von Webrouten und RESTful-APIs.
+* '''Migrationen &amp; Seeder:''' Werkzeuge zur Verwaltung und Initialisierung von Datenbankschemata.
+* '''Ökosystem:''' Umfangreiche Sammlung offizieller Pakete (z. B. Horizon, Passport, Sanctum) zur Erweiterung von Funktionalitäten.
+==Symfony==
+Symfony ist ein flexibles, komponentenbasiertes PHP-Framework, das für die Entwicklung komplexer und skalierbarer Webanwendungen eingesetzt wird.
+
+* '''Komponentenarchitektur:''' Wiederverwendbare, unabhängige PHP-Komponenten (z. B. Routing, Event Dispatcher, Console).
+* '''Bundles:''' Modularisierung von Funktionalitäten durch Bundles, die einfach integriert werden können.
+* '''Twig-Templating:''' Leistungsfähiges, sicheres und schnelles Template-System.
+* '''Konfigurierbarkeit:''' Unterstützung verschiedener Konfigurationsformate (YAML, XML, PHP, Annotations).
+* '''Community &amp; Ökosystem:''' Große Community und zahlreiche Erweiterungen (z. B. API Platform, EasyAdmin).</text>
+      <sha1>ejyz3my89n669uktlsfao7acgfe7ax3</sha1>
+    </revision>
+    <revision>
+      <id>224</id>
+      <parentid>223</parentid>
+      <timestamp>2026-01-27T12:48:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>224</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3181" sha1="jpqcg0l9k8rmtrwpqypi7kltmgn9tmw" xml:space="preserve">== ASP.NET Core ==
+ASP.NET Core ist ein Open-Source-, plattformübergreifendes Framework von Microsoft zur Erstellung moderner, cloudbasierter Internetanwendungen.
+
+* '''Plattformunabhängigkeit:''' Läuft auf Windows, macOS und Linux.
+* '''Performance:''' Gehört zu den schnellsten Web-Frameworks in Benchmarks (z. B. TechEmpower).
+* '''Middleware-Pipeline:''' Modularer Aufbau des HTTP-Anforderungsverarbeitungsprozesses.
+* '''Integrierte Dependency Injection:''' Von Haus aus unterstützte Entkopplung von Komponenten.
+
+== Spring Boot ==
+Spring Boot ist eine Erweiterung des Spring-Frameworks für Java, die darauf abzielt, den Konfigurationsaufwand für produktionsreife Anwendungen zu minimieren ("Convention over Configuration").
+
+* '''Auto-Configuration:''' Automatische Einrichtung von Spring-Modulen basierend auf den vorhandenen JAR-Abhängigkeiten.
+* '''Eingebettete Server:''' Direkte Ausführung als JAR mit integriertem Tomcat, Jetty oder Undertow.
+* '''Starters:''' Vordefinierte Abhängigkeitsbündel (z. B. `spring-boot-starter-web`) zur Vereinfachung des Builds.
+* '''Actuator:''' Integrierte Endpunkte zur Überwachung und Verwaltung der Applikation.
+
+==Laravel==
+Laravel ist ein populäres PHP-Webframework, das für seine elegante Syntax und Entwicklerfreundlichkeit bekannt ist.
+
+* '''Eloquent ORM:''' Leistungsfähiges, objektorientiertes Datenbank-ORM für einfache Datenbankabfragen.
+* '''Blade-Templating:''' Integriertes, leichtgewichtiges Template-System für die Trennung von Logik und Darstellung.
+* '''Routing:''' Intuitives Routing-System zur Definition von Webrouten und RESTful-APIs.
+* '''Migrationen &amp; Seeder:''' Werkzeuge zur Verwaltung und Initialisierung von Datenbankschemata.
+* '''Ökosystem:''' Umfangreiche Sammlung offizieller Pakete (z. B. Horizon, Passport, Sanctum) zur Erweiterung von Funktionalitäten.
+==Symfony==
+Symfony ist ein flexibles, komponentenbasiertes PHP-Framework, das für die Entwicklung komplexer und skalierbarer Webanwendungen eingesetzt wird.
+
+* '''Komponentenarchitektur:''' Wiederverwendbare, unabhängige PHP-Komponenten (z. B. Routing, Event Dispatcher, Console).
+* '''Bundles:''' Modularisierung von Funktionalitäten durch Bundles, die einfach integriert werden können.
+* '''Twig-Templating:''' Leistungsfähiges, sicheres und schnelles Template-System.
+* '''Konfigurierbarkeit:''' Unterstützung verschiedener Konfigurationsformate (YAML, XML, PHP, Annotations).
+* '''Community &amp; Ökosystem:''' Große Community und zahlreiche Erweiterungen (z. B. API Platform, EasyAdmin).
+==Django==
+Django ist ein leistungsfähiges Python-Webframework, das auf schnelle Entwicklung und sauberes, pragmatisches Design abzielt.
+
+* '''ORM:''' Integriertes objekt-relationales Mapping für einfache Datenbankoperationen.
+* '''Admin-Interface:''' Automatisch generiertes Backend zur Verwaltung von Datenmodellen.
+* '''URL-Routing:''' Flexibles und deklaratives System zur Definition von URLs und Views.
+* '''Sicherheit:''' Eingebaute Schutzmechanismen gegen häufige Web-Sicherheitslücken (z. B. CSRF, XSS, SQL-Injection).
+* '''Modularität:''' Wiederverwendbare Apps und umfangreiches Ökosystem von Drittanbieter-Paketen.</text>
+      <sha1>jpqcg0l9k8rmtrwpqypi7kltmgn9tmw</sha1>
+    </revision>
   </page>
   <page>
     <title>Webframework/Technik</title>
@@ -6574,6 +6802,853 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
 | [[LMS/Moodle|Moodle]]
 |}</text>
       <sha1>027sdtnvrdj4vg6s1kq2zfxfyk8kahp</sha1>
+    </revision>
+    <revision>
+      <id>219</id>
+      <parentid>212</parentid>
+      <timestamp>2026-01-26T23:54:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>219</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1523" sha1="sspm8arv6xb54ojhzqy4b9dscljopq5" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|}
+
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://bookstack.ahrensburg.city BookStack]
+| PHP (Laravel)
+| Einfaches Wiki-/Dokumentationssystem mit Büchern, Kapiteln und Seiten; geeignet für interne Dokumentation und Teams
+| [[CMS/BookStack|BookStack]]
+|-
+| [https://js.wiki Wiki.js]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}</text>
+      <sha1>sspm8arv6xb54ojhzqy4b9dscljopq5</sha1>
+    </revision>
+    <revision>
+      <id>225</id>
+      <parentid>219</parentid>
+      <timestamp>2026-01-27T22:37:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>225</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1957" sha1="6bss8tshd8zaciova0gfq1kqdvafso8" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.org WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|-
+| [https://typo3.org TYPO3]
+| PHP
+| Leistungsstarkes, flexibles Open-Source-CMS für mittlere bis große Websites; umfangreiche Rechteverwaltung, Multisite-Fähigkeit, hohe Skalierbarkeit
+| [[CMS/Typo3|TYPO3]]
+|}
+
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://bookstack.ahrensburg.city BookStack]
+| PHP (Laravel)
+| Einfaches Wiki-/Dokumentationssystem mit Büchern, Kapiteln und Seiten; geeignet für interne Dokumentation und Teams
+| [[CMS/BookStack|BookStack]]
+|-
+| [https://js.wiki Wiki.js]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}</text>
+      <sha1>6bss8tshd8zaciova0gfq1kqdvafso8</sha1>
+    </revision>
+    <revision>
+      <id>233</id>
+      <parentid>225</parentid>
+      <timestamp>2026-01-28T05:15:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>233</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1970" sha1="hrpochl5x8bnshvgor4fvjb6ke9aqwj" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.ahrensburg.city/ WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|-
+| [https://typo3.org TYPO3]
+| PHP
+| Leistungsstarkes, flexibles Open-Source-CMS für mittlere bis große Websites; umfangreiche Rechteverwaltung, Multisite-Fähigkeit, hohe Skalierbarkeit
+| [[CMS/Typo3|TYPO3]]
+|}
+
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://bookstack.ahrensburg.city BookStack]
+| PHP (Laravel)
+| Einfaches Wiki-/Dokumentationssystem mit Büchern, Kapiteln und Seiten; geeignet für interne Dokumentation und Teams
+| [[CMS/BookStack|BookStack]]
+|-
+| [https://js.wiki Wiki.js]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}</text>
+      <sha1>hrpochl5x8bnshvgor4fvjb6ke9aqwj</sha1>
+    </revision>
+    <revision>
+      <id>246</id>
+      <parentid>233</parentid>
+      <timestamp>2026-01-29T13:56:24Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>246</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1978" sha1="4hk6ar3gfu3lo1ksphoc7elx1fjxm9r" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.ahrensburg.city/ WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|-
+| [https://typo3.org TYPO3]
+| PHP
+| Leistungsstarkes, flexibles Open-Source-CMS für mittlere bis große Websites; umfangreiche Rechteverwaltung, Multisite-Fähigkeit, hohe Skalierbarkeit
+| [[CMS/Typo3|TYPO3]]
+|}
+
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://bookstack.ahrensburg.city BookStack]
+| PHP (Laravel)
+| Einfaches Wiki-/Dokumentationssystem mit Büchern, Kapiteln und Seiten; geeignet für interne Dokumentation und Teams
+| [[CMS/BookStack|BookStack]]
+|-
+| [https://wikijs.ahrensburg.city/]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}</text>
+      <sha1>4hk6ar3gfu3lo1ksphoc7elx1fjxm9r</sha1>
+    </revision>
+    <revision>
+      <id>247</id>
+      <parentid>246</parentid>
+      <timestamp>2026-01-29T13:56:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>247</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1986" sha1="bz78fm8mm5gyy05t7aqn3ol7yhxsxuy" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.ahrensburg.city/ WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|-
+| [https://typo3.org TYPO3]
+| PHP
+| Leistungsstarkes, flexibles Open-Source-CMS für mittlere bis große Websites; umfangreiche Rechteverwaltung, Multisite-Fähigkeit, hohe Skalierbarkeit
+| [[CMS/Typo3|TYPO3]]
+|}
+
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://bookstack.ahrensburg.city BookStack]
+| PHP (Laravel)
+| Einfaches Wiki-/Dokumentationssystem mit Büchern, Kapiteln und Seiten; geeignet für interne Dokumentation und Teams
+| [[CMS/BookStack|BookStack]]
+|-
+| [https://wikijs.ahrensburg.city/ Wiki.js]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}</text>
+      <sha1>bz78fm8mm5gyy05t7aqn3ol7yhxsxuy</sha1>
+    </revision>
+    <revision>
+      <id>248</id>
+      <parentid>247</parentid>
+      <timestamp>2026-01-30T05:17:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>248</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1544" sha1="pq59quj1mzhbthui7sg352fxm5w4mjx" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.ahrensburg.city/ WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|-
+| [https://typo3.org TYPO3]
+| PHP
+| Leistungsstarkes, flexibles Open-Source-CMS für mittlere bis große Websites; umfangreiche Rechteverwaltung, Multisite-Fähigkeit, hohe Skalierbarkeit
+| [[CMS/Typo3|TYPO3]]
+|}
+
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}</text>
+      <sha1>pq59quj1mzhbthui7sg352fxm5w4mjx</sha1>
+    </revision>
+    <revision>
+      <id>249</id>
+      <parentid>248</parentid>
+      <timestamp>2026-01-30T20:44:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>249</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1978" sha1="4hk6ar3gfu3lo1ksphoc7elx1fjxm9r" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.ahrensburg.city/ WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|-
+| [https://typo3.org TYPO3]
+| PHP
+| Leistungsstarkes, flexibles Open-Source-CMS für mittlere bis große Websites; umfangreiche Rechteverwaltung, Multisite-Fähigkeit, hohe Skalierbarkeit
+| [[CMS/Typo3|TYPO3]]
+|}
+
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://bookstack.ahrensburg.city BookStack]
+| PHP (Laravel)
+| Einfaches Wiki-/Dokumentationssystem mit Büchern, Kapiteln und Seiten; geeignet für interne Dokumentation und Teams
+| [[CMS/BookStack|BookStack]]
+|-
+| [https://wikijs.ahrensburg.city/]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}</text>
+      <sha1>4hk6ar3gfu3lo1ksphoc7elx1fjxm9r</sha1>
+    </revision>
+    <revision>
+      <id>250</id>
+      <parentid>249</parentid>
+      <timestamp>2026-01-30T20:45:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>250</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1985" sha1="52arlg7gy6jd4f41aa4bmrj2jqe4b6b" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.ahrensburg.city/ WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|-
+| [https://typo3.org TYPO3]
+| PHP
+| Leistungsstarkes, flexibles Open-Source-CMS für mittlere bis große Websites; umfangreiche Rechteverwaltung, Multisite-Fähigkeit, hohe Skalierbarkeit
+| [[CMS/Typo3|TYPO3]]
+|}
+
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://bookstack.ahrensburg.city BookStack]
+| PHP (Laravel)
+| Einfaches Wiki-/Dokumentationssystem mit Büchern, Kapiteln und Seiten; geeignet für interne Dokumentation und Teams
+| [[CMS/BookStack|BookStack]]
+|-
+| [https://wikijs.ahrensburg.city/ wikijs]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}</text>
+      <sha1>52arlg7gy6jd4f41aa4bmrj2jqe4b6b</sha1>
+    </revision>
+    <revision>
+      <id>251</id>
+      <parentid>250</parentid>
+      <timestamp>2026-01-31T22:14:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>251</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3186" sha1="oxo9rcnhr29w1t13a7xdvbq63oxwosb" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.ahrensburg.city/ WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|-
+| [https://typo3.org TYPO3]
+| PHP
+| Leistungsstarkes, flexibles Open-Source-CMS für mittlere bis große Websites; umfangreiche Rechteverwaltung, Multisite-Fähigkeit, hohe Skalierbarkeit
+| [[CMS/Typo3|TYPO3]]
+|}
+
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://bookstack.ahrensburg.city BookStack]
+| PHP (Laravel)
+| Einfaches Wiki-/Dokumentationssystem mit Büchern, Kapiteln und Seiten; geeignet für interne Dokumentation und Teams
+| [[CMS/BookStack|BookStack]]
+|-
+| [https://wikijs.ahrensburg.city/ wikijs]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|-
+| [https://meowapps.com/ai-engine/ AI Engine (Meow Apps)]
+| WordPress
+| Leistungsstarkes Plugin zur Integration von KI-Funktionen wie Chatbots, Content-Generierung und Bild-KI in WordPress; unterstützt OpenAI, Azure und lokale Modelle
+| [[CMS/WordPress/AI-Engine|AI Engine für WordPress]]
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+|-
+| [https://www.drupal.org/project/canvas Drupal Canvas]
+| Drupal
+| Die neue Editor-Erfahrung für Drupal; bietet eine moderne, blockbasierte Oberfläche ähnlich wie der WordPress-Editor, ermöglicht flexibles Content-Layout und intuitive Bedienung
+| [[CMS/Drupal/Canvas|Drupal Canvas]]
+|-
+| [https://t3ai.org T3AI]
+| TYPO3
+| KI-gestütztes TYPO3-Plugin zur Automatisierung von Content-Erstellung, Übersetzungen und Workflows; unterstützt verschiedene KI-Modelle und Integrationen
+| [[CMS/Typo3/T3AI|T3AI für TYPO3]]
+|}</text>
+      <sha1>oxo9rcnhr29w1t13a7xdvbq63oxwosb</sha1>
     </revision>
   </page>
   <page>
@@ -12100,6 +13175,1339 @@ ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
 &lt;/pre&gt;</text>
       <sha1>d3ogv3uv96f5lgf1ppb5rzsts3nowph</sha1>
     </revision>
+    <revision>
+      <id>234</id>
+      <parentid>189</parentid>
+      <timestamp>2026-01-28T14:56:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>234</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2653" sha1="49bfgi6w0wt6wux1x798w8zw0908qhf" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
+
+== Postgres-Datenbank erstellen ==
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten wikijs
+psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+exit
+&lt;/pre&gt;
+
+== Wiki.js installieren ==
+=== Herunterladen ===
+Lade die neueste Version von Wiki.js von der offiziellen Website herunter:
+&lt;pre&gt;
+sudo apt-get install nodejs  # sonst läuft Wiki.js nicht
+mkdir /wikijsdownload
+cd /wikijsdownload
+wget https://github.com/Requarks/wiki/releases/latest/download/wiki-js.tar.gz
+mkdir /var/www//var/wikijs/
+tar xzf wiki-js.tar.gz -C /var/www/wikijs/
+cd /wiki
+mv config.sample.yml config.yml
+nano config.yml
+node server
+&lt;/pre&gt;
+
+== Als Dienst ausführen ==
+
+Es gibt verschiedene Möglichkeiten, Wiki.js als Hintergrunddienst auszuführen. In dieser Anleitung konzentrieren wir uns auf systemd, da es in nahezu allen Linux-Distributionen verfügbar ist.
+
+=== Systemd-Service erstellen ===
+
+Erstelle eine neue Datei mit dem Namen &lt;code&gt;wiki.service&lt;/code&gt; im Verzeichnis &lt;code&gt;/etc/systemd/system&lt;/code&gt;:
+
+&lt;pre&gt;
+sudo nano /etc/systemd/system/wiki.service
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein (passe ggf. die Pfade und den Benutzer an):
+
+&lt;pre&gt;
+[Unit]
+Description=Wiki.js
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/node server
+Restart=always
+# Es wird empfohlen, einen eigenen Benutzer für Wiki.js anzulegen:
+User=nobody
+Environment=NODE_ENV=production
+WorkingDirectory=/wiki
+[Install]
+WantedBy=multi-user.target
+&lt;/pre&gt;
+
+Speichere die Datei und lade systemd neu:
+
+&lt;pre&gt;
+sudo systemctl daemon-reload
+sudo systemctl enable wiki
+sudo systemctl start wiki
+&lt;/pre&gt;
+
+Mit &lt;code&gt;sudo systemctl status wiki&lt;/code&gt; kannst du den Status des Dienstes überprüfen.
+
+== Produktionsserver nginx einrichten ==
+&lt;pre&gt;
+nano /etc/nginx/conf.d/wiki.conf
+&lt;/pre&gt;
+
+Gib Folgendes ein 
+
+&lt;pre&gt;
+server {
+listen 443 ssl http2;
+listen [::]:443 ssl http2;
+server_name wiki.ahrensburg.city;
+ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+
+    location / {
+     auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+        proxy_pass http://localhost:3001;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>49bfgi6w0wt6wux1x798w8zw0908qhf</sha1>
+    </revision>
+    <revision>
+      <id>235</id>
+      <parentid>234</parentid>
+      <timestamp>2026-01-28T15:09:40Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>235</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2664" sha1="r0kkasf5dyqxfjhmv2jizj8nlnaenuh" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
+
+== Postgres-Datenbank erstellen ==
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten wikijs
+psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+exit
+&lt;/pre&gt;
+
+== Wiki.js installieren ==
+=== Herunterladen ===
+Lade die neueste Version von Wiki.js von der offiziellen Website herunter:
+&lt;pre&gt;
+sudo apt-get install nodejs  # sonst läuft Wiki.js nicht
+mkdir /wikijsdownload
+cd /wikijsdownload
+wget https://github.com/Requarks/wiki/releases/latest/download/wiki-js.tar.gz
+mkdir /var/www//var/wikijs/
+tar xzf wiki-js.tar.gz -C /var/www/wikijs/
+cd /var/www/wikijs/
+mv config.sample.yml config.yml
+nano config.yml
+node server
+&lt;/pre&gt;
+
+== Als Dienst ausführen ==
+
+Es gibt verschiedene Möglichkeiten, Wiki.js als Hintergrunddienst auszuführen. In dieser Anleitung konzentrieren wir uns auf systemd, da es in nahezu allen Linux-Distributionen verfügbar ist.
+
+=== Systemd-Service erstellen ===
+
+Erstelle eine neue Datei mit dem Namen &lt;code&gt;wiki.service&lt;/code&gt; im Verzeichnis &lt;code&gt;/etc/systemd/system&lt;/code&gt;:
+
+&lt;pre&gt;
+sudo nano /etc/systemd/system/wiki.service
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein (passe ggf. die Pfade und den Benutzer an):
+
+&lt;pre&gt;
+[Unit]
+Description=Wiki.js
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/node server
+Restart=always
+# Es wird empfohlen, einen eigenen Benutzer für Wiki.js anzulegen:
+User=nobody
+Environment=NODE_ENV=production
+WorkingDirectory=/wiki
+[Install]
+WantedBy=multi-user.target
+&lt;/pre&gt;
+
+Speichere die Datei und lade systemd neu:
+
+&lt;pre&gt;
+sudo systemctl daemon-reload
+sudo systemctl enable wiki
+sudo systemctl start wiki
+&lt;/pre&gt;
+
+Mit &lt;code&gt;sudo systemctl status wiki&lt;/code&gt; kannst du den Status des Dienstes überprüfen.
+
+== Produktionsserver nginx einrichten ==
+&lt;pre&gt;
+nano /etc/nginx/conf.d/wiki.conf
+&lt;/pre&gt;
+
+Gib Folgendes ein 
+
+&lt;pre&gt;
+server {
+listen 443 ssl http2;
+listen [::]:443 ssl http2;
+server_name wiki.ahrensburg.city;
+ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+
+    location / {
+     auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+        proxy_pass http://localhost:3001;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>r0kkasf5dyqxfjhmv2jizj8nlnaenuh</sha1>
+    </revision>
+    <revision>
+      <id>236</id>
+      <parentid>235</parentid>
+      <timestamp>2026-01-28T15:12:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Herunterladen */</comment>
+      <origin>236</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2703" sha1="h0sl4dp30tfoej8v8ezbe4yk8ox2ult" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
+
+== Postgres-Datenbank erstellen ==
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten wikijs
+psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+exit
+&lt;/pre&gt;
+
+== Wiki.js installieren ==
+=== Herunterladen ===
+Lade die neueste Version von Wiki.js von der offiziellen Website herunter:
+&lt;pre&gt;
+sudo apt-get install nodejs  # sonst läuft Wiki.js nicht
+mkdir /wikijsdownload
+cd /wikijsdownload
+wget https://github.com/Requarks/wiki/releases/latest/download/wiki-js.tar.gz
+mkdir /var/www//var/wikijs/
+chown -R myuser:myuser /var/www/wikijs
+tar xzf wiki-js.tar.gz -C /var/www/wikijs/
+cd /var/www/wikijs/
+mv config.sample.yml config.yml
+nano config.yml
+node server
+&lt;/pre&gt;
+
+== Als Dienst ausführen ==
+
+Es gibt verschiedene Möglichkeiten, Wiki.js als Hintergrunddienst auszuführen. In dieser Anleitung konzentrieren wir uns auf systemd, da es in nahezu allen Linux-Distributionen verfügbar ist.
+
+=== Systemd-Service erstellen ===
+
+Erstelle eine neue Datei mit dem Namen &lt;code&gt;wiki.service&lt;/code&gt; im Verzeichnis &lt;code&gt;/etc/systemd/system&lt;/code&gt;:
+
+&lt;pre&gt;
+sudo nano /etc/systemd/system/wiki.service
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein (passe ggf. die Pfade und den Benutzer an):
+
+&lt;pre&gt;
+[Unit]
+Description=Wiki.js
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/node server
+Restart=always
+# Es wird empfohlen, einen eigenen Benutzer für Wiki.js anzulegen:
+User=nobody
+Environment=NODE_ENV=production
+WorkingDirectory=/wiki
+[Install]
+WantedBy=multi-user.target
+&lt;/pre&gt;
+
+Speichere die Datei und lade systemd neu:
+
+&lt;pre&gt;
+sudo systemctl daemon-reload
+sudo systemctl enable wiki
+sudo systemctl start wiki
+&lt;/pre&gt;
+
+Mit &lt;code&gt;sudo systemctl status wiki&lt;/code&gt; kannst du den Status des Dienstes überprüfen.
+
+== Produktionsserver nginx einrichten ==
+&lt;pre&gt;
+nano /etc/nginx/conf.d/wiki.conf
+&lt;/pre&gt;
+
+Gib Folgendes ein 
+
+&lt;pre&gt;
+server {
+listen 443 ssl http2;
+listen [::]:443 ssl http2;
+server_name wiki.ahrensburg.city;
+ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+
+    location / {
+     auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+        proxy_pass http://localhost:3001;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>h0sl4dp30tfoej8v8ezbe4yk8ox2ult</sha1>
+    </revision>
+    <revision>
+      <id>237</id>
+      <parentid>236</parentid>
+      <timestamp>2026-01-28T15:12:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Herunterladen */</comment>
+      <origin>237</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2703" sha1="pjebqi2i4e6hsv0uzdq5am9dvdyg292" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
+
+== Postgres-Datenbank erstellen ==
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten wikijs
+psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+exit
+&lt;/pre&gt;
+
+== Wiki.js installieren ==
+=== Herunterladen ===
+Lade die neueste Version von Wiki.js von der offiziellen Website herunter:
+&lt;pre&gt;
+sudo apt-get install nodejs  # sonst läuft Wiki.js nicht
+mkdir /wikijsdownload
+cd /wikijsdownload
+wget https://github.com/Requarks/wiki/releases/latest/download/wiki-js.tar.gz
+mkdir /var/www//var/wikijs/
+chown -R nobody:nobody /var/www/wikijs
+tar xzf wiki-js.tar.gz -C /var/www/wikijs/
+cd /var/www/wikijs/
+mv config.sample.yml config.yml
+nano config.yml
+node server
+&lt;/pre&gt;
+
+== Als Dienst ausführen ==
+
+Es gibt verschiedene Möglichkeiten, Wiki.js als Hintergrunddienst auszuführen. In dieser Anleitung konzentrieren wir uns auf systemd, da es in nahezu allen Linux-Distributionen verfügbar ist.
+
+=== Systemd-Service erstellen ===
+
+Erstelle eine neue Datei mit dem Namen &lt;code&gt;wiki.service&lt;/code&gt; im Verzeichnis &lt;code&gt;/etc/systemd/system&lt;/code&gt;:
+
+&lt;pre&gt;
+sudo nano /etc/systemd/system/wiki.service
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein (passe ggf. die Pfade und den Benutzer an):
+
+&lt;pre&gt;
+[Unit]
+Description=Wiki.js
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/node server
+Restart=always
+# Es wird empfohlen, einen eigenen Benutzer für Wiki.js anzulegen:
+User=nobody
+Environment=NODE_ENV=production
+WorkingDirectory=/wiki
+[Install]
+WantedBy=multi-user.target
+&lt;/pre&gt;
+
+Speichere die Datei und lade systemd neu:
+
+&lt;pre&gt;
+sudo systemctl daemon-reload
+sudo systemctl enable wiki
+sudo systemctl start wiki
+&lt;/pre&gt;
+
+Mit &lt;code&gt;sudo systemctl status wiki&lt;/code&gt; kannst du den Status des Dienstes überprüfen.
+
+== Produktionsserver nginx einrichten ==
+&lt;pre&gt;
+nano /etc/nginx/conf.d/wiki.conf
+&lt;/pre&gt;
+
+Gib Folgendes ein 
+
+&lt;pre&gt;
+server {
+listen 443 ssl http2;
+listen [::]:443 ssl http2;
+server_name wiki.ahrensburg.city;
+ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+
+    location / {
+     auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+        proxy_pass http://localhost:3001;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>pjebqi2i4e6hsv0uzdq5am9dvdyg292</sha1>
+    </revision>
+    <revision>
+      <id>238</id>
+      <parentid>237</parentid>
+      <timestamp>2026-01-29T10:27:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Systemd-Service erstellen */</comment>
+      <origin>238</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2710" sha1="0r13mbz5kj4siu2a7amstgon4hgiy51" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
+
+== Postgres-Datenbank erstellen ==
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten wikijs
+psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+exit
+&lt;/pre&gt;
+
+== Wiki.js installieren ==
+=== Herunterladen ===
+Lade die neueste Version von Wiki.js von der offiziellen Website herunter:
+&lt;pre&gt;
+sudo apt-get install nodejs  # sonst läuft Wiki.js nicht
+mkdir /wikijsdownload
+cd /wikijsdownload
+wget https://github.com/Requarks/wiki/releases/latest/download/wiki-js.tar.gz
+mkdir /var/www//var/wikijs/
+chown -R nobody:nobody /var/www/wikijs
+tar xzf wiki-js.tar.gz -C /var/www/wikijs/
+cd /var/www/wikijs/
+mv config.sample.yml config.yml
+nano config.yml
+node server
+&lt;/pre&gt;
+
+== Als Dienst ausführen ==
+
+Es gibt verschiedene Möglichkeiten, Wiki.js als Hintergrunddienst auszuführen. In dieser Anleitung konzentrieren wir uns auf systemd, da es in nahezu allen Linux-Distributionen verfügbar ist.
+
+=== Systemd-Service erstellen ===
+
+Erstelle eine neue Datei mit dem Namen &lt;code&gt;wiki.service&lt;/code&gt; im Verzeichnis &lt;code&gt;/etc/systemd/system&lt;/code&gt;:
+
+&lt;pre&gt;
+sudo nano /etc/systemd/system/wiki.service
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein (passe ggf. die Pfade und den Benutzer an):
+
+&lt;pre&gt;
+[Unit]
+Description=Wiki.js
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/node server
+Restart=always
+# Es wird empfohlen, einen eigenen Benutzer für Wiki.js anzulegen:
+User=nobody
+Environment=NODE_ENV=production
+WorkingDirectory=/www/wikijs/
+[Install]
+WantedBy=multi-user.target
+&lt;/pre&gt;
+
+Speichere die Datei und lade systemd neu:
+
+&lt;pre&gt;
+sudo systemctl daemon-reload
+sudo systemctl enable wiki
+sudo systemctl start wiki
+&lt;/pre&gt;
+
+Mit &lt;code&gt;sudo systemctl status wiki&lt;/code&gt; kannst du den Status des Dienstes überprüfen.
+
+== Produktionsserver nginx einrichten ==
+&lt;pre&gt;
+nano /etc/nginx/conf.d/wiki.conf
+&lt;/pre&gt;
+
+Gib Folgendes ein 
+
+&lt;pre&gt;
+server {
+listen 443 ssl http2;
+listen [::]:443 ssl http2;
+server_name wiki.ahrensburg.city;
+ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+
+    location / {
+     auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+        proxy_pass http://localhost:3001;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>0r13mbz5kj4siu2a7amstgon4hgiy51</sha1>
+    </revision>
+    <revision>
+      <id>239</id>
+      <parentid>238</parentid>
+      <timestamp>2026-01-29T10:28:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>239</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2710" sha1="ljl0wwvyr8ojauj931y0lmlzo3auzgy" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
+
+== Postgres-Datenbank erstellen ==
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten wikijs
+psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+exit
+&lt;/pre&gt;
+
+== Wiki.js installieren ==
+=== Herunterladen ===
+Lade die neueste Version von Wiki.js von der offiziellen Website herunter:
+&lt;pre&gt;
+sudo apt-get install nodejs  # sonst läuft Wiki.js nicht
+mkdir /wikijsdownload
+cd /wikijsdownload
+wget https://github.com/Requarks/wiki/releases/latest/download/wiki-js.tar.gz
+mkdir /var/www//var/wikijs/
+chown -R nobody:nobody /var/www/wikijs
+tar xzf wiki-js.tar.gz -C /var/www/wikijs/
+cd /var/www/wikijs/
+mv config.sample.yml config.yml
+nano config.yml
+node server
+&lt;/pre&gt;
+
+== Als Dienst ausführen ==
+
+Es gibt verschiedene Möglichkeiten, Wiki.js als Hintergrunddienst auszuführen. In dieser Anleitung konzentrieren wir uns auf systemd, da es in nahezu allen Linux-Distributionen verfügbar ist.
+
+=== Systemd-Service erstellen ===
+
+Erstelle eine neue Datei mit dem Namen &lt;code&gt;wiki.service&lt;/code&gt; im Verzeichnis &lt;code&gt;/etc/systemd/system&lt;/code&gt;:
+
+&lt;pre&gt;
+sudo nano /etc/systemd/system/wiki.service
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein (passe ggf. die Pfade und den Benutzer an):
+
+&lt;pre&gt;
+[Unit]
+Description=Wiki.js
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/node server
+Restart=always
+# Es wird empfohlen, einen eigenen Benutzer für Wiki.js anzulegen:
+User=nobody
+Environment=NODE_ENV=production
+WorkingDirectory=/www/wikijs/
+[Install]
+WantedBy=multi-user.target
+&lt;/pre&gt;
+
+Speichere die Datei und lade systemd neu:
+
+&lt;pre&gt;
+sudo systemctl daemon-reload
+sudo systemctl enable wiki
+sudo systemctl start wiki
+&lt;/pre&gt;
+
+Mit &lt;code&gt;sudo systemctl status wiki&lt;/code&gt; kannst du den Status des Dienstes überprüfen.
+
+== Produktionsserver nginx einrichten ==
+&lt;pre&gt;
+nano /etc/nginx/conf.d/wiki.conf
+&lt;/pre&gt;
+
+Gib Folgendes ein 
+
+&lt;pre&gt;
+server {
+listen 443 ssl http2;
+listen [::]:443 ssl http2;
+server_name wiki.ahrensburg.city;
+ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+
+    location / {
+     auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+        proxy_pass http://localhost:3000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>ljl0wwvyr8ojauj931y0lmlzo3auzgy</sha1>
+    </revision>
+    <revision>
+      <id>240</id>
+      <parentid>239</parentid>
+      <timestamp>2026-01-29T10:45:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Wiki.js installieren */</comment>
+      <origin>240</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2705" sha1="5kh9rnkzabajbofzevtqlwtldr8edn4" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
+
+== Postgres-Datenbank erstellen ==
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten wikijs
+psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+exit
+&lt;/pre&gt;
+
+== Wiki.js installieren ==
+=== Herunterladen ===
+Lade die neueste Version von Wiki.js von der offiziellen Website herunter:
+&lt;pre&gt;
+sudo apt-get install nodejs  # sonst läuft Wiki.js nicht
+mkdir /wikijsdownload
+cd /wikijsdownload
+wget https://github.com/Requarks/wiki/releases/latest/download/wiki-js.tar.gz
+mkdir /var/www/wikijs/
+chown -R nobody:nobody /var/www/wikijs
+tar xzf wiki-js.tar.gz -C /var/www/wikijs/
+cd /var/www/wikijs/
+mv config.sample.yml config.yml
+nano config.yml
+node server
+&lt;/pre&gt;
+
+== Als Dienst ausführen ==
+
+Es gibt verschiedene Möglichkeiten, Wiki.js als Hintergrunddienst auszuführen. In dieser Anleitung konzentrieren wir uns auf systemd, da es in nahezu allen Linux-Distributionen verfügbar ist.
+
+=== Systemd-Service erstellen ===
+
+Erstelle eine neue Datei mit dem Namen &lt;code&gt;wiki.service&lt;/code&gt; im Verzeichnis &lt;code&gt;/etc/systemd/system&lt;/code&gt;:
+
+&lt;pre&gt;
+sudo nano /etc/systemd/system/wiki.service
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein (passe ggf. die Pfade und den Benutzer an):
+
+&lt;pre&gt;
+[Unit]
+Description=Wiki.js
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/node server
+Restart=always
+# Es wird empfohlen, einen eigenen Benutzer für Wiki.js anzulegen:
+User=nobody
+Environment=NODE_ENV=production
+WorkingDirectory=/www/wikijs/
+[Install]
+WantedBy=multi-user.target
+&lt;/pre&gt;
+
+Speichere die Datei und lade systemd neu:
+
+&lt;pre&gt;
+sudo systemctl daemon-reload
+sudo systemctl enable wiki
+sudo systemctl start wiki
+&lt;/pre&gt;
+
+Mit &lt;code&gt;sudo systemctl status wiki&lt;/code&gt; kannst du den Status des Dienstes überprüfen.
+
+== Produktionsserver nginx einrichten ==
+&lt;pre&gt;
+nano /etc/nginx/conf.d/wiki.conf
+&lt;/pre&gt;
+
+Gib Folgendes ein 
+
+&lt;pre&gt;
+server {
+listen 443 ssl http2;
+listen [::]:443 ssl http2;
+server_name wiki.ahrensburg.city;
+ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+
+    location / {
+     auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+        proxy_pass http://localhost:3000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>5kh9rnkzabajbofzevtqlwtldr8edn4</sha1>
+    </revision>
+    <revision>
+      <id>241</id>
+      <parentid>240</parentid>
+      <timestamp>2026-01-29T10:50:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Herunterladen */</comment>
+      <origin>241</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2714" sha1="qy58wl05buq9g5m87836sctt2mxmezx" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
+
+== Postgres-Datenbank erstellen ==
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten wikijs
+psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+exit
+&lt;/pre&gt;
+
+== Wiki.js installieren ==
+=== Herunterladen ===
+Lade die neueste Version von Wiki.js von der offiziellen Website herunter:
+&lt;pre&gt;
+sudo apt-get install nodejs  # sonst läuft Wiki.js nicht
+mkdir /wikijsdownload
+cd /wikijsdownload
+wget https://github.com/Requarks/wiki/releases/latest/download/wiki-js.tar.gz
+mkdir /var/www/wikijs/
+sudo chown -R www-data:www-data /var/www/wikijs
+tar xzf wiki-js.tar.gz -C /var/www/wikijs/
+cd /var/www/wikijs/
+mv config.sample.yml config.yml
+nano config.yml
+node server
+&lt;/pre&gt;
+
+== Als Dienst ausführen ==
+
+Es gibt verschiedene Möglichkeiten, Wiki.js als Hintergrunddienst auszuführen. In dieser Anleitung konzentrieren wir uns auf systemd, da es in nahezu allen Linux-Distributionen verfügbar ist.
+
+=== Systemd-Service erstellen ===
+
+Erstelle eine neue Datei mit dem Namen &lt;code&gt;wiki.service&lt;/code&gt; im Verzeichnis &lt;code&gt;/etc/systemd/system&lt;/code&gt;:
+
+&lt;pre&gt;
+sudo nano /etc/systemd/system/wiki.service
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein (passe ggf. die Pfade und den Benutzer an):
+
+&lt;pre&gt;
+[Unit]
+Description=Wiki.js
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/node server
+Restart=always
+# Es wird empfohlen, einen eigenen Benutzer für Wiki.js anzulegen:
+User=nobody
+Environment=NODE_ENV=production
+WorkingDirectory=/www/wikijs/
+[Install]
+WantedBy=multi-user.target
+&lt;/pre&gt;
+
+Speichere die Datei und lade systemd neu:
+
+&lt;pre&gt;
+sudo systemctl daemon-reload
+sudo systemctl enable wiki
+sudo systemctl start wiki
+&lt;/pre&gt;
+
+Mit &lt;code&gt;sudo systemctl status wiki&lt;/code&gt; kannst du den Status des Dienstes überprüfen.
+
+== Produktionsserver nginx einrichten ==
+&lt;pre&gt;
+nano /etc/nginx/conf.d/wiki.conf
+&lt;/pre&gt;
+
+Gib Folgendes ein 
+
+&lt;pre&gt;
+server {
+listen 443 ssl http2;
+listen [::]:443 ssl http2;
+server_name wiki.ahrensburg.city;
+ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+
+    location / {
+     auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+        proxy_pass http://localhost:3000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>qy58wl05buq9g5m87836sctt2mxmezx</sha1>
+    </revision>
+    <revision>
+      <id>242</id>
+      <parentid>241</parentid>
+      <timestamp>2026-01-29T10:53:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>242</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2716" sha1="scwapxhi99fn5ls9alfrw7zbqloenax" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
+
+== Postgres-Datenbank erstellen ==
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten wikijs
+psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+exit
+&lt;/pre&gt;
+
+== Wiki.js installieren ==
+=== Herunterladen ===
+Lade die neueste Version von Wiki.js von der offiziellen Website herunter:
+&lt;pre&gt;
+sudo apt-get install nodejs  # sonst läuft Wiki.js nicht
+mkdir /wikijsdownload
+cd /wikijsdownload
+wget https://github.com/Requarks/wiki/releases/latest/download/wiki-js.tar.gz
+mkdir /var/www/wikijs/
+sudo chown -R www-data:www-data /var/www/wikijs
+tar xzf wiki-js.tar.gz -C /var/www/wikijs/
+cd /var/www/wikijs/
+mv config.sample.yml config.yml
+nano config.yml
+node server
+&lt;/pre&gt;
+
+== Als Dienst ausführen ==
+
+Es gibt verschiedene Möglichkeiten, Wiki.js als Hintergrunddienst auszuführen. In dieser Anleitung konzentrieren wir uns auf systemd, da es in nahezu allen Linux-Distributionen verfügbar ist.
+
+=== Systemd-Service erstellen ===
+
+Erstelle eine neue Datei mit dem Namen &lt;code&gt;wiki.service&lt;/code&gt; im Verzeichnis &lt;code&gt;/etc/systemd/system&lt;/code&gt;:
+
+&lt;pre&gt;
+sudo nano /etc/systemd/system/wiki.service
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein (passe ggf. die Pfade und den Benutzer an):
+
+&lt;pre&gt;
+[Unit]
+Description=Wiki.js
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/node server
+Restart=always
+# Es wird empfohlen, einen eigenen Benutzer für Wiki.js anzulegen:
+User=www-data
+Environment=NODE_ENV=production
+WorkingDirectory=/www/wikijs/
+[Install]
+WantedBy=multi-user.target
+&lt;/pre&gt;
+
+Speichere die Datei und lade systemd neu:
+
+&lt;pre&gt;
+sudo systemctl daemon-reload
+sudo systemctl enable wiki
+sudo systemctl start wiki
+&lt;/pre&gt;
+
+Mit &lt;code&gt;sudo systemctl status wiki&lt;/code&gt; kannst du den Status des Dienstes überprüfen.
+
+== Produktionsserver nginx einrichten ==
+&lt;pre&gt;
+nano /etc/nginx/conf.d/wiki.conf
+&lt;/pre&gt;
+
+Gib Folgendes ein 
+
+&lt;pre&gt;
+server {
+listen 443 ssl http2;
+listen [::]:443 ssl http2;
+server_name wiki.ahrensburg.city;
+ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+
+    location / {
+     auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+        proxy_pass http://localhost:3000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>scwapxhi99fn5ls9alfrw7zbqloenax</sha1>
+    </revision>
+    <revision>
+      <id>243</id>
+      <parentid>242</parentid>
+      <timestamp>2026-01-29T11:36:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Als Dienst ausführen */</comment>
+      <origin>243</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2720" sha1="gm7npkd4ylm2kztob53qlqhblunlmki" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
+
+== Postgres-Datenbank erstellen ==
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten wikijs
+psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+exit
+&lt;/pre&gt;
+
+== Wiki.js installieren ==
+=== Herunterladen ===
+Lade die neueste Version von Wiki.js von der offiziellen Website herunter:
+&lt;pre&gt;
+sudo apt-get install nodejs  # sonst läuft Wiki.js nicht
+mkdir /wikijsdownload
+cd /wikijsdownload
+wget https://github.com/Requarks/wiki/releases/latest/download/wiki-js.tar.gz
+mkdir /var/www/wikijs/
+sudo chown -R www-data:www-data /var/www/wikijs
+tar xzf wiki-js.tar.gz -C /var/www/wikijs/
+cd /var/www/wikijs/
+mv config.sample.yml config.yml
+nano config.yml
+node server
+&lt;/pre&gt;
+
+== Als Dienst ausführen ==
+
+Es gibt verschiedene Möglichkeiten, Wiki.js als Hintergrunddienst auszuführen. In dieser Anleitung konzentrieren wir uns auf systemd, da es in nahezu allen Linux-Distributionen verfügbar ist.
+
+=== Systemd-Service erstellen ===
+
+Erstelle eine neue Datei mit dem Namen &lt;code&gt;wiki.service&lt;/code&gt; im Verzeichnis &lt;code&gt;/etc/systemd/system&lt;/code&gt;:
+
+&lt;pre&gt;
+sudo nano /etc/systemd/system/wiki.service
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein (passe ggf. die Pfade und den Benutzer an):
+
+&lt;pre&gt;
+[Unit]
+Description=Wiki.js
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/node server
+Restart=always
+# Es wird empfohlen, einen eigenen Benutzer für Wiki.js anzulegen:
+User=www-data
+Environment=NODE_ENV=production
+WorkingDirectory=/var/www/wikijs/
+[Install]
+WantedBy=multi-user.target
+&lt;/pre&gt;
+
+Speichere die Datei und lade systemd neu:
+
+&lt;pre&gt;
+sudo systemctl daemon-reload
+sudo systemctl enable wiki
+sudo systemctl start wiki
+&lt;/pre&gt;
+
+Mit &lt;code&gt;sudo systemctl status wiki&lt;/code&gt; kannst du den Status des Dienstes überprüfen.
+
+== Produktionsserver nginx einrichten ==
+&lt;pre&gt;
+nano /etc/nginx/conf.d/wiki.conf
+&lt;/pre&gt;
+
+Gib Folgendes ein 
+
+&lt;pre&gt;
+server {
+listen 443 ssl http2;
+listen [::]:443 ssl http2;
+server_name wiki.ahrensburg.city;
+ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+
+    location / {
+     auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+        proxy_pass http://localhost:3000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>gm7npkd4ylm2kztob53qlqhblunlmki</sha1>
+    </revision>
+    <revision>
+      <id>244</id>
+      <parentid>243</parentid>
+      <timestamp>2026-01-29T13:29:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>244</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3101" sha1="6fn2biqqagks0b9j81hrh17qjti69n2" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
+
+== Postgres-Datenbank erstellen ==
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten wikijs
+psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+exit
+&lt;/pre&gt;
+
+== Wiki.js installieren ==
+=== Herunterladen ===
+Lade die neueste Version von Wiki.js von der offiziellen Website herunter:
+&lt;pre&gt;
+sudo apt-get install nodejs  # sonst läuft Wiki.js nicht
+mkdir /wikijsdownload
+cd /wikijsdownload
+wget https://github.com/Requarks/wiki/releases/latest/download/wiki-js.tar.gz
+mkdir /var/www/wikijs/
+sudo chown -R www-data:www-data /var/www/wikijs
+tar xzf wiki-js.tar.gz -C /var/www/wikijs/
+cd /var/www/wikijs/
+mv config.sample.yml config.yml
+nano config.yml
+node server
+&lt;/pre&gt;
+
+== Als Dienst ausführen ==
+
+Es gibt verschiedene Möglichkeiten, Wiki.js als Hintergrunddienst auszuführen. In dieser Anleitung konzentrieren wir uns auf systemd, da es in nahezu allen Linux-Distributionen verfügbar ist.
+
+=== Systemd-Service erstellen ===
+
+Erstelle eine neue Datei mit dem Namen &lt;code&gt;wiki.service&lt;/code&gt; im Verzeichnis &lt;code&gt;/etc/systemd/system&lt;/code&gt;:
+
+&lt;pre&gt;
+sudo nano /etc/systemd/system/wiki.service
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein (passe ggf. die Pfade und den Benutzer an):
+
+&lt;pre&gt;
+[Unit]
+Description=Wiki.js
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/node server
+Restart=always
+# Es wird empfohlen, einen eigenen Benutzer für Wiki.js anzulegen:
+User=www-data
+Environment=NODE_ENV=production
+WorkingDirectory=/var/www/wikijs/
+[Install]
+WantedBy=multi-user.target
+&lt;/pre&gt;
+
+Speichere die Datei und lade systemd neu:
+
+&lt;pre&gt;
+sudo systemctl daemon-reload
+sudo systemctl enable wiki
+sudo systemctl start wiki
+&lt;/pre&gt;
+
+Mit &lt;code&gt;sudo systemctl status wiki&lt;/code&gt; kannst du den Status des Dienstes überprüfen.
+
+Backup erstellen
+&lt;pre&gt;
+pg_dump -U thorsten -h localhost wikijs &gt; wikijs_backup.sql
+scp wikijs_backup.sql thorsten@localhost:/home/thorsten/wikijs_backup.sql
+
+&lt;/pre&gt;
+
+
+== Produktionsserver nginx einrichten ==
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten wikijs
+psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+exit
+psql -U thorsten -h localhost -d wikijs -f wikijs_backup.sql
+&lt;/pre&gt;
+&lt;/pre&gt;
+&lt;pre&gt;
+nano /etc/nginx/conf.d/wiki.conf
+&lt;/pre&gt;
+
+Gib Folgendes ein 
+
+&lt;pre&gt;
+server {
+listen 443 ssl http2;
+listen [::]:443 ssl http2;
+server_name wiki.ahrensburg.city;
+ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+
+    location / {
+     auth_basic "Restricted Access";
+    auth_basic_user_file /etc/nginx/.htpasswd;
+        proxy_pass http://localhost:3000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>6fn2biqqagks0b9j81hrh17qjti69n2</sha1>
+    </revision>
+    <revision>
+      <id>245</id>
+      <parentid>244</parentid>
+      <timestamp>2026-01-29T13:48:12Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>245</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3019" sha1="exxsgaq4ejrvm6psvuy3kf48filsqfc" xml:space="preserve">'''Wiki.js''' ist eine moderne, quelloffene Wiki-Software, die auf Node.js basiert. Sie bietet eine benutzerfreundliche Oberfläche, unterstützt verschiedene Authentifizierungsmethoden und ermöglicht die Verwaltung von Inhalten über ein flexibles Rechtesystem.
+
+== Postgres-Datenbank erstellen ==
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten wikijs
+psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+exit
+&lt;/pre&gt;
+
+== Wiki.js installieren ==
+=== Herunterladen ===
+Lade die neueste Version von Wiki.js von der offiziellen Website herunter:
+&lt;pre&gt;
+sudo apt-get install nodejs  # sonst läuft Wiki.js nicht
+mkdir /wikijsdownload
+cd /wikijsdownload
+wget https://github.com/Requarks/wiki/releases/latest/download/wiki-js.tar.gz
+mkdir /var/www/wikijs/
+sudo chown -R www-data:www-data /var/www/wikijs
+tar xzf wiki-js.tar.gz -C /var/www/wikijs/
+cd /var/www/wikijs/
+mv config.sample.yml config.yml
+nano config.yml
+node server
+&lt;/pre&gt;
+
+== Als Dienst ausführen ==
+
+Es gibt verschiedene Möglichkeiten, Wiki.js als Hintergrunddienst auszuführen. In dieser Anleitung konzentrieren wir uns auf systemd, da es in nahezu allen Linux-Distributionen verfügbar ist.
+
+=== Systemd-Service erstellen ===
+
+Erstelle eine neue Datei mit dem Namen &lt;code&gt;wiki.service&lt;/code&gt; im Verzeichnis &lt;code&gt;/etc/systemd/system&lt;/code&gt;:
+
+&lt;pre&gt;
+sudo nano /etc/systemd/system/wiki.service
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein (passe ggf. die Pfade und den Benutzer an):
+
+&lt;pre&gt;
+[Unit]
+Description=Wiki.js
+After=network.target
+
+[Service]
+Type=simple
+ExecStart=/usr/bin/node server
+Restart=always
+# Es wird empfohlen, einen eigenen Benutzer für Wiki.js anzulegen:
+User=www-data
+Environment=NODE_ENV=production
+WorkingDirectory=/var/www/wikijs/
+[Install]
+WantedBy=multi-user.target
+&lt;/pre&gt;
+
+Speichere die Datei und lade systemd neu:
+
+&lt;pre&gt;
+sudo systemctl daemon-reload
+sudo systemctl enable wiki
+sudo systemctl start wiki
+&lt;/pre&gt;
+
+Mit &lt;code&gt;sudo systemctl status wiki&lt;/code&gt; kannst du den Status des Dienstes überprüfen.
+
+Backup erstellen
+&lt;pre&gt;
+pg_dump -U thorsten -h localhost wikijs &gt; wikijs_backup.sql
+scp wikijs_backup.sql thorsten@localhost:/home/thorsten/wikijs_backup.sql
+
+&lt;/pre&gt;
+
+
+== Produktionsserver nginx einrichten ==
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten wikijs
+psql -d wikijs -c "GRANT ALL PRIVILEGES ON DATABASE wikijs TO thorsten"
+exit
+psql -U thorsten -h localhost -d wikijs -f wikijs_backup.sql
+&lt;/pre&gt;
+&lt;/pre&gt;
+&lt;pre&gt;
+nano /etc/nginx/conf.d/wiki.conf
+&lt;/pre&gt;
+
+Gib Folgendes ein 
+
+&lt;pre&gt;
+server {
+listen 443 ssl http2;
+listen [::]:443 ssl http2;
+server_name wiki.ahrensburg.city;
+ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+
+    location / {
+ 
+        proxy_pass http://localhost:3000;
+        proxy_set_header Host $host;
+        proxy_set_header X-Real-IP $remote_addr;
+        proxy_set_header X-Forwarded-For $proxy_add_x_forwarded_for;
+        proxy_set_header X-Forwarded-Proto $scheme;
+    }
+}
+
+&lt;/pre&gt;</text>
+      <sha1>exxsgaq4ejrvm6psvuy3kf48filsqfc</sha1>
+    </revision>
   </page>
   <page>
     <title>Kurse/Asp net core mvc/wiki</title>
@@ -12952,6 +15360,1011 @@ server {
 
 &lt;/pre&gt;</text>
       <sha1>pupj0m83c6hvaodi8gc0xjoqgz1uggd</sha1>
+    </revision>
+    <revision>
+      <id>216</id>
+      <parentid>215</parentid>
+      <timestamp>2026-01-26T23:45:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>216</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2863" sha1="45drhlnwj6ciqc4zfzb2fc56azyksw3" xml:space="preserve">==Entwicklung Server==
+&lt;pre&gt;
+sudo apt-get install php-mysql
+&lt;/pre&gt;
+
+
+===Mysql Datenbank Einrichten===
+&lt;pre&gt;
+sudo mysql
+CREATE DATABASE bookstack CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+CREATE USER 'thorsten'@'localhost' IDENTIFIED BY 'DEIN_STARKES_PASSWORT';
+GRANT ALL PRIVILEGES ON bookstack.* TO 'thorsten'@'localhost';
+FLUSH PRIVILEGES;
+&lt;/pre&gt;
+
+===BookStack herunterladen===
+&lt;pre&gt;
+sudo git clone https://source.bookstackapp.com/bookstack.git --branch release --single-branch bookstack
+cd bookstack
+sudo composer install --no-dev
+sudo cp .env.example .env
+&lt;/pre&gt;
+===Konfiguration von BookStack===
+&lt;pre&gt;
+sudo nano .env
+&lt;/pre&gt;
+
+===Dateiberechtigungen setzen===
+&lt;pre&gt;
+sudo chmod 777 -R storage
+sudo chmod 777 -R bootstrap/cache
+sudo chmod 777 -R public/uploads
+sudo chown -R www-data:www-data storage bootstrap/cache
+&lt;/pre&gt;
+===Artisan Nutzen===
+&lt;pre&gt;
+php artisan key:generate --force --no-interaction
+php artisan migrate --force --no-interaction
+&lt;/pre&gt;
+
+===Ngings Einstellung===
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/bookstack.conf
+&lt;/pre&gt;
+Geben Sie Folgendes in die Datei `/etc/nginx/conf.d/bookstack.conf` ein:
+
+
+&lt;pre&gt;
+
+server {
+  listen 80;
+  listen [::]:80;
+
+  server_name bookstack.localhost;
+
+  root /var/www/bookstack/public;
+  index index.php index.html;
+
+  location / {
+    try_files $uri $uri/ /index.php?$query_string;
+  }
+  
+  location ~ \.php$ {
+    include snippets/fastcgi-php.conf;
+    fastcgi_pass unix:/run/php/php8.4-fpm.sock;
+  }
+}
+&lt;/pre&gt;
+==Datenbank Übertragen auf dem Server==
+===Auf dem Server===
+&lt;pre&gt;
+mysql -u root -p
+CREATE USER 'BENUTZERNAME'@'localhost' IDENTIFIED BY 'DEIN_STARKES_PASSWORT'; 
+CREATE DATABASE DATENBANKNAME CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+GRANT PROCESS ON *.* TO 'BENUTZERNAME'@'localhost';
+FLUSH PRIVILEGES;
+&lt;/pre&gt;
+===Auf dem Entwicklungsserver===
+&lt;pre&gt;
+mysqldump -u BENUTZERNAME -p DATENBANKNAME &gt; backup.sql
+scp backup.sql thorsten@Servername:/home/thorsten/backup.sql
+rsync -avz  --exclude '.env' --exclude 'vendor/' /var/www/bookstack/ user@prod:/var/www/bookstack/
+composer install
+sudo cp .env.example .env
+sudo nano .env
+&lt;/pre&gt;
+===Auf dem Server===
+&lt;pre&gt;
+mysql -u thorsten -p DATENBANKNAME &lt; backup.sql
+
+&lt;/pre&gt;
+
+===Ngingx Einstellung===
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/bookstack.conf
+&lt;/pre&gt;
+Geben Sie Folgendes in die Datei `/etc/nginx/conf.d/bookstack.conf` ein:
+
+
+&lt;pre&gt;
+
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+
+  server_name bookstack.ahrensburg.city
+    root /var/www/bookstack/public;
+  index index.php index.html;
+  ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+
+  location / {
+    try_files $uri $uri/ /index.php?$query_string;
+  }
+  
+  location ~ \.php$ {
+    include snippets/fastcgi-php.conf;
+    fastcgi_pass unix:/run/php/php8.3-fpm.sock;
+  }
+}
+&lt;/pre&gt;</text>
+      <sha1>45drhlnwj6ciqc4zfzb2fc56azyksw3</sha1>
+    </revision>
+    <revision>
+      <id>217</id>
+      <parentid>216</parentid>
+      <timestamp>2026-01-26T23:52:13Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Ngings Einstellung */</comment>
+      <origin>217</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2863" sha1="e2q5t4ncc5em765f6pp3izsvhu03zxw" xml:space="preserve">==Entwicklung Server==
+&lt;pre&gt;
+sudo apt-get install php-mysql
+&lt;/pre&gt;
+
+
+===Mysql Datenbank Einrichten===
+&lt;pre&gt;
+sudo mysql
+CREATE DATABASE bookstack CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+CREATE USER 'thorsten'@'localhost' IDENTIFIED BY 'DEIN_STARKES_PASSWORT';
+GRANT ALL PRIVILEGES ON bookstack.* TO 'thorsten'@'localhost';
+FLUSH PRIVILEGES;
+&lt;/pre&gt;
+
+===BookStack herunterladen===
+&lt;pre&gt;
+sudo git clone https://source.bookstackapp.com/bookstack.git --branch release --single-branch bookstack
+cd bookstack
+sudo composer install --no-dev
+sudo cp .env.example .env
+&lt;/pre&gt;
+===Konfiguration von BookStack===
+&lt;pre&gt;
+sudo nano .env
+&lt;/pre&gt;
+
+===Dateiberechtigungen setzen===
+&lt;pre&gt;
+sudo chmod 777 -R storage
+sudo chmod 777 -R bootstrap/cache
+sudo chmod 777 -R public/uploads
+sudo chown -R www-data:www-data storage bootstrap/cache
+&lt;/pre&gt;
+===Artisan Nutzen===
+&lt;pre&gt;
+php artisan key:generate --force --no-interaction
+php artisan migrate --force --no-interaction
+&lt;/pre&gt;
+
+===Nginx Einstellung===
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/bookstack.conf
+&lt;/pre&gt;
+Geben Sie Folgendes in die Datei `/etc/nginx/conf.d/bookstack.conf` ein:
+
+
+&lt;pre&gt;
+
+server {
+  listen 80;
+  listen [::]:80;
+
+  server_name bookstack.localhost;
+
+  root /var/www/bookstack/public;
+  index index.php index.html;
+
+  location / {
+    try_files $uri $uri/ /index.php?$query_string;
+  }
+  
+  location ~ \.php$ {
+    include snippets/fastcgi-php.conf;
+    fastcgi_pass unix:/run/php/php8.4-fpm.sock;
+  }
+}
+&lt;/pre&gt;
+
+==Datenbank Übertragen auf dem Server==
+===Auf dem Server===
+&lt;pre&gt;
+mysql -u root -p
+CREATE USER 'BENUTZERNAME'@'localhost' IDENTIFIED BY 'DEIN_STARKES_PASSWORT'; 
+CREATE DATABASE DATENBANKNAME CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+GRANT PROCESS ON *.* TO 'BENUTZERNAME'@'localhost';
+FLUSH PRIVILEGES;
+&lt;/pre&gt;
+===Auf dem Entwicklungsserver===
+&lt;pre&gt;
+mysqldump -u BENUTZERNAME -p DATENBANKNAME &gt; backup.sql
+scp backup.sql thorsten@Servername:/home/thorsten/backup.sql
+rsync -avz  --exclude '.env' --exclude 'vendor/' /var/www/bookstack/ user@prod:/var/www/bookstack/
+composer install
+sudo cp .env.example .env
+sudo nano .env
+&lt;/pre&gt;
+===Auf dem Server===
+&lt;pre&gt;
+mysql -u thorsten -p DATENBANKNAME &lt; backup.sql
+
+&lt;/pre&gt;
+
+===Ngingx Einstellung===
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/bookstack.conf
+&lt;/pre&gt;
+Geben Sie Folgendes in die Datei `/etc/nginx/conf.d/bookstack.conf` ein:
+
+
+&lt;pre&gt;
+
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+
+  server_name bookstack.ahrensburg.city
+    root /var/www/bookstack/public;
+  index index.php index.html;
+  ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+
+  location / {
+    try_files $uri $uri/ /index.php?$query_string;
+  }
+  
+  location ~ \.php$ {
+    include snippets/fastcgi-php.conf;
+    fastcgi_pass unix:/run/php/php8.3-fpm.sock;
+  }
+}
+&lt;/pre&gt;</text>
+      <sha1>e2q5t4ncc5em765f6pp3izsvhu03zxw</sha1>
+    </revision>
+    <revision>
+      <id>218</id>
+      <parentid>217</parentid>
+      <timestamp>2026-01-26T23:53:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Ngingx Einstellung */</comment>
+      <origin>218</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2862" sha1="p5pqp0hnc733mn0wl3s0ypmt5bt46qx" xml:space="preserve">==Entwicklung Server==
+&lt;pre&gt;
+sudo apt-get install php-mysql
+&lt;/pre&gt;
+
+
+===Mysql Datenbank Einrichten===
+&lt;pre&gt;
+sudo mysql
+CREATE DATABASE bookstack CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+CREATE USER 'thorsten'@'localhost' IDENTIFIED BY 'DEIN_STARKES_PASSWORT';
+GRANT ALL PRIVILEGES ON bookstack.* TO 'thorsten'@'localhost';
+FLUSH PRIVILEGES;
+&lt;/pre&gt;
+
+===BookStack herunterladen===
+&lt;pre&gt;
+sudo git clone https://source.bookstackapp.com/bookstack.git --branch release --single-branch bookstack
+cd bookstack
+sudo composer install --no-dev
+sudo cp .env.example .env
+&lt;/pre&gt;
+===Konfiguration von BookStack===
+&lt;pre&gt;
+sudo nano .env
+&lt;/pre&gt;
+
+===Dateiberechtigungen setzen===
+&lt;pre&gt;
+sudo chmod 777 -R storage
+sudo chmod 777 -R bootstrap/cache
+sudo chmod 777 -R public/uploads
+sudo chown -R www-data:www-data storage bootstrap/cache
+&lt;/pre&gt;
+===Artisan Nutzen===
+&lt;pre&gt;
+php artisan key:generate --force --no-interaction
+php artisan migrate --force --no-interaction
+&lt;/pre&gt;
+
+===Nginx Einstellung===
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/bookstack.conf
+&lt;/pre&gt;
+Geben Sie Folgendes in die Datei `/etc/nginx/conf.d/bookstack.conf` ein:
+
+
+&lt;pre&gt;
+
+server {
+  listen 80;
+  listen [::]:80;
+
+  server_name bookstack.localhost;
+
+  root /var/www/bookstack/public;
+  index index.php index.html;
+
+  location / {
+    try_files $uri $uri/ /index.php?$query_string;
+  }
+  
+  location ~ \.php$ {
+    include snippets/fastcgi-php.conf;
+    fastcgi_pass unix:/run/php/php8.4-fpm.sock;
+  }
+}
+&lt;/pre&gt;
+
+==Datenbank Übertragen auf dem Server==
+===Auf dem Server===
+&lt;pre&gt;
+mysql -u root -p
+CREATE USER 'BENUTZERNAME'@'localhost' IDENTIFIED BY 'DEIN_STARKES_PASSWORT'; 
+CREATE DATABASE DATENBANKNAME CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+GRANT PROCESS ON *.* TO 'BENUTZERNAME'@'localhost';
+FLUSH PRIVILEGES;
+&lt;/pre&gt;
+===Auf dem Entwicklungsserver===
+&lt;pre&gt;
+mysqldump -u BENUTZERNAME -p DATENBANKNAME &gt; backup.sql
+scp backup.sql thorsten@Servername:/home/thorsten/backup.sql
+rsync -avz  --exclude '.env' --exclude 'vendor/' /var/www/bookstack/ user@prod:/var/www/bookstack/
+composer install
+sudo cp .env.example .env
+sudo nano .env
+&lt;/pre&gt;
+===Auf dem Server===
+&lt;pre&gt;
+mysql -u thorsten -p DATENBANKNAME &lt; backup.sql
+
+&lt;/pre&gt;
+
+===Nginx Einstellung===
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/bookstack.conf
+&lt;/pre&gt;
+Geben Sie Folgendes in die Datei `/etc/nginx/conf.d/bookstack.conf` ein:
+
+
+&lt;pre&gt;
+
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+
+  server_name bookstack.ahrensburg.city
+    root /var/www/bookstack/public;
+  index index.php index.html;
+  ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+  ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+
+  location / {
+    try_files $uri $uri/ /index.php?$query_string;
+  }
+  
+  location ~ \.php$ {
+    include snippets/fastcgi-php.conf;
+    fastcgi_pass unix:/run/php/php8.3-fpm.sock;
+  }
+}
+&lt;/pre&gt;</text>
+      <sha1>p5pqp0hnc733mn0wl3s0ypmt5bt46qx</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>CMS/WordPress</title>
+    <ns>0</ns>
+    <id>58</id>
+    <revision>
+      <id>226</id>
+      <timestamp>2026-01-27T23:31:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>226</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="709" sha1="ov1km0s4zzo2xqkahnsbkm348qax7bc" xml:space="preserve">== WordPress-Datenbank auf Ubuntu einrichten ==
+
+Um eine WordPress-Datenbank auf einem Ubuntu-Rechner einzurichten, folge diesen Schritten:
+
+
+=== 1. MySQL-Konsole öffnen ===
+&lt;syntaxhighlight lang="bash"&gt;
+sudo mysql -u root -p
+&lt;/syntaxhighlight&gt;
+
+=== 2. Datenbank anlegen ===
+&lt;syntaxhighlight lang="sql"&gt;
+CREATE DATABASE wordpress DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+&lt;/syntaxhighlight&gt;
+
+=== 3. Benutzer anlegen ===
+&lt;syntaxhighlight lang="sql"&gt;
+CREATE USER 'wpuser'@'localhost' IDENTIFIED BY 'dein_passwort';
+&lt;/syntaxhighlight&gt;
+
+=== 4. Rechte vergeben ===
+&lt;syntaxhighlight lang="sql"&gt;
+GRANT ALL PRIVILEGES ON wordpress.* TO 'wpuser'@'localhost';
+FLUSH PRIVILEGES;
+EXIT;
+&lt;/syntaxhighlight&gt;</text>
+      <sha1>ov1km0s4zzo2xqkahnsbkm348qax7bc</sha1>
+    </revision>
+    <revision>
+      <id>227</id>
+      <parentid>226</parentid>
+      <timestamp>2026-01-27T23:47:54Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>227</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="878" sha1="5zxjs8mozh4nkfec2rbxpuqbz6qdlmd" xml:space="preserve">== WordPress-Datenbank auf Ubuntu einrichten ==
+
+Um eine WordPress-Datenbank auf einem Ubuntu-Rechner einzurichten, folge diesen Schritten:
+
+
+=== 1. MySQL-Konsole öffnen ===
+&lt;syntaxhighlight lang="bash"&gt;
+sudo mysql -u root -p
+&lt;/syntaxhighlight&gt;
+
+=== 2. Datenbank anlegen ===
+&lt;syntaxhighlight lang="sql"&gt;
+CREATE DATABASE wordpress DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+&lt;/syntaxhighlight&gt;
+
+=== 3. Benutzer anlegen ===
+&lt;syntaxhighlight lang="sql"&gt;
+CREATE USER 'wpuser'@'localhost' IDENTIFIED BY 'dein_passwort';
+&lt;/syntaxhighlight&gt;
+
+=== 4. Rechte vergeben ===
+&lt;syntaxhighlight lang="sql"&gt;
+GRANT ALL PRIVILEGES ON wordpress.* TO 'wpuser'@'localhost';
+FLUSH PRIVILEGES;
+EXIT;
+&lt;/syntaxhighlight&gt;
+
+==WordPress herunterladen ==
+&lt;syntaxhighlight lang="bash"&gt;
+cd $HOME
+wget https://wordpress.org/latest.tar.gz
+sudo tar -xzf latest.tar.gz -C /var/www
+&lt;/syntaxhighlight&gt;</text>
+      <sha1>5zxjs8mozh4nkfec2rbxpuqbz6qdlmd</sha1>
+    </revision>
+    <revision>
+      <id>228</id>
+      <parentid>227</parentid>
+      <timestamp>2026-01-28T00:06:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>228</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1773" sha1="t6mww9nkwaxv9v3ukdkcg4gfyzsflq3" xml:space="preserve">== WordPress-Datenbank auf Ubuntu einrichten ==
+
+Um eine WordPress-Datenbank auf einem Ubuntu-Rechner einzurichten, folge diesen Schritten:
+
+
+=== 1. MySQL-Konsole öffnen ===
+&lt;syntaxhighlight lang="bash"&gt;
+sudo mysql -u root -p
+&lt;/syntaxhighlight&gt;
+
+=== 2. Datenbank anlegen ===
+&lt;syntaxhighlight lang="sql"&gt;
+CREATE DATABASE wordpress DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+&lt;/syntaxhighlight&gt;
+
+=== 3. Benutzer anlegen ===
+&lt;syntaxhighlight lang="sql"&gt;
+CREATE USER 'wpuser'@'localhost' IDENTIFIED BY 'dein_passwort';
+&lt;/syntaxhighlight&gt;
+
+=== 4. Rechte vergeben ===
+&lt;syntaxhighlight lang="sql"&gt;
+GRANT ALL PRIVILEGES ON wordpress.* TO 'wpuser'@'localhost';
+FLUSH PRIVILEGES;
+EXIT;
+&lt;/syntaxhighlight&gt;
+
+==WordPress herunterladen ==
+&lt;syntaxhighlight lang="bash"&gt;
+cd $HOME
+wget https://wordpress.org/latest.tar.gz
+sudo tar -xzf latest.tar.gz -C /var/www
+== Dateirechte für WordPress setzen ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo chown -R www-data:www-data /var/www/wordpress
+
+&lt;/syntaxhighlight&gt;
+
+== Nginx für WordPress konfigurieren ==
+Erstelle eine neue Konfigurationsdatei für deine WordPress-Seite:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo nano /etc/nginx/conf.d/wordpress
+&lt;/syntaxhighlight&gt;
+
+Füge folgenden Inhalt ein:
+
+&lt;syntaxhighlight lang="nginx"&gt;
+server {
+    listen 80;
+    server_name localhost;
+    root /var/www/wordpress;
+
+    index index.php index.html index.htm;
+
+    location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.1-fpm.sock;
+    }
+
+    location ~ /\.ht {
+        deny all;
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+Aktiviere die Konfiguration:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo nginx -t
+sudo systemctl reload nginx
+&lt;/syntaxhighlight&gt;</text>
+      <sha1>t6mww9nkwaxv9v3ukdkcg4gfyzsflq3</sha1>
+    </revision>
+    <revision>
+      <id>229</id>
+      <parentid>228</parentid>
+      <timestamp>2026-01-28T00:08:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>229</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1783" sha1="qwn8dfg239gh7ub9gxkfp5vmjyd88xf" xml:space="preserve">== WordPress-Datenbank auf Ubuntu einrichten ==
+
+Um eine WordPress-Datenbank auf einem Ubuntu-Rechner einzurichten, folge diesen Schritten:
+
+
+=== 1. MySQL-Konsole öffnen ===
+&lt;syntaxhighlight lang="bash"&gt;
+sudo mysql -u root -p
+&lt;/syntaxhighlight&gt;
+
+=== 2. Datenbank anlegen ===
+&lt;syntaxhighlight lang="sql"&gt;
+CREATE DATABASE wordpress DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+&lt;/syntaxhighlight&gt;
+
+=== 3. Benutzer anlegen ===
+&lt;syntaxhighlight lang="sql"&gt;
+CREATE USER 'wpuser'@'localhost' IDENTIFIED BY 'dein_passwort';
+&lt;/syntaxhighlight&gt;
+
+=== 4. Rechte vergeben ===
+&lt;syntaxhighlight lang="sql"&gt;
+GRANT ALL PRIVILEGES ON wordpress.* TO 'wpuser'@'localhost';
+FLUSH PRIVILEGES;
+EXIT;
+&lt;/syntaxhighlight&gt;
+
+==WordPress herunterladen ==
+&lt;syntaxhighlight lang="bash"&gt;
+cd $HOME
+wget https://wordpress.org/latest.tar.gz
+sudo tar -xzf latest.tar.gz -C /var/www
+== Dateirechte für WordPress setzen ==
+&lt;syntaxhighlight lang="bash"&gt;
+sudo chown -R www-data:www-data /var/www/wordpress
+
+&lt;/syntaxhighlight&gt;
+
+== Nginx für WordPress konfigurieren ==
+Erstelle eine neue Konfigurationsdatei für deine WordPress-Seite:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo nano /etc/nginx/conf.d/wordpress
+&lt;/syntaxhighlight&gt;
+
+Füge folgenden Inhalt ein:
+
+&lt;syntaxhighlight lang="nginx"&gt;
+server {
+    listen 80;
+    server_name wordpress.localhost;
+    root /var/www/wordpress;
+
+    index index.php index.html index.htm;
+
+    location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.4-fpm.sock;
+    }
+
+    location ~ /\.ht {
+        deny all;
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+Aktiviere die Konfiguration:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo nginx -t
+sudo systemctl reload nginx
+&lt;/syntaxhighlight&gt;</text>
+      <sha1>qwn8dfg239gh7ub9gxkfp5vmjyd88xf</sha1>
+    </revision>
+    <revision>
+      <id>230</id>
+      <parentid>229</parentid>
+      <timestamp>2026-01-28T00:11:01Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>230</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1711" sha1="1k380l70l5mpfmbl6dqf9jt8v9fyopw" xml:space="preserve">== WordPress-Datenbank auf Ubuntu einrichten ==
+
+Um eine WordPress-Datenbank auf einem Ubuntu-Rechner einzurichten, folge diesen Schritten:
+
+
+=== 1. MySQL-Konsole öffnen ===
+&lt;syntaxhighlight lang="bash"&gt;
+sudo mysql -u root -p
+&lt;/syntaxhighlight&gt;
+
+=== 2. Datenbank anlegen ===
+&lt;syntaxhighlight lang="sql"&gt;
+CREATE DATABASE wordpress DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+&lt;/syntaxhighlight&gt;
+
+=== 3. Benutzer anlegen ===
+&lt;syntaxhighlight lang="sql"&gt;
+CREATE USER 'wpuser'@'localhost' IDENTIFIED BY 'dein_passwort';
+&lt;/syntaxhighlight&gt;
+
+=== 4. Rechte vergeben ===
+&lt;syntaxhighlight lang="sql"&gt;
+GRANT ALL PRIVILEGES ON wordpress.* TO 'wpuser'@'localhost';
+FLUSH PRIVILEGES;
+EXIT;
+&lt;/syntaxhighlight&gt;
+
+==WordPress herunterladen ==
+&lt;syntaxhighlight lang="bash"&gt;
+cd $HOME
+wget https://wordpress.org/latest.tar.gz
+sudo tar -xzf latest.tar.gz -C /var/www
+== Dateirechte für WordPress setzen ==
+&lt;pre&gt;
+sudo chown -R www-data:www-data /var/www/wordpress
+
+&lt;/pre&gt;
+
+== Nginx für WordPress konfigurieren ==
+Erstelle eine neue Konfigurationsdatei für deine WordPress-Seite:
+
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/wordpress
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein:
+
+&lt;syntaxhighlight lang="nginx"&gt;
+server {
+    listen 80;
+    server_name wordpress.localhost;
+    root /var/www/wordpress;
+
+    index index.php index.html index.htm;
+
+    location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.4-fpm.sock;
+    }
+
+    location ~ /\.ht {
+        deny all;
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+Aktiviere die Konfiguration:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo nginx -t
+sudo systemctl reload nginx
+&lt;/syntaxhighlight&gt;</text>
+      <sha1>1k380l70l5mpfmbl6dqf9jt8v9fyopw</sha1>
+    </revision>
+    <revision>
+      <id>231</id>
+      <parentid>230</parentid>
+      <timestamp>2026-01-28T00:11:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>231</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1694" sha1="gx0htlp3alzmpwhspe3o5cw9v66rdlg" xml:space="preserve">== WordPress-Datenbank auf Ubuntu einrichten ==
+
+Um eine WordPress-Datenbank auf einem Ubuntu-Rechner einzurichten, folge diesen Schritten:
+
+
+=== 1. MySQL-Konsole öffnen ===
+&lt;syntaxhighlight lang="bash"&gt;
+sudo mysql -u root -p
+&lt;/syntaxhighlight&gt;
+
+=== 2. Datenbank anlegen ===
+&lt;syntaxhighlight lang="sql"&gt;
+CREATE DATABASE wordpress DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+&lt;/syntaxhighlight&gt;
+
+=== 3. Benutzer anlegen ===
+&lt;syntaxhighlight lang="sql"&gt;
+CREATE USER 'wpuser'@'localhost' IDENTIFIED BY 'dein_passwort';
+&lt;/syntaxhighlight&gt;
+
+=== 4. Rechte vergeben ===
+&lt;syntaxhighlight lang="sql"&gt;
+GRANT ALL PRIVILEGES ON wordpress.* TO 'wpuser'@'localhost';
+FLUSH PRIVILEGES;
+EXIT;
+&lt;/syntaxhighlight&gt;
+
+==WordPress herunterladen ==
+&lt;pre&gt;
+cd $HOME
+wget https://wordpress.org/latest.tar.gz
+sudo tar -xzf latest.tar.gz -C /var/www
+&lt;/pre&gt;
+== Dateirechte für WordPress setzen ==
+&lt;pre&gt;
+sudo chown -R www-data:www-data /var/www/wordpress
+
+&lt;/pre&gt;
+
+== Nginx für WordPress konfigurieren ==
+Erstelle eine neue Konfigurationsdatei für deine WordPress-Seite:
+
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/wordpress
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein:
+
+&lt;syntaxhighlight lang="nginx"&gt;
+server {
+    listen 80;
+    server_name wordpress.localhost;
+    root /var/www/wordpress;
+
+    index index.php index.html index.htm;
+
+    location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.4-fpm.sock;
+    }
+
+    location ~ /\.ht {
+        deny all;
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+Aktiviere die Konfiguration:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo nginx -t
+sudo systemctl reload nginx
+&lt;/syntaxhighlight&gt;</text>
+      <sha1>gx0htlp3alzmpwhspe3o5cw9v66rdlg</sha1>
+    </revision>
+    <revision>
+      <id>232</id>
+      <parentid>231</parentid>
+      <timestamp>2026-01-28T03:23:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>232</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3269" sha1="fo1dgvkttkrcbn7dv1twupyz1l4ct5w" xml:space="preserve">== WordPress-Datenbank auf Ubuntu einrichten ==
+
+Um eine WordPress-Datenbank auf einem Ubuntu-Rechner einzurichten, folge diesen Schritten:
+
+=== 1. MySQL-Konsole öffnen ===
+&lt;syntaxhighlight lang="bash"&gt;
+sudo mysql -u root -p
+&lt;/syntaxhighlight&gt;
+
+=== 2. Datenbank anlegen ===
+&lt;syntaxhighlight lang="sql"&gt;
+CREATE DATABASE wordpress DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_unicode_ci;
+&lt;/syntaxhighlight&gt;
+
+=== 3. Benutzer anlegen ===
+&lt;syntaxhighlight lang="sql"&gt;
+CREATE USER 'wpuser'@'localhost' IDENTIFIED BY 'dein_passwort';
+&lt;/syntaxhighlight&gt;
+
+=== 4. Rechte vergeben ===
+&lt;syntaxhighlight lang="sql"&gt;
+GRANT ALL PRIVILEGES ON wordpress.* TO 'wpuser'@'localhost';
+FLUSH PRIVILEGES;
+EXIT;
+&lt;/syntaxhighlight&gt;
+
+== WordPress herunterladen ==
+&lt;pre&gt;
+cd $HOME
+wget https://wordpress.org/latest.tar.gz
+sudo tar -xzf latest.tar.gz -C /var/www
+&lt;/pre&gt;
+
+== Dateirechte für WordPress setzen ==
+&lt;pre&gt;
+sudo chown -R www-data:www-data /var/www/wordpress
+&lt;/pre&gt;
+
+== Nginx für WordPress konfigurieren ==
+Erstelle eine neue Konfigurationsdatei für deine WordPress-Seite:
+
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/wordpress.conf
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein:
+
+&lt;syntaxhighlight lang="nginx"&gt;
+server {
+    listen 80;
+    server_name wordpress.localhost;
+    root /var/www/wordpress;
+
+    index index.php index.html index.htm;
+
+    location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.4-fpm.sock;
+    }
+
+    location ~ /\.ht {
+        deny all;
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+Aktiviere die Konfiguration:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo nginx -t
+sudo systemctl reload nginx
+&lt;/syntaxhighlight&gt;
+
+== WordPress auf Produktionsserver übertragen (ohne wp-config.php) ==
+
+Um deine WordPress-Installation (ohne Einstellungen wie `wp-config.php`) auf einen Produktionsserver zu übertragen, verwende folgenden Befehl:
+
+&lt;syntaxhighlight lang="bash"&gt;
+rsync -avz --exclude='wp-config.php' /var/www/wordpress/ benutzername@server:/var/www/wordpress/
+&lt;/syntaxhighlight&gt;
+
+Ersetze `benutzername@server` durch deinen Benutzernamen und die Adresse deines Produktionsservers.  
+Der Parameter `--exclude='wp-config.php'` sorgt dafür, dass die Konfigurationsdatei nicht übertragen wird.
+
+== Produktionsserver Nginx-Einstellung ==
+
+=== Nginx für WordPress konfigurieren ===
+Erstelle eine neue Konfigurationsdatei für deine WordPress-Seite:
+
+&lt;pre&gt;
+sudo nano /etc/nginx/conf.d/wordpress.conf
+&lt;/pre&gt;
+
+Füge folgenden Inhalt ein:
+
+&lt;syntaxhighlight lang="nginx"&gt;
+server {
+    listen 443 ssl http2;
+    listen [::]:443 ssl http2;
+
+    server_name wordpress.ahrensburg.city;
+    root /var/www/wordpress;
+    ssl_certificate /etc/letsencrypt/live/ahrensburg.city/fullchain.pem;
+    ssl_certificate_key /etc/letsencrypt/live/ahrensburg.city/privkey.pem;
+
+    index index.php index.html index.htm;
+
+    location / {
+        try_files $uri $uri/ /index.php?$args;
+    }
+
+    location ~ \.php$ {
+        include snippets/fastcgi-php.conf;
+        fastcgi_pass unix:/var/run/php/php8.3-fpm.sock;
+    }
+
+    location ~ /\.ht {
+        deny all;
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+Aktiviere die Konfiguration:
+
+&lt;syntaxhighlight lang="bash"&gt;
+sudo nginx -t
+sudo systemctl reload nginx
+&lt;/syntaxhighlight&gt;</text>
+      <sha1>fo1dgvkttkrcbn7dv1twupyz1l4ct5w</sha1>
     </revision>
   </page>
 </mediawiki>
