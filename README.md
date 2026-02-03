@@ -44,8 +44,8 @@ $wgCookieWarningMoreUrl='';
 $wgCookieWarningGeoIPServiceURL='';
 $wgCookieWarningGeoIPLookup='none';
 $wgCookieWarningForCountryCodes="EU";
-define("NS_Nachrichten", 3014);
-define("NS_Nachrichten_TALK", 3015);
+define("NS_Nachrichten", 3000);
+define("NS_Nachrichten_TALK", 3001);
 
 $wgExtraNamespaces[NS_Nachrichten] = "Nachrichten";
 $wgExtraNamespaces[NS_Nachrichten_TALK] = "Nachrichten_Diskussion";
