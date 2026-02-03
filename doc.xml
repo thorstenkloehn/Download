@@ -24,6 +24,8 @@
       <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
       <namespace key="14" case="first-letter">Kategorie</namespace>
       <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="4000" case="first-letter">Blog</namespace>
+      <namespace key="4001" case="first-letter">Blog Diskussion</namespace>
     </namespaces>
   </siteinfo>
   <page>
@@ -558,6 +560,47 @@ Webframework]] — Frameworks und Web-Technologien
 * [[Weitere Tools]] — Nützliche Werkzeuge und Hilfsmittel
 * [[Postfix]] - [[Lerntechnik]]</text>
       <sha1>jr2mvwe3b1dnpsbhv8wskcpr26yzg69</sha1>
+    </revision>
+    <revision>
+      <id>267</id>
+      <parentid>195</parentid>
+      <timestamp>2026-02-03T13:35:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>267</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1141" sha1="fug1k93v7ij8q9ro4zcdim89rpsis3k" xml:space="preserve">== Willkommen auf meiner Wissensdatenbank ==
+
+Herzlich willkommen! Diese Seite dient als zentrale Anlaufstelle für Dokumentationen und Informationen zu meinen Projekten. Hier finden sich Details zu Implementierungen mit **Drupal**, **Typo3**, **MediaWiki** sowie meiner lokalen **XWiki**-Instanz.
+==Blog Artikel==
+&lt;DynamicPageList&gt;
+namespace=Blog
+count=10
+&lt;/DynamicPageList&gt;
+=== Themenübersicht ===
+
+==== Content Management &amp; Web ====
+* [[CMS]] — Übersicht der Content-Management-Systeme
+* [[Webframework|
+Webframework]] — Frameworks und Web-Technologien
+
+==== Entwicklung &amp; KI-Integration ====
+* [[AI]] — Grundlagen und Projekte im Bereich Künstliche Intelligenz
+* [[KI-IDE]] — KI-gestützte Entwicklungsumgebungen
+* [[IDE]] — Konfiguration und Nutzung von Entwicklungsumgebungen
+
+==== Infrastruktur &amp; Sicherheit ====
+* [[Server]] — Serverkonfiguration und Administration
+* [[Schwachstellen]] — Sicherheitsanalysen und Best Practices
+* [[DNS|DNS Domaine Verwalten]] — Artikel zur Verwaltung von DNS-Domains
+
+==== Sonstiges ====
+* [[Weitere Tools]] — Nützliche Werkzeuge und Hilfsmittel
+* [[Postfix]] - [[Lerntechnik]]</text>
+      <sha1>fug1k93v7ij8q9ro4zcdim89rpsis3k</sha1>
     </revision>
   </page>
   <page>
@@ -2646,6 +2689,68 @@ Django ist ein leistungsfähiges Python-Webframework, das auf schnelle Entwicklu
 * '''Sicherheit:''' Eingebaute Schutzmechanismen gegen häufige Web-Sicherheitslücken (z. B. CSRF, XSS, SQL-Injection).
 * '''Modularität:''' Wiederverwendbare Apps und umfangreiches Ökosystem von Drittanbieter-Paketen.</text>
       <sha1>jpqcg0l9k8rmtrwpqypi7kltmgn9tmw</sha1>
+    </revision>
+    <revision>
+      <id>261</id>
+      <parentid>224</parentid>
+      <timestamp>2026-02-02T19:34:28Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>261</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3975" sha1="qd8sja0n3eaiyy9dysbz99u9al7hw85" xml:space="preserve">== ASP.NET Core ==
+ASP.NET Core ist ein Open-Source-, plattformübergreifendes Framework von Microsoft zur Erstellung moderner, cloudbasierter Internetanwendungen.
+
+* '''Plattformunabhängigkeit:''' Läuft auf Windows, macOS und Linux.
+* '''Performance:''' Gehört zu den schnellsten Web-Frameworks in Benchmarks (z. B. TechEmpower).
+* '''Middleware-Pipeline:''' Modularer Aufbau des HTTP-Anforderungsverarbeitungsprozesses.
+* '''Integrierte Dependency Injection:''' Von Haus aus unterstützte Entkopplung von Komponenten.
+
+== Spring Boot ==
+Spring Boot ist eine Erweiterung des Spring-Frameworks für Java, die darauf abzielt, den Konfigurationsaufwand für produktionsreife Anwendungen zu minimieren ("Convention over Configuration").
+
+* '''Auto-Configuration:''' Automatische Einrichtung von Spring-Modulen basierend auf den vorhandenen JAR-Abhängigkeiten.
+* '''Eingebettete Server:''' Direkte Ausführung als JAR mit integriertem Tomcat, Jetty oder Undertow.
+* '''Starters:''' Vordefinierte Abhängigkeitsbündel (z. B. `spring-boot-starter-web`) zur Vereinfachung des Builds.
+* '''Actuator:''' Integrierte Endpunkte zur Überwachung und Verwaltung der Applikation.
+
+==Laravel==
+Laravel ist ein populäres PHP-Webframework, das für seine elegante Syntax und Entwicklerfreundlichkeit bekannt ist.
+
+* '''Eloquent ORM:''' Leistungsfähiges, objektorientiertes Datenbank-ORM für einfache Datenbankabfragen.
+* '''Blade-Templating:''' Integriertes, leichtgewichtiges Template-System für die Trennung von Logik und Darstellung.
+* '''Routing:''' Intuitives Routing-System zur Definition von Webrouten und RESTful-APIs.
+* '''Migrationen &amp; Seeder:''' Werkzeuge zur Verwaltung und Initialisierung von Datenbankschemata.
+* '''Ökosystem:''' Umfangreiche Sammlung offizieller Pakete (z. B. Horizon, Passport, Sanctum) zur Erweiterung von Funktionalitäten.
+==Symfony==
+Symfony ist ein flexibles, komponentenbasiertes PHP-Framework, das für die Entwicklung komplexer und skalierbarer Webanwendungen eingesetzt wird.
+
+* '''Komponentenarchitektur:''' Wiederverwendbare, unabhängige PHP-Komponenten (z. B. Routing, Event Dispatcher, Console).
+* '''Bundles:''' Modularisierung von Funktionalitäten durch Bundles, die einfach integriert werden können.
+* '''Twig-Templating:''' Leistungsfähiges, sicheres und schnelles Template-System.
+* '''Konfigurierbarkeit:''' Unterstützung verschiedener Konfigurationsformate (YAML, XML, PHP, Annotations).
+* '''Community &amp; Ökosystem:''' Große Community und zahlreiche Erweiterungen (z. B. API Platform, EasyAdmin).
+==Django==
+Django ist ein leistungsfähiges Python-Webframework, das auf schnelle Entwicklung und sauberes, pragmatisches Design abzielt.
+
+* '''ORM:''' Integriertes objekt-relationales Mapping für einfache Datenbankoperationen.
+* '''Admin-Interface:''' Automatisch generiertes Backend zur Verwaltung von Datenmodellen.
+* '''URL-Routing:''' Flexibles und deklaratives System zur Definition von URLs und Views.
+* '''Sicherheit:''' Eingebaute Schutzmechanismen gegen häufige Web-Sicherheitslücken (z. B. CSRF, XSS, SQL-Injection).
+* '''Modularität:''' Wiederverwendbare Apps und umfangreiches Ökosystem von Drittanbieter-Paketen.
+==[[Webframework/Chainlit|Chainlit]]==
+Chainlit ist ein Open-Source-Framework für Python, das die Entwicklung, das Testen und die Bereitstellung von LLM-basierten (Large Language Model) Anwendungen vereinfacht.
+
+* '''Schnelle Prototypenerstellung:''' Ermöglicht das schnelle Erstellen interaktiver Chat-Oberflächen für KI-Anwendungen.
+* '''Integration mit LLMs:''' Unterstützt verschiedene Sprachmodelle wie OpenAI, Hugging Face und mehr.
+* '''UI-Komponenten:''' Bietet vorgefertigte UI-Elemente (z. B. Textfelder, Buttons, Dateiuploads) zur Gestaltung individueller Nutzeroberflächen.
+* '''Einfache Installation &amp; Nutzung:''' Kann mit wenigen Zeilen Python-Code gestartet werden.
+* '''Entwicklerfreundlich:''' Ideal für das Debugging und die Präsentation von KI-gestützten Workflows.</text>
+      <sha1>qd8sja0n3eaiyy9dysbz99u9al7hw85</sha1>
     </revision>
   </page>
   <page>
@@ -7649,6 +7754,1544 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
 | [[CMS/Typo3/T3AI|T3AI für TYPO3]]
 |}</text>
       <sha1>oxo9rcnhr29w1t13a7xdvbq63oxwosb</sha1>
+    </revision>
+    <revision>
+      <id>252</id>
+      <parentid>251</parentid>
+      <timestamp>2026-02-01T15:08:16Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* 6.1 KI-Agenten im CMS */</comment>
+      <origin>252</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2659" sha1="5jx7y596jx4nmkz6r9uxv4zz95ycgrd" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.ahrensburg.city/ WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|-
+| [https://typo3.org TYPO3]
+| PHP
+| Leistungsstarkes, flexibles Open-Source-CMS für mittlere bis große Websites; umfangreiche Rechteverwaltung, Multisite-Fähigkeit, hohe Skalierbarkeit
+| [[CMS/Typo3|TYPO3]]
+|}
+
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://bookstack.ahrensburg.city BookStack]
+| PHP (Laravel)
+| Einfaches Wiki-/Dokumentationssystem mit Büchern, Kapiteln und Seiten; geeignet für interne Dokumentation und Teams
+| [[CMS/BookStack|BookStack]]
+|-
+| [https://wikijs.ahrensburg.city/ wikijs]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+|-
+| [https://www.drupal.org/project/canvas Drupal Canvas]
+| Drupal
+| Die neue Editor-Erfahrung für Drupal; bietet eine moderne, blockbasierte Oberfläche ähnlich wie der WordPress-Editor, ermöglicht flexibles Content-Layout und intuitive Bedienung
+| [[CMS/Drupal/Canvas|Drupal Canvas]]
+|}</text>
+      <sha1>5jx7y596jx4nmkz6r9uxv4zz95ycgrd</sha1>
+    </revision>
+    <revision>
+      <id>253</id>
+      <parentid>252</parentid>
+      <timestamp>2026-02-01T15:15:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>253</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2446" sha1="eh4590z9268midisrz4v63jnotnvu86" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.ahrensburg.city/ WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|}
+
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://bookstack.ahrensburg.city BookStack]
+| PHP (Laravel)
+| Einfaches Wiki-/Dokumentationssystem mit Büchern, Kapiteln und Seiten; geeignet für interne Dokumentation und Teams
+| [[CMS/BookStack|BookStack]]
+|-
+| [https://wikijs.ahrensburg.city/ wikijs]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+|-
+| [https://www.drupal.org/project/canvas Drupal Canvas]
+| Drupal
+| Die neue Editor-Erfahrung für Drupal; bietet eine moderne, blockbasierte Oberfläche ähnlich wie der WordPress-Editor, ermöglicht flexibles Content-Layout und intuitive Bedienung
+| [[CMS/Drupal/Canvas|Drupal Canvas]]
+|}</text>
+      <sha1>eh4590z9268midisrz4v63jnotnvu86</sha1>
+    </revision>
+    <revision>
+      <id>254</id>
+      <parentid>253</parentid>
+      <timestamp>2026-02-01T15:45:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>254</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2770" sha1="mqa3cgj3l6bjaovmm4s6svz3j1kwus7" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.ahrensburg.city/ WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|}
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://wikijs.ahrensburg.city/ wikijs]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+|-
+| [https://www.drupal.org/project/canvas Drupal Canvas]
+| Drupal
+| Die neue Editor-Erfahrung für Drupal; bietet eine moderne, blockbasierte Oberfläche ähnlich wie der WordPress-Editor, ermöglicht flexibles Content-Layout und intuitive Bedienung
+| [[CMS/Drupal/Canvas|Drupal Canvas]]
+|}
+===6.2 CMS-Werkzeuge===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|-
+| [WordPress Post]
+| VS Code
+| Visual Studio Code Erweiterung zum Veröffentlichen von Markdown-Artikeln direkt auf WordPress; erleichtert das Schreiben von Blog-Beiträgen in Markdown
+| [[CMS/WordPress/VSCode-Extension|WordPress Post]]
+|-
+| [Wikitext]
+| VS Code
+| Visual Studio Code Erweiterung zum Bearbeiten von MediaWiki-Seiten; unterstützt Syntax-Highlighting und direktes Veröffentlichen
+| [[CMS/MediaWiki/VSCode-Extension|MediaWiki Editor]]
+|}</text>
+      <sha1>mqa3cgj3l6bjaovmm4s6svz3j1kwus7</sha1>
+    </revision>
+    <revision>
+      <id>255</id>
+      <parentid>254</parentid>
+      <timestamp>2026-02-01T15:52:35Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>255</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2762" sha1="nyrqg40nnxc9nnf19hi48f1495uoru3" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.ahrensburg.city/ WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|}
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://wikijs.ahrensburg.city/ wikijs]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+|-
+| [https://www.drupal.org/project/canvas Drupal Canvas]
+| Drupal
+| Die neue Editor-Erfahrung für Drupal; bietet eine moderne, blockbasierte Oberfläche ähnlich wie der WordPress-Editor, ermöglicht flexibles Content-Layout und intuitive Bedienung
+| [[CMS/Drupal/Canvas|Drupal Canvas]]
+|}
+===6.2 CMS-Werkzeuge===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|-
+| [WordPress Post]
+| VS Code
+| Visual Studio Code Erweiterung zum Veröffentlichen von Markdown-Artikeln direkt auf WordPress; erleichtert das Schreiben von Blog-Beiträgen in Markdown
+| [[CMS/WordPress/VSCode-Extension|WordPress Post]]
+|-
+| [Wikitext]
+| VS Code
+| Visual Studio Code Erweiterung zum Bearbeiten von MediaWiki-Seiten; unterstützt Syntax-Highlighting und direktes Veröffentlichen
+| [[CMS/MediaWiki/VSCode-Extension|Wikitext]]
+|}</text>
+      <sha1>nyrqg40nnxc9nnf19hi48f1495uoru3</sha1>
+    </revision>
+    <revision>
+      <id>256</id>
+      <parentid>255</parentid>
+      <timestamp>2026-02-01T15:54:33Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* 2. Wiki-Systeme */</comment>
+      <origin>256</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2588" sha1="h1cibvreiz7jyzrb3b4tq11hq7ls6xx" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.ahrensburg.city/ WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|}
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://wikijs.ahrensburg.city/ wikijs]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+|-
+| [https://www.drupal.org/project/canvas Drupal Canvas]
+| Drupal
+| Die neue Editor-Erfahrung für Drupal; bietet eine moderne, blockbasierte Oberfläche ähnlich wie der WordPress-Editor, ermöglicht flexibles Content-Layout und intuitive Bedienung
+| [[CMS/Drupal/Canvas|Drupal Canvas]]
+|}
+===6.2 CMS-Werkzeuge===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|-
+| [WordPress Post]
+| VS Code
+| Visual Studio Code Erweiterung zum Veröffentlichen von Markdown-Artikeln direkt auf WordPress; erleichtert das Schreiben von Blog-Beiträgen in Markdown
+| [[CMS/WordPress/VSCode-Extension|WordPress Post]]
+|-
+| [Wikitext]
+| VS Code
+| Visual Studio Code Erweiterung zum Bearbeiten von MediaWiki-Seiten; unterstützt Syntax-Highlighting und direktes Veröffentlichen
+| [[CMS/MediaWiki/VSCode-Extension|Wikitext]]
+|}</text>
+      <sha1>h1cibvreiz7jyzrb3b4tq11hq7ls6xx</sha1>
+    </revision>
+    <revision>
+      <id>257</id>
+      <parentid>256</parentid>
+      <timestamp>2026-02-01T16:08:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* 6.2 CMS-Werkzeuge */</comment>
+      <origin>257</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2584" sha1="7zrahz9ktkf62q0r0uwu80t0janja89" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.ahrensburg.city/ WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|}
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://wikijs.ahrensburg.city/ wikijs]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+|-
+| [https://www.drupal.org/project/canvas Drupal Canvas]
+| Drupal
+| Die neue Editor-Erfahrung für Drupal; bietet eine moderne, blockbasierte Oberfläche ähnlich wie der WordPress-Editor, ermöglicht flexibles Content-Layout und intuitive Bedienung
+| [[CMS/Drupal/Canvas|Drupal Canvas]]
+|}
+===6.2 CMS-Werkzeuge===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|-
+| WordPress Post
+| VS Code
+| Visual Studio Code Erweiterung zum Veröffentlichen von Markdown-Artikeln direkt auf WordPress; erleichtert das Schreiben von Blog-Beiträgen in Markdown
+| [[CMS/WordPress/VSCode-Extension|WordPress Post]]
+|-
+| Wikitext
+| VS Code
+| Visual Studio Code Erweiterung zum Bearbeiten von MediaWiki-Seiten; unterstützt Syntax-Highlighting und direktes Veröffentlichen
+| [[CMS/MediaWiki/VSCode-Extension|Wikitext]]
+|}</text>
+      <sha1>7zrahz9ktkf62q0r0uwu80t0janja89</sha1>
+    </revision>
+    <revision>
+      <id>258</id>
+      <parentid>257</parentid>
+      <timestamp>2026-02-01T16:35:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* 6.2 CMS-Werkzeuge */</comment>
+      <origin>258</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2593" sha1="b86478yjt0e3v7l7zemyozeckj62z3q" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.ahrensburg.city/ WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|}
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://wikijs.ahrensburg.city/ wikijs]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+|-
+| [https://www.drupal.org/project/canvas Drupal Canvas]
+| Drupal
+| Die neue Editor-Erfahrung für Drupal; bietet eine moderne, blockbasierte Oberfläche ähnlich wie der WordPress-Editor, ermöglicht flexibles Content-Layout und intuitive Bedienung
+| [[CMS/Drupal/Canvas|Drupal Canvas]]
+|}
+===6.2 CMS-Werkzeuge===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|-
+| WordPress Post
+| VS Code
+| Visual Studio Code Erweiterung zum Veröffentlichen von Markdown-Artikeln direkt auf WordPress; erleichtert das Schreiben von Blog-Beiträgen in Markdown
+| [[CMS/WordPress/VSCode-Extension|WordPress Post]]
+|-
+| Wikitext
+| VS Code
+| Visual Studio Code Erweiterung zum Bearbeiten von MediaWiki-Seiten; unterstützt Syntax-Highlighting und direktes Veröffentlichen
+| [[CMS/MediaWiki/VSCode-Extension/Wikitext|Wikitext]]
+|}</text>
+      <sha1>b86478yjt0e3v7l7zemyozeckj62z3q</sha1>
+    </revision>
+    <revision>
+      <id>259</id>
+      <parentid>258</parentid>
+      <timestamp>2026-02-01T18:49:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>259</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2975" sha1="9xcsjwsmn70inzay114uk8ipp82aquz" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.ahrensburg.city/ WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|-
+| [https://typo3.org TYPO3]
+| PHP
+| Leistungsstarkes, flexibles Open-Source-CMS für mittlere bis große Websites; umfangreiche Rechteverwaltung, Multisite-Fähigkeit, hohe Skalierbarkeit
+| [[CMS/Typo3|TYPO3]]
+|}
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://wikijs.ahrensburg.city/ wikijs]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+|-
+| [https://www.drupal.org/project/canvas Drupal Canvas]
+| Drupal
+| Die neue Editor-Erfahrung für Drupal; bietet eine moderne, blockbasierte Oberfläche ähnlich wie der WordPress-Editor, ermöglicht flexibles Content-Layout und intuitive Bedienung
+| [[CMS/Drupal/Canvas|Drupal Canvas]]
+|}
+===6.2 CMS-Werkzeuge===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|-
+| [WordPress Post]
+| VS Code
+| Visual Studio Code Erweiterung zum Veröffentlichen von Markdown-Artikeln direkt auf WordPress; erleichtert das Schreiben von Blog-Beiträgen in Markdown
+| [[CMS/WordPress/VSCode-Extension|WordPress Post]]
+|-
+| [Wikitext]
+| VS Code
+| Visual Studio Code Erweiterung zum Bearbeiten von MediaWiki-Seiten; unterstützt Syntax-Highlighting und direktes Veröffentlichen
+| [[CMS/MediaWiki/VSCode-Extension|Wikitext]]
+|}</text>
+      <sha1>9xcsjwsmn70inzay114uk8ipp82aquz</sha1>
+    </revision>
+    <revision>
+      <id>260</id>
+      <parentid>259</parentid>
+      <timestamp>2026-02-02T10:46:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>260</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2801" sha1="bhnz84yt6nbyd5y6pikah7s8ka8unga" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.ahrensburg.city/ WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|-
+| [https://typo3.org TYPO3]
+| PHP
+| Leistungsstarkes, flexibles Open-Source-CMS für mittlere bis große Websites; umfangreiche Rechteverwaltung, Multisite-Fähigkeit, hohe Skalierbarkeit
+| [[CMS/Typo3|TYPO3]]
+|}
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://wikijs.ahrensburg.city/ wikijs]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+|-
+| [https://www.drupal.org/project/canvas Drupal Canvas]
+| Drupal
+| Die neue Editor-Erfahrung für Drupal; bietet eine moderne, blockbasierte Oberfläche ähnlich wie der WordPress-Editor, ermöglicht flexibles Content-Layout und intuitive Bedienung
+| [[CMS/Drupal/Canvas|Drupal Canvas]]
+|}
+===6.2 CMS-Werkzeuge===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|-
+| [WordPress Post]
+| VS Code
+| Visual Studio Code Erweiterung zum Veröffentlichen von Markdown-Artikeln direkt auf WordPress; erleichtert das Schreiben von Blog-Beiträgen in Markdown
+| [[CMS/WordPress/VSCode-Extension|WordPress Post]]
+|-
+| [Wikitext]
+| VS Code
+| Visual Studio Code Erweiterung zum Bearbeiten von MediaWiki-Seiten; unterstützt Syntax-Highlighting und direktes Veröffentlichen
+| [[CMS/MediaWiki/VSCode-Extension|Wikitext]]
+|}</text>
+      <sha1>bhnz84yt6nbyd5y6pikah7s8ka8unga</sha1>
+    </revision>
+    <revision>
+      <id>276</id>
+      <parentid>260</parentid>
+      <timestamp>2026-02-03T14:09:23Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* 1. Reine CMS */</comment>
+      <origin>276</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2788" sha1="lzm0vvwkvxtf9whltb3pkc3tw9p02hp" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.org WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|-
+| [https://typo3.org TYPO3]
+| PHP
+| Leistungsstarkes, flexibles Open-Source-CMS für mittlere bis große Websites; umfangreiche Rechteverwaltung, Multisite-Fähigkeit, hohe Skalierbarkeit
+| [[CMS/Typo3|TYPO3]]
+|}
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://wikijs.ahrensburg.city/ wikijs]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+|-
+| [https://www.drupal.org/project/canvas Drupal Canvas]
+| Drupal
+| Die neue Editor-Erfahrung für Drupal; bietet eine moderne, blockbasierte Oberfläche ähnlich wie der WordPress-Editor, ermöglicht flexibles Content-Layout und intuitive Bedienung
+| [[CMS/Drupal/Canvas|Drupal Canvas]]
+|}
+===6.2 CMS-Werkzeuge===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|-
+| [WordPress Post]
+| VS Code
+| Visual Studio Code Erweiterung zum Veröffentlichen von Markdown-Artikeln direkt auf WordPress; erleichtert das Schreiben von Blog-Beiträgen in Markdown
+| [[CMS/WordPress/VSCode-Extension|WordPress Post]]
+|-
+| [Wikitext]
+| VS Code
+| Visual Studio Code Erweiterung zum Bearbeiten von MediaWiki-Seiten; unterstützt Syntax-Highlighting und direktes Veröffentlichen
+| [[CMS/MediaWiki/VSCode-Extension|Wikitext]]
+|}</text>
+      <sha1>lzm0vvwkvxtf9whltb3pkc3tw9p02hp</sha1>
+    </revision>
+    <revision>
+      <id>277</id>
+      <parentid>276</parentid>
+      <timestamp>2026-02-03T14:12:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>277</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2773" sha1="diqyxck874vvzwkvhda5fe9ryehdvvn" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.org WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|-
+| [https://typo3.org TYPO3]
+| PHP
+| Leistungsstarkes, flexibles Open-Source-CMS für mittlere bis große Websites; umfangreiche Rechteverwaltung, Multisite-Fähigkeit, hohe Skalierbarkeit
+| [[CMS/Typo3|TYPO3]]
+|}
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://js.wiki/ wikijs]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+|-
+| [https://www.drupal.org/project/canvas Drupal Canvas]
+| Drupal
+| Die neue Editor-Erfahrung für Drupal; bietet eine moderne, blockbasierte Oberfläche ähnlich wie der WordPress-Editor, ermöglicht flexibles Content-Layout und intuitive Bedienung
+| [[CMS/Drupal/Canvas|Drupal Canvas]]
+|}
+===6.2 CMS-Werkzeuge===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|-
+| [WordPress Post]
+| VS Code
+| Visual Studio Code Erweiterung zum Veröffentlichen von Markdown-Artikeln direkt auf WordPress; erleichtert das Schreiben von Blog-Beiträgen in Markdown
+| [[CMS/WordPress/VSCode-Extension|WordPress Post]]
+|-
+| [Wikitext]
+| VS Code
+| Visual Studio Code Erweiterung zum Bearbeiten von MediaWiki-Seiten; unterstützt Syntax-Highlighting und direktes Veröffentlichen
+| [[CMS/MediaWiki/VSCode-Extension|Wikitext]]
+|}</text>
+      <sha1>diqyxck874vvzwkvhda5fe9ryehdvvn</sha1>
+    </revision>
+    <revision>
+      <id>278</id>
+      <parentid>277</parentid>
+      <timestamp>2026-02-03T14:14:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>278</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2947" sha1="942t8m7icsjnh4tft0cfdggzik9u37u" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.org WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|-
+| [https://typo3.org TYPO3]
+| PHP
+| Leistungsstarkes, flexibles Open-Source-CMS für mittlere bis große Websites; umfangreiche Rechteverwaltung, Multisite-Fähigkeit, hohe Skalierbarkeit
+| [[CMS/Typo3|TYPO3]]
+|}
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://ahrensburg.city/xwiki xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://js.wiki/ wikijs]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+|-
+| [https://www.drupal.org/project/canvas Drupal Canvas]
+| Drupal
+| Die neue Editor-Erfahrung für Drupal; bietet eine moderne, blockbasierte Oberfläche ähnlich wie der WordPress-Editor, ermöglicht flexibles Content-Layout und intuitive Bedienung
+| [[CMS/Drupal/Canvas|Drupal Canvas]]
+|}
+===6.2 CMS-Werkzeuge===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|-
+| [WordPress Post]
+| VS Code
+| Visual Studio Code Erweiterung zum Veröffentlichen von Markdown-Artikeln direkt auf WordPress; erleichtert das Schreiben von Blog-Beiträgen in Markdown
+| [[CMS/WordPress/VSCode-Extension|WordPress Post]]
+|-
+| [Wikitext]
+| VS Code
+| Visual Studio Code Erweiterung zum Bearbeiten von MediaWiki-Seiten; unterstützt Syntax-Highlighting und direktes Veröffentlichen
+| [[CMS/MediaWiki/VSCode-Extension|Wikitext]]
+|}</text>
+      <sha1>942t8m7icsjnh4tft0cfdggzik9u37u</sha1>
+    </revision>
+    <revision>
+      <id>279</id>
+      <parentid>278</parentid>
+      <timestamp>2026-02-03T14:17:22Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>279</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2940" sha1="9unrfqt5xiblikfieq9y78vhifm1tkd" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.org WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|-
+| [https://typo3.org TYPO3]
+| PHP
+| Leistungsstarkes, flexibles Open-Source-CMS für mittlere bis große Websites; umfangreiche Rechteverwaltung, Multisite-Fähigkeit, hohe Skalierbarkeit
+| [[CMS/Typo3|TYPO3]]
+|}
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://www.xwiki.org/ xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://js.wiki/ wikijs]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+|-
+| [https://www.drupal.org/project/canvas Drupal Canvas]
+| Drupal
+| Die neue Editor-Erfahrung für Drupal; bietet eine moderne, blockbasierte Oberfläche ähnlich wie der WordPress-Editor, ermöglicht flexibles Content-Layout und intuitive Bedienung
+| [[CMS/Drupal/Canvas|Drupal Canvas]]
+|}
+===6.2 CMS-Werkzeuge===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|-
+| [WordPress Post]
+| VS Code
+| Visual Studio Code Erweiterung zum Veröffentlichen von Markdown-Artikeln direkt auf WordPress; erleichtert das Schreiben von Blog-Beiträgen in Markdown
+| [[CMS/WordPress/VSCode-Extension|WordPress Post]]
+|-
+| [Wikitext]
+| VS Code
+| Visual Studio Code Erweiterung zum Bearbeiten von MediaWiki-Seiten; unterstützt Syntax-Highlighting und direktes Veröffentlichen
+| [[CMS/MediaWiki/VSCode-Extension|Wikitext]]
+|}</text>
+      <sha1>9unrfqt5xiblikfieq9y78vhifm1tkd</sha1>
     </revision>
   </page>
   <page>
@@ -16365,6 +18008,1438 @@ sudo nginx -t
 sudo systemctl reload nginx
 &lt;/syntaxhighlight&gt;</text>
       <sha1>fo1dgvkttkrcbn7dv1twupyz1l4ct5w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Webframework/Chainlit</title>
+    <ns>0</ns>
+    <id>59</id>
+    <revision>
+      <id>262</id>
+      <timestamp>2026-02-02T20:52:10Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>262</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1719" sha1="b1tqr68gh1zy8ny7robe55y5svk861e" xml:space="preserve">==Ollama installieren==
+Ollama ist eine Open-Source-Plattform, die das Ausführen und Verwalten von KI-Sprachmodellen lokal auf dem eigenen Rechner ermöglicht. Sie bietet eine einfache Schnittstelle, um verschiedene Large Language Models (LLMs) wie Llama oder Mistral zu nutzen, ohne Cloud-Dienste zu benötigen.
+&lt;pre&gt;
+curl -fsSL https://ollama.com/install.sh | sh
+ollama run llama3.1
+&lt;/pre&gt;
+==Chainlit installieren==
+
+Chainlit ist ein Open-Source-Framework zur schnellen Entwicklung und Bereitstellung von Anwendungen, die Large Language Models (LLMs) nutzen. Es ermöglicht Entwicklern, interaktive KI-Anwendungen mit Python zu erstellen, indem es eine einfache API für das Management von Konversationen, Benutzerinteraktionen und die Integration von LLMs bereitstellt. Chainlit unterstützt Funktionen wie Echtzeit-UI, Komponenten für Benutzereingaben und die Visualisierung von Modellergebnissen, was die Entwicklung und das Testen von KI-gestützten Chatbots und Assistenten erleichtert.
+
+&lt;pre&gt;
+pip install openai chainlit
+&lt;/pre&gt;
+Erstelle eine Datei app.py mit folgendem Inhalt:
+
+&lt;pre&gt;
+
+import chainlit as cl
+from openai import AsyncOpenAI
+
+# Ollama läuft lokal auf Port 11434
+client = AsyncOpenAI(base_url="http://localhost:11434/v1", api_key="ollama")
+
+@cl.on_message
+async def main(message: cl.Message):
+    # Chat-Einstellungen für Llama 3.1
+    response = await client.chat.completions.create(
+        model="llama3.1",
+        messages=[{"role": "user", "content": message.content}],
+        stream=True
+    )
+
+    msg = cl.Message(content="")
+    
+    async for part in response:
+        if token := part.choices[0].delta.content:
+            await msg.stream_token(token)
+
+    await msg.send()
+
+&lt;/pre&gt;</text>
+      <sha1>b1tqr68gh1zy8ny7robe55y5svk861e</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>01.02.2026 WordPress und KI Die Zukunft der Plugin-Landschaft</title>
+    <ns>3000</ns>
+    <id>60</id>
+    <revision>
+      <id>263</id>
+      <timestamp>2026-02-03T13:01:59Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>263</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5" sha1="ahu6boht5wvhcfo3z6ob77ccec8eqof" xml:space="preserve">Hallo</text>
+      <sha1>ahu6boht5wvhcfo3z6ob77ccec8eqof</sha1>
+    </revision>
+    <revision>
+      <id>264</id>
+      <parentid>263</parentid>
+      <timestamp>2026-02-03T13:15:27Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>264</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2262" sha1="szn47f3zfrk46usfvdtcqxerswh6moy" xml:space="preserve">WordPress steht vor einem spannenden Wandel. KI-Agenten werden künftig viele klassische Plugins ersetzen können, indem sie intelligente Tipps geben und passende Lösungen vorschlagen.
+
+=== Empfehlenswerte KI-Plugins für WordPress ===
+Wer heute schon KI in WordPress nutzen möchte, sollte sich diese Plugins ansehen:
+
+* AI Engine
+* AI Power
+* Jetpack AI
+
+=== Das Problem: Fehlende Kompatibilität ===
+Leider gibt es bisher kaum verlässliche Informationen darüber, welche KI-Plugins gut zusammenarbeiten. Viele konkurrieren eher miteinander, als sich zu ergänzen. Hinzu kommt: Eigene KI-Agent-Server zu betreiben ist heute noch sehr kostspielig. Deshalb empfehle ich, auf Sprachmodell-Cloud-Dienste zu setzen.
+
+=== Empfohlene Cloud-Dienste für KI-Modelle ===
+{| class="wikitable"
+!Dienst
+!Webseite
+!Besonderheit
+|-
+|OpenRouter
+|openrouter.ai
+|Zugang zu vielen Modellen über eine API
+|-
+|Groq Cloud
+|groq.com
+|Sehr schnelle Inferenz
+|-
+|SiliconFlow
+|siliconflow.ai
+|Günstige Preise
+|-
+|Ollama Cloud
+|ollama.com
+|Einfache Nutzung, lokale Option verfügbar
+|-
+|Together AI
+|together.ai
+|Open-Source-Modelle, gutes Preis-Leistungs-Verhältnis
+|-
+|Replicate
+|replicate.com
+|Viele Modelle, Pay-per-Use
+|-
+|Anthropic
+|anthropic.com
+|Claude-Modelle, hohe Qualität
+|-
+|OpenAI
+|openai.com
+|GPT-Modelle, weit verbreitet
+|-
+|Google AI Studio
+|aistudio.google.com
+|Gemini-Modelle, großzügiges kostenloses Kontingent
+|}
+
+=== Deutsche Cloud-Dienste für KI-Modelle ===
+Wer Wert auf DSGVO-Konformität und deutsche Rechenzentren legt, findet hier passende Alternativen:
+{| class="wikitable"
+!Dienst
+!Webseite
+!Besonderheit
+|-
+|Aleph Alpha
+|aleph-alpha.com
+|Deutsches LLM „Luminous“, DSGVO-konform
+|-
+|DeepL
+|deepl.com
+|Spezialisiert auf Übersetzungen, hohe Qualität
+|-
+|Hetzner AI
+|hetzner.com
+|GPU-Server für eigene Modelle
+|-
+|IONOS AI
+|ionos.de
+|Cloud-Infrastruktur, deutsches Rechenzentrum
+|-
+|T-Systems
+|t-systems.com
+|Enterprise-Lösungen, DSGVO-konform
+|}
+
+=== Fazit ===
+WordPress bietet zwar viele Plugins und fertige Lösungen, aber für individuelle Anforderungen – besonders im Bereich KI-Integration oder spezielle Automatisierungen – gibt es noch keine perfekte Lösung. Es bleibt spannend zu beobachten, wie sich dieses Feld weiterentwickelt.</text>
+      <sha1>szn47f3zfrk46usfvdtcqxerswh6moy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blog:01.02.2026 WordPress und KI Die Zukunft der Plugin-Landschaft</title>
+    <ns>4000</ns>
+    <id>61</id>
+    <revision>
+      <id>265</id>
+      <timestamp>2026-02-03T13:30:46Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>265</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3" sha1="s17l5xyzutvgzrgt1u73x4w996f58dq" xml:space="preserve">hhh</text>
+      <sha1>s17l5xyzutvgzrgt1u73x4w996f58dq</sha1>
+    </revision>
+    <revision>
+      <id>266</id>
+      <parentid>265</parentid>
+      <timestamp>2026-02-03T13:32:14Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>266</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2262" sha1="szn47f3zfrk46usfvdtcqxerswh6moy" xml:space="preserve">WordPress steht vor einem spannenden Wandel. KI-Agenten werden künftig viele klassische Plugins ersetzen können, indem sie intelligente Tipps geben und passende Lösungen vorschlagen.
+
+=== Empfehlenswerte KI-Plugins für WordPress ===
+Wer heute schon KI in WordPress nutzen möchte, sollte sich diese Plugins ansehen:
+
+* AI Engine
+* AI Power
+* Jetpack AI
+
+=== Das Problem: Fehlende Kompatibilität ===
+Leider gibt es bisher kaum verlässliche Informationen darüber, welche KI-Plugins gut zusammenarbeiten. Viele konkurrieren eher miteinander, als sich zu ergänzen. Hinzu kommt: Eigene KI-Agent-Server zu betreiben ist heute noch sehr kostspielig. Deshalb empfehle ich, auf Sprachmodell-Cloud-Dienste zu setzen.
+
+=== Empfohlene Cloud-Dienste für KI-Modelle ===
+{| class="wikitable"
+!Dienst
+!Webseite
+!Besonderheit
+|-
+|OpenRouter
+|openrouter.ai
+|Zugang zu vielen Modellen über eine API
+|-
+|Groq Cloud
+|groq.com
+|Sehr schnelle Inferenz
+|-
+|SiliconFlow
+|siliconflow.ai
+|Günstige Preise
+|-
+|Ollama Cloud
+|ollama.com
+|Einfache Nutzung, lokale Option verfügbar
+|-
+|Together AI
+|together.ai
+|Open-Source-Modelle, gutes Preis-Leistungs-Verhältnis
+|-
+|Replicate
+|replicate.com
+|Viele Modelle, Pay-per-Use
+|-
+|Anthropic
+|anthropic.com
+|Claude-Modelle, hohe Qualität
+|-
+|OpenAI
+|openai.com
+|GPT-Modelle, weit verbreitet
+|-
+|Google AI Studio
+|aistudio.google.com
+|Gemini-Modelle, großzügiges kostenloses Kontingent
+|}
+
+=== Deutsche Cloud-Dienste für KI-Modelle ===
+Wer Wert auf DSGVO-Konformität und deutsche Rechenzentren legt, findet hier passende Alternativen:
+{| class="wikitable"
+!Dienst
+!Webseite
+!Besonderheit
+|-
+|Aleph Alpha
+|aleph-alpha.com
+|Deutsches LLM „Luminous“, DSGVO-konform
+|-
+|DeepL
+|deepl.com
+|Spezialisiert auf Übersetzungen, hohe Qualität
+|-
+|Hetzner AI
+|hetzner.com
+|GPU-Server für eigene Modelle
+|-
+|IONOS AI
+|ionos.de
+|Cloud-Infrastruktur, deutsches Rechenzentrum
+|-
+|T-Systems
+|t-systems.com
+|Enterprise-Lösungen, DSGVO-konform
+|}
+
+=== Fazit ===
+WordPress bietet zwar viele Plugins und fertige Lösungen, aber für individuelle Anforderungen – besonders im Bereich KI-Integration oder spezielle Automatisierungen – gibt es noch keine perfekte Lösung. Es bleibt spannend zu beobachten, wie sich dieses Feld weiterentwickelt.</text>
+      <sha1>szn47f3zfrk46usfvdtcqxerswh6moy</sha1>
+    </revision>
+    <revision>
+      <id>268</id>
+      <parentid>266</parentid>
+      <timestamp>2026-02-03T13:36:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>268</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2287" sha1="46pdhxhdvk7cr9bmkenj1bgm5ivrjr7" xml:space="preserve">WordPress steht vor einem spannenden Wandel. KI-Agenten werden künftig viele klassische Plugins ersetzen können, indem sie intelligente Tipps geben und passende Lösungen vorschlagen.
+
+=== Empfehlenswerte KI-Plugins für WordPress ===
+Wer heute schon KI in WordPress nutzen möchte, sollte sich diese Plugins ansehen:
+
+* AI Engine
+* AI Power
+* Jetpack AI
+
+=== Das Problem: Fehlende Kompatibilität ===
+Leider gibt es bisher kaum verlässliche Informationen darüber, welche KI-Plugins gut zusammenarbeiten. Viele konkurrieren eher miteinander, als sich zu ergänzen. Hinzu kommt: Eigene KI-Agent-Server zu betreiben ist heute noch sehr kostspielig. Deshalb empfehle ich, auf Sprachmodell-Cloud-Dienste zu setzen.
+
+=== Empfohlene Cloud-Dienste für KI-Modelle ===
+{| class="wikitable"
+!Dienst
+!Webseite
+!Besonderheit
+|-
+|OpenRouter
+|openrouter.ai
+|Zugang zu vielen Modellen über eine API
+|-
+|Groq Cloud
+|groq.com
+|Sehr schnelle Inferenz
+|-
+|SiliconFlow
+|siliconflow.ai
+|Günstige Preise
+|-
+|Ollama Cloud
+|ollama.com
+|Einfache Nutzung, lokale Option verfügbar
+|-
+|Together AI
+|together.ai
+|Open-Source-Modelle, gutes Preis-Leistungs-Verhältnis
+|-
+|Replicate
+|replicate.com
+|Viele Modelle, Pay-per-Use
+|-
+|Anthropic
+|anthropic.com
+|Claude-Modelle, hohe Qualität
+|-
+|OpenAI
+|openai.com
+|GPT-Modelle, weit verbreitet
+|-
+|Google AI Studio
+|aistudio.google.com
+|Gemini-Modelle, großzügiges kostenloses Kontingent
+|}
+
+=== Deutsche Cloud-Dienste für KI-Modelle ===
+Wer Wert auf DSGVO-Konformität und deutsche Rechenzentren legt, findet hier passende Alternativen:
+{| class="wikitable"
+!Dienst
+!Webseite
+!Besonderheit
+|-
+|Aleph Alpha
+|aleph-alpha.com
+|Deutsches LLM „Luminous“, DSGVO-konform
+|-
+|DeepL
+|deepl.com
+|Spezialisiert auf Übersetzungen, hohe Qualität
+|-
+|Hetzner AI
+|hetzner.com
+|GPU-Server für eigene Modelle
+|-
+|IONOS AI
+|ionos.de
+|Cloud-Infrastruktur, deutsches Rechenzentrum
+|-
+|T-Systems
+|t-systems.com
+|Enterprise-Lösungen, DSGVO-konform
+|}
+
+=== Fazit ===
+WordPress bietet zwar viele Plugins und fertige Lösungen, aber für individuelle Anforderungen – besonders im Bereich KI-Integration oder spezielle Automatisierungen – gibt es noch keine perfekte Lösung. Es bleibt spannend zu beobachten, wie sich dieses Feld weiterentwickelt.
+[[kategorie:01.02.2026]]</text>
+      <sha1>46pdhxhdvk7cr9bmkenj1bgm5ivrjr7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:01.02.2026</title>
+    <ns>14</ns>
+    <id>62</id>
+    <revision>
+      <id>269</id>
+      <timestamp>2026-02-03T13:37:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[Kategorie:02.2026]]“</comment>
+      <origin>269</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="4iluj9m7xmmzmr205crn7w3g7bnocze" xml:space="preserve">[[Kategorie:02.2026]]</text>
+      <sha1>4iluj9m7xmmzmr205crn7w3g7bnocze</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:02.2026</title>
+    <ns>14</ns>
+    <id>63</id>
+    <revision>
+      <id>270</id>
+      <timestamp>2026-02-03T13:38:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[Kategorie:2026]]“</comment>
+      <origin>270</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18" sha1="hviodhik46k55k802n2ffpxg0gw4j5b" xml:space="preserve">[[Kategorie:2026]]</text>
+      <sha1>hviodhik46k55k802n2ffpxg0gw4j5b</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:2026</title>
+    <ns>14</ns>
+    <id>64</id>
+    <revision>
+      <id>271</id>
+      <timestamp>2026-02-03T13:40:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[kategorie:Hauptseite]]“</comment>
+      <origin>271</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" sha1="ico7zc9f2npuib5x7j2i38ijlg5lp16" xml:space="preserve">[[kategorie:Hauptseite]]</text>
+      <sha1>ico7zc9f2npuib5x7j2i38ijlg5lp16</sha1>
+    </revision>
+    <revision>
+      <id>272</id>
+      <parentid>271</parentid>
+      <timestamp>2026-02-03T13:41:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>272</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="18" sha1="q619vqaw1befufif2dwl0cmpnlxdnne" xml:space="preserve">[[kategorie:Blog]]</text>
+      <sha1>q619vqaw1befufif2dwl0cmpnlxdnne</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Blog</title>
+    <ns>14</ns>
+    <id>65</id>
+    <revision>
+      <id>273</id>
+      <timestamp>2026-02-03T13:45:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>273</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="220" sha1="3q9ewvsxkrlqz30zzg0rh43nfi186rk" xml:space="preserve">==Willkommen auf meine Blogs Seiten==
+Hier finden Sie neue Blogartikel und Abschnitte zu verschiedenen Themen wie Technik, KI-Anwendungen, das Schreiben von MediaWiki-Extensions sowie zu ASP.NET Core MVC und Spring Boot.</text>
+      <sha1>3q9ewvsxkrlqz30zzg0rh43nfi186rk</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blog:01.02.2026 Wissenmanage System</title>
+    <ns>4000</ns>
+    <id>66</id>
+    <revision>
+      <id>274</id>
+      <timestamp>2026-02-03T13:53:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ == Wissensmanagement: Selbst bauen oder bestehende Lösungen nutzen? == Beim Aufbau eines eigenen Wissensmanagement-Systems stehen zwei Wege offen:  '''Selbst entwickeln''' (z. B. mit Webframeworks) oder auf bestehende Open-Source-Lösungen zurückgreifen.  '''Eigenbau mit Frameworks''' (wie Laravel, Symfony, Spring Boot oder ASP.NET Core) bietet maximale Flexibilität. So lassen sich individuelle Workflows, spezielle Datenmodelle oder Integrationen exak…“</comment>
+      <origin>274</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7287" sha1="ff89gqfshey30vpkog2ybxovbww3gg5" xml:space="preserve">
+== Wissensmanagement: Selbst bauen oder bestehende Lösungen nutzen? ==
+Beim Aufbau eines eigenen Wissensmanagement-Systems stehen zwei Wege offen:
+
+'''Selbst entwickeln''' (z. B. mit Webframeworks) oder auf bestehende Open-Source-Lösungen zurückgreifen.
+
+'''Eigenbau mit Frameworks''' (wie Laravel, Symfony, Spring Boot oder ASP.NET Core) bietet maximale Flexibilität. So lassen sich individuelle Workflows, spezielle Datenmodelle oder Integrationen exakt nach Bedarf umsetzen.
+
+* '''Vorteile:'''
+** Volle Kontrolle über Funktionen, Sicherheit und Datenhaltung
+** Maßgeschneiderte Anpassungen möglich
+* '''Nachteile:'''
+** Hoher Entwicklungsaufwand
+** Laufende Wartung und Updates in Eigenregie
+
+'''Open-Source-Wissensmanagement-Systeme''' (wie MediaWiki, Wiki.js, BookStack, Logseq oder Nextcloud Notes) bieten viele Funktionen „out of the box“ und lassen sich durch Plugins oder externe KI-Tools erweitern.
+
+* '''Vorteile:'''
+** Schneller Start, Community-Support
+** Erweiterbar durch Plugins, Integrationen und Automationen
+* '''Nachteile:'''
+** Anpassungen oft nur im Rahmen der Plattform möglich
+** Abhängigkeit von Updates und Ökosystem
+
+'''Beispiel:'''
+
+Wer spezielle Anforderungen hat (z. B. komplexe Rechteverwaltung, eigene KI-Workflows), profitiert vom Eigenbau. Für die meisten Teams und Organisationen sind jedoch bestehende Open-Source-Lösungen mit KI-Integration der schnellere und wartungsärmere Weg.
+
+=== KI für den Blog (Inhalte erstellen) ===
+{| class="wikitable"
+!Tool
+!Schwerpunkt
+!Popularität
+!Reifegrad
+|-
+|ChatGPT
+|Allrounder für Texterstellung
+|sehr hoch
+|Produktionsreif
+|-
+|Claude AI
+|Längere, nuancierte Texte
+|sehr hoch
+|Produktionsreif
+|-
+|Notion AI
+|Direkt im Workflow integriert
+|hoch
+|Produktionsreif
+|-
+|Perplexity AI
+|Recherche &amp; Quellenangaben
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für das Wissen strukturieren ===
+{| class="wikitable"
+!Tool
+!Beschreibung
+!Popularität
+!Reifegrad
+|-
+|Notion AI
+|Integrierte KI-Funktionen
+|sehr hoch
+|Produktionsreif
+|-
+|Obsidian
+|Mit AI-Plugins erweiterbar
+|hoch
+|Produktionsreif
+|-
+|NotebookLM
+|Google’s KI-gestütztes Notizbuch
+|hoch
+|Beta
+|}
+----
+
+=== KI für Bilder und Grafiken ===
+{| class="wikitable"
+!Tool
+!Stärke
+!Popularität
+!Reifegrad
+|-
+|DALL-E
+|OpenAI’s Bildgenerator
+|sehr hoch
+|Produktionsreif
+|-
+|Midjourney
+|Künstlerische Qualität
+|sehr hoch
+|Produktionsreif
+|-
+|Canva AI
+|Design-Integration
+|hoch
+|Produktionsreif
+|-
+|Adobe Firefly
+|Professionelle Bearbeitung
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für Video-Anleitungen ===
+{| class="wikitable"
+!Tool
+!Typ
+!Popularität
+!Reifegrad
+|-
+|Synthesia
+|Avatar-basierte Videos
+|sehr hoch
+|Produktionsreif
+|-
+|HeyGen
+|Mehrsprachige Avatare
+|hoch
+|Produktionsreif
+|-
+|Runway ML
+|Kreative Videobearbeitung
+|hoch
+|Produktionsreif
+|-
+|Descript
+|Video- &amp; Podcast-Editing
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für WordPress ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|Jetpack AI
+|Integrierter KI-Assistent für Texte
+|sehr hoch
+|Produktionsreif
+|-
+|AI Engine
+|GPT-Integration für WordPress
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für Moodle-Kurse ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|H5P
+|Interaktive Inhalte
+|sehr hoch
+|Produktionsreif
+|-
+|iSpring AI
+|E-Learning-Authoring
+|hoch
+|Produktionsreif
+|-
+|Articulate Rise
+|Mit AI-Unterstützung
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für Kurse erstellen ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|Udemy
+|Marktplatz für Kurse
+|sehr hoch
+|Produktionsreif
+|-
+|Teachable AI
+|Kursplattform mit KI-Unterstützung
+|hoch
+|Produktionsreif
+|-
+|Thinkific AI
+|Automatisierte Kursinhalte
+|hoch
+|Produktionsreif
+|-
+|Skillshare
+|Community-basiertes Lernen
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für ASP.NET Core MVC ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|Azure OpenAI Service
+|GPT-Integration via Azure
+|sehr hoch
+|Produktionsreif
+|-
+|Azure Cognitive Services
+|KI-APIs für Vision, Sprache, etc.
+|sehr hoch
+|Produktionsreif
+|-
+|Semantic Kernel
+|Microsoft’s KI-Orchestrierung
+|hoch
+|Produktionsreif
+|-
+|ML.NET
+|Machine Learning Framework
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für Spring Boot ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|Spring AI
+|Offizielles KI-Framework für Spring
+|sehr hoch
+|Produktionsreif
+|-
+|Azure OpenAI SDK
+|Azure GPT-Anbindung für Java
+|hoch
+|Produktionsreif
+|-
+|LangChain4j
+|KI-Workflows für Java
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für Laravel ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|OpenAI Laravel
+|Offizielle OpenAI-Integration
+|sehr hoch
+|Produktionsreif
+|-
+|LLPhant
+|PHP LLM Framework
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für MediaWiki ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|CirrusSearch
+|Verbesserte Suche mit ML
+|hoch
+|Produktionsreif
+|-
+|SemanticMediaWiki
+|Strukturierte Daten mit KI-Potenzial
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für Symfony ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|OpenAI PHP Client
+|GPT-Integration für PHP
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für Drupal ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|OpenAI Module
+|GPT-Integration für Drupal
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für XWiki ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|ChatGPT API
+|Custom-Integration möglich
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für TYPO3 ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|DeepL Translate
+|KI-Übersetzungen
+|hoch
+|Produktionsreif
+|-
+|AI Suite
+|KI-Erweiterung für TYPO3
+|mittel
+|Produktionsreif
+|}
+----
+
+=== Open-Source Wissensmanagement (KI-fähig) ===
+&lt;blockquote&gt;Hinweis: Bei vielen Open-Source-Systemen kommt KI über Plugins, Webhooks oder externe LLMs (z. B. '''Ollama/LocalAI''') – nicht immer als „eingebaute“ Funktion.&lt;/blockquote&gt;
+{| class="wikitable"
+!Tool
+!Wissensform
+!KI-Funktionen (typisch)
+!Lizenz
+!Reifegrad
+|-
+|Nextcloud (inkl. Notes)
+|Dateien/Notizen/Wissen im Team
+|Assistent für Zusammenfassungen, Textvorschläge, Übersetzung (je nach Setup)
+|AGPL-3.0
+|Produktionsreif
+|-
+|Logseq
+|Wissensgraph/Notizen
+|KI über Community-Plugins/Integrationen (z. B. Zusammenfassen, Q&amp;A über Notizen)
+|AGPL-3.0
+|Produktionsreif
+|-
+|Joplin
+|Notizen/Wissensdatenbank
+|KI über Plugins/Externe Integrationen (Zusammenfassen, Umformulieren, Tagging)
+|MIT
+|Produktionsreif
+|-
+|MediaWiki (+ Semantic MediaWiki)
+|Wiki/strukturierte Inhalte
+|KI via Bots/Extensions + semantische Daten als Basis für RAG/Assistenzfunktionen
+|GPL-2.0+
+|Produktionsreif
+|-
+|Wiki.js
+|Modernes Wiki
+|KI via API/Webhooks/Automationen (z. B. Generierung, Zusammenfassung, Q&amp;A)
+|AGPL-3.0
+|Produktionsreif
+|-
+|BookStack
+|Bücher/Kapitel/Seiten
+|KI meist extern (Skripte/API/Browser-Tools) für Zusammenfassung &amp; Textarbeit
+|MIT
+|Produktionsreif
+|}
+'''Praktische Open-Source-Bausteine für KI dazu (optional):'''
+
+* '''Ollama''' oder '''LocalAI''': lokale LLMs betreiben (Datenschutz/Offline).
+* '''Qdrant''': Vektordatenbank für semantische Suche (RAG).
+* '''Open WebUI''': UI für lokale LLMs (Wissensabfragen/Chat).
+* '''n8n''': Automationen (z. B. „neue Wiki-Seite → zusammenfassen → verschlagworten“; fair-code).
+*</text>
+      <sha1>ff89gqfshey30vpkog2ybxovbww3gg5</sha1>
+    </revision>
+    <revision>
+      <id>275</id>
+      <parentid>274</parentid>
+      <timestamp>2026-02-03T13:53:52Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>275</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7312" sha1="l2fywuqnrjzrg0n11uzs7xb83rgask2" xml:space="preserve">
+== Wissensmanagement: Selbst bauen oder bestehende Lösungen nutzen? ==
+Beim Aufbau eines eigenen Wissensmanagement-Systems stehen zwei Wege offen:
+
+'''Selbst entwickeln''' (z. B. mit Webframeworks) oder auf bestehende Open-Source-Lösungen zurückgreifen.
+
+'''Eigenbau mit Frameworks''' (wie Laravel, Symfony, Spring Boot oder ASP.NET Core) bietet maximale Flexibilität. So lassen sich individuelle Workflows, spezielle Datenmodelle oder Integrationen exakt nach Bedarf umsetzen.
+
+* '''Vorteile:'''
+** Volle Kontrolle über Funktionen, Sicherheit und Datenhaltung
+** Maßgeschneiderte Anpassungen möglich
+* '''Nachteile:'''
+** Hoher Entwicklungsaufwand
+** Laufende Wartung und Updates in Eigenregie
+
+'''Open-Source-Wissensmanagement-Systeme''' (wie MediaWiki, Wiki.js, BookStack, Logseq oder Nextcloud Notes) bieten viele Funktionen „out of the box“ und lassen sich durch Plugins oder externe KI-Tools erweitern.
+
+* '''Vorteile:'''
+** Schneller Start, Community-Support
+** Erweiterbar durch Plugins, Integrationen und Automationen
+* '''Nachteile:'''
+** Anpassungen oft nur im Rahmen der Plattform möglich
+** Abhängigkeit von Updates und Ökosystem
+
+'''Beispiel:'''
+
+Wer spezielle Anforderungen hat (z. B. komplexe Rechteverwaltung, eigene KI-Workflows), profitiert vom Eigenbau. Für die meisten Teams und Organisationen sind jedoch bestehende Open-Source-Lösungen mit KI-Integration der schnellere und wartungsärmere Weg.
+
+=== KI für den Blog (Inhalte erstellen) ===
+{| class="wikitable"
+!Tool
+!Schwerpunkt
+!Popularität
+!Reifegrad
+|-
+|ChatGPT
+|Allrounder für Texterstellung
+|sehr hoch
+|Produktionsreif
+|-
+|Claude AI
+|Längere, nuancierte Texte
+|sehr hoch
+|Produktionsreif
+|-
+|Notion AI
+|Direkt im Workflow integriert
+|hoch
+|Produktionsreif
+|-
+|Perplexity AI
+|Recherche &amp; Quellenangaben
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für das Wissen strukturieren ===
+{| class="wikitable"
+!Tool
+!Beschreibung
+!Popularität
+!Reifegrad
+|-
+|Notion AI
+|Integrierte KI-Funktionen
+|sehr hoch
+|Produktionsreif
+|-
+|Obsidian
+|Mit AI-Plugins erweiterbar
+|hoch
+|Produktionsreif
+|-
+|NotebookLM
+|Google’s KI-gestütztes Notizbuch
+|hoch
+|Beta
+|}
+----
+
+=== KI für Bilder und Grafiken ===
+{| class="wikitable"
+!Tool
+!Stärke
+!Popularität
+!Reifegrad
+|-
+|DALL-E
+|OpenAI’s Bildgenerator
+|sehr hoch
+|Produktionsreif
+|-
+|Midjourney
+|Künstlerische Qualität
+|sehr hoch
+|Produktionsreif
+|-
+|Canva AI
+|Design-Integration
+|hoch
+|Produktionsreif
+|-
+|Adobe Firefly
+|Professionelle Bearbeitung
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für Video-Anleitungen ===
+{| class="wikitable"
+!Tool
+!Typ
+!Popularität
+!Reifegrad
+|-
+|Synthesia
+|Avatar-basierte Videos
+|sehr hoch
+|Produktionsreif
+|-
+|HeyGen
+|Mehrsprachige Avatare
+|hoch
+|Produktionsreif
+|-
+|Runway ML
+|Kreative Videobearbeitung
+|hoch
+|Produktionsreif
+|-
+|Descript
+|Video- &amp; Podcast-Editing
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für WordPress ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|Jetpack AI
+|Integrierter KI-Assistent für Texte
+|sehr hoch
+|Produktionsreif
+|-
+|AI Engine
+|GPT-Integration für WordPress
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für Moodle-Kurse ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|H5P
+|Interaktive Inhalte
+|sehr hoch
+|Produktionsreif
+|-
+|iSpring AI
+|E-Learning-Authoring
+|hoch
+|Produktionsreif
+|-
+|Articulate Rise
+|Mit AI-Unterstützung
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für Kurse erstellen ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|Udemy
+|Marktplatz für Kurse
+|sehr hoch
+|Produktionsreif
+|-
+|Teachable AI
+|Kursplattform mit KI-Unterstützung
+|hoch
+|Produktionsreif
+|-
+|Thinkific AI
+|Automatisierte Kursinhalte
+|hoch
+|Produktionsreif
+|-
+|Skillshare
+|Community-basiertes Lernen
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für ASP.NET Core MVC ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|Azure OpenAI Service
+|GPT-Integration via Azure
+|sehr hoch
+|Produktionsreif
+|-
+|Azure Cognitive Services
+|KI-APIs für Vision, Sprache, etc.
+|sehr hoch
+|Produktionsreif
+|-
+|Semantic Kernel
+|Microsoft’s KI-Orchestrierung
+|hoch
+|Produktionsreif
+|-
+|ML.NET
+|Machine Learning Framework
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für Spring Boot ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|Spring AI
+|Offizielles KI-Framework für Spring
+|sehr hoch
+|Produktionsreif
+|-
+|Azure OpenAI SDK
+|Azure GPT-Anbindung für Java
+|hoch
+|Produktionsreif
+|-
+|LangChain4j
+|KI-Workflows für Java
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für Laravel ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|OpenAI Laravel
+|Offizielle OpenAI-Integration
+|sehr hoch
+|Produktionsreif
+|-
+|LLPhant
+|PHP LLM Framework
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für MediaWiki ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|CirrusSearch
+|Verbesserte Suche mit ML
+|hoch
+|Produktionsreif
+|-
+|SemanticMediaWiki
+|Strukturierte Daten mit KI-Potenzial
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für Symfony ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|OpenAI PHP Client
+|GPT-Integration für PHP
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für Drupal ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|OpenAI Module
+|GPT-Integration für Drupal
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für XWiki ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|ChatGPT API
+|Custom-Integration möglich
+|hoch
+|Produktionsreif
+|}
+----
+
+=== KI für TYPO3 ===
+{| class="wikitable"
+!Tool
+!Funktion
+!Popularität
+!Reifegrad
+|-
+|DeepL Translate
+|KI-Übersetzungen
+|hoch
+|Produktionsreif
+|-
+|AI Suite
+|KI-Erweiterung für TYPO3
+|mittel
+|Produktionsreif
+|}
+----
+
+=== Open-Source Wissensmanagement (KI-fähig) ===
+&lt;blockquote&gt;Hinweis: Bei vielen Open-Source-Systemen kommt KI über Plugins, Webhooks oder externe LLMs (z. B. '''Ollama/LocalAI''') – nicht immer als „eingebaute“ Funktion.&lt;/blockquote&gt;
+{| class="wikitable"
+!Tool
+!Wissensform
+!KI-Funktionen (typisch)
+!Lizenz
+!Reifegrad
+|-
+|Nextcloud (inkl. Notes)
+|Dateien/Notizen/Wissen im Team
+|Assistent für Zusammenfassungen, Textvorschläge, Übersetzung (je nach Setup)
+|AGPL-3.0
+|Produktionsreif
+|-
+|Logseq
+|Wissensgraph/Notizen
+|KI über Community-Plugins/Integrationen (z. B. Zusammenfassen, Q&amp;A über Notizen)
+|AGPL-3.0
+|Produktionsreif
+|-
+|Joplin
+|Notizen/Wissensdatenbank
+|KI über Plugins/Externe Integrationen (Zusammenfassen, Umformulieren, Tagging)
+|MIT
+|Produktionsreif
+|-
+|MediaWiki (+ Semantic MediaWiki)
+|Wiki/strukturierte Inhalte
+|KI via Bots/Extensions + semantische Daten als Basis für RAG/Assistenzfunktionen
+|GPL-2.0+
+|Produktionsreif
+|-
+|Wiki.js
+|Modernes Wiki
+|KI via API/Webhooks/Automationen (z. B. Generierung, Zusammenfassung, Q&amp;A)
+|AGPL-3.0
+|Produktionsreif
+|-
+|BookStack
+|Bücher/Kapitel/Seiten
+|KI meist extern (Skripte/API/Browser-Tools) für Zusammenfassung &amp; Textarbeit
+|MIT
+|Produktionsreif
+|}
+'''Praktische Open-Source-Bausteine für KI dazu (optional):'''
+
+* '''Ollama''' oder '''LocalAI''': lokale LLMs betreiben (Datenschutz/Offline).
+* '''Qdrant''': Vektordatenbank für semantische Suche (RAG).
+* '''Open WebUI''': UI für lokale LLMs (Wissensabfragen/Chat).
+* '''n8n''': Automationen (z. B. „neue Wiki-Seite → zusammenfassen → verschlagworten“; fair-code).
+
+
+[[kategorie:01.02.2026]]</text>
+      <sha1>l2fywuqnrjzrg0n11uzs7xb83rgask2</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blog:03.02.2026 Schaltet ein paar Anwendungen ab.</title>
+    <ns>4000</ns>
+    <id>67</id>
+    <revision>
+      <id>280</id>
+      <timestamp>2026-02-03T15:25:44Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>280</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1734" sha1="pc6tms24mheaj513ic5zgm0v7irsxtp" xml:space="preserve">Ich schalte ein paar Anwendungen ab, weil es zu viel Aufwand ist, die Inhalte zu verwalten – deshalb lösche ich WordPress, XWiki, Wiki.js, Drupal und Typo3.
+Es handelt sich um keine wichtige Wissenssammlung.
+
+Wie lösche ich WordPress auf einem Ubuntu-Server mit nginx, wenn dort eine WordPress-Instanz läuft? Beispiel: Bei mir löscht man die Datei /etc/nginx/conf.d/wordpress.conf.
+&lt;pre&gt;
+// Dieser Befehl entfernt die Konfigurationsdatei 'wordpress.conf' aus dem Verzeichnis '/etc/nginx/conf.d/' dauerhaft.
+// Vorsicht: Dieser Vorgang kann nicht rückgängig gemacht werden und kann Nginx beeinträchtigen, falls die Datei für die WordPress-Konfiguration benötigt wird.
+
+sudo rm -R /etc/nginx/conf.d/wordpress.conf
+&lt;/pre&gt;
+Ich habe das jetzt gelöscht. Ich wollte nicht verschiedene Datenbanken, die zu viel RAM fressen. Egal, keine Probleme – es ist auch besser wartbar. Ich lösche MySQL komplett. Ich bleibe dabei: Alle meine Anwendungen sind mit PostgreSQL angebunden.
+&lt;pre&gt;
+sudo systemctl stop mysql
+sudo apt-get purge mysql-server mysql-client mysql-common mysql-server-core-* mysql-client-core-*
+sudo apt-get autoremove
+sudo apt-get autoclean
+sudo rm -rf /etc/mysql /var/lib/mysql /var/log/mysql
+sudo deluser mysql
+sudo delgroup mysql
+&lt;/pre&gt;
+Ich lösche Wiki.js, das ist etwas schwieriger. Ich muss den systemctl wiki-Dienst löschen.
+&lt;pre&gt;
+sudo systemctl stop wiki
+sudo rm /etc/systemd/system/wiki.service
+sudo systemctl daemon-reload
+sudo systemctl reset-failed
+sudo rm -rf /var/www/wikijs
+# Entferne die Wiki.js-Datenbank (ersetze 'wikijs' und 'postgres' ggf. durch deine Datenbank- und Benutzer-Namen)
+sudo -u postgres psql -c "DROP DATABASE IF EXISTS wikijs;"
+exit;
+&lt;/pre&gt;
+
+Und so Weiter
+
+[[kategorie:03.02.2026]]</text>
+      <sha1>pc6tms24mheaj513ic5zgm0v7irsxtp</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:03.02.2026</title>
+    <ns>14</ns>
+    <id>68</id>
+    <revision>
+      <id>281</id>
+      <timestamp>2026-02-03T15:27:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[kategorie:2.2026]]“</comment>
+      <origin>281</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="20" sha1="h09cy2o5jpjqz7fbvoypymoygrr5bcw" xml:space="preserve">[[kategorie:2.2026]]</text>
+      <sha1>h09cy2o5jpjqz7fbvoypymoygrr5bcw</sha1>
+    </revision>
+    <revision>
+      <id>282</id>
+      <parentid>281</parentid>
+      <timestamp>2026-02-03T15:28:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>282</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="cic80xs7v27h0b5zers2dw8iuujsd5v" xml:space="preserve">[[kategorie:02.2026]]</text>
+      <sha1>cic80xs7v27h0b5zers2dw8iuujsd5v</sha1>
     </revision>
   </page>
 </mediawiki>
