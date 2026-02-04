@@ -24,6 +24,10 @@
       <namespace key="13" case="first-letter">Hilfe Diskussion</namespace>
       <namespace key="14" case="first-letter">Kategorie</namespace>
       <namespace key="15" case="first-letter">Kategorie Diskussion</namespace>
+      <namespace key="3000" case="first-letter">Nachrichten</namespace>
+      <namespace key="3001" case="first-letter">Nachrichten Diskussion</namespace>
+      <namespace key="3002" case="first-letter">Blog</namespace>
+      <namespace key="3003" case="first-letter">Blog Diskussion</namespace>
     </namespaces>
   </siteinfo>
   <page>
@@ -986,6 +990,82 @@ count=10
 
 * [[Ahrensburg Nachrichten Website]]</text>
       <sha1>6rfeb8prc7ttnki5xatgeyort7ih37d</sha1>
+    </revision>
+    <revision>
+      <id>70</id>
+      <parentid>61</parentid>
+      <timestamp>2026-02-03T22:51:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>70</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1294" sha1="5a70tvz78629rezfwzp0ja3m0hoiei9" xml:space="preserve">
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+
+
+* [[Ahrensburg Nachrichten Website]]</text>
+      <sha1>5a70tvz78629rezfwzp0ja3m0hoiei9</sha1>
+    </revision>
+    <revision>
+      <id>71</id>
+      <parentid>70</parentid>
+      <timestamp>2026-02-03T23:02:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>71</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1371" sha1="05umvzwkrhron5v8a4qcvkmbe01lhx6" xml:space="preserve">
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+==Blog Artikel==
+&lt;DynamicPageList&gt;
+namespace=Blog
+count=10
+&lt;/DynamicPageList&gt;
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+
+
+* [[Ahrensburg Nachrichten Website]]</text>
+      <sha1>05umvzwkrhron5v8a4qcvkmbe01lhx6</sha1>
     </revision>
   </page>
   <page>
@@ -2553,6 +2633,204 @@ Die italienische Küche ist berühmt für ihre Vielfalt an Pasta, Pizza, frische
 ==Fremdenzimmer==
 * [http://appartement-ferienwohnung-ahrensburg.de/ Appartement-Ferienwohnung Bandemer]: Komfortabel ausgestattete Ferienwohnungen in ruhiger Lage, ideal für längere Aufenthalte und Gäste, die Wert auf eine persönliche Atmosphäre legen. Adresse: Gorch-Fock-Straße 39, 22926 Ahrensburg, Telefon: 04102 55468</text>
       <sha1>javt4b57zvnzlztxuf2kux8j561brby</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blog:04.02.2026 Besten Bloger Website</title>
+    <ns>3002</ns>
+    <id>34</id>
+    <revision>
+      <id>72</id>
+      <timestamp>2026-02-03T23:42:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>72</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="658" sha1="hxc565jg7hnendyc4b4fjc9uvrm13or" xml:space="preserve">In Ahrensburg gibt es schöne Blogseiten. Hier sind bekannte Bloggerinnen aus Ahrensburg. Die Blogseite [https://ahrensburg-blog.de Ahrensburg-blog.de] ist sehr gut aufgebaut. Die Startseite zeigt ein Bild von Ahrensburg.
+Sie bietet Themen wie Online-Reporterin, Interviews und persönliche Tipps sowie weitere Themen wie Ausflugsziele, Nachhaltigkeit, Veranstaltungen und Kultur.
+Sie hat eine gute Bildersammlung von Ahrensburg – von alt bis neu. Die Blogseite besuche ich jeden Tag und lese gern ihre Artikel.
+
+Sie Social Media sehr aktiv wie [https://www.instagram.com/ahrensburgblog/ instagram]und ihn [https://www.facebook.com/ahrensburgblog Facebook]</text>
+      <sha1>hxc565jg7hnendyc4b4fjc9uvrm13or</sha1>
+    </revision>
+    <revision>
+      <id>73</id>
+      <parentid>72</parentid>
+      <timestamp>2026-02-03T23:47:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>73</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="665" sha1="num4fh0tytp0v6rskyjexvlrek7o15y" xml:space="preserve">In Ahrensburg gibt es schöne Blogseiten. Hier sind bekannte Bloggerinnen aus Ahrensburg. Die Blogseite [https://ahrensburg-blog.de Ahrensburg-blog.de] ist sehr gut aufgebaut. Die Startseite zeigt ein Bild von Ahrensburg.
+Sie bietet Themen wie Online-Reporterin, Interviews und persönliche Tipps sowie weitere Themen wie Ausflugsziele, Nachhaltigkeit, Veranstaltungen und Kultur.
+Sie hat eine gute Bildersammlung von Ahrensburg – von alt bis neu. Die Blogseite besuche ich jeden Tag und lese gern ihre Artikel.
+
+Sie ist auf Social Media sehr aktiv, wie [https://www.instagram.com/ahrensburgblog/ Instagram] und [https://www.facebook.com/ahrensburgblog Facebook].</text>
+      <sha1>num4fh0tytp0v6rskyjexvlrek7o15y</sha1>
+    </revision>
+    <revision>
+      <id>75</id>
+      <parentid>73</parentid>
+      <timestamp>2026-02-04T00:00:29Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>75</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="696" sha1="dcdx3eb8td5cryzwga9whg32hbph8pi" xml:space="preserve">In Ahrensburg gibt es schöne Blogseiten. Hier sind bekannte Bloggerinnen aus Ahrensburg. Die Blogseite [https://ahrensburg-blog.de Ahrensburg-blog.de] ist sehr gut aufgebaut. Die Startseite zeigt ein Bild von Ahrensburg.
+Sie bietet Themen wie Online-Reporterin, Interviews und persönliche Tipps sowie weitere Themen wie Ausflugsziele, Nachhaltigkeit, Veranstaltungen und Kultur.
+Sie hat eine gute Bildersammlung von Ahrensburg – von alt bis neu. Die Blogseite besuche ich jeden Tag und lese gern ihre Artikel.
+
+Sie ist auf Social Media sehr aktiv, wie [https://www.instagram.com/ahrensburgblog/ Instagram] und [https://www.facebook.com/ahrensburgblog Facebook].
+
+[[kategorie:Blog 04.02.2026]]</text>
+      <sha1>dcdx3eb8td5cryzwga9whg32hbph8pi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blog:04.02.2026 Beste Blogger-Website</title>
+    <ns>3002</ns>
+    <id>35</id>
+    <revision>
+      <id>74</id>
+      <timestamp>2026-02-03T23:54:00Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>74</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="665" sha1="num4fh0tytp0v6rskyjexvlrek7o15y" xml:space="preserve">In Ahrensburg gibt es schöne Blogseiten. Hier sind bekannte Bloggerinnen aus Ahrensburg. Die Blogseite [https://ahrensburg-blog.de Ahrensburg-blog.de] ist sehr gut aufgebaut. Die Startseite zeigt ein Bild von Ahrensburg.
+Sie bietet Themen wie Online-Reporterin, Interviews und persönliche Tipps sowie weitere Themen wie Ausflugsziele, Nachhaltigkeit, Veranstaltungen und Kultur.
+Sie hat eine gute Bildersammlung von Ahrensburg – von alt bis neu. Die Blogseite besuche ich jeden Tag und lese gern ihre Artikel.
+
+Sie ist auf Social Media sehr aktiv, wie [https://www.instagram.com/ahrensburgblog/ Instagram] und [https://www.facebook.com/ahrensburgblog Facebook].</text>
+      <sha1>num4fh0tytp0v6rskyjexvlrek7o15y</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Blog 04.02.2026</title>
+    <ns>14</ns>
+    <id>36</id>
+    <revision>
+      <id>76</id>
+      <timestamp>2026-02-04T00:01:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[kategorie:Blog 02.2026]]“</comment>
+      <origin>76</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="26" sha1="dwkj7cyrqb1vu9ore7pw9ydauo2lpyl" xml:space="preserve">[[kategorie:Blog 02.2026]]</text>
+      <sha1>dwkj7cyrqb1vu9ore7pw9ydauo2lpyl</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Blog 02.2026</title>
+    <ns>14</ns>
+    <id>37</id>
+    <revision>
+      <id>77</id>
+      <timestamp>2026-02-04T00:02:04Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „kategorie:Blog 2026“</comment>
+      <origin>77</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="21" sha1="q3b1hm3i3m1q1g104l95m6zgeh5rpfj" xml:space="preserve">[[kategorie:Blog 2026</text>
+      <sha1>q3b1hm3i3m1q1g104l95m6zgeh5rpfj</sha1>
+    </revision>
+    <revision>
+      <id>78</id>
+      <parentid>77</parentid>
+      <timestamp>2026-02-04T00:02:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>78</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="40" sha1="ft2yo1uyjvrnjbui4knlwsjprfeox5e" xml:space="preserve">&lt;nowiki&gt;[[kategorie:Blog 2026]]&lt;/nowiki&gt;</text>
+      <sha1>ft2yo1uyjvrnjbui4knlwsjprfeox5e</sha1>
+    </revision>
+    <revision>
+      <id>79</id>
+      <parentid>78</parentid>
+      <timestamp>2026-02-04T00:02:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>79</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="23" sha1="94ts9t4b1gdk8xfy8dwnaz6qh692t69" xml:space="preserve">[[kategorie:Blog 2026]]</text>
+      <sha1>94ts9t4b1gdk8xfy8dwnaz6qh692t69</sha1>
+    </revision>
+    <revision>
+      <id>82</id>
+      <parentid>79</parentid>
+      <timestamp>2026-02-04T00:03:55Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>82</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" sha1="cfulkqayfhacpr4golmws46k0cvnine" xml:space="preserve">[[kategorie:Blogs 2026]]</text>
+      <sha1>cfulkqayfhacpr4golmws46k0cvnine</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Blog 2026</title>
+    <ns>14</ns>
+    <id>38</id>
+    <revision>
+      <id>80</id>
+      <timestamp>2026-02-04T00:03:20Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „kategorie:Blog“</comment>
+      <origin>80</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="16" sha1="njriz6t0nu0eh51mltp57a40flxmbom" xml:space="preserve">[[kategorie:Blog</text>
+      <sha1>njriz6t0nu0eh51mltp57a40flxmbom</sha1>
+    </revision>
+    <revision>
+      <id>81</id>
+      <parentid>80</parentid>
+      <timestamp>2026-02-04T00:03:42Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>81</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="19" sha1="9ddbw5q63xp2qqqf5o684k0ckkx6n0w" xml:space="preserve">[[kategorie:Blogs]]</text>
+      <sha1>9ddbw5q63xp2qqqf5o684k0ckkx6n0w</sha1>
     </revision>
   </page>
 </mediawiki>

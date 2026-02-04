@@ -9293,6 +9293,372 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
 |}</text>
       <sha1>9unrfqt5xiblikfieq9y78vhifm1tkd</sha1>
     </revision>
+    <revision>
+      <id>284</id>
+      <parentid>279</parentid>
+      <timestamp>2026-02-03T20:27:47Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* 6.1 KI-Agenten im CMS */</comment>
+      <origin>284</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2652" sha1="k2dc2w2xecfnbbxefiz2e37znfqg3lq" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.org WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|-
+| [https://typo3.org TYPO3]
+| PHP
+| Leistungsstarkes, flexibles Open-Source-CMS für mittlere bis große Websites; umfangreiche Rechteverwaltung, Multisite-Fähigkeit, hohe Skalierbarkeit
+| [[CMS/Typo3|TYPO3]]
+|}
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://www.xwiki.org/ xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://js.wiki/ wikijs]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+
+|}
+
+===6.2 CMS-Werkzeuge===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|-
+| [WordPress Post]
+| VS Code
+| Visual Studio Code Erweiterung zum Veröffentlichen von Markdown-Artikeln direkt auf WordPress; erleichtert das Schreiben von Blog-Beiträgen in Markdown
+| [[CMS/WordPress/VSCode-Extension|WordPress Post]]
+|-
+| [Wikitext]
+| VS Code
+| Visual Studio Code Erweiterung zum Bearbeiten von MediaWiki-Seiten; unterstützt Syntax-Highlighting und direktes Veröffentlichen
+| [[CMS/MediaWiki/VSCode-Extension|Wikitext]]
+|}</text>
+      <sha1>k2dc2w2xecfnbbxefiz2e37znfqg3lq</sha1>
+    </revision>
+    <revision>
+      <id>287</id>
+      <parentid>284</parentid>
+      <timestamp>2026-02-03T21:06:18Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* 6.2 CMS-Werkzeuge */</comment>
+      <origin>287</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2650" sha1="dp6sy6cpapi9dlxud41nlpad19govcl" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.org WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|-
+| [https://typo3.org TYPO3]
+| PHP
+| Leistungsstarkes, flexibles Open-Source-CMS für mittlere bis große Websites; umfangreiche Rechteverwaltung, Multisite-Fähigkeit, hohe Skalierbarkeit
+| [[CMS/Typo3|TYPO3]]
+|}
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://www.xwiki.org/ xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://js.wiki/ wikijs]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+
+|}
+
+===6.2 CMS-Werkzeuge===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|-
+| [WordPress Post]
+| VS Code
+| Visual Studio Code Erweiterung zum Veröffentlichen von Markdown-Artikeln direkt auf WordPress; erleichtert das Schreiben von Blog-Beiträgen in Markdown
+| [[CMS/WordPress/VSCode-Extension|WordPress Post]]
+|-
+| Wikitext
+| VS Code
+| Visual Studio Code Erweiterung zum Bearbeiten von MediaWiki-Seiten; unterstützt Syntax-Highlighting und direktes Veröffentlichen
+| [[CMS/MediaWiki/VSCode-Extension|Wikitext]]
+|}</text>
+      <sha1>dp6sy6cpapi9dlxud41nlpad19govcl</sha1>
+    </revision>
+    <revision>
+      <id>288</id>
+      <parentid>287</parentid>
+      <timestamp>2026-02-03T21:06:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* 6.2 CMS-Werkzeuge */</comment>
+      <origin>288</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2648" sha1="h8vj26bc07vlp31pw61s0crk65prx19" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://wordpress.org WordPress]
+| PHP
+| Das weltweit meistgenutzte Open-Source-CMS; einfach zu bedienen, riesige Plugin- und Theme-Auswahl, geeignet für Blogs und Websites aller Art
+| [[CMS/WordPress|WordPress]]
+|- 
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|-
+| [https://typo3.org TYPO3]
+| PHP
+| Leistungsstarkes, flexibles Open-Source-CMS für mittlere bis große Websites; umfangreiche Rechteverwaltung, Multisite-Fähigkeit, hohe Skalierbarkeit
+| [[CMS/Typo3|TYPO3]]
+|}
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|-
+| [https://www.xwiki.org/ xwiki]
+| Java
+| Sehr anpassbar, unterstützt strukturierte Daten, Rechteverwaltung, geeignet für Unternehmenswikis
+| [[CMS/XWiki|XWiki]]
+|-
+| [https://js.wiki/ wikijs]
+| Node.js
+| Modernes Open-Source-Wiki mit Markdown-Editor, Git-Integration und Rollen-/Rechteverwaltung; geeignet für Teams und interne Dokumentation
+| [[CMS/Wiki.js|Wiki.js]]
+
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+
+|}
+
+===6.2 CMS-Werkzeuge===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|-
+| WordPress Post
+| VS Code
+| Visual Studio Code Erweiterung zum Veröffentlichen von Markdown-Artikeln direkt auf WordPress; erleichtert das Schreiben von Blog-Beiträgen in Markdown
+| [[CMS/WordPress/VSCode-Extension|WordPress Post]]
+|-
+| Wikitext
+| VS Code
+| Visual Studio Code Erweiterung zum Bearbeiten von MediaWiki-Seiten; unterstützt Syntax-Highlighting und direktes Veröffentlichen
+| [[CMS/MediaWiki/VSCode-Extension|Wikitext]]
+|}</text>
+      <sha1>h8vj26bc07vlp31pw61s0crk65prx19</sha1>
+    </revision>
   </page>
   <page>
     <title>CMS/Drupal</title>
@@ -19440,6 +19806,202 @@ Und so Weiter
       <format>text/x-wiki</format>
       <text bytes="21" sha1="cic80xs7v27h0b5zers2dw8iuujsd5v" xml:space="preserve">[[kategorie:02.2026]]</text>
       <sha1>cic80xs7v27h0b5zers2dw8iuujsd5v</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blog:03.02.2026 – Inhalt verwalten</title>
+    <ns>4000</ns>
+    <id>69</id>
+    <revision>
+      <id>283</id>
+      <timestamp>2026-02-03T19:22:34Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>283</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2717" sha1="sbsot4mooscn49j5swb2fulkhifhfxm" xml:space="preserve">Heute möchte ich über ein Thema sprechen, das mir am Herzen liegt: Ich bin kein Freund des Gutenberg-Editors von WordPress, des Drupal Canvas, des RTE in Typo3 oder des CKEditor. Ich möchte diese Web-Tools nicht schlechtmachen – sie haben ihre Berechtigung und viele Vorteile.
+Ich persönlich bin jedoch ein großer Fan des „Code as Docs“-Prinzips. Das bedeutet, dass ich meine Dokumentation direkt beim Programmieren, zum Beispiel in Visual Studio Code, schreibe. Für mich fühlt sich das natürlicher und freier an als die Arbeit mit klassischen Editoren wie WordPress. Dort habe ich oft das Gefühl, nicht die absolute Freiheit zu haben, die ich mir wünsche.
+Ich arbeite gern mit Markdown, AsciiDoc, LaTeX und Wikitext, weil ich so bessere Kontrolle habe.
+
+==Beispielsprachen==
+* Markdown
+* AsciiDoc
+* LaTeX
+* Wikitext
+
+==Beispieldiagramme==
+* Mermaid.js
+* PlantUML
+
+In Visual Studio Code gibt es zwei gute Erweiterungen: Wikitext und WordPress Post. Damit kann ich in Visual Studio Code bleiben.
+
+==Wikitext==
+Die Wikitext-Erweiterung für Visual Studio Code ermöglicht das Bearbeiten und die Vorschau von Wikitext-Dateien direkt im Editor. Ich kann Inhalte bearbeiten, dann herunterladen und hochladen.
+
+==WordPress Post==
+Die WordPress Post-Erweiterung für Visual Studio Code ermöglicht das direkte Veröffentlichen und Bearbeiten von Beiträgen auf einer WordPress-Seite aus dem Editor heraus. Sie unterstützt das Abrufen, Bearbeiten und Hochladen von Beiträgen, sodass ich meine Inhalte bequem in Visual Studio Code verwalten kann, ohne das WordPress-Backend öffnen zu müssen. Mit Markdown und Frontmatter.
+
+Beispiel-Code mit MediaWiki:
+&lt;pre&gt;
+==Hallo==
+[[Kategorie:Hallo]]
+&lt;/pre&gt;
+
+Beispiel-Code mit WordPress:
+&lt;pre&gt;
+---
+title: Sample documents of extension "WordPress Post"
+status: publish
+date: "2021-12-31T23:00:00"
+categories: [vscode]
+tags: [vscode, typescript]
+---
+## Hallo
+&lt;/pre&gt;
+
+Ein weiteres gutes Tool ist Frontmatter in Visual Studio Code.  
+Mit Frontmatter kann ich Markdown-basierte Inhalte und Metadaten (wie Titel, Kategorien, Veröffentlichungsdatum) einfach verwalten. Die Erweiterung bietet eine benutzerfreundliche Oberfläche zur Organisation und Bearbeitung von Inhalten für statische Seitengeneratoren wie Hugo oder Jekyll direkt im Editor.  
+Ich arbeite nicht mit WordPress, weil es mit MySQL funktioniert. Mein Server verwendet PostgreSQL, nicht MySQL. Ich wollte nicht zwei Datenbanken nutzen.
+
+==Static Site Generator==
+Ich mag Static Site Generatoren nicht so gern, weil man bei sehr großen Dokumenten leicht die Übersicht verlieren kann.
+Ich möchte später Text auf KI anwenden und programmieren. Den Inhalt möchte ich exportieren und weiterverwenden können.</text>
+      <sha1>sbsot4mooscn49j5swb2fulkhifhfxm</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>CMS/Drupal/AI</title>
+    <ns>0</ns>
+    <id>70</id>
+    <revision>
+      <id>285</id>
+      <timestamp>2026-02-03T20:55:26Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>285</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2733" sha1="hzzlb3go9067qsomaufna2q3oaldvov" xml:space="preserve">==Drupal AI==
+'''Drupal AI''' ist eine Erweiterung für das Drupal Content-Management-System, die künstliche Intelligenz nutzt, um Inhalte zu generieren, zu analysieren und zu optimieren. Sie kann beispielsweise automatische Textvorschläge liefern, Bilder klassifizieren oder die Suchfunktion verbessern. Die Integration von AI-Tools ermöglicht eine effizientere Verwaltung und Personalisierung von Webseiteninhalten.
+==Drupal AI Installieren==
+Gehe in das Verzeichnis, in dem Drupal installiert ist, und führe Folgendes aus.
+&lt;pre&gt;
+composer require drupal/ai 
+&lt;/pre&gt;
+Gehen Sie auf Ihre Drupal-Startseite, loggen Sie sich ein, navigieren Sie zu "Erweiterungen" (/admin/modules) und aktivieren Sie das Hauptmodul AI sowie gewünschte Submodule wie AI CKEditor (für den Texteditor).
+==KI-Provider anbinden (API-Key)==
+Um einen KI-Provider wie OpenAI oder Azure OpenAI anzubinden, benötigen Sie einen API-Key. Gehen Sie wie folgt vor:
+
+# Schritt 1: API-Key besorgen
+Registrieren Sie sich beim gewünschten KI-Anbieter (z.B. [OpenAI](https://platform.openai.com/) oder [Azure OpenAI](https://azure.microsoft.com/de-de/products/ai-services/openai-service/)) und generieren Sie einen API-Key.
+
+# Schritt 2: API-Key in Drupal hinterlegen
+1. Navigieren Sie in Ihrem Drupal-Backend zu **Konfiguration** → **Künstliche Intelligenz** (z.B. `/admin/config/services/ai`).
+2. Tragen Sie dort Ihren API-Key und ggf. weitere Zugangsdaten (z.B. Endpoint, Modell) ein.
+3. Speichern Sie die Einstellungen.
+
+# Schritt 3: Verbindung testen
+Testen Sie die Verbindung, indem Sie eine Beispielanfrage stellen oder die Statusanzeige im Konfigurationsbereich prüfen.
+
+==Automatisierung mit AI Automators (No-Code)==
+Mit den **AI Automators** kannst du die Generierung von Feldinhalten automatisieren – ganz ohne Programmierung.
+
+Beispiel: Du schreibst einen langen Text im Feld „Body“, und die KI füllt automatisch das Feld „Zusammenfassung“ oder generiert passende „Tags“.
+
+So gehst du vor:
+
+# Schritt 1: Felder vorbereiten
+Gehe zu deinem gewünschten Inhaltstyp (z.B. Artikel) unter **Struktur** → **Inhaltstypen** → *Felder verwalten*.
+
+# Schritt 2: AI Automator aktivieren
+Bearbeite das gewünschte Feld (z.B. ein Textfeld) und aktiviere die Option **Enable AI Automator**.
+
+# Schritt 3: Modell und Prompt wählen
+Wähle das gewünschte KI-Modell und gib einen Prompt ein, z.B.:  
+„Fasse den Text aus dem Feld ‚Body‘ in drei Sätzen zusammen.“
+
+# Schritt 4: Speichern und testen
+Speichere die Einstellungen. Beim Erstellen oder Bearbeiten eines Inhalts wird das Feld nun automatisch durch die KI befüllt.
+
+Mit dieser Funktion kannst du Arbeitsabläufe effizient automatisieren und Inhalte konsistent anreichern lassen.</text>
+      <sha1>hzzlb3go9067qsomaufna2q3oaldvov</sha1>
+    </revision>
+    <revision>
+      <id>286</id>
+      <parentid>285</parentid>
+      <timestamp>2026-02-03T20:58:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>286</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2754" sha1="9oc3r4xrz7mq2iklsv948fhfqffw4wz" xml:space="preserve">== Drupal AI ==
+'''Drupal AI''' ist eine Erweiterung für das Drupal Content-Management-System, die künstliche Intelligenz nutzt, um Inhalte zu generieren, zu analysieren und zu optimieren. Sie kann beispielsweise automatische Textvorschläge liefern, Bilder klassifizieren oder die Suchfunktion verbessern. Die Integration von AI-Tools ermöglicht eine effizientere Verwaltung und Personalisierung von Webseiteninhalten.
+
+== Drupal AI installieren ==
+Gehe in das Verzeichnis, in dem Drupal installiert ist, und führe Folgendes aus:
+&lt;syntaxhighlight lang="bash"&gt;
+composer require drupal/ai
+&lt;/syntaxhighlight&gt;
+Gehe auf deine Drupal-Startseite, logge dich ein, navigiere zu '''Erweiterungen''' (''/admin/modules'') und aktiviere das Hauptmodul AI sowie gewünschte Submodule wie AI CKEditor (für den Texteditor).
+
+== KI-Provider anbinden (API-Key) ==
+Um einen KI-Provider wie OpenAI oder Azure OpenAI anzubinden, benötigst du einen API-Schlüssel. Gehe wie folgt vor:
+
+; Schritt 1: API-Schlüssel besorgen
+: Registriere dich beim gewünschten KI-Anbieter ([https://platform.openai.com/ OpenAI] oder [https://azure.microsoft.com/de-de/products/ai-services/openai-service/ Azure OpenAI]) und generiere einen API-Schlüssel.
+
+; Schritt 2: API-Schlüssel in Drupal hinterlegen
+# Navigiere in deinem Drupal-Backend zu '''Konfiguration''' → '''Künstliche Intelligenz''' (z.&amp;nbsp;B. &lt;code&gt;/admin/config/services/ai&lt;/code&gt;).
+# Trage dort deinen API-Schlüssel und ggf. weitere Zugangsdaten (z.&amp;nbsp;B. Endpoint, Modell) ein.
+# Speichere die Einstellungen.
+
+; Schritt 3: Verbindung testen
+: Teste die Verbindung, indem du eine Beispielanfrage stellst oder die Statusanzeige im Konfigurationsbereich prüfst.
+
+== Automatisierung mit AI Automators (No-Code) ==
+Mit den '''AI Automators''' kannst du die Generierung von Feldinhalten automatisieren – ganz ohne Programmierung.
+
+Beispiel: Du schreibst einen langen Text im Feld „Body“, und die KI füllt automatisch das Feld „Zusammenfassung“ oder generiert passende „Tags“.
+
+So gehst du vor:
+
+# Felder vorbereiten: Gehe zu deinem gewünschten Inhaltstyp (z.B. Artikel) unter '''Struktur''' → '''Inhaltstypen''' → ''Felder verwalten''.
+# AI Automator aktivieren: Bearbeite das gewünschte Feld (z.B. ein Textfeld) und aktiviere die Option '''Enable AI Automator'''.
+# Modell und Prompt wählen: Wähle das gewünschte KI-Modell und gib einen Prompt ein, z.B.: „Fasse den Text aus dem Feld ‚Body‘ in drei Sätzen zusammen.“
+# Speichern und testen: Speichere die Einstellungen. Beim Erstellen oder Bearbeiten eines Inhalts wird das Feld nun automatisch durch die KI befüllt.
+
+Mit dieser Funktion kannst du Arbeitsabläufe effizient automatisieren und Inhalte konsistent anreichern lassen.</text>
+      <sha1>9oc3r4xrz7mq2iklsv948fhfqffw4wz</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>CMS/WordPress/VSCode-Extension</title>
+    <ns>0</ns>
+    <id>71</id>
+    <revision>
+      <id>289</id>
+      <timestamp>2026-02-03T21:11:08Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>289</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="270" sha1="em4qajweb0m9akl8go6dwonaqhqcep7" xml:space="preserve">Viele Autoren bevorzugen das Schreiben in Markdown statt das Klicken im WordPress-Editor. In Visual Studio Code kann man Texte schnell und unkompliziert verfassen. Spezielle Tools ermöglichen es, diese Markdown-Texte direkt und formatiert nach WordPress zu übertragen.</text>
+      <sha1>em4qajweb0m9akl8go6dwonaqhqcep7</sha1>
     </revision>
   </page>
 </mediawiki>
