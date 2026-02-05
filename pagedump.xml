@@ -1067,6 +1067,48 @@ count=10
 * [[Ahrensburg Nachrichten Website]]</text>
       <sha1>05umvzwkrhron5v8a4qcvkmbe01lhx6</sha1>
     </revision>
+    <revision>
+      <id>85</id>
+      <parentid>71</parentid>
+      <timestamp>2026-02-04T02:49:48Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Blog Artikel */</comment>
+      <origin>85</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1372" sha1="g75cl9ri3j2cql0hgon2vwedl5yx9kj" xml:space="preserve">
+== Inoffizielle Stadtseite von Ahrensburg – Dokumente ==
+Dokumentensammlung: Texte über Ahrensburg
+
+== Eine Wissensdatenbank über Ahrensburg ==
+Dies ist eine private Sammlung, die jeder nutzen, herunterladen und weiterbearbeiten kann. Leider können Sie die Website nicht direkt bearbeiten, da keine Nutzerdaten gespeichert werden. In Deutschland gibt es keine gemeinfreien Lizenzen wie in den USA. Die Inhalte stehen jedoch unter einer freien Lizenz und können weiterverwendet werden. Unten finden Sie weitere Informationen zur Lizenz „Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International“: [https://creativecommons.org/licenses/by-sa/4.0/ Namensnennung – Weitergabe unter gleichen Bedingungen 4.0 International].
+
+Wenn Sie Texte im Internet veröffentlichen möchten, sollten diese umformuliert werden, da Suchmaschinen doppelte Inhalte nicht bevorzugen. Wenn Sie ein Buch schreiben oder Texte ausdrucken möchten, genügt es, meine Homepage-Adresse anzugeben.
+==Nachrichten==
+&lt;DynamicPageList&gt;
+namespace=Nachrichten
+count=10
+&lt;/DynamicPageList&gt;
+==Blog Artikel==
+&lt;DynamicPageList&gt;
+namespace=Blog
+count=10
+&lt;/DynamicPageList&gt;
+
+== Allgemeines ==
+* [[Geschichte &amp; Allgemeines]]
+* [[Sehenswürdigkeiten &amp; Kultur]]
+* [[Alltag &amp; Leben in Ahrensburg]]
+* [[Natur &amp; Freizeit]]
+* [[Infrastruktur &amp; Wirtschaft]]
+
+
+* [[Ahrensburg Nachrichten Website]]</text>
+      <sha1>g75cl9ri3j2cql0hgon2vwedl5yx9kj</sha1>
+    </revision>
   </page>
   <page>
     <title>Geschichte &amp; Allgemeines</title>
@@ -2831,6 +2873,116 @@ Sie ist auf Social Media sehr aktiv, wie [https://www.instagram.com/ahrensburgbl
       <format>text/x-wiki</format>
       <text bytes="19" sha1="9ddbw5q63xp2qqqf5o684k0ckkx6n0w" xml:space="preserve">[[kategorie:Blogs]]</text>
       <sha1>9ddbw5q63xp2qqqf5o684k0ckkx6n0w</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blog:04.02.2026 Zwischen Frost und Vorfreude in Ahrensburg</title>
+    <ns>3002</ns>
+    <id>39</id>
+    <revision>
+      <id>83</id>
+      <timestamp>2026-02-04T02:44:41Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>83</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1304" sha1="q66sq0pj6fxri4ebnt6nxm393zihllx" xml:space="preserve">Guten Morgen aus Ahrensburg!
+
+Trotz Frost und Kälte lohnt sich ein Spaziergang zum Schlosspark. Die Luft ist frisch, und auch wenn der Frühling noch auf sich warten lässt, gibt es draußen immer etwas zu entdecken.
+Mit warmer Kleidung lässt sich der Winter gut aushalten. Die Fenster sind leicht beschlagen, und der Atem wird in der kalten Luft sichtbar.
+Bis das erste Grün kommt, genießen wir die ruhige Stimmung rund ums Schloss und freuen uns auf die kommenden, wärmeren Tage.
+Jetzt gehen wir zum Schloss Ahrensburg. Am Schlossteich setzen wir uns hin und beobachten die Enten, sofern sie nicht eingefroren sind. Danach machen wir einen Rundgang durch den Schlosspark und besichtigen das Schloss von innen, in dem einst die Familien Rantzau und Schimmelmann gelebt haben.
+Anschließend besuchen wir die Schlosskirche, deren Inneres malerisch wirkt und in der der Adel einst prunkvoll lebte. Nun schlendern wir langsam Richtung Innenstadt. Um 11 Uhr öffnet das Zeitlos Restaurant, dort kann man sich aufwärmen. Wer möchte, kann günstig essen oder einen Kaffee im Caligo Coffee trinken und sich entspannen.
+Danach gehen wir nach Hause und machen einen kleinen Mittagsschlaf, bis es wieder wärmer wird. Am Abend schauen wir Fernsehen oder genießen einfach die Ruhe, bevor wir schlafen gehen.</text>
+      <sha1>q66sq0pj6fxri4ebnt6nxm393zihllx</sha1>
+    </revision>
+    <revision>
+      <id>84</id>
+      <parentid>83</parentid>
+      <timestamp>2026-02-04T02:48:49Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>84</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1335" sha1="42qfaff07e98r3u8dtrkiixxfw5wyiv" xml:space="preserve">Guten Morgen aus Ahrensburg!
+
+Trotz Frost und Kälte lohnt sich ein Spaziergang zum Schlosspark. Die Luft ist frisch, und auch wenn der Frühling noch auf sich warten lässt, gibt es draußen immer etwas zu entdecken.
+Mit warmer Kleidung lässt sich der Winter gut aushalten. Die Fenster sind leicht beschlagen, und der Atem wird in der kalten Luft sichtbar.
+Bis das erste Grün kommt, genießen wir die ruhige Stimmung rund ums Schloss und freuen uns auf die kommenden, wärmeren Tage.
+Jetzt gehen wir zum Schloss Ahrensburg. Am Schlossteich setzen wir uns hin und beobachten die Enten, sofern sie nicht eingefroren sind. Danach machen wir einen Rundgang durch den Schlosspark und besichtigen das Schloss von innen, in dem einst die Familien Rantzau und Schimmelmann gelebt haben.
+Anschließend besuchen wir die Schlosskirche, deren Inneres malerisch wirkt und in der der Adel einst prunkvoll lebte. Nun schlendern wir langsam Richtung Innenstadt. Um 11 Uhr öffnet das Zeitlos Restaurant, dort kann man sich aufwärmen. Wer möchte, kann günstig essen oder einen Kaffee im Caligo Coffee trinken und sich entspannen.
+Danach gehen wir nach Hause und machen einen kleinen Mittagsschlaf, bis es wieder wärmer wird. Am Abend schauen wir Fernsehen oder genießen einfach die Ruhe, bevor wir schlafen gehen.
+
+[[kategorie:Blog 04.02.2026]]</text>
+      <sha1>42qfaff07e98r3u8dtrkiixxfw5wyiv</sha1>
+    </revision>
+    <revision>
+      <id>86</id>
+      <parentid>84</parentid>
+      <timestamp>2026-02-04T12:55:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>86</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1336" sha1="99yhcu0jha5nm04ko0o6msdrh62zsnn" xml:space="preserve">Guten Morgen aus Ahrensburg!
+
+Trotz Frost und Kälte lohnt sich ein Spaziergang zum Schlosspark. Die Luft ist frisch, und auch wenn der Frühling noch auf sich warten lässt, gibt es draußen immer etwas zu entdecken.
+Mit warmer Kleidung lässt sich der Winter gut aushalten. Die Fenster sind leicht beschlagen, und der Atem wird in der kalten Luft sichtbar.
+Bis das erste Grün kommt, genießen wir die ruhige Stimmung rund ums Schloss und freuen uns auf die kommenden, wärmeren Tage.
+Jetzt gehen wir zum Schloss Ahrensburg. Am Schlossteich setzen wir uns hin und beobachten die Enten, sofern sie nicht eingefroren sind. Danach machen wir einen Rundgang durch den Schlosspark und besichtigen das Schloss von innen, in dem einst die Familien Rantzau und Schimmelmann gelebt haben.
+Anschließend besuchen wir die Schlosskirche, deren Inneres malerisch wirkt und in der der Adel einst prunkvoll lebte. Nun schlendern wir langsam Richtung Innenstadt. Um 11 Uhr öffnet das Zeitlos Restaurant, dort kann man sich aufwärmen. Wer möchte, kann günstig essen oder einen Kaffee im Caligo Coffee trinken und sich entspannen.
+Danach gehen wir nach Hause und machen einen kleinen Mittagsschlaf, bis es wieder wärmer wird. Am Abend schauen wir Fernsehen oder genießen einfach die Ruhe, bevor wir schlafen gehen.
+
+[[kategorie:Blogs 04.02.2026]]</text>
+      <sha1>99yhcu0jha5nm04ko0o6msdrh62zsnn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Blogs 04.02.2026</title>
+    <ns>14</ns>
+    <id>40</id>
+    <revision>
+      <id>87</id>
+      <timestamp>2026-02-04T12:55:58Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[Kategorie:Blogs 02.2026]]“</comment>
+      <origin>87</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="27" sha1="0i0mrh3fr8e6cgkax7fyuig72mliqdf" xml:space="preserve">[[Kategorie:Blogs 02.2026]]</text>
+      <sha1>0i0mrh3fr8e6cgkax7fyuig72mliqdf</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Kategorie:Blogs 02.2026</title>
+    <ns>14</ns>
+    <id>41</id>
+    <revision>
+      <id>88</id>
+      <timestamp>2026-02-04T12:56:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „[[Kategorie:Blogs 2026]]“</comment>
+      <origin>88</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="24" sha1="6jp4i8d1ghjqpouf2gzatceu5nr2ec8" xml:space="preserve">[[Kategorie:Blogs 2026]]</text>
+      <sha1>6jp4i8d1ghjqpouf2gzatceu5nr2ec8</sha1>
     </revision>
   </page>
 </mediawiki>

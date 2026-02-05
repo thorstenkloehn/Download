@@ -9659,6 +9659,203 @@ code --profile "AI Assistant by JetBrains" --install-extension JetBrains.jetbrai
 |}</text>
       <sha1>h8vj26bc07vlp31pw61s0crk65prx19</sha1>
     </revision>
+    <revision>
+      <id>290</id>
+      <parentid>288</parentid>
+      <timestamp>2026-02-05T03:42:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>290</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1838" sha1="j184iz37xn7mwd75eanyo63jji77o20" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|}
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+
+|}
+
+===6.2 CMS-Werkzeuge===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|-
+| WordPress Post
+| VS Code
+| Visual Studio Code Erweiterung zum Veröffentlichen von Markdown-Artikeln direkt auf WordPress; erleichtert das Schreiben von Blog-Beiträgen in Markdown
+| [[CMS/WordPress/VSCode-Extension|WordPress Post]]
+|-
+| Wikitext
+| VS Code
+| Visual Studio Code Erweiterung zum Bearbeiten von MediaWiki-Seiten; unterstützt Syntax-Highlighting und direktes Veröffentlichen
+| [[CMS/MediaWiki/VSCode-Extension|Wikitext]]
+|}</text>
+      <sha1>j184iz37xn7mwd75eanyo63jji77o20</sha1>
+    </revision>
+    <revision>
+      <id>291</id>
+      <parentid>290</parentid>
+      <timestamp>2026-02-05T03:47:50Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>291</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1600" sha1="mvtv39u14g5dxlgkypjqc6ofpvubvbo" xml:space="preserve">== 1. Reine CMS ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://www.drupal.org Drupal]
+| PHP
+| Flexibles Open-Source-CMS mit starkem Rechtesystem, Modulen und Themen; gut für komplexe Websites und Portale
+| [[CMS/Drupal|Drupal]]
+|}
+
+== 2. Wiki-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://ahrensburg.city Mediawiki]
+| PHP
+| Wikipedia-Software, für sehr große Wikis
+| [[CMS/MediaWiki|Mediawiki]]
+|}
+
+== 4. Wiki-Eigenbau-System ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Dokumente
+! Kurs
+|-
+| 
+| ASP.NET Core MVC
+| Mein erstes Wiki
+| [https://erstes-wiki-doc.ahrensburg.city Dokumente]
+| [[Kurse/Asp net core mvc/wiki|Kurs]]
+|}
+
+== 5. LMS-Systeme ==
+{| class="wikitable"
+! Name
+! Sprache
+! Beschreibung
+! Doc
+|-
+| [https://lernen.ahrensburg.city Moodle]
+| PHP
+| Weit verbreitetes Open-Source-Lernmanagementsystem
+| [[LMS/Moodle|Moodle]]
+|}
+== 6.Agentic AI &amp; Autonome Workflows==
+===6.1 KI-Agenten im CMS===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|- 
+| [https://www.drupal.org/project/ai AI Module (Drupal)]
+| Drupal
+| Modul zur Integration von KI-Funktionen wie Textgenerierung, Bildgenerierung und Chatbots in Drupal; unterstützt verschiedene KI-Modelle und APIs
+| [[CMS/Drupal/AI|AI in Drupal]]
+
+|}
+
+===6.2 CMS-Werkzeuge===
+
+{| class="wikitable"
+! Name
+! Plattform
+! Beschreibung
+! Doc
+|-
+| Wikitext
+| VS Code
+| Visual Studio Code Erweiterung zum Bearbeiten von MediaWiki-Seiten; unterstützt Syntax-Highlighting und direktes Veröffentlichen
+| [[CMS/MediaWiki/VSCode-Extension|Wikitext]]
+|}</text>
+      <sha1>mvtv39u14g5dxlgkypjqc6ofpvubvbo</sha1>
+    </revision>
   </page>
   <page>
     <title>CMS/Drupal</title>
@@ -20002,6 +20199,43 @@ Mit dieser Funktion kannst du Arbeitsabläufe effizient automatisieren und Inhal
       <format>text/x-wiki</format>
       <text bytes="270" sha1="em4qajweb0m9akl8go6dwonaqhqcep7" xml:space="preserve">Viele Autoren bevorzugen das Schreiben in Markdown statt das Klicken im WordPress-Editor. In Visual Studio Code kann man Texte schnell und unkompliziert verfassen. Spezielle Tools ermöglichen es, diese Markdown-Texte direkt und formatiert nach WordPress zu übertragen.</text>
       <sha1>em4qajweb0m9akl8go6dwonaqhqcep7</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>CMS/MediaWiki/VSCode-Extension</title>
+    <ns>0</ns>
+    <id>72</id>
+    <revision>
+      <id>292</id>
+      <timestamp>2026-02-05T04:15:25Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „== Was macht Wikitext? ==  Die Erweiterung "Wikitext Markup Language Support" für Visual Studio Code ermöglicht das Bearbeiten und Prüfen von Wikitext direkt im Editor. Sie basiert auf dem MediaWiki-Standard und bietet folgende Funktionen:  === Hauptfunktionen === * Syntax-Highlighting und farbliche Hervorhebung von Wikitext, um Grammatik- und Formatierungsfehler schnell zu erkennen. * Automatisches Schließen von Klammern zur Vermeidung von Tippfehler…“</comment>
+      <origin>292</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1317" sha1="4xsqnzptjedugohxtjm0kjyeb0yifi4" xml:space="preserve">== Was macht Wikitext? ==
+
+Die Erweiterung "Wikitext Markup Language Support" für Visual Studio Code ermöglicht das Bearbeiten und Prüfen von Wikitext direkt im Editor. Sie basiert auf dem MediaWiki-Standard und bietet folgende Funktionen:
+
+=== Hauptfunktionen ===
+* Syntax-Highlighting und farbliche Hervorhebung von Wikitext, um Grammatik- und Formatierungsfehler schnell zu erkennen.
+* Automatisches Schließen von Klammern zur Vermeidung von Tippfehlern.
+* Faltbare Codebereiche durch spezielle Kommentare (`&lt;!--#region--&gt;` und `&lt;!--#endregion--&gt;`).
+* Vorschau des Wikitexts direkt im Editor mit `Ctrl + Shift + V` oder über das Vorschau-Icon.
+* Snippet-Funktion: Mit `@[name]` können Vorlagen wie Tabellen, Regionen oder Titel eingefügt werden.
+* Integration mit Wiki-Webseiten: Seiten können direkt aus VSCode bearbeitet, veröffentlicht und abgerufen werden (nach Eingabe von Zugangsdaten).
+* Seiten nach Namen suchen, anzeigen und Quelltext direkt aus dem Wiki laden.
+
+== Ziel der Erweiterung ==
+Die Erweiterung hilft, Wikitext effizienter und fehlerfreier zu schreiben. Sie richtet sich an Nutzer, die MediaWiki-Seiten bearbeiten und Wert auf korrekte und gut lesbare Wiki-Texte legen.
+
+== Voraussetzungen ==
+* Visual Studio Code ab Version 1.64.0
+* Für Entwicklung: Node.js (mindestens v16) und yarn</text>
+      <sha1>4xsqnzptjedugohxtjm0kjyeb0yifi4</sha1>
     </revision>
   </page>
 </mediawiki>
