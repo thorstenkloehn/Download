@@ -3070,6 +3070,122 @@ Chainlit ist ein Open-Source-Framework für Python, das die Entwicklung, das Tes
 * '''Entwicklerfreundlich:''' Ideal für das Debugging und die Präsentation von KI-gestützten Workflows.</text>
       <sha1>qd8sja0n3eaiyy9dysbz99u9al7hw85</sha1>
     </revision>
+    <revision>
+      <id>351</id>
+      <parentid>60</parentid>
+      <timestamp>2026-02-15T14:44:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>351</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1966" sha1="kgtg0jppdi969xaviq6t9da24pvfi1h" xml:space="preserve">== ASP.NET Core ==
+ASP.NET Core ist ein Open-Source-, plattformübergreifendes Framework von Microsoft zur Erstellung moderner, cloudbasierter Internetanwendungen.
+
+* '''Plattformunabhängigkeit:''' Läuft auf Windows, macOS und Linux.
+* '''Performance:''' Gehört zu den schnellsten Web-Frameworks in Benchmarks (z. B. TechEmpower).
+* '''Middleware-Pipeline:''' Modularer Aufbau des HTTP-Anforderungsverarbeitungsprozesses.
+* '''Integrierte Dependency Injection:''' Von Haus aus unterstützte Entkopplung von Komponenten.
+
+== Spring Boot ==
+Spring Boot ist eine Erweiterung des Spring-Frameworks für Java, die darauf abzielt, den Konfigurationsaufwand für produktionsreife Anwendungen zu minimieren ("Convention over Configuration").
+
+* '''Auto-Configuration:''' Automatische Einrichtung von Spring-Modulen basierend auf den vorhandenen JAR-Abhängigkeiten.
+* '''Eingebettete Server:''' Direkte Ausführung als JAR mit integriertem Tomcat, Jetty oder Undertow.
+* '''Starters:''' Vordefinierte Abhängigkeitsbündel (z. B. `spring-boot-starter-web`) zur Vereinfachung des Builds.
+* '''Actuator:''' Integrierte Endpunkte zur Überwachung und Verwaltung der Applikation.
+
+
+==[[Webframework/Chainlit|Chainlit]]==
+Chainlit ist ein Open-Source-Framework für Python, das die Entwicklung, das Testen und die Bereitstellung von LLM-basierten (Large Language Model) Anwendungen vereinfacht.
+
+* '''Schnelle Prototypenerstellung:''' Ermöglicht das schnelle Erstellen interaktiver Chat-Oberflächen für KI-Anwendungen.
+* '''Integration mit LLMs:''' Unterstützt verschiedene Sprachmodelle wie OpenAI, Hugging Face und mehr.
+* '''UI-Komponenten:''' Bietet vorgefertigte UI-Elemente (z. B. Textfelder, Buttons, Dateiuploads) zur Gestaltung individueller Nutzeroberflächen.
+* '''Einfache Installation &amp; Nutzung:''' Kann mit wenigen Zeilen Python-Code gestartet werden.
+* '''Entwicklerfreundlich:''' Ideal für das Debugging und die Präsentation von KI-gestützten Workflows.</text>
+      <sha1>kgtg0jppdi969xaviq6t9da24pvfi1h</sha1>
+    </revision>
+    <revision>
+      <id>352</id>
+      <parentid>351</parentid>
+      <timestamp>2026-02-15T14:52:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* ASP.NET Core */</comment>
+      <origin>352</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1984" sha1="hnvc8ukwhuwl14joyyxp2vz4fg8gccv" xml:space="preserve">== [[Webframeworkk/ASP.NET Core]] ==
+ASP.NET Core ist ein Open-Source-, plattformübergreifendes Framework von Microsoft zur Erstellung moderner, cloudbasierter Internetanwendungen.
+
+* '''Plattformunabhängigkeit:''' Läuft auf Windows, macOS und Linux.
+* '''Performance:''' Gehört zu den schnellsten Web-Frameworks in Benchmarks (z. B. TechEmpower).
+* '''Middleware-Pipeline:''' Modularer Aufbau des HTTP-Anforderungsverarbeitungsprozesses.
+* '''Integrierte Dependency Injection:''' Von Haus aus unterstützte Entkopplung von Komponenten.
+
+== Spring Boot ==
+Spring Boot ist eine Erweiterung des Spring-Frameworks für Java, die darauf abzielt, den Konfigurationsaufwand für produktionsreife Anwendungen zu minimieren ("Convention over Configuration").
+
+* '''Auto-Configuration:''' Automatische Einrichtung von Spring-Modulen basierend auf den vorhandenen JAR-Abhängigkeiten.
+* '''Eingebettete Server:''' Direkte Ausführung als JAR mit integriertem Tomcat, Jetty oder Undertow.
+* '''Starters:''' Vordefinierte Abhängigkeitsbündel (z. B. `spring-boot-starter-web`) zur Vereinfachung des Builds.
+* '''Actuator:''' Integrierte Endpunkte zur Überwachung und Verwaltung der Applikation.
+
+
+==[[Webframework/Chainlit|Chainlit]]==
+Chainlit ist ein Open-Source-Framework für Python, das die Entwicklung, das Testen und die Bereitstellung von LLM-basierten (Large Language Model) Anwendungen vereinfacht.
+
+* '''Schnelle Prototypenerstellung:''' Ermöglicht das schnelle Erstellen interaktiver Chat-Oberflächen für KI-Anwendungen.
+* '''Integration mit LLMs:''' Unterstützt verschiedene Sprachmodelle wie OpenAI, Hugging Face und mehr.
+* '''UI-Komponenten:''' Bietet vorgefertigte UI-Elemente (z. B. Textfelder, Buttons, Dateiuploads) zur Gestaltung individueller Nutzeroberflächen.
+* '''Einfache Installation &amp; Nutzung:''' Kann mit wenigen Zeilen Python-Code gestartet werden.
+* '''Entwicklerfreundlich:''' Ideal für das Debugging und die Präsentation von KI-gestützten Workflows.</text>
+      <sha1>hnvc8ukwhuwl14joyyxp2vz4fg8gccv</sha1>
+    </revision>
+    <revision>
+      <id>353</id>
+      <parentid>352</parentid>
+      <timestamp>2026-02-15T14:53:06Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Webframeworkk/ASP.NET Core */</comment>
+      <origin>353</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1997" sha1="1z5wds2zyk5epgy1yga1qvwqv59mprq" xml:space="preserve">== [[Webframeworkk/ASP.NET Core|Asp Net Core]] ==
+ASP.NET Core ist ein Open-Source-, plattformübergreifendes Framework von Microsoft zur Erstellung moderner, cloudbasierter Internetanwendungen.
+
+* '''Plattformunabhängigkeit:''' Läuft auf Windows, macOS und Linux.
+* '''Performance:''' Gehört zu den schnellsten Web-Frameworks in Benchmarks (z. B. TechEmpower).
+* '''Middleware-Pipeline:''' Modularer Aufbau des HTTP-Anforderungsverarbeitungsprozesses.
+* '''Integrierte Dependency Injection:''' Von Haus aus unterstützte Entkopplung von Komponenten.
+
+== Spring Boot ==
+Spring Boot ist eine Erweiterung des Spring-Frameworks für Java, die darauf abzielt, den Konfigurationsaufwand für produktionsreife Anwendungen zu minimieren ("Convention over Configuration").
+
+* '''Auto-Configuration:''' Automatische Einrichtung von Spring-Modulen basierend auf den vorhandenen JAR-Abhängigkeiten.
+* '''Eingebettete Server:''' Direkte Ausführung als JAR mit integriertem Tomcat, Jetty oder Undertow.
+* '''Starters:''' Vordefinierte Abhängigkeitsbündel (z. B. `spring-boot-starter-web`) zur Vereinfachung des Builds.
+* '''Actuator:''' Integrierte Endpunkte zur Überwachung und Verwaltung der Applikation.
+
+
+==[[Webframework/Chainlit|Chainlit]]==
+Chainlit ist ein Open-Source-Framework für Python, das die Entwicklung, das Testen und die Bereitstellung von LLM-basierten (Large Language Model) Anwendungen vereinfacht.
+
+* '''Schnelle Prototypenerstellung:''' Ermöglicht das schnelle Erstellen interaktiver Chat-Oberflächen für KI-Anwendungen.
+* '''Integration mit LLMs:''' Unterstützt verschiedene Sprachmodelle wie OpenAI, Hugging Face und mehr.
+* '''UI-Komponenten:''' Bietet vorgefertigte UI-Elemente (z. B. Textfelder, Buttons, Dateiuploads) zur Gestaltung individueller Nutzeroberflächen.
+* '''Einfache Installation &amp; Nutzung:''' Kann mit wenigen Zeilen Python-Code gestartet werden.
+* '''Entwicklerfreundlich:''' Ideal für das Debugging und die Präsentation von KI-gestützten Workflows.</text>
+      <sha1>1z5wds2zyk5epgy1yga1qvwqv59mprq</sha1>
+    </revision>
   </page>
   <page>
     <title>Webframework/Technik</title>
@@ -3699,6 +3815,113 @@ Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder 
 
 ''Die Datenschutzerklärung wurde mit dem'' [https://www.activemind.de/datenschutz/datenschutzhinweis-generator/ ''Datenschutzerklärungs-Generator der activeMind AG erstellt''] *(Version 2018-09-24).c</text>
       <sha1>9bzk3a7y9uynfn6xooeid5ogsi436pp</sha1>
+    </revision>
+    <revision>
+      <id>371</id>
+      <parentid>78</parentid>
+      <timestamp>2026-02-17T21:03:21Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>371</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6583" sha1="a47qtq7jabwarg0mop1g59o1yrcwxut" xml:space="preserve">Verantwortliche Stelle im Sinne der Datenschutzgesetze, insbesondere der EU-Datenschutzgrundverordnung (DSGVO), ist:
+
+* Thorsten Klöhn
+* Gerhardstraße 2
+* 22926 Ahrensburg
+* Telefon: 04102-2 17 40 07
+* e-Mail: thorstenkloehn@gmail.com
+
+&lt;span id="ihre-betroffenenrechte"&gt;&lt;/span&gt;
+== Ihre Betroffenenrechte ==
+
+Unter den angegebenen Kontaktdaten unseres Datenschutzbeauftragten können Sie jederzeit folgende Rechte ausüben:
+
+* Auskunft über Ihre bei uns gespeicherten Daten und deren Verarbeitung (Art. 15 DSGVO),
+* Berichtigung unrichtiger personenbezogener Daten (Art. 16 DSGVO),
+* Löschung Ihrer bei uns gespeicherten Daten (Art. 17 DSGVO),
+* Einschränkung der Datenverarbeitung, sofern wir Ihre Daten aufgrund gesetzlicher Pflichten noch nicht löschen dürfen (Art. 18 DSGVO),
+* Widerspruch gegen die Verarbeitung Ihrer Daten bei uns (Art. 21 DSGVO) und
+* Datenübertragbarkeit, sofern Sie in die Datenverarbeitung eingewilligt haben oder einen Vertrag mit uns abgeschlossen haben (Art. 20 DSGVO).
+
+Sofern Sie uns eine Einwilligung erteilt haben, können Sie diese jederzeit mit Wirkung für die Zukunft widerrufen.
+
+Sie können sich jederzeit mit einer Beschwerde an eine Aufsichtsbehörde wenden, z. B. an die zuständige Aufsichtsbehörde des Bundeslands Ihres Wohnsitzes oder an die für uns als verantwortliche Stelle zuständige Behörde.
+
+Eine Liste der Aufsichtsbehörden (für den nichtöffentlichen Bereich) mit Anschrift finden Sie unter: .
+
+&lt;span id="eingebettete-youtube-videos"&gt;&lt;/span&gt;
+== Eingebettete YouTube-Videos ==
+
+&lt;span id="art-und-zweck-der-verarbeitung"&gt;&lt;/span&gt;
+=== Art und Zweck der Verarbeitung: ===
+
+Auf einigen unserer Webseiten betten wir YouTube-Videos ein. Betreiber der entsprechenden Plugins ist die YouTube, LLC, 901 Cherry Ave., San Bruno, CA 94066, USA (nachfolgend „YouTube“). Wenn Sie eine Seite mit dem YouTube-Plugin besuchen, wird eine Verbindung zu Servern von YouTube hergestellt. Dabei wird YouTube mitgeteilt, welche Seiten Sie besuchen. Wenn Sie in Ihrem YouTube-Account eingeloggt sind, kann YouTube Ihr Surfverhalten Ihnen persönlich zuzuordnen. Dies verhindern Sie, indem Sie sich vorher aus Ihrem YouTube-Account ausloggen.
+
+Wird ein YouTube-Video gestartet, setzt der Anbieter Cookies ein, die Hinweise über das Nutzerverhalten sammeln.
+
+Weitere Informationen zu Zweck und Umfang der Datenerhebung und ihrer Verarbeitung durch YouTube erhalten Sie in den Datenschutzerklärungen des Anbieters, Dort erhalten Sie auch weitere Informationen zu Ihren diesbezüglichen Rechten und Einstellungsmöglichkeiten zum Schutze Ihrer Privatsphäre (). Google verarbeitet Ihre Daten in den USA und hat sich dem EU-US Privacy Shield unterworfen https://www.privacyshield.gov/EU-US-Framework
+
+&lt;span id="rechtsgrundlage"&gt;&lt;/span&gt;
+=== Rechtsgrundlage: ===
+
+Rechtsgrundlage für die Einbindung von YouTube und dem damit verbundenen Datentransfer zu Google ist Ihre Einwilligung (Art. 6 Abs. 1 lit. a DSGVO).
+
+&lt;span id="empfänger"&gt;&lt;/span&gt;
+=== Empfänger: ===
+
+Der Aufruf von YouTube löst automatisch eine Verbindung zu Google aus.
+
+&lt;span id="speicherdauer-und-widerruf-der-einwilligung"&gt;&lt;/span&gt;
+=== Speicherdauer und Widerruf der Einwilligung: ===
+
+Wer das Speichern von Cookies für das Google-Ad-Programm deaktiviert hat, wird auch beim Anschauen von YouTube-Videos mit keinen solchen Cookies rechnen müssen. YouTube legt aber auch in anderen Cookies nicht-personenbezogene Nutzungsinformationen ab. Möchten Sie dies verhindern, so müssen Sie das Speichern von Cookies im Browser blockieren.
+
+Weitere Informationen zum Datenschutz bei „YouTube“ finden Sie in der Datenschutzerklärung des Anbieters unter:
+
+&lt;span id="drittlandtransfer"&gt;&lt;/span&gt;
+=== Drittlandtransfer: ===
+
+Google verarbeitet Ihre Daten in den USA und hat sich dem EU_US Privacy Shield unterworfen .
+
+&lt;span id="bereitstellung-vorgeschrieben-oder-erforderlich"&gt;&lt;/span&gt;
+=== Bereitstellung vorgeschrieben oder erforderlich: ===
+
+Die Bereitstellung Ihrer personenbezogenen Daten erfolgt freiwillig, allein auf Basis Ihrer Einwilligung. Sofern Sie den Zugriff unterbinden, kann es hierdurch zu Funktionseinschränkungen auf der Website kommen.
+
+&lt;span id="änderung-unserer-datenschutzbestimmungen"&gt;&lt;/span&gt;
+== Änderung unserer Datenschutzbestimmungen ==
+&lt;span id="ki-generierte-inhalte"&gt;&lt;/span&gt;
+== KI-generierte Inhalte und Speicherung ==
+
+Einige Inhalte dieser Website werden mit Hilfe von KI-Tools wie GitHub Copilot und Antigravity erstellt und weiter bearbeitet. Die generierten und bearbeiteten Inhalte werden ausschließlich auf unserem eigenen Server gespeichert und verarbeitet. Es erfolgt keine Speicherung oder Verarbeitung dieser Inhalte auf externen Servern der KI-Anbieter.
+
+
+&lt;span id="mediawiki-datenschutz"&gt;&lt;/span&gt;
+== Datenschutz im MediaWiki-System ==
+
+Dieses Wiki basiert auf der Software MediaWiki. Dabei werden folgende Daten verarbeitet:
+
+* Beim Besuch der Website werden Server-Logfiles (z. B. IP-Adresse, Zeitpunkt, aufgerufene Seiten) gespeichert. Diese Daten dienen der Fehleranalyse und Sicherheit und werden regelmäßig gelöscht.
+* MediaWiki verwendet Cookies, um die Anmeldung und die Nutzung zu ermöglichen. Diese Cookies enthalten keine personenbezogenen Daten, außer bei angemeldeten Nutzern.
+* Bei der Registrierung und Nutzung eines Benutzerkontos werden Name, E-Mail-Adresse und ggf. weitere freiwillige Angaben gespeichert. Beiträge, Bearbeitungen und Diskussionsbeiträge werden mit dem Benutzernamen und Zeitstempel öffentlich angezeigt und dauerhaft gespeichert.
+* Alle Inhalte und Bearbeitungen sind grundsätzlich öffentlich sichtbar. Bitte beachte dies bei der Veröffentlichung persönlicher Daten.
+* Es werden keine Tracking- oder Analyse-Tools eingesetzt, außer den bereits genannten technischen Protokollen.
+
+
+Wir behalten uns vor, diese Datenschutzerklärung anzupassen, damit sie stets den aktuellen rechtlichen Anforderungen entspricht oder um Änderungen unserer Leistungen in der Datenschutzerklärung umzusetzen, z.B. bei der Einführung neuer Services. Für Ihren erneuten Besuch gilt dann die neue Datenschutzerklärung.
+
+&lt;span id="fragen-an-den-datenschutzbeauftragten"&gt;&lt;/span&gt;
+== Fragen an den Datenschutzbeauftragten ==
+
+Wenn Sie Fragen zum Datenschutz haben, schreiben Sie uns bitte eine E-Mail oder wenden Sie sich direkt an die für den Datenschutz verantwortliche Person in unserer Organisation:
+
+''Die Datenschutzerklärung wurde mit dem'' [https://www.activemind.de/datenschutz/datenschutzhinweis-generator/ ''Datenschutzerklärungs-Generator der activeMind AG erstellt''] *(Version 2018-09-24).c</text>
+      <sha1>a47qtq7jabwarg0mop1g59o1yrcwxut</sha1>
     </revision>
   </page>
   <page>
@@ -22422,6 +22645,213 @@ Datei: /Views/Page/Index.cshtml
 &lt;/pre&gt;</text>
       <sha1>esid8mxwb9uimcis2zob8qu3s9j8vs3</sha1>
     </revision>
+    <revision>
+      <id>350</id>
+      <parentid>320</parentid>
+      <timestamp>2026-02-15T01:45:02Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>350</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="5446" sha1="mf9hqlfw83cp3s1w317n6r90x3ey8n0" xml:space="preserve">==Eine neue .slnx Solution erstellen==
+Eine Solution (.slnx) ist eine Projektmappe in Visual Studio Code, die mehrere Projekte und deren Abhängigkeiten zusammenfasst. Sie dient als Container für die Organisation, Verwaltung und das Builden von Softwareprojekten.
+&lt;pre&gt;
+mkdir MeinCMS
+cd MeinCMS
+echo '&lt;Solution /&gt;' &gt; MeinCms.slnx
+&lt;/pre&gt;
+==Projekte hinzufügen==
+===Projekt erstellen===
+&lt;pre&gt;
+dotnet new mvc --auth Individual -o mvc
+&lt;/pre&gt;
+===Projekt zur .slnx hinzufügen===
+&lt;pre&gt;
+dotnet sln MeinCms.slnx add mvc/mvc.csproj
+&lt;/pre&gt;
+===Projekt zu Services anlegen===
+&lt;pre&gt;
+dotnet new classlib -o Services
+dotnet sln MeinCms.slnx add Services/Services.csproj
+dotnet add mvc/mvc.csproj reference Services/Services.csproj
+&lt;/pre&gt;
+===.gitignore Datei erstellen===
+&lt;pre&gt;
+nano .gitignore
+&lt;/pre&gt;
+Geben Sie Folgendes ein
+&lt;pre&gt;
+mvc/bin
+mvc/obj
+Services/bin
+Services/obj
+mvc/app.app
+mvc/appsettings.Development.json
+mvc/appsettings.json
+publish/
+
+&lt;/pre&gt;
+
+==Konsole==
+
+Geben Sie Folgendes in die Konsole ein
+
+&lt;pre&gt;
+cp mvc/appsettings.Development.json mvc/_appsettings.Development.json
+cp mvc/appsettings.json mvc/_appsettings.json
+
+&lt;/pre&gt;
+
+==Starten Sie Visual Studio Code==
+Starten Sie Visual Studio Code und gehen Sie mit der Maus auf die rechte Seite bei Program.cs.
+Löschen Sie die folgende Zeile:
+&lt;pre&gt;
+app.MapControllerRoute(
+    name: "default",
+    pattern: "{controller=Home}/{action=Index}/{id?}")
+    .WithStaticAssets();
+&lt;/pre&gt;
+Und ergänzen Sie die Zeile, die Sie gelöscht haben
+&lt;pre&gt;
+app.MapControllerRoute(
+
+  name: "default",
+    pattern: "{*slug}",
+    defaults: new { controller = "Page", action = "Index" })
+  .WithStaticAssets();
+
+&lt;/pre&gt;
+
+==Datenbank erstellen==
+Um eine PostgreSQL-Datenbank für Ihr Projekt zu erstellen, führen Sie folgende Befehle in der Konsole aus:
+
+&lt;pre&gt;
+sudo -u postgres -i
+createdb -E UTF8 -O thorsten mvc
+psql -d mvc -c "GRANT ALL PRIVILEGES ON DATABASE mvc TO thorsten
+
+exit
+&lt;/pre&gt;
+Die beiden Befehle installieren NuGet-Pakete, die für die Verwendung von Entity Framework Core mit PostgreSQL benötigt werden:
+&lt;pre&gt;
+cd mvc
+dotnet add package Npgsql.EntityFrameworkCore.PostgreSQL
+dotnet add package Microsoft.EntityFrameworkCore.Design
+&lt;/pre&gt;
+
+Passen Sie anschließend die Verbindungszeichenfolge in Ihrer &lt;code&gt;appsettings.json&lt;/code&gt; an:
+Löschen Sie folgende Zeile
+&lt;pre&gt;
+ "ConnectionStrings": {
+    "DefaultConnection": "DataSource=app.db;Cache=Shared"
+  },
+&lt;/pre&gt;
+Wo Sie die Zeile gelöscht haben, ersetzen Sie sie durch folgende Zeile
+&lt;pre&gt;
+"ConnectionStrings": {
+    "DefaultConnection": "Host=localhost;Database=meincmsdb;Username=meincmsuser;Password=IhrPasswort"
+},
+&lt;/pre&gt;
+Gehen Sie zu Program.cs und löschen Sie die folgende Zeile
+&lt;pre&gt;
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+builder.Services.AddDbContext&lt;ApplicationDbContext&gt;(options =&gt;
+    options.UseSqlite(connectionString));
+    &lt;/pre&gt;
+
+    Ersetzen Sie die folgende Zeile 
+&lt;pre&gt;
+
+var connectionString = builder.Configuration.GetConnectionString("DefaultConnection") ?? throw new InvalidOperationException("Connection string 'DefaultConnection' not found.");
+builder.Services.AddDbContext&lt;ApplicationDbContext&gt;(options =&gt;
+    options.UseNpgsql(connectionString));
+&lt;/pre&gt;
+
+
+&lt;/pre&gt;
+Ersetzen Sie die Zeile
+&lt;pre&gt;
+builder.Services.AddDbContext&lt;ApplicationDbContext&gt;(options =&gt;
+    options.UseNpgsql(builder.Configuration.GetConnectionString("DefaultConnection")));
+
+&lt;/pre&gt;
+
+== Entwicklung Rechner ==
+'''Achtung: Diese Befehle und Einstellungen sind ausschließlich für Entwicklungsumgebungen gedacht und sollten nicht auf Produktionsservern verwendet werden.'''
+&lt;pre&gt;
+dotnet user-secrets init
+dotnet user-secrets set "ConnectionStrings:DefaultConnection" "Host=localhost;Database=MeineDatenbank;Username=postgres;Password=GEHEIMES_PASSWORT"
+&lt;/pre&gt;
+
+==Datenbank Migration==
+&lt;pre&gt;
+dotnet ef migrations add thorsten
+dotnet ef database update
+&lt;/pre&gt;
+==Identity hinzufügen==
+Um ASP.NET Core Identity zu Ihrem Projekt hinzuzufügen, installieren Sie zunächst das erforderliche NuGet-Paket für die Codegenerierung und führen dann den Identity-Scaffolding-Befehl aus. Dadurch werden die benötigten Dateien und Konfigurationen für die Benutzerverwaltung (Registrierung, Anmeldung, Rollen usw.) generiert.
+
+Führen Sie dazu folgende Befehle in der Konsole aus:
+&lt;pre&gt;
+dotnet add package Microsoft.VisualStudio.Web.CodeGeneration.Design
+dotnet aspnet-codegenerator identity -dc ApplicationDbContext
+&lt;/pre&gt;
+
+==Test-Controller erstellen==
+Um zu testen, ob alles funktioniert, erstellen Sie einen Test-Controller:
+Datei: /Controllers/PageController
+&lt;pre&gt;
+using Microsoft.AspNetCore.Mvc;
+
+namespace mvc.Controllers
+{
+    public class PageController : Controller
+    {
+        // GET: PageController
+      public ActionResult Index(string slute)
+{
+    ViewBag.slute = slute;
+    return View();
+}
+
+
+    }
+}
+
+&lt;/pre&gt;
+
+==Test-Views erstellen==
+Jetzt testen wir die View, sonst läuft der Test im Browser nicht.
+Datei: /Views/Page/Index.cshtml
+&lt;pre&gt;
+
+&lt;h1&gt;@ViewBag.slute&lt;/h1&gt;
+
+&lt;/pre&gt;
+
+Ich habe heute die Zeile in Program.cs gelöscht, weil sie schlecht wartbar war.
+&lt;pre&gt;
+app.MapControllerRoute(
+
+    name: "default",
+        pattern: "{*slug}",
+        defaults: new { controller = "Page", action = "Index" })
+    .WithStaticAssets();
+
+&lt;/pre&gt;
+
+Zeile hinzufügen:
+
+&lt;pre&gt;
+app.MapControllers()
+    .WithStaticAssets();
+&lt;/pre&gt;</text>
+      <sha1>mf9hqlfw83cp3s1w317n6r90x3ey8n0</sha1>
+    </revision>
   </page>
   <page>
     <title>Blog:09.02.2026 Lesbar Url</title>
@@ -22529,6 +22959,26 @@ function isValidSlug($slug) {
 * Todd McLeod Learn How To Code: Google's Go Programming Language
 * Jens Schendel Einführung in Golang für Anfänger</text>
       <sha1>r96cct8q7uk0a3zynsan7clic5qebvt</sha1>
+    </revision>
+    <revision>
+      <id>366</id>
+      <parentid>324</parentid>
+      <timestamp>2026-02-17T11:00:51Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>366</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="272" sha1="jifs8es4z5bmsq1xczlzhvk998b996o" xml:space="preserve">==Weblinks==
+* Todd McLeod Learn How To Code: Google's Go Programming Language
+* Jens Schendel Einführung in Golang für Anfänger
+==Webprogrammieren==
+* Trevor Sawler Building Modern Web Apps
+* Todd McLeod Web Development w/ Go
+* Jens Schendel Schnelle &amp; sichere Webapps</text>
+      <sha1>jifs8es4z5bmsq1xczlzhvk998b996o</sha1>
     </revision>
   </page>
   <page>
@@ -22999,6 +23449,1640 @@ return p</text>
 
 {{#invoke:HalloWelt|start}}</text>
       <sha1>quj1guzq12v9qkr66ts6pf5scruzx1d</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Webframeworkk/ASP.NET Core</title>
+    <ns>0</ns>
+    <id>86</id>
+    <revision>
+      <id>354</id>
+      <timestamp>2026-02-15T14:55:45Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „* [[Webframeworkk/ASP.NET Core/Routing|Routing]]“</comment>
+      <origin>354</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="48" sha1="6m39k1jhwew91o1uo2x7ssbgyycef7m" xml:space="preserve">* [[Webframeworkk/ASP.NET Core/Routing|Routing]]</text>
+      <sha1>6m39k1jhwew91o1uo2x7ssbgyycef7m</sha1>
+    </revision>
+    <revision>
+      <id>358</id>
+      <parentid>354</parentid>
+      <timestamp>2026-02-15T16:34:53Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>358</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="103" sha1="mhqmfvte2je0pw4fxl20jtv3768v0u8" xml:space="preserve">* [[Webframeworkk/ASP.NET Core/Middleware|Middleware]]
+* [[Webframeworkk/ASP.NET Core/Routing|Routing]]</text>
+      <sha1>mhqmfvte2je0pw4fxl20jtv3768v0u8</sha1>
+    </revision>
+    <revision>
+      <id>360</id>
+      <parentid>358</parentid>
+      <timestamp>2026-02-15T17:25:37Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>360</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="146" sha1="0bc2u3icrmk0wfy11b9eeotd4epaum0" xml:space="preserve">* [[Webframeworkk/ASP.NET Core/Http|Http]]
+* [[Webframeworkk/ASP.NET Core/Middleware|Middleware]]
+* [[Webframeworkk/ASP.NET Core/Routing|Routing]]</text>
+      <sha1>0bc2u3icrmk0wfy11b9eeotd4epaum0</sha1>
+    </revision>
+    <revision>
+      <id>364</id>
+      <parentid>360</parentid>
+      <timestamp>2026-02-16T21:59:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>364</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="239" sha1="rsc9zkmbdb3kaiq787fvvudvivrcrx1" xml:space="preserve">* [[Webframeworkk/ASP.NET Core/Http|Http]]
+* [[Webframeworkk/ASP.NET Core/Middleware|Middleware]]
+* [[Webframeworkk/ASP.NET Core/Routing|Routing]]
+* [[Webframeworkk/ASP.NET Core/Controllers und IActionResult|Controllers und IActionResult]]</text>
+      <sha1>rsc9zkmbdb3kaiq787fvvudvivrcrx1</sha1>
+    </revision>
+    <revision>
+      <id>368</id>
+      <parentid>364</parentid>
+      <timestamp>2026-02-17T13:47:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>368</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="273" sha1="nz0ypbfw9lcsirfvndrt8bjmfsoehl8" xml:space="preserve">* [[Webframeworkk/ASP.NET Core/Http|Http]]
+* [[Webframeworkk/ASP.NET Core/Middleware|Middleware]]
+* [[Webframeworkk/ASP.NET Core/Routing|Routing]]
+* [[Webframeworkk/ASP.NET Core/Controllers und IActionResult|Controllers und IActionResult]]
+* [[Model Binding und  Validation</text>
+      <sha1>nz0ypbfw9lcsirfvndrt8bjmfsoehl8</sha1>
+    </revision>
+    <revision>
+      <id>369</id>
+      <parentid>368</parentid>
+      <timestamp>2026-02-17T13:54:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>369</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="332" sha1="8qfhtj4rbmfizhfu31tviyrqt9chvgy" xml:space="preserve">* [[Webframeworkk/ASP.NET Core/Http|Http]]
+* [[Webframeworkk/ASP.NET Core/Middleware|Middleware]]
+* [[Webframeworkk/ASP.NET Core/Routing|Routing]]
+* [[Webframeworkk/ASP.NET Core/Controllers und IActionResult|Controllers und IActionResult]]
+* [[Webframeworkk/ASP.NET Core/Model Binding und  Validation|Model Binding und  Validation]]</text>
+      <sha1>8qfhtj4rbmfizhfu31tviyrqt9chvgy</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Webframeworkk/ASP.NET Core/Routing</title>
+    <ns>0</ns>
+    <id>87</id>
+    <revision>
+      <id>355</id>
+      <timestamp>2026-02-15T14:58:36Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ Dieses Tutorial behandelt das Routing speziell im Kontext von ASP.NET Core MVC. Es erklärt, wie eingehende Anfragen an Controller und deren Action-Methoden weitergeleitet werden.  == 1. Routing-Typen in MVC ==  In ASP.NET Core MVC gibt es zwei Hauptarten des Routings:  # '''Attribute Routing (Attribut-basiertes Routing):''' Definition von Routen direkt an Controllern oder Action-Methoden mithilfe von Attributen.  '''Vorteile:''' * '''Präzision:''' Rout…“</comment>
+      <origin>355</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3771" sha1="q4ttmby8ug6vuq38qr8gr74waul7g6y" xml:space="preserve">
+Dieses Tutorial behandelt das Routing speziell im Kontext von ASP.NET Core MVC. Es erklärt, wie eingehende Anfragen an Controller und deren Action-Methoden weitergeleitet werden.
+
+== 1. Routing-Typen in MVC ==
+
+In ASP.NET Core MVC gibt es zwei Hauptarten des Routings:
+
+# '''Attribute Routing (Attribut-basiertes Routing):''' Definition von Routen direkt an Controllern oder Action-Methoden mithilfe von Attributen.
+
+'''Vorteile:'''
+* '''Präzision:''' Routen können sehr spezifisch für einzelne Actions definiert werden.
+* '''Lesbarkeit:''' Die Zuordnung von URL zu Code ist direkt am Controller/Action ersichtlich.
+* '''Flexibilität:''' Einfache Handhabung von komplexen URL-Parametern und Constraints.
+
+'''Nachteile:'''
+* '''Fehlende Zentralisierung:''' Es gibt keinen einzigen Ort, an dem alle Routen der Anwendung eingesehen werden können.
+* '''Redundanz:''' Ähnliche Routenmuster müssen oft an mehreren Stellen wiederholt werden.
+* '''Wartungsaufwand:''' Bei globalen URL-Änderungen müssen viele Attribute in verschiedenen Dateien angepasst werden.
+
+== 2. Program Routing ==
+
+Hierbei definieren Sie ein oder mehrere globale Muster. Die Standardroute wird meist so konfiguriert:
+
+&lt;syntaxhighlight lang="csharp"&gt;
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllersWithViews();
+
+var app = builder.Build();
+
+app.UseStaticFiles();
+
+app.MapControllers()
+    .WithStaticAssets();
+
+app.Run();
+&lt;/syntaxhighlight&gt;
+
+'''Erklärung der Methoden:'''
+* &lt;code&gt;app.MapControllers()&lt;/code&gt;: Konfiguriert das Framework so, dass es Controller-Endpunkte erkennt und Routen basierend auf Attributen oder Konventionen zuordnet.
+* &lt;code&gt;.WithStaticAssets()&lt;/code&gt;: Eine Optimierung für statische Dateien (CSS, JS), die Fingerprinting für effektives Caching nutzt (eingeführt in .NET 9).
+
+== 3. Attribute Routing ==
+
+Attribute Routing ist flexibler und wird für REST-APIs oder komplexe URL-Strukturen bevorzugt. Bei Verwendung von MVC muss hierfür &lt;code&gt;app.MapControllers()&lt;/code&gt; aufgerufen werden.
+
+&lt;syntaxhighlight lang="csharp"&gt;
+[Route("shop")]
+public class ProductController : Controller
+{
+    [Route("")] // URL: /shop
+    [Route("index")] // URL: /shop/index
+    public IActionResult List() 
+    {
+        return View();
+    }
+
+    [HttpGet("details/{id:int}")] // URL: /shop/details/5
+    public IActionResult Details(int id)
+    {
+        return View(id);
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+=== Wichtige Attribute ===
+* &lt;code&gt;[Route("path")]&lt;/code&gt;: Definiert den Basispfad oder spezifischen Pfad.
+* &lt;code&gt;[HttpGet]&lt;/code&gt;, &lt;code&gt;[HttpPost]&lt;/code&gt;, etc.: Schränkt die Route auf eine HTTP-Methode ein.
+* &lt;code&gt;[Area("Admin")]&lt;/code&gt;: Ordnet den Controller einer Area zu.
+
+== 4. Routen-Parameter und Model Binding ==
+
+In MVC werden Routen-Parameter automatisch an die Argumente der Action-Methode gebunden (Model Binding).
+
+&lt;syntaxhighlight lang="csharp"&gt;
+// Route: /archive/{year}/{month}
+[HttpGet("archive/{year:int}/{month:range(1,12)}")]
+public IActionResult GetArchive(int year, int month)
+{
+    return Content($"Archiv für {month}/{year}");
+}
+&lt;/syntaxhighlight&gt;
+
+== 5. Routen-Constraints in MVC ==
+
+Constraints stellen sicher, dass eine Route nur matcht, wenn die Parameter bestimmte Kriterien erfüllen.
+
+{| class="wikitable"
+! Constraint !! Beispiel !! Beschreibung
+|-
+| &lt;code&gt;:int&lt;/code&gt; || &lt;code&gt;{id:int}&lt;/code&gt; || Muss eine Ganzzahl sein.
+|-
+| &lt;code&gt;:alpha&lt;/code&gt; || &lt;code&gt;{name:alpha}&lt;/code&gt; || Nur Buchstaben.
+|-
+| &lt;code&gt;:regex()&lt;/code&gt; || &lt;code&gt;{code:regex(^\\d{{3}}$)}&lt;/code&gt; || Matcht regulären Ausdruck.
+|-
+| &lt;code&gt;:minlength()&lt;/code&gt;|| &lt;code&gt;{slug:minlength(5)}&lt;/code&gt; || Mindestlänge des Strings.
+|}
+
+== 6. Token Replacement (Platzhalter) ==
+
+In Attributen können Platzhalter verwendet werden, um Redundanz zu vermeiden.</text>
+      <sha1>q4ttmby8ug6vuq38qr8gr74waul7g6y</sha1>
+    </revision>
+    <revision>
+      <id>356</id>
+      <parentid>355</parentid>
+      <timestamp>2026-02-15T15:07:15Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>356</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4778" sha1="0aubpdy9wqgsv48nr3v0e6ccyu4shsm" xml:space="preserve">
+Dieses Tutorial behandelt das Routing speziell im Kontext von ASP.NET Core MVC. Es erklärt, wie eingehende Anfragen an Controller und deren Action-Methoden weitergeleitet werden.
+
+== 1. Routing-Typen in MVC ==
+
+In ASP.NET Core MVC gibt es zwei Hauptarten des Routings:
+
+# '''Attribute Routing (Attribut-basiertes Routing):''' Definition von Routen direkt an Controllern oder Action-Methoden mithilfe von Attributen.
+
+'''Vorteile:'''
+* '''Präzision:''' Routen können sehr spezifisch für einzelne Actions definiert werden.
+* '''Lesbarkeit:''' Die Zuordnung von URL zu Code ist direkt am Controller/Action ersichtlich.
+* '''Flexibilität:''' Einfache Handhabung von komplexen URL-Parametern und Constraints.
+
+'''Nachteile:'''
+* '''Fehlende Zentralisierung:''' Es gibt keinen einzigen Ort, an dem alle Routen der Anwendung eingesehen werden können.
+* '''Redundanz:''' Ähnliche Routenmuster müssen oft an mehreren Stellen wiederholt werden.
+* '''Wartungsaufwand:''' Bei globalen URL-Änderungen müssen viele Attribute in verschiedenen Dateien angepasst werden.
+
+== 2. Program Routing ==
+
+Hierbei definieren Sie ein oder mehrere globale Muster. Die Standardroute wird meist so konfiguriert:
+
+&lt;syntaxhighlight lang="csharp"&gt;
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllersWithViews();
+
+var app = builder.Build();
+
+app.UseStaticFiles();
+
+app.MapControllers()
+    .WithStaticAssets();
+
+app.Run();
+&lt;/syntaxhighlight&gt;
+
+'''Erklärung der Methoden:'''
+* &lt;code&gt;app.MapControllers()&lt;/code&gt;: Konfiguriert das Framework so, dass es Controller-Endpunkte erkennt und Routen basierend auf Attributen oder Konventionen zuordnet.
+* &lt;code&gt;.WithStaticAssets()&lt;/code&gt;: Eine Optimierung für statische Dateien (CSS, JS), die Fingerprinting für effektives Caching nutzt (eingeführt in .NET 9).
+
+== 3. Attribute Routing ==
+
+Attribute Routing ist flexibler und wird für REST-APIs oder komplexe URL-Strukturen bevorzugt. Bei Verwendung von MVC muss hierfür &lt;code&gt;app.MapControllers()&lt;/code&gt; aufgerufen werden.
+
+&lt;syntaxhighlight lang="csharp"&gt;
+[Route("shop")]
+public class ProductController : Controller
+{
+    [Route("")] // URL: /shop
+    [Route("index")] // URL: /shop/index
+    public IActionResult List() 
+    {
+        return View();
+    }
+
+    [HttpGet("details/{id:int}")] // URL: /shop/details/5
+    public IActionResult Details(int id)
+    {
+        return View(id);
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+=== Wichtige Attribute ===
+* &lt;code&gt;[Route("path")]&lt;/code&gt;: Definiert den Basispfad oder spezifischen Pfad.
+* &lt;code&gt;[HttpGet]&lt;/code&gt;, &lt;code&gt;[HttpPost]&lt;/code&gt;, etc.: Schränkt die Route auf eine HTTP-Methode ein.
+* &lt;code&gt;[Area("Admin")]&lt;/code&gt;: Ordnet den Controller einer Area zu.
+
+== 4. Routen-Parameter und Model Binding ==
+
+In MVC werden Routen-Parameter automatisch an die Argumente der Action-Methode gebunden (Model Binding).
+
+&lt;syntaxhighlight lang="csharp"&gt;
+// Route: /archive/{year}/{month}
+[HttpGet("archive/{year:int}/{month:range(1,12)}")]
+public IActionResult GetArchive(int year, int month)
+{
+    return Content($"Archiv für {month}/{year}");
+}
+&lt;/syntaxhighlight&gt;
+
+== 5. Routen-Constraints in MVC ==
+
+Constraints stellen sicher, dass eine Route nur matcht, wenn die Parameter bestimmte Kriterien erfüllen.
+
+{| class="wikitable"
+! Constraint !! Beispiel !! Beschreibung
+|-
+| &lt;code&gt;:int&lt;/code&gt; || &lt;code&gt;{id:int}&lt;/code&gt; || Muss eine Ganzzahl sein.
+|-
+| &lt;code&gt;:alpha&lt;/code&gt; || &lt;code&gt;{name:alpha}&lt;/code&gt; || Nur Buchstaben.
+|-
+| &lt;code&gt;:regex()&lt;/code&gt; || &lt;code&gt;{code:regex(^\\d{{3}}$)}&lt;/code&gt; || Matcht regulären Ausdruck.
+|-
+| &lt;code&gt;:minlength()&lt;/code&gt;|| &lt;code&gt;{slug:minlength(5)}&lt;/code&gt; || Mindestlänge des Strings.
+|}
+
+== 6. Token Replacement (Platzhalter) ==
+
+In Attributen können Platzhalter verwendet werden, um Redundanz zu vermeiden.
+
+=== Token-Variablen ===
+* &lt;code&gt;[controller]&lt;/code&gt;: Wird durch den Controller-Namen ersetzt.
+* &lt;code&gt;[action]&lt;/code&gt;: Wird durch den Action-Namen ersetzt.
+* &lt;code&gt;[area]&lt;/code&gt;: Wird durch den Area-Namen ersetzt.
+
+&lt;syntaxhighlight lang="csharp"&gt;
+[Route("[controller]/[action]")]
+public class UserController : Controller
+{
+    [HttpGet] // URL: /user/profile
+    public IActionResult Profile()
+    {
+        return View();
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+== 7. Catch-All Parameter ==
+
+Der Catch-All Parameter &lt;code&gt;*&lt;/code&gt; erfasst alle verbleibenden URL-Segmente als einzelne Zeichenkette.
+
+&lt;syntaxhighlight lang="csharp"&gt;
+[HttpGet("Neuformular/{*slug}")] // URL: /Neuformular/artikel/2024/dezember
+public IActionResult Index(string slug)
+{
+    // slug enthält: "artikel/2024/dezember"
+    return Content($"Slug: {slug}");
+}
+&lt;/syntaxhighlight&gt;
+
+Der Parameter &lt;code&gt;{*slug}&lt;/code&gt; erfasst alle verbleibenden Pfad-Segmente nach "Neuformular/" als einzelne Zeichenkette und übergibt sie an die Action-Methode.</text>
+      <sha1>0aubpdy9wqgsv48nr3v0e6ccyu4shsm</sha1>
+    </revision>
+    <revision>
+      <id>357</id>
+      <parentid>356</parentid>
+      <timestamp>2026-02-15T15:28:03Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>357</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6223" sha1="cry76b5wk8bpb35k90q7xdd6spq9fvi" xml:space="preserve">Dieses Tutorial behandelt das Routing speziell im Kontext von ASP.NET Core MVC. Es erklärt, wie eingehende Anfragen an Controller und deren Action-Methoden weitergeleitet werden.
+
+== 1. Routing-Typen in MVC ==
+
+In ASP.NET Core MVC gibt es zwei Hauptarten des Routings:
+
+# '''Attribute Routing (Attribut-basiertes Routing):''' Definition von Routen direkt an Controllern oder Action-Methoden mithilfe von Attributen.
+
+'''Vorteile:'''
+* '''Präzision:''' Routen können sehr spezifisch für einzelne Actions definiert werden.
+* '''Lesbarkeit:''' Die Zuordnung von URL zu Code ist direkt am Controller/Action ersichtlich.
+* '''Flexibilität:''' Einfache Handhabung von komplexen URL-Parametern und Constraints.
+
+'''Nachteile:'''
+* '''Fehlende Zentralisierung:''' Es gibt keinen einzigen Ort, an dem alle Routen der Anwendung eingesehen werden können.
+* '''Redundanz:''' Ähnliche Routenmuster müssen oft an mehreren Stellen wiederholt werden.
+* '''Wartungsaufwand:''' Bei globalen URL-Änderungen müssen viele Attribute in verschiedenen Dateien angepasst werden.
+
+== 2. Program Routing ==
+
+Hierbei definieren Sie ein oder mehrere globale Muster. Die Standardroute wird meist so konfiguriert:
+
+&lt;syntaxhighlight lang="csharp"&gt;
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllersWithViews();
+
+var app = builder.Build();
+
+app.UseStaticFiles();
+
+app.MapControllers()
+    .WithStaticAssets();
+
+app.Run();
+&lt;/syntaxhighlight&gt;
+
+'''Erklärung der Methoden:'''
+* &lt;code&gt;app.MapControllers()&lt;/code&gt;: Konfiguriert das Framework so, dass es Controller-Endpunkte erkennt und Routen basierend auf Attributen oder Konventionen zuordnet.
+* &lt;code&gt;.WithStaticAssets()&lt;/code&gt;: Eine Optimierung für statische Dateien (CSS, JS), die Fingerprinting für effektives Caching nutzt (eingeführt in .NET 9).
+
+== 3. Attribute Routing ==
+
+Attribute Routing ist flexibler und wird für REST-APIs oder komplexe URL-Strukturen bevorzugt. Bei Verwendung von MVC muss hierfür &lt;code&gt;app.MapControllers()&lt;/code&gt; aufgerufen werden.
+
+&lt;syntaxhighlight lang="csharp"&gt;
+[Route("shop")]
+public class ProductController : Controller
+{
+    [Route("")] // URL: /shop
+    [Route("index")] // URL: /shop/index
+    public IActionResult List() 
+    {
+        return View();
+    }
+
+    [HttpGet("details/{id:int}")] // URL: /shop/details/5
+    public IActionResult Details(int id)
+    {
+        return View(id);
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+=== Wichtige Attribute ===
+* &lt;code&gt;[Route("path")]&lt;/code&gt;: Definiert den Basispfad oder spezifischen Pfad.
+* &lt;code&gt;[HttpGet]&lt;/code&gt;, &lt;code&gt;[HttpPost]&lt;/code&gt;, etc.: Schränkt die Route auf eine HTTP-Methode ein.
+* &lt;code&gt;[Area("Admin")]&lt;/code&gt;: Ordnet den Controller einer Area zu.
+
+== 4. Routen-Parameter und Model Binding ==
+
+In MVC werden Routen-Parameter automatisch an die Argumente der Action-Methode gebunden (Model Binding).
+
+&lt;syntaxhighlight lang="csharp"&gt;
+// Route: /archive/{year}/{month}
+[HttpGet("archive/{year:int}/{month:range(1,12)}")]
+public IActionResult GetArchive(int year, int month)
+{
+    return Content($"Archiv für {month}/{year}");
+}
+&lt;/syntaxhighlight&gt;
+
+== 5. Routen-Constraints in MVC ==
+
+Constraints stellen sicher, dass eine Route nur matcht, wenn die Parameter bestimmte Kriterien erfüllen.
+
+{| class="wikitable"
+! Constraint !! Beispiel !! Beschreibung
+|-
+| &lt;code&gt;:int&lt;/code&gt; || &lt;code&gt;{id:int}&lt;/code&gt; || Muss eine Ganzzahl sein.
+|-
+| &lt;code&gt;:alpha&lt;/code&gt; || &lt;code&gt;{name:alpha}&lt;/code&gt; || Nur Buchstaben.
+|-
+| &lt;code&gt;:regex()&lt;/code&gt; || &lt;code&gt;{code:regex(^\\d{{3}}$)}&lt;/code&gt; || Matcht regulären Ausdruck.
+|-
+| &lt;code&gt;:minlength()&lt;/code&gt;|| &lt;code&gt;{slug:minlength(5)}&lt;/code&gt; || Mindestlänge des Strings.
+|}
+
+== 6. Token Replacement (Platzhalter) ==
+
+In Attributen können Platzhalter verwendet werden, um Redundanz zu vermeiden.
+
+=== Token-Variablen ===
+* &lt;code&gt;[controller]&lt;/code&gt;: Wird durch den Controller-Namen ersetzt.
+* &lt;code&gt;[action]&lt;/code&gt;: Wird durch den Action-Namen ersetzt.
+* &lt;code&gt;[area]&lt;/code&gt;: Wird durch den Area-Namen ersetzt.
+
+&lt;syntaxhighlight lang="csharp"&gt;
+[Route("[controller]/[action]")]
+public class UserController : Controller
+{
+    [HttpGet] // URL: /user/profile
+    public IActionResult Profile()
+    {
+        return View();
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+== 7. Catch-All Parameter ==
+
+Der Catch-All Parameter &lt;code&gt;*&lt;/code&gt; erfasst alle verbleibenden URL-Segmente als einzelne Zeichenkette.
+
+&lt;syntaxhighlight lang="csharp"&gt;
+[HttpGet("Neuformular/{*slug}")] // URL: /Neuformular/artikel/2024/dezember
+public IActionResult Index(string slug)
+{
+    // slug enthält: "artikel/2024/dezember"
+    return Content($"Slug: {slug}");
+}
+&lt;/syntaxhighlight&gt;
+
+Der Parameter &lt;code&gt;{*slug}&lt;/code&gt; erfasst alle verbleibenden Pfad-Segmente nach "Neuformular/" als einzelne Zeichenkette und übergibt sie an die Action-Methode.
+
+
+== 8. Arten von Attribute Routing ==
+
+Im Attribute Routing gibt es verschiedene Möglichkeiten, Routen zu definieren:
+
+* '''Einfache Routen''': Direktes Zuweisen eines Pfads an eine Action oder einen Controller.
+    &lt;syntaxhighlight lang="csharp"&gt;
+    [Route("produkte/liste")]
+    public IActionResult List() { ... }
+    &lt;/syntaxhighlight&gt;
+
+* '''Mehrere Routen für eine Action''': Mehrere &lt;code&gt;[Route]&lt;/code&gt;-Attribute an einer Methode.
+    &lt;syntaxhighlight lang="csharp"&gt;
+    [Route("produkte")]
+    [Route("produkte/index")]
+    public IActionResult Index() { ... }
+    &lt;/syntaxhighlight&gt;
+
+* '''HTTP-Methode-spezifische Attribute''': Kombination von &lt;code&gt;[HttpGet]&lt;/code&gt;, &lt;code&gt;[HttpPost]&lt;/code&gt; usw. mit Routen.
+    &lt;syntaxhighlight lang="csharp"&gt;
+    [HttpPost("produkte/erstellen")]
+    public IActionResult Create() { ... }
+    &lt;/syntaxhighlight&gt;
+
+* '''Token-basierte Routen''': Verwendung von Platzhaltern wie &lt;code&gt;[controller]&lt;/code&gt; und &lt;code&gt;[action]&lt;/code&gt;.
+    &lt;syntaxhighlight lang="csharp"&gt;
+    [Route("[controller]/[action]")]
+    public IActionResult Edit() { ... }
+    &lt;/syntaxhighlight&gt;
+
+* '''Routen mit Constraints''': Einschränkung von Parametern direkt im Attribut.
+    &lt;syntaxhighlight lang="csharp"&gt;
+    [HttpGet("produkte/{id:int}")]
+    public IActionResult Details(int id) { ... }
+    &lt;/syntaxhighlight&gt;
+
+Diese Flexibilität macht Attribute Routing besonders für komplexe oder REST-orientierte APIs attraktiv.</text>
+      <sha1>cry76b5wk8bpb35k90q7xdd6spq9fvi</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Webframeworkk/ASP.NET Core/Middleware</title>
+    <ns>0</ns>
+    <id>88</id>
+    <revision>
+      <id>359</id>
+      <timestamp>2026-02-15T16:35:32Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Dieses Tutorial erklärt das Konzept der Middleware in ASP.NET Core, wie sie funktioniert, wie man sie konfiguriert und wie man eigene Middleware-Komponenten erstellt. Es basiert auf den bereitgestellten Notizen und ergänzendem Expertenwissen.  == Was ist Middleware? ==  Middleware in ASP.NET Core ist eine Software-Pipeline, durch die jede HTTP-Anfrage (Request) und jede Antwort (Response) fließt. Man kann sich diese Pipeline wie eine Reihe von hinterei…“</comment>
+      <origin>359</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7455" sha1="drmoz1c0nwbevc5o21qzgbpyvefogfr" xml:space="preserve">Dieses Tutorial erklärt das Konzept der Middleware in ASP.NET Core, wie sie funktioniert, wie man sie konfiguriert und wie man eigene Middleware-Komponenten erstellt. Es basiert auf den bereitgestellten Notizen und ergänzendem Expertenwissen.
+
+== Was ist Middleware? ==
+
+Middleware in ASP.NET Core ist eine Software-Pipeline, durch die jede HTTP-Anfrage (Request) und jede Antwort (Response) fließt. Man kann sich diese Pipeline wie eine Reihe von hintereinander geschalteten Rohren oder Ventilen vorstellen.
+
+Jede Middleware-Komponente hat drei Hauptaufgaben:
+# '''Untersuchen''' der eingehenden Anfrage.
+# '''Bearbeiten''' der Anfrage oder der Antwort.
+# '''Weiterleiten''' an die nächste Middleware oder '''Beenden''' (Short-Circuit) der Pipeline.
+
+Dies ermöglicht eine saubere Modularisierung von Funktionen wie Authentifizierung, Logging, Fehlerbehandlung und Routing.
+
+----
+
+== Grundlagen: app.Use vs. app.Run ==
+
+Es gibt zwei grundlegende Methoden, um Middleware zur Pipeline hinzuzufügen:
+
+=== 1. &lt;code&gt;app.Run&lt;/code&gt; (Terminale Middleware) ===
+Diese Methode fügt eine '''terminale''' Middleware hinzu. Das bedeutet, sie beendet die Pipeline. Es wird kein &lt;code&gt;next&lt;/code&gt;-Delegat aufgerufen, und nachfolgende Middleware-Komponenten werden nicht ausgeführt.
+
+'''Beispiel:'''
+&lt;syntaxhighlight lang="csharp"&gt;
+app.Run(async (context) =&gt; {
+    await context.Response.WriteAsync("Ende der Pipeline");
+});
+&lt;/syntaxhighlight&gt;
+
+Warnung: Wenn Sie zwei &lt;code&gt;app.Run&lt;/code&gt;-Aufrufe hintereinander haben, wird nur der erste ausgeführt!
+
+=== 2. &lt;code&gt;app.Use&lt;/code&gt; (Verkettbare Middleware) ===
+Diese Methode dient dazu, Aufgaben zu erledigen und dann (meistens) die nächste Komponente in der Kette aufzurufen.
+
+'''Beispiel:'''
+&lt;syntaxhighlight lang="csharp"&gt;
+app.Use(async (context, next) =&gt; {
+    // Logik VOR dem nächsten Middleware-Aufruf (Request)
+    await context.Response.WriteAsync("Hallo ");
+    
+    // Ruft die nächste Middleware auf
+    await next(context); 
+    
+    // Logik NACH dem nächsten Middleware-Aufruf (Response)
+    // Hier können wir die Antwort noch bearbeiten, nachdem der Rest der Pipeline fertig ist.
+});
+&lt;/syntaxhighlight&gt;
+
+----
+
+== Die Reihenfolge der Middleware (The Middleware Order) ==
+
+Die Reihenfolge, in der Middleware in &lt;code&gt;Program.cs&lt;/code&gt; registriert wird, ist '''entscheidend'''. Die Pipeline wird in der Reihenfolge der Registrierung durchlaufen (für den Request) und in umgekehrter Reihenfolge wieder zurück (für die Response).
+
+=== Empfohlene Reihenfolge ===
+
+# '''Exception Handler''' (&lt;code&gt;UseDeveloperExceptionPage&lt;/code&gt;, &lt;code&gt;UseExceptionHandler&lt;/code&gt;): Sollte ganz oben stehen, um Fehler aus jedem Teil der Pipeline abzufangen.
+# '''HSTS &amp; HTTPS Redirection''' (&lt;code&gt;UseHsts&lt;/code&gt;, &lt;code&gt;UseHttpsRedirection&lt;/code&gt;): Sicherheit geht vor.
+# '''Static Files''' (&lt;code&gt;UseStaticFiles&lt;/code&gt;): Statische Dateien sollten schnell ausgeliefert werden, ohne unnötige Verarbeitung durch spätere Logik.
+# '''Routing''' (&lt;code&gt;UseRouting&lt;/code&gt;): Ermittelt, welcher Endpunkt passt.
+# '''CORS''' (&lt;code&gt;UseCors&lt;/code&gt;): Cross-Origin Resource Sharing.
+# '''Authentication''' (&lt;code&gt;UseAuthentication&lt;/code&gt;): Wer ist der Benutzer?
+# '''Authorization''' (&lt;code&gt;UseAuthorization&lt;/code&gt;): Darf der Benutzer das?
+# '''Benutzerdefinierte Middleware''': Ihre eigene Logik.
+# '''Endpunkte''' (&lt;code&gt;MapControllers&lt;/code&gt;, &lt;code&gt;UseEndpoints&lt;/code&gt;, &lt;code&gt;app.Run&lt;/code&gt;): Die eigentliche Verarbeitung der Anfrage.
+
+----
+
+== Custom Middleware erstellen ==
+
+Es gibt zwei Hauptwege, eigene Middleware zu schreiben: als Klasse mit &lt;code&gt;IMiddleware&lt;/code&gt; (Factory-based) oder als konventionelle Klasse.
+
+=== 1. Middleware mit &lt;code&gt;IMiddleware&lt;/code&gt; (Factory-based) ===
+
+Diese Methode ist stark typisiert und nutzt Dependency Injection voll aus. Die Klasse muss im DI-Container registriert werden (z.B. als Transient).
+
+&lt;syntaxhighlight lang="csharp"&gt;
+using Microsoft.AspNetCore.Http;
+using System.Threading.Tasks;
+
+public class MyFactoryMiddleware : IMiddleware
+{
+    public async Task InvokeAsync(HttpContext context, RequestDelegate next)
+    {
+        await context.Response.WriteAsync("Factory Middleware Start\n");
+        await next(context);
+        await context.Response.WriteAsync("Factory Middleware Ende\n");
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+'''Registrierung:'''
+&lt;syntaxhighlight lang="csharp"&gt;
+// In Program.cs
+builder.Services.AddTransient&lt;MyFactoryMiddleware&gt;();
+// ...
+app.UseMiddleware&lt;MyFactoryMiddleware&gt;();
+&lt;/syntaxhighlight&gt;
+
+=== 2. Konventionelle Middleware ===
+
+Dies ist der häufigste Weg. Die Klasse benötigt kein Interface, muss aber einer bestimmten Struktur folgen:
+* Einen öffentlichen Konstruktor, der &lt;code&gt;RequestDelegate&lt;/code&gt; als Parameter nimmt.
+* Eine Methode &lt;code&gt;Invoke&lt;/code&gt; oder &lt;code&gt;InvokeAsync&lt;/code&gt;, die &lt;code&gt;HttpContext&lt;/code&gt; nimmt und einen &lt;code&gt;Task&lt;/code&gt; zurückgibt.
+
+&lt;syntaxhighlight lang="csharp"&gt;
+public class HelloCustomMiddleware
+{
+    private readonly RequestDelegate _next;
+
+    public HelloCustomMiddleware(RequestDelegate next)
+    {
+        _next = next;
+    }
+
+    public async Task InvokeAsync(HttpContext httpContext)
+    {
+        // Beispiel: Prüfen auf Query-Parameter
+        if (httpContext.Request.Query.ContainsKey("firstname") &amp;&amp; 
+            httpContext.Request.Query.ContainsKey("lastname"))
+        {
+            string fullName = $"{httpContext.Request.Query[\"firstname\"]} {httpContext.Request.Query[\"lastname\"]}";
+            await httpContext.Response.WriteAsync($"Hallo {fullName}\n");
+        }
+
+        // WICHTIG: Nächste Middleware aufrufen
+        await _next(httpContext); 
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+'''Extension Method für saubere Registrierung:'''
+Es ist "Best Practice", eine Extension-Methode für &lt;code&gt;IApplicationBuilder&lt;/code&gt; zu erstellen.
+
+&lt;syntaxhighlight lang="csharp"&gt;
+public static class MiddlewareExtensions
+{
+    public static IApplicationBuilder UseHelloCustomMiddleware(this IApplicationBuilder builder)
+    {
+        return builder.UseMiddleware&lt;HelloCustomMiddleware&gt;();
+    }
+}
+
+// Verwendung in Program.cs
+app.UseHelloCustomMiddleware();
+&lt;/syntaxhighlight&gt;
+
+----
+
+== Bedingte Ausführung mit &lt;code&gt;UseWhen&lt;/code&gt; ==
+
+Mit &lt;code&gt;UseWhen&lt;/code&gt; können Sie eine Verzweigung in der Pipeline erstellen, die nur unter bestimmten Bedingungen ausgeführt wird. Die Haupt-Pipeline wird danach wieder zusammengeführt (im Gegensatz zu &lt;code&gt;Map&lt;/code&gt;, das oft eine Sackgasse ist).
+
+'''Syntax:'''
+&lt;syntaxhighlight lang="csharp"&gt;
+app.UseWhen(
+    context =&gt; context.Request.Query.ContainsKey("username"), // Bedingung (Predicate)
+    appBuilder =&gt; 
+    {
+        // Diese Middleware läuft nur, wenn die Bedingung wahr ist
+        appBuilder.Use(async (context, next) =&gt;
+        {
+            await context.Response.WriteAsync("Hallo vom Branch!\n");
+            await next();
+        });
+    }
+);
+&lt;/syntaxhighlight&gt;
+
+'''Szenarien für UseWhen:'''
+* Logging nur für bestimmte Pfade oder User.
+* Spezielle Header nur für API-Requests setzen.
+* Bedingte Diagnosetools.
+
+----
+
+== Zusammenfassung ==
+
+* '''Middleware''' bildet das Rückgrat einer ASP.NET Core Anwendung.
+* '''Reihenfolge''' ist wichtig: Von globalen Anliegen (Error Handling) zu spezifischen (Routing, Auth) zu Endpunkten.
+* &lt;code&gt;app.Use&lt;/code&gt; kettet Komponenten aneinander, &lt;code&gt;app.Run&lt;/code&gt; beendet die Kette.
+* '''Custom Middleware''' kann einfach als Klasse implementiert werden, um wiederverwendbare Logik zu kapseln.</text>
+      <sha1>drmoz1c0nwbevc5o21qzgbpyvefogfr</sha1>
+    </revision>
+    <revision>
+      <id>363</id>
+      <parentid>359</parentid>
+      <timestamp>2026-02-15T23:58:57Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <origin>363</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="7542" sha1="orzavkuih0ydexomnjydu1q7ddhmbhq" xml:space="preserve">Dieses Tutorial erklärt das Konzept der Middleware in ASP.NET Core, wie sie funktioniert, wie man sie konfiguriert und wie man eigene Middleware-Komponenten erstellt. Es basiert auf den bereitgestellten Notizen und ergänzendem Expertenwissen.
+
+== Was ist Middleware? ==
+
+Middleware in ASP.NET Core ist eine Software-Pipeline, durch die jede HTTP-Anfrage (Request) und jede Antwort (Response) fließt. Man kann sich diese Pipeline wie eine Reihe von hintereinander geschalteten Rohren oder Ventilen vorstellen.
+
+Jede Middleware-Komponente hat drei Hauptaufgaben:
+# '''Untersuchen''' der eingehenden Anfrage.
+# '''Bearbeiten''' der Anfrage oder der Antwort.
+# '''Weiterleiten''' an die nächste Middleware oder '''Beenden''' (Short-Circuit) der Pipeline.
+
+Dies ermöglicht eine saubere Modularisierung von Funktionen wie Authentifizierung, Logging, Fehlerbehandlung und Routing.
+
+----
+
+== Grundlagen: app.Use vs. app.Run ==
+
+Es gibt zwei grundlegende Methoden, um Middleware zur Pipeline hinzuzufügen:
+
+=== 1. &lt;code&gt;app.Run&lt;/code&gt; (Terminale Middleware) ===
+Diese Methode fügt eine '''terminale''' Middleware hinzu. Das bedeutet, sie beendet die Pipeline. Es wird kein &lt;code&gt;next&lt;/code&gt;-Delegat aufgerufen, und nachfolgende Middleware-Komponenten werden nicht ausgeführt.
+
+'''Beispiel:'''
+&lt;syntaxhighlight lang="csharp"&gt;
+app.Run(async (context) =&gt; {
+    await context.Response.WriteAsync("Ende der Pipeline");
+});
+&lt;/syntaxhighlight&gt;
+
+Warnung: Wenn Sie zwei &lt;code&gt;app.Run&lt;/code&gt;-Aufrufe hintereinander haben, wird nur der erste ausgeführt!
+
+=== 2. &lt;code&gt;app.Use&lt;/code&gt; (Verkettbare Middleware) ===
+Diese Methode dient dazu, Aufgaben zu erledigen und dann (meistens) die nächste Komponente in der Kette aufzurufen.
+
+'''Beispiel:'''
+&lt;syntaxhighlight lang="csharp"&gt;
+app.Use(async (context, next) =&gt; {
+    // Logik VOR dem nächsten Middleware-Aufruf (Request)
+    await context.Response.WriteAsync("Hallo ");
+    
+    // Ruft die nächste Middleware auf
+    await next(context); 
+    
+    // Logik NACH dem nächsten Middleware-Aufruf (Response)
+    // Hier können wir die Antwort noch bearbeiten, nachdem der Rest der Pipeline fertig ist.
+});
+&lt;/syntaxhighlight&gt;
+
+----
+
+== Die Reihenfolge der Middleware (The Middleware Order) ==
+
+Die Reihenfolge, in der Middleware in &lt;code&gt;Program.cs&lt;/code&gt; registriert wird, ist '''entscheidend'''. Die Pipeline wird in der Reihenfolge der Registrierung durchlaufen (für den Request) und in umgekehrter Reihenfolge wieder zurück (für die Response).
+
+=== Empfohlene Reihenfolge ===
+
+# '''Exception Handler''' (&lt;code&gt;UseDeveloperExceptionPage&lt;/code&gt;, &lt;code&gt;UseExceptionHandler&lt;/code&gt;): Sollte ganz oben stehen, um Fehler aus jedem Teil der Pipeline abzufangen.
+# '''HSTS &amp; HTTPS Redirection''' (&lt;code&gt;UseHsts&lt;/code&gt;, &lt;code&gt;UseHttpsRedirection&lt;/code&gt;): Sicherheit geht vor.
+# '''Static Files''' (&lt;code&gt;UseStaticFiles&lt;/code&gt;): Statische Dateien sollten schnell ausgeliefert werden, ohne unnötige Verarbeitung durch spätere Logik.
+# '''Routing''' (&lt;code&gt;UseRouting&lt;/code&gt;): Ermittelt, welcher Endpunkt passt.
+# '''CORS''' (&lt;code&gt;UseCors&lt;/code&gt;): Cross-Origin Resource Sharing.
+# '''Authentication''' (&lt;code&gt;UseAuthentication&lt;/code&gt;): Wer ist der Benutzer?
+# '''Authorization''' (&lt;code&gt;UseAuthorization&lt;/code&gt;): Darf der Benutzer das?
+# '''Benutzerdefinierte Middleware''': Ihre eigene Logik.
+# '''Endpunkte''' (&lt;code&gt;MapControllers&lt;/code&gt;, &lt;code&gt;UseEndpoints&lt;/code&gt;, &lt;code&gt;app.Run&lt;/code&gt;): Die eigentliche Verarbeitung der Anfrage.
+
+----
+
+== Custom Middleware erstellen ==
+
+Es gibt zwei Hauptwege, eigene Middleware zu schreiben: als Klasse mit &lt;code&gt;IMiddleware&lt;/code&gt; (Factory-based) oder als konventionelle Klasse.
+
+=== 1. Middleware mit &lt;code&gt;IMiddleware&lt;/code&gt; (Factory-based) ===
+
+Diese Methode ist stark typisiert und nutzt Dependency Injection voll aus. Die Klasse muss im DI-Container registriert werden (z.B. als Transient).
+
+&lt;syntaxhighlight lang="csharp"&gt;
+using Microsoft.AspNetCore.Http;
+using System.Threading.Tasks;
+
+public class MyFactoryMiddleware : IMiddleware
+{
+    public async Task InvokeAsync(HttpContext context, RequestDelegate next)
+    {
+        await context.Response.WriteAsync("Factory Middleware Start\n");
+        await next(context);
+        await context.Response.WriteAsync("Factory Middleware Ende\n");
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+'''Registrierung:'''
+&lt;syntaxhighlight lang="csharp"&gt;
+// In Program.cs
+builder.Services.AddTransient&lt;MyFactoryMiddleware&gt;();
+// ...
+app.UseMiddleware&lt;MyFactoryMiddleware&gt;();
+&lt;/syntaxhighlight&gt;
+
+=== 2. Konventionelle Middleware ===
+
+Dies ist der häufigste Weg. Die Klasse benötigt kein Interface, muss aber einer bestimmten Struktur folgen:
+* Einen öffentlichen Konstruktor, der &lt;code&gt;RequestDelegate&lt;/code&gt; als Parameter nimmt.
+* Eine Methode &lt;code&gt;Invoke&lt;/code&gt; oder &lt;code&gt;InvokeAsync&lt;/code&gt;, die &lt;code&gt;HttpContext&lt;/code&gt; nimmt und einen &lt;code&gt;Task&lt;/code&gt; zurückgibt.
+
+&lt;syntaxhighlight lang="csharp"&gt;
+public class HelloCustomMiddleware
+{
+    private readonly RequestDelegate _next;
+
+    public HelloCustomMiddleware(RequestDelegate next)
+    {
+        _next = next;
+    }
+
+    public async Task InvokeAsync(HttpContext httpContext)
+    {
+        // Beispiel: Prüfen auf Query-Parameter
+        if (httpContext.Request.Query.ContainsKey("firstname") &amp;&amp; 
+            httpContext.Request.Query.ContainsKey("lastname"))
+        {
+            string fullName = $"{httpContext.Request.Query[\"firstname\"]} {httpContext.Request.Query[\"lastname\"]}";
+            await httpContext.Response.WriteAsync($"Hallo {fullName}\n");
+        }
+
+        // WICHTIG: Nächste Middleware aufrufen
+        await _next(httpContext); 
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+'''Extension Method für saubere Registrierung:'''
+Es ist "Best Practice", eine Extension-Methode für &lt;code&gt;IApplicationBuilder&lt;/code&gt; zu erstellen.
+
+&lt;syntaxhighlight lang="csharp"&gt;
+public static class MiddlewareExtensions
+{
+    public static IApplicationBuilder UseHelloCustomMiddleware(this IApplicationBuilder builder)
+    {
+        return builder.UseMiddleware&lt;HelloCustomMiddleware&gt;();
+    }
+}
+
+// Verwendung in Program.cs
+app.UseHelloCustomMiddleware();
+&lt;/syntaxhighlight&gt;
+
+----
+
+== Bedingte Ausführung mit &lt;code&gt;UseWhen&lt;/code&gt; ==
+
+Mit &lt;code&gt;UseWhen&lt;/code&gt; können Sie eine Verzweigung in der Pipeline erstellen, die nur unter bestimmten Bedingungen ausgeführt wird. Die Haupt-Pipeline wird danach wieder zusammengeführt (im Gegensatz zu &lt;code&gt;Map&lt;/code&gt;, das oft eine Sackgasse ist).
+
+'''Syntax:'''
+&lt;syntaxhighlight lang="csharp"&gt;
+app.UseWhen(
+    context =&gt; context.Request.Query.ContainsKey("username"), // Bedingung (Predicate)
+    appBuilder =&gt; 
+    {
+        // Diese Middleware läuft nur, wenn die Bedingung wahr ist
+        appBuilder.Use(async (context, next) =&gt;
+        {
+            await context.Response.WriteAsync("Hallo vom Branch!\n");
+            await next();
+        });
+    }
+);
+&lt;/syntaxhighlight&gt;
+
+'''Szenarien für UseWhen:'''
+* Logging nur für bestimmte Pfade oder User.
+* Spezielle Header nur für API-Requests setzen.
+* Bedingte Diagnosetools.
+
+----
+
+== Zusammenfassung ==
+
+* '''Middleware''' bildet das Rückgrat einer ASP.NET Core Anwendung.
+* '''Reihenfolge''' ist wichtig: Von globalen Anliegen (Error Handling) zu spezifischen (Routing, Auth) zu Endpunkten.
+* &lt;code&gt;app.Use&lt;/code&gt; kettet Komponenten aneinander, &lt;code&gt;app.Run&lt;/code&gt; beendet die Kette.
+* '''Custom Middleware''' kann einfach als Klasse implementiert werden, um wiederverwendbare Logik zu kapseln.
+
+==Weblinks==
+* https://learn.microsoft.com/de-de/aspnet/core/fundamentals/middleware/</text>
+      <sha1>orzavkuih0ydexomnjydu1q7ddhmbhq</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Webframeworkk/ASP.NET Core/Http</title>
+    <ns>0</ns>
+    <id>89</id>
+    <revision>
+      <id>361</id>
+      <timestamp>2026-02-15T17:26:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ == 1. Was ist HTTP? == HTTP (Hypertext Transfer Protocol) ist das grundlegende Protokoll für die Kommunikation im Web. Es arbeitet nach dem Client-Server-Modell: Ein Client (z.B. Browser) sendet eine Anfrage, der Server antwortet mit Ressourcen oder Fehlermeldungen. HTTP ist zustandslos – jeder Request ist unabhängig.  == 2. HTTP-Server und Kestrel == Ein HTTP-Server verarbeitet Anfragen und sendet Antworten. Beispiele: Apache, Nginx, IIS, Kestrel (A…“</comment>
+      <origin>361</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2868" sha1="fya8jnqvswo78onjr9j1uo26389wmwa" xml:space="preserve">
+== 1. Was ist HTTP? ==
+HTTP (Hypertext Transfer Protocol) ist das grundlegende Protokoll für die Kommunikation im Web. Es arbeitet nach dem Client-Server-Modell: Ein Client (z.B. Browser) sendet eine Anfrage, der Server antwortet mit Ressourcen oder Fehlermeldungen. HTTP ist zustandslos – jeder Request ist unabhängig.
+
+== 2. HTTP-Server und Kestrel ==
+Ein HTTP-Server verarbeitet Anfragen und sendet Antworten. Beispiele: Apache, Nginx, IIS, Kestrel (ASP.NET Core). Kestrel ist ein moderner, plattformübergreifender Webserver für ASP.NET Core.
+
+== 3. Ablauf einer HTTP-Anfrage in ASP.NET Core ==
+# Client sendet HTTP-Anfrage.
+# Kestrel empfängt die Anfrage und leitet sie durch die Middleware-Pipeline.
+# Middleware verarbeitet die Anfrage und gibt sie an die Anwendung weiter.
+# Die Anwendung generiert eine Antwort.
+# Kestrel sendet die Antwort zurück an den Client.
+
+== 4. HTTP-Requests und -Responses ==
+* '''Request:''' Enthält Methode (GET, POST, etc.), URI, Version, Header und optional einen Body.
+* '''Response:''' Enthält Version, Statuscode, Header und optional einen Body.
+
+=== Beispiel für eine HTTP-Response ===
+&lt;pre&gt;
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 137
+&lt;html&gt;
+&lt;body&gt;
+&lt;h1&gt;Hello, World!&lt;/h1&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;/pre&gt;
+
+== 5. Wichtige Statuscodes ==
+* 200 OK: Erfolg
+* 201 Created: Ressource erstellt
+* 400 Bad Request: Syntaxfehler
+* 401 Unauthorized: Authentifizierung nötig
+* 404 Not Found: Ressource nicht gefunden
+* 500 Internal Server Error: Serverfehler
+
+== 6. Header und Statuscodes in ASP.NET Core setzen ==
+&lt;syntaxhighlight lang="csharp"&gt;
+var builder = WebApplication.CreateBuilder(args);
+var app = builder.Build();
+
+app.Run(async (HttpContext context) =&gt;
+{
+    context.Response.Headers["Content-Type"] = "text/html";
+    context.Response.StatusCode = 200;
+    await context.Response.WriteAsync("&lt;h1&gt;Hello&lt;/h1&gt;&lt;h2&gt;World&lt;/h2&gt;");
+});
+
+app.Run();
+&lt;/syntaxhighlight&gt;
+
+== 7. Zugriff auf Request-Informationen ==
+&lt;syntaxhighlight lang="csharp"&gt;
+app.Run(async (HttpContext context) =&gt;
+{
+    string path = context.Request.Path;
+    string method = context.Request.Method;
+    context.Response.Headers["Content-Type"] = "text/html";
+    await context.Response.WriteAsync($"&lt;p&gt;{path}&lt;/p&gt;&lt;p&gt;{method}&lt;/p&gt;");
+});
+&lt;/syntaxhighlight&gt;
+
+== 8. GET vs. POST ==
+* '''GET:''' Daten abfragen, Parameter in der URL, idempotent, cachbar.
+* '''POST:''' Daten senden, Parameter im Body, nicht idempotent, nicht cachbar.
+
+== 9. Testen mit Postman ==
+Postman ist ein Tool zum Testen von HTTP-Anfragen. Damit können Sie Ihre ASP.NET Core Endpunkte einfach testen und die Antworten analysieren.
+
+== 10. Zusammenfassung ==
+HTTP ist das Rückgrat des Webs. ASP.NET Core und Kestrel bieten eine moderne Plattform für Webanwendungen. Mit Middleware, Statuscodes und Headern können Sie flexibel auf Anfragen reagieren und Antworten gestalten.</text>
+      <sha1>fya8jnqvswo78onjr9j1uo26389wmwa</sha1>
+    </revision>
+    <revision>
+      <id>362</id>
+      <parentid>361</parentid>
+      <timestamp>2026-02-15T23:36:56Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* 10. Zusammenfassung */</comment>
+      <origin>362</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="3041" sha1="iyc55fqsx2hh0ubx8mv27zlzvnen8le" xml:space="preserve">
+== 1. Was ist HTTP? ==
+HTTP (Hypertext Transfer Protocol) ist das grundlegende Protokoll für die Kommunikation im Web. Es arbeitet nach dem Client-Server-Modell: Ein Client (z.B. Browser) sendet eine Anfrage, der Server antwortet mit Ressourcen oder Fehlermeldungen. HTTP ist zustandslos – jeder Request ist unabhängig.
+
+== 2. HTTP-Server und Kestrel ==
+Ein HTTP-Server verarbeitet Anfragen und sendet Antworten. Beispiele: Apache, Nginx, IIS, Kestrel (ASP.NET Core). Kestrel ist ein moderner, plattformübergreifender Webserver für ASP.NET Core.
+
+== 3. Ablauf einer HTTP-Anfrage in ASP.NET Core ==
+# Client sendet HTTP-Anfrage.
+# Kestrel empfängt die Anfrage und leitet sie durch die Middleware-Pipeline.
+# Middleware verarbeitet die Anfrage und gibt sie an die Anwendung weiter.
+# Die Anwendung generiert eine Antwort.
+# Kestrel sendet die Antwort zurück an den Client.
+
+== 4. HTTP-Requests und -Responses ==
+* '''Request:''' Enthält Methode (GET, POST, etc.), URI, Version, Header und optional einen Body.
+* '''Response:''' Enthält Version, Statuscode, Header und optional einen Body.
+
+=== Beispiel für eine HTTP-Response ===
+&lt;pre&gt;
+HTTP/1.1 200 OK
+Content-Type: text/html
+Content-Length: 137
+&lt;html&gt;
+&lt;body&gt;
+&lt;h1&gt;Hello, World!&lt;/h1&gt;
+&lt;/body&gt;
+&lt;/html&gt;
+&lt;/pre&gt;
+
+== 5. Wichtige Statuscodes ==
+* 200 OK: Erfolg
+* 201 Created: Ressource erstellt
+* 400 Bad Request: Syntaxfehler
+* 401 Unauthorized: Authentifizierung nötig
+* 404 Not Found: Ressource nicht gefunden
+* 500 Internal Server Error: Serverfehler
+
+== 6. Header und Statuscodes in ASP.NET Core setzen ==
+&lt;syntaxhighlight lang="csharp"&gt;
+var builder = WebApplication.CreateBuilder(args);
+var app = builder.Build();
+
+app.Run(async (HttpContext context) =&gt;
+{
+    context.Response.Headers["Content-Type"] = "text/html";
+    context.Response.StatusCode = 200;
+    await context.Response.WriteAsync("&lt;h1&gt;Hello&lt;/h1&gt;&lt;h2&gt;World&lt;/h2&gt;");
+});
+
+app.Run();
+&lt;/syntaxhighlight&gt;
+
+== 7. Zugriff auf Request-Informationen ==
+&lt;syntaxhighlight lang="csharp"&gt;
+app.Run(async (HttpContext context) =&gt;
+{
+    string path = context.Request.Path;
+    string method = context.Request.Method;
+    context.Response.Headers["Content-Type"] = "text/html";
+    await context.Response.WriteAsync($"&lt;p&gt;{path}&lt;/p&gt;&lt;p&gt;{method}&lt;/p&gt;");
+});
+&lt;/syntaxhighlight&gt;
+
+== 8. GET vs. POST ==
+* '''GET:''' Daten abfragen, Parameter in der URL, idempotent, cachbar.
+* '''POST:''' Daten senden, Parameter im Body, nicht idempotent, nicht cachbar.
+
+== 9. Testen mit Postman ==
+Postman ist ein Tool zum Testen von HTTP-Anfragen. Damit können Sie Ihre ASP.NET Core Endpunkte einfach testen und die Antworten analysieren.
+
+== 10. Zusammenfassung ==
+HTTP ist das Rückgrat des Webs. ASP.NET Core und Kestrel bieten eine moderne Plattform für Webanwendungen. Mit Middleware, Statuscodes und Headern können Sie flexibel auf Anfragen reagieren und Antworten gestalten.
+
+==Weblinks==
+* https://learn.microsoft.com/de-de/aspnet/core/fundamentals/?view=aspnetcore-10.0&amp;tabs=linux
+* https://developer.mozilla.org/de/docs/Web/HTTP/Guides/Overview</text>
+      <sha1>iyc55fqsx2hh0ubx8mv27zlzvnen8le</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Webframeworkk/ASP.NET Core/Controllers und IActionResult</title>
+    <ns>0</ns>
+    <id>90</id>
+    <revision>
+      <id>365</id>
+      <timestamp>2026-02-16T22:41:05Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „In der **Model-View-Controller (MVC)** Architektur fungieren Controller als Orchestratoren der Webanwendung. Sie verarbeiten eingehende HTTP-Anfragen, interagieren mit dem Model (Datenbank oder Business-Logik) und wählen die passende View für die Antwort aus.  * **Controller**: Klassen, die verwandte Action Methods gruppieren. Sie befinden sich typischerweise im Ordner `Controllers`. * **Action Methods**: Öffentliche Methoden innerhalb eines Controller…“</comment>
+      <origin>365</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6128" sha1="pmb64e9srrz12czhiv37hjvsanaopjb" xml:space="preserve">In der **Model-View-Controller (MVC)** Architektur fungieren Controller als Orchestratoren der Webanwendung. Sie verarbeiten eingehende HTTP-Anfragen, interagieren mit dem Model (Datenbank oder Business-Logik) und wählen die passende View für die Antwort aus.
+
+* **Controller**: Klassen, die verwandte Action Methods gruppieren. Sie befinden sich typischerweise im Ordner `Controllers`.
+* **Action Methods**: Öffentliche Methoden innerhalb eines Controllers, die spezifische Anfragen bearbeiten (z.B. Anzeigen einer Seite, Verarbeiten von Formulardaten).
+
+== Zweck ==
+* **Logik organisieren**: Controller bieten eine logische Gruppierung für Aktionen, die auf demselben Datentyp oder derselben Funktionalität arbeiten.
+* **Anfragen behandeln**: Sie sind verantwortlich für das Verarbeiten von Requests, das Abrufen notwendiger Daten und das Vorbereiten einer Antwort.
+* **Views auswählen**: Controller wählen oft die geeignete View zum Rendern aus und übergeben Daten (das Model) an die View.
+
+== Syntax und Konventionen ==
+* **Klassenbenennung**: Controller-Klassennamen sollten auf "Controller" enden (z.B. `HomeController`, `ProductsController`).
+* **Vererbung**: Controller erben von der Basisklasse `Controller` (oder `ControllerBase` für API-Controller).
+* **Action Method Benennung**: Methoden können jeden gültigen C#-Namen haben.
+* **Routing**: Routen können über Attribute wie `[Route]`, `[HttpGet]`, `[HttpPost]` definiert werden.
+
+=== Code-Beispiel ===
+&lt;syntaxhighlight lang="csharp"&gt;
+// HomeController.cs
+namespace ControllersExample.Controllers
+{
+    [Controller] // Markiert die Klasse als Controller
+    public class HomeController : Controller
+    {
+        [Route("home")] // Route für diese Action
+        public string Index()
+        {
+            return "Hello from Index";
+        }
+
+        [Route("contact-us/{mobile:regex(^\\d{10}$)}")] // Route mit Constraint
+        public string Contact()
+        {
+            return "Hello from Contact";
+        }
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+== Einrichtung in Program.cs ==
+Um Controller zu verwenden, müssen sie registriert und dem Routing-System hinzugefügt werden:
+
+&lt;syntaxhighlight lang="csharp"&gt;
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllers(); // Aktiviert MVC Controller
+
+var app = builder.Build();
+app.UseRouting();
+app.MapControllers(); // Verbindet Controller mit dem Routing-System
+app.Run();
+&lt;/syntaxhighlight&gt;
+
+= IActionResult =
+Das `IActionResult` Interface ist ein Kernkonzept in ASP.NET Core MVC. Es dient als Rückgabetyp für Action Methods und ermöglicht es, je nach Kontext der Anfrage unterschiedliche Arten von Antworten zurückzugeben.
+
+Es definiert einen Vertrag mit einer einzigen Methode:
+&lt;syntaxhighlight lang="csharp"&gt;
+Task ExecuteResultAsync(ActionContext context);
+&lt;/syntaxhighlight&gt;
+
+== Rückgabetypen (Action Results) ==
+Hier sind die wichtigsten von `IActionResult` abgeleiteten Ergebnistypen:
+
+=== ContentResult ===
+Gibt rohen Inhalt (Text, HTML, JSON, etc.) zurück, ohne eine View zu rendern.
+* **Einsatz**: Einfache Textnachrichten, API-Antworten oder benutzerdefinierte Formate.
+* **Eigenschaften**: `Content` (Inhalt), `ContentType` (MIME-Type, z.B. `text/html`).
+
+&lt;syntaxhighlight lang="csharp"&gt;
+// Verwendung der Helper-Methode
+public ContentResult Index()
+{
+    return Content("&lt;h1&gt;Welcome&lt;/h1&gt;", "text/html");
+}
+&lt;/syntaxhighlight&gt;
+
+=== JsonResult ===
+Serialisiert ein Objekt in JSON-Format und gibt es zurück.
+* **Einsatz**: RESTful APIs, AJAX-Antworten.
+* **ContentType**: Setzt automatisch `application/json`.
+
+&lt;syntaxhighlight lang="csharp"&gt;
+public JsonResult Person()
+{
+    var person = new { FirstName = "James", LastName = "Smith", Age = 25 };
+    return Json(person); // Helper-Methode
+}
+&lt;/syntaxhighlight&gt;
+
+=== FileResult ===
+Dient zum Senden von Dateien (PDF, Bilder, Dokumente) an den Client.
+
+;VirtualFileResult
+: Dient Dateien aus dem Web-Root (`wwwroot`) oder einem virtuellen Pfad.
+&lt;syntaxhighlight lang="csharp"&gt;
+return File("/sample.pdf", "application/pdf");
+&lt;/syntaxhighlight&gt;
+
+;PhysicalFileResult
+: Dient Dateien von einem absoluten physischen Pfad auf dem Server. **Vorsicht**: Sicherheit beachten!
+&lt;syntaxhighlight lang="csharp"&gt;
+return PhysicalFile(@"c:\aspnetcore\sample.pdf", "application/pdf");
+&lt;/syntaxhighlight&gt;
+
+;FileContentResult
+: Dient Dateien aus einem Byte-Array im Speicher.
+&lt;syntaxhighlight lang="csharp"&gt;
+byte[] bytes = System.IO.File.ReadAllBytes(@"c:\sample.pdf");
+return File(bytes, "application/pdf");
+&lt;/syntaxhighlight&gt;
+
+=== Status Code Results ===
+Ermöglicht das Senden standardisierter HTTP-Statuscodes, um den Client über das Ergebnis der Anfrage zu informieren.
+
+* **OkResult (200)**: Erfolgreiche Anfrage.
+* **BadRequestResult (400)**: Client-Fehler, z.B. ungültige Eingabe.
+* **NotFoundResult (404)**: Ressource nicht gefunden.
+* **UnauthorizedResult (401)**: Authentifizierung erforderlich.
+* **StatusCodeResult**: Jeder beliebige Statuscode.
+
+&lt;syntaxhighlight lang="csharp"&gt;
+public IActionResult GetBook(int id)
+{
+    if (id &lt;= 0)
+    {
+        return BadRequest("Invalid ID"); // 400
+    }
+    
+    if (id &gt; 1000)
+    {
+        return NotFound("Book not found"); // 404
+    }
+
+    return Ok(); // 200
+}
+&lt;/syntaxhighlight&gt;
+
+=== Redirect Results ===
+Leitet den Browser zu einer anderen URL um.
+
+;RedirectResult
+: Leitet zu einer URL weiter (absolut oder relativ).
+&lt;syntaxhighlight lang="csharp"&gt;
+return Redirect("/home");
+&lt;/syntaxhighlight&gt;
+
+;RedirectToActionResult
+: Leitet zu einer spezifischen Action in einem Controller weiter.
+&lt;syntaxhighlight lang="csharp"&gt;
+return RedirectToAction("Index", "Home");
+&lt;/syntaxhighlight&gt;
+
+;LocalRedirectResult
+: Leitet zu einer lokalen URL innerhalb der Anwendung weiter (Schutz vor Open Redirects).
+&lt;syntaxhighlight lang="csharp"&gt;
+return LocalRedirect("/products/details/1");
+&lt;/syntaxhighlight&gt;
+
+==== Statuscodes für Redirects ====
+* **302 Found (Temporär)**: Standard. Ressource ist vorübergehend unter neuer URL.
+* **301 Moved Permanently**: Ressource wurde dauerhaft verschoben.
+  * Verwendung: `RedirectPermanent`, `RedirectToActionPermanent`, `LocalRedirectPermanent`.</text>
+      <sha1>pmb64e9srrz12czhiv37hjvsanaopjb</sha1>
+    </revision>
+    <revision>
+      <id>367</id>
+      <parentid>365</parentid>
+      <timestamp>2026-02-17T13:05:13Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>/* Statuscodes für Redirects */</comment>
+      <origin>367</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6234" sha1="fng6mha6s40c67tnfino4xn00il37qn" xml:space="preserve">In der **Model-View-Controller (MVC)** Architektur fungieren Controller als Orchestratoren der Webanwendung. Sie verarbeiten eingehende HTTP-Anfragen, interagieren mit dem Model (Datenbank oder Business-Logik) und wählen die passende View für die Antwort aus.
+
+* **Controller**: Klassen, die verwandte Action Methods gruppieren. Sie befinden sich typischerweise im Ordner `Controllers`.
+* **Action Methods**: Öffentliche Methoden innerhalb eines Controllers, die spezifische Anfragen bearbeiten (z.B. Anzeigen einer Seite, Verarbeiten von Formulardaten).
+
+== Zweck ==
+* **Logik organisieren**: Controller bieten eine logische Gruppierung für Aktionen, die auf demselben Datentyp oder derselben Funktionalität arbeiten.
+* **Anfragen behandeln**: Sie sind verantwortlich für das Verarbeiten von Requests, das Abrufen notwendiger Daten und das Vorbereiten einer Antwort.
+* **Views auswählen**: Controller wählen oft die geeignete View zum Rendern aus und übergeben Daten (das Model) an die View.
+
+== Syntax und Konventionen ==
+* **Klassenbenennung**: Controller-Klassennamen sollten auf "Controller" enden (z.B. `HomeController`, `ProductsController`).
+* **Vererbung**: Controller erben von der Basisklasse `Controller` (oder `ControllerBase` für API-Controller).
+* **Action Method Benennung**: Methoden können jeden gültigen C#-Namen haben.
+* **Routing**: Routen können über Attribute wie `[Route]`, `[HttpGet]`, `[HttpPost]` definiert werden.
+
+=== Code-Beispiel ===
+&lt;syntaxhighlight lang="csharp"&gt;
+// HomeController.cs
+namespace ControllersExample.Controllers
+{
+    [Controller] // Markiert die Klasse als Controller
+    public class HomeController : Controller
+    {
+        [Route("home")] // Route für diese Action
+        public string Index()
+        {
+            return "Hello from Index";
+        }
+
+        [Route("contact-us/{mobile:regex(^\\d{10}$)}")] // Route mit Constraint
+        public string Contact()
+        {
+            return "Hello from Contact";
+        }
+    }
+}
+&lt;/syntaxhighlight&gt;
+
+== Einrichtung in Program.cs ==
+Um Controller zu verwenden, müssen sie registriert und dem Routing-System hinzugefügt werden:
+
+&lt;syntaxhighlight lang="csharp"&gt;
+var builder = WebApplication.CreateBuilder(args);
+builder.Services.AddControllers(); // Aktiviert MVC Controller
+
+var app = builder.Build();
+app.UseRouting();
+app.MapControllers(); // Verbindet Controller mit dem Routing-System
+app.Run();
+&lt;/syntaxhighlight&gt;
+
+= IActionResult =
+Das `IActionResult` Interface ist ein Kernkonzept in ASP.NET Core MVC. Es dient als Rückgabetyp für Action Methods und ermöglicht es, je nach Kontext der Anfrage unterschiedliche Arten von Antworten zurückzugeben.
+
+Es definiert einen Vertrag mit einer einzigen Methode:
+&lt;syntaxhighlight lang="csharp"&gt;
+Task ExecuteResultAsync(ActionContext context);
+&lt;/syntaxhighlight&gt;
+
+== Rückgabetypen (Action Results) ==
+Hier sind die wichtigsten von `IActionResult` abgeleiteten Ergebnistypen:
+
+=== ContentResult ===
+Gibt rohen Inhalt (Text, HTML, JSON, etc.) zurück, ohne eine View zu rendern.
+* **Einsatz**: Einfache Textnachrichten, API-Antworten oder benutzerdefinierte Formate.
+* **Eigenschaften**: `Content` (Inhalt), `ContentType` (MIME-Type, z.B. `text/html`).
+
+&lt;syntaxhighlight lang="csharp"&gt;
+// Verwendung der Helper-Methode
+public ContentResult Index()
+{
+    return Content("&lt;h1&gt;Welcome&lt;/h1&gt;", "text/html");
+}
+&lt;/syntaxhighlight&gt;
+
+=== JsonResult ===
+Serialisiert ein Objekt in JSON-Format und gibt es zurück.
+* **Einsatz**: RESTful APIs, AJAX-Antworten.
+* **ContentType**: Setzt automatisch `application/json`.
+
+&lt;syntaxhighlight lang="csharp"&gt;
+public JsonResult Person()
+{
+    var person = new { FirstName = "James", LastName = "Smith", Age = 25 };
+    return Json(person); // Helper-Methode
+}
+&lt;/syntaxhighlight&gt;
+
+=== FileResult ===
+Dient zum Senden von Dateien (PDF, Bilder, Dokumente) an den Client.
+
+;VirtualFileResult
+: Dient Dateien aus dem Web-Root (`wwwroot`) oder einem virtuellen Pfad.
+&lt;syntaxhighlight lang="csharp"&gt;
+return File("/sample.pdf", "application/pdf");
+&lt;/syntaxhighlight&gt;
+
+;PhysicalFileResult
+: Dient Dateien von einem absoluten physischen Pfad auf dem Server. **Vorsicht**: Sicherheit beachten!
+&lt;syntaxhighlight lang="csharp"&gt;
+return PhysicalFile(@"c:\aspnetcore\sample.pdf", "application/pdf");
+&lt;/syntaxhighlight&gt;
+
+;FileContentResult
+: Dient Dateien aus einem Byte-Array im Speicher.
+&lt;syntaxhighlight lang="csharp"&gt;
+byte[] bytes = System.IO.File.ReadAllBytes(@"c:\sample.pdf");
+return File(bytes, "application/pdf");
+&lt;/syntaxhighlight&gt;
+
+=== Status Code Results ===
+Ermöglicht das Senden standardisierter HTTP-Statuscodes, um den Client über das Ergebnis der Anfrage zu informieren.
+
+* **OkResult (200)**: Erfolgreiche Anfrage.
+* **BadRequestResult (400)**: Client-Fehler, z.B. ungültige Eingabe.
+* **NotFoundResult (404)**: Ressource nicht gefunden.
+* **UnauthorizedResult (401)**: Authentifizierung erforderlich.
+* **StatusCodeResult**: Jeder beliebige Statuscode.
+
+&lt;syntaxhighlight lang="csharp"&gt;
+public IActionResult GetBook(int id)
+{
+    if (id &lt;= 0)
+    {
+        return BadRequest("Invalid ID"); // 400
+    }
+    
+    if (id &gt; 1000)
+    {
+        return NotFound("Book not found"); // 404
+    }
+
+    return Ok(); // 200
+}
+&lt;/syntaxhighlight&gt;
+
+=== Redirect Results ===
+Leitet den Browser zu einer anderen URL um.
+
+;RedirectResult
+: Leitet zu einer URL weiter (absolut oder relativ).
+&lt;syntaxhighlight lang="csharp"&gt;
+return Redirect("/home");
+&lt;/syntaxhighlight&gt;
+
+;RedirectToActionResult
+: Leitet zu einer spezifischen Action in einem Controller weiter.
+&lt;syntaxhighlight lang="csharp"&gt;
+return RedirectToAction("Index", "Home");
+&lt;/syntaxhighlight&gt;
+
+;LocalRedirectResult
+: Leitet zu einer lokalen URL innerhalb der Anwendung weiter (Schutz vor Open Redirects).
+&lt;syntaxhighlight lang="csharp"&gt;
+return LocalRedirect("/products/details/1");
+&lt;/syntaxhighlight&gt;
+
+==== Statuscodes für Redirects ====
+* **302 Found (Temporär)**: Standard. Ressource ist vorübergehend unter neuer URL.
+* **301 Moved Permanently**: Ressource wurde dauerhaft verschoben.
+  * Verwendung: `RedirectPermanent`, `RedirectToActionPermanent`, `LocalRedirectPermanent`.
+==Weblinks==
+* https://learn.microsoft.com/de-de/aspnet/core/mvc/controllers/actions?view=aspnetcore-10.0</text>
+      <sha1>fng6mha6s40c67tnfino4xn00il37qn</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Webframeworkk/ASP.NET Core/Model Binding und Validation</title>
+    <ns>0</ns>
+    <id>91</id>
+    <revision>
+      <id>370</id>
+      <timestamp>2026-02-17T14:11:38Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ Basierend auf der Analyse der Datei ''Text.txt'' bietet dieses Tutorial einen umfassenden Überblick über Model Binding und Validierung in ASP.NET Core MVC.  == 1. Einführung in Model Binding == Model Binding ist eine leistungsstarke Funktion in ASP.NET Core MVC, die den Prozess der Datenextraktion aus verschiedenen Teilen einer HTTP-Anfrage (Formulardaten, Routenwerte, Query Strings) automatisiert und in stark typisierte C#-Objekte konvertiert, die di…“</comment>
+      <origin>370</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="6164" sha1="6m25zbudhmfl39n0o91sine1s3xmokf" xml:space="preserve">
+Basierend auf der Analyse der Datei ''Text.txt'' bietet dieses Tutorial einen umfassenden Überblick über Model Binding und Validierung in ASP.NET Core MVC.
+
+== 1. Einführung in Model Binding ==
+Model Binding ist eine leistungsstarke Funktion in ASP.NET Core MVC, die den Prozess der Datenextraktion aus verschiedenen Teilen einer HTTP-Anfrage (Formulardaten, Routenwerte, Query Strings) automatisiert und in stark typisierte C#-Objekte konvertiert, die direkt in Action-Methoden verwendet werden können.
+
+=== Wann wird Model Binding ausgeführt? ===
+Es findet statt, '''nachdem''' das Routing bestimmt hat, welche Action-Methode aufgerufen werden soll. Das System versucht dann, die Parameter dieser Methode mit Werten aus der eingehenden Anfrage zu füllen.
+
+=== Reihenfolge des Model Bindings ===
+ASP.NET Core sucht in einer spezifischen Reihenfolge nach Datenquellen:
+# '''Form Data (POST requests)''': Werte aus HTML-Formularen.
+# '''Route Data''': Werte aus der URL-Routen-Vorlage (z.B. /products/{id}).
+# '''Query String''': Werte, die an die URL angehängt sind (nach dem ?).
+
+----
+
+== 2. Datenquellen im Detail ==
+
+=== Query Strings ===
+* '''Zweck''': Übergabe von Parametern über die URL (z.B. Filtern, Sortieren).
+* '''Syntax''': ?key1=value1&amp;key2=value2
+* '''Best Practices''': Keine sensiblen Daten (Passwörter), einfache Namen verwenden, Input validieren.
+
+=== Route Data ===
+* '''Zweck''': Erfassen dynamischer Werte aus der URL.
+* '''Syntax''': /products/{id}, wobei ''id'' ein Routenparameter ist.
+* '''Best Practices''': Klare Namen wählen, Constraints verwenden (z.B. int, guid).
+
+=== URL Encoding ===
+Spezielle Zeichen in URLs müssen encodiert werden (z.B. Leerzeichen als %20). Dies stellt sicher, dass URLs korrekt übertragen und interpretiert werden.
+
+----
+
+== 3. Explizite Binding-Attribute ==
+Obwohl das automatische Binding oft ausreicht, können Sie mit Attributen genau steuern, woher die Daten kommen sollen.
+
+* '''[FromQuery]''': Weist den Model Binder an, den Wert ausschließlich aus dem Query String zu holen.
+&lt;syntaxhighlight lang="csharp"&gt;
+public IActionResult Index([FromQuery] int page) { ... }
+&lt;/syntaxhighlight&gt;
+* '''[FromRoute]''': Weist den Model Binder an, den Wert aus den Routendaten zu holen.
+&lt;syntaxhighlight lang="csharp"&gt;
+[Route("products/{id}")]
+public IActionResult Details([FromRoute] int id) { ... }
+&lt;/syntaxhighlight&gt;
+* '''[FromHeader]''': Bindet Parameter direkt aus HTTP-Headern (z.B. User-Agent).
+&lt;syntaxhighlight lang="csharp"&gt;
+public IActionResult Index([FromHeader(Name = "User-Agent")] string userAgent) { ... }
+&lt;/syntaxhighlight&gt;
+* '''[FromBody]''': Wird verwendet, um komplexe Objekte aus dem Request Body zu binden (z.B. JSON oder XML). Dies ist besonders wichtig für APIs.
+&lt;syntaxhighlight lang="csharp"&gt;
+public IActionResult Create([FromBody] Person person) { ... }
+&lt;/syntaxhighlight&gt;
+
+----
+
+== 4. Model Validierung ==
+Model Validation prüft, ob die empfangenen Daten den definierten Kriterien entsprechen. Dies ist entscheidend für Sicherheit und Datenintegrität.
+
+=== Data Annotations ===
+Verwenden Sie Attribute aus ''System.ComponentModel.DataAnnotations'' direkt in Ihren Modellklassen:
+
+* '''[Required]''': Feld darf nicht null oder leer sein.
+* '''[StringLength]''': Beschränkt die Länge eines Strings.
+* '''[Range]''': Definiert einen numerischen Bereich.
+* '''[EmailAddress]''': Prüft auf gültiges E-Mail-Format.
+* '''[Phone]''': Prüft auf Telefonnummer-Format.
+* '''[Compare]''': Vergleicht zwei Eigenschaften (z.B. Passwort und Bestätigung).
+* '''[Url]''': Prüft auf gültige URL.
+
+=== ModelState ===
+In Ihren Controller-Actions können Sie &lt;code&gt;ModelState.IsValid&lt;/code&gt; prüfen.
+&lt;syntaxhighlight lang="csharp"&gt;
+public IActionResult Create(Person person)
+{
+    if (!ModelState.IsValid)
+    {
+        return View(person); // Fehler anzeigen
+    }
+    // Speichern...
+}
+&lt;/syntaxhighlight&gt;
+
+=== Fortgeschrittene Validierung ===
+# '''Custom Validation Attributes''': Erben Sie von &lt;code&gt;ValidationAttribute&lt;/code&gt;, um eigene Regeln zu erstellen (z.B. DateRangeValidator oder MinimumYearValidator). Man überschreibt dabei die &lt;code&gt;IsValid&lt;/code&gt;-Methode.
+# '''IValidatableObject''': Für Validierung, die mehrere Eigenschaften betrifft (Cross-Property Validation), kann das Modell dieses Interface implementieren. Die &lt;code&gt;Validate&lt;/code&gt;-Methode wird aufgerufen, nachdem die Property-Level-Validierungen durchgelaufen sind.
+
+----
+
+== 5. Steuerung des Bindings ==
+
+=== [Bind] und [BindNever] ===
+* '''[Bind]''': Gibt explizit an, welche Properties gebunden werden sollen (Whitelist). Schützt vor Overposting-Attacken.
+&lt;syntaxhighlight lang="csharp"&gt;
+public IActionResult Create([Bind("Title", "Description")] Product product)
+&lt;/syntaxhighlight&gt;
+* '''[BindNever]''': Schließt spezifische Properties vom Binding aus (Blacklist). Wird direkt an der Model-Property notiert.
+
+=== Collection Binding ===
+ASP.NET Core kann Listen und Arrays binden (List&amp;lt;T&amp;gt;, T[]).
+Das Namensschema im Request muss passen:
+* Indiziert: items[0], items[1]
+* Gleicher Name: items, items
+
+----
+
+== 6. Erweiterte Themen ==
+
+=== Input Formatters ===
+Verantwortlich für das Deserialisieren des Request Body (z.B. JSON zu C#-Objekt).
+* Standardmäßig ist ''NewtonsoftJsonInputFormatter'' oder ''SystemTextJsonInputFormatter'' aktiv.
+* Für XML kann ''XmlSerializerInputFormatter'' konfiguriert werden (&lt;code&gt;.AddXmlSerializerFormatters()&lt;/code&gt;).
+
+=== Custom Model Binders ===
+Wenn das Standardverhalten nicht ausreicht, können Sie eigene Model Binder erstellen, indem Sie &lt;code&gt;IModelBinder&lt;/code&gt; implementieren.
+* '''BindModelAsync''': Enthält die Logik zum Auslesen der Daten aus dem &lt;code&gt;bindingContext&lt;/code&gt;.
+* Ein &lt;code&gt;IModelBinderProvider&lt;/code&gt; wird benötigt, um den Binder zu registrieren.
+
+----
+
+== Zusammenfassung ==
+# '''Model Binding''' automatisiert die Datenannahme und Typkonvertierung.
+# '''Validierung''' stellt sicher, dass nur korrekte Daten verarbeitet werden (&lt;code&gt;ModelState.IsValid&lt;/code&gt;).
+# Nutzen Sie '''Attribute''' ([FromQuery], [FromBody], etc.) für explizite Kontrolle.
+# Sicherheit ist Priorität: Validieren und sanitisieren Sie immer alle Inputs.</text>
+      <sha1>6m25zbudhmfl39n0o91sine1s3xmokf</sha1>
     </revision>
   </page>
 </mediawiki>
