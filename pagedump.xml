@@ -3314,4 +3314,132 @@ Danach gehen wir nach Hause und machen einen kleinen Mittagsschlaf, bis es wiede
       <sha1>99yhcu0jha5nm04ko0o6msdrh62zsnn</sha1>
     </revision>
   </page>
+  <page>
+    <title>Blog:05.03.2026</title>
+    <ns>3002</ns>
+    <id>45</id>
+    <revision>
+      <id>99</id>
+      <timestamp>2026-03-06T05:07:07Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>// via Wikitext Extension for VSCode</comment>
+      <origin>99</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="1635" sha1="ex7xdm0zm6mgum159ju0refzsy42bvd" xml:space="preserve">==Heute moderne Technik beim Programmieren mit KI nutzen==
+===KI-Assistenten integriert===
+* Cursor: Ein KI-basierter Code-Assistent, der direkt im Editor Vorschläge macht und beim Programmieren unterstützt.
+* Visual Studio Code mit GitHub Copilot: GitHub Copilot ist ein KI-gestütztes Tool, das in Visual Studio Code integriert werden kann und automatisch Code-Vorschläge generiert, um die Entwicklung effizienter zu gestalten.
+* Google Antigravity
+===CLI===
+* Claude Code: Ein KI-gestütztes Tool, das über die Kommandozeile (CLI) verwendet werden kann, um Code zu generieren, zu analysieren und zu optimieren. Es bietet Entwicklern die Möglichkeit, KI-Funktionen direkt in ihre Arbeitsabläufe zu integrieren, ohne eine grafische Benutzeroberfläche zu benötigen.
+* OpenAI Codex CLI: Ein weiteres KI-Tool, das über die Kommandozeile zugänglich ist und Entwicklern hilft, Code zu schreiben, zu debuggen und zu optimieren. Es ermöglicht die Nutzung von KI-Funktionen direkt aus der CLI heraus, was die Effizienz und Produktivität steigern kann.
+* Gemini CLI: Ein KI-gestütztes Tool, das über die Kommandozeile verwendet werden kann, um Code zu generieren, zu analysieren und zu optimieren. Es bietet Entwicklern die Möglichkeit, KI-Funktionen direkt in ihre Arbeitsabläufe zu integrieren, ohne eine grafische Benutzeroberfläche zu benötigen.
+* GitHub Copilot CLI: Ein KI-Tool, das über die Kommandozeile zugänglich ist und Entwicklern hilft, Code zu schreiben, zu debuggen und zu optimieren. Es ermöglicht die Nutzung von KI-Funktionen direkt aus der CLI heraus, was die Effizienz und Produktivität steigern kann.</text>
+      <sha1>ex7xdm0zm6mgum159ju0refzsy42bvd</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Wander- und Radwege</title>
+    <ns>0</ns>
+    <id>46</id>
+    <revision>
+      <id>100</id>
+      <timestamp>2026-03-10T18:02:30Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „Die Region um Ahrensburg, direkt vor den Toren Hamburgs, bietet eine Vielzahl an wunderschönen Wanderwegen für Naturliebhaber. Die abwechslungsreiche Landschaft umfasst Moore, dichte Wälder, historische Stätten und idyllische Flusstäler.  == Stellmoor-Ahrensburger Tunneltal == Das Naturschutzgebiet Stellmoor-Ahrensburger Tunneltal ist eines der wichtigsten und schönsten Wandergebiete der Region. Es reicht von Ahrensburg bis nach Rahlstedt und bestic…“</comment>
+      <origin>100</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="2425" sha1="fg1srjnbnm1hug5ha48k3z1c97o7sjt" xml:space="preserve">Die Region um Ahrensburg, direkt vor den Toren Hamburgs, bietet eine Vielzahl an wunderschönen Wanderwegen für Naturliebhaber. Die abwechslungsreiche Landschaft umfasst Moore, dichte Wälder, historische Stätten und idyllische Flusstäler.
+
+== Stellmoor-Ahrensburger Tunneltal ==
+Das Naturschutzgebiet Stellmoor-Ahrensburger Tunneltal ist eines der wichtigsten und schönsten Wandergebiete der Region. Es reicht von Ahrensburg bis nach Rahlstedt und besticht durch seine eiszeitlich geprägte Landschaft. 
+* '''Eigenschaften''': Feuchtwiesen, lichte Wälder und Trockenrasen.
+* '''Highlights''': Alfred-Rust-Wanderweg, eine besonders vielfältige Tier- und Pflanzenwelt.
+* '''Routentipp''': Eine leichte, familienfreundliche Rundtour (ca. 9 km), die in rund 2 Stunden gut bewältigt werden kann. Eine etwas längere Etappe (ca. 17 km) startet in Großhansdorf, führt durch das Stellmoor und endet majestätisch am ehrwürdigen Ahrensburger Schloss.
+
+== Stormarnweg ==
+Für Ausdauernde bietet sich der Stormarnweg an. Dieser regionale Fernwanderweg erstreckt sich über ca. 90 Kilometer durch den gesamten Kreis Stormarn und kann in mehreren angenehmen Etappen gewandert werden.
+* '''Eigenschaften''': Kulturell reiche Landschaft, abwechslungsreiche Wegeführung.
+* '''Highlights''': Gut ausgeschilderte Wege, vorbei an historischen Gutshöfen, klaren Seen und durch dichte Waldgebiete.
+* '''Etappen bei Ahrensburg''': Ideal für Tagesausflüge, bei denen sich Naturerlebnis und Kultur (z.B. Besichtigung des Schloss Ahrensburg) perfekt verbinden lassen.
+
+== Moorwanderweg (Ahrensburg West) ==
+Ein besonders mystisches Erlebnis bietet der Moorwanderweg nahe Ahrensburg West.
+* '''Eigenschaften''': Sumpfige Moorlandschaft, rustikale Holzbohlenwege und Schwimmbrücken.
+* '''Highlights''': Der Pfad führt zu einem historischen, frühmittelalterlichen Burgwall, der von uralten Buchen und Eichen imposant umgeben ist. Ein absolutes Muss für geschichtsinteressierte Naturfreunde.
+
+== Beimoorwald und Umgebung ==
+Zahlreiche kleinere und größere Routen durchziehen den Beimoorwald sowie die angrenzenden Naturschutzgebiete wie den bekannten Duvenstedter Brook.
+* '''Eigenschaften''': Ausgedehnte, friedliche Waldgebiete, oft direkt vernetzt mit den Randgebieten von Hamburg.
+* '''Highlights''': Herrliche Ruhe abseits des Stadtlärms, bestens geeignet für entspannte Spaziergänge, Jogging oder sportliches Nordic Walking.</text>
+      <sha1>fg1srjnbnm1hug5ha48k3z1c97o7sjt</sha1>
+    </revision>
+  </page>
+  <page>
+    <title>Blog:10.03.2026 Zuckersucht und Suchtverlagerung</title>
+    <ns>3002</ns>
+    <id>47</id>
+    <revision>
+      <id>101</id>
+      <timestamp>2026-03-10T19:51:09Z</timestamp>
+      <contributor>
+        <username>Thorsten</username>
+        <id>2</id>
+      </contributor>
+      <comment>Die Seite wurde neu angelegt: „ Herzlichen Glückwunsch zu Ihrem großartigen Erfolg! Das Rauchen und den Alkohol im Jahr 2006 aufzugeben, ist eine enorme Leistung, die viel Willenskraft erfordert. Dass sich danach eine '''Zuckersucht''' (oder der Drang nach süßen Limonaden/Brausen) entwickelt hat, ist ein bekanntes Phänomen, das als '''Suchtverlagerung''' bezeichnet wird.  == Wie der Körper lernt und Suchtverhalten ändert ==  Unser Gehirn verfügt über ein sogenanntes '''Belohnu…“</comment>
+      <origin>101</origin>
+      <model>wikitext</model>
+      <format>text/x-wiki</format>
+      <text bytes="4296" sha1="atlq3kiwygt6gm643rfd7pmcqycckhl" xml:space="preserve">
+Herzlichen Glückwunsch zu Ihrem großartigen Erfolg! Das Rauchen und den Alkohol im Jahr 2006 aufzugeben, ist eine enorme Leistung, die viel Willenskraft erfordert. Dass sich danach eine '''Zuckersucht''' (oder der Drang nach süßen Limonaden/Brausen) entwickelt hat, ist ein bekanntes Phänomen, das als '''Suchtverlagerung''' bezeichnet wird.
+
+== Wie der Körper lernt und Suchtverhalten ändert ==
+
+Unser Gehirn verfügt über ein sogenanntes '''Belohnungszentrum''', das stark auf den Botenstoff [[Dopamin]] reagiert. 
+* '''Suchtgedächtnis:''' Durch Alkohol und Nikotin wurde dieses System früher stark stimuliert. Als diese Reize wegfielen, suchte das Gehirn nach einem neuen Weg, um schnelle "Glücksgefühle" (Dopamin-Ausschüttungen) zu erzeugen. Zucker und stark verarbeitete Kohlenhydrate erfüllen genau diesen Zweck.
+* '''Neuroplastizität:''' Die gute Nachricht ist, dass unser Körper und Gehirn lernfähig sind (Neuroplastizität). Genauso wie sich das Gehirn an Zucker gewöhnt hat, kann es auch umtrainiert werden, um Freude und Befriedigung aus gesünderen Quellen zu ziehen.
+* '''Gewohnheitsschleifen durchbrechen:''' Um Suchtverhalten zu ändern, muss der Auslöser (z.B. Stress, Müdigkeit) identifiziert und mit einer neuen, gesunden Routine (z.B. ein kurzes Workout, ein Glas Wasser trinken) verknüpft werden.
+
+== Tipps gegen akute Zuckersucht ==
+
+Wenn Sie stark zuckersüchtig sind, helfen folgende Notfall-Tipps, um Heißhungerattacken zu überstehen:
+
+# '''Bitterstoffe nutzen:''' Bitterstoffe dämpfen das Verlangen nach Süßem fast augenblicklich. Probieren Sie bitteren Tee (z.B. Wermut, Löwenzahn) oder kauen Sie auf einem Stück Ingwer oder dunkle Schokolade (über 85 % Kakao).
+# '''Zähneputzen:''' Der minzige Geschmack von Zahnpasta signalisiert dem Gehirn, dass die Mahlzeit beendet ist, und verdirbt den Geschmack von Süßigkeiten.
+# '''Trinken, trinken, trinken:''' Oft verwechselt der Körper Durst mit Hunger. Ein großes Glas stilles Wasser oder ungesüßter Kräutertee kann den Drang mindern.
+# '''Ablenkung (Die 15-Minuten-Regel):''' Heißhunger kommt in Wellen. Sagen Sie sich: "Ich darf den Zucker essen, aber erst in 15 Minuten." Lenken Sie sich in dieser Zeit ab (Spazieren gehen, jemanden anrufen, aufräumen). Meistens vergeht der Drang in dieser Zeit.
+
+== Langfristige Vorbeugung und Ernährungsumstellung ==
+
+Um der Zuckersucht langfristig vorzubeugen und den Körper umzuprogrammieren, ist eine [[Ernährungsumstellung]] entscheidend:
+
+=== 1. Blutzuckerspiegel stabilisieren ===
+Ein schwankender Blutzuckerspiegel ist der Hauptauslöser für Heißhunger.
+* '''Proteinreich frühstücken:''' Starten Sie den Tag mit Eiern, Quark oder ungesüßtem Joghurt mit Nüssen. Das hält lange satt.
+* '''Komplexe Kohlenhydrate:''' Ersetzen Sie Weißmehl und Zucker durch Vollkornprodukte, Hülsenfrüchte und Gemüse. Diese lassen den Blutzucker nur langsam ansteigen und verhindern Heißhunger-Tiefs.
+* '''Ausreichend gesunde Fette:''' Avocados, Nüsse, Samen und Olivenöl helfen, das Sättigungsgefühl zu verlängern.
+
+=== 2. Versteckten Zucker meiden ===
+Lernen Sie, Zutatenlisten beim Einkaufen genau zu lesen. Zucker versteckt sich oft unter vielen Namen:
+* Saccharose, Dextrose, Glukose, Fruktosesirup, Maltodextrin oder Süßmolkenpulver.
+* Kochen Sie möglichst mit frischen, unverarbeiteten Zutaten und meiden Sie Fertigprodukte.
+
+=== 3. Das Umfeld anpassen (Clean Environment) ===
+* '''Nichts einkaufen:''' Was nicht im Haus ist, kann auch nicht in einem schwachen Moment gegessen werden. Räumen Sie Ihre Vorratsschränke rigoros aus.
+* '''Gesunde Alternativen für Brause/Limonaden:''' Wenn Sie brausesüchtig sind, weichen Sie auf Mineralwasser mit frischer Zitrone, Minze, Gurkenscheiben oder zuckerfreie, kalte Früchtetees aus.
+
+== Fazit ==
+
+Ihr Körper hat bereits bewiesen, dass er in der Lage ist, schwere Süchte (wie Alkohol und Nikotin) zu überwinden. Diese mentale Stärke besitzen Sie nach wie vor! Der Weg aus der Zuckersucht erfordert anfangs Disziplin, doch der Körper passt sich schnell an (meist dauern die Entzugserscheinungen nur wenige Tage bis 2 Wochen). Bereits nach kurzer Zeit zuckerarmer Ernährung wird Ihr Geschmackssinn wieder feiner und das starke Verlangen nach extrem Süßem lässt deutlich nach.</text>
+      <sha1>atlq3kiwygt6gm643rfd7pmcqycckhl</sha1>
+    </revision>
+  </page>
 </mediawiki>
