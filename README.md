@@ -11,6 +11,6 @@ gh repo clone thorstenkloehn/Download  # oder
 git clone https://github.com/thorstenkloehn/Download.git
 sudo rm sicherung.xml
 ssh hhhh@wissen-ahrensburg.de "cd /var/www/ahrensburgcity && sudo ./backup export /root/sicherung.xml --full"
-scp jjjjj@wissen-ahrensburg.de:/root/sicherung.xml /home/thorsten/Downloads/sicherung.xml
+scp jjjjj@wissen-ahrensburg.de:/root/sicherung.xml /home/thorsten/Download/sicherung.xml
 ```
 
